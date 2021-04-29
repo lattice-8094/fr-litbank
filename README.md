@@ -3,6 +3,9 @@
 
 We use a subset of the files from [Democrat](https://www.ortolang.fr/market/corpora/democrat/) project to provide a corpus of french litterature from the XIX and XX centuries. The files are annotated following the [LitBank](https://github.com/dbamman/litbank) guidelines.
 
+
+## Corpus
+
 |Date|Author|Title|
 |---|---|---|
 |1841|George Sand|Pauline|
