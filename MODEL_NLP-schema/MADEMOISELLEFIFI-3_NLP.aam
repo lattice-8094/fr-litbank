@@ -3,23 +3,6 @@
 <units>
 <type name="MENTION">
 <featureSet>
-<feature name="UNIT REF">
-<possibleValues default = "">
-<value>None</value>
-<value>OTHER</value>
-<value>NO_PER</value>
-<value>LOC</value>
-<value>ORG</value>
-<value>VEH</value>
-<value>METALEPSE</value>
-<value>FAC</value>
-<value>TIME</value>
-<value>PER</value>
-<value>GPE</value>
-<value>TO_DISCUSS</value>
-<value>EVENT</value>
-</possibleValues>
-</feature>
 <feature name="REF">
 <possibleValues default = "">
 <value>HectoretFemme</value>
@@ -1661,6 +1644,23 @@
 <schemas>
 <type name="CHAINE">
 <featureSet>
+<feature name="TYPE REFERENT">
+<possibleValues default = "">
+<value>None</value>
+<value>OTHER</value>
+<value>NO_PER</value>
+<value>LOC</value>
+<value>ORG</value>
+<value>VEH</value>
+<value>METALEPSE</value>
+<value>FAC</value>
+<value>TIME</value>
+<value>PER</value>
+<value>GPE</value>
+<value>TO_DISCUSS</value>
+<value>EVENT</value>
+</possibleValues>
+</feature>
 <feature name="NB MAILLONS">
 <possibleValues default = "">
 <value>22</value>
@@ -1693,23 +1693,6 @@
 <value>8</value>
 <value>9</value>
 <value>42</value>
-</possibleValues>
-</feature>
-<feature name="UNIT REF">
-<possibleValues default = "">
-<value>None</value>
-<value>OTHER</value>
-<value>NO_PER</value>
-<value>LOC</value>
-<value>ORG</value>
-<value>VEH</value>
-<value>METALEPSE</value>
-<value>FAC</value>
-<value>TIME</value>
-<value>PER</value>
-<value>GPE</value>
-<value>TO_DISCUSS</value>
-<value>EVENT</value>
 </possibleValues>
 </feature>
 <feature name="REF">
