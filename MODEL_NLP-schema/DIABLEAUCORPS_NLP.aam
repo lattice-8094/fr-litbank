@@ -1,0 +1,2346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotationModel>
+<units>
+<type name="MENTION">
+<featureSet>
+<feature name="UNIT REF">
+<possibleValues default = "">
+<value>None</value>
+<value>OTHER</value>
+<value>NO_PER</value>
+<value>LOC</value>
+<value>ORG</value>
+<value>VEH</value>
+<value>METALEPSE</value>
+<value>FAC</value>
+<value>TIME</value>
+<value>PER</value>
+<value>GPE</value>
+<value>TO_DISCUSS</value>
+<value>EVENT</value>
+</possibleValues>
+</feature>
+<feature name="REF">
+<possibleValues default = "">
+<value>&quot;nous&quot; flou incluant le narrateur</value>
+<value>le pas du narrateur</value>
+<value>le mensonge du téléphone</value>
+<value>Jacques</value>
+<value>la table</value>
+<value>peu de chose</value>
+<value>le train de Marthe</value>
+<value>le livre Une saison en enfer</value>
+<value>la voix de la bonne des Maréchaud</value>
+<value>la pièce du dramaturge</value>
+<value>la chance que le narrateur et Marthe ne soient pas seuls</value>
+<value>Marthe + le narrateur</value>
+<value>les goûts de Marthe en littérature</value>
+<value>une amie de la tante du narrateur</value>
+<value>de la peine</value>
+<value>les fleurs qui poussent dans les prairies traversées par le narrateur, son père et ses frères</value>
+<value>les compliments de Mme Grangier au narrateur</value>
+<value>le bonheur</value>
+<value>le bon plaisir de Marthe</value>
+<value>la douceur</value>
+<value>un jouet qui se donne lui même</value>
+<value>le silence du narrateur 2</value>
+<value>le lendemain, le jeudi</value>
+<value>les élèves de la classe du narrateur</value>
+<value>l&apos;orage</value>
+<value>un homme qui pose une cartouche de dynamite</value>
+<value>le chien de Maréchaud</value>
+<value>la preuve de l&apos;amour du narrateur pour Marthe</value>
+<value>la tête du narrateur</value>
+<value>l&apos;âge</value>
+<value>un bar américain</value>
+<value>un homme qui aimait Marthe</value>
+<value>un détail du cru de Marthe</value>
+<value>un lapin</value>
+<value>la sensualité</value>
+<value>le chauffeur du taxi de Marthe et du narrateur</value>
+<value>celui qui n&apos;aime pas</value>
+<value>l&apos;incendie</value>
+<value>la façon dont Marthe aimait Baudelaire</value>
+<value>les vieux livres de la famille du narrateur</value>
+<value>le fait que le narrateur dise à Marthe qu&apos;il travaille souvent à l&apos;Académie</value>
+<value>le train à la gare de Sucy</value>
+<value>le moment où le narrateur devrait se déshabiller</value>
+<value>des élèves</value>
+<value>l&apos;exposition de charité dont la mère du narrateur était présidente</value>
+<value>l&apos;égoïsme des enfants</value>
+<value>les feux de Bengale</value>
+<value>personne (général)</value>
+<value>les Grangier + leur fils</value>
+<value>l&apos;endroit où l&apos;eau commence</value>
+<value>la façon qui convenait au narrateur</value>
+<value>la journée de shopping de Marthe</value>
+<value>Carmen</value>
+<value>l&apos;école</value>
+<value>la collection du journal Le Mot et Une saison en enfer</value>
+<value>le renvoi de René du lycée</value>
+<value>un souvenir</value>
+<value>les parents de Jacques</value>
+<value>Mlle Fauvette</value>
+<value>la domestique des Grangier</value>
+<value>narrateur + la jeune personne qui l&apos;accompagnait</value>
+<value>l&apos;épouse d&apos;un adversaire de Maréchaud</value>
+<value>F...</value>
+<value>la grille de la maison des Maréchaud</value>
+<value>un madrigal</value>
+<value>&quot;nous&quot; générique</value>
+<value>la raison</value>
+<value>la Marne</value>
+<value>la liberté</value>
+<value>la femme à la fenêtre qui regarde le narrateur</value>
+<value>le père de l&apos;enfant qui a reçu le prix d&apos;excellence</value>
+<value>une sorte</value>
+<value>la demande de René d&apos;étudier le grec</value>
+<value>la Seine</value>
+<value>SI</value>
+<value>le feu chez Marthe</value>
+<value>les petites filles</value>
+<value>le toit de la maison des Maréchaud</value>
+<value>l&apos;effronterie et la timidité du narrateur</value>
+<value>le spectacle de la bonne des Maréchaud</value>
+<value>la clef de l&apos;appartement de Marthe donnée au narrateur</value>
+<value>la gare de la Bastille</value>
+<value>narrateur + son frère</value>
+<value>la fenêtre des parents du narrateur</value>
+<value>narrateur + son ami René</value>
+<value>les endroits où la peau de Marthe était nue</value>
+<value>le loup pris</value>
+<value>Les Fleurs du mal</value>
+<value>la foule</value>
+<value>le silence du narrateur avec Marthe</value>
+<value>le papier des murs de notre chambe</value>
+<value>l&apos;aiguille qui dépasse</value>
+<value>la petite pièce de la maison de Marthe où on avait introduit le narrateur</value>
+<value>un autre garçon dans le narrateur</value>
+<value>la peur du narrateur</value>
+<value>un des pompiers de la milice</value>
+<value>les seins de Marthe</value>
+<value>le grec</value>
+<value>des moyens de correspondre</value>
+<value>les dessins imprimés sur la peau de Marthe par le cannage</value>
+<value>les palpitations de coeur du narrateur</value>
+<value>Marthe</value>
+<value>les Grangier + le père du narrateur</value>
+<value>le spectateur qui ne veut pas s&apos;en aller</value>
+<value>un mariage de raison</value>
+<value>narrateur + ses camarades de l&apos;année prochaine</value>
+<value>la chambre de Marthe</value>
+<value>le bureau du directeur</value>
+<value>une fleur que le frère de Marthe venait de cueillir</value>
+<value>l&apos;heure du départ du narrateur</value>
+<value>les goûts de Marthe</value>
+<value>des gens</value>
+<value>fille</value>
+<value>fille capitaine corsaire</value>
+<value>quelques leçons apprises par Chloé</value>
+<value>l&apos;épisode de la bonne des Maréchaud</value>
+<value>l&apos;année scolaire</value>
+<value>le nom Messager</value>
+<value>le mur de chez le narrateur</value>
+<value>le Morbas</value>
+<value>le journal Le Mot</value>
+<value>la cheminée de Marthe</value>
+<value>un conseiller municipal adversaire de M. Maréchaud</value>
+<value>les frères et les soeurs du narrateur</value>
+<value>l&apos;entourage du narrateur</value>
+<value>un chat</value>
+<value>une lettre d&apos;absence</value>
+<value>droit sur Marthe</value>
+<value>une douceur</value>
+<value>les devoirs abandonnés</value>
+<value>un autre que le narrateur</value>
+<value>la lettre d&apos;amour du narrateur à Carmen</value>
+<value>une promenade</value>
+<value>le barman</value>
+<value>les choses dites par la folle</value>
+<value>mardi soir</value>
+<value>les meubles de la chambre de Marthe</value>
+<value>les vitres du rez-de-chaussée de droite</value>
+<value>un titre ( = &quot;Une saison en enfer&quot;?)</value>
+<value>la bouche de Marthe</value>
+<value>la chose qui ferait le plus de peine au père du narrateur</value>
+<value>la raison d&apos;admettre les meubles</value>
+<value>le frère de Marthe</value>
+<value>les tuiles du mur de chez le narrateur</value>
+<value>un garçon</value>
+<value>les Grangier</value>
+<value>les rares passants</value>
+<value>&quot;on&quot; flou incluant le narrateur</value>
+<value>Chloé</value>
+<value>la route que le narrateur et René avaient à faire</value>
+<value>une nuit</value>
+<value>la guerre</value>
+<value>les frères du narrateur</value>
+<value>tout raconter à son père pour le narrateur</value>
+<value>une lettre</value>
+<value>les parents du narrateur</value>
+<value>une aventure</value>
+<value>un calembour</value>
+<value>la lettre du censeur</value>
+<value>les aquarelles de Marthe</value>
+<value>olivier</value>
+<value>le travail de chaque jour du narrateur</value>
+<value>narrateur + ses frères</value>
+<value>un inconnu</value>
+<value>tout ce que le narrateur avait convoité</value>
+<value>la lumière du feu</value>
+<value>le perron de chez Marthe</value>
+<value>les campanules</value>
+<value>quelqu&apos;un qui ne dort pas</value>
+<value>la jeune bonne des Maréchaud</value>
+<value>un costume de nuit</value>
+<value>un fruit que l&apos;on goûte pour la première fois</value>
+<value>à ce moment là</value>
+<value>un dramaturge</value>
+<value>les parents de René</value>
+<value>le rose</value>
+<value>le seul ami</value>
+<value>timidité</value>
+<value>le besoin de mal au coeur des enfants</value>
+<value>les bottines du narrateur</value>
+<value>la salle de classe du narrateur</value>
+<value>la couronne d&apos;or</value>
+<value>celui qui aime</value>
+<value>un tout, que Marthe comprenait mal</value>
+<value>l&apos;aimant</value>
+<value>le contraire de ce qui plaisait à Marthe</value>
+<value>les premières incartades du narrateur</value>
+<value>le chat</value>
+<value>l&apos;histoire de la lettre du narrateur</value>
+<value>l&apos;oeuvre Don Juan</value>
+<value>les lèvres du narrateur</value>
+<value>la profonde mélancolie résignée de la jeune bonne des Maréchaud</value>
+<value>les jours où Marthe n&apos;accompagnait pas le narrateur à Paris</value>
+<value>le moment où le narrateur et sa famille allaient fuir</value>
+<value>les personnes qui en veulent au narrateur</value>
+<value>un bureau de poste</value>
+<value>la sonnette de chez Marthe</value>
+<value>la façon dont était coiffé le narrateur</value>
+<value>la maison de la famille du narrateur</value>
+<value>le collège</value>
+<value>narrateur</value>
+<value>Maréchaud</value>
+<value>un drame</value>
+<value>ces enfantillages</value>
+<value>un chien</value>
+<value>une jeune personne qui accompagne le narrateur</value>
+<value>Madame Grangier</value>
+<value>le devoir de Marthe</value>
+<value>les classes</value>
+<value>les larmes qui bourdonnent dans la tête du narrateur</value>
+<value>les maîtres du chat</value>
+<value>la mer</value>
+<value>les vraies vacances</value>
+<value>jamais</value>
+<value>la première fois que le narrateur arrivait une demie heure en retard au dîner</value>
+<value>Baudelaire</value>
+<value>la plupart des choses que Marthe disait</value>
+<value>raison de céder</value>
+<value>l&apos;amour du narrateur pour Marthe</value>
+<value>le facteur</value>
+<value>le seul endroit avec des buissons et où on pouvait cacher le panier</value>
+<value>la cloche de verre</value>
+<value>les écoliers</value>
+<value>argent</value>
+<value>La Varenne</value>
+<value>le bateau du père du narrateur</value>
+<value>quelques  mois avant la déclaration de la guerre</value>
+<value>la petite chambre qui servait de salon à Marthe</value>
+<value>un travail</value>
+<value>&quot;on&quot; générique</value>
+<value>le coup de grâce</value>
+<value>la Bourse aux timbres</value>
+<value>Henri IV</value>
+<value>le cou de Marthe</value>
+<value>l&apos;amour en général</value>
+<value>le fait que les parents du narrateur condamnaient plutôt la camaraderie mixte</value>
+<value>la collection du journal Le Mot</value>
+<value>aider Marthe à choisir ses meubles</value>
+<value>les soeurs du narrateur</value>
+<value>les voyous les plus hardis</value>
+<value>la véritable peine du narrateur</value>
+<value>les charmes de la liberté</value>
+<value>la distribution de prix à l&apos;école</value>
+<value>Marthe + Jacques</value>
+<value>la feuille de papier à lettre dérobée par le narrateur</value>
+<value>la clef qu&apos;ils laissaient toujours dans la boîte aux lettres</value>
+<value>un homme</value>
+<value>la pluie 2</value>
+<value>le seul amour digne du narrateur</value>
+<value>le panier préparé par la mère du narrateur</value>
+<value>Ormesson</value>
+<value>&quot;on&quot; flou incluant la foule</value>
+<value>le lit de Marthe</value>
+<value>les aubépines</value>
+<value>une chose</value>
+<value>les polissonneries du jeudi</value>
+<value>l&apos;école buissonnière du narrateur avec Marthe</value>
+<value>la pluie</value>
+<value>une fille de dix-neuf ans</value>
+<value>les paniers des soeurs du narrateur</value>
+<value>douze ans</value>
+<value>l&apos;amour du narrateur pour Carmen</value>
+<value>neuf heures</value>
+<value>au bord de la Marne</value>
+<value>la tuile tombée du mur de chez le narrateur</value>
+<value>le professeur du narrateur</value>
+<value>les fleurs stylisées</value>
+<value>le bateau de la fille capitaine corsaire</value>
+<value>les pompiers d&apos;une petite ville en général</value>
+<value>le mensonge du directeur au père du narrateur</value>
+<value>l&apos;homme que Marthe pense être Jacques</value>
+<value>les enfants</value>
+<value>la cloche cassée</value>
+<value>la retraite aux flambeaux</value>
+<value>la mère du narrateur</value>
+<value>le petit frère du narrateur</value>
+<value>les petites filles fournies innocemment par les parents de René</value>
+<value>les paroles de Marthe au narrateur à propos de sa classe</value>
+<value>le proviseur du collège</value>
+<value>dix minutes</value>
+<value>la maison des Maréchaud</value>
+<value>l&apos;endroit où est Marthe</value>
+<value>un lycéen</value>
+<value>quelque chose venu de l&apos;extérieur</value>
+<value>les passions</value>
+<value>les lèvres de Marthe</value>
+<value>la maîtresse du narrateur</value>
+<value>le rêve triste de Marthe</value>
+<value>le vide sentimental du narrateur</value>
+<value>les gens qui se connaissent à peine, après avoir échappé à un nauffrage</value>
+<value>la chambre où le père du narrateur était étendu</value>
+<value>le peignoir offert par Marthe</value>
+<value>la réponse de Marthe</value>
+<value>la gare de la Varenne</value>
+<value>huit jours</value>
+<value>le petit frère du narrateur + Mlle Fauvette</value>
+<value>les cheveux, le cou, les joues brûlantes de Marthe</value>
+<value>l&apos;invitation de Marthe</value>
+<value>les mains de Marthe</value>
+<value>l&apos;esprit du narrateur</value>
+<value>la mélancolie que l&apos;on éprouve pour ce qui aurait pu être</value>
+<value>le trajet qui sépare Henri IV de la gare de la Bastille</value>
+<value>le travail scolaire</value>
+<value>la décision du père du narrateur de le faire quitter l&apos;école à la fin de son année scolaire</value>
+<value>narrateur + son père + ses frères</value>
+<value>le soir du dîner de Marthe chez ses futurs beaux parents</value>
+<value>du vin rouge</value>
+<value>les journées libres</value>
+<value>les volumes de la lecture à haute voix pris par le narrateur</value>
+<value>des lettres envoyées par Jacques</value>
+<value>le directeur</value>
+<value>le laitier, le pâtissier et le serrurier</value>
+<value>Daphnis</value>
+<value>des prairies</value>
+<value>de l&apos;amour</value>
+<value>les guirlandes lumineuses du jardin</value>
+<value>les meubles simples choisis</value>
+<value>les autres</value>
+<value>de bonnes excuses</value>
+<value>&quot;on&quot; flou</value>
+<value>le printemps</value>
+<value>le père du narrateur</value>
+<value>quelqu&apos;un qui secoue ses rêves</value>
+<value>Chennevières</value>
+<value>un autre meuble</value>
+<value>la famille du narrateur</value>
+<value>la maison de Marthe</value>
+<value>les livres de la Bibliothèque rose</value>
+<value>le même charme</value>
+<value>l&apos;arrivée de Jacques</value>
+<value>les larmes du narrateur</value>
+<value>les tuiles du toit des Maréchaud</value>
+<value>la plupart des choses que Marthe trouvait belles</value>
+<value>l&apos;étoffe rose</value>
+<value>J...</value>
+<value>la vieille femme qui ouvrit la porte</value>
+<value>la lettre que le directeur tenait à la main</value>
+<value>les pompiers de la milice mystérieuse</value>
+<value>les élèves des premiers bancs de la classe du narrateur</value>
+<value>le jour du rendez-vous du narrateur avec Marthe</value>
+<value>le bouchon de liège</value>
+<value>les fiançailles de Marthe et Jacques</value>
+<value>le nom Don Juan</value>
+<value>des tuiles</value>
+<value>les bras de Marthe</value>
+<value>un pas tranquille</value>
+<value>les camarades du narrateur</value>
+<value>les marches du perron de chez Marthe</value>
+<value>les rides du front de Mme Grangier</value>
+<value>l&apos;heure où le père du narrateur avait coutume d&apos;être chez lui</value>
+<value>le fromage</value>
+<value>une vierge</value>
+<value>la Bastille</value>
+<value>quelqu&apos;un qui souffre</value>
+<value>de la grenadine</value>
+<value>le visage de Marthe</value>
+<value>les Maréchaud</value>
+<value>le cou du narrateur</value>
+<value>René</value>
+<value>le chapeau de Marthe</value>
+<value>le mariage de Marthe</value>
+<value>les troubles</value>
+<value>la grâce du barman</value>
+<value>le pied</value>
+<value>la petite soeur du narrateur</value>
+<value>l&apos;enfant qui a donné la lettre à Carmen</value>
+<value>procédé de récupérer la lettre</value>
+<value>les cris de la foule</value>
+<value>les caresses qui ne sont pas la menue monnaie de l&apos;amour</value>
+<value>l&apos;académie de dessin</value>
+<value>l&apos;enfant qui a gagné le prix d&apos;excellence</value>
+<value>la famille du narrateur + le narrateur + la famille Grangier</value>
+<value>des roses rouges</value>
+<value>ce prince charmant</value>
+<value>Monsieur Grangier</value>
+<value>Paris</value>
+</possibleValues>
+</feature>
+</featureSet>
+</type>
+</units>
+<relations>
+</relations>
+<schemas>
+<type name="CHAINE">
+<featureSet>
+<feature name="NB MAILLONS">
+<possibleValues default = "">
+<value>66</value>
+<value>25</value>
+<value>895</value>
+<value>514</value>
+<value>75</value>
+<value>31</value>
+<value>10</value>
+<value>32</value>
+<value>33</value>
+<value>11</value>
+<value>12</value>
+<value>16</value>
+<value>17</value>
+<value>18</value>
+<value>19</value>
+<value>1</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+<value>5</value>
+<value>6</value>
+<value>7</value>
+<value>8</value>
+<value>9</value>
+<value>20</value>
+<value>42</value>
+</possibleValues>
+</feature>
+<feature name="UNIT REF">
+<possibleValues default = "">
+<value>None</value>
+<value>OTHER</value>
+<value>NO_PER</value>
+<value>LOC</value>
+<value>ORG</value>
+<value>VEH</value>
+<value>METALEPSE</value>
+<value>FAC</value>
+<value>TIME</value>
+<value>PER</value>
+<value>GPE</value>
+<value>TO_DISCUSS</value>
+<value>EVENT</value>
+</possibleValues>
+</feature>
+<feature name="REF">
+<possibleValues default = "">
+<value>SI_1110</value>
+<value>SI_1111</value>
+<value>SI_1112</value>
+<value>SI_1113</value>
+<value>SI_1114</value>
+<value>SI_1115</value>
+<value>SI_1116</value>
+<value>SI_1117</value>
+<value>le livre Une saison en enfer</value>
+<value>la voix de la bonne des Maréchaud</value>
+<value>les compliments de Mme Grangier au narrateur</value>
+<value>SI_1118</value>
+<value>SI_1119</value>
+<value>SI_1121</value>
+<value>la preuve de l&apos;amour du narrateur pour Marthe</value>
+<value>SI_1122</value>
+<value>SI_1123</value>
+<value>SI_1124</value>
+<value>SI_1125</value>
+<value>SI_1126</value>
+<value>SI_1127</value>
+<value>SI_1128</value>
+<value>SI_1120</value>
+<value>SI_1129</value>
+<value>les Grangier + leur fils</value>
+<value>SI_1132</value>
+<value>SI_1133</value>
+<value>SI_1134</value>
+<value>SI_1135</value>
+<value>la collection du journal Le Mot et Une saison en enfer</value>
+<value>SI_1136</value>
+<value>SI_1137</value>
+<value>SI_1138</value>
+<value>SI_1139</value>
+<value>la Marne</value>
+<value>SI_1130</value>
+<value>SI_1131</value>
+<value>la clef de l&apos;appartement de Marthe donnée au narrateur</value>
+<value>narrateur + son frère</value>
+<value>SI_1143</value>
+<value>SI_1144</value>
+<value>SI_1145</value>
+<value>SI_1146</value>
+<value>SI_1147</value>
+<value>SI_1148</value>
+<value>narrateur + son ami René</value>
+<value>SI_1149</value>
+<value>SI_1140</value>
+<value>SI_1141</value>
+<value>SI_1142</value>
+<value>l&apos;aiguille qui dépasse</value>
+<value>narrateur + ses camarades de l&apos;année prochaine</value>
+<value>le bureau du directeur</value>
+<value>SI_281</value>
+<value>SI_282</value>
+<value>SI_280</value>
+<value>SI_285</value>
+<value>SI_286</value>
+<value>SI_283</value>
+<value>SI_284</value>
+<value>SI_289</value>
+<value>SI_287</value>
+<value>SI_288</value>
+<value>les meubles de la chambre de Marthe</value>
+<value>SI_292</value>
+<value>SI_293</value>
+<value>SI_290</value>
+<value>SI_291</value>
+<value>SI_296</value>
+<value>SI_297</value>
+<value>SI_294</value>
+<value>SI_295</value>
+<value>SI_298</value>
+<value>SI_299</value>
+<value>une nuit</value>
+<value>SI_260</value>
+<value>SI_263</value>
+<value>SI_264</value>
+<value>un inconnu</value>
+<value>SI_261</value>
+<value>SI_262</value>
+<value>SI_267</value>
+<value>les campanules</value>
+<value>SI_268</value>
+<value>SI_265</value>
+<value>SI_266</value>
+<value>SI_269</value>
+<value>SI_1100</value>
+<value>SI_1101</value>
+<value>SI_1102</value>
+<value>SI_1103</value>
+<value>SI_1104</value>
+<value>SI_1105</value>
+<value>SI_1106</value>
+<value>SI_270</value>
+<value>SI_271</value>
+<value>SI_274</value>
+<value>SI_275</value>
+<value>SI_272</value>
+<value>SI_273</value>
+<value>SI_1107</value>
+<value>SI_278</value>
+<value>les lèvres du narrateur</value>
+<value>SI_279</value>
+<value>SI_1108</value>
+<value>SI_276</value>
+<value>SI_1109</value>
+<value>SI_277</value>
+<value>SI_1198</value>
+<value>SI_1199</value>
+<value>SI_1190</value>
+<value>narrateur</value>
+<value>SI_1191</value>
+<value>Maréchaud</value>
+<value>SI_1192</value>
+<value>SI_1193</value>
+<value>SI_1194</value>
+<value>SI_1195</value>
+<value>SI_1196</value>
+<value>SI_1197</value>
+<value>un chien</value>
+<value>le devoir de Marthe</value>
+<value>SI_241</value>
+<value>SI_242</value>
+<value>SI_240</value>
+<value>SI_245</value>
+<value>SI_246</value>
+<value>SI_243</value>
+<value>SI_244</value>
+<value>SI_249</value>
+<value>la mer</value>
+<value>SI_247</value>
+<value>SI_248</value>
+<value>quelques  mois avant la déclaration de la guerre</value>
+<value>un travail</value>
+<value>le coup de grâce</value>
+<value>SI_252</value>
+<value>SI_253</value>
+<value>SI_250</value>
+<value>SI_251</value>
+<value>SI_256</value>
+<value>SI_257</value>
+<value>SI_254</value>
+<value>SI_255</value>
+<value>SI_258</value>
+<value>SI_259</value>
+<value>SI_229</value>
+<value>SI_220</value>
+<value>SI_223</value>
+<value>la pluie</value>
+<value>SI_224</value>
+<value>SI_221</value>
+<value>une fille de dix-neuf ans</value>
+<value>SI_222</value>
+<value>SI_227</value>
+<value>SI_228</value>
+<value>SI_225</value>
+<value>SI_226</value>
+<value>le mensonge du directeur au père du narrateur</value>
+<value>les enfants</value>
+<value>les paroles de Marthe au narrateur à propos de sa classe</value>
+<value>SI_230</value>
+<value>SI_231</value>
+<value>SI_234</value>
+<value>SI_235</value>
+<value>SI_232</value>
+<value>SI_233</value>
+<value>SI_238</value>
+<value>SI_239</value>
+<value>SI_236</value>
+<value>SI_237</value>
+<value>SI_209</value>
+<value>SI_1154</value>
+<value>SI_1155</value>
+<value>SI_1156</value>
+<value>SI_207</value>
+<value>SI_208</value>
+<value>SI_1157</value>
+<value>SI_1158</value>
+<value>SI_1159</value>
+<value>SI_1150</value>
+<value>SI_1151</value>
+<value>SI_1152</value>
+<value>SI_1153</value>
+<value>SI_681</value>
+<value>SI_682</value>
+<value>la mélancolie que l&apos;on éprouve pour ce qui aurait pu être</value>
+<value>SI_680</value>
+<value>SI_685</value>
+<value>SI_201</value>
+<value>SI_686</value>
+<value>SI_202</value>
+<value>SI_683</value>
+<value>SI_684</value>
+<value>SI_200</value>
+<value>SI_205</value>
+<value>SI_689</value>
+<value>SI_206</value>
+<value>SI_687</value>
+<value>SI_203</value>
+<value>SI_688</value>
+<value>SI_204</value>
+<value>SI_1165</value>
+<value>SI_1166</value>
+<value>SI_1167</value>
+<value>SI_218</value>
+<value>SI_1168</value>
+<value>SI_219</value>
+<value>SI_1169</value>
+<value>SI_1160</value>
+<value>SI_1161</value>
+<value>SI_1162</value>
+<value>SI_1163</value>
+<value>SI_1164</value>
+<value>SI_692</value>
+<value>SI_693</value>
+<value>SI_690</value>
+<value>SI_691</value>
+<value>SI_212</value>
+<value>SI_696</value>
+<value>SI_213</value>
+<value>SI_697</value>
+<value>SI_210</value>
+<value>SI_694</value>
+<value>SI_695</value>
+<value>SI_211</value>
+<value>SI_216</value>
+<value>SI_217</value>
+<value>SI_214</value>
+<value>SI_698</value>
+<value>SI_215</value>
+<value>SI_699</value>
+<value>SI_1176</value>
+<value>SI_1177</value>
+<value>SI_669</value>
+<value>SI_1178</value>
+<value>SI_1179</value>
+<value>l&apos;arrivée de Jacques</value>
+<value>la vieille femme qui ouvrit la porte</value>
+<value>SI_1170</value>
+<value>SI_1171</value>
+<value>les pompiers de la milice mystérieuse</value>
+<value>SI_1172</value>
+<value>SI_1173</value>
+<value>SI_1174</value>
+<value>SI_1175</value>
+<value>des tuiles</value>
+<value>SI_660</value>
+<value>l&apos;heure où le père du narrateur avait coutume d&apos;être chez lui</value>
+<value>SI_663</value>
+<value>SI_664</value>
+<value>SI_661</value>
+<value>SI_662</value>
+<value>SI_667</value>
+<value>SI_668</value>
+<value>SI_665</value>
+<value>SI_666</value>
+<value>SI_1187</value>
+<value>quelqu&apos;un qui souffre</value>
+<value>SI_1188</value>
+<value>SI_1189</value>
+<value>SI_1180</value>
+<value>SI_1181</value>
+<value>SI_1182</value>
+<value>SI_1183</value>
+<value>SI_1184</value>
+<value>SI_1185</value>
+<value>SI_1186</value>
+<value>procédé de récupérer la lettre</value>
+<value>SI_670</value>
+<value>SI_671</value>
+<value>SI_674</value>
+<value>SI_675</value>
+<value>SI_672</value>
+<value>SI_673</value>
+<value>SI_678</value>
+<value>SI_679</value>
+<value>SI_676</value>
+<value>SI_677</value>
+<value>SI_768</value>
+<value>SI_769</value>
+<value>peu de chose</value>
+<value>Marthe + le narrateur</value>
+<value>SI_762</value>
+<value>le bon plaisir de Marthe</value>
+<value>SI_763</value>
+<value>SI_760</value>
+<value>SI_761</value>
+<value>SI_766</value>
+<value>SI_767</value>
+<value>SI_764</value>
+<value>l&apos;orage</value>
+<value>SI_765</value>
+<value>un bar américain</value>
+<value>SI_779</value>
+<value>SI_770</value>
+<value>SI_773</value>
+<value>SI_774</value>
+<value>SI_771</value>
+<value>SI_772</value>
+<value>SI_777</value>
+<value>SI_778</value>
+<value>SI_775</value>
+<value>SI_776</value>
+<value>SI_748</value>
+<value>SI_749</value>
+<value>SI_746</value>
+<value>l&apos;école</value>
+<value>SI_747</value>
+<value>la liberté</value>
+<value>SI_740</value>
+<value>SI_741</value>
+<value>SI_744</value>
+<value>SI_745</value>
+<value>SI_742</value>
+<value>SI_743</value>
+<value>SI_759</value>
+<value>SI_757</value>
+<value>SI_758</value>
+<value>Les Fleurs du mal</value>
+<value>SI_751</value>
+<value>SI_752</value>
+<value>les seins de Marthe</value>
+<value>SI_750</value>
+<value>SI_755</value>
+<value>SI_756</value>
+<value>SI_753</value>
+<value>SI_754</value>
+<value>SI_726</value>
+<value>SI_727</value>
+<value>SI_724</value>
+<value>SI_725</value>
+<value>les Grangier + le père du narrateur</value>
+<value>un mariage de raison</value>
+<value>SI_728</value>
+<value>SI_729</value>
+<value>quelques leçons apprises par Chloé</value>
+<value>un conseiller municipal adversaire de M. Maréchaud</value>
+<value>SI_722</value>
+<value>SI_723</value>
+<value>SI_720</value>
+<value>SI_721</value>
+<value>SI_737</value>
+<value>SI_738</value>
+<value>SI_735</value>
+<value>SI_736</value>
+<value>SI_739</value>
+<value>une douceur</value>
+<value>SI_730</value>
+<value>SI_733</value>
+<value>SI_734</value>
+<value>SI_731</value>
+<value>SI_732</value>
+<value>SI_704</value>
+<value>Chloé</value>
+<value>SI_705</value>
+<value>SI_702</value>
+<value>SI_703</value>
+<value>SI_708</value>
+<value>SI_709</value>
+<value>SI_706</value>
+<value>SI_707</value>
+<value>la lettre du censeur</value>
+<value>les aquarelles de Marthe</value>
+<value>le perron de chez Marthe</value>
+<value>SI_700</value>
+<value>SI_701</value>
+<value>SI_715</value>
+<value>un dramaturge</value>
+<value>SI_716</value>
+<value>SI_713</value>
+<value>SI_714</value>
+<value>SI_719</value>
+<value>SI_717</value>
+<value>SI_718</value>
+<value>la profonde mélancolie résignée de la jeune bonne des Maréchaud</value>
+<value>SI_711</value>
+<value>SI_712</value>
+<value>SI_710</value>
+<value>la sonnette de chez Marthe</value>
+<value>la première fois que le narrateur arrivait une demie heure en retard au dîner</value>
+<value>le bateau du père du narrateur</value>
+<value>les charmes de la liberté</value>
+<value>le panier préparé par la mère du narrateur</value>
+<value>les aubépines</value>
+<value>le professeur du narrateur</value>
+<value>la retraite aux flambeaux</value>
+<value>le proviseur du collège</value>
+<value>un lycéen</value>
+<value>quelque chose venu de l&apos;extérieur</value>
+<value>les passions</value>
+<value>les lèvres de Marthe</value>
+<value>la chambre où le père du narrateur était étendu</value>
+<value>le peignoir offert par Marthe</value>
+<value>les mains de Marthe</value>
+<value>le travail scolaire</value>
+<value>Daphnis</value>
+<value>le même charme</value>
+<value>le bouchon de liège</value>
+<value>une vierge</value>
+<value>le cou du narrateur</value>
+<value>le chapeau de Marthe</value>
+<value>la famille du narrateur + le narrateur + la famille Grangier</value>
+<value>Monsieur Grangier</value>
+<value>SI_1231</value>
+<value>SI_1232</value>
+<value>SI_1233</value>
+<value>SI_1234</value>
+<value>SI_1235</value>
+<value>SI_1236</value>
+<value>SI_1237</value>
+<value>SI_1238</value>
+<value>SI_1230</value>
+<value>SI_1239</value>
+<value>un jouet qui se donne lui même</value>
+<value>SI_1242</value>
+<value>SI_1243</value>
+<value>l&apos;âge</value>
+<value>SI_1244</value>
+<value>SI_1245</value>
+<value>SI_1246</value>
+<value>SI_1247</value>
+<value>SI_1248</value>
+<value>SI_1249</value>
+<value>SI_1240</value>
+<value>SI_1241</value>
+<value>la façon dont Marthe aimait Baudelaire</value>
+<value>l&apos;égoïsme des enfants</value>
+<value>SI_1253</value>
+<value>SI_1254</value>
+<value>SI_1255</value>
+<value>SI_1256</value>
+<value>un souvenir</value>
+<value>SI_1257</value>
+<value>le renvoi de René du lycée</value>
+<value>SI_1258</value>
+<value>SI_1259</value>
+<value>la domestique des Grangier</value>
+<value>F...</value>
+<value>SI_1250</value>
+<value>SI_1251</value>
+<value>SI_1252</value>
+<value>une sorte</value>
+<value>la demande de René d&apos;étudier le grec</value>
+<value>les petites filles</value>
+<value>SI_1264</value>
+<value>SI_1265</value>
+<value>SI_1266</value>
+<value>la fenêtre des parents du narrateur</value>
+<value>SI_1267</value>
+<value>SI_1268</value>
+<value>SI_1269</value>
+<value>SI_1260</value>
+<value>SI_1261</value>
+<value>SI_1262</value>
+<value>SI_1263</value>
+<value>le silence du narrateur avec Marthe</value>
+<value>le papier des murs de notre chambe</value>
+<value>un des pompiers de la milice</value>
+<value>les goûts de Marthe</value>
+<value>l&apos;heure du départ du narrateur</value>
+<value>le mur de chez le narrateur</value>
+<value>une lettre d&apos;absence</value>
+<value>SI_1200</value>
+<value>SI_1201</value>
+<value>SI_1202</value>
+<value>SI_1203</value>
+<value>SI_1204</value>
+<value>SI_1205</value>
+<value>un autre que le narrateur</value>
+<value>la lettre d&apos;amour du narrateur à Carmen</value>
+<value>SI_1206</value>
+<value>SI_1207</value>
+<value>SI_1208</value>
+<value>SI_1209</value>
+<value>SI_1210</value>
+<value>SI_1211</value>
+<value>SI_1212</value>
+<value>SI_1213</value>
+<value>SI_1214</value>
+<value>SI_1215</value>
+<value>SI_1216</value>
+<value>SI_380</value>
+<value>SI_381</value>
+<value>SI_384</value>
+<value>SI_385</value>
+<value>SI_382</value>
+<value>SI_383</value>
+<value>la lumière du feu</value>
+<value>SI_388</value>
+<value>SI_1217</value>
+<value>SI_1218</value>
+<value>SI_389</value>
+<value>SI_1219</value>
+<value>SI_386</value>
+<value>SI_387</value>
+<value>SI_1220</value>
+<value>SI_1221</value>
+<value>SI_1222</value>
+<value>SI_1223</value>
+<value>SI_1224</value>
+<value>le seul ami</value>
+<value>SI_1225</value>
+<value>SI_1226</value>
+<value>timidité</value>
+<value>SI_1227</value>
+<value>celui qui aime</value>
+<value>SI_391</value>
+<value>SI_392</value>
+<value>SI_390</value>
+<value>SI_395</value>
+<value>SI_396</value>
+<value>SI_393</value>
+<value>SI_394</value>
+<value>SI_399</value>
+<value>SI_1228</value>
+<value>SI_1229</value>
+<value>SI_397</value>
+<value>SI_398</value>
+<value>les personnes qui en veulent au narrateur</value>
+<value>SI_362</value>
+<value>SI_363</value>
+<value>SI_360</value>
+<value>SI_361</value>
+<value>SI_366</value>
+<value>SI_367</value>
+<value>SI_364</value>
+<value>SI_365</value>
+<value>jamais</value>
+<value>SI_368</value>
+<value>SI_369</value>
+<value>le facteur</value>
+<value>SI_370</value>
+<value>SI_373</value>
+<value>SI_374</value>
+<value>le fait que les parents du narrateur condamnaient plutôt la camaraderie mixte</value>
+<value>SI_371</value>
+<value>SI_372</value>
+<value>SI_377</value>
+<value>SI_378</value>
+<value>SI_375</value>
+<value>SI_376</value>
+<value>SI_379</value>
+<value>la distribution de prix à l&apos;école</value>
+<value>un homme</value>
+<value>SI_340</value>
+<value>une chose</value>
+<value>SI_341</value>
+<value>SI_344</value>
+<value>SI_345</value>
+<value>SI_342</value>
+<value>SI_343</value>
+<value>SI_348</value>
+<value>SI_349</value>
+<value>douze ans</value>
+<value>SI_346</value>
+<value>SI_347</value>
+<value>neuf heures</value>
+<value>SI_351</value>
+<value>SI_352</value>
+<value>SI_350</value>
+<value>SI_355</value>
+<value>SI_356</value>
+<value>SI_353</value>
+<value>SI_354</value>
+<value>SI_359</value>
+<value>la maîtresse du narrateur</value>
+<value>SI_357</value>
+<value>le vide sentimental du narrateur</value>
+<value>SI_358</value>
+<value>SI_1275</value>
+<value>SI_1276</value>
+<value>SI_1277</value>
+<value>SI_328</value>
+<value>SI_1278</value>
+<value>SI_329</value>
+<value>SI_1279</value>
+<value>SI_1270</value>
+<value>SI_1271</value>
+<value>SI_1272</value>
+<value>SI_1273</value>
+<value>SI_1274</value>
+<value>le trajet qui sépare Henri IV de la gare de la Bastille</value>
+<value>SI_322</value>
+<value>SI_323</value>
+<value>SI_320</value>
+<value>SI_321</value>
+<value>SI_326</value>
+<value>SI_327</value>
+<value>SI_324</value>
+<value>SI_325</value>
+<value>SI_1286</value>
+<value>SI_1287</value>
+<value>SI_339</value>
+<value>les journées libres</value>
+<value>SI_1288</value>
+<value>SI_1289</value>
+<value>SI_1280</value>
+<value>SI_1281</value>
+<value>SI_1282</value>
+<value>SI_1283</value>
+<value>SI_1284</value>
+<value>SI_1285</value>
+<value>SI_330</value>
+<value>SI_333</value>
+<value>SI_334</value>
+<value>SI_331</value>
+<value>SI_332</value>
+<value>SI_337</value>
+<value>SI_338</value>
+<value>SI_335</value>
+<value>SI_336</value>
+<value>SI_1297</value>
+<value>SI_308</value>
+<value>SI_1298</value>
+<value>SI_309</value>
+<value>SI_1299</value>
+<value>SI_306</value>
+<value>SI_307</value>
+<value>J...</value>
+<value>SI_1290</value>
+<value>SI_1291</value>
+<value>SI_1292</value>
+<value>SI_1293</value>
+<value>SI_1294</value>
+<value>SI_1295</value>
+<value>SI_1296</value>
+<value>le nom Don Juan</value>
+<value>SI_780</value>
+<value>SI_781</value>
+<value>les marches du perron de chez Marthe</value>
+<value>SI_784</value>
+<value>SI_300</value>
+<value>SI_785</value>
+<value>SI_301</value>
+<value>SI_782</value>
+<value>SI_783</value>
+<value>SI_304</value>
+<value>SI_788</value>
+<value>SI_305</value>
+<value>SI_789</value>
+<value>SI_302</value>
+<value>SI_786</value>
+<value>SI_303</value>
+<value>SI_787</value>
+<value>SI_319</value>
+<value>SI_317</value>
+<value>SI_318</value>
+<value>SI_791</value>
+<value>SI_792</value>
+<value>les cris de la foule</value>
+<value>SI_790</value>
+<value>SI_311</value>
+<value>SI_795</value>
+<value>SI_312</value>
+<value>les caresses qui ne sont pas la menue monnaie de l&apos;amour</value>
+<value>SI_796</value>
+<value>SI_793</value>
+<value>SI_794</value>
+<value>SI_310</value>
+<value>SI_315</value>
+<value>SI_799</value>
+<value>SI_316</value>
+<value>SI_797</value>
+<value>SI_313</value>
+<value>SI_798</value>
+<value>SI_314</value>
+<value>&quot;nous&quot; flou incluant le narrateur</value>
+<value>SI_407</value>
+<value>SI_408</value>
+<value>SI_889</value>
+<value>SI_405</value>
+<value>SI_406</value>
+<value>SI_409</value>
+<value>la pièce du dramaturge</value>
+<value>les fleurs qui poussent dans les prairies traversées par le narrateur, son père et ses frères</value>
+<value>SI_880</value>
+<value>SI_883</value>
+<value>SI_400</value>
+<value>SI_884</value>
+<value>le silence du narrateur 2</value>
+<value>SI_881</value>
+<value>les élèves de la classe du narrateur</value>
+<value>SI_882</value>
+<value>SI_887</value>
+<value>SI_403</value>
+<value>SI_404</value>
+<value>SI_888</value>
+<value>SI_885</value>
+<value>SI_401</value>
+<value>SI_886</value>
+<value>SI_402</value>
+<value>SI_418</value>
+<value>SI_419</value>
+<value>la tête du narrateur</value>
+<value>SI_416</value>
+<value>SI_417</value>
+<value>un homme qui aimait Marthe</value>
+<value>SI_890</value>
+<value>SI_891</value>
+<value>SI_894</value>
+<value>SI_410</value>
+<value>SI_411</value>
+<value>SI_895</value>
+<value>SI_892</value>
+<value>SI_893</value>
+<value>SI_898</value>
+<value>SI_414</value>
+<value>SI_899</value>
+<value>SI_415</value>
+<value>SI_412</value>
+<value>SI_896</value>
+<value>la façon qui convenait au narrateur</value>
+<value>SI_897</value>
+<value>SI_413</value>
+<value>SI_869</value>
+<value>SI_867</value>
+<value>Carmen</value>
+<value>SI_868</value>
+<value>le feu chez Marthe</value>
+<value>SI_861</value>
+<value>SI_862</value>
+<value>le toit de la maison des Maréchaud</value>
+<value>SI_860</value>
+<value>SI_865</value>
+<value>SI_866</value>
+<value>la gare de la Bastille</value>
+<value>SI_863</value>
+<value>SI_864</value>
+<value>SI_878</value>
+<value>SI_879</value>
+<value>les endroits où la peau de Marthe était nue</value>
+<value>la foule</value>
+<value>SI_872</value>
+<value>SI_873</value>
+<value>la petite pièce de la maison de Marthe où on avait introduit le narrateur</value>
+<value>SI_870</value>
+<value>SI_871</value>
+<value>SI_876</value>
+<value>SI_877</value>
+<value>SI_874</value>
+<value>SI_875</value>
+<value>SI_847</value>
+<value>SI_848</value>
+<value>SI_845</value>
+<value>SI_846</value>
+<value>SI_849</value>
+<value>l&apos;épisode de la bonne des Maréchaud</value>
+<value>le journal Le Mot</value>
+<value>SI_840</value>
+<value>SI_843</value>
+<value>SI_844</value>
+<value>SI_841</value>
+<value>l&apos;entourage du narrateur</value>
+<value>SI_842</value>
+<value>un chat</value>
+<value>SI_858</value>
+<value>SI_859</value>
+<value>SI_856</value>
+<value>SI_857</value>
+<value>la bouche de Marthe</value>
+<value>un garçon</value>
+<value>SI_850</value>
+<value>SI_851</value>
+<value>SI_854</value>
+<value>SI_855</value>
+<value>SI_852</value>
+<value>SI_853</value>
+<value>SI_825</value>
+<value>SI_826</value>
+<value>SI_823</value>
+<value>SI_824</value>
+<value>SI_829</value>
+<value>SI_827</value>
+<value>les parents du narrateur</value>
+<value>une lettre</value>
+<value>SI_828</value>
+<value>un calembour</value>
+<value>le travail de chaque jour du narrateur</value>
+<value>narrateur + ses frères</value>
+<value>la jeune bonne des Maréchaud</value>
+<value>SI_821</value>
+<value>SI_822</value>
+<value>SI_820</value>
+<value>SI_836</value>
+<value>SI_837</value>
+<value>SI_834</value>
+<value>SI_835</value>
+<value>SI_838</value>
+<value>SI_839</value>
+<value>les bottines du narrateur</value>
+<value>le chat</value>
+<value>l&apos;histoire de la lettre du narrateur</value>
+<value>le moment où le narrateur et sa famille allaient fuir</value>
+<value>SI_832</value>
+<value>SI_833</value>
+<value>SI_830</value>
+<value>SI_831</value>
+<value>SI_803</value>
+<value>SI_804</value>
+<value>SI_801</value>
+<value>SI_802</value>
+<value>SI_807</value>
+<value>SI_808</value>
+<value>SI_805</value>
+<value>SI_806</value>
+<value>SI_809</value>
+<value>un drame</value>
+<value>les classes</value>
+<value>SI_800</value>
+<value>SI_814</value>
+<value>raison de céder</value>
+<value>SI_815</value>
+<value>SI_812</value>
+<value>SI_813</value>
+<value>SI_818</value>
+<value>SI_819</value>
+<value>SI_816</value>
+<value>SI_817</value>
+<value>la Bourse aux timbres</value>
+<value>SI_810</value>
+<value>SI_811</value>
+<value>les voyous les plus hardis</value>
+<value>la véritable peine du narrateur</value>
+<value>la clef qu&apos;ils laissaient toujours dans la boîte aux lettres</value>
+<value>la pluie 2</value>
+<value>le lit de Marthe</value>
+<value>SI_1300</value>
+<value>SI_1301</value>
+<value>SI_1302</value>
+<value>SI_1303</value>
+<value>SI_1304</value>
+<value>la mère du narrateur</value>
+<value>le petit frère du narrateur</value>
+<value>la maison des Maréchaud</value>
+<value>SI_1305</value>
+<value>SI_1306</value>
+<value>SI_1307</value>
+<value>SI_1308</value>
+<value>SI_1309</value>
+<value>le rêve triste de Marthe</value>
+<value>le petit frère du narrateur + Mlle Fauvette</value>
+<value>des prairies</value>
+<value>les meubles simples choisis</value>
+<value>la plupart des choses que Marthe trouvait belles</value>
+<value>le jour du rendez-vous du narrateur avec Marthe</value>
+<value>les bras de Marthe</value>
+<value>le mariage de Marthe</value>
+<value>ce prince charmant</value>
+<value>SI_1352</value>
+<value>SI_1353</value>
+<value>SI_1354</value>
+<value>SI_1355</value>
+<value>SI_1356</value>
+<value>SI_1357</value>
+<value>Jacques</value>
+<value>le mensonge du téléphone</value>
+<value>SI_1358</value>
+<value>SI_1359</value>
+<value>le train de Marthe</value>
+<value>la chance que le narrateur et Marthe ne soient pas seuls</value>
+<value>SI_1350</value>
+<value>SI_1351</value>
+<value>le bonheur</value>
+<value>la douceur</value>
+<value>le lendemain, le jeudi</value>
+<value>SI_1363</value>
+<value>SI_1364</value>
+<value>SI_1365</value>
+<value>SI_1366</value>
+<value>SI_1367</value>
+<value>SI_1368</value>
+<value>un détail du cru de Marthe</value>
+<value>SI_1369</value>
+<value>celui qui n&apos;aime pas</value>
+<value>SI_1360</value>
+<value>SI_1361</value>
+<value>SI_1362</value>
+<value>l&apos;endroit où l&apos;eau commence</value>
+<value>SI_1374</value>
+<value>SI_1375</value>
+<value>SI_1376</value>
+<value>SI_1377</value>
+<value>SI_1378</value>
+<value>SI_1379</value>
+<value>un madrigal</value>
+<value>SI_1370</value>
+<value>SI_1371</value>
+<value>SI_1372</value>
+<value>SI_1373</value>
+<value>le spectacle de la bonne des Maréchaud</value>
+<value>SI_1385</value>
+<value>SI_1386</value>
+<value>SI_1387</value>
+<value>SI_1388</value>
+<value>SI_1389</value>
+<value>SI_1380</value>
+<value>SI_1381</value>
+<value>le loup pris</value>
+<value>SI_1382</value>
+<value>SI_1383</value>
+<value>SI_1384</value>
+<value>SI_1310</value>
+<value>SI_1311</value>
+<value>SI_1312</value>
+<value>SI_1313</value>
+<value>SI_1314</value>
+<value>SI_1315</value>
+<value>fille capitaine corsaire</value>
+<value>le nom Messager</value>
+<value>SI_1316</value>
+<value>le Morbas</value>
+<value>SI_1317</value>
+<value>SI_1318</value>
+<value>SI_1319</value>
+<value>les frères et les soeurs du narrateur</value>
+<value>SI_1320</value>
+<value>SI_1321</value>
+<value>SI_1322</value>
+<value>SI_1323</value>
+<value>SI_1324</value>
+<value>SI_1325</value>
+<value>SI_1326</value>
+<value>droit sur Marthe</value>
+<value>SI_7</value>
+<value>SI_8</value>
+<value>SI_5</value>
+<value>SI_6</value>
+<value>SI_3</value>
+<value>SI_4</value>
+<value>SI_1</value>
+<value>SI_2</value>
+<value>la chose qui ferait le plus de peine au père du narrateur</value>
+<value>le frère de Marthe</value>
+<value>les tuiles du mur de chez le narrateur</value>
+<value>SI_9</value>
+<value>SI_1327</value>
+<value>SI_1328</value>
+<value>SI_1329</value>
+<value>la route que le narrateur et René avaient à faire</value>
+<value>SI_1330</value>
+<value>SI_1331</value>
+<value>les frères du narrateur</value>
+<value>SI_1332</value>
+<value>tout raconter à son père pour le narrateur</value>
+<value>SI_1333</value>
+<value>SI_1334</value>
+<value>SI_1335</value>
+<value>SI_1336</value>
+<value>SI_1337</value>
+<value>tout ce que le narrateur avait convoité</value>
+<value>SI_1338</value>
+<value>SI_1339</value>
+<value>SI_1341</value>
+<value>un fruit que l&apos;on goûte pour la première fois</value>
+<value>SI_1342</value>
+<value>SI_1343</value>
+<value>SI_1344</value>
+<value>le rose</value>
+<value>SI_1345</value>
+<value>SI_1346</value>
+<value>SI_1347</value>
+<value>SI_1348</value>
+<value>la salle de classe du narrateur</value>
+<value>la couronne d&apos;or</value>
+<value>SI_1340</value>
+<value>l&apos;oeuvre Don Juan</value>
+<value>SI_1349</value>
+<value>SI_480</value>
+<value>SI_483</value>
+<value>SI_484</value>
+<value>SI_481</value>
+<value>SI_482</value>
+<value>SI_487</value>
+<value>SI_488</value>
+<value>SI_485</value>
+<value>SI_486</value>
+<value>les vraies vacances</value>
+<value>SI_489</value>
+<value>la plupart des choses que Marthe disait</value>
+<value>le seul endroit avec des buissons et où on pouvait cacher le panier</value>
+<value>La Varenne</value>
+<value>la petite chambre qui servait de salon à Marthe</value>
+<value>SI_490</value>
+<value>SI_491</value>
+<value>SI_494</value>
+<value>SI_495</value>
+<value>SI_492</value>
+<value>la collection du journal Le Mot</value>
+<value>SI_493</value>
+<value>SI_498</value>
+<value>SI_499</value>
+<value>SI_496</value>
+<value>SI_497</value>
+<value>SI_461</value>
+<value>SI_462</value>
+<value>SI_460</value>
+<value>l&apos;école buissonnière du narrateur avec Marthe</value>
+<value>SI_465</value>
+<value>SI_466</value>
+<value>SI_463</value>
+<value>SI_464</value>
+<value>SI_469</value>
+<value>SI_467</value>
+<value>SI_468</value>
+<value>les fleurs stylisées</value>
+<value>la cloche cassée</value>
+<value>SI_472</value>
+<value>SI_473</value>
+<value>SI_470</value>
+<value>SI_471</value>
+<value>SI_476</value>
+<value>SI_477</value>
+<value>SI_474</value>
+<value>SI_475</value>
+<value>SI_478</value>
+<value>SI_479</value>
+<value>SI_1396</value>
+<value>la gare de la Varenne</value>
+<value>la réponse de Marthe</value>
+<value>SI_1397</value>
+<value>SI_1398</value>
+<value>SI_449</value>
+<value>SI_1399</value>
+<value>SI_1390</value>
+<value>SI_1391</value>
+<value>SI_1392</value>
+<value>SI_1393</value>
+<value>SI_1394</value>
+<value>SI_1395</value>
+<value>SI_440</value>
+<value>SI_443</value>
+<value>SI_444</value>
+<value>SI_441</value>
+<value>SI_442</value>
+<value>la décision du père du narrateur de le faire quitter l&apos;école à la fin de son année scolaire</value>
+<value>SI_447</value>
+<value>SI_448</value>
+<value>SI_445</value>
+<value>SI_446</value>
+<value>du vin rouge</value>
+<value>SI_450</value>
+<value>SI_451</value>
+<value>le printemps</value>
+<value>SI_454</value>
+<value>le père du narrateur</value>
+<value>SI_455</value>
+<value>SI_452</value>
+<value>SI_453</value>
+<value>SI_458</value>
+<value>SI_459</value>
+<value>Chennevières</value>
+<value>SI_456</value>
+<value>SI_457</value>
+<value>SI_429</value>
+<value>SI_427</value>
+<value>SI_428</value>
+<value>les tuiles du toit des Maréchaud</value>
+<value>l&apos;étoffe rose</value>
+<value>la lettre que le directeur tenait à la main</value>
+<value>SI_421</value>
+<value>SI_422</value>
+<value>SI_420</value>
+<value>SI_425</value>
+<value>SI_426</value>
+<value>SI_423</value>
+<value>la Bastille</value>
+<value>SI_424</value>
+<value>SI_438</value>
+<value>le visage de Marthe</value>
+<value>SI_439</value>
+<value>le pied</value>
+<value>SI_432</value>
+<value>SI_433</value>
+<value>SI_430</value>
+<value>l&apos;enfant qui a gagné le prix d&apos;excellence</value>
+<value>SI_431</value>
+<value>SI_436</value>
+<value>SI_437</value>
+<value>SI_434</value>
+<value>SI_435</value>
+<value>SI_528</value>
+<value>SI_529</value>
+<value>SI_526</value>
+<value>le pas du narrateur</value>
+<value>SI_527</value>
+<value>la table</value>
+<value>de la peine</value>
+<value>SI_520</value>
+<value>SI_521</value>
+<value>SI_524</value>
+<value>SI_525</value>
+<value>SI_522</value>
+<value>SI_523</value>
+<value>SI_539</value>
+<value>SI_537</value>
+<value>SI_538</value>
+<value>le chauffeur du taxi de Marthe et du narrateur</value>
+<value>l&apos;incendie</value>
+<value>les vieux livres de la famille du narrateur</value>
+<value>SI_531</value>
+<value>des élèves</value>
+<value>SI_532</value>
+<value>les feux de Bengale</value>
+<value>SI_530</value>
+<value>SI_535</value>
+<value>SI_536</value>
+<value>SI_533</value>
+<value>SI_534</value>
+<value>la journée de shopping de Marthe</value>
+<value>SI_506</value>
+<value>SI_507</value>
+<value>SI_504</value>
+<value>SI_988</value>
+<value>SI_505</value>
+<value>SI_989</value>
+<value>Mlle Fauvette</value>
+<value>SI_508</value>
+<value>l&apos;épouse d&apos;un adversaire de Maréchaud</value>
+<value>SI_509</value>
+<value>la raison</value>
+<value>la femme à la fenêtre qui regarde le narrateur</value>
+<value>SI_982</value>
+<value>SI_983</value>
+<value>SI_980</value>
+<value>SI_981</value>
+<value>SI_502</value>
+<value>SI_986</value>
+<value>SI_987</value>
+<value>SI_503</value>
+<value>SI_984</value>
+<value>SI_500</value>
+<value>SI_985</value>
+<value>SI_501</value>
+<value>SI_517</value>
+<value>SI_518</value>
+<value>SI_999</value>
+<value>SI_515</value>
+<value>SI_516</value>
+<value>SI_519</value>
+<value>SI_990</value>
+<value>SI_993</value>
+<value>SI_994</value>
+<value>un autre garçon dans le narrateur</value>
+<value>SI_510</value>
+<value>SI_991</value>
+<value>SI_992</value>
+<value>SI_513</value>
+<value>SI_997</value>
+<value>SI_514</value>
+<value>SI_998</value>
+<value>SI_995</value>
+<value>SI_511</value>
+<value>SI_512</value>
+<value>SI_996</value>
+<value>SI_968</value>
+<value>SI_969</value>
+<value>SI_966</value>
+<value>Marthe</value>
+<value>SI_967</value>
+<value>des gens</value>
+<value>SI_960</value>
+<value>la cheminée de Marthe</value>
+<value>SI_961</value>
+<value>SI_964</value>
+<value>SI_965</value>
+<value>SI_962</value>
+<value>SI_963</value>
+<value>SI_979</value>
+<value>SI_977</value>
+<value>SI_978</value>
+<value>mardi soir</value>
+<value>SI_971</value>
+<value>SI_972</value>
+<value>les Grangier</value>
+<value>SI_970</value>
+<value>SI_975</value>
+<value>SI_976</value>
+<value>SI_973</value>
+<value>SI_974</value>
+<value>SI_946</value>
+<value>SI_947</value>
+<value>la guerre</value>
+<value>SI_944</value>
+<value>SI_945</value>
+<value>SI_948</value>
+<value>SI_949</value>
+<value>quelqu&apos;un qui ne dort pas</value>
+<value>SI_942</value>
+<value>SI_943</value>
+<value>SI_940</value>
+<value>SI_941</value>
+<value>à ce moment là</value>
+<value>SI_957</value>
+<value>SI_958</value>
+<value>SI_955</value>
+<value>les parents de René</value>
+<value>SI_956</value>
+<value>SI_959</value>
+<value>les premières incartades du narrateur</value>
+<value>SI_950</value>
+<value>les jours où Marthe n&apos;accompagnait pas le narrateur à Paris</value>
+<value>SI_953</value>
+<value>SI_954</value>
+<value>SI_951</value>
+<value>SI_952</value>
+<value>SI_924</value>
+<value>la façon dont était coiffé le narrateur</value>
+<value>SI_925</value>
+<value>SI_922</value>
+<value>SI_923</value>
+<value>SI_928</value>
+<value>SI_929</value>
+<value>SI_926</value>
+<value>SI_927</value>
+<value>les larmes qui bourdonnent dans la tête du narrateur</value>
+<value>SI_920</value>
+<value>SI_921</value>
+<value>l&apos;amour du narrateur pour Marthe</value>
+<value>SI_935</value>
+<value>SI_936</value>
+<value>SI_933</value>
+<value>SI_934</value>
+<value>la cloche de verre</value>
+<value>SI_939</value>
+<value>SI_1400</value>
+<value>SI_1401</value>
+<value>SI_1402</value>
+<value>SI_937</value>
+<value>SI_1403</value>
+<value>SI_938</value>
+<value>&quot;on&quot; générique</value>
+<value>SI_1404</value>
+<value>SI_1405</value>
+<value>les soeurs du narrateur</value>
+<value>SI_1406</value>
+<value>SI_1407</value>
+<value>SI_931</value>
+<value>SI_1408</value>
+<value>SI_932</value>
+<value>SI_1409</value>
+<value>SI_930</value>
+<value>SI_902</value>
+<value>SI_903</value>
+<value>SI_900</value>
+<value>SI_901</value>
+<value>SI_1410</value>
+<value>SI_1411</value>
+<value>SI_906</value>
+<value>SI_907</value>
+<value>SI_1412</value>
+<value>SI_1413</value>
+<value>SI_904</value>
+<value>SI_1414</value>
+<value>SI_905</value>
+<value>SI_908</value>
+<value>le seul amour digne du narrateur</value>
+<value>SI_909</value>
+<value>SI_1415</value>
+<value>SI_1416</value>
+<value>SI_1417</value>
+<value>SI_1418</value>
+<value>SI_1419</value>
+<value>SI_913</value>
+<value>SI_914</value>
+<value>au bord de la Marne</value>
+<value>SI_1420</value>
+<value>SI_911</value>
+<value>SI_912</value>
+<value>SI_1421</value>
+<value>SI_1422</value>
+<value>SI_917</value>
+<value>SI_1423</value>
+<value>SI_918</value>
+<value>SI_1424</value>
+<value>SI_915</value>
+<value>SI_1425</value>
+<value>SI_916</value>
+<value>SI_919</value>
+<value>l&apos;homme que Marthe pense être Jacques</value>
+<value>les petites filles fournies innocemment par les parents de René</value>
+<value>SI_1426</value>
+<value>SI_1427</value>
+<value>SI_1428</value>
+<value>SI_1429</value>
+<value>SI_910</value>
+<value>huit jours</value>
+<value>les cheveux, le cou, les joues brûlantes de Marthe</value>
+<value>l&apos;esprit du narrateur</value>
+<value>le directeur</value>
+<value>le laitier, le pâtissier et le serrurier</value>
+<value>de l&apos;amour</value>
+<value>les autres</value>
+<value>les élèves des premiers bancs de la classe du narrateur</value>
+<value>les fiançailles de Marthe et Jacques</value>
+<value>les troubles</value>
+<value>l&apos;académie de dessin</value>
+<value>SI_1473</value>
+<value>SI_1474</value>
+<value>SI_1475</value>
+<value>SI_1476</value>
+<value>SI_18</value>
+<value>SI_1477</value>
+<value>SI_19</value>
+<value>SI_1478</value>
+<value>SI_1479</value>
+<value>SI_1470</value>
+<value>SI_1471</value>
+<value>SI_1472</value>
+<value>une amie de la tante du narrateur</value>
+<value>SI_14</value>
+<value>SI_15</value>
+<value>SI_16</value>
+<value>SI_17</value>
+<value>SI_10</value>
+<value>SI_11</value>
+<value>SI_12</value>
+<value>SI_13</value>
+<value>SI_1484</value>
+<value>SI_1000</value>
+<value>SI_1485</value>
+<value>SI_1001</value>
+<value>SI_1486</value>
+<value>SI_1002</value>
+<value>SI_1003</value>
+<value>SI_1487</value>
+<value>SI_1488</value>
+<value>SI_1004</value>
+<value>SI_1005</value>
+<value>SI_1489</value>
+<value>SI_1006</value>
+<value>SI_1007</value>
+<value>SI_1480</value>
+<value>SI_1481</value>
+<value>SI_1482</value>
+<value>SI_1483</value>
+<value>le fait que le narrateur dise à Marthe qu&apos;il travaille souvent à l&apos;Académie</value>
+<value>le train à la gare de Sucy</value>
+<value>SI_1008</value>
+<value>SI_1009</value>
+<value>personne (général)</value>
+<value>SI_1495</value>
+<value>SI_1011</value>
+<value>SI_1012</value>
+<value>SI_1496</value>
+<value>SI_1013</value>
+<value>SI_1497</value>
+<value>SI_1014</value>
+<value>SI_1498</value>
+<value>SI_1499</value>
+<value>SI_1015</value>
+<value>SI_1016</value>
+<value>SI_1017</value>
+<value>SI_1018</value>
+<value>la grille de la maison des Maréchaud</value>
+<value>SI_1490</value>
+<value>SI_1491</value>
+<value>SI_190</value>
+<value>SI_1492</value>
+<value>SI_1493</value>
+<value>SI_1494</value>
+<value>SI_1010</value>
+<value>SI_182</value>
+<value>SI_183</value>
+<value>SI_30</value>
+<value>SI_180</value>
+<value>SI_181</value>
+<value>SI_31</value>
+<value>la Seine</value>
+<value>SI_186</value>
+<value>SI_187</value>
+<value>SI_184</value>
+<value>SI_185</value>
+<value>SI_36</value>
+<value>SI_1019</value>
+<value>SI_37</value>
+<value>SI_188</value>
+<value>SI_38</value>
+<value>SI_189</value>
+<value>SI_39</value>
+<value>SI_32</value>
+<value>SI_33</value>
+<value>SI_34</value>
+<value>SI_35</value>
+<value>SI_1022</value>
+<value>SI_1023</value>
+<value>SI_1024</value>
+<value>SI_1025</value>
+<value>SI_1026</value>
+<value>SI_29</value>
+<value>SI_1027</value>
+<value>SI_1028</value>
+<value>SI_1029</value>
+<value>SI_1020</value>
+<value>SI_1021</value>
+<value>SI_193</value>
+<value>SI_194</value>
+<value>SI_191</value>
+<value>SI_20</value>
+<value>SI_192</value>
+<value>SI_197</value>
+<value>SI_198</value>
+<value>SI_195</value>
+<value>SI_196</value>
+<value>SI_25</value>
+<value>SI_26</value>
+<value>SI_27</value>
+<value>SI_199</value>
+<value>SI_28</value>
+<value>SI_21</value>
+<value>SI_22</value>
+<value>des moyens de correspondre</value>
+<value>SI_23</value>
+<value>les dessins imprimés sur la peau de Marthe par le cannage</value>
+<value>SI_24</value>
+<value>SI_1430</value>
+<value>les palpitations de coeur du narrateur</value>
+<value>SI_1431</value>
+<value>SI_1432</value>
+<value>SI_1433</value>
+<value>SI_1434</value>
+<value>SI_1435</value>
+<value>SI_1436</value>
+<value>l&apos;année scolaire</value>
+<value>SI_160</value>
+<value>SI_161</value>
+<value>SI_164</value>
+<value>SI_165</value>
+<value>SI_162</value>
+<value>SI_163</value>
+<value>SI_1437</value>
+<value>SI_168</value>
+<value>SI_169</value>
+<value>SI_1438</value>
+<value>SI_1439</value>
+<value>SI_166</value>
+<value>SI_167</value>
+<value>SI_1440</value>
+<value>SI_1441</value>
+<value>SI_1442</value>
+<value>SI_1443</value>
+<value>SI_1444</value>
+<value>SI_1445</value>
+<value>SI_1446</value>
+<value>SI_1447</value>
+<value>les devoirs abandonnés</value>
+<value>les choses dites par la folle</value>
+<value>les vitres du rez-de-chaussée de droite</value>
+<value>un titre ( = &quot;Une saison en enfer&quot;?)</value>
+<value>SI_171</value>
+<value>SI_172</value>
+<value>SI_170</value>
+<value>SI_175</value>
+<value>SI_176</value>
+<value>SI_173</value>
+<value>SI_174</value>
+<value>SI_1448</value>
+<value>SI_179</value>
+<value>SI_1449</value>
+<value>SI_177</value>
+<value>SI_178</value>
+<value>&quot;on&quot; flou incluant le narrateur</value>
+<value>SI_1451</value>
+<value>SI_1452</value>
+<value>SI_1453</value>
+<value>SI_1454</value>
+<value>SI_1455</value>
+<value>SI_1456</value>
+<value>SI_1457</value>
+<value>SI_1458</value>
+<value>une aventure</value>
+<value>SI_1450</value>
+<value>olivier</value>
+<value>SI_142</value>
+<value>SI_143</value>
+<value>SI_140</value>
+<value>SI_141</value>
+<value>SI_146</value>
+<value>SI_1459</value>
+<value>SI_147</value>
+<value>SI_144</value>
+<value>SI_145</value>
+<value>SI_148</value>
+<value>SI_149</value>
+<value>SI_1462</value>
+<value>SI_1463</value>
+<value>SI_1464</value>
+<value>SI_1465</value>
+<value>SI_1466</value>
+<value>SI_1467</value>
+<value>le besoin de mal au coeur des enfants</value>
+<value>SI_1468</value>
+<value>SI_1469</value>
+<value>SI_1460</value>
+<value>un tout, que Marthe comprenait mal</value>
+<value>le contraire de ce qui plaisait à Marthe</value>
+<value>SI_1461</value>
+<value>SI_150</value>
+<value>SI_153</value>
+<value>SI_154</value>
+<value>SI_151</value>
+<value>SI_152</value>
+<value>SI_157</value>
+<value>SI_158</value>
+<value>SI_155</value>
+<value>SI_156</value>
+<value>SI_159</value>
+<value>SI_1077</value>
+<value>SI_1078</value>
+<value>SI_1079</value>
+<value>SI_1070</value>
+<value>SI_1071</value>
+<value>SI_1072</value>
+<value>SI_1073</value>
+<value>SI_1074</value>
+<value>ces enfantillages</value>
+<value>SI_1075</value>
+<value>SI_1076</value>
+<value>SI_94</value>
+<value>SI_95</value>
+<value>une jeune personne qui accompagne le narrateur</value>
+<value>Madame Grangier</value>
+<value>SI_96</value>
+<value>SI_97</value>
+<value>SI_120</value>
+<value>SI_90</value>
+<value>SI_91</value>
+<value>SI_121</value>
+<value>SI_92</value>
+<value>SI_93</value>
+<value>SI_124</value>
+<value>SI_125</value>
+<value>SI_122</value>
+<value>SI_123</value>
+<value>SI_98</value>
+<value>SI_128</value>
+<value>SI_129</value>
+<value>SI_99</value>
+<value>Baudelaire</value>
+<value>SI_126</value>
+<value>SI_127</value>
+<value>SI_1088</value>
+<value>SI_1089</value>
+<value>SI_1080</value>
+<value>argent</value>
+<value>SI_1081</value>
+<value>SI_1082</value>
+<value>SI_1083</value>
+<value>SI_1084</value>
+<value>SI_1085</value>
+<value>SI_1086</value>
+<value>SI_1087</value>
+<value>SI_83</value>
+<value>SI_84</value>
+<value>SI_85</value>
+<value>SI_86</value>
+<value>SI_131</value>
+<value>SI_132</value>
+<value>SI_80</value>
+<value>SI_81</value>
+<value>SI_82</value>
+<value>SI_130</value>
+<value>SI_1090</value>
+<value>SI_135</value>
+<value>aider Marthe à choisir ses meubles</value>
+<value>SI_136</value>
+<value>SI_133</value>
+<value>SI_134</value>
+<value>SI_87</value>
+<value>SI_139</value>
+<value>SI_88</value>
+<value>SI_137</value>
+<value>SI_89</value>
+<value>SI_138</value>
+<value>SI_1099</value>
+<value>SI_108</value>
+<value>SI_109</value>
+<value>SI_1091</value>
+<value>SI_1092</value>
+<value>SI_1093</value>
+<value>SI_1094</value>
+<value>SI_1095</value>
+<value>SI_1096</value>
+<value>SI_1097</value>
+<value>SI_1098</value>
+<value>&quot;on&quot; flou incluant la foule</value>
+<value>Ormesson</value>
+<value>SI_582</value>
+<value>SI_583</value>
+<value>SI_580</value>
+<value>SI_581</value>
+<value>SI_586</value>
+<value>SI_102</value>
+<value>SI_587</value>
+<value>SI_103</value>
+<value>SI_100</value>
+<value>SI_584</value>
+<value>SI_585</value>
+<value>SI_101</value>
+<value>SI_106</value>
+<value>SI_107</value>
+<value>SI_588</value>
+<value>SI_104</value>
+<value>SI_589</value>
+<value>SI_105</value>
+<value>l&apos;amour du narrateur pour Carmen</value>
+<value>SI_119</value>
+<value>la tuile tombée du mur de chez le narrateur</value>
+<value>les pompiers d&apos;une petite ville en général</value>
+<value>SI_590</value>
+<value>SI_593</value>
+<value>SI_110</value>
+<value>dix minutes</value>
+<value>SI_594</value>
+<value>SI_591</value>
+<value>SI_592</value>
+<value>SI_597</value>
+<value>SI_113</value>
+<value>SI_598</value>
+<value>SI_114</value>
+<value>SI_111</value>
+<value>SI_595</value>
+<value>SI_112</value>
+<value>SI_596</value>
+<value>SI_117</value>
+<value>SI_118</value>
+<value>SI_115</value>
+<value>les gens qui se connaissent à peine, après avoir échappé à un nauffrage</value>
+<value>SI_599</value>
+<value>SI_116</value>
+<value>SI_1033</value>
+<value>SI_1034</value>
+<value>SI_1035</value>
+<value>SI_1036</value>
+<value>SI_1037</value>
+<value>SI_1038</value>
+<value>SI_1039</value>
+<value>SI_1030</value>
+<value>SI_1031</value>
+<value>SI_1032</value>
+<value>SI_50</value>
+<value>l&apos;invitation de Marthe</value>
+<value>SI_51</value>
+<value>SI_52</value>
+<value>SI_53</value>
+<value>SI_560</value>
+<value>SI_561</value>
+<value>SI_58</value>
+<value>SI_564</value>
+<value>SI_565</value>
+<value>SI_59</value>
+<value>SI_562</value>
+<value>SI_563</value>
+<value>narrateur + son père + ses frères</value>
+<value>SI_568</value>
+<value>SI_54</value>
+<value>SI_569</value>
+<value>SI_55</value>
+<value>SI_566</value>
+<value>SI_56</value>
+<value>SI_567</value>
+<value>SI_57</value>
+<value>SI_1044</value>
+<value>SI_1045</value>
+<value>SI_1046</value>
+<value>les volumes de la lecture à haute voix pris par le narrateur</value>
+<value>SI_1047</value>
+<value>SI_1048</value>
+<value>SI_1049</value>
+<value>des lettres envoyées par Jacques</value>
+<value>les guirlandes lumineuses du jardin</value>
+<value>SI_1040</value>
+<value>SI_1041</value>
+<value>SI_1042</value>
+<value>SI_1043</value>
+<value>SI_40</value>
+<value>SI_41</value>
+<value>SI_42</value>
+<value>SI_571</value>
+<value>&quot;on&quot; flou</value>
+<value>SI_572</value>
+<value>SI_570</value>
+<value>SI_575</value>
+<value>SI_47</value>
+<value>SI_576</value>
+<value>SI_48</value>
+<value>SI_49</value>
+<value>SI_573</value>
+<value>SI_574</value>
+<value>SI_579</value>
+<value>SI_43</value>
+<value>un autre meuble</value>
+<value>SI_44</value>
+<value>SI_577</value>
+<value>SI_45</value>
+<value>SI_46</value>
+<value>SI_578</value>
+<value>SI_1055</value>
+<value>les livres de la Bibliothèque rose</value>
+<value>SI_1056</value>
+<value>SI_548</value>
+<value>SI_1057</value>
+<value>SI_549</value>
+<value>SI_1058</value>
+<value>SI_1059</value>
+<value>SI_1050</value>
+<value>SI_1051</value>
+<value>SI_1052</value>
+<value>SI_1053</value>
+<value>SI_1054</value>
+<value>SI_72</value>
+<value>SI_73</value>
+<value>SI_74</value>
+<value>SI_75</value>
+<value>un pas tranquille</value>
+<value>SI_70</value>
+<value>SI_71</value>
+<value>SI_542</value>
+<value>SI_543</value>
+<value>SI_540</value>
+<value>SI_541</value>
+<value>SI_76</value>
+<value>SI_546</value>
+<value>SI_547</value>
+<value>SI_77</value>
+<value>SI_78</value>
+<value>SI_544</value>
+<value>SI_79</value>
+<value>SI_545</value>
+<value>de la grenadine</value>
+<value>SI_1066</value>
+<value>SI_1067</value>
+<value>SI_559</value>
+<value>SI_1068</value>
+<value>SI_1069</value>
+<value>SI_1060</value>
+<value>SI_1061</value>
+<value>SI_1062</value>
+<value>SI_1063</value>
+<value>SI_1064</value>
+<value>la grâce du barman</value>
+<value>SI_1065</value>
+<value>SI_61</value>
+<value>SI_62</value>
+<value>l&apos;enfant qui a donné la lettre à Carmen</value>
+<value>SI_63</value>
+<value>SI_64</value>
+<value>SI_550</value>
+<value>SI_60</value>
+<value>SI_553</value>
+<value>SI_69</value>
+<value>SI_554</value>
+<value>SI_551</value>
+<value>SI_552</value>
+<value>SI_557</value>
+<value>SI_65</value>
+<value>SI_558</value>
+<value>SI_66</value>
+<value>des roses rouges</value>
+<value>SI_555</value>
+<value>Paris</value>
+<value>SI_67</value>
+<value>SI_68</value>
+<value>SI_556</value>
+<value>SI_649</value>
+<value>SI_647</value>
+<value>SI_648</value>
+<value>les goûts de Marthe en littérature</value>
+<value>SI_641</value>
+<value>SI_642</value>
+<value>SI_640</value>
+<value>SI_645</value>
+<value>SI_646</value>
+<value>SI_643</value>
+<value>un homme qui pose une cartouche de dynamite</value>
+<value>le chien de Maréchaud</value>
+<value>SI_644</value>
+<value>SI_658</value>
+<value>SI_659</value>
+<value>la sensualité</value>
+<value>un lapin</value>
+<value>le moment où le narrateur devrait se déshabiller</value>
+<value>SI_652</value>
+<value>SI_653</value>
+<value>l&apos;exposition de charité dont la mère du narrateur était présidente</value>
+<value>SI_650</value>
+<value>SI_651</value>
+<value>SI_656</value>
+<value>SI_657</value>
+<value>SI_654</value>
+<value>SI_655</value>
+<value>SI_627</value>
+<value>SI_628</value>
+<value>SI_625</value>
+<value>SI_626</value>
+<value>les parents de Jacques</value>
+<value>SI_629</value>
+<value>narrateur + la jeune personne qui l&apos;accompagnait</value>
+<value>&quot;nous&quot; générique</value>
+<value>le père de l&apos;enfant qui a reçu le prix d&apos;excellence</value>
+<value>SI_620</value>
+<value>l&apos;effronterie et la timidité du narrateur</value>
+<value>SI_623</value>
+<value>SI_624</value>
+<value>SI_621</value>
+<value>SI_622</value>
+<value>SI_638</value>
+<value>SI_639</value>
+<value>SI_636</value>
+<value>SI_637</value>
+<value>SI_630</value>
+<value>la peur du narrateur</value>
+<value>SI_631</value>
+<value>SI_634</value>
+<value>le grec</value>
+<value>SI_635</value>
+<value>SI_632</value>
+<value>SI_633</value>
+<value>SI_605</value>
+<value>SI_606</value>
+<value>SI_603</value>
+<value>SI_604</value>
+<value>SI_609</value>
+<value>le spectateur qui ne veut pas s&apos;en aller</value>
+<value>la chambre de Marthe</value>
+<value>SI_607</value>
+<value>SI_608</value>
+<value>une fleur que le frère de Marthe venait de cueillir</value>
+<value>fille</value>
+<value>SI_601</value>
+<value>SI_602</value>
+<value>SI_600</value>
+<value>SI_616</value>
+<value>SI_617</value>
+<value>SI_614</value>
+<value>SI_615</value>
+<value>SI_618</value>
+<value>SI_619</value>
+<value>une promenade</value>
+<value>le barman</value>
+<value>la raison d&apos;admettre les meubles</value>
+<value>les rares passants</value>
+<value>SI_612</value>
+<value>SI_613</value>
+<value>SI_610</value>
+<value>SI_611</value>
+<value>un costume de nuit</value>
+<value>l&apos;aimant</value>
+<value>un bureau de poste</value>
+<value>la maison de la famille du narrateur</value>
+<value>le collège</value>
+<value>les maîtres du chat</value>
+<value>les écoliers</value>
+<value>Henri IV</value>
+<value>le cou de Marthe</value>
+<value>l&apos;amour en général</value>
+<value>Marthe + Jacques</value>
+<value>la feuille de papier à lettre dérobée par le narrateur</value>
+<value>les polissonneries du jeudi</value>
+<value>les paniers des soeurs du narrateur</value>
+<value>le bateau de la fille capitaine corsaire</value>
+<value>l&apos;endroit où est Marthe</value>
+<value>le soir du dîner de Marthe chez ses futurs beaux parents</value>
+<value>de bonnes excuses</value>
+<value>quelqu&apos;un qui secoue ses rêves</value>
+<value>la famille du narrateur</value>
+<value>la maison de Marthe</value>
+<value>les larmes du narrateur</value>
+<value>les camarades du narrateur</value>
+<value>les rides du front de Mme Grangier</value>
+<value>le fromage</value>
+<value>SI_1500</value>
+<value>SI_1501</value>
+<value>SI_1502</value>
+<value>les Maréchaud</value>
+<value>René</value>
+<value>la petite soeur du narrateur</value>
+<value>SI_1503</value>
+<value>SI_1504</value>
+<value>SI_1505</value>
+<value>SI_1506</value>
+</possibleValues>
+</feature>
+</featureSet>
+</type>
+</schemas>
+</annotationModel>

@@ -1,0 +1,1754 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotationModel>
+<units>
+<type name="MENTION">
+<featureSet>
+<feature name="UNIT REF">
+<possibleValues default = "">
+<value>None</value>
+<value>OTHER</value>
+<value>NO_PER</value>
+<value>LOC</value>
+<value>ORG</value>
+<value>VEH</value>
+<value>METALEPSE</value>
+<value>FAC</value>
+<value>TIME</value>
+<value>PER</value>
+<value>GPE</value>
+<value>TO_DISCUSS</value>
+<value>EVENT</value>
+</possibleValues>
+</feature>
+<feature name="REF">
+<possibleValues default = "">
+<value>des navires magnifiques</value>
+<value>yeux de Reine</value>
+<value>les fables</value>
+<value>de tout petits bouts de bois</value>
+<value>la hanche</value>
+<value>le pas de deux personnes</value>
+<value>disputes des parents</value>
+<value>beauté</value>
+<value>narratrice</value>
+<value>la douceur</value>
+<value>des bruits de toutes sortes</value>
+<value>la Vierge</value>
+<value>leçons de Firmin</value>
+<value>la barrière de sortie</value>
+<value>la batteuse</value>
+<value>un canot à vapeur</value>
+<value>Reine</value>
+<value>le faucheur suivant</value>
+<value>le fiacre</value>
+<value>un mal atroce</value>
+<value>Manine et la narratrice</value>
+<value>le biberon</value>
+<value>dimanche</value>
+<value>poitrine de la narratrice</value>
+<value>les dindes</value>
+<value>Clémence et Nicole</value>
+<value>les hommes</value>
+<value>le choc</value>
+<value>la ruelle étroite</value>
+<value>la campagne</value>
+<value>front de la narratrice</value>
+<value>pleurs de la mère</value>
+<value>Dieu</value>
+<value>des choses</value>
+<value>une autre voix</value>
+<value>des oeufs</value>
+<value>ce qui me plaisait le plus</value>
+<value>un cerf en péril</value>
+<value>lit de la narratrice</value>
+<value>une grande automobile</value>
+<value>une peine</value>
+<value>l_hiver</value>
+<value>une étincelle</value>
+<value>les jours</value>
+<value>le biberon générique</value>
+<value>Nicolas</value>
+<value>une mince partie de chair</value>
+<value>Nicole</value>
+<value>le train2</value>
+<value>SI</value>
+<value>les airs lents</value>
+<value>une minute</value>
+<value>le désordre</value>
+<value>les chemins</value>
+<value>la nuit</value>
+<value>des propos</value>
+<value>deux noms</value>
+<value>la moisson</value>
+<value>les foins et la moisson</value>
+<value>les travaux</value>
+<value>le chemin</value>
+<value>le chagrin</value>
+<value>des matins</value>
+<value>les foins</value>
+<value>famille de la narratrice</value>
+<value>la cendre</value>
+<value>une véritable crise</value>
+<value>une chaise</value>
+<value>autres casseroles</value>
+<value>une foule de choses</value>
+<value>la dinde ou la pintade</value>
+<value>le lait de Reine</value>
+<value>manger un fromage</value>
+<value>samedi soir</value>
+<value>l_église</value>
+<value>Manine</value>
+<value>Mme Lapierre</value>
+<value>la désunion</value>
+<value>Tante Rude</value>
+<value>Nicole et Nicolas</value>
+<value>la route</value>
+<value>rappel des jours lointains</value>
+<value>oncle</value>
+<value>divers moyens</value>
+<value>Mme Lapierre et la narratrice</value>
+<value>le village</value>
+<value>une longue salle</value>
+<value>père de la narratrice</value>
+<value>le foin</value>
+<value>des larmes</value>
+<value>de fines lamelles de chair</value>
+<value>une fatigue</value>
+<value>les casseroles</value>
+<value>un brouillard blanc</value>
+<value>bicyclette</value>
+<value>le chocolat</value>
+<value>la façon</value>
+<value>la maison</value>
+<value>une semaine</value>
+<value>un large écran</value>
+<value>des béquilles</value>
+<value>la porte</value>
+<value>mille dangers</value>
+<value>un plat</value>
+<value>les rires</value>
+<value>cette chaîne-là</value>
+<value>les pintades</value>
+<value>le temps</value>
+<value>le sentier</value>
+<value>petites tablettes</value>
+<value>les enfants du laboureur</value>
+<value>paupières de la narratrice</value>
+<value>une nuit</value>
+<value>la gare</value>
+<value>qui</value>
+<value>les filles</value>
+<value>partout</value>
+<value>le lait</value>
+<value>oreiller de la narratrice</value>
+<value>l_épouvantable scène</value>
+<value>l_amour</value>
+<value>une sorte de sanglot</value>
+<value>bouche de Reine</value>
+<value>cette joie</value>
+<value>gaîté de Firmin</value>
+<value>la dinde</value>
+<value>l_avenir</value>
+<value>l_étendue du plateau</value>
+<value>les prochaines vacances</value>
+<value>voiture de la narratrice</value>
+<value>le gros noyer</value>
+<value>le quai</value>
+<value>cette heure</value>
+<value>les baisers</value>
+<value>l_automne</value>
+<value>Jean</value>
+<value>une adresse</value>
+<value>les béquilles</value>
+<value>le motif</value>
+<value>une inquiétude</value>
+<value>le garçon meunier</value>
+<value>les courses du matin</value>
+<value>la défense</value>
+<value>le moulin</value>
+<value>boiteuse</value>
+<value>un bout de miroir</value>
+<value>Angèle et Firmin</value>
+<value>une lettre de Firmin</value>
+<value>le jardin</value>
+<value>un arbre</value>
+<value>narratrice et sa famille</value>
+<value>une punition de l_école</value>
+<value>la sécheresse de la voix du médecin</value>
+<value>le nid</value>
+<value>la rue barrée</value>
+<value>le sein de Manine</value>
+<value>la voiture</value>
+<value>l_infirmière</value>
+<value>narratrice et ses parents</value>
+<value>Tante Rude et oncle</value>
+<value>la nouvelle femme de ménage</value>
+<value>le médecin</value>
+<value>chambre d_enfant</value>
+<value>Gigotar</value>
+<value>la mer</value>
+<value>l_endroit</value>
+<value>la somme</value>
+<value>le vieux cocher</value>
+<value>la pitié</value>
+<value>les larmes</value>
+<value>femmes filles enfants</value>
+<value>mains de la narratrice</value>
+<value>les charbons rouges</value>
+<value>un jour</value>
+<value>cette succion</value>
+<value>une grande nouvelle</value>
+<value>de silences</value>
+<value>parcelles de peau</value>
+<value>des économies</value>
+<value>le soleil</value>
+<value>grand-mère</value>
+<value>le marteau</value>
+<value>un tombereau</value>
+<value>la haie</value>
+<value>de vieux jupons</value>
+<value>des semaines de souffrance</value>
+<value>récompense</value>
+<value>un fromage</value>
+<value>une somnolence</value>
+<value>les souvenirs</value>
+<value>le temps du procès</value>
+<value>les maladroits</value>
+<value>le fait de boiter</value>
+<value>Sita</value>
+<value>une fois</value>
+<value>des charettes</value>
+<value>l_affreux rêve</value>
+<value>le moment2</value>
+<value>le moment</value>
+<value>Angèle</value>
+<value>la Haie</value>
+<value>Gaston</value>
+<value>le blé</value>
+<value>la vie</value>
+<value>Firmin et la narratrice</value>
+<value>parents de la narratrice</value>
+<value>un agent de police</value>
+<value>les trois plus jeunes</value>
+<value>un air fâché</value>
+<value>dentelles</value>
+<value>les trains</value>
+<value>le laboureur</value>
+<value>un sommeil</value>
+<value>les jeux</value>
+<value>des mois</value>
+<value>l_homme au marteau</value>
+<value>le faucheur</value>
+<value>parents narratrice oncle</value>
+<value>défense</value>
+<value>une solide canne</value>
+<value>un nouveau biberon</value>
+<value>la famille moins Firmin</value>
+<value>les enfants</value>
+<value>tous les châtiments</value>
+<value>la rivière</value>
+<value>frères et soeurs de la narratrice</value>
+<value>Firmin</value>
+<value>maison de Manine</value>
+<value>bouilloire</value>
+<value>un tramway</value>
+<value>la douleur</value>
+<value>la femme de ménage</value>
+<value>la dure vibration</value>
+<value>le matin</value>
+<value>l_école</value>
+<value>le baiser de la narratrice</value>
+<value>yeux de la narratrice</value>
+<value>le jour</value>
+<value>des soubresauts</value>
+<value>les bruits</value>
+<value>la porte de la maison de Manine</value>
+<value>ce travail trop dur</value>
+<value>la prière</value>
+<value>les arbres</value>
+<value>le paysage</value>
+<value>les cris de Reine</value>
+<value>l_hôpital</value>
+<value>la misère</value>
+<value>les dindes et les pintades</value>
+<value>l_ouverture</value>
+<value>la poupée de Clémence</value>
+<value>référent indéfini</value>
+<value>corps de la narratrice</value>
+<value>le poisson</value>
+<value>le train</value>
+<value>les tasses</value>
+<value>pas indispensable</value>
+<value>le jour présent</value>
+<value>mère de la narratrice</value>
+<value>la fable du laboureur</value>
+<value>le printemps</value>
+<value>Reine et la narratrice</value>
+<value>les faits amusants</value>
+<value>les cris sourds</value>
+<value>NO</value>
+<value>les enfants3</value>
+<value>l_endroit2</value>
+<value>troupeaux paisibles</value>
+<value>le berceau de Reine</value>
+<value>toutes les filles</value>
+<value>une fable</value>
+<value>tête de la narratrice</value>
+<value>des reproches</value>
+<value>satin rose</value>
+<value>les enfants2</value>
+<value>une douleur</value>
+<value>le bout de la langue de Firmin</value>
+<value>un nourisson de Paris</value>
+<value>Clémence</value>
+<value>le coteau d_en face</value>
+<value>la baleine</value>
+<value>vie de la narratrice</value>
+<value>la suite</value>
+<value>dentelles et satin</value>
+<value>la petite maison</value>
+<value>la noisette brune</value>
+<value>la demande en divorce</value>
+<value>ma seule réponse</value>
+<value>l_appartement</value>
+<value>la couture</value>
+<value>ennui</value>
+<value>une rougeole</value>
+<value>brassières et petites robes</value>
+<value>Paris</value>
+</possibleValues>
+</feature>
+</featureSet>
+</type>
+</units>
+<relations>
+</relations>
+<schemas>
+<type name="CHAINE">
+<featureSet>
+<feature name="NB MAILLONS">
+<possibleValues default = "">
+<value>24</value>
+<value>69</value>
+<value>27</value>
+<value>28</value>
+<value>612</value>
+<value>50</value>
+<value>10</value>
+<value>54</value>
+<value>12</value>
+<value>13</value>
+<value>15</value>
+<value>38</value>
+<value>17</value>
+<value>39</value>
+<value>100</value>
+<value>1</value>
+<value>101</value>
+<value>2</value>
+<value>3</value>
+<value>4</value>
+<value>148</value>
+<value>5</value>
+<value>6</value>
+<value>7</value>
+<value>8</value>
+<value>9</value>
+<value>626</value>
+<value>60</value>
+<value>41</value>
+<value>85</value>
+<value>20</value>
+<value>21</value>
+</possibleValues>
+</feature>
+<feature name="UNIT REF">
+<possibleValues default = "">
+<value>None</value>
+<value>OTHER</value>
+<value>NO_PER</value>
+<value>LOC</value>
+<value>ORG</value>
+<value>VEH</value>
+<value>METALEPSE</value>
+<value>FAC</value>
+<value>TIME</value>
+<value>PER</value>
+<value>GPE</value>
+<value>TO_DISCUSS</value>
+<value>EVENT</value>
+</possibleValues>
+</feature>
+<feature name="REF">
+<possibleValues default = "">
+<value>de tout petits bouts de bois</value>
+<value>la douceur</value>
+<value>la batteuse</value>
+<value>un canot à vapeur</value>
+<value>le faucheur suivant</value>
+<value>un mal atroce</value>
+<value>le biberon</value>
+<value>Clémence et Nicole</value>
+<value>la ruelle étroite</value>
+<value>la campagne</value>
+<value>front de la narratrice</value>
+<value>Dieu</value>
+<value>ce qui me plaisait le plus</value>
+<value>une peine</value>
+<value>l_hiver</value>
+<value>les jours</value>
+<value>Nicole</value>
+<value>la nuit</value>
+<value>des propos</value>
+<value>les foins et la moisson</value>
+<value>le chagrin</value>
+<value>des matins</value>
+<value>Manine</value>
+<value>Mme Lapierre</value>
+<value>Tante Rude</value>
+<value>SI_281</value>
+<value>rappel des jours lointains</value>
+<value>SI_282</value>
+<value>SI_280</value>
+<value>le village</value>
+<value>SI_285</value>
+<value>SI_286</value>
+<value>SI_283</value>
+<value>père de la narratrice</value>
+<value>SI_284</value>
+<value>SI_289</value>
+<value>SI_287</value>
+<value>de fines lamelles de chair</value>
+<value>SI_288</value>
+<value>une fatigue</value>
+<value>les casseroles</value>
+<value>un brouillard blanc</value>
+<value>SI_7</value>
+<value>SI_8</value>
+<value>SI_5</value>
+<value>un large écran</value>
+<value>des béquilles</value>
+<value>SI_6</value>
+<value>SI_3</value>
+<value>SI_4</value>
+<value>SI_1</value>
+<value>SI_2</value>
+<value>SI_292</value>
+<value>SI_293</value>
+<value>SI_290</value>
+<value>SI_291</value>
+<value>SI_296</value>
+<value>SI_297</value>
+<value>SI_294</value>
+<value>SI_9</value>
+<value>SI_295</value>
+<value>les pintades</value>
+<value>SI_298</value>
+<value>SI_299</value>
+<value>le sentier</value>
+<value>une nuit</value>
+<value>la gare</value>
+<value>le lait</value>
+<value>l_épouvantable scène</value>
+<value>SI_260</value>
+<value>SI_263</value>
+<value>SI_264</value>
+<value>SI_261</value>
+<value>SI_262</value>
+<value>SI_267</value>
+<value>l_avenir</value>
+<value>SI_268</value>
+<value>SI_265</value>
+<value>SI_266</value>
+<value>les prochaines vacances</value>
+<value>le gros noyer</value>
+<value>SI_269</value>
+<value>le quai</value>
+<value>les baisers</value>
+<value>l_automne</value>
+<value>les béquilles</value>
+<value>SI_270</value>
+<value>SI_271</value>
+<value>SI_274</value>
+<value>SI_275</value>
+<value>SI_272</value>
+<value>SI_273</value>
+<value>SI_278</value>
+<value>SI_279</value>
+<value>SI_276</value>
+<value>SI_277</value>
+<value>boiteuse</value>
+<value>la rue barrée</value>
+<value>SI_480</value>
+<value>SI_483</value>
+<value>SI_241</value>
+<value>SI_484</value>
+<value>SI_242</value>
+<value>SI_481</value>
+<value>SI_482</value>
+<value>SI_240</value>
+<value>SI_245</value>
+<value>SI_487</value>
+<value>SI_246</value>
+<value>SI_488</value>
+<value>SI_485</value>
+<value>SI_243</value>
+<value>SI_244</value>
+<value>SI_486</value>
+<value>SI_249</value>
+<value>la mer</value>
+<value>SI_489</value>
+<value>SI_247</value>
+<value>SI_248</value>
+<value>la pitié</value>
+<value>mains de la narratrice</value>
+<value>SI_490</value>
+<value>de silences</value>
+<value>SI_491</value>
+<value>SI_494</value>
+<value>SI_252</value>
+<value>parcelles de peau</value>
+<value>SI_253</value>
+<value>SI_495</value>
+<value>le soleil</value>
+<value>SI_492</value>
+<value>SI_250</value>
+<value>SI_493</value>
+<value>SI_251</value>
+<value>SI_256</value>
+<value>SI_498</value>
+<value>SI_257</value>
+<value>SI_499</value>
+<value>SI_496</value>
+<value>SI_254</value>
+<value>SI_497</value>
+<value>SI_255</value>
+<value>SI_258</value>
+<value>un fromage</value>
+<value>SI_259</value>
+<value>une somnolence</value>
+<value>les souvenirs</value>
+<value>SI_229</value>
+<value>une fois</value>
+<value>des charettes</value>
+<value>SI_461</value>
+<value>SI_220</value>
+<value>SI_462</value>
+<value>SI_460</value>
+<value>parents de la narratrice</value>
+<value>SI_223</value>
+<value>SI_465</value>
+<value>SI_224</value>
+<value>SI_466</value>
+<value>les trois plus jeunes</value>
+<value>SI_463</value>
+<value>SI_221</value>
+<value>SI_222</value>
+<value>SI_464</value>
+<value>SI_227</value>
+<value>SI_469</value>
+<value>SI_228</value>
+<value>SI_225</value>
+<value>SI_467</value>
+<value>SI_468</value>
+<value>SI_226</value>
+<value>des mois</value>
+<value>le faucheur</value>
+<value>parents narratrice oncle</value>
+<value>une solide canne</value>
+<value>les enfants</value>
+<value>tous les châtiments</value>
+<value>SI_472</value>
+<value>SI_230</value>
+<value>SI_473</value>
+<value>SI_231</value>
+<value>SI_470</value>
+<value>SI_471</value>
+<value>SI_234</value>
+<value>SI_476</value>
+<value>SI_235</value>
+<value>SI_477</value>
+<value>SI_474</value>
+<value>SI_232</value>
+<value>SI_233</value>
+<value>SI_475</value>
+<value>bouilloire</value>
+<value>SI_238</value>
+<value>SI_239</value>
+<value>la douleur</value>
+<value>SI_236</value>
+<value>SI_478</value>
+<value>SI_237</value>
+<value>SI_479</value>
+<value>SI_209</value>
+<value>la dure vibration</value>
+<value>SI_207</value>
+<value>SI_449</value>
+<value>SI_208</value>
+<value>le baiser de la narratrice</value>
+<value>la porte de la maison de Manine</value>
+<value>la prière</value>
+<value>SI_681</value>
+<value>SI_682</value>
+<value>SI_440</value>
+<value>les cris de Reine</value>
+<value>SI_680</value>
+<value>SI_201</value>
+<value>SI_443</value>
+<value>SI_685</value>
+<value>SI_444</value>
+<value>SI_686</value>
+<value>SI_202</value>
+<value>SI_441</value>
+<value>SI_683</value>
+<value>SI_684</value>
+<value>SI_442</value>
+<value>SI_200</value>
+<value>SI_689</value>
+<value>SI_447</value>
+<value>SI_205</value>
+<value>SI_448</value>
+<value>SI_206</value>
+<value>SI_687</value>
+<value>SI_203</value>
+<value>SI_445</value>
+<value>SI_204</value>
+<value>SI_446</value>
+<value>SI_688</value>
+<value>SI_218</value>
+<value>SI_219</value>
+<value>SI_450</value>
+<value>SI_692</value>
+<value>SI_693</value>
+<value>SI_451</value>
+<value>SI_690</value>
+<value>le printemps</value>
+<value>SI_691</value>
+<value>SI_212</value>
+<value>SI_454</value>
+<value>SI_696</value>
+<value>Reine et la narratrice</value>
+<value>SI_455</value>
+<value>SI_697</value>
+<value>SI_213</value>
+<value>SI_694</value>
+<value>SI_210</value>
+<value>SI_452</value>
+<value>SI_211</value>
+<value>SI_453</value>
+<value>SI_695</value>
+<value>les faits amusants</value>
+<value>SI_458</value>
+<value>SI_216</value>
+<value>SI_459</value>
+<value>SI_217</value>
+<value>les cris sourds</value>
+<value>SI_698</value>
+<value>SI_456</value>
+<value>SI_214</value>
+<value>SI_699</value>
+<value>SI_457</value>
+<value>SI_215</value>
+<value>SI_429</value>
+<value>NO</value>
+<value>SI_427</value>
+<value>SI_669</value>
+<value>SI_428</value>
+<value>le berceau de Reine</value>
+<value>tête de la narratrice</value>
+<value>SI_660</value>
+<value>SI_663</value>
+<value>SI_421</value>
+<value>SI_422</value>
+<value>SI_664</value>
+<value>SI_661</value>
+<value>SI_420</value>
+<value>SI_662</value>
+<value>SI_667</value>
+<value>SI_425</value>
+<value>SI_668</value>
+<value>SI_426</value>
+<value>SI_665</value>
+<value>SI_423</value>
+<value>SI_666</value>
+<value>SI_424</value>
+<value>SI_438</value>
+<value>SI_439</value>
+<value>SI_670</value>
+<value>SI_671</value>
+<value>SI_432</value>
+<value>SI_674</value>
+<value>SI_433</value>
+<value>SI_675</value>
+<value>SI_430</value>
+<value>SI_672</value>
+<value>SI_431</value>
+<value>SI_673</value>
+<value>SI_678</value>
+<value>SI_436</value>
+<value>SI_437</value>
+<value>SI_679</value>
+<value>une rougeole</value>
+<value>SI_434</value>
+<value>SI_676</value>
+<value>SI_677</value>
+<value>SI_435</value>
+<value>SI_528</value>
+<value>SI_529</value>
+<value>SI_526</value>
+<value>SI_768</value>
+<value>SI_527</value>
+<value>SI_769</value>
+<value>les fables</value>
+<value>la hanche</value>
+<value>le pas de deux personnes</value>
+<value>disputes des parents</value>
+<value>SI_762</value>
+<value>SI_520</value>
+<value>SI_521</value>
+<value>SI_763</value>
+<value>SI_760</value>
+<value>SI_761</value>
+<value>SI_766</value>
+<value>SI_524</value>
+<value>SI_767</value>
+<value>SI_525</value>
+<value>SI_522</value>
+<value>SI_764</value>
+<value>SI_523</value>
+<value>SI_765</value>
+<value>SI_539</value>
+<value>SI_779</value>
+<value>SI_537</value>
+<value>SI_538</value>
+<value>SI_770</value>
+<value>SI_773</value>
+<value>SI_531</value>
+<value>SI_774</value>
+<value>SI_532</value>
+<value>SI_771</value>
+<value>SI_772</value>
+<value>SI_530</value>
+<value>SI_777</value>
+<value>SI_535</value>
+<value>SI_778</value>
+<value>SI_536</value>
+<value>SI_533</value>
+<value>SI_775</value>
+<value>SI_776</value>
+<value>SI_534</value>
+<value>SI_506</value>
+<value>SI_748</value>
+<value>SI_507</value>
+<value>SI_749</value>
+<value>SI_504</value>
+<value>SI_988</value>
+<value>SI_746</value>
+<value>lit de la narratrice</value>
+<value>SI_747</value>
+<value>SI_989</value>
+<value>SI_505</value>
+<value>SI_508</value>
+<value>SI_509</value>
+<value>Nicolas</value>
+<value>SI_740</value>
+<value>SI_982</value>
+<value>SI_741</value>
+<value>SI_983</value>
+<value>SI_980</value>
+<value>SI_981</value>
+<value>SI_986</value>
+<value>SI_502</value>
+<value>SI_744</value>
+<value>SI_745</value>
+<value>SI_987</value>
+<value>SI_503</value>
+<value>SI_984</value>
+<value>SI_742</value>
+<value>SI_500</value>
+<value>SI_743</value>
+<value>SI_985</value>
+<value>SI_501</value>
+<value>SI_517</value>
+<value>SI_759</value>
+<value>SI_518</value>
+<value>SI_515</value>
+<value>SI_999</value>
+<value>SI_757</value>
+<value>SI_758</value>
+<value>SI_516</value>
+<value>SI_519</value>
+<value>les travaux</value>
+<value>SI_990</value>
+<value>SI_993</value>
+<value>SI_751</value>
+<value>SI_510</value>
+<value>SI_752</value>
+<value>SI_994</value>
+<value>SI_991</value>
+<value>SI_992</value>
+<value>SI_750</value>
+<value>famille de la narratrice</value>
+<value>la cendre</value>
+<value>SI_997</value>
+<value>SI_513</value>
+<value>SI_755</value>
+<value>SI_756</value>
+<value>SI_514</value>
+<value>SI_998</value>
+<value>une véritable crise</value>
+<value>SI_995</value>
+<value>SI_511</value>
+<value>SI_753</value>
+<value>SI_996</value>
+<value>SI_754</value>
+<value>SI_512</value>
+<value>SI_726</value>
+<value>SI_968</value>
+<value>SI_727</value>
+<value>SI_969</value>
+<value>SI_966</value>
+<value>SI_724</value>
+<value>SI_725</value>
+<value>SI_967</value>
+<value>manger un fromage</value>
+<value>samedi soir</value>
+<value>SI_728</value>
+<value>SI_729</value>
+<value>divers moyens</value>
+<value>SI_960</value>
+<value>SI_961</value>
+<value>SI_722</value>
+<value>SI_964</value>
+<value>SI_965</value>
+<value>SI_723</value>
+<value>SI_720</value>
+<value>SI_962</value>
+<value>SI_721</value>
+<value>SI_963</value>
+<value>SI_979</value>
+<value>SI_737</value>
+<value>SI_738</value>
+<value>SI_735</value>
+<value>SI_977</value>
+<value>SI_978</value>
+<value>SI_736</value>
+<value>SI_739</value>
+<value>cette chaîne-là</value>
+<value>SI_971</value>
+<value>SI_972</value>
+<value>SI_730</value>
+<value>SI_970</value>
+<value>SI_975</value>
+<value>SI_733</value>
+<value>SI_976</value>
+<value>SI_734</value>
+<value>SI_973</value>
+<value>SI_731</value>
+<value>SI_732</value>
+<value>SI_974</value>
+<value>SI_946</value>
+<value>SI_704</value>
+<value>SI_705</value>
+<value>SI_947</value>
+<value>SI_702</value>
+<value>SI_944</value>
+<value>SI_703</value>
+<value>SI_945</value>
+<value>SI_708</value>
+<value>les filles</value>
+<value>SI_709</value>
+<value>SI_948</value>
+<value>SI_706</value>
+<value>partout</value>
+<value>SI_949</value>
+<value>SI_707</value>
+<value>gaîté de Firmin</value>
+<value>la dinde</value>
+<value>l_étendue du plateau</value>
+<value>SI_942</value>
+<value>SI_700</value>
+<value>SI_943</value>
+<value>SI_701</value>
+<value>SI_940</value>
+<value>SI_941</value>
+<value>SI_957</value>
+<value>SI_715</value>
+<value>cette heure</value>
+<value>SI_716</value>
+<value>SI_958</value>
+<value>SI_713</value>
+<value>SI_955</value>
+<value>SI_956</value>
+<value>SI_714</value>
+<value>SI_719</value>
+<value>SI_959</value>
+<value>SI_717</value>
+<value>SI_718</value>
+<value>Jean</value>
+<value>les courses du matin</value>
+<value>la défense</value>
+<value>le moulin</value>
+<value>SI_950</value>
+<value>SI_711</value>
+<value>SI_953</value>
+<value>SI_954</value>
+<value>SI_712</value>
+<value>un bout de miroir</value>
+<value>Angèle et Firmin</value>
+<value>SI_951</value>
+<value>SI_952</value>
+<value>SI_710</value>
+<value>SI_924</value>
+<value>SI_925</value>
+<value>SI_922</value>
+<value>un arbre</value>
+<value>SI_923</value>
+<value>narratrice et sa famille</value>
+<value>SI_928</value>
+<value>une punition de l_école</value>
+<value>SI_929</value>
+<value>SI_926</value>
+<value>SI_927</value>
+<value>le nid</value>
+<value>la voiture</value>
+<value>Tante Rude et oncle</value>
+<value>SI_920</value>
+<value>SI_921</value>
+<value>SI_935</value>
+<value>la somme</value>
+<value>SI_936</value>
+<value>SI_933</value>
+<value>SI_934</value>
+<value>SI_939</value>
+<value>femmes filles enfants</value>
+<value>SI_937</value>
+<value>SI_938</value>
+<value>cette succion</value>
+<value>un tombereau</value>
+<value>la haie</value>
+<value>SI_931</value>
+<value>SI_932</value>
+<value>récompense</value>
+<value>SI_930</value>
+<value>SI_902</value>
+<value>SI_903</value>
+<value>SI_900</value>
+<value>SI_901</value>
+<value>Sita</value>
+<value>SI_906</value>
+<value>SI_907</value>
+<value>SI_904</value>
+<value>SI_905</value>
+<value>l_affreux rêve</value>
+<value>SI_908</value>
+<value>SI_909</value>
+<value>la vie</value>
+<value>un air fâché</value>
+<value>dentelles</value>
+<value>SI_913</value>
+<value>le laboureur</value>
+<value>SI_914</value>
+<value>SI_911</value>
+<value>SI_912</value>
+<value>SI_917</value>
+<value>l_homme au marteau</value>
+<value>SI_918</value>
+<value>SI_915</value>
+<value>SI_916</value>
+<value>SI_919</value>
+<value>SI_910</value>
+<value>la femme de ménage</value>
+<value>le matin</value>
+<value>yeux de la narratrice</value>
+<value>le jour</value>
+<value>les bruits</value>
+<value>les dindes et les pintades</value>
+<value>la poupée de Clémence</value>
+<value>le poisson</value>
+<value>le train</value>
+<value>pas indispensable</value>
+<value>la fable du laboureur</value>
+<value>les enfants3</value>
+<value>l_endroit2</value>
+<value>une fable</value>
+<value>des reproches</value>
+<value>les enfants2</value>
+<value>une douleur</value>
+<value>le bout de la langue de Firmin</value>
+<value>un nourisson de Paris</value>
+<value>le coteau d_en face</value>
+<value>vie de la narratrice</value>
+<value>dentelles et satin</value>
+<value>la couture</value>
+<value>yeux de Reine</value>
+<value>SI_18</value>
+<value>SI_19</value>
+<value>beauté</value>
+<value>SI_14</value>
+<value>SI_15</value>
+<value>SI_16</value>
+<value>SI_17</value>
+<value>leçons de Firmin</value>
+<value>SI_10</value>
+<value>la barrière de sortie</value>
+<value>SI_11</value>
+<value>Reine</value>
+<value>SI_12</value>
+<value>le fiacre</value>
+<value>SI_13</value>
+<value>SI_1000</value>
+<value>SI_1001</value>
+<value>SI_1002</value>
+<value>SI_1003</value>
+<value>SI_1004</value>
+<value>dimanche</value>
+<value>SI_1005</value>
+<value>poitrine de la narratrice</value>
+<value>SI_1006</value>
+<value>SI_1007</value>
+<value>les hommes</value>
+<value>le choc</value>
+<value>SI_1008</value>
+<value>SI_1009</value>
+<value>SI_1011</value>
+<value>SI_1012</value>
+<value>SI_1013</value>
+<value>SI_1014</value>
+<value>une grande automobile</value>
+<value>SI_1015</value>
+<value>SI_1016</value>
+<value>SI_1017</value>
+<value>SI_1018</value>
+<value>une étincelle</value>
+<value>SI_190</value>
+<value>SI_1010</value>
+<value>SI_182</value>
+<value>SI_183</value>
+<value>SI_30</value>
+<value>SI_180</value>
+<value>SI_31</value>
+<value>SI_181</value>
+<value>SI_186</value>
+<value>SI_187</value>
+<value>SI_184</value>
+<value>SI_185</value>
+<value>SI_36</value>
+<value>SI_1019</value>
+<value>les airs lents</value>
+<value>SI_37</value>
+<value>une minute</value>
+<value>SI_188</value>
+<value>SI_38</value>
+<value>SI_39</value>
+<value>SI_189</value>
+<value>SI_32</value>
+<value>SI_33</value>
+<value>SI_34</value>
+<value>SI_35</value>
+<value>les chemins</value>
+<value>SI_1022</value>
+<value>SI_1023</value>
+<value>SI_1024</value>
+<value>SI_1025</value>
+<value>deux noms</value>
+<value>SI_29</value>
+<value>SI_1026</value>
+<value>SI_1027</value>
+<value>SI_1028</value>
+<value>SI_1029</value>
+<value>SI_1020</value>
+<value>SI_1021</value>
+<value>SI_193</value>
+<value>les foins</value>
+<value>SI_194</value>
+<value>SI_191</value>
+<value>SI_192</value>
+<value>SI_20</value>
+<value>SI_197</value>
+<value>SI_198</value>
+<value>SI_195</value>
+<value>SI_196</value>
+<value>SI_25</value>
+<value>SI_26</value>
+<value>SI_27</value>
+<value>SI_199</value>
+<value>SI_28</value>
+<value>SI_21</value>
+<value>SI_22</value>
+<value>SI_23</value>
+<value>une foule de choses</value>
+<value>SI_24</value>
+<value>le lait de Reine</value>
+<value>la désunion</value>
+<value>Nicole et Nicolas</value>
+<value>la route</value>
+<value>SI_160</value>
+<value>SI_161</value>
+<value>oncle</value>
+<value>SI_164</value>
+<value>SI_165</value>
+<value>SI_162</value>
+<value>SI_163</value>
+<value>SI_168</value>
+<value>SI_169</value>
+<value>SI_166</value>
+<value>SI_167</value>
+<value>bicyclette</value>
+<value>le chocolat</value>
+<value>la maison</value>
+<value>mille dangers</value>
+<value>SI_171</value>
+<value>SI_172</value>
+<value>SI_170</value>
+<value>SI_175</value>
+<value>SI_176</value>
+<value>les rires</value>
+<value>SI_173</value>
+<value>SI_174</value>
+<value>SI_179</value>
+<value>SI_177</value>
+<value>SI_178</value>
+<value>petites tablettes</value>
+<value>paupières de la narratrice</value>
+<value>oreiller de la narratrice</value>
+<value>SI_380</value>
+<value>bouche de Reine</value>
+<value>cette joie</value>
+<value>SI_381</value>
+<value>SI_384</value>
+<value>SI_142</value>
+<value>SI_143</value>
+<value>SI_385</value>
+<value>SI_140</value>
+<value>SI_382</value>
+<value>SI_383</value>
+<value>SI_141</value>
+<value>SI_388</value>
+<value>SI_146</value>
+<value>SI_389</value>
+<value>SI_147</value>
+<value>SI_144</value>
+<value>SI_386</value>
+<value>SI_145</value>
+<value>SI_387</value>
+<value>SI_148</value>
+<value>SI_149</value>
+<value>le motif</value>
+<value>une inquiétude</value>
+<value>SI_391</value>
+<value>SI_150</value>
+<value>SI_392</value>
+<value>SI_390</value>
+<value>SI_153</value>
+<value>SI_395</value>
+<value>SI_154</value>
+<value>SI_396</value>
+<value>SI_393</value>
+<value>SI_151</value>
+<value>SI_394</value>
+<value>SI_152</value>
+<value>SI_157</value>
+<value>SI_399</value>
+<value>SI_158</value>
+<value>SI_155</value>
+<value>SI_397</value>
+<value>SI_398</value>
+<value>SI_156</value>
+<value>SI_159</value>
+<value>SI_1070</value>
+<value>SI_1071</value>
+<value>SI_1072</value>
+<value>le sein de Manine</value>
+<value>SI_94</value>
+<value>SI_95</value>
+<value>SI_96</value>
+<value>narratrice et ses parents</value>
+<value>SI_97</value>
+<value>SI_90</value>
+<value>SI_362</value>
+<value>SI_120</value>
+<value>SI_121</value>
+<value>SI_363</value>
+<value>SI_91</value>
+<value>SI_92</value>
+<value>SI_360</value>
+<value>SI_93</value>
+<value>SI_361</value>
+<value>SI_124</value>
+<value>SI_366</value>
+<value>SI_367</value>
+<value>SI_125</value>
+<value>SI_364</value>
+<value>SI_122</value>
+<value>SI_123</value>
+<value>SI_365</value>
+<value>SI_128</value>
+<value>SI_98</value>
+<value>Gigotar</value>
+<value>SI_129</value>
+<value>SI_99</value>
+<value>SI_368</value>
+<value>SI_126</value>
+<value>SI_127</value>
+<value>SI_369</value>
+<value>le vieux cocher</value>
+<value>les larmes</value>
+<value>un jour</value>
+<value>SI_83</value>
+<value>SI_370</value>
+<value>SI_84</value>
+<value>SI_85</value>
+<value>SI_86</value>
+<value>SI_373</value>
+<value>SI_131</value>
+<value>SI_80</value>
+<value>SI_374</value>
+<value>SI_132</value>
+<value>des économies</value>
+<value>grand-mère</value>
+<value>SI_81</value>
+<value>SI_371</value>
+<value>le marteau</value>
+<value>SI_372</value>
+<value>SI_82</value>
+<value>SI_130</value>
+<value>SI_135</value>
+<value>SI_377</value>
+<value>SI_378</value>
+<value>SI_136</value>
+<value>SI_133</value>
+<value>SI_375</value>
+<value>SI_376</value>
+<value>SI_134</value>
+<value>SI_87</value>
+<value>SI_139</value>
+<value>SI_88</value>
+<value>SI_379</value>
+<value>SI_89</value>
+<value>SI_137</value>
+<value>SI_138</value>
+<value>le temps du procès</value>
+<value>les maladroits</value>
+<value>SI_108</value>
+<value>SI_109</value>
+<value>le moment2</value>
+<value>Angèle</value>
+<value>Gaston</value>
+<value>SI_340</value>
+<value>SI_582</value>
+<value>SI_341</value>
+<value>SI_583</value>
+<value>SI_580</value>
+<value>SI_581</value>
+<value>SI_586</value>
+<value>SI_102</value>
+<value>SI_344</value>
+<value>SI_345</value>
+<value>SI_587</value>
+<value>SI_103</value>
+<value>un agent de police</value>
+<value>SI_584</value>
+<value>SI_342</value>
+<value>SI_100</value>
+<value>SI_343</value>
+<value>SI_585</value>
+<value>SI_101</value>
+<value>SI_106</value>
+<value>SI_348</value>
+<value>SI_107</value>
+<value>SI_349</value>
+<value>SI_346</value>
+<value>SI_588</value>
+<value>SI_104</value>
+<value>SI_589</value>
+<value>SI_105</value>
+<value>SI_347</value>
+<value>les trains</value>
+<value>un sommeil</value>
+<value>SI_119</value>
+<value>défense</value>
+<value>un nouveau biberon</value>
+<value>la famille moins Firmin</value>
+<value>SI_590</value>
+<value>Firmin</value>
+<value>SI_593</value>
+<value>SI_351</value>
+<value>SI_110</value>
+<value>SI_352</value>
+<value>SI_594</value>
+<value>SI_591</value>
+<value>maison de Manine</value>
+<value>SI_350</value>
+<value>SI_592</value>
+<value>SI_597</value>
+<value>SI_113</value>
+<value>SI_355</value>
+<value>SI_598</value>
+<value>SI_356</value>
+<value>SI_114</value>
+<value>SI_595</value>
+<value>SI_353</value>
+<value>SI_111</value>
+<value>SI_112</value>
+<value>SI_596</value>
+<value>SI_354</value>
+<value>SI_117</value>
+<value>SI_359</value>
+<value>SI_118</value>
+<value>SI_357</value>
+<value>SI_115</value>
+<value>SI_599</value>
+<value>SI_116</value>
+<value>SI_358</value>
+<value>SI_1033</value>
+<value>SI_1034</value>
+<value>SI_328</value>
+<value>SI_1035</value>
+<value>SI_1036</value>
+<value>SI_329</value>
+<value>l_école</value>
+<value>SI_1037</value>
+<value>SI_1038</value>
+<value>SI_1039</value>
+<value>des soubresauts</value>
+<value>SI_1030</value>
+<value>SI_1031</value>
+<value>SI_1032</value>
+<value>SI_50</value>
+<value>les arbres</value>
+<value>SI_51</value>
+<value>SI_52</value>
+<value>SI_53</value>
+<value>SI_560</value>
+<value>SI_561</value>
+<value>l_hôpital</value>
+<value>la misère</value>
+<value>SI_58</value>
+<value>SI_322</value>
+<value>SI_564</value>
+<value>l_ouverture</value>
+<value>SI_59</value>
+<value>SI_565</value>
+<value>SI_323</value>
+<value>SI_320</value>
+<value>SI_562</value>
+<value>SI_563</value>
+<value>SI_321</value>
+<value>SI_54</value>
+<value>SI_568</value>
+<value>SI_326</value>
+<value>SI_569</value>
+<value>SI_55</value>
+<value>SI_327</value>
+<value>SI_566</value>
+<value>SI_324</value>
+<value>SI_56</value>
+<value>référent indéfini</value>
+<value>SI_567</value>
+<value>SI_57</value>
+<value>SI_325</value>
+<value>SI_1044</value>
+<value>SI_1045</value>
+<value>SI_1046</value>
+<value>SI_339</value>
+<value>SI_1047</value>
+<value>SI_1048</value>
+<value>SI_1049</value>
+<value>SI_1040</value>
+<value>SI_1041</value>
+<value>SI_1042</value>
+<value>SI_1043</value>
+<value>SI_40</value>
+<value>SI_41</value>
+<value>SI_42</value>
+<value>SI_571</value>
+<value>SI_330</value>
+<value>SI_572</value>
+<value>SI_570</value>
+<value>SI_575</value>
+<value>SI_47</value>
+<value>SI_333</value>
+<value>SI_334</value>
+<value>SI_48</value>
+<value>SI_576</value>
+<value>SI_331</value>
+<value>SI_49</value>
+<value>SI_573</value>
+<value>SI_574</value>
+<value>SI_332</value>
+<value>SI_43</value>
+<value>SI_579</value>
+<value>SI_337</value>
+<value>SI_338</value>
+<value>SI_44</value>
+<value>SI_335</value>
+<value>SI_45</value>
+<value>SI_577</value>
+<value>SI_336</value>
+<value>SI_578</value>
+<value>SI_46</value>
+<value>SI_308</value>
+<value>SI_1055</value>
+<value>SI_1056</value>
+<value>SI_309</value>
+<value>SI_1057</value>
+<value>SI_306</value>
+<value>SI_548</value>
+<value>SI_1058</value>
+<value>SI_549</value>
+<value>SI_307</value>
+<value>SI_1059</value>
+<value>toutes les filles</value>
+<value>SI_1050</value>
+<value>SI_1051</value>
+<value>SI_1052</value>
+<value>SI_1053</value>
+<value>SI_1054</value>
+<value>SI_72</value>
+<value>SI_73</value>
+<value>SI_74</value>
+<value>SI_75</value>
+<value>satin rose</value>
+<value>SI_780</value>
+<value>SI_781</value>
+<value>SI_70</value>
+<value>SI_71</value>
+<value>SI_542</value>
+<value>SI_300</value>
+<value>SI_784</value>
+<value>SI_301</value>
+<value>SI_543</value>
+<value>SI_785</value>
+<value>SI_540</value>
+<value>SI_782</value>
+<value>SI_541</value>
+<value>SI_783</value>
+<value>SI_76</value>
+<value>SI_546</value>
+<value>SI_304</value>
+<value>SI_788</value>
+<value>SI_77</value>
+<value>SI_547</value>
+<value>SI_305</value>
+<value>SI_789</value>
+<value>SI_302</value>
+<value>SI_544</value>
+<value>SI_78</value>
+<value>SI_786</value>
+<value>SI_303</value>
+<value>SI_79</value>
+<value>SI_787</value>
+<value>SI_545</value>
+<value>SI_1066</value>
+<value>SI_319</value>
+<value>SI_1067</value>
+<value>SI_1068</value>
+<value>SI_559</value>
+<value>SI_317</value>
+<value>SI_1069</value>
+<value>SI_318</value>
+<value>SI_1060</value>
+<value>SI_1061</value>
+<value>SI_1062</value>
+<value>SI_1063</value>
+<value>SI_1064</value>
+<value>la petite maison</value>
+<value>SI_1065</value>
+<value>SI_61</value>
+<value>SI_62</value>
+<value>SI_63</value>
+<value>SI_64</value>
+<value>ma seule réponse</value>
+<value>SI_791</value>
+<value>SI_550</value>
+<value>SI_792</value>
+<value>l_appartement</value>
+<value>SI_60</value>
+<value>SI_790</value>
+<value>SI_69</value>
+<value>SI_311</value>
+<value>SI_553</value>
+<value>SI_795</value>
+<value>SI_796</value>
+<value>SI_554</value>
+<value>SI_312</value>
+<value>SI_551</value>
+<value>SI_793</value>
+<value>SI_794</value>
+<value>SI_310</value>
+<value>SI_552</value>
+<value>SI_65</value>
+<value>SI_799</value>
+<value>SI_557</value>
+<value>SI_315</value>
+<value>SI_66</value>
+<value>SI_316</value>
+<value>SI_558</value>
+<value>Paris</value>
+<value>SI_313</value>
+<value>SI_797</value>
+<value>SI_67</value>
+<value>SI_555</value>
+<value>SI_798</value>
+<value>SI_556</value>
+<value>SI_314</value>
+<value>SI_68</value>
+<value>SI_407</value>
+<value>SI_649</value>
+<value>des navires magnifiques</value>
+<value>SI_408</value>
+<value>SI_647</value>
+<value>SI_405</value>
+<value>SI_889</value>
+<value>SI_406</value>
+<value>SI_648</value>
+<value>SI_409</value>
+<value>SI_880</value>
+<value>narratrice</value>
+<value>SI_641</value>
+<value>SI_883</value>
+<value>des bruits de toutes sortes</value>
+<value>la Vierge</value>
+<value>SI_884</value>
+<value>SI_400</value>
+<value>SI_642</value>
+<value>SI_881</value>
+<value>SI_640</value>
+<value>SI_882</value>
+<value>SI_403</value>
+<value>SI_887</value>
+<value>SI_645</value>
+<value>SI_404</value>
+<value>SI_888</value>
+<value>SI_646</value>
+<value>SI_885</value>
+<value>SI_401</value>
+<value>SI_643</value>
+<value>SI_886</value>
+<value>SI_402</value>
+<value>SI_644</value>
+<value>SI_418</value>
+<value>SI_419</value>
+<value>SI_416</value>
+<value>SI_658</value>
+<value>SI_417</value>
+<value>SI_659</value>
+<value>Manine et la narratrice</value>
+<value>les dindes</value>
+<value>pleurs de la mère</value>
+<value>SI_890</value>
+<value>SI_891</value>
+<value>SI_410</value>
+<value>SI_894</value>
+<value>SI_652</value>
+<value>des choses</value>
+<value>SI_653</value>
+<value>SI_411</value>
+<value>SI_895</value>
+<value>une autre voix</value>
+<value>SI_650</value>
+<value>SI_892</value>
+<value>des oeufs</value>
+<value>SI_651</value>
+<value>SI_893</value>
+<value>SI_656</value>
+<value>SI_414</value>
+<value>SI_898</value>
+<value>SI_657</value>
+<value>SI_415</value>
+<value>SI_899</value>
+<value>SI_896</value>
+<value>SI_654</value>
+<value>SI_412</value>
+<value>SI_897</value>
+<value>SI_655</value>
+<value>SI_413</value>
+<value>SI_869</value>
+<value>SI_627</value>
+<value>SI_628</value>
+<value>un cerf en péril</value>
+<value>SI_867</value>
+<value>SI_625</value>
+<value>SI_626</value>
+<value>SI_868</value>
+<value>SI_629</value>
+<value>le biberon générique</value>
+<value>une mince partie de chair</value>
+<value>le train2</value>
+<value>SI_861</value>
+<value>SI_862</value>
+<value>SI_620</value>
+<value>SI_860</value>
+<value>SI_623</value>
+<value>SI_865</value>
+<value>SI_866</value>
+<value>SI_624</value>
+<value>le désordre</value>
+<value>SI_863</value>
+<value>SI_621</value>
+<value>SI_622</value>
+<value>SI_864</value>
+<value>SI_638</value>
+<value>SI_639</value>
+<value>SI_878</value>
+<value>SI_636</value>
+<value>SI_637</value>
+<value>SI_879</value>
+<value>la moisson</value>
+<value>le chemin</value>
+<value>SI_630</value>
+<value>SI_872</value>
+<value>SI_873</value>
+<value>SI_631</value>
+<value>SI_870</value>
+<value>SI_871</value>
+<value>SI_634</value>
+<value>SI_876</value>
+<value>SI_877</value>
+<value>SI_635</value>
+<value>une chaise</value>
+<value>SI_632</value>
+<value>SI_874</value>
+<value>autres casseroles</value>
+<value>SI_633</value>
+<value>SI_875</value>
+<value>la dinde ou la pintade</value>
+<value>SI_605</value>
+<value>SI_847</value>
+<value>SI_848</value>
+<value>SI_606</value>
+<value>SI_845</value>
+<value>SI_603</value>
+<value>SI_846</value>
+<value>SI_604</value>
+<value>SI_609</value>
+<value>l_église</value>
+<value>SI_607</value>
+<value>SI_849</value>
+<value>SI_608</value>
+<value>Mme Lapierre et la narratrice</value>
+<value>une longue salle</value>
+<value>le foin</value>
+<value>SI_840</value>
+<value>des larmes</value>
+<value>SI_843</value>
+<value>SI_601</value>
+<value>SI_844</value>
+<value>SI_602</value>
+<value>SI_841</value>
+<value>SI_842</value>
+<value>SI_600</value>
+<value>SI_616</value>
+<value>SI_858</value>
+<value>SI_859</value>
+<value>SI_617</value>
+<value>SI_614</value>
+<value>SI_856</value>
+<value>la façon</value>
+<value>SI_857</value>
+<value>SI_615</value>
+<value>SI_618</value>
+<value>SI_619</value>
+<value>une semaine</value>
+<value>la porte</value>
+<value>un plat</value>
+<value>SI_850</value>
+<value>le temps</value>
+<value>SI_851</value>
+<value>SI_612</value>
+<value>SI_854</value>
+<value>SI_855</value>
+<value>SI_613</value>
+<value>les enfants du laboureur</value>
+<value>SI_610</value>
+<value>SI_852</value>
+<value>SI_853</value>
+<value>SI_611</value>
+<value>SI_825</value>
+<value>SI_826</value>
+<value>SI_823</value>
+<value>SI_824</value>
+<value>qui</value>
+<value>SI_829</value>
+<value>SI_827</value>
+<value>SI_828</value>
+<value>l_amour</value>
+<value>une sorte de sanglot</value>
+<value>voiture de la narratrice</value>
+<value>SI_821</value>
+<value>SI_822</value>
+<value>SI_820</value>
+<value>SI_836</value>
+<value>SI_837</value>
+<value>SI_834</value>
+<value>SI_835</value>
+<value>SI_838</value>
+<value>SI_839</value>
+<value>une adresse</value>
+<value>le garçon meunier</value>
+<value>SI_832</value>
+<value>SI_833</value>
+<value>SI_830</value>
+<value>une lettre de Firmin</value>
+<value>le jardin</value>
+<value>SI_831</value>
+<value>SI_803</value>
+<value>SI_804</value>
+<value>SI_801</value>
+<value>SI_802</value>
+<value>SI_807</value>
+<value>SI_808</value>
+<value>SI_805</value>
+<value>SI_806</value>
+<value>la sécheresse de la voix du médecin</value>
+<value>SI_809</value>
+<value>l_infirmière</value>
+<value>la nouvelle femme de ménage</value>
+<value>le médecin</value>
+<value>chambre d_enfant</value>
+<value>SI_800</value>
+<value>l_endroit</value>
+<value>SI_814</value>
+<value>SI_815</value>
+<value>SI_812</value>
+<value>SI_813</value>
+<value>SI_818</value>
+<value>SI_819</value>
+<value>SI_816</value>
+<value>SI_817</value>
+<value>les charbons rouges</value>
+<value>une grande nouvelle</value>
+<value>de vieux jupons</value>
+<value>des semaines de souffrance</value>
+<value>SI_810</value>
+<value>SI_811</value>
+<value>le fait de boiter</value>
+<value>le moment</value>
+<value>la Haie</value>
+<value>le blé</value>
+<value>Firmin et la narratrice</value>
+<value>les jeux</value>
+<value>la rivière</value>
+<value>frères et soeurs de la narratrice</value>
+<value>un tramway</value>
+<value>ce travail trop dur</value>
+<value>le paysage</value>
+<value>corps de la narratrice</value>
+<value>les tasses</value>
+<value>le jour présent</value>
+<value>mère de la narratrice</value>
+<value>troupeaux paisibles</value>
+<value>Clémence</value>
+<value>la baleine</value>
+<value>la suite</value>
+<value>la noisette brune</value>
+<value>la demande en divorce</value>
+<value>ennui</value>
+<value>brassières et petites robes</value>
+</possibleValues>
+</feature>
+</featureSet>
+</type>
+</schemas>
+</annotationModel>

@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotationModel>
+<units>
+<type name="MENTION">
+<featureSet>
+<feature name="UNIT REF">
+<possibleValues default = "">
+<value>None</value>
+<value>OTHER</value>
+<value>NO_PER</value>
+<value>LOC</value>
+<value>ORG</value>
+<value>VEH</value>
+<value>METALEPSE</value>
+<value>FAC</value>
+<value>TIME</value>
+<value>PER</value>
+<value>GPE</value>
+<value>TO_DISCUSS</value>
+<value>EVENT</value>
+</possibleValues>
+</feature>
+<feature name="REF">
+<possibleValues default = "">
+<value>la messe</value>
+<value>domaine de Paul</value>
+<value>Jean Demers</value>
+<value>une simple coïncidence de nom</value>
+<value>quelqu_un</value>
+<value>les sombres pensées</value>
+<value>les quais</value>
+<value>chaque habitant</value>
+<value>la vie sous-marine</value>
+<value>l_horizon</value>
+<value>sous-marin vide</value>
+<value>les convives</value>
+<value>chacun2</value>
+<value>le domestique</value>
+<value>une famille</value>
+<value>mort de Richard</value>
+<value>les on-dit</value>
+<value>un épouvantable roulis</value>
+<value>ce soir-là</value>
+<value>teint de Marcelle</value>
+<value>l_intérieur du sous-marin</value>
+<value>le sentiment de Marcelle</value>
+<value>une époque peu éloignée</value>
+<value>la réalisation du rêve de Roger</value>
+<value>l_électricité</value>
+<value>chambre de l_abbé Bernard</value>
+<value>des signes</value>
+<value>une sorte de promontoire</value>
+<value>un ange</value>
+<value>nous</value>
+<value>les passagers</value>
+<value>des enfants</value>
+<value>l_Océan Pacifique</value>
+<value>les flots de l_Atlantique</value>
+<value>avoir les yeux bandés</value>
+<value>Dieu</value>
+<value>les mères</value>
+<value>le projet de Roger2</value>
+<value>le projet de Roger1</value>
+<value>continent</value>
+<value>l_émotion</value>
+<value>un sac de toile goudronné</value>
+<value>la raison</value>
+<value>Paul</value>
+<value>la résignation</value>
+<value>une grande découverte</value>
+<value>le groupe romanesque</value>
+<value>SI</value>
+<value>un radeau</value>
+<value>le capitaine Nemo</value>
+<value>le faux nom</value>
+<value>les colimaçons</value>
+<value>les transatlantiques</value>
+<value>des idées</value>
+<value>nom de Gaétane</value>
+<value>les enfants de Némoville</value>
+<value>la nuit</value>
+<value>les passagers restés au campement</value>
+<value>le pays</value>
+<value>une particularité</value>
+<value>le paquebot</value>
+<value>un soleil radieux</value>
+<value>l_embarcation</value>
+<value>quelques habitants</value>
+<value>porte de la chambre du curé</value>
+<value>ce que mon ambition avait rêvé</value>
+<value>un mourant</value>
+<value>des usuriers</value>
+<value>la surface de la mer</value>
+<value>le peu de temps</value>
+<value>Jeanne</value>
+<value>la bonté de Marcelle</value>
+<value>un canot</value>
+<value>le rêve de Roger/rêve de Roger</value>
+<value>l_église sous-marine</value>
+<value>le centre de Némoville</value>
+<value>la bibliothèque</value>
+<value>une ingratitude</value>
+<value>un air</value>
+<value>l_église</value>
+<value>un hymne</value>
+<value>certains passagers</value>
+<value>le docteur Desmarais</value>
+<value>un salon splendide</value>
+<value>deux mois</value>
+<value>l_absolution</value>
+<value>un spectacle bien étrange</value>
+<value>un sous-marin</value>
+<value>la voix de Jeanne</value>
+<value>un mal</value>
+<value>les poissons générique</value>
+<value>femme de Demers</value>
+<value>les futurs habitants</value>
+<value>ces hommes</value>
+<value>le lit</value>
+<value>la chose certaine</value>
+<value>beaucoup d_hommes</value>
+<value>le domaine des poissons</value>
+<value>des accès de tristesse</value>
+<value>la navigation</value>
+<value>ce que Roger a à communiquer</value>
+<value>la vieille servante</value>
+<value>une chambre</value>
+<value>un bruit étrange</value>
+<value>solennité</value>
+<value>la lunette marine</value>
+<value>la scène</value>
+<value>la terre</value>
+<value>une terre du Pacifique</value>
+<value>soir de Noël</value>
+<value>le récit du naufrage</value>
+<value>nom de Paul</value>
+<value>le marin et l_abbé</value>
+<value>l_Atlantique</value>
+<value>l_abbé Paul et Roger</value>
+<value>un jardin</value>
+<value>toutes les difficultés</value>
+<value>beaucoup d_ennuis</value>
+<value>le capitaine Laurent</value>
+<value>la bonté du curé</value>
+<value>la messe de minuit</value>
+<value>Némoville</value>
+<value>le presbytère</value>
+<value>une proposition</value>
+<value>le sous-marin de Marcelle</value>
+<value>l_histoire du Nautilus</value>
+<value>ceux qui n_étaient pas au service du bord</value>
+<value>la machine</value>
+<value>un secret</value>
+<value>la salle à manger</value>
+<value>le déjeuner</value>
+<value>la première fois</value>
+<value>main de Gaétane</value>
+<value>Marcelle</value>
+<value>les femmes</value>
+<value>ce qu_il me faut</value>
+<value>ce qu_est devenue l_enfant</value>
+<value>ce qu_est</value>
+<value>les flots de l_Océan Pacifique</value>
+<value>canari</value>
+<value>ce matin</value>
+<value>chacun</value>
+<value>le récit de Cyrus Smith</value>
+<value>la promptitude</value>
+<value>Gaétane</value>
+<value>un sentiment</value>
+<value>habitants de Némoville</value>
+<value>lecteur</value>
+<value>voix de Richard</value>
+<value>le câble</value>
+<value>les couloirs-tubes</value>
+<value>un magnifique orgue</value>
+<value>voix du marin</value>
+<value>une préoccupation</value>
+<value>la prière de Gounod</value>
+<value>une montagne</value>
+<value>le renflouage du Nautilus</value>
+<value>le banc</value>
+<value>une chapelle</value>
+<value>la main de Roger</value>
+<value>un grand malheur</value>
+<value>le bord de la mer</value>
+<value>la volonté de Dieu</value>
+<value>le mystère du sous-marin</value>
+<value>l_eau</value>
+<value>tête de l_abbé</value>
+<value>24 décembre</value>
+<value>des bruits de pas</value>
+<value>la mer</value>
+<value>prénom de Gaétane</value>
+<value>une pêche miraculeuse</value>
+<value>naufrage du paquebot</value>
+<value>nom de Roger</value>
+<value>une excursion de pêche</value>
+<value>un marin</value>
+<value>vie de Gaétane</value>
+<value>la voix de Dieu</value>
+<value>le yatch</value>
+<value>la tempête</value>
+<value>fille de Demers</value>
+<value>le valet</value>
+<value>Marcelle Roger et Gaétane</value>
+<value>le sommet</value>
+<value>une île</value>
+<value>le chevet d_un mourant</value>
+<value>un hurlement de Turko</value>
+<value>l_abbé Bernard</value>
+<value>le prêtre</value>
+<value>chaque sous-marin</value>
+<value>le moment2</value>
+<value>voix de Gaétane</value>
+<value>le moment</value>
+<value>des plans d_évasions</value>
+<value>funérailles de Richard</value>
+<value>les lunettes marines</value>
+<value>une cage</value>
+<value>la réponse</value>
+<value>la vie</value>
+<value>le pont du paquebot</value>
+<value>habitude de Duflot</value>
+<value>la conversation</value>
+<value>le mensonge</value>
+<value>M_ Richard</value>
+<value>les côtes de l_île</value>
+<value>un des sous-marins</value>
+<value>le tour de Paul</value>
+<value>Roger</value>
+<value>nom de Duflot</value>
+<value>curé de Némoville</value>
+<value>Marcelle et Desmarais</value>
+<value>Marcelle et Gaétane</value>
+<value>yeux de Roger</value>
+<value>les enfants</value>
+<value>quel point du globe</value>
+<value>le campement</value>
+<value>une crise de désespoir</value>
+<value>la situation</value>
+<value>les bancs</value>
+<value>la vie de Richard</value>
+<value>la supposition</value>
+<value>la nature de la terre</value>
+<value>le capitaine du paquebot</value>
+<value>24 octobre 1875</value>
+<value>la Providence</value>
+<value>le sol</value>
+<value>les matelots</value>
+<value>le sort horrible</value>
+<value>le monde</value>
+<value>visage de Gaétane</value>
+<value>les niaiseries et faussetés</value>
+<value>ceux qui</value>
+<value>les poissons</value>
+<value>l_opposition</value>
+<value>les événements</value>
+<value>des confidences</value>
+<value>référent indéfini</value>
+<value>Nautilus</value>
+<value>voix de Roger</value>
+<value>la conversation2</value>
+<value>l_équipage</value>
+<value>le portefeuille</value>
+<value>quelque mortel</value>
+<value>le salon de Marcelle</value>
+<value>les chaloupes</value>
+<value>rêve de Roger/le rêve de Roger</value>
+<value>la mort</value>
+<value>les blocs de granit</value>
+<value>l_immensité</value>
+<value>un tremblement de terre</value>
+<value>l_excursion</value>
+<value>les pensées tragiques</value>
+<value>tribord</value>
+<value>Roger et Paul</value>
+<value>baleine ou requin</value>
+<value>fortune de Demers</value>
+<value>le granit</value>
+<value>d_autres sous-marins</value>
+<value>le soir</value>
+<value>le devoir</value>
+<value>Turko</value>
+<value>le guide</value>
+<value>des ambitions plus modestes</value>
+<value>la cloche</value>
+<value>père de Gaétane</value>
+<value>yeux de l_abbé</value>
+<value>les sous-marins</value>
+<value>les derniers sacrements</value>
+<value>l_influence de Desmarais</value>
+<value>le mal</value>
+<value>coeur de Duflot</value>
+<value>quelque chose d_extraordinaire</value>
+<value>une ville sous-marine</value>
+<value>le chant</value>
+<value>nom du paquebot</value>
+<value>Roger et l_abbé</value>
+<value>yeux de Marcelle</value>
+<value>le bateau</value>
+<value>un pli cacheté</value>
+<value>la dernière chaloupe</value>
+<value>le temps de la messe</value>
+<value>yeux de M_ Richard</value>
+<value>secrétaire du gouverneur</value>
+<value>la plus belle</value>
+<value>Duflot</value>
+<value>le nom de la fille de Demers</value>
+<value>une flamme</value>
+<value>de singulières manières</value>
+</possibleValues>
+</feature>
+</featureSet>
+</type>
+</units>
+<relations>
+</relations>
+<schemas>
+<type name="CHAINE">
+<featureSet>
+<feature name="NB MAILLONS">
+<possibleValues default = "">
+<value>66</value>
+<value>45</value>
+<value>68</value>
+<value>25</value>
+<value>27</value>
+<value>28</value>
+<value>133</value>
+<value>299</value>
+<value>50</value>
+<value>51</value>
+<value>30</value>
+<value>97</value>
+<value>10</value>
+<value>33</value>
+<value>11</value>
+<value>13</value>
+<value>14</value>
+<value>15</value>
+<value>17</value>
+<value>19</value>
+<value>1</value>
+<value>2</value>
+<value>289</value>
+<value>3</value>
+<value>4</value>
+<value>104</value>
+<value>5</value>
+<value>6</value>
+<value>106</value>
+<value>7</value>
+<value>8</value>
+<value>9</value>
+<value>61</value>
+<value>84</value>
+<value>21</value>
+</possibleValues>
+</feature>
+<feature name="UNIT REF">
+<possibleValues default = "">
+<value>None</value>
+<value>OTHER</value>
+<value>NO_PER</value>
+<value>LOC</value>
+<value>ORG</value>
+<value>VEH</value>
+<value>METALEPSE</value>
+<value>FAC</value>
+<value>TIME</value>
+<value>PER</value>
+<value>GPE</value>
+<value>TO_DISCUSS</value>
+<value>EVENT</value>
+</possibleValues>
+</feature>
+<feature name="REF">
+<possibleValues default = "">
+<value>Jean Demers</value>
+<value>une simple coïncidence de nom</value>
+<value>un épouvantable roulis</value>
+<value>la réalisation du rêve de Roger</value>
+<value>un ange</value>
+<value>nous</value>
+<value>l_Océan Pacifique</value>
+<value>Dieu</value>
+<value>Paul</value>
+<value>la résignation</value>
+<value>nom de Gaétane</value>
+<value>les enfants de Némoville</value>
+<value>la nuit</value>
+<value>l_embarcation</value>
+<value>quelques habitants</value>
+<value>la surface de la mer</value>
+<value>l_église sous-marine</value>
+<value>certains passagers</value>
+<value>le docteur Desmarais</value>
+<value>deux mois</value>
+<value>l_absolution</value>
+<value>SI_281</value>
+<value>SI_282</value>
+<value>SI_280</value>
+<value>SI_285</value>
+<value>SI_286</value>
+<value>SI_283</value>
+<value>SI_284</value>
+<value>ces hommes</value>
+<value>SI_289</value>
+<value>SI_287</value>
+<value>SI_288</value>
+<value>SI_7</value>
+<value>SI_8</value>
+<value>SI_5</value>
+<value>SI_6</value>
+<value>SI_3</value>
+<value>SI_4</value>
+<value>SI_1</value>
+<value>SI_2</value>
+<value>SI_292</value>
+<value>ce que Roger a à communiquer</value>
+<value>SI_293</value>
+<value>SI_290</value>
+<value>SI_291</value>
+<value>SI_296</value>
+<value>SI_297</value>
+<value>SI_9</value>
+<value>SI_294</value>
+<value>SI_295</value>
+<value>SI_298</value>
+<value>SI_299</value>
+<value>une terre du Pacifique</value>
+<value>le marin et l_abbé</value>
+<value>l_Atlantique</value>
+<value>l_abbé Paul et Roger</value>
+<value>toutes les difficultés</value>
+<value>SI_260</value>
+<value>la bonté du curé</value>
+<value>SI_263</value>
+<value>SI_264</value>
+<value>SI_261</value>
+<value>SI_262</value>
+<value>SI_267</value>
+<value>le sous-marin de Marcelle</value>
+<value>SI_268</value>
+<value>SI_265</value>
+<value>SI_266</value>
+<value>SI_269</value>
+<value>ce qu_est devenue l_enfant</value>
+<value>ce qu_est</value>
+<value>SI_270</value>
+<value>les flots de l_Océan Pacifique</value>
+<value>SI_271</value>
+<value>SI_274</value>
+<value>SI_275</value>
+<value>SI_272</value>
+<value>SI_273</value>
+<value>la promptitude</value>
+<value>SI_278</value>
+<value>SI_279</value>
+<value>SI_276</value>
+<value>SI_277</value>
+<value>voix de Richard</value>
+<value>le renflouage du Nautilus</value>
+<value>SI_480</value>
+<value>SI_241</value>
+<value>SI_483</value>
+<value>la volonté de Dieu</value>
+<value>SI_242</value>
+<value>SI_484</value>
+<value>SI_481</value>
+<value>SI_240</value>
+<value>SI_482</value>
+<value>SI_245</value>
+<value>SI_487</value>
+<value>tête de l_abbé</value>
+<value>SI_246</value>
+<value>SI_488</value>
+<value>SI_243</value>
+<value>SI_485</value>
+<value>SI_244</value>
+<value>SI_486</value>
+<value>SI_249</value>
+<value>la mer</value>
+<value>SI_247</value>
+<value>SI_489</value>
+<value>SI_248</value>
+<value>le yatch</value>
+<value>SI_490</value>
+<value>SI_491</value>
+<value>SI_252</value>
+<value>SI_494</value>
+<value>SI_253</value>
+<value>SI_495</value>
+<value>SI_250</value>
+<value>SI_492</value>
+<value>SI_251</value>
+<value>SI_493</value>
+<value>SI_256</value>
+<value>SI_498</value>
+<value>SI_257</value>
+<value>SI_499</value>
+<value>SI_254</value>
+<value>SI_496</value>
+<value>SI_255</value>
+<value>SI_497</value>
+<value>SI_258</value>
+<value>SI_259</value>
+<value>SI_229</value>
+<value>les lunettes marines</value>
+<value>SI_461</value>
+<value>habitude de Duflot</value>
+<value>SI_220</value>
+<value>SI_462</value>
+<value>SI_460</value>
+<value>M_ Richard</value>
+<value>SI_223</value>
+<value>SI_465</value>
+<value>SI_224</value>
+<value>SI_466</value>
+<value>SI_221</value>
+<value>SI_463</value>
+<value>SI_222</value>
+<value>SI_464</value>
+<value>SI_227</value>
+<value>SI_469</value>
+<value>un des sous-marins</value>
+<value>SI_228</value>
+<value>SI_225</value>
+<value>SI_467</value>
+<value>SI_226</value>
+<value>SI_468</value>
+<value>les enfants</value>
+<value>quel point du globe</value>
+<value>une crise de désespoir</value>
+<value>SI_230</value>
+<value>SI_472</value>
+<value>SI_231</value>
+<value>SI_473</value>
+<value>SI_470</value>
+<value>la supposition</value>
+<value>SI_471</value>
+<value>SI_234</value>
+<value>SI_476</value>
+<value>SI_235</value>
+<value>SI_477</value>
+<value>SI_232</value>
+<value>SI_474</value>
+<value>SI_233</value>
+<value>SI_475</value>
+<value>SI_238</value>
+<value>SI_239</value>
+<value>SI_236</value>
+<value>SI_478</value>
+<value>SI_237</value>
+<value>SI_479</value>
+<value>SI_209</value>
+<value>SI_207</value>
+<value>SI_449</value>
+<value>SI_208</value>
+<value>les niaiseries et faussetés</value>
+<value>SI_681</value>
+<value>SI_440</value>
+<value>SI_682</value>
+<value>l_opposition</value>
+<value>SI_680</value>
+<value>SI_201</value>
+<value>SI_443</value>
+<value>SI_685</value>
+<value>SI_202</value>
+<value>SI_444</value>
+<value>SI_686</value>
+<value>SI_441</value>
+<value>SI_683</value>
+<value>SI_200</value>
+<value>SI_442</value>
+<value>SI_684</value>
+<value>SI_205</value>
+<value>SI_447</value>
+<value>SI_689</value>
+<value>SI_206</value>
+<value>SI_448</value>
+<value>SI_203</value>
+<value>SI_445</value>
+<value>SI_687</value>
+<value>SI_204</value>
+<value>SI_446</value>
+<value>SI_688</value>
+<value>SI_218</value>
+<value>SI_219</value>
+<value>SI_450</value>
+<value>SI_692</value>
+<value>SI_451</value>
+<value>SI_693</value>
+<value>SI_690</value>
+<value>SI_691</value>
+<value>SI_212</value>
+<value>SI_454</value>
+<value>SI_696</value>
+<value>SI_213</value>
+<value>SI_455</value>
+<value>SI_697</value>
+<value>SI_210</value>
+<value>SI_452</value>
+<value>SI_694</value>
+<value>SI_211</value>
+<value>SI_453</value>
+<value>SI_695</value>
+<value>SI_216</value>
+<value>SI_458</value>
+<value>SI_217</value>
+<value>SI_459</value>
+<value>le granit</value>
+<value>SI_214</value>
+<value>SI_456</value>
+<value>SI_698</value>
+<value>SI_215</value>
+<value>SI_457</value>
+<value>SI_699</value>
+<value>SI_429</value>
+<value>SI_427</value>
+<value>SI_669</value>
+<value>SI_428</value>
+<value>SI_660</value>
+<value>SI_421</value>
+<value>SI_663</value>
+<value>SI_422</value>
+<value>SI_664</value>
+<value>SI_661</value>
+<value>SI_420</value>
+<value>SI_662</value>
+<value>SI_425</value>
+<value>SI_667</value>
+<value>SI_426</value>
+<value>SI_668</value>
+<value>SI_423</value>
+<value>SI_665</value>
+<value>SI_424</value>
+<value>SI_666</value>
+<value>coeur de Duflot</value>
+<value>SI_438</value>
+<value>SI_439</value>
+<value>Roger et l_abbé</value>
+<value>SI_670</value>
+<value>SI_671</value>
+<value>SI_432</value>
+<value>SI_674</value>
+<value>SI_433</value>
+<value>SI_675</value>
+<value>SI_430</value>
+<value>SI_672</value>
+<value>SI_431</value>
+<value>SI_673</value>
+<value>SI_436</value>
+<value>SI_678</value>
+<value>SI_437</value>
+<value>SI_679</value>
+<value>de singulières manières</value>
+<value>SI_434</value>
+<value>SI_676</value>
+<value>SI_435</value>
+<value>SI_677</value>
+<value>SI_528</value>
+<value>SI_529</value>
+<value>SI_526</value>
+<value>SI_527</value>
+<value>les sombres pensées</value>
+<value>les quais</value>
+<value>la vie sous-marine</value>
+<value>les convives</value>
+<value>une famille</value>
+<value>SI_520</value>
+<value>SI_521</value>
+<value>SI_524</value>
+<value>SI_525</value>
+<value>mort de Richard</value>
+<value>SI_522</value>
+<value>SI_523</value>
+<value>SI_539</value>
+<value>teint de Marcelle</value>
+<value>SI_537</value>
+<value>SI_538</value>
+<value>une époque peu éloignée</value>
+<value>l_électricité</value>
+<value>des enfants</value>
+<value>les mères</value>
+<value>SI_531</value>
+<value>SI_532</value>
+<value>SI_530</value>
+<value>SI_535</value>
+<value>SI_536</value>
+<value>SI_533</value>
+<value>SI_534</value>
+<value>continent</value>
+<value>SI_506</value>
+<value>SI_507</value>
+<value>SI_504</value>
+<value>SI_505</value>
+<value>SI_508</value>
+<value>SI_509</value>
+<value>la raison</value>
+<value>une grande découverte</value>
+<value>le capitaine Nemo</value>
+<value>les colimaçons</value>
+<value>SI_502</value>
+<value>SI_503</value>
+<value>SI_500</value>
+<value>SI_501</value>
+<value>SI_517</value>
+<value>SI_518</value>
+<value>SI_515</value>
+<value>SI_516</value>
+<value>SI_519</value>
+<value>un soleil radieux</value>
+<value>ce que mon ambition avait rêvé</value>
+<value>un mourant</value>
+<value>SI_510</value>
+<value>le peu de temps</value>
+<value>Jeanne</value>
+<value>SI_513</value>
+<value>SI_514</value>
+<value>SI_511</value>
+<value>SI_512</value>
+<value>SI_724</value>
+<value>un air</value>
+<value>un spectacle bien étrange</value>
+<value>un sous-marin</value>
+<value>la voix de Jeanne</value>
+<value>femme de Demers</value>
+<value>le lit</value>
+<value>SI_722</value>
+<value>SI_723</value>
+<value>SI_720</value>
+<value>SI_721</value>
+<value>des accès de tristesse</value>
+<value>une chambre</value>
+<value>un bruit étrange</value>
+<value>solennité</value>
+<value>la scène</value>
+<value>SI_704</value>
+<value>SI_705</value>
+<value>SI_702</value>
+<value>soir de Noël</value>
+<value>SI_703</value>
+<value>SI_708</value>
+<value>SI_709</value>
+<value>SI_706</value>
+<value>SI_707</value>
+<value>beaucoup d_ennuis</value>
+<value>l_histoire du Nautilus</value>
+<value>la machine</value>
+<value>SI_700</value>
+<value>SI_701</value>
+<value>la salle à manger</value>
+<value>SI_715</value>
+<value>SI_716</value>
+<value>SI_713</value>
+<value>SI_714</value>
+<value>SI_719</value>
+<value>SI_717</value>
+<value>SI_718</value>
+<value>ce qu_il me faut</value>
+<value>chacun</value>
+<value>le récit de Cyrus Smith</value>
+<value>Gaétane</value>
+<value>un sentiment</value>
+<value>lecteur</value>
+<value>SI_711</value>
+<value>SI_712</value>
+<value>SI_710</value>
+<value>un magnifique orgue</value>
+<value>la prière de Gounod</value>
+<value>le banc</value>
+<value>la main de Roger</value>
+<value>un grand malheur</value>
+<value>24 décembre</value>
+<value>prénom de Gaétane</value>
+<value>le sommet</value>
+<value>une île</value>
+<value>une cage</value>
+<value>la réponse</value>
+<value>la vie</value>
+<value>le tour de Paul</value>
+<value>yeux de Roger</value>
+<value>le campement</value>
+<value>la situation</value>
+<value>les bancs</value>
+<value>les matelots</value>
+<value>ceux qui</value>
+<value>voix de Roger</value>
+<value>quelque mortel</value>
+<value>le salon de Marcelle</value>
+<value>l_immensité</value>
+<value>l_excursion</value>
+<value>les pensées tragiques</value>
+<value>baleine ou requin</value>
+<value>le devoir</value>
+<value>Turko</value>
+<value>le guide</value>
+<value>les sous-marins</value>
+<value>une ville sous-marine</value>
+<value>le temps de la messe</value>
+<value>secrétaire du gouverneur</value>
+<value>Duflot</value>
+<value>la messe</value>
+<value>SI_18</value>
+<value>SI_19</value>
+<value>chaque habitant</value>
+<value>sous-marin vide</value>
+<value>chacun2</value>
+<value>SI_14</value>
+<value>SI_15</value>
+<value>SI_16</value>
+<value>SI_17</value>
+<value>SI_10</value>
+<value>SI_11</value>
+<value>SI_12</value>
+<value>les on-dit</value>
+<value>SI_13</value>
+<value>ce soir-là</value>
+<value>le sentiment de Marcelle</value>
+<value>les passagers</value>
+<value>les flots de l_Atlantique</value>
+<value>un sac de toile goudronné</value>
+<value>SI_190</value>
+<value>SI_182</value>
+<value>SI_183</value>
+<value>SI_30</value>
+<value>SI_180</value>
+<value>SI_31</value>
+<value>SI_181</value>
+<value>SI_186</value>
+<value>SI_187</value>
+<value>le groupe romanesque</value>
+<value>un radeau</value>
+<value>SI_184</value>
+<value>SI_185</value>
+<value>le faux nom</value>
+<value>SI_36</value>
+<value>SI_37</value>
+<value>SI_38</value>
+<value>SI_188</value>
+<value>les transatlantiques</value>
+<value>SI_39</value>
+<value>SI_189</value>
+<value>des idées</value>
+<value>SI_32</value>
+<value>SI_33</value>
+<value>SI_34</value>
+<value>SI_35</value>
+<value>les passagers restés au campement</value>
+<value>le pays</value>
+<value>SI_29</value>
+<value>le paquebot</value>
+<value>SI_193</value>
+<value>SI_194</value>
+<value>SI_191</value>
+<value>porte de la chambre du curé</value>
+<value>SI_20</value>
+<value>SI_192</value>
+<value>SI_197</value>
+<value>SI_198</value>
+<value>SI_195</value>
+<value>SI_196</value>
+<value>SI_25</value>
+<value>des usuriers</value>
+<value>SI_26</value>
+<value>SI_27</value>
+<value>SI_199</value>
+<value>SI_28</value>
+<value>un canot</value>
+<value>SI_21</value>
+<value>SI_22</value>
+<value>SI_23</value>
+<value>SI_24</value>
+<value>SI_160</value>
+<value>SI_161</value>
+<value>SI_164</value>
+<value>SI_165</value>
+<value>SI_162</value>
+<value>SI_163</value>
+<value>SI_168</value>
+<value>SI_169</value>
+<value>SI_166</value>
+<value>SI_167</value>
+<value>la navigation</value>
+<value>SI_171</value>
+<value>SI_172</value>
+<value>SI_170</value>
+<value>SI_175</value>
+<value>SI_176</value>
+<value>SI_173</value>
+<value>SI_174</value>
+<value>SI_179</value>
+<value>la lunette marine</value>
+<value>SI_177</value>
+<value>SI_178</value>
+<value>la terre</value>
+<value>le récit du naufrage</value>
+<value>nom de Paul</value>
+<value>SI_380</value>
+<value>SI_381</value>
+<value>le capitaine Laurent</value>
+<value>SI_142</value>
+<value>SI_384</value>
+<value>SI_143</value>
+<value>SI_385</value>
+<value>SI_140</value>
+<value>SI_382</value>
+<value>SI_141</value>
+<value>SI_383</value>
+<value>le presbytère</value>
+<value>SI_146</value>
+<value>SI_388</value>
+<value>une proposition</value>
+<value>SI_147</value>
+<value>SI_389</value>
+<value>SI_144</value>
+<value>SI_386</value>
+<value>SI_145</value>
+<value>SI_387</value>
+<value>ceux qui n_étaient pas au service du bord</value>
+<value>SI_148</value>
+<value>SI_149</value>
+<value>main de Gaétane</value>
+<value>les femmes</value>
+<value>SI_391</value>
+<value>SI_150</value>
+<value>SI_392</value>
+<value>SI_390</value>
+<value>SI_153</value>
+<value>SI_395</value>
+<value>SI_154</value>
+<value>SI_396</value>
+<value>SI_151</value>
+<value>SI_393</value>
+<value>SI_152</value>
+<value>SI_394</value>
+<value>SI_157</value>
+<value>SI_399</value>
+<value>SI_158</value>
+<value>habitants de Némoville</value>
+<value>SI_155</value>
+<value>SI_397</value>
+<value>SI_156</value>
+<value>SI_398</value>
+<value>SI_159</value>
+<value>le câble</value>
+<value>SI_94</value>
+<value>SI_95</value>
+<value>SI_96</value>
+<value>SI_97</value>
+<value>SI_90</value>
+<value>SI_120</value>
+<value>SI_362</value>
+<value>SI_91</value>
+<value>SI_121</value>
+<value>SI_363</value>
+<value>SI_92</value>
+<value>SI_360</value>
+<value>le mystère du sous-marin</value>
+<value>SI_93</value>
+<value>SI_361</value>
+<value>SI_124</value>
+<value>SI_366</value>
+<value>SI_125</value>
+<value>SI_367</value>
+<value>SI_122</value>
+<value>SI_364</value>
+<value>SI_123</value>
+<value>SI_365</value>
+<value>SI_98</value>
+<value>SI_128</value>
+<value>des bruits de pas</value>
+<value>SI_99</value>
+<value>SI_129</value>
+<value>SI_126</value>
+<value>SI_368</value>
+<value>SI_127</value>
+<value>SI_369</value>
+<value>une pêche miraculeuse</value>
+<value>naufrage du paquebot</value>
+<value>nom de Roger</value>
+<value>la voix de Dieu</value>
+<value>SI_83</value>
+<value>SI_84</value>
+<value>SI_370</value>
+<value>le valet</value>
+<value>SI_85</value>
+<value>SI_86</value>
+<value>SI_131</value>
+<value>SI_373</value>
+<value>SI_80</value>
+<value>SI_132</value>
+<value>SI_374</value>
+<value>SI_81</value>
+<value>SI_371</value>
+<value>SI_82</value>
+<value>SI_130</value>
+<value>SI_372</value>
+<value>SI_135</value>
+<value>SI_377</value>
+<value>SI_136</value>
+<value>SI_378</value>
+<value>SI_133</value>
+<value>SI_375</value>
+<value>SI_134</value>
+<value>SI_376</value>
+<value>SI_87</value>
+<value>SI_139</value>
+<value>SI_88</value>
+<value>SI_89</value>
+<value>SI_137</value>
+<value>SI_379</value>
+<value>SI_138</value>
+<value>SI_108</value>
+<value>SI_109</value>
+<value>le prêtre</value>
+<value>chaque sous-marin</value>
+<value>le moment2</value>
+<value>voix de Gaétane</value>
+<value>funérailles de Richard</value>
+<value>SI_340</value>
+<value>SI_582</value>
+<value>SI_341</value>
+<value>SI_583</value>
+<value>SI_580</value>
+<value>le mensonge</value>
+<value>SI_581</value>
+<value>SI_102</value>
+<value>SI_344</value>
+<value>SI_586</value>
+<value>SI_103</value>
+<value>SI_345</value>
+<value>SI_587</value>
+<value>SI_100</value>
+<value>SI_342</value>
+<value>SI_584</value>
+<value>SI_101</value>
+<value>SI_343</value>
+<value>SI_585</value>
+<value>les côtes de l_île</value>
+<value>SI_106</value>
+<value>SI_348</value>
+<value>SI_107</value>
+<value>SI_349</value>
+<value>SI_104</value>
+<value>SI_346</value>
+<value>SI_588</value>
+<value>SI_105</value>
+<value>SI_347</value>
+<value>SI_589</value>
+<value>SI_119</value>
+<value>SI_590</value>
+<value>SI_351</value>
+<value>SI_593</value>
+<value>SI_110</value>
+<value>SI_352</value>
+<value>SI_594</value>
+<value>SI_591</value>
+<value>la vie de Richard</value>
+<value>SI_350</value>
+<value>SI_592</value>
+<value>la nature de la terre</value>
+<value>SI_113</value>
+<value>SI_355</value>
+<value>SI_597</value>
+<value>le capitaine du paquebot</value>
+<value>SI_114</value>
+<value>SI_356</value>
+<value>SI_598</value>
+<value>SI_111</value>
+<value>SI_353</value>
+<value>SI_595</value>
+<value>SI_112</value>
+<value>SI_354</value>
+<value>SI_596</value>
+<value>SI_117</value>
+<value>SI_359</value>
+<value>SI_118</value>
+<value>SI_115</value>
+<value>SI_357</value>
+<value>SI_599</value>
+<value>SI_116</value>
+<value>SI_358</value>
+<value>SI_328</value>
+<value>SI_329</value>
+<value>le monde</value>
+<value>visage de Gaétane</value>
+<value>SI_50</value>
+<value>SI_51</value>
+<value>SI_52</value>
+<value>SI_53</value>
+<value>SI_560</value>
+<value>SI_561</value>
+<value>les poissons</value>
+<value>SI_58</value>
+<value>SI_322</value>
+<value>SI_564</value>
+<value>SI_59</value>
+<value>SI_323</value>
+<value>SI_565</value>
+<value>SI_320</value>
+<value>SI_562</value>
+<value>SI_321</value>
+<value>SI_563</value>
+<value>SI_54</value>
+<value>SI_326</value>
+<value>SI_568</value>
+<value>SI_55</value>
+<value>SI_327</value>
+<value>SI_569</value>
+<value>des confidences</value>
+<value>SI_56</value>
+<value>SI_324</value>
+<value>SI_566</value>
+<value>référent indéfini</value>
+<value>SI_57</value>
+<value>SI_325</value>
+<value>SI_567</value>
+<value>Nautilus</value>
+<value>SI_339</value>
+<value>la conversation2</value>
+<value>le portefeuille</value>
+<value>les chaloupes</value>
+<value>SI_40</value>
+<value>rêve de Roger/le rêve de Roger</value>
+<value>SI_41</value>
+<value>SI_42</value>
+<value>SI_571</value>
+<value>SI_330</value>
+<value>SI_572</value>
+<value>SI_570</value>
+<value>SI_47</value>
+<value>SI_333</value>
+<value>SI_575</value>
+<value>SI_48</value>
+<value>SI_334</value>
+<value>SI_576</value>
+<value>SI_49</value>
+<value>SI_331</value>
+<value>SI_573</value>
+<value>SI_332</value>
+<value>SI_574</value>
+<value>SI_43</value>
+<value>SI_337</value>
+<value>SI_579</value>
+<value>SI_44</value>
+<value>SI_338</value>
+<value>SI_45</value>
+<value>SI_335</value>
+<value>SI_577</value>
+<value>d_autres sous-marins</value>
+<value>le soir</value>
+<value>SI_46</value>
+<value>SI_336</value>
+<value>SI_578</value>
+<value>SI_308</value>
+<value>SI_309</value>
+<value>SI_306</value>
+<value>SI_548</value>
+<value>SI_307</value>
+<value>SI_549</value>
+<value>yeux de l_abbé</value>
+<value>SI_72</value>
+<value>SI_73</value>
+<value>SI_74</value>
+<value>SI_75</value>
+<value>SI_70</value>
+<value>SI_71</value>
+<value>SI_300</value>
+<value>SI_542</value>
+<value>SI_301</value>
+<value>SI_543</value>
+<value>SI_540</value>
+<value>SI_541</value>
+<value>SI_76</value>
+<value>SI_304</value>
+<value>SI_546</value>
+<value>SI_77</value>
+<value>SI_305</value>
+<value>SI_547</value>
+<value>SI_78</value>
+<value>SI_302</value>
+<value>SI_544</value>
+<value>SI_79</value>
+<value>SI_303</value>
+<value>SI_545</value>
+<value>SI_319</value>
+<value>SI_317</value>
+<value>SI_559</value>
+<value>SI_318</value>
+<value>yeux de Marcelle</value>
+<value>le bateau</value>
+<value>SI_61</value>
+<value>SI_62</value>
+<value>SI_63</value>
+<value>SI_64</value>
+<value>yeux de M_ Richard</value>
+<value>la plus belle</value>
+<value>SI_550</value>
+<value>SI_60</value>
+<value>SI_69</value>
+<value>SI_311</value>
+<value>SI_553</value>
+<value>SI_312</value>
+<value>SI_554</value>
+<value>une flamme</value>
+<value>SI_551</value>
+<value>SI_310</value>
+<value>SI_552</value>
+<value>SI_65</value>
+<value>SI_315</value>
+<value>SI_557</value>
+<value>SI_66</value>
+<value>SI_316</value>
+<value>SI_558</value>
+<value>SI_67</value>
+<value>SI_313</value>
+<value>SI_555</value>
+<value>SI_68</value>
+<value>SI_314</value>
+<value>SI_556</value>
+<value>SI_407</value>
+<value>SI_649</value>
+<value>SI_408</value>
+<value>SI_405</value>
+<value>SI_647</value>
+<value>SI_406</value>
+<value>SI_648</value>
+<value>domaine de Paul</value>
+<value>SI_409</value>
+<value>quelqu_un</value>
+<value>l_horizon</value>
+<value>le domestique</value>
+<value>SI_641</value>
+<value>SI_400</value>
+<value>SI_642</value>
+<value>SI_640</value>
+<value>SI_403</value>
+<value>SI_645</value>
+<value>SI_404</value>
+<value>SI_646</value>
+<value>SI_401</value>
+<value>SI_643</value>
+<value>SI_402</value>
+<value>SI_644</value>
+<value>SI_418</value>
+<value>SI_419</value>
+<value>SI_416</value>
+<value>SI_658</value>
+<value>l_intérieur du sous-marin</value>
+<value>SI_417</value>
+<value>SI_659</value>
+<value>chambre de l_abbé Bernard</value>
+<value>des signes</value>
+<value>une sorte de promontoire</value>
+<value>avoir les yeux bandés</value>
+<value>le projet de Roger2</value>
+<value>SI_410</value>
+<value>SI_652</value>
+<value>le projet de Roger1</value>
+<value>SI_411</value>
+<value>SI_653</value>
+<value>SI_650</value>
+<value>SI_651</value>
+<value>SI_414</value>
+<value>SI_656</value>
+<value>SI_415</value>
+<value>SI_657</value>
+<value>SI_412</value>
+<value>SI_654</value>
+<value>SI_413</value>
+<value>SI_655</value>
+<value>SI_627</value>
+<value>l_émotion</value>
+<value>SI_628</value>
+<value>SI_625</value>
+<value>SI_626</value>
+<value>SI_629</value>
+<value>SI_620</value>
+<value>SI_623</value>
+<value>SI_624</value>
+<value>SI_621</value>
+<value>SI_622</value>
+<value>SI_638</value>
+<value>SI_639</value>
+<value>SI_636</value>
+<value>SI_637</value>
+<value>une particularité</value>
+<value>SI_630</value>
+<value>SI_631</value>
+<value>la bonté de Marcelle</value>
+<value>SI_634</value>
+<value>SI_635</value>
+<value>le rêve de Roger/rêve de Roger</value>
+<value>SI_632</value>
+<value>SI_633</value>
+<value>SI_605</value>
+<value>SI_606</value>
+<value>SI_603</value>
+<value>le centre de Némoville</value>
+<value>SI_604</value>
+<value>la bibliothèque</value>
+<value>SI_609</value>
+<value>une ingratitude</value>
+<value>l_église</value>
+<value>SI_607</value>
+<value>SI_608</value>
+<value>un hymne</value>
+<value>un salon splendide</value>
+<value>un mal</value>
+<value>les poissons générique</value>
+<value>les futurs habitants</value>
+<value>la chose certaine</value>
+<value>beaucoup d_hommes</value>
+<value>SI_601</value>
+<value>SI_602</value>
+<value>SI_600</value>
+<value>SI_616</value>
+<value>SI_617</value>
+<value>SI_614</value>
+<value>SI_615</value>
+<value>SI_618</value>
+<value>SI_619</value>
+<value>le domaine des poissons</value>
+<value>la vieille servante</value>
+<value>SI_612</value>
+<value>SI_613</value>
+<value>SI_610</value>
+<value>SI_611</value>
+<value>un jardin</value>
+<value>la messe de minuit</value>
+<value>Némoville</value>
+<value>un secret</value>
+<value>le déjeuner</value>
+<value>la première fois</value>
+<value>Marcelle</value>
+<value>canari</value>
+<value>ce matin</value>
+<value>les couloirs-tubes</value>
+<value>voix du marin</value>
+<value>une préoccupation</value>
+<value>une montagne</value>
+<value>une chapelle</value>
+<value>le bord de la mer</value>
+<value>l_eau</value>
+<value>une excursion de pêche</value>
+<value>un marin</value>
+<value>vie de Gaétane</value>
+<value>la tempête</value>
+<value>fille de Demers</value>
+<value>Marcelle Roger et Gaétane</value>
+<value>le chevet d_un mourant</value>
+<value>un hurlement de Turko</value>
+<value>l_abbé Bernard</value>
+<value>le moment</value>
+<value>des plans d_évasions</value>
+<value>le pont du paquebot</value>
+<value>la conversation</value>
+<value>Roger</value>
+<value>nom de Duflot</value>
+<value>curé de Némoville</value>
+<value>Marcelle et Desmarais</value>
+<value>Marcelle et Gaétane</value>
+<value>24 octobre 1875</value>
+<value>la Providence</value>
+<value>le sol</value>
+<value>le sort horrible</value>
+<value>les événements</value>
+<value>l_équipage</value>
+<value>la mort</value>
+<value>les blocs de granit</value>
+<value>un tremblement de terre</value>
+<value>tribord</value>
+<value>Roger et Paul</value>
+<value>fortune de Demers</value>
+<value>des ambitions plus modestes</value>
+<value>la cloche</value>
+<value>père de Gaétane</value>
+<value>les derniers sacrements</value>
+<value>l_influence de Desmarais</value>
+<value>le mal</value>
+<value>quelque chose d_extraordinaire</value>
+<value>le chant</value>
+<value>nom du paquebot</value>
+<value>un pli cacheté</value>
+<value>la dernière chaloupe</value>
+<value>le nom de la fille de Demers</value>
+</possibleValues>
+</feature>
+</featureSet>
+</type>
+</schemas>
+</annotationModel>
