@@ -6,8 +6,7 @@ Les formats annotés récupérés par l'export dans le logiciel TXM sont de la f
 
 ### TOTO.xml
 
-<?xml version="1.0" encoding="UTF-8"?>
-
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0">
 <teiHeader xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
@@ -32,30 +31,13 @@ Les formats annotés récupérés par l'export dans le logiciel TXM sont de la f
 </w>
 ...
 </text></TEI>
+```
 
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0">
-<teiHeader xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
-....
-</teiHeader>
-<text id="TOTO">
-...
-<lb n="n°"></lb>
-...
-<s n="n°">
-...
-<w id="w_FC_NAR_EXT_181Pauline_brut_PRIS_PAR_MARINE_1204" n="n°">
-<txm:form>Pauline</txm:form>
-<txm:ana type="#frpos" resp="#txm">NAM</txm:ana>
-<txm:ana type="#frlemma" resp="#txm">Pauline</txm:ana>
-</w>
-...
-</text></TEI>
 
 ## TOTO-URS.XML
 
-<?xml version="1.0" encoding="UTF-8"?>
-
+```
 <tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 ...
@@ -89,9 +71,9 @@ Les formats annotés récupérés par l'export dans le logiciel TXM sont de la f
 </tei:TEI>
 
 
+```
 
-
-
+<?xml version="1.0" encoding="UTF-8"?>
 
 ## Formats d'arrivée (Brat)
 
