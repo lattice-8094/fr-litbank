@@ -89,13 +89,10 @@ T -> texte
 
 E -> Event
 
-
-
-<div>
+```
 Tid<tab>type<espace>start-offset<espace>end-offset<tab>texte
 
-
-</div>
+```
 
 A compléter avec les autres types d'annotations ...
 
