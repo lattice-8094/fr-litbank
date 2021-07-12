@@ -65,12 +65,20 @@ Les formats annotés récupérés par l'export dans le logiciel TXM sont de la f
 <f name="REF"><string>le narrateur</string></f>
 </fs>
 ...
+
+</div>
+<div type="relation-fs"></div>
+...
+<fs id="s-CHAINE-nbchaine-fs">
+<f name="REF"><string>texteREF</string></f>
+<f name="NB MAILLONS"><string>nbmaillons</string></f>
+<f name="TYPE REFERENT"><string>[]PER,FAC,VEH...]</string></f>
+</fs>
+...
 </div>
 </annotations>
 </standOff>
 </tei:TEI>
-
-
 ```
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -85,35 +93,56 @@ Texte simple du roman ou partie du roman retenu.
 
 ### Annotation file (.ann)
 
-T -> texte
+T -> Entity
 
-E -> Event
+    Named entities are phrases that contain the names of persons,
+organizations, locations, times and quantities.
+Example (https://www.clips.uantwerpen.be/conll2002/ner/)
+
+> [PER Wolff ] , currently a journalist in [LOC Argentina ] , played with [PER Del Bosque ] in the final years of the seventies in [ORG Real Madrid ] .
+
+
+
+E -> Event ...
 
 ```
 Tid<tab>type<espace>start-offset<espace>end-offset<tab>texte
-
 ```
 
 A compléter avec les autres types d'annotations ...
 
 ## Algorithme
 
+### Feuilles de style pour l'import dans TXM
+
+Pour recréer le fichier texte à partir du fichier toto.xml de départ, il faudrait retrouver la feuille de style (.XSL ?) utilisée dans le logiciel TXM. On pourrait utiliser un programme simple qui concanète chaque morceau de texte (cf dans toto.xml balises w et txm:form) en ajoutant un espace entre chaque systématiquent mais on aura, par exemple des espaces avant les virgules, les points, les tirets, après les apostrophes et les dialogues seront mal retranscris, etc ...
+
+[Bibliothèque XSLT](https://txm.gitpages.huma-num.fr/textometrie/files/library/xsl/#feuilles-de-style-de-base-pour-filtrer-les-sources-xml)
+
+**A REGARDER**
+
 ### Réflexions et tests
 
-- Pour recréer le fichier texte à partir du fichier toto.xml de départ, il faudrait retrouver la feuille de style (.XSL ?) utilisée dans le logiciel TXM. On pourrait utiliser un programme simple qui concanète chaque morceau de texte (cf dans toto.xml balises w et txm:form) en ajoutant un espace entre chaque systématiquent mais on aura, par exemple des espaces avant les virgules, les points, les tirets, après les apostrophes et les dialogues seront mal retranscris, etc ...
-
 - 
+
+- Une solution serait de construire une structure de tableau ( avec pandas ) avec :
+  
+  | texte    | nbw  | nbmention | nbchaine | TYPE REFERENT | REF      |
+  | -------- | ---- | --------- | -------- | ------------- | -------- |
+  | la       | 1354 | 316       | 57       | PER           | Laurence |
+  | personne | 1355 | 317       | 57       | PER           | Laurence |
+  | qu'      | 1362 | 318       | 57       | PER           | Laurence |
+  | elle     | 1384 | 324       | 57       | PER           | Laurence |
+  | ...      |      |           |          |               |          |
+  | Laurence | 9399 | 2531      | 57       | PER           | Laurence |
+  | ...      |      |           |          |               |          |
+
+- Il peut y avoir plusieurs nbw pour 1 nbmention
+
+- Il peut y avoir plusieurs nbmention pour 1 nbchaine
+
+- TYPE REFERENT et REF sont liés à la chaine (nbchaine)
 
 ## Liens
 
 Lire fichiers BRAT : https://brat.nlplab.org/ installé au Lattice : https://apps.lattice.cnrs.fr/brat/index.xhtml#/litbank/entities/
-
-
-
-
-
-
-
-
-
-
