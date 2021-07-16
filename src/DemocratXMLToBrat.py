@@ -16,11 +16,41 @@ nsd = {'tei': 'http://www.tei-c.org/ns/1.0',
 
 # -----------------------------------------------
 def get_w_id_text(xmlroot):
-    return({107:{"texte":"c'"},108:{"texte":"était"}})
+
+    d={}
+    niv1=etree.XML(etree.tostring(xmlroot)) # renvoie les 2 éléments niv1 : teiHeader et text
+    niv2=etree.XML(etree.tostring(niv1[1])) # niv2 = contenu de <text></text>
+
+    for s in niv2:
+        if s.tag.endswith('s'):
+            niv3=etree.XML(etree.tostring(s))
+            for w in niv3:
+                if w.tag.endswith('w'):
+                    nbw=int(w.get("n"))
+                    text=w[0].text # w[0] = <txm:form> child
+                    d[nbw]={"texte":text}
+
+
+    #return({107:{"texte":"c'"},108:{"texte":"était"}})
+    return(d)
 # -----------------------------------------------
 def get_mentions_w_id(ursroot):
-    # A FAIRE
-    return({27:[119,120,121,122],29:[128,129,130,131]})
+    d={}
+    niv1=etree.XML(etree.tostring(ursroot)) # renvoie les 3 éléments niv1 : teiHeader, soHeader et standOff
+    niv2=etree.XML(etree.tostring(niv1[2])) # on prend le 3ème élément niv1[2]-> standOff
+    niv3=etree.XML(etree.tostring(niv2[1])) # on prend le 2ème élément de standOff -> annotations
+
+    # niv3 a 5 éléments : annotationsGrp type Unit, annotationsGrp type Schema, et 3 div type unit-fs, relation-fs et schema-fs
+    # ici on s'intéresse au 1er élément : annotationsGrp type Unit
+    u=etree.XML(etree.tostring(niv3[0]))
+    for m in u:
+        ident=int(m.get("id").split('-')[-1])
+        start=int(m.get("from").split('_')[-1])
+        end=int(m.get("to").split('_')[-1])
+        d[ident]=[i for i in [start,end]]
+
+    return(d)
+    #return({27:[119,120,121,122],29:[128,129,130,131]})
 # -----------------------------------------------
 def get_chaines_mentions_id(ursroot):
     # A FAIRE
@@ -45,11 +75,13 @@ if __name__ == "__main__":
     print(parser)
     ... reprendre dans compare_urs.py
     '''
-    f_xml='../xml/FC_NAR_EXT_18-1-Pauline_brut_PRIS_PAR_MARINE.xml'
-    f_ursxml='../urs-xml/pauline-urs.xml'
+    path1="../xml/"
+    path2="../urs-xml/"
+    f_xml=path1+'FC_NAR_EXT_18-1-Pauline_brut_PRIS_PAR_MARINE.xml'
+    f_ursxml=path2+'pauline-urs.xml'
 
     xml_tree = etree.parse(f_xml)
-    xml_root = xml_tree.getroot()
+    xml_root = etree.XML(etree.tostring(xml_tree))
 
     ursxml_tree = etree.parse(f_ursxml)
     ursxml_root = ursxml_tree.getroot()
