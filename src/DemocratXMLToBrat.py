@@ -52,13 +52,43 @@ def get_mentions_w_id(ursroot):
     return(d)
     #return({27:[119,120,121,122],29:[128,129,130,131]})
 # -----------------------------------------------
-def get_chaines_mentions_id(ursroot):
-    # A FAIRE
-    return({19:{"mentions":[21,20,23,22,19]},25:{"mentions":[210,29,448,449,306,678]}})
-# -----------------------------------------------
-def get_chaines_typereferent(ursroot, ch):
-    # A FAIRE
-    return({19:{"mentions":[21,20,23,22,19],"type":"EVENT"},25:{"mentions":[210,29,448,449,306,678],"type":"FAC"}})
+def get_chaines(ursroot):
+    d1={}
+    d2={}
+    niv1=etree.XML(etree.tostring(ursroot)) # renvoie les 3 éléments niv1 : teiHeader, soHeader et standOff
+    niv2=etree.XML(etree.tostring(niv1[2])) # on prend le 3ème élément niv1[2]-> standOff
+    niv3=etree.XML(etree.tostring(niv2[1])) # on prend le 2ème élément de standOff -> annotations
+    # niv3 a 5 éléments : annotationsGrp type Unit, annotationsGrp type Schema, et 3 div type unit-fs, relation-fs et schema-fs
+
+    # On va d'abord récupérer les chaines qui ont un TYPE REFERENT
+    # Ensuite, on y ajoute les mentions correspondantes
+
+    s=etree.XML(etree.tostring(niv3[4])) # on prend le 4ème élément de annotations : schema-fs
+    for r in s:
+        if len(r)==3: # on doit avoir <f name="REF">, <f name="NB MAILLONS"> et <f name="TYPE REFERENT">
+            ident=int(r.get("id").split('-')[-2]) # le n° de chaine n'est pas en dernier mais avant dernier -> -2
+            if r[2].get("name")=="TYPE REFERENT":
+                #d1[ident]={"type":r[2][0].text} # on récupère le contenu de <string></string>
+                d1[ident]=r[2][0].text 
+
+
+    # ici on s'intéresse au 2nd élément : annotationsGrp type Schema
+    u=etree.XML(etree.tostring(niv3[1]))
+    # u contient des éléments de type <link id="s-CHAINE-nbchaine" target="#u-MENTION-nbmention1 #u-MENTION-nbmention2 #u-MENTION-nbmention3" ana="#s-CHAINE-xx-fs"></link>
+    for c in u:
+        ident=int(c.get("id").split('-')[-1])
+        if ident in d1.keys():
+            l=[]
+            listementions=c.get("target").split(' ')
+            listenbmentions=[int(i.split('-')[-1]) for i in listementions]
+            #d2[ident]={"mentions":listenbmentions}
+            d2[ident]=listenbmentions
+        
+
+    return(d1,d2)
+
+    #return({19:{"mentions":[21,20,23,22,19]},25:{"mentions":[210,29,448,449,306,678]}})
+
 # -----------------------------------------------
 def get_textebrat_offset(d):
     # A FAIRE
@@ -97,10 +127,12 @@ if __name__ == "__main__":
     mentions_w_id=get_mentions_w_id(ursxml_root)
 
     chaines={}
-    # on créé le dictionnaire avec un sous-dictionnaire contenant les mentions pour chaque chaine
-    chaines=get_chaines_mentions_id(ursxml_root)
-    # on complète avec le TYPE REFERENT 
-    chaines=get_chaines_typereferent(ursxml_root, chaines)
+    # on créé le dictionnaire avec le TYPE REFERENT et les mentions
+    typeref,mentions=get_chaines(ursxml_root)
+
+    for k in typeref.keys():
+        chaines[k]={"type":typeref[k],"mentions":mentions[k]}
+
 
     # création des fichiers BRAT
     # --------------------------
