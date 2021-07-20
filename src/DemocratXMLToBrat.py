@@ -18,6 +18,7 @@ nsd = {'tei': 'http://www.tei-c.org/ns/1.0',
 def get_w_id_text(xmlroot):
 
     d={}
+    textecomplet=""
     niv1=etree.XML(etree.tostring(xmlroot)) # renvoie les 2 éléments niv1 : teiHeader et text
     niv2=etree.XML(etree.tostring(niv1[1])) # niv2 = contenu de <text></text>
 
@@ -28,11 +29,15 @@ def get_w_id_text(xmlroot):
                 if w.tag.endswith('w'):
                     nbw=int(w.get("n"))
                     text=w[0].text # w[0] = <txm:form> child
-                    d[nbw]={"texte":text}
+                    start_offset=len(textecomplet)+1
+                    # la création du texte complet sera à revoir selon la feuille de style
+                    textecomplet += '{} '.format(text)
+                    end_offset=len(textecomplet)+1
+                    d[nbw]={'texte':w[0].text,'start':start_offset,'end':end_offset}
 
 
     #return({107:{"texte":"c'"},108:{"texte":"était"}})
-    return(d)
+    return(d,textecomplet)
 # -----------------------------------------------
 def get_mentions_w_id(ursroot):
     d={}
@@ -47,7 +52,11 @@ def get_mentions_w_id(ursroot):
         ident=int(m.get("id").split('-')[-1])
         start=int(m.get("from").split('_')[-1])
         end=int(m.get("to").split('_')[-1])
-        d[ident]=[i for i in [start,end]]
+        if start <= end:
+            d[ident]=[i for i in range(start,end+1)]
+        
+            # ne pas tenir copte des erreurs from > to
+            # ex : <span id="u-MENTION-111" from="text:w_FC_NAR_EXT_181Pauline_brut_PRIS_PAR_MARINE_499" to="text:w_FC_NAR_EXT_181Pauline_brut_PRIS_PAR_MARINE_488" ana="#u-MENTION-111-fs"></span>    
 
     return(d)
     #return({27:[119,120,121,122],29:[128,129,130,131]})
@@ -89,15 +98,13 @@ def get_chaines(ursroot):
 
     #return({19:{"mentions":[21,20,23,22,19]},25:{"mentions":[210,29,448,449,306,678]}})
 
-# -----------------------------------------------
-def get_textebrat_offset(d):
-    # A FAIRE
-    return("Il était une fois patati ... patata ",{107:{"texte":"c'","offsets":[1,4]},108:{"texte":"était","offsets":[24,42]}})
+
 
 # -----------------------------------------------
 def get_ann(d1,d2,d3):
     # A FAIRE
-    return("T1\tPER 24 32\tLaurence\nT2\tPER 90 97\tPauline")   
+    
+    return("T1    Organization 0 4    Sony\nT2  MERGE-ORG 14 27 joint venture\nT3  Organization 33 41  Ericsson\nE1  MERGE-ORG:T2 Org1:T1 Org2:T3\n")  
 # -----------------------------------------------
 if __name__ == "__main__":
     '''
@@ -105,10 +112,16 @@ if __name__ == "__main__":
     print(parser)
     ... reprendre dans compare_urs.py
     '''
+    # Fichiers d'entrée
     path1="../xml/"
     path2="../urs-xml/"
     f_xml=path1+'FC_NAR_EXT_18-1-Pauline_brut_PRIS_PAR_MARINE.xml'
     f_ursxml=path2+'pauline-urs.xml'
+    # fichiers de sortie
+    path3="../brat/"
+    f_brat_txt=path3+"Pauline.txt"
+    f_brat_ann=path3+"Pauline.ann"
+
 
     xml_tree = etree.parse(f_xml)
     xml_root = etree.XML(etree.tostring(xml_tree))
@@ -119,15 +132,19 @@ if __name__ == "__main__":
     # récupération des informations du XML et URS_XML DEMOCRAT et création des structures de données
     # ----------------------------------------------------------------------------------------------
 
-    w_id_text_offsets={}
-    # on crée le dictionnaire avec un sous-dictionnaire texte
-    w_id_text=get_w_id_text(xml_root)
+    
+    # on crée le dictionnaire avec le texte et les offset (les offset doivent être créés ici car à partir des mentions c'est impossible : 2 mentions peuvent contenir le même w id)
+    w_id_text_offsets, brat_txt=get_w_id_text(xml_root)
 
+    # on créé les mentions
+    # A NOTER : 2 mentions différents peuvent avoir les même w id !
+    # ex la mention 3350 dans Pauline va du w id 12281 au w id 12283 et la mention 3351 contient le w id 12282 
     mentions_w_id={}
     mentions_w_id=get_mentions_w_id(ursxml_root)
 
     chaines={}
     # on créé le dictionnaire avec le TYPE REFERENT et les mentions
+    # A NOTER : chaines ne contient que les chaines qui ont un TYPE REFERENT
     typeref,mentions=get_chaines(ursxml_root)
 
     for k in typeref.keys():
@@ -138,12 +155,23 @@ if __name__ == "__main__":
     # --------------------------
 
     # on complète le dictionnaire w_id_text_offsets avec les start-offset et end_offset
-    # cette fonction chnagera en fonction de la feuille de style de TXM
-    textebrat=""
-    textebrat,w_id_text_offsets=get_textebrat_offset(w_id_text_offsets)
+    # cette fonction changera en fonction de la feuille de style de TXM
+    # --- juste pour test 
+    brat_text2=""
+    for w in list(sorted(w_id_text_offsets.keys())):
+        brat_text2 += '{} '.format(w_id_text_offsets[w]['texte'])
+    # ---    
+    
 
-    annbrat=""
-    annbrat=get_ann(w_id_text_offsets,mentions_w_id,chaines)
+    # Création fichier brat .ann 
+    # A FINIR
+    brat_ann=get_ann(w_id_text_offsets,mentions_w_id,chaines)
 
-    # Création fichiers brat .txt et .ann à partir de textebrat et annbrat
-    # A finir
+    # Création des fichiers de sortie
+
+    f_txt=open(f_brat_txt,"w")
+    f_txt.write(brat_txt)
+    f_txt.close()
+    f_ann=open(f_brat_ann,"w")
+    f_ann.write(brat_ann)
+    f_ann.close()
