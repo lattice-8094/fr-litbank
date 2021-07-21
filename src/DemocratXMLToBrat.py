@@ -29,7 +29,7 @@ def get_w_id_text(xmlroot):
                 if w.tag.endswith('w'):
                     nbw=int(w.get("n"))
                     text=w[0].text # w[0] = <txm:form> child
-                    start_offset=len(textecomplet)+1
+                    start_offset=len(textecomplet)
                     # la création du texte complet sera à revoir selon la feuille de style
                     textecomplet += '{} '.format(text)
                     end_offset=len(textecomplet)+1
@@ -104,16 +104,16 @@ def get_chaines(ursroot):
 def get_ann(d1,d2,d3):
     # d1= dico des chaines; d2 = dico des mentions; d3 = dico des w id
     texte=""
-    # Pour chaque chaine, si elle n'a qu'une mention(on commence par le cas simple) et elle est de type PER, GPE, FAC, LOC
+    # Pour chaque chaine, si elle n'a qu'une mention(on commence par le cas simple) et si elle est de type PER, GPE, FAC, LOC
     ind_T=1 # indice pour le TAG T
     for c in sorted(d1.keys()):
-        if len(d1[c]['mentions'])==1 and d1[c]['type'] in ['PER','GPE','FAC','LOC']:
+        if len(d1[c]['mentions'])==1 and d1[c]['type'] in ['PER','GPE','FAC','LOC','ORG']:
             # la chaine ne contient qu'une mention
             text_mention=""
             m=d1[c]['mentions'][0]
             start_offset= d3[d2[m][0]]['start'] # on récupère la position de départ du premier w id de la seule mention de la chaine
             for w in d2[m]:
-                text_mention += d3[w]['texte']
+                text_mention +=  '{} '.format(d3[w]['texte'])
             end_offset=d3[w]['end']
             texte += 'T'+str(ind_T)+"\t"+d1[c]['type']+" "+str(start_offset)+" "+str(end_offset)+" "+text_mention+"\n"
             ind_T +=1

@@ -1,211 +1,212 @@
-T1	GPE 201 213 Saint-Front
-T2	LOC 259 272 nosenvirons
-T3	PER 345 353 Cassini
-T4	FAC 616 655 lacourdel'aubergeduLion-Couronné
-T5	PER 669 675 femme
-T6	FAC 893 940 certainsrelaissurlesroutespeufréquentées
-T7	FAC 913 940 lesroutespeufréquentées
-T8	PER 1002 1005 on
-T9	PER 1318 1323 nous
-T10	PER 1377 1391 Ledomestique
-T11	FAC 1915 1927 unechambre
-T12	PER 2090 2110 duvoyageurrésigné
-T13	FAC 3371 3402 auxruesanguleusesetsombres
-T14	FAC 4752 4782 toutl'intérieurdelapièce
-T15	PER 5931 5935 qui
-T16	GPE 6464 6466 L
-T17	GPE 6531 6537 Paris
-T18	FAC 7426 7444 laroutedeParis
-T19	LOC 8031 8039 cepays
-T20	PER 8088 8107 uneautreservante
-T21	PER 8301 8322 touteslesservantes
-T22	PER 8345 8365 legarçond'écurie
-T23	PER 8368 8383 lespostillons
-T24	PER 8497 8505 lechef
-T25	PER 8597 8600 on
-T26	FAC 8776 8786 laremise
-T27	PER 8793 8796 on
-T28	FAC 8809 8821 unechambre
-T29	PER 9307 9320 lesbergères
-T30	PER 9495 9514 deguerrierromain
-T31	PER 9540 9566 lafilledel'aubergiste
-T32	PER 9552 9566 l'aubergiste
-T33	PER 9677 9683 Jésus
-T34	FAC 9685 9695 lacrèche
-T35	FAC 9801 9820 cettemêmechambre
-T36	LOC 10247 10250 où
-T37	PER 10468 10498 unevieillefilledeprovince
-T38	LOC 10489 10498 province
-T39	FAC 11782 11791 lesunes
-T40	FAC 11791 11802 auxautres
-T41	PER 11904 11918 lesbourgeois
-T42	FAC 12054 12061 larue
-T43	PER 12088 12100 duforgeron
-T44	FAC 12126 12147 unemaisondécrépite
-T45	LOC 12166 12176 aumarché
-T46	PER 12176 12189 lesfermiers
-T47	LOC 12493 12497 ici
-T48	PER 12568 12581 cesgens-là
-T49	FAC 12649 12672 cesruesimpraticables
-T50	PER 12982 12998 sesdomestiques
-T51	PER 13118 13146 leslaquaisdebonnemaison
-T52	FAC 13169 13193 unedesruestortueuses
-T53	PER 13274 13289 uneParisienne
-T54	PER 13366 13386 unefigurenouvelle
-T55	PER 13871 13920 lavieilleservantenonmoinslaideetrechignée
-T56	PER 13920 13924 qui
-T57	LOC 14430 14433 là
-T58	FAC 14601 14617 lagrandepièce
-T59	PER 14631 14659 leshôtesdutitredesalon
-T60	PER 14859 14888 quelqueaïeuledelafamille
-T61	PER 14877 14888 lafamille
-T62	PER 14939 14948 l'oncle
-T63	LOC 15000 15014 lamêmeplace
-T64	PER 15408 15418 Rembrandt
-T65	PER 15490 15501 philosophe
-T66	PER 15507 15518 alchimiste
-T67	LOC 15604 15607 où
-T68	LOC 15837 15840 là
-T69	PER 16702 16730 lagrandemoitiédesfemmes
-T70	PER 16719 16730 desfemmes
-T71	GPE 16746 16753 France
-T72	PER 19596 19601 elle
-T73	PER 19797 19830 touteslespersonnesquejevois
-T74	PER 20008 20011 on
-T75	PER 20066 20070 Son
-T76	PER 20692 20697 nous
-T77	PER 20880 20884 qui
-T78	FAC 21320 21339 lachambrevoisine
-T79	LOC 22692 22695 où
-T80	PER 23809 23820 safamille
-T81	LOC 23895 23904 province
-T82	PER 24037 24051 jeunesfilles
-T83	PER 24219 24248 jenesaisquelledouairière
-T84	PER 24301 24327 desfillesd'unbanquier
-T85	PER 24315 24327 unbanquier
-T86	PER 24533 24564 mademoiselleHippolyteClairon
-T87	PER 24624 24654 touscesartistesprédestinés
-T88	PER 24817 24828 l'artiste
-T89	PER 24871 24905 unebelleetintelligenteactrice
-T90	PER 25083 25102 desgensd'esprit
-T91	PER 25191 25197 femme
-T92	PER 25636 25643 autrui
-T93	PER 26081 26096 unebelledame
-T94	PER 26671 26681 nosdames
-T95	PER 26808 26818 quelqu'un
-T96	PER 27790 27796 -elle
-T97	LOC 27805 27809 ici
-T98	PER 28505 28518 mademoiselle
-T99	PER 28523 28530 madame
-T100	PER 28555 28559 -on
-T101	PER 28583 28592 Laurence
-T102	PER 30926 30933 l'une
-T103	PER 30935 30944 l'autre
-T104	PER 30946 30981 unêtremoribondetunêtrevivant
-T105	PER 30946 30963 unêtremoribond
-T106	PER 30966 30981 unêtrevivant
-T107	PER 31975 32015 uneviergecatholiquedesanciensjours
-T108	PER 33590 33617 l'artisteaiméedupublic
-T109	PER 33607 33617 dupublic
-T110	PER 33662 33670 famille
-T111	PER 34093 34112 lesvraisartistes
-T112	PER 34117 34133 ceuxduthéâtre
-T113	PER 34242 34288 unefemmeassezdistinguéeetassezinstruite
-T114	PER 34447 34470 sonentouragehabituel
-T115	FAC 35158 35180 lethéâtred'Orléans
-T116	PER 36610 36617 l'une
-T117	PER 36622 36631 l'autre
-T118	PER 37021 37037 unebonnefille
-T119	GPE 37583 37592 Villiers
-T120	FAC 37594 37608 routedeLyon
-T121	FAC 38137 38145 aucafé
-T122	PER 38437 38477 lafemmedeParis,etlafemmeartiste
-T123	PER 38437 38455 lafemmedeParis
-T124	GPE 38449 38455 Paris
-T125	PER 38460 38477 lafemmeartiste
-T126	LOC 38542 38554 laprovince
-T127	PER 38747 38758 lavoisine
-T128	LOC 38800 38810 aumarché
-T129	PER 39212 39239 Lesecrétairedelamairie
-T130	PER 39527 39538 safamille
-T131	PER 39636 39655 aumaîtredeposte
-T132	PER 40038 40045 chacun
-T133	PER 40190 40210 leprocureurduroi
-T134	PER 40203 40210 duroi
-T135	PER 40219 40234 lagendarmerie
-T136	PER 40384 40449 unhommedemœursdoucesetuncœursensibleenverslebeausexe
-T137	PER 40384 40409 unhommedemœursdouces
-T138	PER 40436 40449 lebeausexe
-T139	PER 40473 40482 gendarme
-T140	PER 40523 40532 unedame
-T141	PER 40646 40663 procureurduroi
-T142	PER 40740 40754 JuniusBrutus
-T143	PER 40774 40777 je
-T144	PER 40812 40835 lemagistratpacifique
-T145	PER 40867 40899 lesfemmesdesautresautorités
-T146	PER 40878 40899 desautresautorités
-T147	PER 41427 41462 touteslespersonnesdesafamille
-T148	PER 41451 41462 safamille
-T149	PER 41532 41561 aupluspetitdesesenfants
-T150	PER 41549 41561 sesenfants
-T151	PER 41619 41622 en
-T152	PER 41734 41741 unfou
-T153	PER 42609 42620 lesautres
-T154	FAC 42812 42830 lasalleàmanger
-T155	FAC 42910 42922 l'escalier
-T156	PER 43353 43367 Laplusjeune
-T157	PER 43918 43933 unecomédienne
-T158	PER 44217 44236 lesdeuxpremières
-T159	PER 44292 44305 laquatrième
-T160	PER 44401 44416 toutelaville
-T161	GPE 44671 44687 toutelaFrance
-T162	PER 44842 44851 Laurence
-T163	PER 44918 44962 l'amieetlaprotégéedemademoiselleMars
-T164	PER 44918 44926 l'amie
-T165	PER 44929 44962 laprotégéedemademoiselleMars
-T166	PER 44944 44962 mademoiselleMars
-T167	PER 45072 45098 lespluscélèbresauteurs
-T168	PER 45521 45535 uneprincesse
-T169	PER 45667 45670 on
-T170	PER 45910 45913 on
-T171	LOC 46173 46186 petiteville
-T172	PER 46223 46254 l'élégantedesgrandesvilles
-T173	PER 46342 46363 lesfemmessansgoût
-T174	LOC 46593 46602 province
-T175	PER 46617 46632 unecomédienne
-T176	PER 46858 46866 lesuns
-T177	PER 46866 46877 desautres
-T178	PER 46955 46970 unebohémienne
-T179	PER 47019 47026 chacun
-T180	PER 47041 47052 desautres
-T181	PER 47160 47178 Toutescesfemmes
-T182	FAC 47193 47210 uncôtédusalon
-T183	PER 47216 47239 unrégimentendéroute
-T184	FAC 47247 47261 l'autrecôté
-T185	PER 47275 47330 Pauline,desamèreetdequelqueshommesdebonsens
-T186	PER 47724 47747 desplusdésappointées
-T187	PER 47860 47871 lalingère
-T188	PER 48153 48167 toutcemonde
-T189	PER 48402 48434 tousceuxquivinrentlasaluer
-T190	PER 48447 48456 mesdames
-T191	PER 48591 48594 on
-T192	PER 48680 48695 toutelaville
-T193	PER 48719 48722 on
-T194	PER 49505 49508 on
-T195	LOC 49709 49721 enprovince
-T196	PER 49736 49739 on
-T197	PER 50388 50391 on
-T198	PER 50950 50956 femme
-T199	PER 50958 50964 femme
-T200	PER 50982 50988 homme
-T201	PER 50990 50996 homme
-T202	FAC 51349 51360 sachambre
-T203	PER 51881 51895 cesbégueules
-T204	PER 52189 52213 lafemmelaplusdroite
-T205	PER 52218 52229 lesautres
-T206	PER 55167 55176 safille
-T207	PER 55569 55579 deRacine
-T208	LOC 55667 55678 desforêts
-T209	FAC 57876 57891 l'appartement
-T210	PER 59570 59573 j'
-T211	FAC 60164 60180 uneautrepièce
+T1	GPE 200 213 Saint-Front 
+T2	LOC 258 272 nos environs 
+T3	PER 344 353 Cassini 
+T4	FAC 615 655 la cour de l' auberge du Lion-Couronné 
+T5	ORG 637 655 du Lion-Couronné 
+T6	PER 668 675 femme 
+T7	FAC 892 940 certains relais sur les routes peu fréquentées 
+T8	FAC 912 940 les routes peu fréquentées 
+T9	PER 1001 1005 on 
+T10	PER 1317 1323 nous 
+T11	PER 1376 1391 Le domestique 
+T12	FAC 1914 1927 une chambre 
+T13	PER 2089 2110 du voyageur résigné 
+T14	FAC 3370 3402 aux rues anguleuses et sombres 
+T15	FAC 4751 4782 tout l' intérieur de la pièce 
+T16	PER 5930 5935 qui 
+T17	GPE 6463 6466 L 
+T18	GPE 6530 6537 Paris 
+T19	FAC 7425 7444 la route de Paris 
+T20	LOC 8030 8039 ce pays 
+T21	PER 8087 8107 une autre servante 
+T22	PER 8300 8322 toutes les servantes 
+T23	PER 8344 8365 le garçon d' écurie 
+T24	PER 8367 8383 les postillons 
+T25	PER 8496 8505 le chef 
+T26	PER 8596 8600 on 
+T27	FAC 8775 8786 la remise 
+T28	PER 8792 8796 on 
+T29	FAC 8808 8821 une chambre 
+T30	PER 9306 9320 les bergères 
+T31	PER 9494 9514 de guerrier romain 
+T32	PER 9539 9566 la fille de l' aubergiste 
+T33	PER 9551 9566 l' aubergiste 
+T34	PER 9676 9683 Jésus 
+T35	FAC 9684 9695 la crèche 
+T36	FAC 9800 9820 cette même chambre 
+T37	LOC 10246 10250 où 
+T38	PER 10467 10498 une vieille fille de province 
+T39	LOC 10488 10498 province 
+T40	FAC 11781 11791 les unes 
+T41	FAC 11790 11802 aux autres 
+T42	PER 11903 11918 les bourgeois 
+T43	FAC 12053 12061 la rue 
+T44	PER 12087 12100 du forgeron 
+T45	FAC 12125 12147 une maison décrépite 
+T46	LOC 12165 12176 au marché 
+T47	PER 12175 12189 les fermiers 
+T48	LOC 12492 12497 ici 
+T49	PER 12567 12581 ces gens -là 
+T50	FAC 12648 12672 ces rues impraticables 
+T51	PER 12981 12998 ses domestiques 
+T52	PER 13117 13146 les laquais de bonne maison 
+T53	FAC 13168 13193 une des rues tortueuses 
+T54	PER 13273 13289 une Parisienne 
+T55	PER 13365 13386 une figure nouvelle 
+T56	PER 13870 13920 la vieille servante non moins laide et rechignée 
+T57	PER 13919 13924 qui 
+T58	LOC 14429 14433 là 
+T59	FAC 14600 14617 la grande pièce 
+T60	PER 14630 14659 les hôtes du titre de salon 
+T61	PER 14858 14888 quelque aïeule de la famille 
+T62	PER 14876 14888 la famille 
+T63	PER 14938 14948 l' oncle 
+T64	LOC 14999 15014 la même place 
+T65	PER 15407 15418 Rembrandt 
+T66	PER 15489 15501 philosophe 
+T67	PER 15506 15518 alchimiste 
+T68	LOC 15603 15607 où 
+T69	LOC 15836 15840 là 
+T70	PER 16701 16730 la grande moitié des femmes 
+T71	PER 16718 16730 des femmes 
+T72	GPE 16745 16753 France 
+T73	PER 19595 19601 elle 
+T74	PER 19796 19830 toutes les personnes que je vois 
+T75	PER 20007 20011 on 
+T76	PER 20065 20070 Son 
+T77	PER 20691 20697 nous 
+T78	PER 20879 20884 qui 
+T79	FAC 21319 21339 la chambre voisine 
+T80	LOC 22691 22695 où 
+T81	PER 23808 23820 sa famille 
+T82	LOC 23894 23904 province 
+T83	PER 24036 24051 jeunes filles 
+T84	PER 24218 24248 je ne sais quelle douairière 
+T85	PER 24300 24327 des filles d' un banquier 
+T86	PER 24314 24327 un banquier 
+T87	PER 24532 24564 mademoiselle Hippolyte Clairon 
+T88	PER 24623 24654 tous ces artistes prédestinés 
+T89	PER 24816 24828 l' artiste 
+T90	PER 24870 24905 une belle et intelligente actrice 
+T91	PER 25082 25102 des gens d' esprit 
+T92	PER 25190 25197 femme 
+T93	PER 25635 25643 autrui 
+T94	PER 26080 26096 une belle dame 
+T95	PER 26670 26681 nos dames 
+T96	PER 26807 26818 quelqu'un 
+T97	PER 27789 27796 -elle 
+T98	LOC 27804 27809 ici 
+T99	PER 28504 28518 mademoiselle 
+T100	PER 28522 28530 madame 
+T101	PER 28554 28559 -on 
+T102	PER 28582 28592 Laurence 
+T103	PER 30925 30933 l' une 
+T104	PER 30934 30944 l' autre 
+T105	PER 30945 30981 un être moribond et un être vivant 
+T106	PER 30945 30963 un être moribond 
+T107	PER 30965 30981 un être vivant 
+T108	PER 31974 32015 une vierge catholique des anciens jours 
+T109	PER 33589 33617 l' artiste aimée du public 
+T110	PER 33606 33617 du public 
+T111	PER 33661 33670 famille 
+T112	PER 34092 34112 les vrais artistes 
+T113	PER 34116 34133 ceux du théâtre 
+T114	PER 34241 34288 une femme assez distinguée et assez instruite 
+T115	PER 34446 34470 son entourage habituel 
+T116	FAC 35157 35180 le théâtre d' Orléans 
+T117	PER 36609 36617 l' une 
+T118	PER 36621 36631 l' autre 
+T119	PER 37020 37037 une bonne fille 
+T120	GPE 37582 37592 Villiers 
+T121	FAC 37593 37608 route de Lyon 
+T122	FAC 38136 38145 au café 
+T123	PER 38436 38477 la femme de Paris , et la femme artiste 
+T124	PER 38436 38455 la femme de Paris 
+T125	GPE 38448 38455 Paris 
+T126	PER 38459 38477 la femme artiste 
+T127	LOC 38541 38554 la province 
+T128	PER 38746 38758 la voisine 
+T129	LOC 38799 38810 au marché 
+T130	PER 39211 39239 Le secrétaire de la mairie 
+T131	PER 39526 39538 sa famille 
+T132	PER 39635 39655 au maître de poste 
+T133	PER 40037 40045 chacun 
+T134	PER 40189 40210 le procureur du roi 
+T135	PER 40202 40210 du roi 
+T136	PER 40218 40234 la gendarmerie 
+T137	PER 40383 40449 un homme de mœurs douces et un cœur sensible envers le beau sexe 
+T138	PER 40383 40409 un homme de mœurs douces 
+T139	PER 40435 40449 le beau sexe 
+T140	PER 40472 40482 gendarme 
+T141	PER 40522 40532 une dame 
+T142	PER 40645 40663 procureur du roi 
+T143	PER 40739 40754 Junius Brutus 
+T144	PER 40773 40777 je 
+T145	PER 40811 40835 le magistrat pacifique 
+T146	PER 40866 40899 les femmes des autres autorités 
+T147	PER 40877 40899 des autres autorités 
+T148	PER 41426 41462 toutes les personnes de sa famille 
+T149	PER 41450 41462 sa famille 
+T150	PER 41531 41561 au plus petit de ses enfants 
+T151	PER 41548 41561 ses enfants 
+T152	PER 41618 41622 en 
+T153	PER 41733 41741 un fou 
+T154	PER 42608 42620 les autres 
+T155	FAC 42811 42830 la salle à manger 
+T156	FAC 42909 42922 l' escalier 
+T157	PER 43352 43367 La plus jeune 
+T158	PER 43917 43933 une comédienne 
+T159	PER 44216 44236 les deux premières 
+T160	PER 44291 44305 la quatrième 
+T161	PER 44400 44416 toute la ville 
+T162	GPE 44670 44687 toute la France 
+T163	PER 44841 44851 Laurence 
+T164	PER 44917 44962 l' amie et la protégée de mademoiselle Mars 
+T165	PER 44917 44926 l' amie 
+T166	PER 44928 44962 la protégée de mademoiselle Mars 
+T167	PER 44943 44962 mademoiselle Mars 
+T168	PER 45071 45098 les plus célèbres auteurs 
+T169	PER 45520 45535 une princesse 
+T170	PER 45666 45670 on 
+T171	PER 45909 45913 on 
+T172	LOC 46172 46186 petite ville 
+T173	PER 46222 46254 l' élégante des grandes villes 
+T174	PER 46341 46363 les femmes sans goût 
+T175	LOC 46592 46602 province 
+T176	PER 46616 46632 une comédienne 
+T177	PER 46857 46866 les uns 
+T178	PER 46865 46877 des autres 
+T179	PER 46954 46970 une bohémienne 
+T180	PER 47018 47026 chacun 
+T181	PER 47040 47052 des autres 
+T182	PER 47159 47178 Toutes ces femmes 
+T183	FAC 47192 47210 un côté du salon 
+T184	PER 47215 47239 un régiment en déroute 
+T185	FAC 47246 47261 l' autre côté 
+T186	PER 47274 47330 Pauline , de sa mère et de quelques hommes de bon sens 
+T187	PER 47723 47747 des plus désappointées 
+T188	PER 47859 47871 la lingère 
+T189	PER 48152 48167 tout ce monde 
+T190	PER 48401 48434 tous ceux qui vinrent la saluer 
+T191	PER 48446 48456 mesdames 
+T192	PER 48590 48594 on 
+T193	PER 48679 48695 toute la ville 
+T194	PER 48718 48722 on 
+T195	PER 49504 49508 on 
+T196	LOC 49708 49721 en province 
+T197	PER 49735 49739 on 
+T198	PER 50387 50391 on 
+T199	PER 50949 50956 femme 
+T200	PER 50957 50964 femme 
+T201	PER 50981 50988 homme 
+T202	PER 50989 50996 homme 
+T203	FAC 51348 51360 sa chambre 
+T204	PER 51880 51895 ces bégueules 
+T205	PER 52188 52213 la femme la plus droite 
+T206	PER 52217 52229 les autres 
+T207	PER 55166 55176 sa fille 
+T208	PER 55568 55579 de Racine 
+T209	LOC 55666 55678 des forêts 
+T210	FAC 57875 57891 l' appartement 
+T211	PER 59569 59573 j' 
+T212	FAC 60163 60180 une autre pièce 
