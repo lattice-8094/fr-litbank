@@ -70,6 +70,7 @@ Les formats annotés récupérés par l'export dans le logiciel TXM sont de la f
       ...
 
       </div>
+      <div type="relation-fs"></div>
       <div type="schema-fs"></div>
         ...
         <fs id="s-CHAINE-nbchaine-fs">
@@ -120,11 +121,11 @@ Pour recréer le fichier texte à partir du fichier toto.xml de départ, il faud
 
 [Bibliothèque XSLT](https://txm.gitpages.huma-num.fr/textometrie/files/library/xsl/#feuilles-de-style-de-base-pour-filtrer-les-sources-xml)
 
-**A REGARDER**
+[tei.xsl ](https://forge.cbp.ens-lyon.fr/redmine/projects/txm/repository/entry/tmp/org.txm.core/res/org/txm/xml/xsl/tei/xhtml2/tei.xsl)
+
+
 
 ### Réflexions et tests
-
-- 
 
 - Une solution serait de construire une structure de tableau ( avec pandas ) avec :
   
@@ -144,6 +145,14 @@ Pour recréer le fichier texte à partir du fichier toto.xml de départ, il faud
 
 - TYPE REFERENT et REF sont liés à la chaine (nbchaine)
 
+- Tout le texte est "taggué" avec les balises w id, on peut donc reconstituer le texte à partir de ces balises. Ce qui n'est pas possible avec les balises mention qui contiennent une plage de balises w id ( from w id to w id) continues mais entre deux mentions continues, il peut y avoir un saut de balises w id (ex : mention 10 from w id 12 to 15, mention 11 from w id 20 to w id 22). De plus une mention peut contenir des balises w id déjà présentes dans d'autres mentions (Ex : dans Pauline, chaine 1619 avec 11 mentions/maillons dont "son serin" et "ses" de ses forces et chaine 1632 avec 1 mention "toutes ses forces", le w id "ses" est inclus dans 2 mentions différentes)
+
+- Dans les balises w id, on a aussi des éléments #frpos = [tag Part Of Speech](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/french-tagset.html)
+
+- L'idée sera de garder les mentions dont au moins un w id a un #frpos = NAM ou NOM
+
 ## Liens
 
-Lire fichiers BRAT : https://brat.nlplab.org/ installé au Lattice : https://apps.lattice.cnrs.fr/brat/index.xhtml#/litbank/entities/
+- Outil pour lire les fichiers BRAT : https://brat.nlplab.org/ 
+
+- Il est installé au Lattice : https://apps.lattice.cnrs.fr/brat/index.xhtml#/litbank/entities/

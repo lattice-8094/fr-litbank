@@ -29,7 +29,7 @@ def get_w_id_text(xmlroot):
                 if w.tag.endswith('w'):
                     nbw=int(w.get("n"))
                     text=w[0].text # w[0] = <txm:form> child
-                    start_offset=len(textecomplet)+1
+                    start_offset=len(textecomplet)
                     # la création du texte complet sera à revoir selon la feuille de style
                     textecomplet += '{} '.format(text)
                     end_offset=len(textecomplet)+1
@@ -102,9 +102,23 @@ def get_chaines(ursroot):
 
 # -----------------------------------------------
 def get_ann(d1,d2,d3):
-    # A FAIRE
-    
-    return("T1    Organization 0 4    Sony\nT2  MERGE-ORG 14 27 joint venture\nT3  Organization 33 41  Ericsson\nE1  MERGE-ORG:T2 Org1:T1 Org2:T3\n")  
+    # d1= dico des chaines; d2 = dico des mentions; d3 = dico des w id
+    texte=""
+    # Pour chaque chaine, si elle n'a qu'une mention(on commence par le cas simple) et si elle est de type PER, GPE, FAC, LOC
+    ind_T=1 # indice pour le TAG T
+    for c in sorted(d1.keys()):
+        if len(d1[c]['mentions'])==1 and d1[c]['type'] in ['PER','GPE','FAC','LOC','ORG']:
+            # la chaine ne contient qu'une mention
+            text_mention=""
+            m=d1[c]['mentions'][0]
+            start_offset= d3[d2[m][0]]['start'] # on récupère la position de départ du premier w id de la seule mention de la chaine
+            for w in d2[m]:
+                text_mention +=  '{} '.format(d3[w]['texte'])
+            end_offset=d3[w]['end']
+            texte += 'T'+str(ind_T)+"\t"+d1[c]['type']+" "+str(start_offset)+" "+str(end_offset)+" "+text_mention+"\n"
+            ind_T +=1
+    return(texte)
+    #return("T1    Organization 0 4    Sony\nT2  MERGE-ORG 14 27 joint venture\nT3  Organization 33 41  Ericsson\nE1  MERGE-ORG:T2 Org1:T1 Org2:T3\n")  
 # -----------------------------------------------
 if __name__ == "__main__":
     '''
@@ -164,8 +178,9 @@ if __name__ == "__main__":
     
 
     # Création fichier brat .ann 
-    # A FINIR
-    brat_ann=get_ann(w_id_text_offsets,mentions_w_id,chaines)
+    
+    brat_ann=get_ann(chaines, mentions_w_id,w_id_text_offsets)
+    
 
     # Création des fichiers de sortie
 
