@@ -11,6 +11,8 @@ Word (élément w dans le fichier XML TEI)
 
 ## Properties
  - `id` (str)
+ - `start` (int) # début offset de car.
+ - `end` (int) # début offset de car.
  - `pos` (str)
  - `lemma` (str)
 

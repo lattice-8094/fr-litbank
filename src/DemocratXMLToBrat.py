@@ -8,36 +8,151 @@ import os
 from lxml import etree
 import argparse
 
-
+from democratXMLToBrat_class import Sentence, Word, Chaine, Mention
 
 
 nsd = {'tei': 'http://www.tei-c.org/ns/1.0',
         'txm':  'http://textometrie.org/1.0'}
 
-# -----------------------------------------------
-def get_w_id_text(xmlroot):
 
-    d={}
-    textecomplet=""
-    niv1=etree.XML(etree.tostring(xmlroot)) # renvoie les 2 éléments niv1 : teiHeader et text
-    niv2=etree.XML(etree.tostring(niv1[1])) # niv2 = contenu de <text></text>
+def get_sentence_content(sentence_elem):
+    """
+    Finds and retrieves all 'w' elements as 
+    Word objects in the given sentence element
 
-    for s in niv2:
-        if s.tag.endswith('s'):
-            niv3=etree.XML(etree.tostring(s))
-            for w in niv3:
-                if w.tag.endswith('w'):
-                    nbw=int(w.get("n"))
-                    text=w[0].text # w[0] = <txm:form> child
-                    start_offset=len(textecomplet)
-                    # la création du texte complet sera à revoir selon la feuille de style
-                    textecomplet += '{} '.format(text)
-                    end_offset=len(textecomplet)+1
-                    d[nbw]={'texte':w[0].text,'start':start_offset,'end':end_offset}
+    Parameters
+    ----------
+    sentence_elem: node
+        a sentence element
+
+    Returns
+    -------
+    List
+        list of Word objects
+    """
+    res = []
+    for child in sentence_elem:
+        if child.tag == "{http://www.tei-c.org/ns/1.0}w":
+            form = child.find('./txm:form', namespaces=nsd).text
+            pos = child.find('./txm:ana[@type="#frpos"]', namespaces=nsd).text
+            lemma = child.find('./txm:ana[@type="#frlemma"]', namespaces=nsd).text
+            word = Word(child.get('id'), form, pos, lemma)
+            res.append(word)
+        elif child.tag == "{http://www.tei-c.org/ns/1.0}lb":
+            res.append("\n")
+    return res
+
+def get_sentences(xmlroot):
+    """
+    Finds and retrieves all 's' elements in 
+    the given xml root node
+
+    Parameters
+    ----------
+    xmlroot: node
+        the root node
+
+    Returns
+    -------
+    List
+        list of Sentence objects
+    """
+    sentences = []
+    s_elems = xmlroot.findall('.//tei:text//tei:s', namespaces=nsd)
+    start = 0
+    for s_elem in s_elems:
+        id = s_elem.get('n')
+        s = Sentence(id, start)
+        s.set_content(get_sentence_content(s_elem))
+        sentences.append(s)
+        start = s.get_end()
+    return sentences
+
+def get_doc_title(root):
+    title = root.find(".//tei:titleStmt/tei:title", namespaces=nsd)
+    return title.text.strip()
+
+def get_mention_num_id(mention_id):
+    search = re.search('.+_(\d+)$', mention_id)
+    if search:
+        return int(search.group(1))
+
+def get_mentions(chaine, urs_root, words):
+    """
+    Finds and returns the 'mentions' in the given 'chaine'
+
+    Parameters
+    ----------
+    chaine: Chaine
+        the Chaine object
+    urs_root: node
+        the urs root node
+    words: dict
+        dict of all Word objects in text, index by word id (w.id: w)
+
+    Returns
+    -------
+    List
+        list of Mentions objects
+    """
+    mentions = []
+    link = urs_root.find('.//link[@id="' + chaine.id + '"]', namespaces=nsd)
+    targets = link.get('target')
+    mentions_ids = [it[1:] for it in targets.split(' ')] # on supprime le '#' initial des ids des mentions
+    # on peut avoir plusieurs mentions par chaîne
+    for mention_id in mentions_ids:
+        # dans une mention on peut avoir plusieurs mots
+        # ils sont indiqués par 'span' (id du début, id de fin) : il faut retrouver tous les mots entre les bornes
+        mention_words = []
+        mention_ref_elem = urs_root.find('.//fs[@id="'+ mention_id +'-fs"]/f[@name="REF"]/string', namespaces=nsd)
+        mention_ref = mention_ref_elem.text
+        mention_span = urs_root.find('.//span[@id="'+ mention_id +'"]', namespaces=nsd)
+        span_from = mention_span.get('from')[5:]
+        span_to = mention_span.get('to')[5:]
+        from_int = get_mention_num_id(span_from)
+        to_int = get_mention_num_id(span_to)
+        for i in range(from_int, to_int+1):
+            w_id = re.sub(r'(.+)_\d+', rf"\1_{i}", span_from)
+            mention_words.append(words[w_id])
+        mentions.append(Mention(mention_id, mention_ref, mention_words))
+        #print(chaine.id, mention_id, mention_ref, ','.join([w.form for w in mention_words]))
+    return mentions
+
+def get_chaines(urs_root, words):
+    """
+    Finds and retrieves all 'chaines' in 
+    the given urs xml root node
+
+    Parameters
+    ----------
+    ursroot: node
+        the root node
+    words: dict
+        dict of all Word objects in text, index by word id (w.id: w)
+
+    Returns
+    -------
+    List
+        list of Chaine bjects
+    """
+    chaines = []
+    schemas = urs_root.findall('.//div[@type="schema-fs"]/fs', namespaces=nsd)
+    for schema in schemas:
+        type = schema.find('./f[@name="TYPE REFERENT"]/string', namespaces=nsd)
+        if type is not None:
+            id = schema.get('id')[:-3]
+            nb_maillons = schema.find('./f[@name="NB MAILLONS"]/string', namespaces=nsd)
+            ref = schema.find('./f[@name="REF"]/string', namespaces=nsd)
+            if ref is None:
+                ref = etree.Element('none')
+                ref.text = ""
+            chaine = Chaine(id, ref.text, nb_maillons.text, type.text)
+            mentions = get_mentions(chaine, urs_root, words)
+            chaine.mentions = mentions
+            chaines.append(chaine)
+    return chaines
 
 
-    #return({107:{"texte":"c'"},108:{"texte":"était"}})
-    return(d,textecomplet)
 # -----------------------------------------------
 def get_mentions_w_id(ursroot):
     d={}
@@ -61,7 +176,7 @@ def get_mentions_w_id(ursroot):
     return(d)
     #return({27:[119,120,121,122],29:[128,129,130,131]})
 # -----------------------------------------------
-def get_chaines(ursroot):
+"""def get_chaines(ursroot):
     d1={}
     d2={}
     niv1=etree.XML(etree.tostring(ursroot)) # renvoie les 3 éléments niv1 : teiHeader, soHeader et standOff
@@ -97,7 +212,7 @@ def get_chaines(ursroot):
     return(d1,d2)
 
     #return({19:{"mentions":[21,20,23,22,19]},25:{"mentions":[210,29,448,449,306,678]}})
-
+"""
 
 
 # -----------------------------------------------
@@ -121,25 +236,62 @@ def get_ann(d1,d2,d3):
     #return("T1    Organization 0 4    Sony\nT2  MERGE-ORG 14 27 joint venture\nT3  Organization 33 41  Ericsson\nE1  MERGE-ORG:T2 Org1:T1 Org2:T3\n")  
 # -----------------------------------------------
 if __name__ == "__main__":
-    '''
-    parser = argparse.ArgumentParser(description="Passage du format Democrat XML au format BRAT")
-    print(parser)
-    ... reprendre dans compare_urs.py
-    '''
+    parser = argparse.ArgumentParser(description="Passage du format Democrat au format Brat")
+    parser.add_argument(
+        "xml",
+        type=str,
+        help="le fichier .xml",
+    )
+    parser.add_argument(
+        "urs",
+        type=str,
+        help="le fichier -urs.xml",
+    )
+    parser.add_argument(
+        "--out_dir",
+        default='../brat/',
+        type=str,
+        help="répertoire de sortie",
+    )
+
+    args = parser.parse_args()
+  
     # Fichiers d'entrée
-    path1="../xml/"
-    path2="../urs-xml/"
-    f_xml=path1+'FC_NAR_EXT_18-1-Pauline_brut_PRIS_PAR_MARINE.xml'
-    f_ursxml=path2+'pauline-urs.xml'
-    # fichiers de sortie
-    path3="../brat/"
-    f_brat_txt=path3+"Pauline.txt"
-    f_brat_ann=path3+"Pauline.ann"
-
-
+    f_xml = args.xml
+    f_ursxml = args.urs
+  
     xml_tree = etree.parse(f_xml)
-    xml_root = etree.XML(etree.tostring(xml_tree))
+    xml_root = xml_tree.getroot()
+    title = get_doc_title(xml_root)
 
+    ursxml_tree = etree.parse(f_ursxml)
+    urs_root = ursxml_tree.getroot()
+    
+    # fichiers de sortie
+    f_brat_txt = args.out_dir + title + ".txt"
+    f_brat_ann = args.out_dir + title + ".ann"
+   
+    ## Stockage des phrases (éléments 's' et des mots 'w')
+    ## Écriture du fichier txt
+    sentences = get_sentences(xml_root)
+    with open(f_brat_txt, 'w') as txt:
+        for s in sentences:
+            print(s, end="", file=txt)
+
+    ## Stockage des chaînes
+    # on a besoin d'un dictionnaire de tous les objets 'Word' du texte
+    # dictionnaire en compréhension à partir des objets 'Sentence'
+    words = {w.id:w for s in sentences for w in s.content if isinstance(w, Word)}
+    chaines = get_chaines(urs_root, words)
+    i = 1
+    with open(f_brat_ann, 'w') as ann:
+        for chaine in chaines:
+            for mention in chaine.mentions:
+                print(f"T{i}\t{chaine.type_referent} {mention.words[0].start} {mention.words[-1].get_end()}", file=ann)
+                i = i+1
+
+
+    """
     ursxml_tree = etree.parse(f_ursxml)
     ursxml_root = ursxml_tree.getroot()
 
@@ -190,3 +342,4 @@ if __name__ == "__main__":
     f_ann=open(f_brat_ann,"w")
     f_ann.write(brat_ann)
     f_ann.close()
+    """
