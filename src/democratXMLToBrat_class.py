@@ -103,6 +103,16 @@ class Mention:
     def __str__(self):
         return "".join([str(word) for word in self.words])
 
+    def is_entity(self):
+        """
+        Tells wether a mention is an entity (in litbank way) or not
+        If one of the word in mention is a noun (proper or common), the 
+        mention is an entity
+        """
+        for word in self.words:
+            if word.pos == "NAM" or word.pos == "NOM":
+                return True
+        return False
 
 class Chaine:
     """ """

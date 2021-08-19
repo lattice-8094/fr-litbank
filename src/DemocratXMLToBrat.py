@@ -322,11 +322,12 @@ if __name__ == "__main__":
     with open(f_brat_ann, "w") as ann:
         for chaine in chaines:
             for mention in chaine.mentions:
-                print(
-                    f"T{i}\t{chaine.type_referent} {mention.words[0].start} {mention.words[-1].get_end()}\t{str(mention)}",
-                    file=ann,
-                )
-                i = i + 1
+                if mention.is_entity():
+                    print(
+                        f"T{i}\t{chaine.type_referent} {mention.words[0].start} {mention.words[-1].get_end()}\t{str(mention)}",
+                        file=ann,
+                    )
+                    i = i + 1
 
     """
     ursxml_tree = etree.parse(f_ursxml)
