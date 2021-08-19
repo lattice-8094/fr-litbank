@@ -7,6 +7,7 @@ classes for fr-litbank
 
 class Sentence:
     """ """
+
     # from https://forge.cbp.ens-lyon.fr/redmine/projects/txm/repository/entry/tmp/org.txm.utils/src/org/txm/utils/i18n/LangFormater.java
     __fr_nospace_before = [",", ".", ")", "]", "}", "°", "-", "-"]
     __fr_nospace_after = ["’", "'", "(", "[", "{"]
@@ -30,13 +31,16 @@ class Sentence:
         Sets sentence content, i.e. a list of Word objects and '\n'
         This method sets the 'start', 'end' and 'printable' attributes of each word
         """
-        current_offset = self.start # la position du caractère courant
+        current_offset = self.start  #  la position du caractère courant
         for i, item in enumerate(content):
             if isinstance(item, Word):
                 item.start = current_offset
                 try:
                     # si l'item suivant est un objet Word et qu'il commence par un caractère 'no space before' : pas d'espace
-                    if isinstance(content[i+1], Word) and content[i+1].form[0] in Sentence.__fr_nospace_before:
+                    if (
+                        isinstance(content[i + 1], Word)
+                        and content[i + 1].form[0] in Sentence.__fr_nospace_before
+                    ):
                         item.printable = item.form
                     # si le dernier caractère de l'item courant est 'no space after' : pas d'espace
                     elif item.form[-1] in Sentence.__fr_nospace_after:
@@ -59,8 +63,12 @@ class Sentence:
         """
         if self.content:
             self.end = 0
-            for item in self.content[::-1]:  # on parcourt le contenu en partant de la fin
-                if isinstance(item, Word):  # si l'item courant est un mot : on renvoie self.end plus l'offset de fin du mot courant
+            for item in self.content[
+                ::-1
+            ]:  # on parcourt le contenu en partant de la fin
+                if isinstance(
+                    item, Word
+                ):  # si l'item courant est un mot : on renvoie self.end plus l'offset de fin du mot courant
                     self.end += item.get_end()
                     return self.end
                 else:  # sinon c'est un 'lb' on ajoute 1 à self.end
@@ -91,6 +99,9 @@ class Mention:
         self.id = id
         self.ref = ref
         self.words = words
+
+    def __str__(self):
+        return "".join([str(word) for word in self.words])
 
 
 class Chaine:
