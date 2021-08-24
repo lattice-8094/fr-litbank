@@ -1,0 +1,732 @@
+T1	PER 0 19	Bouvard et Pécuchet
+T2	FAC 5604 5616	du boulevard
+T3	FAC 92 113	le boulevard Bourdon 
+T4	FAC 1084 1096	du boulevard
+T5	FAC 4601 4630	l'avenue des maigres ormeaux 
+T6	FAC 353 361	du canal
+T7	FAC 156 177	le canal Saint-Martin
+T8	FAC 189 205	les deux écluses
+T9	FAC 277 300	un bateau plein de bois
+T10	LOC 309 318	la berge 
+T11	FAC 369 381	les maisons 
+T12	FAC 394 407	des chantiers
+T13	LOC 52159 52168	le soleil
+T14	LOC 488 497	du soleil
+T15	LOC 57612 57621	au soleil
+T16	LOC 32707 32717	du soleil 
+T17	LOC 40159 40168	du soleil
+T18	FAC 543 563	les quais de granit 
+T19	PER 38046 38065	Les deux Parisiens 
+T20	PER 47814 47827	les messieurs
+T21	PER 3749 3769	Bouvard et Pécuchet 
+T22	PER 46314 46328	ces messieurs 
+T23	PER 37188 37201	ces messieurs
+T24	PER 16759 16777	ces deux inconnus 
+T25	PER 46608 46627	Les deux Parisiens 
+T26	PER 732 744	Deux hommes 
+T27	PER 45347 45368	les futurs agronomes 
+T28	PER 47086 47106	Bouvard et Pécuchet 
+T29	PER 23392 23408	ces deux hommes 
+T30	PER 43889 43903	Les deux amis 
+T31	PER 45644 45664	Bouvard et Pécuchet 
+T32	PER 49362 49381	Les deux visiteurs 
+T33	PER 58533 58540	Bouvard
+T34	PER 4045 4052	Bouvard
+T35	PER 41717 41724	Bouvard
+T36	PER 22361 22369	Bouvard 
+T37	PER 4022 4025	Moi
+T38	PER 19071 19079	Bouvard 
+T39	PER 10646 10654	Bouvard 
+T40	PER 9049 9056	Bouvard
+T41	PER 22236 22247	le copiste 
+T42	PER 58919 58926	Bouvard
+T43	PER 22852 22860	Bouvard 
+T44	PER 2563 2570	Bouvard
+T45	PER 7508 7516	Bouvard 
+T46	PER 33379 33387	Bouvard 
+T47	PER 20879 20887	Bouvard 
+T48	PER 9337 9345	Bouvard 
+T49	PER 40170 40178	Bouvard 
+T50	PER 2706 2714	Bouvard 
+T51	PER 19690 19694	Mon 
+T52	PER 49717 49725	Bouvard 
+T53	PER 7177 7185	Bouvard 
+T54	PER 21490 21498	ce fils 
+T55	PER 3371 3379	Bouvard 
+T56	PER 14311 14319	Bouvard 
+T57	PER 1670 1678	Bouvard 
+T58	PER 60860 60868	Bouvard 
+T59	PER 21356 21390	François-Denys-Bartholomée Bouvard
+T60	PER 31953 31961	Bouvard 
+T61	PER 38802 38810	Bouvard 
+T62	PER 21392 21416	mon fils naturel reconnu
+T63	PER 51362 51370	Bouvard 
+T64	PER 21212 21220	Bouvard 
+T65	PER 27550 27558	Bouvard 
+T66	PER 35743 35751	Bouvard 
+T67	PER 41946 41953	son ami
+T68	PER 14523 14531	Bouvard 
+T69	PER 27923 27931	Bouvard 
+T70	PER 2125 2132	Bouvard
+T71	PER 19846 19854	Monsieur
+T72	PER 21599 21608	le neveu 
+T73	PER 12007 12014	Bouvard
+T74	PER 13555 13563	Bouvard 
+T75	PER 19743 19751	Bouvard 
+T76	PER 5821 5829	Bouvard 
+T77	PER 35479 35487	Bouvard 
+T78	PER 53325 53333	Bouvard 
+T79	PER 26069 26076	Bouvard
+T80	PER 4656 4663	Bouvard
+T81	PER 42178 42185	Bouvard
+T82	PER 50316 50324	Bouvard 
+T83	PER 10135 10139	Mon 
+T84	PER 10151 10158	Bouvard
+T85	PER 20173 20181	Monsieur
+T86	PER 14813 14821	Bouvard 
+T87	PER 6796 6804	Bouvard 
+T88	PER 14709 14714	L'un 
+T89	PER 15277 15284	Bouvard
+T90	PER 34550 34558	Bouvard 
+T91	PER 3115 3123	Bouvard 
+T92	PER 56857 56865	Bouvard 
+T93	PER 28670 28677	Bouvard
+T94	PER 18750 18757	Bouvard
+T95	PER 52297 52305	Bouvard 
+T96	PER 18759 18767	Bouvard 
+T97	PER 15060 15068	Bouvard 
+T98	PER 50546 50554	Bouvard 
+T99	PER 756 761	L'un 
+T100	PER 23181 23189	Bouvard 
+T101	PER 29710 29718	Bouvard 
+T102	PER 21887 21903	son autre enfant
+T103	PER 6071 6079	Bouvard 
+T104	PER 9540 9547	Bouvard
+T105	PER 12875 12883	Bouvard 
+T106	PER 40980 40988	Bouvard 
+T107	PER 23490 23497	Bouvard
+T108	PER 47086 47094	Bouvard 
+T109	PER 45243 45251	Bouvard 
+T110	PER 28794 28801	Bouvard
+T111	PER 9639 9644	Vous 
+T112	PER 11273 11281	Bouvard 
+T113	PER 25795 25803	Bouvard 
+T114	PER 60113 60121	Bouvard 
+T115	PER 4401 4409	Bouvard 
+T116	PER 1291 1302	son voisin 
+T117	PER 39583 39590	Bouvard
+T118	PER 20435 20443	Bouvard 
+T119	PER 11477 11485	Bouvard 
+T120	PER 9817 9824	Bouvard
+T121	PER 11487 11504	Monsieur Bouvard 
+T122	PER 25632 25640	Bouvard 
+T123	PER 22105 22138	au fruit de ses premières amours 
+T124	PER 45644 45652	Bouvard 
+T125	PER 6510 6518	Bouvard 
+T126	LOC 771 782	la Bastille
+T127	PER 22515 22523	Pécuchet
+T128	PER 10532 10541	Pécuchet 
+T129	PER 12093 12121	le fils d'un petit marchand 
+T130	PER 60307 60315	Pécuchet
+T131	PER 58350 58359	Pécuchet 
+T132	PER 2620 2629	Pécuchet 
+T133	PER 10753 10762	Pécuchet 
+T134	PER 9173 9181	Pécuchet
+T135	PER 40226 40235	Pécuchet 
+T136	PER 20916 20925	Pécuchet 
+T137	PER 34820 34829	Pécuchet 
+T138	PER 54408 54417	Pécuchet 
+T139	PER 19670 19679	Pécuchet 
+T140	PER 19658 19666	Pécuchet
+T141	PER 1694 1702	Pécuchet
+T142	PER 11560 11569	Pécuchet 
+T143	PER 51397 51405	Pécuchet
+T144	PER 7382 7390	Pécuchet
+T145	PER 11671 11679	Pécuchet
+T146	PER 27595 27604	Pécuchet 
+T147	PER 53025 53034	Pécuchet 
+T148	PER 14603 14612	Pécuchet 
+T149	PER 30494 30502	Pécuchet
+T150	PER 26258 26266	Pécuchet
+T151	PER 35529 35538	Pécuchet 
+T152	PER 3984 3993	Pécuchet 
+T153	PER 5918 5926	Pécuchet
+T154	PER 2109 2118	Pécuchet 
+T155	PER 5891 5893	J'
+T156	PER 53463 53472	Pécuchet 
+T157	PER 14360 14368	Pécuchet
+T158	PER 32651 32660	Pécuchet 
+T159	PER 6547 6556	Pécuchet 
+T160	PER 4753 4761	Pécuchet
+T161	PER 28201 28209	Pécuchet
+T162	PER 14836 14845	Pécuchet 
+T163	PER 42105 42113	Pécuchet
+T164	PER 3030 3039	Pécuchet 
+T165	PER 35768 35777	Pécuchet 
+T166	PER 23317 23325	son ami 
+T167	PER 34497 34506	Pécuchet 
+T168	PER 7052 7060	Pécuchet
+T169	PER 29238 29246	Pécuchet
+T170	PER 18804 18812	Pécuchet
+T171	PER 31025 31034	Pécuchet 
+T172	PER 18714 18723	Pécuchet 
+T173	PER 15014 15023	Pécuchet 
+T174	PER 9417 9426	Pécuchet 
+T175	PER 41121 41130	Pécuchet 
+T176	PER 39333 39342	Pécuchet 
+T177	PER 47097 47106	Pécuchet 
+T178	PER 33023 33032	Pécuchet 
+T179	PER 6099 6108	Pécuchet 
+T180	PER 9591 9600	Pécuchet 
+T181	PER 23340 23349	Pécuchet 
+T182	PER 56936 56945	Pécuchet 
+T183	PER 11300 11309	Pécuchet 
+T184	PER 25828 25837	Pécuchet 
+T185	PER 29991 30000	Pécuchet 
+T186	PER 4442 4451	Pécuchet 
+T187	PER 8032 8041	Pécuchet 
+T188	PER 1242 1257	le petit homme 
+T189	PER 57381 57390	Pécuchet 
+T190	PER 20397 20400	Tu 
+T191	PER 55783 55792	Pécuchet 
+T192	PER 25753 25761	Pécuchet
+T193	PER 31642 31651	Pécuchet 
+T194	PER 45655 45664	Pécuchet 
+T195	PER 1374 1402	du particulier en redingote 
+T196	PER 20235 20244	Pécuchet 
+T197	FAC 792 813	du Jardin des Plantes
+T198	LOC 1074 1096	au milieu du boulevard
+T199	TIME 1116 1130	la même minute
+T200	FAC 1567 1578	mon bureau 
+T201	LOC 26684 26695	la campagne
+T202	LOC 23300 23307	ce mot 
+T203	LOC 36376 36387	la campagne
+T204	LOC 17731 17742	la campagne
+T205	LOC 2544 2555	la banlieue
+T206	LOC 2523 2535	la campagne 
+T207	LOC 43397 43408	la campagne
+T208	LOC 23281 23293	la campagne 
+T209	FAC 2603 2618	des guinguettes
+T210	GPE 26568 26573	Paris
+T211	GPE 58296 58307	la capitale
+T212	GPE 50675 50681	Paris 
+T213	GPE 2693 2704	la capitale
+T214	GPE 30230 30241	la capitale
+T215	GPE 12997 13003	Paris 
+T216	GPE 31976 31982	Paris 
+T217	FAC 2833 2857	la cheminée d'une usine 
+T218	FAC 2847 2857	une usine 
+T219	FAC 3089 3098	les rues 
+T220	PER 14220 14225	l'un 
+T221	PER 18818 18820	J'
+T222	PER 18888 18892	l'un
+T223	FAC 3244 3256	le trottoir 
+T224	PER 3271 3283	des ouvriers
+T225	VEH 3494 3519	trois calèches de remise 
+T226	GPE 3542 3547	Bercy
+T227	PER 3559 3570	une mariée 
+T228	PER 3588 3620	des bourgeois en cravate blanche
+T229	PER 3622 3632	des dames 
+T230	PER 3678 3706	deux ou trois petites filles
+T231	PER 3708 3720	un collégien
+T232	PER 3778 3788	des femmes
+T233	PER 3889 3900	les hommes 
+T234	PER 4062 4070	enfants 
+T235	LOC 4171 4187	au bord du quai 
+T236	FAC 4179 4187	du quai 
+T237	PER 4193 4211	une fille de joie 
+T238	PER 4216 4225	un soldat
+T239	PER 4533 4543	un prêtre 
+T240	PER 4561 4578	L'ecclésiastique 
+T241	FAC 4640 4651	le trottoir
+T242	PER 4739 4751	les jésuites
+T243	FAC 4863 4878	des persiennes 
+T244	PER 4906 4919	Les passants 
+T245	TIME 4944 4956	Sept heures 
+T246	ORG 5127 5158	le corps des ponts et chaussées
+T247	ORG 5160 5179	la régie des tabacs
+T248	FAC 5194 5206	les théâtres
+T249	ORG 6572 6582	la marine 
+T250	ORG 19553 19562	la Marine
+T251	ORG 5208 5221	notre marine 
+T252	PER 5252 5261	des gens 
+T253	FAC 5625 5642	l'écluse d'amont 
+T254	FAC 5650 5665	l'écluse d'aval
+T255	FAC 6005 6021	l'Hôtel de Ville
+T256	FAC 6028 6048	un petit restaurant 
+T257	ORG 6523 6545	une maison de commerce
+T258	ORG 6556 6582	au ministère de la marine 
+T259	TIME 6624 6635	chaque soir
+T260	PER 6708 6717	M. Thiers
+T261	PER 6760 6792	un certain Dumouchel, professeur
+T262	PER 16886 16896	Dumouchel 
+T263	PER 8801 8810	Dumouchel
+T264	PER 15073 15082	Dumouchel
+T265	PER 15084 15095	Cet auteur 
+T266	PER 28443 28457	Le professeur 
+T267	PER 28429 28439	Dumouchel 
+T268	PER 57430 57440	Dumouchel 
+T269	FAC 7358 7380	un autre établissement
+T270	PER 7563 7582	tous les écrivains 
+T271	PER 14882 14972	un ancien commis voyageur, actuellement boursier, très bon enfant, patriote, ami des dames
+T272	PER 16821 16829	Barberou
+T273	PER 7767 7791	Barberou, un de ses amis
+T274	PER 14864 14872	Barberou
+T275	PER 32035 32043	Barberou
+T276	PER 28614 28623	Barberou 
+T277	PER 27079 27088	Barberou 
+T278	PER 7783 7791	ses amis
+T279	PER 7870 7883	des personnes
+T280	PER 7913 7922	Le garçon
+T281	PER 8069 8083	le limonadier 
+T282	TIME 8190 8200	la soirée 
+T283	FAC 11763 11777	l'appartement 
+T284	FAC 8358 8373	son appartement
+T285	FAC 8218 8230	son domicile
+T286	FAC 8253 8269	rue Saint-Martin
+T287	GPE 8788 8797	du Havre 
+T288	GPE 29660 29668	au Havre
+T289	GPE 26634 26642	au Havre
+T290	FAC 9256 9276	cette petite chambre
+T291	TIME 9294 9303	le matin 
+T292	FAC 9749 9766	la rue de Béthune
+T293	GPE 9759 9766	Béthune
+T294	FAC 9776 9799	le pont de la Tournelle
+T295	GPE 9787 9799	la Tournelle
+T296	FAC 9803 9824	La chambre de Bouvard
+T297	FAC 9904 9914	un balcon 
+T298	LOC 9928 9938	la rivière
+T299	PER 10078 10087	des amis 
+T300	PER 19946 20088	votre père naturel, M. François-Denys-Bartholomée Bouvard, ex-négociant dans la ville de Nantes, décédé en cette commune le 10 du présent mois
+T301	PER 19690 19700	Mon oncle 
+T302	PER 21469 21481	Le bonhomme 
+T303	PER 13477 13486	son oncle
+T304	PER 10198 10209	un monsieur
+T305	PER 29795 29803	son père
+T306	PER 10135 10145	Mon oncle 
+T307	PER 10624 10635	mon parrain
+T308	PER 10618 10620	C'
+T309	PER 12969 12978	son oncle
+T310	PER 12949 12957	Un homme
+T311	PER 21700 21711	M. Bouvard 
+T312	PER 10601 10612	votre père 
+T313	TIME 10823 10840	quarante-sept ans
+T314	PER 11184 11197	leurs patrons
+T315	PER 11256 11266	les dames 
+T316	FAC 11286 11296	l'escalier
+T317	TIME 11363 11375	Le lendemain
+T318	FAC 11382 11453	la cour de Mm. Descambos frères : tissus d'Alsace, rue Hautefeuille, 92
+T319	TIME 11728 11738	la journée
+T320	TIME 11909 11917	Le matin
+T321	PER 12103 12121	un petit marchand 
+T322	PER 12142 12149	sa mère
+T323	TIME 12183 12193	quinze ans
+T324	PER 12277 12287	le patron 
+T325	PER 12233 12244	un huissier
+T326	PER 12246 12260	Les gendarmes 
+T327	PER 12415 12433	élève en pharmacie
+T328	PER 12435 12450	maître d'études
+T329	PER 12452 12500	comptable sur un des paquebots de la haute Seine
+T330	VEH 12466 12500	un des paquebots de la haute Seine
+T331	VEH 12469 12500	des paquebots de la haute Seine
+T332	LOC 12486 12500	la haute Seine
+T333	PER 12509 12528	un chef de division
+T334	TIME 12799 12810	le dimanche
+T335	LOC 12902 12923	les bords de la Loire
+T336	LOC 12915 12923	la Loire
+T337	FAC 12930 12947	une cour de ferme
+T338	FAC 13122 13147	une boutique de confiseur
+T339	PER 13169 13180	son épouse 
+T340	PER 13218 13226	Les amis
+T341	FAC 13735 13747	un estaminet
+T342	TIME 14118 14138	la fin de la semaine
+T343	TIME 14128 14138	la semaine
+T344	FAC 14197 14210	leur comptoir
+T345	FAC 14301 14309	les rues
+T346	PER 14963 14972	des dames
+T347	FAC 15180 15213	un pensionnat de jeunes personnes
+T348	ORG 15563 15578	le gouvernement
+T349	PER 15683 15691	Fualdès 
+T350	EVENT 15761 15774	la Révolution
+T351	FAC 15800 15828	des boutiques de bric-à-brac
+T352	FAC 15845 15881	le Conservatoire des arts et métiers
+T353	GPE 15883 15894	Saint-Denis
+T354	LOC 15896 15908	les Gobelins
+T355	FAC 15910 15924	les Invalides 
+T356	PER 16049 16063	deux étrangers
+T357	PER 16065 16077	deux Anglais
+T358	FAC 16086 16108	les galeries du Muséum
+T359	FAC 16099 16108	du Muséum
+T360	FAC 16326 16345	les serres chaudes 
+T361	FAC 16531 16541	au Louvre 
+T362	PER 16565 16572	Raphaël
+T363	FAC 16576 16598	la grande bibliothèque
+T364	FAC 16701 16721	du Collège de France
+T365	GPE 16715 16721	France
+T366	PER 16726 16740	le professeur 
+T367	FAC 16852 16884	les coulisses d'un petit théâtre
+T368	FAC 16868 16884	un petit théâtre
+T369	FAC 16940 16950	l'Académie
+T370	TIME 17251 17260	l'époque 
+T371	TIME 17310 17325	cette époque-là
+T372	LOC 17369 17378	des pays 
+T373	FAC 17631 17639	les rues
+T374	FAC 17686 17705	Le quai aux Fleurs 
+T375	TIME 17862 17870	du jour 
+T376	TIME 17746 17758	Un dimanche 
+T377	GPE 17812 17818	Meudon
+T378	GPE 17820 17828	Bellevue
+T379	GPE 17830 17838	Suresnes
+T380	GPE 17840 17847	Auteuil
+T381	LOC 17934 17952	au bord des champs
+T382	FAC 18020 18035	des guinguettes
+T383	TIME 18131 18146	Les lendemains 
+T384	FAC 18214 18224	du bureau 
+T385	PER 18330 18351	les mêmes compagnons 
+T386	TIME 19027 19041	Un après-midi 
+T387	TIME 19050 19068	le 20 janvier 1839
+T388	FAC 19087 19100	son comptoir 
+T389	PER 19131 19141	le facteur
+T390	PER 19237 19248	Les commis 
+T391	PER 19308 19318	un médecin
+T392	FAC 19537 19562	au ministère de la Marine
+T393	PER 20214 20222	Tardivel
+T394	PER 19790 19802	Me Tardivel 
+T395	PER 21228 21239	au notaire 
+T396	PER 21256 21267	Le notaire 
+T397	PER 22635 22643	Tardivel
+T398	GPE 19804 19823	Savigny-en-Septaine
+T399	TIME 19825 19840	14 janvier 1839
+T400	GPE 20023 20041	la ville de Nantes
+T401	GPE 20053 20067	cette commune 
+T402	GPE 20035 20041	Nantes
+T403	PER 20224 20231	notaire
+T404	FAC 20287 20294	la cour
+T405	ORG 20517 20525	la poste
+T406	PER 20586 20596	du notaire
+T407	FAC 20804 20821	l'Arc de Triomphe
+T408	LOC 20837 20853	le bord de l'eau
+T409	FAC 20867 20877	Notre-Dame
+T410	TIME 20968 20980	cinq minutes
+T411	PER 21585 21594	un neveu 
+T412	PER 21632 21641	mon oncle
+T413	PER 21750 21774	Ses deux fils légitimes 
+T414	PER 22288 22298	des frères
+T415	PER 21960 21973	sa cuisinière
+T416	PER 22014 22024	la famille
+T417	PER 22281 22310	L'aîné des frères, M. Étienne
+T418	PER 22659 22671	M. Alexandre
+T419	PER 22645 22657	L'autre fils
+T420	PER 23150 23169	le sieur Alexandre 
+T421	GPE 40562 40577	du point de vue
+T422	GPE 22930 22937	Savigny
+T423	LOC 23688 23696	Le Nord 
+T424	LOC 23729 23737	le Midi 
+T425	LOC 23801 23810	le Centre
+T426	GPE 23850 23862	La Bretagne 
+T427	LOC 23924 23944	aux régions de l'Est
+T428	LOC 23939 23944	l'Est
+T429	GPE 24064 24072	le Forez
+T430	GPE 24074 24082	le Bugey
+T431	GPE 24084 24095	le Roumois 
+T432	FAC 24156 24168	leur maison 
+T433	VEH 24465 24477	les charrues
+T434	PER 24718 24724	chefs 
+T435	FAC 24777 24795	un domicile à eux 
+T436	FAC 24830 24845	leur basse-cour
+T437	FAC 24862 24873	leur jardin
+T438	FAC 25156 25166	une maison
+T439	PER 26030 26046	leurs collègues 
+T440	TIME 26463 26490	dix-huit mois de recherches
+T441	LOC 26547 26573	tous les environs de Paris
+T442	GPE 26585 26592	Amiens 
+T443	GPE 26600 26606	Évreux
+T444	GPE 26614 26628	Fontainebleau 
+T445	LOC 26658 26671	une campagne 
+T446	FAC 26809 26825	des habitations 
+T447	FAC 27036 27052	une manufacture 
+T448	LOC 38110 38123	la propriété 
+T449	LOC 27182 27192	un domaine
+T450	GPE 32869 32881	Chavignolles
+T451	GPE 58332 58345	Chavignolles 
+T452	GPE 39975 39988	Chavignolles 
+T453	GPE 29759 29771	Chavignolles
+T454	GPE 33550 33562	Chavignolles
+T455	GPE 27196 27208	Chavignolles
+T456	GPE 29701 29705	Caen
+T457	GPE 27216 27221	Caen 
+T458	GPE 32221 32226	Caen 
+T459	GPE 32448 32452	Caen
+T460	GPE 32610 32617	Falaise
+T461	GPE 29982 29989	Falaise
+T462	GPE 27224 27231	Falaise
+T463	FAC 50695 50713	Leur exploitation 
+T464	FAC 27252 27285	une ferme de trente-huit hectares
+T465	FAC 37240 37250	leur ferme
+T466	FAC 52748 52757	la ferme 
+T467	FAC 27462 27468	l'une 
+T468	FAC 38898 38908	La maison 
+T469	FAC 27451 27461	la maison 
+T470	FAC 27292 27315	une manière de château 
+T471	FAC 34539 34548	le jardin
+T472	FAC 53250 53259	du jardin
+T473	FAC 54900 54910	le jardin 
+T474	FAC 36080 36090	le jardin 
+T475	FAC 39570 39579	le jardin
+T476	FAC 27318 27344	un jardin en plein rapport
+T477	FAC 56744 56759	tout le jardin 
+T478	GPE 27375 27387	le Calvados 
+T479	PER 27746 27754	sa mère 
+T480	TIME 27877 27891	la fin de 1840
+T481	TIME 27893 27919	six mois avant sa retraite
+T482	PER 28122 28131	Descambos
+T483	PER 28243 28256	ses collègues
+T484	FAC 28831 28842	son balcon 
+T485	FAC 28905 28915	des quais 
+T486	VEH 28952 28964	des omnibus 
+T487	TIME 28998 29046	des jours heureux passés dans cette grande ville
+T488	LOC 29028 29046	cette grande ville
+T489	FAC 29065 29078	au restaurant
+T490	TIME 29080 29100	des soirs au théâtre
+T491	FAC 29090 29100	au théâtre
+T492	FAC 29294 29304	sa chambre
+T493	LOC 29644 29652	la Seine
+T494	VEH 30954 30964	du chariot
+T495	VEH 33042 33052	le chariot
+T496	VEH 29907 29935	une voiture de déménagement 
+T497	GPE 29958 29968	Nonancourt
+T498	GPE 29970 29979	Verneuil 
+T499	PER 30383 30397	le conducteur 
+T500	PER 30045 30058	du conducteur
+T501	TIME 30181 30200	le dimanche 20 mars
+T502	PER 31450 31461	les hommes 
+T503	PER 31781 31800	ces deux imbéciles 
+T504	PER 30383 30413	le conducteur et le charretier
+T505	PER 31844 31858	du charretier 
+T506	PER 30400 30413	le charretier
+T507	PER 61563 61577	le charretier 
+T508	FAC 30435 30454	exécrables auberges
+T509	FAC 30541 30556	les mêmes gîtes
+T510	TIME 30591 30598	l'aube 
+T511	FAC 30603 30611	la route
+T512	LOC 30755 30767	la campagne 
+T513	VEH 31014 31023	un navire
+T514	GPE 31586 31595	Gauburge 
+T515	TIME 31805 31825	la journée suivante 
+T516	TIME 31986 32001	le surlendemain
+T517	FAC 32060 32084	la cour des Messageries 
+T518	FAC 32130 32153	la cathédrale de Rouen 
+T519	GPE 32147 32153	Rouen 
+T520	VEH 32176 32185	diligence
+T521	TIME 32189 32196	Le soir
+T522	FAC 32275 32294	au théâtre des Arts
+T523	PER 32313 32324	ses voisins
+T524	LOC 32390 32414	un domaine aux alentours
+T525	TIME 32434 32446	le vendredi 
+T526	TIME 32496 32508	le dimanche 
+T527	VEH 32527 32540	une charrette
+T528	PER 37323 37333	le fermier
+T529	PER 38573 38585	maître Gouy 
+T530	PER 38150 38162	Maître Gouy 
+T531	PER 50103 50114	le fermier 
+T532	PER 50387 50399	maître Gouy 
+T533	PER 37335 37346	maître Gouy
+T534	PER 37487 37495	L'homme 
+T535	PER 50017 50029	maître Gouy 
+T536	PER 32556 32567	le fermier 
+T537	TIME 32589 32604	quelques heures
+T538	TIME 32619 32649	le neuvième jour de son voyage
+T539	GPE 32744 32755	Bretteville
+T540	FAC 32770 32784	la grand'route
+T541	FAC 32804 32825	un chemin de traverse
+T542	TIME 32842 32856	chaque minute 
+T543	FAC 32856 32881	le pignon de Chavignolles
+T544	FAC 32893 32906	les ornières 
+T545	LOC 32961 32990	au milieu des champs labourés
+T546	TIME 32992 33000	La nuit 
+T547	FAC 33140 33150	des fermes
+T548	FAC 33219 33227	sa route
+T549	VEH 33337 33349	un cabriolet
+T550	TIME 33461 33471	une heure 
+T551	FAC 33629 33637	la salle
+T552	FAC 33718 33730	le vestibule
+T553	PER 52859 52867	Germaine
+T554	PER 33852 33869	La vieille femme 
+T555	PER 36681 36701	La vieille servante 
+T556	FAC 34805 34818	les espaliers
+T557	TIME 35053 35061	La nuit 
+T558	FAC 35182 35202	Leurs deux chambres 
+T559	LOC 35655 35662	la lune
+T560	TIME 35709 35722	le lendemain 
+T561	LOC 35925 35935	les champs
+T562	FAC 35946 35956	une grange
+T563	FAC 35963 35986	le clocher de l'église 
+T564	FAC 35977 35986	l'église 
+T565	FAC 36026 36049	Deux allées principales
+T566	FAC 36314 36328	les espaliers 
+T567	FAC 36415 36424	un verger
+T568	LOC 36446 36457	un bosquet 
+T569	FAC 36607 36617	le sentier
+T570	FAC 36484 36499	un petit chemin
+T571	PER 36541 36600	un homme à chevelure grisonnante et vêtu d'un paletot noir 
+T572	PER 36725 36738	M. Vaucorbeil
+T573	PER 36783 36803	Les autres notables 
+T574	PER 44229 44241	M. le comte 
+T575	PER 36813 36833	le comte de Faverges
+T576	PER 46018 46026	le comte
+T577	PER 43062 43071	Le comte 
+T578	PER 44998 45007	Le comte 
+T579	PER 43008 43023	M. de Faverges 
+T580	GPE 36825 36833	Faverges
+T581	PER 36887 36895	le maire
+T582	PER 36897 36907	M. Foureau
+T583	PER 36966 36978	M. Marescot 
+T584	PER 36991 37005	l'abbé Jeufroy
+T585	PER 41973 41987	cette personne
+T586	PER 41846 41856	Mme Bordin
+T587	PER 37010 37026	Mme veuve Bordin
+T588	PER 37078 37086	Germaine
+T589	PER 37099 37119	feu Germain son mari
+T590	TIME 37134 37147	des journées 
+T591	FAC 37314 37321	la cour
+T592	PER 37366 37376	un garçon 
+T593	PER 37379 37390	la fermière
+T594	PER 38162 38176	et son épouse 
+T595	PER 50281 50290	sa femme 
+T596	PER 37574 37583	La femme 
+T597	PER 37678 37690	aux manants 
+T598	FAC 37705 37716	des églises
+T599	FAC 37725 37735	la cuisine
+T600	FAC 37829 37846	la haute cheminée
+T601	FAC 38232 38250	Tous les bâtiments
+T602	FAC 38259 38275	la charretterie 
+T603	FAC 38283 38296	la bouillerie
+T604	FAC 38356 38371	une succursale 
+T605	LOC 38466 38474	la mare 
+T606	FAC 38521 38536	les trois cours
+T607	FAC 38558 38571	les cultures 
+T608	VEH 38632 38645	les charrois 
+T609	LOC 38734 38747	les prairies 
+T610	FAC 38861 38869	la cavée
+T611	FAC 38876 38896	une avenue de hêtres
+T612	FAC 38933 38951	sa cour d'honneur 
+T613	FAC 39324 39331	la cour
+T614	FAC 38933 38963	sa cour d'honneur et sa façade
+T615	FAC 39032 39042	Le hangar 
+T616	FAC 39032 39055	Le hangar et le cellier
+T617	FAC 39045 39055	le cellier
+T618	FAC 39057 39068	le fournil 
+T619	FAC 39057 39081	le fournil et le bûcher 
+T620	FAC 57840 57850	la cuisine
+T621	FAC 41149 41160	la cuisine 
+T622	FAC 39125 39136	La cuisine 
+T623	FAC 42277 42287	la cuisine
+T624	FAC 39154 39170	une petite salle
+T625	FAC 39195 39207	le vestibule
+T626	FAC 39209 39239	une deuxième salle plus grande
+T627	FAC 39241 39249	le salon
+T628	FAC 39251 39271	Les quatre chambres 
+T629	FAC 42338 42350	les chambres
+T630	FAC 39298 39310	le corridor 
+T631	FAC 39404 39420	la bibliothèque 
+T632	TIME 39904 39927	plus de trois semaines 
+T633	PER 39958 39988	les bourgeois de Chavignolles 
+T634	PER 40110 40124	La population 
+T635	FAC 41160 41173	un large trou
+T636	FAC 41407 41415	la fosse
+T637	PER 41587 41604	Les cultivateurs 
+T638	PER 41625 41641	les aubergistes 
+T639	TIME 42413 42425	la mi-carême
+T640	TIME 42442 42454	le printemps
+T641	TIME 42470 42483	chaque matin 
+T642	FAC 42811 42821	leur ferme
+T643	TIME 43120 43139	une heure de marche
+T644	LOC 43173 43183	un coteau 
+T645	LOC 43194 43213	la vallée de l'Orne
+T646	LOC 43207 43213	l'Orne
+T647	LOC 43215 43226	La rivière 
+T648	LOC 43827 43837	la rivière
+T649	LOC 43446 43461	l'autre colline
+T650	FAC 43510 43521	les maisons
+T651	FAC 43716 43744	Le château à façade blanche 
+T652	FAC 46204 46214	au château
+T653	LOC 43776 43784	un bois 
+T654	PER 43944 43955	Des femmes 
+T655	PER 45063 45076	Les faneuses 
+T656	PER 44921 44931	aux femmes
+T657	VEH 44181 44201	une longue charrette
+T658	PER 44259 44272	son régisseur
+T659	PER 47522 47535	Le régisseur 
+T660	PER 47068 47081	Le régisseur 
+T661	PER 46218 46232	Son régisseur 
+T662	PER 44369 44382	un magistrat 
+T663	PER 44387 44395	un dandy
+T664	PER 44715 44734	au râteleur anglais
+T665	PER 44771 44791	un pareil instrument
+T666	PER 45027 45040	cette enfant 
+T667	PER 44795 44811	Une petite fille
+T668	PER 46149 46163	un domestique 
+T669	PER 46245 46295	homme à figure chafouine et de façons obséquieuses
+T670	PER 46354 46375	quatorze moissonneurs
+T671	TIME 46787 46801	Le crépuscule 
+T672	PER 46971 46980	Le berger
+T673	FAC 47210 47241	Tous les bâtiments de la ferme 
+T674	FAC 49141 49149	la cour 
+T675	FAC 47291 47298	la cour
+T676	LOC 47373 47385	un ruisseau 
+T677	FAC 47553 47567	les bergeries 
+T678	FAC 47693 47703	La grange 
+T679	FAC 47722 47737	une cathédrale 
+T680	PER 47829 47842	une servante 
+T681	FAC 47954 47967	le pigeonnier
+T682	FAC 48480 48491	la bouverie
+T683	PER 49252 49272	Les gens de travail 
+T684	TIME 49470 49477	le soir
+T685	FAC 49535 49553	la Maison rustique
+T686	VEH 49700 49713	une carriole 
+T687	PER 49914 49929	les laboureurs 
+T688	PER 50660 50681	Son notaire de Paris 
+T689	PER 51026 51042	deux charretiers
+T690	PER 51044 51055	deux femmes
+T691	PER 51057 51067	un berger 
+T692	TIME 51309 51329	Au mois de novembre 
+T693	TIME 51320 51329	novembre 
+T694	TIME 51879 51896	L'année suivante 
+T695	TIME 52097 52115	le long de l'année
+T696	TIME 52117 52126	du matin 
+T697	TIME 52132 52139	au soir
+T698	PER 52203 52217	le même homme 
+T699	PER 52528 52551	La fille de basse-cour 
+T700	PER 52580 52596	des gens mariés 
+T701	PER 52598 52610	les enfants 
+T702	PER 52623 52634	les cousins
+T703	PER 52636 52648	les cousines
+T704	PER 52650 52660	les oncles
+T705	PER 52662 52679	les belles-sœurs 
+T706	TIME 52780 52788	le soir 
+T707	FAC 52827 52838	la chambre 
+T708	GPE 53132 53143	du village 
+T709	FAC 54697 54707	du perron 
+T710	FAC 54867 54898	toutes les allées de sable neuf
+T711	PER 56201 56217	du bon jardinier
+T712	FAC 58281 58307	les jardins de la capitale
+T713	PER 58744 58750	Puvis 
+T714	PER 58766 58782	le manuel Roret 
+T715	PER 58832 58840	Franklin
+T716	PER 58842 58849	Riéfel 
+T717	PER 58842 58862	Riéfel et M. Rigaud 
+T718	PER 58852 58862	M. Rigaud 
+T719	PER 58967 58975	Leclerc 
+T720	PER 59026 59035	Gasparin 
+T721	PER 59040 59052	un Lyonnais 
+T722	TIME 59065 59079	un demi-siècle
+T723	PER 59166 59171	Tull 
+T724	PER 59226 59243	le major Beetson 
+T725	PER 59776 59785	Louis Xv 
+T726	PER 59789 59810	un prêtre de Touraine
+T727	GPE 59802 59810	Touraine
+T728	FAC 60751 60759	sa cour 
+T729	LOC 60847 60858	la campagne
+T730	LOC 61134 61143	les pays 
+T731	PER 61687 61699	les paysans 
+T732	PER 62091 62104	des familles 

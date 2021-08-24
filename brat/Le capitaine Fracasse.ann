@@ -1,0 +1,632 @@
+T1	LOC 95 126	une de ces collines décharnées 
+T2	LOC 102 126	ces collines décharnées 
+T3	GPE 139 149	les Landes
+T4	GPE 157 161	Dax 
+T5	GPE 157 178	Dax et Mont-de-Marsan
+T6	GPE 164 178	Mont-de-Marsan
+T7	TIME 196 218	le règne de Louis Xiii
+T8	PER 208 218	Louis Xiii
+T9	FAC 45269 45298	cette cour plénière du Carême
+T10	FAC 54026 54037	le château 
+T11	FAC 45236 45262	cette auberge de la famine
+T12	FAC 21383 21392	du castel
+T13	FAC 45305 45338	cet hôtel de misère et de lésine 
+T14	FAC 400 411	un bâtiment
+T15	FAC 1130 1143	l'habitation 
+T16	FAC 49099 49109	le château
+T17	FAC 41555 41566	du château 
+T18	FAC 48232 48243	ma demeure 
+T19	FAC 33902 33912	du château
+T20	FAC 590 600	au manoir 
+T21	FAC 29245 29256	ce château 
+T22	FAC 44976 44986	du manoir 
+T23	FAC 39619 39635	ce triste manoir
+T24	FAC 3720 3729	le logis 
+T25	FAC 23488 23513	ce manoir sans habitants 
+T26	FAC 42144 42162	ce château délabré
+T27	FAC 3257 3266	du castel
+T28	FAC 8994 9003	le castel
+T29	FAC 21097 21106	du manoir
+T30	FAC 892 902	le castel 
+T31	FAC 30384 30404	ce castel démantelé 
+T32	FAC 53414 53429	ce grave manoir
+T33	FAC 3903 3912	la maison
+T34	FAC 40202 40212	du castel 
+T35	FAC 50312 50321	ce manoir
+T36	FAC 36994 37025	ce manoir peuplé par ses aïeux 
+T37	FAC 47321 47338	votre forteresse 
+T38	FAC 44831 44841	du castel 
+T39	FAC 21249 21266	du château désert
+T40	FAC 47928 47941	votre château
+T41	FAC 4230 4238	du logis
+T42	FAC 41066 41083	un château ruiné 
+T43	FAC 9862 9870	du lieu 
+T44	FAC 8238 8247	du castel
+T45	FAC 30316 30326	du château
+T46	FAC 44083 44119	du castel, d'ordinaire si tranquille
+T47	FAC 220 270	une de ces gentilhommières si communes en Gascogne
+T48	FAC 54805 54816	du château 
+T49	FAC 36880 36890	du château
+T50	FAC 52440 52450	la maison 
+T51	FAC 41826 41844	ce castel lézardé 
+T52	FAC 227 270	ces gentilhommières si communes en Gascogne
+T53	GPE 34662 34670	Gascogne
+T54	GPE 262 270	Gascogne
+T55	PER 279 294	les villageois 
+T56	FAC 2151 2161	des tours 
+T57	FAC 324 373	Deux tours rondes, coiffées de toits en éteignoir
+T58	FAC 744 754	des tours 
+T59	FAC 509 575	un pont-levis réduit à l'état de sinécure par le nivelage du fossé
+T60	LOC 567 575	du fossé
+T61	FAC 629 661	leurs échauguettes en poivrière 
+T62	FAC 738 754	l'une des tours 
+T63	TIME 841 853	cette époque
+T64	PER 857 869	Le voyageur 
+T65	LOC 19415 19422	du ciel
+T66	LOC 21308 21316	au ciel 
+T67	LOC 937 944	le ciel
+T68	FAC 995 1047	une demeure convenable pour un hobereau de province 
+T69	PER 1023 1047	un hobereau de province 
+T70	FAC 1095 1105	Le chemin 
+T71	FAC 1119 1128	la route 
+T72	FAC 1224 1294	un étroit sentier blanc semblable à un galon terni sur un manteau râpé
+T73	LOC 1296 1366	Deux ornières remplies d'eau de pluie et habitées par des grenouilles 
+T74	VEH 1395 1408	des voitures 
+T75	LOC 1543 1589	la bande frayée à travers les mauvaises herbes
+T76	FAC 2136 2161	les barbacanes des tours 
+T77	LOC 2546 2554	la lune 
+T78	PER 2743 2773	le plus habile héraut d'armes 
+T79	PER 3223 3266	des hôtes évidemment peu nombreux du castel
+T80	VEH 3372 3414	un carrosse défunt sous le règne précédent
+T81	TIME 3396 3414	le règne précédent
+T82	TIME 32953 32966	l'autre règne
+T83	FAC 3461 3475	des cheminées 
+T84	PER 3635 3648	les écoliers 
+T85	PER 3803 3814	un soudard 
+T86	PER 3920 3933	ces mourants 
+T87	FAC 4221 4238	le reste du logis
+T88	PER 4707 4720	des visiteurs
+T89	FAC 48599 48608	le porche
+T90	FAC 4804 4813	ce porche
+T91	FAC 23382 23391	du porche
+T92	FAC 4869 4904	aux appartements du rez-de-chaussée
+T93	FAC 20786 20805	du rez-de-chaussée 
+T94	FAC 4886 4904	du rez-de-chaussée
+T95	FAC 4916 4926	une salle 
+T96	FAC 4955 4971	salle des gardes
+T97	FAC 49157 49164	la cour
+T98	FAC 4992 5107	une cour triste, nue et froide, entourée de hautes murailles rayées de longs filaments noirs par les pluies d'hiver
+T99	FAC 5414 5421	la cour
+T100	FAC 5128 5135	la cour
+T101	FAC 8872 8882	le jardin 
+T102	FAC 22241 22251	du jardin 
+T103	FAC 5678 5696	au jardin lui-même
+T104	FAC 5996 6017	cet espace abandonné 
+T105	FAC 5381 5421	un jardin situé en contre-bas de la cour
+T106	FAC 5588 5600	la terrasse 
+T107	LOC 5734 5742	hallier 
+T108	LOC 5748 5760	forêt vierge
+T109	FAC 6237 6247	des allées
+T110	TIME 6314 6328	longues années
+T111	FAC 6985 7065	l'antique allée devenue plus obstruée et plus touffue qu'une sente dans les bois
+T112	LOC 7042 7065	une sente dans les bois
+T113	LOC 7057 7065	les bois
+T114	FAC 8076 8096	Ce cabinet grotesque
+T115	FAC 8513 8523	La grotte 
+T116	FAC 7086 7118	une espèce de niche de rocaille 
+T117	NO_PER 7405 7447	une divinité mythologique, Flore ou Pomone
+T118	NO_PER 7586 7603	La pauvre déesse 
+T119	NO_PER 7432 7438	Flore 
+T120	NO_PER 7441 7447	Pomone
+T121	TIME 7488 7498	son temps 
+T122	NO_PER 7557 7564	la Mort
+T123	NO_PER 34276 34284	la Mort 
+T124	PER 8214 8247	des anciens possesseurs du castel
+T125	TIME 8336 8351	la Renaissance 
+T126	PER 8364 8445	des sculpteurs italiens venus en France à la suite de maître Roux ou du Primatice
+T127	GPE 8397 8404	France 
+T128	PER 8418 8430	maître Roux 
+T129	PER 8433 8445	du Primatice
+T130	PER 43461 43504	cette famille autrefois importante et riche
+T131	PER 12703 12714	la famille 
+T132	PER 41205 41224	la famille Sigognac
+T133	PER 15208 15219	la famille 
+T134	PER 41676 41686	la famille
+T135	PER 43575 43595	cette race amoindrie
+T136	PER 13127 13155	ces hommes de race et d'épée
+T137	PER 8481 8509	la famille maintenant déchue
+T138	PER 43355 43368	les Sigognac 
+T139	PER 34007 34021	cette famille 
+T140	PER 40428 40438	sa famille
+T141	PER 36894 36931	une famille jadis puissante et riche 
+T142	PER 42882 42894	des Sigognac
+T143	LOC 8913 8922	la lande 
+T144	PER 9103 9124	les derniers maîtres 
+T145	FAC 29396 29407	son écurie 
+T146	FAC 49211 49220	l'écurie 
+T147	FAC 9226 9234	l'écurie
+T148	NO_PER 29366 29376	le cheval 
+T149	NO_PER 49227 49242	du bidet blanc 
+T150	NO_PER 34205 34221	son vieux cheval
+T151	NO_PER 9280 9295	un maigre bidet
+T152	FAC 9624 9633	du chenil
+T153	NO_PER 43936 43943	Miraut 
+T154	NO_PER 44344 44350	Miraut
+T155	NO_PER 37554 37561	Miraut 
+T156	NO_PER 35247 35253	Miraut
+T157	NO_PER 34237 34252	son vieux chien
+T158	NO_PER 30031 30038	Miraut 
+T159	NO_PER 44121 44128	Miraut 
+T160	NO_PER 29883 29898	du vieux chien 
+T161	NO_PER 9635 9650	un chien unique
+T162	NO_PER 35060 35067	Miraut 
+T163	NO_PER 35763 35770	Miraut 
+T164	NO_PER 37206 37265	un chien unique, presque aveugle et tout gris de vieillesse
+T165	NO_PER 48545 48551	Miraut
+T166	NO_PER 38132 38138	Miraut
+T167	FAC 13718 13736	cette maison morte
+T168	FAC 18843 18850	du lieu
+T169	FAC 49420 49429	la maison
+T170	FAC 10193 10202	le logis 
+T171	FAC 10069 10081	l'habitation
+T172	FAC 13657 13665	du logis
+T173	FAC 11468 11483	ce logis désert
+T174	FAC 37297 37312	au logis désert
+T175	FAC 10243 10246	Il 
+T176	FAC 45388 45398	l'escalier
+T177	FAC 10098 10152	un énorme escalier à rampe de bois taillée en balustre
+T178	FAC 10154 10167	Cet escalier 
+T179	FAC 37670 37681	l'escalier 
+T180	FAC 11187 11203	cette cage vide 
+T181	FAC 10179 10191	deux paliers
+T182	FAC 10228 10239	deux étages
+T183	LOC 10742 10757	îles inconnues 
+T184	FAC 11379 11389	une pièce 
+T185	FAC 49371 49388	la salle à manger
+T186	FAC 49790 49811	cette pièce inhabitée
+T187	FAC 53132 53149	la chambre morte 
+T188	FAC 49923 49941	cet étrange logis 
+T189	FAC 53815 53832	cette vaste salle
+T190	FAC 14309 14318	la salle 
+T191	FAC 15296 15308	cette salle 
+T192	FAC 13753 13762	la salle 
+T193	FAC 37758 37776	la salle à manger 
+T194	FAC 13238 13271	cette galerie muette et immobile 
+T195	FAC 11412 11427	salle à manger 
+T196	TIME 11427 11446	aux temps fabuleux 
+T197	FAC 51318 51329	la cheminée
+T198	FAC 11774 11802	la cheminée de forme antique
+T199	FAC 49525 49537	la cheminée 
+T200	PER 11954 11979	des capitaines cuirassés 
+T201	PER 12022 12029	un page
+T202	PER 12120 12155	des seigneurs en simarre de velours
+T203	NO_PER 12223 12243	saint Jean-Baptiste 
+T204	PER 12268 12338	des douairières en costume à la vieille mode, effrayantes de lividité 
+T205	PER 53249 53340	les douairières vertueuses, engoncées dans leurs collerettes et roides sous leur vertugadin
+T206	NO_PER 12402 12409	stryges
+T207	NO_PER 12414 12421	lamies 
+T208	NO_PER 12426 12434	empouses
+T209	PER 12462 12491	des barbouilleurs de province
+T210	PER 12723 12748	du personnage représenté 
+T211	PER 24651 24669	mon pauvre maître 
+T212	PER 45369 45378	Sigognac 
+T213	PER 43112 43213	le baron de Sigognac accoutré comme un gueux de l'Hostière ou comme un cueilleur de pommes du Perche 
+T214	PER 35229 35238	le Baron 
+T215	PER 45160 45169	du maître
+T216	PER 32497 32511	le fluet baron
+T217	PER 34602 34611	le Baron 
+T218	PER 37534 37552	le jeune seigneur 
+T219	PER 47577 47623	le Baron ennuyé par le verbiage du vieux drôle
+T220	PER 13102 13155	du dernier descendant de ces hommes de race et d'épée
+T221	PER 37316 37325	Le Baron 
+T222	PER 57585 57611	au jeune baron de Sigognac
+T223	PER 39603 39670	Le châtelain de ce triste manoir, habitué à ces lugubres symphonies
+T224	PER 29825 29841	le nouveau venu 
+T225	PER 35013 35021	du Baron
+T226	PER 41169 41183	Le jeune Baron
+T227	PER 48180 48197	Votre Seigneurie 
+T228	PER 43561 43595	un rejeton de cette race amoindrie
+T229	PER 40333 40342	Sigognac 
+T230	PER 32968 32983	le jeune baron 
+T231	PER 48180 48186	Votre 
+T232	PER 35630 35639	le Baron 
+T233	PER 37858 37873	leur descendant
+T234	PER 30330 30350	Le baron de Sigognac
+T235	PER 30369 30404	le seigneur de ce castel démantelé 
+T236	PER 51017 51029	ce seigneur 
+T237	PER 33362 33380	le jeune Sigognac 
+T238	PER 50215 50229	le jeune Baron
+T239	PER 40060 40069	le Baron 
+T240	PER 48583 48594	son maître 
+T241	PER 54063 54071	Sigognac
+T242	PER 41813 41822	son fils 
+T243	PER 36001 36010	du Baron 
+T244	PER 44545 44560	le jeune homme 
+T245	PER 54568 54577	Le Baron 
+T246	PER 38223 38232	Le Baron 
+T247	PER 33914 33922	Sigognac
+T248	PER 33774 33781	du fils
+T249	PER 35805 35816	son maître 
+T250	PER 31573 31588	le jeune baron 
+T251	PER 51220 51229	le Baron 
+T252	PER 54456 54473	notre jeune baron
+T253	PER 34316 34325	Le Baron 
+T254	PER 42219 42228	son fils 
+T255	PER 36386 36397	son maître 
+T256	PER 44772 44779	du fils
+T257	PER 36212 36220	du Baron
+T258	PER 47259 47274	noble châtelain
+T259	PER 36948 36964	un rejeton isolé
+T260	PER 31163 31178	un jeune homme 
+T261	PER 41998 42014	le jeune enfant 
+T262	PER 44214 44222	Le Baron
+T263	PER 28878 28894	Le jeune maître 
+T264	PER 34163 34178	le jeune baron 
+T265	PER 54789 54816	Le jeune maître du château 
+T266	PER 33975 33986	le seigneur
+T267	PER 49356 49364	Sigognac
+T268	PER 47128 47137	du Baron 
+T269	PER 37015 37025	ses aïeux 
+T270	PER 41274 41284	Ses aïeux 
+T271	PER 15057 15093	des ancêtres sortis de leurs cadres 
+T272	PER 13211 13227	ses nobles aïeux
+T273	TIME 13229 13236	Le soir
+T274	FAC 44901 44919	des chambres vides
+T275	FAC 13443 13465	ces chambres désertes 
+T276	FAC 39008 39029	les chambres désertes
+T277	PER 13667 13687	Des habitants réels 
+T278	TIME 14246 14272	des époques plus heureuses
+T279	PER 14419 14435	Bernard Palissy 
+T280	TIME 14679 14690	les années 
+T281	TIME 15227 15289	les longues nuits d'hiver si favorables aux agapes de spectres
+T282	FAC 17231 17239	la pièce
+T283	FAC 38314 38325	la chambre 
+T284	FAC 37886 37919	la chambre à coucher fantastique 
+T285	FAC 15326 15355	une autre un peu moins grande
+T286	FAC 18281 18294	cette chambre
+T287	FAC 18901 18923	cette dernière chambre
+T288	FAC 16356 16369	cette chambre
+T289	GPE 15383 15391	Flandre 
+T290	PER 15953 15992	du chasseur à la poursuite des halbrans
+T291	PER 38489 38500	le chasseur
+T292	PER 16308 16334	Hamlet, prince de Danemark
+T293	NO_PER 16398 16407	Polonius 
+T294	PER 16590 16637	du visiteur assez hardi pour pénétrer jusque-là
+T295	TIME 16815 16823	la mort 
+T296	FAC 17513 17526	des tombeaux 
+T297	PER 17653 17683	une jeune princesse enchantée 
+T298	NO_PER 17723 17747	la Belle au bois dormant
+T299	PER 18324 18333	un homme 
+T300	FAC 18385 18401	Ces deux pièces 
+T301	FAC 19204 19225	de chambres délabrées
+T302	FAC 20045 20056	ces salles 
+T303	FAC 19913 19923	un caveau 
+T304	TIME 19999 20008	du passé 
+T305	TIME 20059 20070	le présent 
+T306	FAC 20217 20229	les greniers
+T307	TIME 20249 20256	le jour
+T308	TIME 38371 38378	le jour
+T309	TIME 21686 21694	Le jour 
+T310	FAC 20513 20537	les ruines de Montlhéry 
+T311	FAC 20513 20559	les ruines de Montlhéry ou du château Gaillard
+T312	GPE 20527 20537	Montlhéry 
+T313	FAC 20540 20559	du château Gaillard
+T314	TIME 20561 20572	Chaque soir
+T315	FAC 20775 20805	Les pièces du rez-de-chaussée 
+T316	GPE 21009 21016	Turquie
+T317	PER 25971 25978	Pierre 
+T318	PER 24430 24443	le vieillard 
+T319	PER 51405 51412	Pierre 
+T320	PER 48980 48986	Pierre
+T321	PER 37337 37344	Pierre 
+T322	PER 37370 37376	Pierre
+T323	PER 29774 29781	Pierre 
+T324	PER 34444 34450	Pierre
+T325	PER 28430 28442	du bonhomme 
+T326	PER 21082 21106	l'unique valet du manoir
+T327	PER 37072 37116	un seul domestique, serviteur par dévouement
+T328	PER 36222 36229	Pierre 
+T329	PER 28934 28940	Pierre
+T330	PER 28150 28157	Pierre 
+T331	PER 37943 37962	le vieux serviteur 
+T332	PER 24856 24864	l'homme 
+T333	PER 27166 27172	soldat
+T334	PER 23988 24033	un bonhomme, moitié paysan, moitié domestique
+T335	PER 27149 27156	Pierre 
+T336	PER 49431 49438	Pierre 
+T337	PER 24084 24099	du nouveau venu
+T338	PER 48512 48551	Pierre, éveillé par les abois de Miraut
+T339	PER 27743 27772	le possesseur de ce vêtement 
+T340	PER 25408 25414	Pierre
+T341	PER 25431 25449	du vieux serviteur
+T342	METALEPSE 21116 21127	le lecteur 
+T343	FAC 21219 21266	la seule pièce un peu vivante du château désert
+T344	FAC 29025 29036	la cuisine 
+T345	FAC 29865 29873	la salle
+T346	FAC 23045 23058	cette cuisine
+T347	FAC 24055 24067	la cuisine. 
+T348	FAC 36539 36549	la cuisine
+T349	FAC 30429 30439	la cuisine
+T350	FAC 21270 21280	la cuisine
+T351	FAC 37390 37398	au foyer
+T352	FAC 24889 24900	la cheminée
+T353	FAC 28524 28535	la cheminée
+T354	FAC 21877 21892	cet âtre froid 
+T355	FAC 21287 21299	la cheminée 
+T356	FAC 24179 24186	l'âtre 
+T357	FAC 26005 26016	la cheminée
+T358	FAC 21453 21464	la cheminée
+T359	FAC 36716 36727	la cheminée
+T360	PER 22127 22152	une personne asthmatique 
+T361	NO_PER 23021 23038	Ce chat tout seul
+T362	NO_PER 26148 26159	Béelzébuth 
+T363	NO_PER 44010 44018	du chat 
+T364	NO_PER 22319 22382	Un vieux chat noir, maigre, pelé comme un manchon hors d'usage 
+T365	NO_PER 37564 37575	Béelzébuth 
+T366	NO_PER 24528 24535	du chat
+T367	NO_PER 30000 30011	Béelzébuth 
+T368	NO_PER 23755 23763	le chat 
+T369	NO_PER 24414 24424	Béelzébuth
+T370	NO_PER 23610 23658	le chat noir à l'œil si profondément mystérieux 
+T371	NO_PER 35070 35080	Béelzébuth
+T372	NO_PER 37270 37283	un chat noir 
+T373	NO_PER 39702 39717	Béelzébuth seul
+T374	NO_PER 38140 38150	Béelzébuth
+T375	NO_PER 45644 45657	un chat noir 
+T376	NO_PER 25038 25049	Béelzébuth 
+T377	NO_PER 43625 43636	Béelzébuth 
+T378	NO_PER 24101 24113	le chat noir
+T379	NO_PER 51907 51917	Béelzébuth
+T380	NO_PER 24824 24832	le chat 
+T381	NO_PER 35441 35453	au chat noir
+T382	NO_PER 24720 24741	une bête dénuée d'âme
+T383	NO_PER 28710 28720	Béelzébuth
+T384	NO_PER 36053 36064	Béelzébuth 
+T385	NO_PER 29478 29491	le chat noir 
+T386	NO_PER 39976 39995	Ce chat visionnaire
+T387	NO_PER 28701 28708	au chat
+T388	FAC 22828 22841	les cabinets 
+T389	NO_PER 22919 22932	les sorcières
+T390	TIME 22941 22950	au sabbat
+T391	NO_PER 23525 23583	l'esprit familier de la maison, le genius loci, le Kobold 
+T392	PER 23900 23918	une personne âgée 
+T393	PER 24651 24675	mon pauvre maître et moi
+T394	TIME 26218 26228	les années
+T395	LOC 26230 26239	le soleil
+T396	LOC 45677 45686	le soleil
+T397	LOC 44436 44446	le soleil 
+T398	TIME 26273 26285	des saisons 
+T399	PER 26600 26626	les gens de la race basque
+T400	PER 26863 26888	un peintre de profession 
+T401	NO_PER 27839 27845	Nestor
+T402	TIME 27883 27901	trois âges d'homme
+T403	TIME 28649 28668	la fin de l'automne
+T404	TIME 28659 28668	l'automne
+T405	TIME 49616 49625	l'automne
+T406	LOC 29109 29155	un ciel rayé de nuages lourds et gros de pluie
+T407	LOC 29216 29227	les landes 
+T408	NO_PER 35060 35080	Miraut et Béelzébuth
+T409	NO_PER 37554 37575	Miraut et Béelzébuth 
+T410	PER 30447 30492	un jeune homme de vingt-cinq ou vingt-six ans
+T411	TIME 30465 30492	vingt-cinq ou vingt-six ans
+T412	TIME 32252 32267	tous les jours 
+T413	PER 32301 32311	l'ouvrier 
+T414	PER 32460 32493	un homme plus grand et plus gros 
+T415	PER 32720 32761	feu son père, mort depuis quelques années
+T416	PER 33104 33113	son père 
+T417	PER 44721 44736	du vieux baron 
+T418	PER 42414 42422	son père
+T419	PER 33659 33667	son père
+T420	PER 42817 42826	le Baron 
+T421	PER 33047 33063	son propre aïeul
+T422	PER 41603 41622	le dernier Sigognac
+T423	PER 32851 32874	leur premier possesseur
+T424	PER 33293 33320	du vieux gentilhomme défunt
+T425	PER 33716 33730	du vieux baron
+T426	TIME 32746 32761	quelques années
+T427	PER 32817 32828	le fripier 
+T428	TIME 32830 32874	l'époque du décès de leur premier possesseur
+T429	TIME 32934 32966	au commencement de l'autre règne
+T430	PER 33669 33730	Les paysans, habitués à les vénérer sur le dos du vieux baron
+T431	PER 34061 34075	les étrangers 
+T432	PER 34260 34312	ce chevalier de la Mort de la gravure d'Albert Dürer
+T433	PER 34300 34312	Albert Dürer
+T434	PER 36111 36131	Berthe la filandière
+T435	FAC 36332 36359	aux porches des cathédrales
+T436	FAC 36344 36359	des cathédrales
+T437	TIME 36452 36461	ce temps 
+T438	TIME 45003 45011	la nuit 
+T439	TIME 45611 45619	la nuit 
+T440	TIME 43832 43840	la nuit 
+T441	TIME 49718 49726	la nuit 
+T442	TIME 36461 36469	la nuit 
+T443	PER 36758 36793	le groupe réuni autour de la table 
+T444	PER 37029 37050	une livrée nombreuse 
+T445	PER 37492 37511	les pauvres paysans
+T446	PER 38094 38108	un apothicaire
+T447	TIME 38404 38412	le soir 
+T448	PER 38558 38578	un être presque réel
+T449	PER 38626 38638	un assassin 
+T450	PER 38647 38657	sa victime
+T451	FAC 38928 38940	les couloirs
+T452	PER 39496 39512	un enfant égorgé
+T453	PER 40041 40069	un moins brave que le Baron 
+T454	FAC 40163 40175	les galetas 
+T455	FAC 40163 40212	les galetas et les chambres inhabitées du castel 
+T456	FAC 40178 40212	les chambres inhabitées du castel 
+T457	FAC 40259 40270	un corridor
+T458	PER 40321 40329	un homme
+T459	PER 40650 40657	Ronsard
+T460	PER 40724 40733	des Grecs
+T461	PER 40814 40823	un homme 
+T462	TIME 41028 41056	une nuit noire et pluvieuse 
+T463	PER 41408 41426	chaque génération 
+T464	LOC 41489 41498	Les fiefs
+T465	LOC 41489 41540	Les fiefs, les métairies, les fermes et les terres 
+T466	LOC 41500 41513	les métairies
+T467	LOC 41515 41526	les fermes 
+T468	LOC 41529 41540	les terres 
+T469	PER 41938 41953	aux créanciers 
+T470	PER 41938 41965	aux créanciers et aux juifs
+T471	PER 41956 41965	aux juifs
+T472	PER 42112 42162	sa mère morte de tristesse dans ce château délabré
+T473	TIME 42326 42338	la jeunesse 
+T474	PER 42362 42394	les familles les moins heureuses
+T475	TIME 42559 42568	ce moment
+T476	TIME 42802 42813	quatre ans 
+T477	FAC 42861 42894	le caveau de famille des Sigognac
+T478	PER 42984 43011	la noblesse de la province 
+T479	LOC 42999 43011	la province 
+T480	PER 43148 43171	un gueux de l'Hostière 
+T481	PER 43180 43213	un cueilleur de pommes du Perche 
+T482	GPE 43203 43213	du Perche 
+T483	PER 43298 43312	quelque prince
+T484	PER 43320 43337	beaucoup de gens 
+T485	PER 43509 43531	bien peu de personnes 
+T486	TIME 43606 43623	quelques instants
+T487	LOC 44070 44119	aux environs du castel, d'ordinaire si tranquille
+T488	PER 44382 44399	des Sept-Dormants
+T489	FAC 44418 44426	sa niche
+T490	PER 48126 48134	l'acteur
+T491	PER 55054 55064	le Pédant 
+T492	PER 48393 48402	Le Pédant
+T493	PER 47609 47623	du vieux drôle
+T494	PER 51468 51478	Le Pédant 
+T495	PER 45013 45036	Quel voyageur malavisé 
+T496	PER 45852 45866	un personnage 
+T497	PER 61597 61618	du Pédant déjà décrit
+T498	PER 47078 47101	le burlesque personnage
+T499	PER 54726 54735	du Pédant
+T500	PER 50462 50472	le Pédant 
+T501	PER 50953 50959	Pédant
+T502	TIME 44937 44949	cette heure 
+T503	PER 45111 45118	un hôte
+T504	PER 45190 45203	de visiteurs 
+T505	PER 49815 49828	Les comédiens
+T506	PER 47997 48034	des comédiens de province en tournée 
+T507	PER 54870 54880	ses hôtes 
+T508	PER 47648 47668	moi et mes camarades
+T509	PER 48444 48453	la troupe
+T510	PER 50748 50757	la troupe
+T511	PER 60087 60096	la troupe
+T512	TIME 45289 45298	du Carême
+T513	PER 45725 45739	le bon Homère 
+T514	PER 45753 45761	l'Aurore
+T515	FAC 46581 46590	Pont-Neuf
+T516	PER 47363 47371	un page 
+T517	PER 47376 47384	un nain 
+T518	TIME 47410 47427	une heure avancée
+T519	PER 47463 47496	les gens du monde les plus polis 
+T520	PER 47655 47668	mes camarades
+T521	LOC 47783 47790	bourgs 
+T522	LOC 47793 47800	villes 
+T523	VEH 57303 57315	la charrette
+T524	VEH 47804 47825	le chariot de Thespis
+T525	VEH 47827 47841	lequel chariot
+T526	VEH 49032 49048	au lourd chariot
+T527	VEH 52654 52667	la charrette 
+T528	VEH 48701 48723	la charrette embourbée
+T529	VEH 49279 49291	la charrette
+T530	PER 48671 48682	tous trois 
+T531	PER 50969 50980	le Léandre 
+T532	PER 61670 61680	du Léandre
+T533	PER 54737 54745	Léandre 
+T534	PER 48727 48738	Le Léandre 
+T535	PER 54737 54760	Léandre et le Matamore 
+T536	PER 48727 48753	Le Léandre et le Matamore 
+T537	PER 61714 61733	du Tranche-montagne
+T538	PER 52617 52629	le Matamore 
+T539	PER 48741 48753	le Matamore 
+T540	PER 54748 54760	le Matamore 
+T541	PER 61693 61711	du Tyran tragique 
+T542	PER 48778 48785	le Roi 
+T543	PER 53376 53399	des jeunes comédiennes 
+T544	PER 49244 49260	les comédiennes 
+T545	PER 49695 49705	ces dames 
+T546	PER 48829 48870	Les femmes, enveloppées de leurs manteaux
+T547	PER 54964 54974	les femmes
+T548	TIME 49604 49625	au début de l'automne
+T549	FAC 49868 49893	aux gîtes les plus divers
+T550	PER 49945 49956	les hommes 
+T551	FAC 50478 50488	au théâtre
+T552	FAC 59431 59442	au théâtre 
+T553	PER 50731 50757	munitionnaire de la troupe
+T554	GPE 50866 50873	Rivière
+T555	GPE 50914 50921	Cahors 
+T556	GPE 50927 50935	Bordeaux
+T557	PER 51152 51162	ces dames 
+T558	PER 51257 51288	l'Isabelle et la donna Sérafina
+T559	PER 54640 54649	Isabelle 
+T560	PER 54182 54192	L'Isabelle
+T561	PER 51257 51268	l'Isabelle 
+T562	PER 57858 57869	L'Isabelle 
+T563	PER 56212 56224	la Sérafina 
+T564	PER 56615 56624	Sérafina 
+T565	PER 57890 57907	la donna Sérafina
+T566	PER 57413 57428	donna Sérafina 
+T567	PER 58669 58680	la Sérafina
+T568	PER 55108 55120	La Sérafina 
+T569	PER 54200 54208	Sérafina
+T570	PER 56132 56140	la dame 
+T571	PER 51271 51288	la donna Sérafina
+T572	PER 54593 54607	donna Sérafina
+T573	PER 52385 52398	la Gargantua 
+T574	PER 53046 53053	Mairet 
+T575	PER 53071 53078	Tristan
+T576	PER 53444 53458	les guerriers 
+T577	PER 53444 53485	les guerriers et les chevaliers de Malte 
+T578	PER 53461 53485	les chevaliers de Malte 
+T579	PER 53583 53639	l'exception de deux ou trois vieilles moustaches grises 
+T580	PER 53598 53639	deux ou trois vieilles moustaches grises 
+T581	PER 53736 53747	le peintre 
+T582	FAC 53892 53903	du sépulcre
+T583	TIME 54042 54059	quelques instants
+T584	PER 54388 54410	de fort jolies femmes 
+T585	PER 54182 54230	L'Isabelle, donna Sérafina, et même la soubrette
+T586	PER 58787 58800	La soubrette 
+T587	PER 54670 54683	la soubrette 
+T588	PER 59516 59540	une pareille Dariolette 
+T589	PER 54218 54230	la soubrette
+T590	PER 59700 59718	une de ces femmes 
+T591	LOC 54332 54341	la terre 
+T592	PER 54345 54365	de simples mortelles
+T593	PER 61248 61262	cette sorcière
+T594	PER 60831 60842	Comédienne 
+T595	PER 60862 60876	dame Léonarde 
+T596	PER 54699 54709	la duègne 
+T597	PER 60055 60068	Dame Léonarde
+T598	PER 55126 55174	une jeune femme de vingt-quatre à vingt-cinq ans
+T599	PER 55202 55224	les grandes coquettes 
+T600	PER 55276 55292	une dame de cour
+T601	PER 55481 55496	Anne d'Autriche
+T602	PER 55983 55994	un peintre 
+T603	PER 56642 56654	Penthésilée 
+T604	PER 56660 56669	Marphise 
+T605	PER 57684 57749	des paysannes vêtues d'une jupe de bure et d'une cape de calmande
+T606	PER 58092 58113	la fille de Cassandre
+T607	PER 58104 58113	Cassandre
+T608	PER 58843 58857	les Espagnols 
+T609	PER 58865 58875	aux brunes
+T610	PER 58935 58945	une gitana
+T611	LOC 59419 59428	la ville 
+T612	PER 59491 59499	la dame 
+T613	PER 59637 59656	le galant oublieux 
+T614	FAC 59677 59690	l'antichambre
+T615	PER 59707 59718	ces femmes 
+T616	PER 59722 59738	leurs compagnes 
+T617	PER 59788 59799	les hommes 
+T618	PER 59909 59922	des usuriers 
+T619	PER 60129 60149	une duègne espagnole
+T620	TIME 60247 60267	quarante ans de fard
+T621	TIME 61069 61077	du temps
+T622	PER 61177 61262	des jeunes et jolies, toutes surprises de voir les bravos s'adresser à cette sorcière
+T623	PER 61277 61297	le personnel féminin
+T624	PER 61382 61395	un personnage
+T625	PER 61418 61435	quelque comédien 
+T626	PER 61418 61564	quelque comédien errant ou quelque amateur de théâtre, heureux de se charger d'un petit rôle, et d'approcher ainsi des Angéliques et des Isabelles
+T627	PER 61445 61564	quelque amateur de théâtre, heureux de se charger d'un petit rôle, et d'approcher ainsi des Angéliques et des Isabelles
+T628	PER 61533 61548	des Angéliques 
+T629	PER 61551 61564	des Isabelles
+T630	PER 61566 61584	Le personnel mâle 
+T631	PER 61597 61733	du Pédant déjà décrit, et sur lequel il n'est pas nécessaire de revenir, du Léandre, du Scapin, du Tyran tragique et du Tranche-montagne
+T632	PER 61682 61691	du Scapin

@@ -1,0 +1,784 @@
+T1	PER 55623 55630	Annette
+T2	PER 45912 45926	ma grande sœur
+T3	PER 32660 32663	Tu 
+T4	PER 47658 47660	C'
+T5	PER 31517 31521	Ton 
+T6	PER 31499 31513	ma grande sœur
+T7	PER 50980 50991	petite mère
+T8	PER 38238 38245	Annette
+T9	PER 53196 53203	Annette
+T10	PER 38205 38208	Tu 
+T11	PER 31990 31997	Annette
+T12	PER 35323 35331	moi-même
+T13	PER 50081 50086	— Tu 
+T14	PER 2758 2769	mon enfant 
+T15	PER 52550 52558	Annette 
+T16	PER 52597 52606	moi-même 
+T17	PER 54168 54175	Annette
+T18	PER 54186 54194	ma fille
+T19	FAC 611 634	la pièce un peu sombre 
+T20	FAC 11822 11832	la chambre
+T21	FAC 11965 11978	notre chambre
+T22	FAC 153 175	notre chambre d'enfant
+T23	FAC 313 345	une longue salle aux murs blancs
+T24	FAC 1679 1688	la salle 
+T25	FAC 3172 3180	la salle
+T26	PER 47380 47392	mes parents 
+T27	PER 49049 49061	nos parents 
+T28	PER 14270 14290	mon père et ma mère 
+T29	PER 3795 3807	mes parents 
+T30	PER 40136 40148	mes parents 
+T31	PER 2211 2223	mes parents 
+T32	PER 21412 21424	Mes parents 
+T33	PER 14668 14712	mes parents anxieux des suites de l'accident
+T34	PER 2821 2836	deux personnes 
+T35	PER 27440 27472	nos parents réconciliés à jamais
+T36	PER 6137 6149	nos parents 
+T37	PER 11860 11872	nos parents 
+T38	PER 2904 2924	mon père et ma mère 
+T39	PER 40659 40671	nos parents 
+T40	PER 42920 42932	mes parents 
+T41	PER 2333 2357	deux créatures en furie 
+T42	PER 16833 16845	mes parents 
+T43	PER 21879 21899	mon père et ma mère 
+T44	PER 48216 48228	mes parents 
+T45	PER 6397 6419	nos parents très unis 
+T46	PER 49373 49393	mon père et ma mère 
+T47	PER 13761 13773	mes parents 
+T48	PER 593 604	mes parents
+T49	PER 6854 6866	nos parents 
+T50	PER 16199 16210	mes parents
+T51	PER 25533 25545	mes parents 
+T52	PER 16700 16719	mon père et ma mère
+T53	PER 51885 51897	mes parents 
+T54	PER 48494 48506	mes parents 
+T55	PER 15457 15469	Mes parents 
+T56	PER 30546 30557	nos parents
+T57	PER 29962 29976	papa et maman 
+T58	PER 18695 18707	mes parents 
+T59	PER 3244 3256	mes parents 
+T60	PER 12733 12745	nos parents 
+T61	PER 38411 38422	mes parents
+T62	PER 41426 41437	nos parents
+T63	PER 7371 7382	nos parents
+T64	PER 44060 44071	mes parents
+T65	PER 7398 7414	l'un et l'autre 
+T66	PER 30739 30750	nos parents
+T67	PER 5796 5808	mes parents 
+T68	PER 45390 45401	mes parents
+T69	PER 39248 39260	mes parents 
+T70	PER 52444 52456	tes parents 
+T71	PER 51462 51481	mes frères et sœurs
+T72	PER 27424 27435	les petits 
+T73	PER 5835 5858	toute la petite famille
+T74	PER 50967 50978	tes enfants
+T75	PER 657 676	mes frères et sœurs
+T76	PER 21554 21572	les enfants seuls 
+T77	PER 52734 52745	les petits 
+T78	PER 29328 29340	les enfants 
+T79	PER 52090 52101	aux enfants
+T80	PER 50613 50624	les enfants
+T81	PER 45422 45433	les enfants
+T82	PER 29197 29209	les enfants 
+T83	PER 38437 38448	des enfants
+T84	PER 32163 32184	Firmin et des petits 
+T85	PER 2589 2600	du médecin 
+T86	PER 2673 2688	Le même médecin
+T87	PER 3513 3524	le médecin 
+T88	PER 3028 3039	le médecin 
+T89	PER 911 920	un homme 
+T90	PER 14604 14628	le médecin de l'hôpital 
+T91	PER 42827 42850	du médecin de l'hôpital
+T92	PER 47692 47701	Mon père 
+T93	PER 12097 12108	notre père 
+T94	PER 30095 30100	Papa 
+T95	PER 21879 21888	mon père 
+T96	PER 3380 3389	mon père 
+T97	PER 1323 1337	mon cher papa 
+T98	PER 6455 6466	Notre père 
+T99	PER 15003 15017	son beau-frère
+T100	PER 9904 9908	papa
+T101	PER 9870 9874	papa
+T102	PER 5649 5658	mon père 
+T103	PER 14270 14279	mon père 
+T104	PER 49373 49382	mon père 
+T105	PER 51210 51218	son mari
+T106	PER 39436 39444	mon père
+T107	PER 8122 8132	Notre père
+T108	PER 1833 1842	mon père 
+T109	PER 29962 29967	papa 
+T110	PER 5195 5203	mon père
+T111	PER 10521 10532	Notre père 
+T112	PER 9771 9782	Notre père 
+T113	PER 16700 16709	mon père 
+T114	PER 49733 49742	Mon père 
+T115	TIME 1798 1822	quelques heures plus tôt
+T116	PER 6551 6562	notre mère 
+T117	PER 14975 14983	sa sœur 
+T118	PER 14282 14290	ma mère 
+T119	PER 44751 44759	ma mère 
+T120	PER 7750 7761	Notre mère 
+T121	PER 39618 39626	ma mère 
+T122	PER 29970 29976	maman 
+T123	PER 43687 43694	ma mère
+T124	PER 49385 49393	ma mère 
+T125	PER 51138 51146	ma mère 
+T126	PER 6227 6235	ma mère 
+T127	PER 5563 5571	Ma mère 
+T128	PER 21891 21899	ma mère 
+T129	PER 1868 1876	ma mère 
+T130	PER 43546 43554	ma mère 
+T131	PER 29174 29182	ma mère 
+T132	PER 3318 3346	Ma mère si légère d'habitude
+T133	PER 47609 47617	Ma mère 
+T134	PER 49812 49820	ma mère 
+T135	PER 31209 31214	maman
+T136	PER 5159 5167	ma mère 
+T137	PER 45459 45467	ma mère 
+T138	PER 30233 30239	Maman 
+T139	PER 8664 8675	notre mère 
+T140	PER 45993 45999	Maman 
+T141	PER 29623 29629	maman 
+T142	PER 48115 48123	ma mère 
+T143	PER 16712 16719	ma mère
+T144	PER 1905 1932	la plus méchante des femmes
+T145	PER 1922 1932	des femmes
+T146	PER 9816 9822	Firmin
+T147	PER 47537 47544	Firmin 
+T148	PER 8234 8241	Firmin 
+T149	PER 11554 11561	Firmin 
+T150	PER 13289 13298	le chien 
+T151	PER 29514 29521	Firmin 
+T152	PER 40290 40296	Firmin
+T153	PER 43746 43752	Firmin
+T154	PER 55284 55290	Firmin
+T155	PER 49016 49022	Firmin
+T156	PER 9973 9980	Firmin 
+T157	PER 10201 10208	Firmin 
+T158	PER 11797 11804	Firmin 
+T159	PER 48170 48177	Firmin 
+T160	PER 51546 51553	Firmin 
+T161	PER 13689 13698	mon frère
+T162	PER 5267 5274	Firmin 
+T163	PER 12156 12163	Firmin 
+T164	PER 31517 31527	Ton Firmin
+T165	PER 8968 8977	mon frère
+T166	PER 7166 7185	Firmin tout joyeux 
+T167	PER 29935 29937	J'
+T168	PER 7286 7293	Firmin 
+T169	PER 9031 9038	Firmin 
+T170	PER 47832 47839	Firmin 
+T171	PER 10551 10558	Firmin 
+T172	PER 27529 27536	Firmin 
+T173	PER 56733 56740	Firmin 
+T174	PER 1943 1952	mon frère
+T175	PER 41222 41225	Tu 
+T176	PER 30307 30309	J'
+T177	PER 45488 45495	Firmin 
+T178	PER 45523 45525	J'
+T179	PER 13137 13157	le serviteur hindou 
+T180	PER 9331 9338	Firmin 
+T181	PER 50821 50828	Firmin 
+T182	PER 1954 1968	le doux Firmin
+T183	PER 32163 32170	Firmin 
+T184	PER 31296 31303	Angèle 
+T185	PER 5208 5214	Angèle
+T186	PER 13231 13240	l'intruse
+T187	PER 31551 31558	Angèle 
+T188	PER 56692 56699	Angèle 
+T189	PER 47527 47534	Angèle 
+T190	PER 12678 12685	Angèle 
+T191	PER 48180 48187	Angèle 
+T192	PER 51536 51543	Angèle 
+T193	PER 43733 43740	Angèle 
+T194	PER 2038 2044	Angèle
+T195	PER 2044 2053	, ma sœur
+T196	PER 49006 49013	Angèle 
+T197	PER 11099 11106	Angèle 
+T198	PER 13455 13461	Angèle
+T199	PER 11299 11306	Angèle 
+T200	PER 31141 31148	Angèle 
+T201	PER 30629 30636	Angèle 
+T202	PER 50811 50818	Angèle 
+T203	PER 45666 45673	Angèle 
+T204	NO_PER 2093 2097	Dieu
+T205	NO_PER 12860 12872	le bon Dieu 
+T206	PER 2135 2142	Nicole 
+T207	PER 55572 55579	Nicole 
+T208	PER 56028 56035	Nicole 
+T209	PER 5428 5446	l'espiègle Nicole 
+T210	PER 47704 47716	les jumeaux 
+T211	PER 56028 56046	Nicole et Nicolas 
+T212	PER 2135 2152	Nicole et Nicolas
+T213	PER 5521 5538	les deux enfants 
+T214	PER 6515 6525	les petits
+T215	PER 11584 11596	les jumeaux 
+T216	PER 30332 30344	les jumeaux 
+T217	PER 5967 5979	Les jumeaux 
+T218	PER 25921 25932	nos jumeaux
+T219	PER 40606 40618	les jumeaux 
+T220	PER 48770 48781	les jumeaux
+T221	PER 54563 54575	les jumeaux 
+T222	PER 5428 5470	l'espiègle Nicole et le turbulent Nicolas 
+T223	PER 13713 13728	des deux petits
+T224	PER 17175 17187	les jumeaux 
+T225	PER 6276 6287	des jumeaux
+T226	PER 2154 2170	les deux jumeaux
+T227	PER 47324 47336	Les jumeaux 
+T228	PER 54726 54738	des jumeaux 
+T229	PER 5115 5127	des jumeaux 
+T230	PER 2145 2152	Nicolas
+T231	PER 56038 56046	Nicolas 
+T232	PER 5449 5470	le turbulent Nicolas 
+T233	VEH 2521 2531	du fiacre 
+T234	VEH 2626 2640	votre voiture 
+T235	FAC 42841 42850	l'hôpital
+T236	FAC 2552 2561	l'hôpital
+T237	FAC 14618 14628	l'hôpital 
+T238	PER 2600 2616	au vieux cocher 
+T239	TIME 3660 3678	Les jours suivants
+T240	TIME 4899 4907	la nuit 
+T241	TIME 46096 46104	la nuit 
+T242	TIME 3977 3984	la nuit
+T243	TIME 15250 15257	La nuit
+T244	PER 4167 4175	Un homme
+T245	PER 4547 4566	l'homme au marteau 
+T246	PER 4288 4301	L'infirmière 
+T247	TIME 4474 4486	une semaine 
+T248	VEH 4582 4612	un tombereau plein de pierres 
+T249	VEH 4715 4733	le lourd tombereau
+T250	TIME 4738 4767	cette minute sans souffrance 
+T251	TIME 4692 4702	une minute
+T252	LOC 29021 29030	au soleil
+T253	LOC 41728 41738	le soleil 
+T254	LOC 22953 22962	le soleil
+T255	LOC 4804 4813	du soleil
+T256	TIME 4934 4941	le jour
+T257	FAC 43466 43475	la maison
+T258	FAC 5898 5908	la maison 
+T259	FAC 14088 14097	la maison
+T260	FAC 5020 5029	la maison
+T261	FAC 13637 13647	la maison 
+T262	FAC 5635 5644	la maison
+T263	TIME 5041 5068	mes quatorze ans seulement 
+T264	PER 6312 6332	une femme de ménage 
+T265	PER 5332 5377	la femme de ménage, vieille et toujours lasse
+T266	LOC 5770 5778	ce monde
+T267	PER 39361 39372	grand'mère 
+T268	PER 54143 54154	grand'mère 
+T269	PER 6093 6104	grand-mère 
+T270	PER 11202 11213	grand-mère 
+T271	TIME 6175 6193	trois ans plus tôt
+T272	FAC 46362 46382	notre propre maison 
+T273	FAC 6581 6598	la petite maison 
+T274	PER 14355 14368	oncle meunier
+T275	PER 50318 50332	Oncle meunier 
+T276	PER 15525 15539	oncle meunier 
+T277	PER 21087 21101	oncle meunier 
+T278	PER 32529 32542	oncle meunier
+T279	PER 50729 50743	oncle meunier 
+T280	PER 6635 6644	son frère
+T281	PER 14840 14854	oncle meunier 
+T282	PER 43168 43182	Oncle meunier 
+T283	PER 46227 46241	Oncle meunier 
+T284	PER 49476 49490	Oncle meunier 
+T285	PER 26950 26964	Oncle meunier 
+T286	PER 52180 52194	Oncle meunier 
+T287	PER 16884 16897	oncle meunier
+T288	PER 44075 44089	Oncle meunier 
+T289	PER 50038 50052	Oncle meunier 
+T290	PER 48351 48365	oncle meunier 
+T291	PER 15802 15811	son mari 
+T292	PER 42510 42523	oncle meunier
+T293	PER 48923 48936	oncle meunier
+T294	PER 32849 32862	oncle meunier
+T295	PER 52629 52642	oncle meunier
+T296	PER 51499 51512	oncle meunier
+T297	PER 50864 50878	Oncle meunier 
+T298	PER 42357 42370	oncle meunier
+T299	PER 17331 17344	oncle meunier
+T300	PER 50456 50469	oncle meunier
+T301	PER 51365 51374	son frère
+T302	PER 44376 44390	Oncle meunier 
+T303	PER 6665 6678	oncle meunier
+T304	FAC 51715 51724	au moulin
+T305	FAC 14328 14348	au moulin de la Haie
+T306	FAC 28863 28873	le moulin 
+T307	FAC 28425 28435	Ce moulin 
+T308	FAC 16855 16865	au moulin 
+T309	FAC 46045 46054	au moulin
+T310	FAC 15711 15720	au moulin
+T311	FAC 31406 31415	au moulin
+T312	FAC 28407 28423	le moulin à vent
+T313	FAC 6688 6698	le moulin 
+T314	FAC 16497 16507	du moulin 
+T315	FAC 20985 20995	au moulin 
+T316	FAC 23720 23729	au moulin
+T317	FAC 17396 17406	du moulin 
+T318	FAC 34973 34982	au moulin
+T319	LOC 15682 15693	la rivière 
+T320	LOC 18946 18956	la rivière
+T321	LOC 55990 56000	la rivière
+T322	LOC 56953 56963	la rivière
+T323	LOC 22756 22767	la rivière 
+T324	LOC 6711 6729	une jolie rivière 
+T325	LOC 6742 6750	la Loire
+T326	TIME 6906 6914	au jour 
+T327	PER 6936 6965	deux ennemis aveuglés de rage
+T328	TIME 7520 7527	le soir
+T329	TIME 7691 7699	Une nuit
+T330	PER 8234 8248	Firmin et moi 
+T331	PER 10721 10734	Firmin et moi
+T332	PER 11554 11570	Firmin et à moi 
+T333	PER 11797 11810	Firmin et moi
+T334	PER 12814 12819	Vous 
+T335	FAC 7825 7843	la chambre voisine
+T336	FAC 8302 8320	la ruelle étroite 
+T337	FAC 8730 8739	la ruelle
+T338	PER 8798 8812	deux coupables
+T339	TIME 9049 9055	un an 
+T340	PER 42006 42086	des êtres capables de répandre sur moi une grande chaleur et beaucoup de lumière
+T341	PER 46966 46989	toute ma famille réunie
+T342	PER 9224 9240	toute ma famille
+T343	PER 47125 47134	ce groupe
+T344	PER 46937 46954	le groupe sombre 
+T345	TIME 9350 9358	le soir 
+T346	TIME 9394 9401	le jour
+T347	TIME 23596 23603	le jour
+T348	FAC 10678 10686	l'école 
+T349	FAC 9405 9412	l'école
+T350	FAC 27638 27645	l'école
+T351	PER 9497 9511	son professeur
+T352	TIME 9641 9653	une semaine 
+T353	PER 10101 10119	Un riche laboureur
+T354	PER 10505 10517	ce laboureur
+T355	PER 9839 9852	du laboureur 
+T356	PER 9939 9953	Tout le monde 
+T357	PER 10492 10503	ses enfants
+T358	PER 10158 10169	ses enfants
+T359	PER 10187 10194	témoins
+T360	TIME 10784 10791	semaine
+T361	PER 11052 11066	le professeur 
+T362	TIME 11121 11135	ses douze ans 
+T363	FAC 11237 11245	l'église
+T364	NO_PER 31580 31589	la Vierge
+T365	NO_PER 31332 31341	la Vierge
+T366	NO_PER 11448 11457	la Vierge
+T367	FAC 11924 11938	l'appartement 
+T368	FAC 14139 14155	cet appartement 
+T369	FAC 41902 41913	une maison 
+T370	FAC 12658 12676	tout l'appartement
+T371	TIME 12015 12028	les journées 
+T372	PER 12185 12194	Brahmane 
+T373	PER 12185 12204	Brahmane et Vichnou
+T374	PER 12197 12204	Vichnou
+T375	PER 12221 12235	la belle Sita 
+T376	PER 12249 12273	le respectueux serviteur
+T377	PER 12564 12583	ce serviteur hindou
+T378	PER 12602 12609	Gigotar
+T379	TIME 13820 13835	ce jour proche 
+T380	TIME 14175 14182	un jour
+T381	GPE 14831 14838	la Haie
+T382	GPE 14341 14348	la Haie
+T383	GPE 25482 25490	la Haie 
+T384	TIME 14462 14488	des semaines de souffrance
+T385	TIME 14446 14488	des semaines et des semaines de souffrance
+T386	TIME 14514 14523	des mois 
+T387	TIME 14514 14534	des mois et des mois
+T388	TIME 14526 14534	des mois
+T389	FAC 14813 14838	la petite gare de la Haie
+T390	FAC 21511 21518	la gare
+T391	FAC 48891 48899	la gare 
+T392	FAC 46620 46624	gare
+T393	FAC 49238 49245	la gare
+T394	VEH 26816 26827	ma voiture 
+T395	VEH 15070 15096	la voiture longue et basse
+T396	VEH 24168 24186	ma longue voiture 
+T397	VEH 15612 15622	ma voiture
+T398	VEH 15225 15248	cette voiture d'infirme
+T399	VEH 26277 26287	ma voiture
+T400	TIME 15135 15154	toutes mes journées
+T401	GPE 23050 23061	du village 
+T402	GPE 15170 15180	le village
+T403	GPE 15626 15644	Le village dépassé
+T404	LOC 27906 27918	la campagne 
+T405	LOC 41829 41846	toute la campagne
+T406	LOC 21767 21778	la campagne
+T407	LOC 15294 15305	la campagne
+T408	LOC 22717 22728	la campagne
+T409	TIME 42163 42176	le printemps 
+T410	TIME 15368 15380	du printemps
+T411	TIME 22663 22676	Le printemps 
+T412	PER 15400 15417	très peu de gens 
+T413	FAC 46822 46830	la route
+T414	FAC 15699 15705	longe 
+T415	FAC 46727 46733	chemin
+T416	FAC 48206 48214	la route
+T417	FAC 23144 23152	la route
+T418	FAC 49071 49079	la route
+T419	FAC 15753 15762	du chemin
+T420	FAC 15659 15668	la route 
+T421	PER 17092 17103	tante Rude 
+T422	PER 34332 34342	tante Rude
+T423	PER 32633 32642	sa femme 
+T424	PER 27003 27014	tante Rude 
+T425	PER 32916 32926	tante Rude
+T426	PER 33676 33687	tante Rude 
+T427	PER 26469 26479	tante Rude
+T428	PER 46271 46282	tante Rude 
+T429	PER 51776 51787	tante Rude 
+T430	PER 38020 38031	tante Rude 
+T431	PER 18727 18738	tante Rude 
+T432	PER 23709 23720	tante Rude 
+T433	PER 33531 33542	tante Rude 
+T434	PER 16870 16881	tante Rude 
+T435	PER 32293 32304	Tante Rude 
+T436	PER 52105 52116	Tante Rude 
+T437	PER 44993 45004	Tante Rude 
+T438	PER 41689 41700	Tante Rude 
+T439	PER 16239 16246	marche 
+T440	PER 15722 15733	Tante Rude 
+T441	PER 17346 17357	Tante Rude 
+T442	PER 26632 26642	tante Rude
+T443	PER 16651 16662	Tante Rude 
+T444	LOC 15745 15762	au bout du chemin
+T445	VEH 15997 16009	une voiture 
+T446	PER 16045 16056	les malades
+T447	FAC 16289 16298	le chemin
+T448	FAC 16979 16988	la maison
+T449	FAC 17977 17986	la maison
+T450	FAC 16475 16485	la maison 
+T451	FAC 46407 46422	celle de Manine
+T452	FAC 22115 22124	la maison
+T453	FAC 23121 23131	la maison 
+T454	FAC 31711 31721	la maison 
+T455	FAC 46694 46704	la maison 
+T456	FAC 26872 26882	la maison 
+T457	PER 44286 44293	Manine 
+T458	PER 17782 17789	Manine 
+T459	PER 33019 33026	Manine 
+T460	PER 25338 25345	Manine 
+T461	PER 19911 19918	Manine 
+T462	PER 34708 34714	Manine
+T463	PER 17649 17656	Manine 
+T464	PER 37984 37991	sa mère
+T465	PER 19194 19201	Manine 
+T466	PER 37876 37883	Manine 
+T467	PER 16428 16434	Manine
+T468	PER 36762 36770	ta mère 
+T469	PER 53841 53847	Manine
+T470	PER 20132 20139	Manine 
+T471	PER 38846 38853	Manine 
+T472	PER 22126 22133	Manine 
+T473	PER 23927 23933	Manine
+T474	PER 23468 23475	Manine 
+T475	PER 46416 46422	Manine
+T476	PER 33729 33735	Manine
+T477	PER 18781 18788	Manine 
+T478	PER 51837 51843	Manine
+T479	PER 17058 17065	Manine 
+T480	PER 37512 37518	maman 
+T481	PER 24281 24288	Manine 
+T482	PER 33425 33432	Manine 
+T483	PER 16954 16961	Manine 
+T484	PER 31928 31935	Manine 
+T485	PER 37356 37364	sa mère 
+T486	PER 45129 45136	Manine 
+T487	PER 26720 26727	Manine 
+T488	PER 35702 35708	Manine
+T489	PER 19007 19014	Manine 
+T490	PER 21210 21217	Manine 
+T491	PER 35493 35499	maman 
+T492	PER 37665 37671	maman 
+T493	PER 17261 17268	Manine 
+T494	PER 17501 17519	au garçon meunier 
+T495	PER 16451 16468	du garçon meunier
+T496	PER 17717 17735	Le garçon meunier 
+T497	FAC 16511 16526	un grand verger
+T498	FAC 16531 16551	une petite genêtière
+T499	PER 16636 16649	tout le monde
+T500	PER 16870 16897	tante Rude et oncle meunier
+T501	FAC 16939 16949	du passage
+T502	LOC 17035 17054	des prés d'alentour
+T503	PER 17075 17084	Marceline
+T504	PER 17113 17121	Gertrude
+T505	PER 17272 17292	une parente éloignée
+T506	LOC 17409 17419	des champs
+T507	TIME 17432 17453	sa dix-huitième année
+T508	TIME 17630 17647	la première année
+T509	PER 35401 35410	Clémence 
+T510	PER 23889 23897	Clémence
+T511	PER 24893 24899	pleure
+T512	PER 27727 27736	Clémence 
+T513	PER 18183 18192	Clémence 
+T514	PER 17671 17680	Clémence 
+T515	PER 37329 37338	Clémence 
+T516	PER 34989 34998	Clémence 
+T517	PER 34936 34945	Clémence 
+T518	PER 55560 55569	Clémence 
+T519	PER 24448 24457	Clémence 
+T520	PER 22136 22145	Clémence 
+T521	TIME 17705 17713	sept ans
+T522	TIME 17758 17777	au cours de l'hiver
+T523	TIME 17770 17777	l'hiver
+T524	TIME 17798 17806	un jour 
+T525	PER 17827 17843	un nouvel enfant
+T526	PER 21210 21223	Manine et moi
+T527	PER 18649 18661	bonnes amies
+T528	TIME 18667 18683	l'âge de six ans
+T529	TIME 18676 18683	six ans
+T530	TIME 18896 18917	des journées entières
+T531	LOC 18919 18929	aux champs
+T532	FAC 18931 18941	au jardin 
+T533	FAC 35160 35170	le jardin 
+T534	TIME 20555 20564	du matin 
+T535	TIME 19181 19189	le matin
+T536	FAC 19615 19629	la basse-cour 
+T537	PER 32812 32823	aux enfants
+T538	PER 21134 21146	Les enfants 
+T539	TIME 21201 21208	Ce soir
+T540	TIME 21257 21276	ces jours lointains
+T541	TIME 21356 21372	le jour présent 
+T542	GPE 56401 56406	Paris
+T543	GPE 25564 25569	Paris
+T544	GPE 29238 29243	Paris
+T545	GPE 41896 41902	Paris 
+T546	GPE 44029 44035	Paris 
+T547	GPE 38359 38364	Paris
+T548	GPE 21574 21579	Paris
+T549	GPE 33069 33074	Paris
+T550	GPE 27258 27264	Paris 
+T551	GPE 51392 51397	Paris
+T552	VEH 21716 21725	le train 
+T553	TIME 22047 22055	La nuit 
+T554	PER 22126 22145	Manine et Clémence 
+T555	FAC 22426 22437	la cheminée
+T556	TIME 22595 22609	du jour levant
+T557	LOC 22738 22767	des deux côtés de la rivière 
+T558	PER 22767 22781	les faucheurs 
+T559	LOC 22823 22831	des prés
+T560	PER 22835 22845	Des femmes
+T561	PER 22835 22917	Des femmes, des jeunes filles et même des enfants munis de fourches et de rateaux 
+T562	PER 22847 22865	des jeunes filles 
+T563	PER 22847 22917	des jeunes filles et même des enfants munis de fourches et de rateaux 
+T564	PER 22873 22917	des enfants munis de fourches et de rateaux 
+T565	PER 22975 22986	des hommes 
+T566	VEH 23002 23017	des charrettes 
+T567	FAC 23038 23061	les granges du village 
+T568	FAC 23069 23092	les fermes avoisinantes
+T569	FAC 23100 23111	le sentier 
+T570	TIME 23171 23178	le soir
+T571	PER 23180 23191	les faneurs
+T572	TIME 23233 23282	une interminable journée de travail et de chaleur
+T573	PER 23426 23440	une paresseuse
+T574	PER 44345 44361	la petite Reine 
+T575	PER 54680 54696	la petite Reine 
+T576	PER 32006 32014	ta fille
+T577	PER 23809 23817	du bébé 
+T578	PER 27788 27803	la petite Reine
+T579	PER 33606 33621	la petite Reine
+T580	PER 24264 24279	la petite Reine
+T581	PER 37398 37413	sa petite sœur 
+T582	PER 37903 37919	la petite Reine 
+T583	PER 23639 23647	l'enfant
+T584	PER 34572 34588	La petite Reine 
+T585	PER 31908 31924	la petite Reine 
+T586	PER 35722 35738	la petite Reine 
+T587	PER 35094 35108	sa petite sœur
+T588	PER 36110 36125	la petite Reine
+T589	PER 33277 33283	Reine 
+T590	PER 36744 36752	ma Reine
+T591	PER 23510 23525	la petite Reine
+T592	PER 54816 54882	une petite fille aux cheveux fins et aux yeux plein d'intelligence
+T593	PER 35601 35609	l'enfant
+T594	PER 38139 38148	sa fille 
+T595	PER 34367 34376	l'enfant 
+T596	PER 33784 33796	la mignonne 
+T597	PER 24527 24542	sa petite sœur 
+T598	TIME 23551 23583	le lendemain même de mon arrivée
+T599	TIME 24108 24123	Les après-midi 
+T600	PER 25429 25445	Madame Lapierre 
+T601	PER 26783 26791	la mère 
+T602	PER 26543 26551	la mère 
+T603	PER 26982 26996	la jeune femme
+T604	PER 25376 25389	Mme Lapierre 
+T605	PER 26314 26322	sa mère 
+T606	PER 26009 26022	Mme Lapierre 
+T607	PER 31732 31745	Mme Lapierre 
+T608	PER 26436 26449	Mme Lapierre 
+T609	PER 42266 42279	Mme Lapierre 
+T610	PER 26378 26383	maman
+T611	PER 26663 26676	Mme Lapierre 
+T612	PER 26903 26916	Mme Lapierre 
+T613	TIME 25402 25417	ses après-midi 
+T614	PER 25449 25472	une jeune femme infirme
+T615	TIME 25490 25515	quelques années plus tôt 
+T616	FAC 25571 25581	Sa maison 
+T617	FAC 25677 25687	le chemin 
+T618	PER 26225 26239	Le petit Jean 
+T619	PER 26794 26802	l'enfant
+T620	PER 25742 25758	son petit garçon
+T621	PER 26515 26524	l'enfant 
+T622	PER 26258 26263	pose 
+T623	PER 27739 27752	du petit Jean
+T624	PER 27348 27358	son enfant
+T625	PER 25776 25780	Jean
+T626	TIME 25795 25803	sept ans
+T627	PER 25874 25889	un autre enfant
+T628	PER 26535 26540	père 
+T629	PER 26556 26560	mari
+T630	PER 26783 26802	la mère et l'enfant
+T631	FAC 26858 26882	une partie de la maison 
+T632	TIME 27087 27108	toute une après-midi 
+T633	PER 27918 27929	les hommes 
+T634	LOC 28019 28029	ce coteau 
+T635	LOC 27994 28013	le coteau d'en face
+T636	FAC 28160 28172	les chemins 
+T637	VEH 28241 28255	des charrettes
+T638	LOC 28640 28647	la côte
+T639	LOC 28789 28810	cet espace découvert 
+T640	LOC 28670 28690	l'étendue du plateau
+T641	LOC 28680 28690	du plateau
+T642	TIME 29156 29174	la fin de juillet 
+T643	TIME 29166 29174	juillet 
+T644	TIME 29390 29403	tout le jour 
+T645	FAC 29403 29425	au Jardin des plantes 
+T646	PER 45748 45759	des filles 
+T647	PER 29705 29715	les filles
+T648	TIME 30121 30129	du soir 
+T649	PER 30362 30389	la nouvelle femme de ménage
+T650	PER 45349 45368	la femme de ménage 
+T651	TIME 30437 30442	midi 
+T652	PER 31081 31094	les marchands
+T653	TIME 31447 31462	tous les soirs 
+T654	TIME 31594 31600	l'été 
+T655	TIME 31654 31664	L'automne 
+T656	TIME 31776 31790	certains jours
+T657	TIME 31822 31842	des heures entières 
+T658	PER 32173 32184	des petits 
+T659	TIME 32393 32401	le soir 
+T660	TIME 32429 32437	le matin
+T661	PER 32726 32738	Ses parents 
+T662	PER 37570 37586	le petit garçon 
+T663	PER 33384 33402	le petit étranger 
+T664	PER 33052 33074	un nourrisson de Paris
+T665	PER 37469 37485	le petit garçon 
+T666	PER 36803 36818	au petit garçon
+T667	PER 33154 33163	l'enfant 
+T668	PER 33076 33088	Les parents 
+T669	PER 33090 33110	de gros commerçants 
+T670	PER 33228 33243	ses deux filles
+T671	TIME 33295 33304	six mois 
+T672	TIME 33448 33459	deux jours 
+T673	TIME 33655 33674	l'heure de la tétée
+T674	TIME 34318 34326	Le soir 
+T675	TIME 34556 34568	au lendemain
+T676	TIME 34779 34789	la soirée 
+T677	PER 36465 36485	une grande personne 
+T678	FAC 37862 37872	la chambre
+T679	TIME 38148 38163	la nuit d'avant
+T680	PER 38225 38236	tes enfants
+T681	TIME 38481 38492	la journée 
+T682	TIME 38551 38561	les jours 
+T683	TIME 38940 38951	toute heure
+T684	FAC 39553 39563	la cuisine
+T685	PER 40532 40554	une multitude de gens 
+T686	TIME 40728 40735	Un soir
+T687	VEH 41316 41329	ma bicyclette
+T688	VEH 40835 40845	bicyclette
+T689	VEH 40877 40890	des voitures 
+T690	PER 40893 40904	des piétons
+T691	PER 40970 40985	les maladroits 
+T692	FAC 41059 41074	une rue barrée 
+T693	PER 41087 41105	un agent de police
+T694	PER 41348 41356	l'agent 
+T695	TIME 41533 41543	ce soir-là
+T696	TIME 42090 42098	L'hiver 
+T697	TIME 42114 42126	chaque jour 
+T698	TIME 42301 42312	une semaine
+T699	TIME 42395 42407	toute minute
+T700	TIME 43384 43398	quelques jours
+T701	TIME 45094 45105	Cette année
+T702	PER 45794 45805	des garçons
+T703	TIME 46434 46448	du samedi soir
+T704	TIME 46056 46079	samedi de cette semaine
+T705	TIME 46066 46079	cette semaine
+T706	TIME 46083 46104	la tombée de la nuit 
+T707	TIME 46471 46483	le dimanche 
+T708	TIME 46485 46491	l'aube
+T709	TIME 46493 46506	Toute la nuit
+T710	VEH 46557 46567	des trains
+T711	TIME 46834 46845	cette heure
+T712	PER 49006 49022	Angèle et Firmin
+T713	PER 48170 48187	Firmin et Angèle 
+T714	PER 47527 47544	Angèle et Firmin 
+T715	PER 50811 50828	Angèle et Firmin 
+T716	PER 51536 51553	Angèle et Firmin 
+T717	PER 47557 47570	les derniers 
+T718	PER 47692 47716	Mon père et les jumeaux 
+T719	TIME 48467 48478	La journée 
+T720	TIME 48524 48536	le soir même
+T721	TIME 48569 48597	une seule journée de travail
+T722	FAC 48878 48899	le chemin de la gare 
+T723	PER 49247 49266	Tous les voyageurs 
+T724	FAC 49278 49286	le quai 
+T725	PER 49675 49686	Tous trois 
+T726	VEH 50179 50198	le train déjà parti
+T727	VEH 49710 49719	le train 
+T728	VEH 50026 50034	du train
+T729	VEH 49762 49773	la voiture 
+T730	VEH 49860 49877	une autre voiture
+T731	PER 50255 50273	toute petite fille
+T732	VEH 50402 50410	du wagon
+T733	FAC 50772 50791	le chemin du retour
+T734	FAC 51197 51206	du foyer 
+T735	LOC 51632 51643	les champs 
+T736	LOC 51632 51654	les champs et les bois
+T737	LOC 51646 51654	les bois
+T738	TIME 51927 51939	chaque mois 
+T739	TIME 52129 52140	quinze ans 
+T740	PER 52140 52158	toutes les filles 
+T741	FAC 52417 52431	trois demeures
+T742	PER 53005 53016	le faucheur
+T743	PER 53144 53164	le faucheur suivant 
+T744	LOC 53301 53324	au bout du champ de blé
+T745	LOC 53309 53324	du champ de blé
+T746	PER 53461 53485	des autres moissonneuses
+T747	TIME 53609 53616	au soir
+T748	PER 53660 53671	les hommes 
+T749	TIME 54001 54011	mes nuits 
+T750	TIME 54048 54062	Au jour levant
+T751	TIME 54209 54220	des matins 
+T752	TIME 54382 54400	de longues heures 
+T753	TIME 54503 54518	plusieurs jours
+T754	TIME 54745 54753	la nuit 
+T755	FAC 55527 55534	la cour
+T756	PER 55560 55579	Clémence et Nicole 
+T757	PER 55639 55656	l'homme à la faux
+T758	TIME 55936 55945	dimanche 
+T759	LOC 55979 56000	au bord de la rivière
+T760	FAC 56130 56135	route
+T761	VEH 56357 56368	mes navires
+T762	VEH 56160 56184	des navires magnifiques 
+T763	FAC 56382 56399	une belle maison 
+T764	VEH 57177 57185	son auto
+T765	VEH 56426 56447	une grande automobile
+T766	PER 56870 56876	Gaston
+T767	PER 57308 57317	ce Gaston
+T768	PER 57445 57454	c'Gaston 
+T769	PER 57002 57009	Gaston 
+T770	PER 56452 56468	notre chauffeur 
+T771	PER 57054 57067	Le maladroit 
+T772	PER 56480 56486	Gaston
+T773	FAC 56509 56526	un vieux château 
+T774	LOC 56530 56536	la mer
+T775	LOC 57018 57028	pleine mer
+T776	TIME 56556 56562	l'été 
+T777	FAC 56607 56621	les oubliettes
+T778	VEH 56803 56820	un canot à vapeur
+T779	VEH 57417 57425	le canot
+T780	GPE 56886 56897	la Rochelle
+T781	LOC 56943 56963	l'aval de la rivière
+T782	VEH 57088 57107	une barque de pêche
+T783	FAC 57150 57172	les grands boulevards 
+T784	VEH 57338 57348	un tramway

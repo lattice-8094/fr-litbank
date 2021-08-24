@@ -1,0 +1,1001 @@
+T1	PER 31207 31209	J’
+T2	PER 75215 75220	Vous 
+T3	PER 18447 18452	Vous 
+T4	PER 76427 76439	la marquise 
+T5	PER 124 137	tout le monde
+T6	PER 144 160	un homme frivole
+T7	FAC 242 258	l’Elysée-Bourbon
+T8	FAC 385 406	le jardin de l’hôtel 
+T9	FAC 398 406	l’hôtel 
+T10	TIME 420 429	la soirée
+T11	LOC 532 547	un ciel nuageux
+T12	LOC 569 576	la lune
+T13	PER 817 829	des vivants 
+T14	FAC 831 849	un salon splendide
+T15	PER 975 1006	les plus jolies femmes de Paris
+T16	GPE 76092 76097	Paris
+T17	GPE 56358 56363	Paris
+T18	GPE 3129 3134	Paris
+T19	GPE 76113 76141	une terre bien hospitalière 
+T20	GPE 16627 16632	Paris
+T21	GPE 2218 2224	Paris 
+T22	GPE 39755 39761	Paris 
+T23	GPE 2224 2283	la ville la plus amusante du monde et la plus philosophique
+T24	GPE 7527 7532	Paris
+T25	GPE 1001 1006	Paris
+T26	GPE 47057 47067	tout Paris
+T27	GPE 33916 33922	Paris 
+T28	PER 1025 1093	les mieux titrées, éclatantes, pompeuses, éblouissantes de diamants 
+T29	PER 1554 1564	les amants
+T30	PER 1598 1607	les maris
+T31	PER 1628 1639	des joueurs
+T32	PER 1771 1791	cette foule enivrée 
+T33	LOC 1807 1816	le monde 
+T34	PER 2086 2104	les hommes en joie
+T35	LOC 2250 2259	du monde 
+T36	FAC 2423 2434	un cercueil
+T37	FAC 2574 2584	des salons
+T38	PER 7341 7350	monsieur 
+T39	PER 2653 2671	monsieur de Lanty 
+T40	FAC 8761 8768	l’hôtel
+T41	FAC 2679 2689	cet hôtel 
+T42	FAC 17208 17220	cette maison
+T43	FAC 11730 11746	l’hôtel de Lanty
+T44	FAC 24662 24672	son hôtel 
+T45	PER 2729 2755	le maréchal de Carigliano 
+T46	PER 2783 2795	Ces gens-là 
+T47	PER 2946 2967	monsieur de Nucingen 
+T48	PER 2946 2994	monsieur de Nucingen ou monsieur de Gondreville 
+T49	PER 2970 2994	monsieur de Gondreville 
+T50	PER 3060 3084	les deux interlocuteurs 
+T51	PER 3102 3122	cette gent curieuse 
+T52	PER 3431 3440	Personne 
+T53	LOC 3453 3463	quel pays 
+T54	PER 8067 8081	cette famille 
+T55	PER 8261 8277	la maison Lanty 
+T56	PER 11806 11816	la famille
+T57	PER 7103 7129	Cette mystérieuse famille 
+T58	PER 14017 14031	cette famille 
+T59	PER 11374 11392	la maison de Lanty
+T60	PER 11460 11474	cette famille 
+T61	PER 74460 74477	la famille Lanty 
+T62	PER 74278 74288	les Lanty 
+T63	PER 10723 10736	cette famille
+T64	PER 3470 3489	la famille de Lanty
+T65	PER 3646 3660	cette famille 
+T66	PER 11445 11474	les membres de cette famille 
+T67	PER 13997 14031	tous les membres de cette famille 
+T68	PER 3626 3660	Tous les membres de cette famille 
+T69	PER 3821 3843	ces différents peuples
+T70	PER 3856 3870	des bohémiens 
+T71	PER 3883 3899	des flibustiers 
+T72	OTHER 3920 3930	le diable 
+T73	PER 3941 3961	de jeunes politiques
+T74	PER 6857 6875	Le comte de Lanty 
+T75	PER 3993 4011	Le comte de Lanty 
+T76	FAC 4027 4041	quelque Casbah
+T77	PER 4082 4095	un philosophe
+T78	PER 24020 24029	Marianina
+T79	PER 74791 74800	Marianina
+T80	PER 27466 27482	la jeune enfant 
+T81	PER 11872 11881	Marianina
+T82	PER 27302 27312	Marianina 
+T83	PER 4061 4070	sa fille 
+T84	PER 12835 12859	la trop naïve Marianina 
+T85	PER 4672 4684	Cette fille 
+T86	PER 4118 4127	Marianina
+T87	PER 6184 6193	Marianina
+T88	PER 6143 6163	la comtesse de Lanty
+T89	PER 8872 8881	Marianina
+T90	PER 6247 6258	la comtesse
+T91	PER 4866 4876	Marianina 
+T92	PER 6209 6216	sa sœur
+T93	PER 16162 16171	Marianina
+T94	PER 46682 46692	Marianina 
+T95	PER 8654 8665	la comtesse
+T96	PER 26840 26858	la jeune Marianina
+T97	PER 13158 13170	La comtesse 
+T98	PER 4505 4515	Marianina 
+T99	PER 28220 28235	La jeune folle 
+T100	PER 28209 28218	Marianina
+T101	PER 4207 4228	des poètes orientaux 
+T102	PER 4236 4255	la fille du sultan 
+T103	PER 4245 4255	du sultan 
+T104	PER 4372 4384	des Malibran
+T105	PER 4386 4396	des Sontag
+T106	PER 4398 4407	des Fodor
+T107	PER 24042 24058	madame de Lanty 
+T108	PER 6846 6855	leur mère
+T109	PER 4890 4897	sa mère
+T110	PER 17146 17161	madame de Lanty
+T111	PER 11883 11899	madame de Lanty 
+T112	PER 7353 7369	madame de Lanty 
+T113	PER 26507 26522	madame de Lanty
+T114	PER 13528 13544	madame de Lanty 
+T115	PER 74848 74864	madame de Lanty 
+T116	PER 24607 24623	madame de Lanty 
+T117	PER 4930 4941	ces femmes 
+T118	PER 5758 5774	une jeune fille 
+T119	PER 6016 6038	ces puissantes sirènes
+T120	PER 5810 5830	ces sortes de femmes
+T121	PER 5824 5830	femmes
+T122	PER 47662 47673	les femmes 
+T123	PER 51862 51873	des femmes 
+T124	PER 23624 23635	les femmes 
+T125	PER 18713 18724	les femmes 
+T126	PER 25743 25751	un homme
+T127	PER 54942 54951	un homme 
+T128	PER 14706 14714	un homme
+T129	PER 5832 5841	un homme 
+T130	PER 5860 5880	monsieur de Jaucourt
+T131	FAC 5926 5936	un cabinet
+T132	PER 5938 5958	la femme de chambre 
+T133	PER 13560 13569	le comte 
+T134	PER 24031 24039	Filippo 
+T135	PER 13832 13849	le comte de Lanty
+T136	PER 6286 6301	ce jeune homme 
+T137	PER 12953 12961	Filippo 
+T138	PER 6166 6173	Filippo
+T139	PER 13851 13878	cet homme froid et réservé 
+T140	PER 11863 11870	Filippo
+T141	PER 6592 6600	Filippo 
+T142	PER 6328 6338	l’Antinoüs
+T143	PER 6632 6645	jeunes filles
+T144	PER 6705 6721	toutes les mères
+T145	GPE 6750 6756	France
+T146	PER 6806 6823	ces deux enfants 
+T147	PER 6917 6928	un Espagnol
+T148	PER 6945 6956	un banquier
+T149	PER 6985 7005	un profond politique
+T150	PER 7064 7100	monsieur de Metternich ou Wellington
+T151	GPE 7076 7087	Metternich 
+T152	GPE 7090 7100	Wellington
+T153	PER 7164 7174	lord Byron
+T154	PER 7244 7274	chaque personne du beau monde 
+T155	LOC 7260 7274	du beau monde 
+T156	PER 7341 7369	monsieur et madame de Lanty 
+T157	LOC 7451 7479	les quatre parties du monde 
+T158	LOC 7470 7479	du monde 
+T159	PER 7568 7578	Vespasien 
+T160	PER 7695 7712	la haute société 
+T161	PER 9319 9336	la haute société 
+T162	PER 8151 8168	la haute société 
+T163	PER 7864 7878	tout le monde 
+T164	LOC 7913 7923	une ville 
+T165	PER 7992 8008	les aventuriers 
+T166	PER 8357 8371	Anne Radcliffe
+T167	PER 8392 8401	ces gens 
+T168	PER 8374 8390	Les observateurs
+T169	FAC 8428 8441	quel magasin 
+T170	FAC 8516 8534	votre appartement 
+T171	PER 19396 19412	ce corps étrange
+T172	PER 21872 21903	cette espèce d’idole japonaise 
+T173	PER 19508 19516	l’homme 
+T174	PER 74236 74255	le petit vieillard 
+T175	PER 13447 13459	le vieillard
+T176	PER 18179 18188	cet homme
+T177	PER 12891 12904	le vieillard 
+T178	PER 10418 10433	ce petit vieux 
+T179	PER 23753 23765	le vieillard
+T180	PER 21572 21602	ce personnage fantasmagorique 
+T181	PER 22204 22217	le vieillard 
+T182	PER 27053 27072	le spectre habillé 
+T183	PER 11559 11571	ce vieillard
+T184	PER 16057 16076	le petit vieillard 
+T185	PER 24732 24751	un petit vieillard 
+T186	PER 22940 22963	cet homme en poussière 
+T187	PER 11646 11660	Ce personnage 
+T188	PER 9198 9208	mon voisin
+T189	PER 19644 19654	L’inconnu 
+T190	PER 18542 18566	cette créature sans nom 
+T191	PER 9210 9235	ce monsieur vêtu de noir 
+T192	PER 9460 9484	ce personnage mystérieux
+T193	PER 27428 27441	le vieillard 
+T194	PER 27505 27524	le cadavre ambulant
+T195	PER 8682 8703	un personnage étrange
+T196	PER 8968 8977	L’inconnu
+T197	PER 11957 11967	l’inconnu 
+T198	PER 14523 14531	Ce vieux
+T199	PER 20148 20164	cet être bizarre
+T200	PER 23205 23208	Il 
+T201	PER 17411 17424	Le vieillard 
+T202	PER 17373 17383	son voisin
+T203	PER 27913 27925	Le vieillard
+T204	PER 9999 10009	l’inconnu 
+T205	PER 46695 46714	son petit vieillard
+T206	PER 18889 18908	le petit vieillard 
+T207	PER 23586 23599	le phénomène 
+T208	PER 12350 12368	ce génie familier 
+T209	PER 10103 10115	ce vieillard
+T210	PER 13134 13156	cette créature bizarre
+T211	PER 21163 21193	au spectre survenu devant nous
+T212	PER 8713 8721	un homme
+T213	FAC 8834 8843	le salon 
+T214	PER 9003 9014	cette femme
+T215	PER 8933 8965	une dame placée près de la porte
+T216	PER 9072 9084	cette femme 
+T217	PER 8922 8933	sa voisine 
+T218	PER 9307 9336	aux gens de la haute société 
+T219	NO_PER 9508 9518	un vampire
+T220	NO_PER 9531 9550	un homme artificiel
+T221	NO_PER 9552 9592	une espèce de Faust ou de Robin des bois
+T222	NO_PER 9566 9572	Faust 
+T223	NO_PER 9578 9592	Robin des bois
+T224	PER 9618 9627	des gens 
+T225	PER 9627 9646	amis du fantastique
+T226	PER 9714 9728	des Allemands 
+T227	PER 9843 9855	un vieillard
+T228	PER 9870 9887	ces jeunes hommes
+T229	TIME 9909 9924	tous les matins
+T230	GPE 9938 9946	l’Europe
+T231	GPE 52143 52152	l’Europe 
+T232	PER 10009 10031	quelque grand criminel
+T233	PER 10033 10064	possesseur d’immenses richesses
+T234	PER 10066 10081	Des romanciers 
+T235	TIME 10212 10221	le temps 
+T236	PER 10244 10263	du prince de Mysore
+T237	PER 10265 10278	Des banquiers
+T238	PER 10459 10467	Monsieur
+T239	PER 10594 10602	Monsieur
+T240	PER 10610 10619	un homme 
+T241	PER 10774 10790	madame d’Espard 
+T242	PER 10871 10883	ce vieillard
+T243	PER 10907 10925	le fameux Balsamo 
+T244	PER 10962 10972	Cagliostro
+T245	PER 11003 11025	l’aventurier sicilien 
+T246	PER 11161 11185	ce singulier personnage 
+T247	PER 11084 11102	ses petits-enfants
+T248	PER 11110 11131	le bailli de Ferette 
+T249	GPE 11123 11131	Ferette 
+T250	PER 11185 11210	le comte de Saint-Germain
+T251	LOC 11503 11511	du monde
+T252	FAC 11688 11702	l’appartement 
+T253	PER 11863 11922	Filippo, Marianina, madame de Lanty et un vieux domestique 
+T254	PER 11902 11922	un vieux domestique 
+T255	PER 12073 12096	une personne enchantée 
+T256	PER 12190 12208	Les gens du monde 
+T257	LOC 12199 12208	du monde 
+T258	LOC 12317 12348	au fond d’un sanctuaire inconnu
+T259	FAC 12327 12348	un sanctuaire inconnu
+T260	LOC 12445 12466	au milieu des salons 
+T261	FAC 12455 12466	des salons 
+T262	NO_PER 12472 12493	ces fées d’autrefois 
+T263	PER 12615 12649	Les observateurs les plus exercés 
+T264	PER 12692 12712	des maîtres du logis
+T265	FAC 12704 12712	du logis
+T266	PER 12821 12833	un quadrille
+T267	PER 12932 12943	des groupes
+T268	PER 12997 13005	la foule
+T269	PER 13090 13101	des hommes 
+T270	PER 13696 13711	un enfant gâté 
+T271	PER 13716 13724	la mère 
+T272	PER 14046 14055	personne 
+T273	PER 14108 14138	Les espions de bonne compagnie
+T274	PER 14108 14175	Les espions de bonne compagnie, les gobe-mouches et les politiques 
+T275	PER 14140 14157	les gobe-mouches 
+T276	FAC 14295 14322	ces salons resplendissants 
+T277	PER 14326 14338	philosophes 
+T278	PER 14493 14505	ces gens-là 
+T279	PER 14510 14521	des fripons
+T280	PER 14612 14624	un assassin 
+T281	PER 14634 14651	un banqueroutier 
+T282	PER 14838 14846	monsieur
+T283	PER 14766 14774	Monsieur
+T284	PER 15168 15181	des inconnus 
+T285	TIME 15004 15013	six mois 
+T286	NO_PER 15037 15045	l’Esprit
+T287	NO_PER 15071 15086	un être vivant 
+T288	TIME 15199 15209	au moment 
+T289	FAC 15458 15469	des jardins
+T290	TIME 15493 15499	temps 
+T291	PER 74166 74185	madame de Rochefide
+T292	PER 18061 18076	La jeune femme 
+T293	PER 28650 28669	ma jeune partenaire
+T294	PER 74761 74767	madame
+T295	PER 24466 24472	Madame
+T296	PER 52182 52193	la marquise
+T297	PER 24382 24394	Ma compagne 
+T298	PER 18325 18327	J’
+T299	PER 18381 18386	Vous 
+T300	PER 17118 17136	cette jeune femme 
+T301	PER 74293 74299	Madame
+T302	PER 24129 24144	La jeune femme 
+T303	PER 28721 28726	Vous 
+T304	PER 28747 28753	madame
+T305	PER 29331 29334	moi
+T306	PER 16592 16632	une des plus ravissantes femmes de Paris
+T307	PER 23235 23261	la jeune femme épouvantée 
+T308	PER 22520 22536	une jeune femme 
+T309	PER 17446 17471	cette délicieuse créature
+T310	PER 29752 29757	Vous 
+T311	PER 46719 46724	Vous 
+T312	PER 17685 17698	la jeune dame
+T313	PER 46622 46642	madame de Rochefide 
+T314	PER 15585 15601	une jeune femme 
+T315	PER 47120 47126	madame
+T316	LOC 15718 15727	la nature
+T317	NO_PER 15878 15907	Minerve de la tête de Jupiter
+T318	NO_PER 15900 15907	Jupiter
+T319	FAC 16020 16030	sa chambre
+T320	PER 16038 16055	un fou de sa loge
+T321	FAC 16048 16055	sa loge
+T322	PER 16122 16171	une haie de gens attentifs à la voix de Marianina
+T323	PER 16202 16210	Tancrède
+T324	LOC 16514 16533	au milieu du monde 
+T325	LOC 16524 16533	du monde 
+T326	LOC 16543 16551	le monde
+T327	PER 16596 16632	des plus ravissantes femmes de Paris
+T328	PER 16736 16745	un enfant
+T329	LOC 16864 16874	du soleil 
+T330	PER 17591 17616	les gens extrêmement âgés
+T331	PER 17647 17658	des enfants
+T332	PER 17857 17871	un paralytique
+T333	FAC 18051 18059	un puits
+T334	PER 18940 18953	un journalier
+T335	PER 19063 19074	ses membres
+T336	PER 19272 19286	Un anatomiste 
+T337	FAC 19459 19468	une tombe
+T338	GPE 19778 19789	Angleterre 
+T339	PER 19837 19846	une reine
+T340	LOC 20038 20047	le soleil
+T341	PER 20872 20881	un enfant
+T342	PER 21010 21030	Quelques vieillards 
+T343	PER 21854 21863	une femme
+T344	PER 21887 21903	idole japonaise 
+T345	NO_PER 22060 22070	une statue
+T346	PER 22125 22154	les héritiers d’une duchesse 
+T347	PER 22141 22154	une duchesse 
+T348	PER 22240 22251	l’assemblée
+T349	LOC 23181 23189	le monde
+T350	FAC 23213 23225	le cimetière
+T351	PER 24020 24058	Marianina, Filippo et madame de Lanty 
+T352	LOC 24162 24181	au fond de la Seine
+T353	LOC 24173 24181	la Seine
+T354	FAC 24221 24231	un boudoir
+T355	FAC 25368 25378	du boudoir
+T356	FAC 24913 24929	Le joli boudoir 
+T357	PER 24233 24240	Hommes 
+T358	PER 24233 24249	Hommes et femmes
+T359	PER 24243 24249	femmes
+T360	PER 24251 24265	tout le monde 
+T361	LOC 24290 24327	au fond des appartements de réception
+T362	FAC 24298 24327	des appartements de réception
+T363	FAC 24348 24380	un petit cabinet demi-circulaire
+T364	PER 24643 24657	des revenants 
+T365	PER 24710 24718	les sots
+T366	PER 24756 24766	un spectre
+T367	PER 24838 24856	toutes les femmes 
+T368	NO_PER 25303 25310	Adonis 
+T369	NO_PER 25721 25724	Il 
+T370	NO_PER 74698 74706	l’Adonis
+T371	NO_PER 26462 26473	cet Adonis 
+T372	LOC 25358 25378	au milieu du boudoir
+T373	PER 25820 25830	une rivale
+T374	PER 25906 25915	un poète 
+T375	PER 26015 26028	les artistes 
+T376	PER 26187 26204	ce grand peintre 
+T377	PER 26176 26180	Vien
+T378	PER 26494 26522	un parent de madame de Lanty
+T379	PER 26761 26771	une femme 
+T380	FAC 27097 27117	du salon de musique 
+T381	PER 46682 46714	Marianina ni son petit vieillard
+T382	PER 27365 27383	un grand homme sec
+T383	PER 27443 27464	ce gardien mystérieux
+T384	NO_PER 27395 27409	génie familier
+T385	PER 27623 27651	quelques femmes privilégiées
+T386	FAC 28345 28353	le salon
+T387	PER 28552 28564	son danseur 
+T388	PER 28678 28687	son mari 
+T389	PER 29018 29033	une Parisienne 
+T390	GPE 29069 29078	l’Italie 
+T391	GPE 29069 29094	l’Italie ou de l’Espagne 
+T392	GPE 29084 29094	l’Espagne 
+T393	PER 29530 29561	les ravissantes femmes du Midi 
+T394	GPE 29553 29561	du Midi 
+T395	TIME 29604 29616	demain soir 
+T396	TIME 30463 30475	Le lendemain
+T397	PER 30162 30183	un jeune aide-de-camp
+T398	TIME 30282 30302	deux heures du matin
+T399	FAC 75145 75155	la chambre
+T400	FAC 30513 30535	un petit salon élégant
+T401	FAC 30648 30655	La rue 
+T402	TIME 30723 30754	ces soirées délicieuses à l’âme
+T403	TIME 30807 30850	ces heures passées dans la paix et le désir
+T404	PER 31136 31148	le narrateur
+T405	PER 56963 56973	Sarrasine 
+T406	PER 54800 54819	l’amoureux artiste 
+T407	PER 54886 54897	le Français
+T408	PER 73939 73951	le Français 
+T409	PER 70242 70251	Sarrasine
+T410	PER 70786 70795	Sarrasine
+T411	PER 70700 70710	l’artiste 
+T412	PER 34877 34886	son fils 
+T413	PER 34658 34679	du sculpteur célèbre 
+T414	PER 34767 34787	un grand homme futur
+T415	PER 71622 71635	le sculpteur 
+T416	PER 35368 35377	Sarrasine
+T417	PER 71349 71359	l’artiste 
+T418	PER 35165 35180	cette jeune âme
+T419	PER 35070 35079	Sarrasine
+T420	PER 40937 40947	L’artiste 
+T421	PER 59741 59754	du sculpteur 
+T422	PER 44957 44966	Sarrasine
+T423	PER 38518 38537	du jeune sculpteur 
+T424	PER 63288 63298	l’artiste 
+T425	PER 73192 73202	Sarrasine 
+T426	PER 60156 60166	Sarrasine 
+T427	PER 63655 63665	Sarrasine 
+T428	PER 61875 61884	Sarrasine
+T429	PER 57870 57879	Sarrasine
+T430	PER 55802 55812	Sarrasine 
+T431	PER 59818 59827	Sarrasine
+T432	PER 37334 37344	Sarrasine 
+T433	PER 37287 37299	sa camarade 
+T434	PER 58324 58334	Sarrasine 
+T435	PER 71808 71818	Sarrasine 
+T436	PER 60307 60316	l’artiste
+T437	PER 37168 37181	le sculpteur 
+T438	PER 58171 58182	du Français
+T439	PER 62300 62310	Sarrasine 
+T440	PER 70108 70121	le sculpteur 
+T441	PER 73784 73797	le sculpteur 
+T442	PER 72069 72079	Sarrasine 
+T443	PER 54595 54605	Sarrasine 
+T444	PER 58679 58692	le sculpteur 
+T445	PER 69959 69969	Sarrasine 
+T446	PER 54287 54300	le sculpteur 
+T447	PER 58540 58550	Sarrasine 
+T448	PER 67812 67821	Sarrasine
+T449	PER 65893 65901	monsieur
+T450	PER 47576 47586	Sarrasine 
+T451	PER 64099 64119	l’amoureux sculpteur
+T452	PER 67614 67626	le sculpteur
+T453	PER 49445 49456	son maître 
+T454	PER 69360 69372	du sculpteur
+T455	PER 53621 53631	Sarrasine 
+T456	PER 69453 69462	l’artiste
+T457	PER 51487 51506	un pauvre sculpteur
+T458	PER 63849 63859	l’artiste 
+T459	PER 47383 47395	le Français 
+T460	PER 66247 66259	au sculpteur
+T461	PER 49990 50002	le Français 
+T462	PER 41753 41756	Il 
+T463	PER 45874 45896	le farouche sculpteur 
+T464	PER 49931 49936	Vous 
+T465	PER 41720 41730	Sarrasine 
+T466	PER 68001 68010	Sarrasine
+T467	PER 43930 43940	Sarrasine 
+T468	PER 49827 49836	Sarrasine
+T469	PER 65952 65968	l’artiste enivré
+T470	PER 62329 62346	Seigneur Français
+T471	PER 64773 64783	Sarrasine 
+T472	PER 62809 62822	Le sculpteur 
+T473	PER 68278 68286	monsieur
+T474	PER 48108 48119	Jeune homme
+T475	PER 48042 48051	l’artiste
+T476	PER 66347 66357	Sarrasine 
+T477	PER 57350 57360	Sarrasine 
+T478	PER 38181 38184	Il 
+T479	PER 59340 59350	Sarrasine 
+T480	PER 61233 61243	Sarrasine 
+T481	PER 66682 66690	Mon cher
+T482	PER 50132 50142	Sarrasine 
+T483	PER 35743 35753	son élève 
+T484	PER 35617 35637	cette âme passionnée
+T485	PER 31219 31241	Ernest-Jean Sarrasine 
+T486	PER 33890 33900	Sarrasine 
+T487	PER 31652 31687	le petit-fils de Matthieu Sarrasine
+T488	PER 50431 50441	Sarrasine 
+T489	PER 33780 33789	l’artiste
+T490	PER 35845 35855	Sarrasine 
+T491	PER 31503 31512	un enfant
+T492	PER 34332 34342	son élève 
+T493	PER 50918 50928	Sarrasine 
+T494	PER 68937 68946	Sarrasine
+T495	PER 48956 48966	Sarrasine 
+T496	PER 46887 46897	Sarrasine 
+T497	PER 34263 34279	du jeune artiste
+T498	PER 36284 36299	un jeune homme 
+T499	PER 66936 66939	Tu 
+T500	PER 48791 48808	seigneur Français
+T501	PER 52984 52996	au sculpteur
+T502	PER 36172 36193	l’élève de Bouchardon
+T503	PER 31863 31881	Le jeune Sarrasine
+T504	PER 66887 66897	Sarrasine 
+T505	PER 49424 49434	Sarrasine 
+T506	PER 47281 47294	du sculpteur 
+T507	PER 67300 67313	le sculpteur 
+T508	PER 69262 69274	le Français 
+T509	PER 34439 34449	Sarrasine 
+T510	PER 49124 49137	du sculpteur 
+T511	PER 67209 67218	Sarrasine
+T512	PER 67136 67145	Sarrasine
+T513	PER 31247 31294	le seul fils d’un procureur de la Franche-Comté
+T514	PER 31262 31294	un procureur de la Franche-Comté
+T515	GPE 31278 31294	la Franche-Comté
+T516	PER 31323 31332	Son père 
+T517	PER 34620 34638	du vieux procureur
+T518	PER 31849 31861	au procureur
+T519	PER 31465 31490	Le vieux maître Sarrasine
+T520	PER 34854 34867	le praticien 
+T521	PER 31406 31416	praticien 
+T522	LOC 31431 31439	province
+T523	PER 31579 31591	un magistrat
+T524	TIME 31635 31650	ses vieux jours
+T525	PER 31669 31687	Matthieu Sarrasine
+T526	LOC 31699 31719	au pays de Saint-Dié
+T527	ORG 31793 31806	du Parlement 
+T528	ORG 31905 31917	aux Jésuites
+T529	PER 31986 32004	un homme de talent
+T530	PER 70148 70156	ses amis
+T531	PER 46023 46036	ses camarades
+T532	PER 32655 32668	ses camarades
+T533	PER 66639 66653	ses camarades 
+T534	PER 67375 67388	des derniers 
+T535	PER 32169 32183	ses camarades 
+T536	NO_PER 32227 32245	les héros d’Homère
+T537	PER 32239 32245	Homère
+T538	PER 32372 32384	un camarade 
+T539	PER 32372 32390	un camarade et lui
+T540	PER 32629 32641	ses maîtres 
+T541	PER 32738 32755	le révérend père 
+T542	PER 32789 32798	Thucydide
+T543	PER 32809 32835	le maître de mathématiques
+T544	PER 32809 32873	le maître de mathématiques, le préfet, les valets, le correcteur
+T545	PER 32837 32846	le préfet
+T546	PER 32848 32858	les valets
+T547	PER 32860 32873	le correcteur
+T548	NO_PER 32959 32971	du Seigneur 
+T549	FAC 32973 32981	l’église
+T550	PER 33243 33272	les personnages des tableaux 
+T551	FAC 33289 33297	le chœur
+T552	PER 33419 33441	les plus jeunes pères 
+T553	PER 33446 33460	les médisants 
+T554	PER 33477 33496	les vieux jésuites 
+T555	ORG 33551 33561	du collége
+T556	NO_PER 33686 33692	Christ
+T557	FAC 33840 33854	du tabernacle 
+T558	FAC 34097 34120	l’atelier de Bouchardon
+T559	PER 37690 37709	monsieur Bouchardon
+T560	PER 36659 36669	son maître
+T561	PER 34110 34120	Bouchardon
+T562	PER 36740 36751	Bouchardon 
+T563	PER 34207 34217	Bouchardon
+T564	PER 36183 36193	Bouchardon
+T565	PER 34552 34575	le généreux Bouchardon 
+T566	PER 36432 36442	Bouchardon
+T567	PER 35908 35919	Bouchardon 
+T568	PER 35705 35715	le maître 
+T569	PER 35081 35091	Bouchardon
+T570	PER 49521 49531	Bouchardon
+T571	PER 34401 34411	son enfant
+T572	GPE 34710 34731	Besançon tout entier 
+T573	TIME 34794 34821	le premier moment d’extase 
+T574	LOC 34925 34933	le monde
+T575	PER 35234 35245	Michel-Ange
+T576	TIME 35820 35843	l’âge de vingt-deux ans
+T577	PER 36039 36060	le marquis de Marigny
+T578	PER 36062 36093	le frère de madame de Pompadour
+T579	PER 36074 36093	madame de Pompadour
+T580	PER 36123 36131	Diderot 
+T581	PER 36239 36259	le sculpteur du roi 
+T582	PER 36252 36259	du roi 
+T583	GPE 37356 37365	l’Italie 
+T584	GPE 75950 75956	Italie
+T585	GPE 47112 47118	Italie
+T586	GPE 36275 36284	l’Italie 
+T587	PER 36416 36442	le commensal de Bouchardon
+T588	PER 36471 36478	Canova 
+T589	FAC 36528 36538	l’atelier 
+T590	PER 36590 36597	sa muse
+T591	ORG 36613 36633	la Comédie-Française
+T592	PER 36698 36714	madame Geoffrin 
+T593	TIME 36829 36853	cette époque licencieuse
+T594	PER 36870 36886	autre maîtresse 
+T595	PER 49545 49554	Clotilde 
+T596	PER 36906 36914	Clotilde
+T597	PER 36916 36947	l’une des célébrités de l’Opéra
+T598	PER 36922 36947	des célébrités de l’Opéra
+T599	FAC 36940 36947	l’Opéra
+T600	PER 37103 37120	l’illustre nymphe
+T601	PER 37201 37216	Sophie Arnould 
+T602	FAC 37465 37491	des monuments merveilleux 
+T603	GPE 59427 59432	Rome 
+T604	GPE 70091 70096	Rome 
+T605	GPE 37842 37846	Rome
+T606	GPE 66183 66187	Rome
+T607	GPE 68160 68165	Rome 
+T608	GPE 37611 37615	Rome
+T609	GPE 67530 67534	Rome
+T610	PER 37672 37684	Michel-Ange 
+T611	PER 37672 37709	Michel-Ange et de monsieur Bouchardon
+T612	TIME 37726 37744	les premiers jours
+T613	FAC 39053 39063	du théâtre
+T614	FAC 42651 42661	le théâtre
+T615	FAC 38004 38026	au théâtre d’Argentina
+T616	FAC 48722 48732	du théâtre
+T617	FAC 41303 41314	le théâtre 
+T618	FAC 50801 50811	du théâtre
+T619	FAC 65804 65815	du théâtre 
+T620	FAC 62555 62566	Le théâtre 
+T621	GPE 38017 38026	Argentina
+T622	PER 38054 38070	une grande foule
+T623	PER 38098 38113	cette affluence
+T624	PER 38118 38127	le monde 
+T625	PER 54956 54961	Vous 
+T626	PER 45629 45642	sa maîtresse 
+T627	PER 43580 43594	la Zambinella 
+T628	PER 57019 57024	Elle 
+T629	PER 51675 51689	la Zambinella 
+T630	PER 67694 67705	Zambinella 
+T631	PER 69534 69544	Zambinella
+T632	PER 47519 47533	la Zambinella 
+T633	PER 58906 58918	cette femme 
+T634	PER 72234 72245	Zambinella 
+T635	PER 74000 74011	Zambinella 
+T636	PER 70373 70383	le musico 
+T637	PER 56949 56961	sa maîtresse
+T638	PER 56755 56768	la Zambinella
+T639	PER 70204 70215	Zambinella 
+T640	PER 63762 63776	la Zambinella 
+T641	PER 70845 70856	Le chanteur
+T642	PER 43949 43962	sa maîtresse 
+T643	PER 70763 70773	Zambinella
+T644	PER 68015 68028	La Zambinella
+T645	PER 68033 68047	La Zambinella 
+T646	PER 70597 70608	Zambinella 
+T647	PER 74356 74367	Zambinella 
+T648	PER 55148 55166	la belle Italienne
+T649	PER 67937 67942	Elle 
+T650	PER 66017 66031	La Zambinella 
+T651	PER 57175 57196	la source de bonheur 
+T652	PER 51830 51836	madame
+T653	PER 64277 64286	la femme 
+T654	PER 64236 64252	cette âme molle 
+T655	PER 47805 47818	sa maîtresse 
+T656	PER 43668 43682	la Zambinella 
+T657	PER 71244 71255	Zambinella 
+T658	PER 71208 71218	une femme 
+T659	PER 64808 64822	la Zambinella 
+T660	PER 71125 71135	Zambinella
+T661	PER 66604 66616	sa maîtresse
+T662	PER 62772 62781	la femme 
+T663	PER 44277 44290	la Zambinella
+T664	PER 72804 72827	cette femme imaginaire 
+T665	PER 55545 55559	la Zambinella 
+T666	PER 46283 46296	la Zambinella
+T667	PER 68300 68311	Zambinella 
+T668	PER 66375 66388	la Zambinella
+T669	PER 41926 41939	la Zambinella
+T670	PER 61352 61361	Coquette 
+T671	PER 71488 71499	Zambinella 
+T672	PER 63071 63081	Zambinella
+T673	PER 65000 65013	sa maîtresse 
+T674	PER 66843 66854	Zambinella 
+T675	PER 59377 59391	la Zambinella 
+T676	PER 38155 38166	Zambinella 
+T677	PER 61251 61261	chère ange
+T678	PER 71330 71339	une femme
+T679	PER 48492 48505	la Zambinella
+T680	PER 62928 62955	cette femme extraordinaire 
+T681	PER 59729 59754	La compagne du sculpteur 
+T682	PER 40897 40911	la Zambinella 
+T683	PER 74773 74800	le grand-oncle de Marianina
+T684	PER 74685 74693	le type 
+T685	PER 61551 61565	la Zambinella 
+T686	PER 57582 57594	L’Italienne 
+T687	PER 40691 40715	cette création inespérée
+T688	PER 44754 44767	sa maîtresse 
+T689	PER 63316 63329	sa maîtresse 
+T690	PER 74547 74558	Zambinella 
+T691	PER 52225 52238	La Zambinella
+T692	PER 57437 57449	cette femme 
+T693	PER 53821 53832	Zambinella 
+T694	PER 60203 60227	cette charmante créature
+T695	PER 60125 60130	Vous 
+T696	PER 61795 61809	la Zambinella 
+T697	PER 73095 73103	Monstre 
+T698	PER 68340 68351	ce drôle-là
+T699	PER 54153 54167	la Zambinella 
+T700	PER 58410 58424	la Zambinella 
+T701	PER 48969 48983	la Zambinella 
+T702	PER 68868 68878	Zambinella
+T703	PER 71759 71769	Zambinella
+T704	PER 51026 51039	sa maîtresse 
+T705	PER 68884 68894	le musico 
+T706	PER 39280 39291	cette femme
+T707	PER 58235 58249	La Zambinella 
+T708	PER 41330 41341	cette femme
+T709	PER 66866 66877	Zambinella 
+T710	PER 73218 73239	du chanteur épouvanté
+T711	PER 39813 39827	La Zambinella 
+T712	PER 58801 58814	sa maîtresse 
+T713	PER 54626 54637	sa voisine 
+T714	PER 45244 45257	la Zambinella
+T715	PER 69235 69246	son protégé
+T716	PER 73701 73712	Zambinella 
+T717	PER 73688 73699	le chanteur
+T718	PER 65477 65501	frêle et douce créature 
+T719	PER 69938 69940	C’
+T720	PER 54316 54329	la cantatrice
+T721	PER 58581 58594	sa maîtresse 
+T722	PER 39662 39673	cette femme
+T723	PER 51224 51238	la Zambinella 
+T724	PER 47020 47031	Zambinella 
+T725	PER 38614 38621	Jomelli
+T726	FAC 38202 38213	au parterre
+T727	PER 38226 38255	deux abbati notablement gros 
+T728	FAC 38304 38312	la scène
+T729	PER 38395 38426	monsieur Jean-Jacques Rousseau 
+T730	TIME 38478 38507	une soirée du baron d’Holbach
+T731	PER 38489 38507	du baron d’Holbach
+T732	PER 38795 38807	deux prêtres
+T733	FAC 38949 38958	la salle 
+T734	FAC 39043 39063	le devant du théâtre
+T735	PER 39074 39084	le public 
+T736	PER 39140 39154	tout un peuple
+T737	FAC 39170 39178	la scène
+T738	PER 39470 39479	un modèle
+T739	PER 39629 39644	une jeune fille
+T740	PER 39698 39708	cet enfant
+T741	GPE 39795 39811	la Grèce antique
+T742	PER 39958 39971	un sculpteur 
+T743	PER 39992 40035	le juge le plus sévère et le plus passionné
+T744	PER 40168 40178	un peintre
+T745	PER 40246 40255	des Grecs
+T746	PER 40257 40267	L’artiste 
+T747	PER 40634 40643	une femme
+T748	PER 40736 40751	tous les hommes
+T749	PER 40789 40800	un critique
+T750	PER 40843 40852	Pygmalion
+T751	TIME 41206 41214	cet âge 
+T752	PER 41578 41603	un homme froid et stupide
+T753	FAC 41807 41812	salle
+T754	PER 41817 41828	spectateurs
+T755	PER 41833 41840	acteurs
+T756	PER 54140 54167	Sarrasine et la Zambinella 
+T757	PER 41919 41939	lui et la Zambinella
+T758	PER 48956 48983	Sarrasine et la Zambinella 
+T759	PER 42751 42768	un homme nerveux 
+T760	PER 43035 43053	les convalescents 
+T761	FAC 43145 43169	les marches d’une église
+T762	FAC 43159 43169	une église
+T763	FAC 43196 43207	une colonne
+T764	FAC 43304 43312	au logis
+T765	PER 43762 43769	Raphaël
+T766	PER 43762 43818	Raphaël, par le Giorgion et par tous les grands peintres
+T767	PER 43775 43787	le Giorgion 
+T768	PER 43794 43818	tous les grands peintres
+T769	PER 44198 44211	une maîtresse
+T770	TIME 44328 44362	mille années de vie et de bonheur 
+T771	TIME 44477 44489	Le lendemain
+T772	PER 49410 49434	le laquais de Sarrasine 
+T773	PER 44501 44513	son laquais 
+T774	TIME 44525 44540	toute la saison
+T775	FAC 44542 44570	une loge voisine de la scène
+T776	FAC 44562 44570	la scène
+T777	PER 44584 44605	tous les jeunes gens 
+T778	TIME 45149 45162	toute une vie
+T779	TIME 45171 45180	le matin 
+T780	TIME 45347 45354	Le soir
+T781	FAC 45385 45392	sa loge
+T782	FAC 48440 48447	sa loge
+T783	FAC 48008 48016	sa loge 
+T784	FAC 46939 46946	sa loge
+T785	PER 45447 45469	un Turc enivré d’opium
+T786	TIME 45786 45801	le premier jour
+T787	PER 46319 46327	une mère
+T788	PER 46329 46337	un oncle
+T789	PER 46339 46348	un tuteur
+T790	PER 46350 46362	une famille 
+T791	TIME 46513 46525	au lendemain
+T792	PER 46771 46781	un auteur 
+T793	TIME 46844 46858	quelques jours
+T794	PER 47340 47354	des chanteurs 
+T795	PER 47340 47372	des chanteurs et des cantatrices
+T796	PER 47357 47372	des cantatrices
+T797	TIME 47374 47381	Un soir
+T798	FAC 47429 47442	les coulisses
+T799	PER 48412 48421	la duègne
+T800	PER 49907 49917	La duègne 
+T801	PER 48064 48082	Une vieille femme 
+T802	TIME 48272 48279	du soir
+T803	FAC 48299 48314	la rue du Corso
+T804	FAC 48323 48340	l’hôtel d’Espagne
+T805	PER 48562 48602	une femme heureuse d’être enfin comprise
+T806	PER 49304 49314	l’inconnu 
+T807	PER 48734 48745	un inconnu 
+T808	PER 73849 73870	du cardinal Cicognara
+T809	PER 74027 74041	son protecteur
+T810	PER 70033 70055	Le cardinal Cicognara 
+T811	PER 64735 64746	du cardinal
+T812	PER 74301 74323	le cardinal Cicognara 
+T813	PER 48863 48885	Le cardinal Cicognara 
+T814	PER 69145 69166	Le cardinal Cicognara
+T815	PER 48889 48903	son protecteur
+T816	NO_PER 48930 48939	un démon 
+T817	PER 49108 49114	Homère
+T818	FAC 49232 49241	la maison
+T819	PER 49351 49362	un amoureux
+T820	PER 49709 49725	une jeune fille 
+T821	PER 49753 49770	son premier amant
+T822	TIME 49774 49786	l’heure dite
+T823	FAC 50007 50029	plusieurs petites rues
+T824	FAC 50050 50083	un palais d’assez belle apparence
+T825	FAC 50168 50177	escaliers
+T826	FAC 50168 50209	escaliers, de galeries et d’appartements 
+T827	FAC 50182 50191	galeries 
+T828	FAC 50196 50209	appartements 
+T829	LOC 50266 50273	la lune
+T830	FAC 50504 50529	ce mystérieux appartement
+T831	FAC 50549 50609	un salon aussi brillamment éclairé que somptueusement meublé
+T832	LOC 50611 50621	au milieu 
+T833	PER 50768 50782	les chanteurs 
+T834	PER 50768 50801	les chanteurs et les cantatrices 
+T835	PER 50768 50811	les chanteurs et les cantatrices du théâtre
+T836	PER 50785 50801	les cantatrices 
+T837	PER 50821 50842	des femmes charmantes
+T838	PER 50879 50888	artistes 
+T839	FAC 51000 51024	une chambre mal éclairée
+T840	PER 51562 51596	la plupart des personnes présentes
+T841	PER 51573 51596	des personnes présentes
+T842	PER 51651 51662	la bergère 
+T843	PER 60658 60669	les hommes 
+T844	PER 51944 51955	les hommes 
+T845	TIME 52077 52098	du règne de Louis XV 
+T846	PER 52089 52098	Louis XV 
+T847	ORG 52143 52164	l’Europe et le clergé
+T848	ORG 52155 52164	le clergé
+T849	PER 52368 52376	duchesse
+T850	PER 52794 52809	madame du Barry
+T851	PER 53060 53067	témoins
+T852	PER 57231 57253	Vitagliani, son voisin
+T853	PER 58616 58627	Vitagliani 
+T854	PER 54532 54543	Vitagliani 
+T855	PER 59294 59305	Vitagliani 
+T856	PER 53258 53268	Vitagliani
+T857	PER 53270 53310	le chanteur le plus célèbre de la troupe
+T858	PER 53301 53310	la troupe
+T859	PER 53385 53394	le Ténor 
+T860	PER 55906 55919	les convives 
+T861	PER 55261 55273	les convives
+T862	PER 53457 53474	tous les convives
+T863	PER 59148 59160	les convives
+T864	PER 53558 53569	un amoureux
+T865	PER 53846 53860	une courtisane
+T866	PER 53951 53967	une jeune fille 
+T867	PER 54030 54051	une femme de théâtre 
+T868	PER 54199 54204	l’un 
+T869	PER 54245 54258	les artistes 
+T870	PER 55181 55196	tous les amants
+T871	PER 55667 55696	une femme libre et amoureuse 
+T872	GPE 56028 56038	la Calabre
+T873	ORG 56340 56363	les assemblées de Paris
+T874	ORG 56340 56411	les assemblées de Paris, les raouts de Londres ou les cercles de Vienne
+T875	ORG 56365 56387	les raouts de Londres 
+T876	GPE 56379 56387	Londres 
+T877	ORG 56390 56411	les cercles de Vienne
+T878	GPE 56405 56411	Vienne
+T879	NO_PER 56555 56572	la sainte Vierge 
+T880	NO_PER 56575 56585	al Bambino
+T881	PER 56587 56592	L’un 
+T882	PER 56635 56651	Une jeune fille 
+T883	PER 56912 56922	les femmes
+T884	PER 60706 60716	les femmes
+T885	PER 59054 59065	les femmes 
+T886	FAC 57482 57490	boudoir 
+T887	FAC 57507 57515	au salon
+T888	PER 58024 58044	une jeune courtisane
+T889	TIME 59094 59104	Au moment 
+T890	TIME 59107 59137	les premières lueurs du matin 
+T891	PER 59162 59172	une femme 
+T892	GPE 59190 59198	Frascati
+T893	GPE 63272 63280	Frascati
+T894	TIME 59262 59273	la journée 
+T895	FAC 64726 64746	la villa du cardinal
+T896	FAC 59275 59292	la villa Ludovisi
+T897	FAC 63997 64014	la villa Ludovisi
+T898	VEH 59326 59338	des voitures
+T899	VEH 66316 66326	le phaéton
+T900	VEH 59396 59406	un phaéton
+T901	VEH 70548 70578	la voiture louée par Sarrasine
+T902	PER 59535 59542	Hommes 
+T903	PER 59535 59551	Hommes et femmes
+T904	PER 59545 59551	femmes
+T905	TIME 60071 60087	une nuit passée 
+T906	LOC 60760 60769	Le monde 
+T907	PER 61046 61060	un ami dévoué 
+T908	PER 61130 61138	un frère
+T909	PER 61130 61155	un frère, d’un protecteur
+T910	PER 61142 61155	un protecteur
+T911	PER 61764 61774	une femme 
+T912	PER 61919 61930	un artiste 
+T913	PER 62004 62020	Une femme seule 
+T914	LOC 63985 64014	les bois de la villa Ludovisi
+T915	PER 71220 71242	Le cardinal Cicognara 
+T916	PER 64038 64059	au cardinal Cicognara
+T917	TIME 64061 64075	Cette matinée 
+T918	LOC 64481 64492	la campagne
+T919	PER 64494 64532	la petite troupe des joyeux chanteurs 
+T920	PER 64511 64532	des joyeux chanteurs 
+T921	PER 64544 64581	quelques hommes armés jusqu’aux dents
+T922	PER 64648 64660	des brigands
+T923	FAC 64712 64746	l’enceinte de la villa du cardinal
+T924	PER 65094 65111	toute autre femme
+T925	PER 65405 65420	une femme forte
+T926	PER 65422 65431	une Sapho
+T927	FAC 65795 65815	l’entrée du théâtre 
+T928	VEH 66205 66232	une berline à quatre places
+T929	FAC 66336 66345	le chemin
+T930	TIME 66399 66416	toute la journée 
+T931	PER 66549 66568	quelques personnes 
+T932	FAC 66583 66616	le palais habité par sa maîtresse
+T933	PER 66976 66988	son camarade
+T934	PER 66631 66653	l’un de ses camarades 
+T935	PER 66682 66686	Mon 
+T936	PER 66731 66749	notre ambassadeur 
+T937	PER 67393 67406	l’ambassadeur
+T938	PER 67549 67563	l’ambassadeur 
+T939	PER 66948 66961	tout le monde
+T940	PER 67011 67019	mes amis
+T941	PER 67021 67056	toi, Vien, Lauterbourg et Allegrain
+T942	PER 67026 67030	Vien
+T943	PER 67032 67044	Lauterbourg 
+T944	PER 67047 67056	Allegrain
+T945	PER 67248 67264	d’honnêtes gens 
+T946	PER 67489 67534	l’un des plus entreprenants vetturini de Rome
+T947	PER 67578 67583	monde
+T948	PER 67638 67657	tous les assistants
+T949	FAC 70128 70136	du salon
+T950	FAC 67667 67676	au salon 
+T951	PER 67750 67790	les cardinaux, les évêques et les abbés 
+T952	PER 67765 67777	les évêques 
+T953	PER 67780 67790	les abbés 
+T954	PER 67964 67982	le vieux seigneur 
+T955	PER 68568 68584	Le prince Chigi 
+T956	PER 68056 68072	le prince romain
+T957	PER 68134 68140	femme 
+T958	FAC 68144 68165	les théâtres de Rome 
+T959	GPE 68247 68265	les Etats du pape 
+T960	PER 68257 68265	du pape 
+T961	PER 70062 70070	le pape 
+T962	PER 68358 68378	son maître à chanter
+T963	PER 68783 68803	le prétendu chanteur
+T964	PER 70390 70401	l’assemblée
+T965	PER 69030 69041	l’assemblée
+T966	PER 69294 69333	un de ses aides-de-camp ecclésiastiques
+T967	PER 69300 69333	ses aides-de-camp ecclésiastiques
+T968	PER 69486 69493	un abbé
+T969	PER 69944 69953	une femme
+T970	OTHER 70062 70096	le pape et toute la ville de Rome 
+T971	GPE 70073 70096	toute la ville de Rome 
+T972	FAC 70179 70196	la cour du palais
+T973	FAC 70329 70339	les salons
+T974	PER 70344 70350	homme 
+T975	PER 70362 70371	un ennemi
+T976	FAC 70432 70450	la porte du palais
+T977	PER 70481 70492	des hommes 
+T978	PER 70569 70578	Sarrasine
+T979	FAC 70820 70838	un atelier sombre 
+T980	PER 71057 71067	Sarrasine 
+T981	PER 71568 71581	mes camarades
+T982	PER 72029 72035	Homme 
+T983	PER 72029 72043	Homme ou femme
+T984	PER 72038 72043	femme
+T985	PER 72310 72320	des sœurs 
+T986	PER 72837 72853	une femme réelle
+T987	NO_PER 72940 72959	une harpie céleste 
+T988	PER 73041 73093	toutes les autres femmes d’un cachet d’imperfection 
+T989	PER 73172 73189	toutes ses femmes
+T990	PER 73749 73762	trois hommes 
+T991	PER 73965 73988	Ces sombres émissaires 
+T992	PER 73876 73886	l’un d’eux
+T993	PER 73917 73928	un chrétien
+T994	VEH 74073 74091	une voiture fermée
+T995	FAC 74423 74438	le musée Albani
+T996	PER 74648 74655	Girodet
+T997	PER 75387 75399	des enfants 
+T998	PER 75468 75475	Épouses
+T999	PER 75498 75505	Amantes
+T1000	PER 75699 75711	du chrétien 
+T1001	PER 76378 76387	Personne 
