@@ -1,0 +1,783 @@
+T1	PER 13515 13530	la chère petite
+T2	PER 13862 13867	Douce
+T3	PER 56996 57006	Églantine 
+T4	PER 13784 13797	cette gamine 
+T5	PER 55256 55271	la jeune fille 
+T6	PER 57472 57487	sa chère Douce 
+T7	PER 55154 55164	Églantine 
+T8	PER 55522 55532	Églantine 
+T9	PER 17246 17252	Douce 
+T10	PER 15484 15496	la fillette 
+T11	PER 35307 35313	Douce 
+T12	PER 17509 17514	Douce
+T13	PER 35119 35129	La petite 
+T14	PER 36963 36972	L'enfant 
+T15	PER 19315 19321	Douce 
+T16	PER 21584 21590	Douce 
+T17	PER 8 22	Douce Lumiere 
+T18	PER 30 44	Douce Lumiere 
+T19	PER 25835 25841	Douce 
+T20	PER 57591 57601	Églantine 
+T21	PER 19634 19640	Douce 
+T22	PER 37336 37341	Douce
+T23	PER 39629 39634	Douce
+T24	PER 41928 41933	Elle 
+T25	PER 19457 19476	sa petite camarade 
+T26	PER 43857 43867	Églantine 
+T27	PER 589 601	La fillette 
+T28	PER 57977 57987	Églantine 
+T29	PER 42410 42415	Douce
+T30	PER 54233 54243	Églantine 
+T31	PER 37428 37440	sa camarade 
+T32	PER 54758 54763	Douce
+T33	PER 52094 52100	Douce 
+T34	PER 30716 30724	l'enfant
+T35	PER 3025 3044	sa petite maîtresse
+T36	PER 5377 5383	Douce 
+T37	PER 45952 45962	Églantine 
+T38	PER 24321 24327	Douce 
+T39	PER 48068 48077	Églantine
+T40	PER 28365 28369	son 
+T41	PER 28984 29002	Églantine Lumière 
+T42	PER 3135 3138	Tu 
+T43	PER 26986 26994	l'enfant
+T44	PER 48566 48576	Églantine 
+T45	PER 26891 26903	la fillette 
+T46	PER 44396 44413	Églantine Lumière
+T47	PER 26839 26844	Elle 
+T48	PER 26828 26834	Douce 
+T49	PER 27459 27474	petite Lumière 
+T50	PER 25215 25220	Douce
+T51	PER 23154 23159	Douce
+T52	PER 46896 46910	cette élève-là
+T53	PER 46963 46978	la jeune fille 
+T54	PER 50732 50742	Églantine 
+T55	PER 42724 42739	sa petite fille
+T56	PER 46765 46782	Églantine Lumière
+T57	PER 45334 45352	Églantine Lumière 
+T58	PER 47300 47310	Églantine 
+T59	PER 18907 18913	Douce 
+T60	PER 25672 25675	Tu 
+T61	PER 2625 2634	l'enfant 
+T62	PER 25536 25542	Douce 
+T63	PER 47180 47189	Églantine
+T64	PER 27488 27506	la petite Lumière 
+T65	PER 43060 43069	Églantine
+T66	PER 5856 5862	Douce 
+T67	PER 8285 8291	Douce 
+T68	PER 10531 10546	sa petite fille
+T69	PER 31537 31542	Douce
+T70	PER 35598 35614	la petite fille 
+T71	PER 33608 33616	l'enfant
+T72	PER 8479 8484	Douce
+T73	PER 8408 8424	la petite fille 
+T74	PER 31318 31325	Lumière
+T75	PER 52633 52643	Églantine 
+T76	PER 10887 10896	l'enfant 
+T77	PER 35998 36020	cette petite gnangnan 
+T78	PER 33919 33934	Cette gnangnan 
+T79	PER 53001 53011	Églantine 
+T80	PER 33937 33943	Douce 
+T81	PER 29508 29523	cette gnangnan 
+T82	PER 6463 6469	Douce 
+T83	PER 8759 8765	Douce 
+T84	PER 4102 4112	la petite 
+T85	PER 4243 4249	Douce 
+T86	PER 35893 35907	sa jeune élève
+T87	PER 52924 52939	la jeune fille 
+T88	PER 53508 53518	Églantine 
+T89	PER 32261 32269	gnangnan
+T90	PER 14487 14492	Elle 
+T91	PER 7463 7469	Douce 
+T92	PER 14458 14466	l'enfant
+T93	PER 49558 49568	Églantine 
+T94	PER 36591 36606	sa petite fille
+T95	PER 27917 27923	Douce 
+T96	PER 27784 27789	Douce
+T97	PER 31884 31893	Églantine
+T98	PER 36300 36317	Églantine Lumière
+T99	PER 51197 51207	Églantine 
+T100	PER 7808 7819	la fillette
+T101	PER 49899 49909	Églantine 
+T102	PER 53776 53786	Églantine 
+T103	PER 26308 26326	la petite Lumière 
+T104	PER 26211 26222	sa camarade
+T105	PER 28201 28221	la petite Eglantine 
+T106	PER 26302 26304	C'
+T107	PER 14888 14903	sa petite fille
+T108	PER 12548 12556	l'enfant
+T109	PER 49710 49723	sa maîtresse 
+T110	TIME 84 100	les autres jours
+T111	NO_PER 4439 4443	Tou 
+T112	NO_PER 45713 45727	son chien Tou 
+T113	NO_PER 3566 3575	du chien 
+T114	NO_PER 6587 6596	du chien 
+T115	NO_PER 5205 5208	Tou
+T116	NO_PER 4273 4276	Tou
+T117	NO_PER 117 126	son chien
+T118	NO_PER 51396 51405	le chien 
+T119	NO_PER 20713 20722	du chien 
+T120	NO_PER 30731 30734	Tou
+T121	NO_PER 26661 26670	son chien
+T122	NO_PER 37495 37504	le chien 
+T123	NO_PER 2934 2942	Le chien
+T124	NO_PER 5386 5395	son chien
+T125	NO_PER 52609 52616	marche 
+T126	NO_PER 27834 27843	le chien 
+T127	NO_PER 31346 31356	ton chien 
+T128	NO_PER 38912 38921	le chien 
+T129	NO_PER 1058 1067	du chien 
+T130	NO_PER 52517 52521	Tou 
+T131	NO_PER 2441 2450	du chien 
+T132	NO_PER 3999 4008	son chien
+T133	NO_PER 3206 3214	le chien
+T134	NO_PER 9324 9327	Tou
+T135	NO_PER 1271 1284	son compagnon
+T136	NO_PER 31721 31731	son chien 
+T137	NO_PER 53136 53140	Tou 
+T138	NO_PER 31045 31054	son chien
+T139	NO_PER 6398 6402	Tou 
+T140	NO_PER 37151 37159	le chien
+T141	NO_PER 9511 9514	Tou
+T142	NO_PER 4252 4262	son chien 
+T143	NO_PER 52137 52152	le vieux chien 
+T144	NO_PER 49673 49676	Tou
+T145	FAC 4216 4225	du verger
+T146	FAC 54211 54220	au Verger
+T147	FAC 10460 10471	son verger 
+T148	FAC 55009 55018	au Verger
+T149	FAC 29983 29992	au Verger
+T150	FAC 7588 7597	du verger
+T151	FAC 152 162	le verger 
+T152	FAC 12042 12051	Au verger
+T153	FAC 13414 13423	au verger
+T154	FAC 6327 6337	le verger 
+T155	FAC 27821 27831	le verger 
+T156	FAC 462 472	le verger 
+T157	FAC 36488 36497	au Verger
+T158	FAC 42486 42495	au Verger
+T159	FAC 49734 49744	du Verger 
+T160	FAC 28123 28133	au verger 
+T161	FAC 51064 51073	au Verger
+T162	FAC 1816 1825	la maison
+T163	FAC 1581 1597	sa maison isolée
+T164	FAC 174 197	la très vieille maison 
+T165	FAC 389 407	la vieille maison 
+T166	TIME 205 226	un clair matin de mai
+T167	TIME 223 226	mai
+T168	TIME 335 344	sept ans 
+T169	TIME 360 381	un clair matin de mai
+T170	TIME 378 381	mai
+T171	PER 1611 1622	les gamins 
+T172	FAC 1638 1660	les champs d'alentour 
+T173	FAC 1974 1990	Cette entrée-là 
+T174	FAC 1827 1847	l'entrée du potager 
+T175	FAC 2845 2855	du potager
+T176	FAC 52989 52999	du potager
+T177	FAC 1836 1847	du potager 
+T178	FAC 10477 10488	son potager
+T179	FAC 5610 5621	du potager 
+T180	FAC 27899 27909	du potager
+T181	LOC 2002 2031	une haute et vaste sapinière 
+T182	LOC 4971 4983	la sapinière
+T183	VEH 2174 2189	des charrettes 
+T184	PER 2325 2343	un homme à besace 
+T185	PER 2552 2560	l'homme 
+T186	TIME 2721 2731	l'instant 
+T187	PER 44192 44196	Noël
+T188	PER 26500 26510	le garçon 
+T189	PER 51933 51938	Noël 
+T190	PER 51942 51947	Noël 
+T191	PER 32945 32950	Noël 
+T192	PER 2857 2873	un jeune garçon 
+T193	PER 24251 24256	Noël 
+T194	PER 26435 26439	Noël
+T195	PER 3177 3193	le jeune garçon 
+T196	PER 9286 9295	le garçon
+T197	PER 3085 3095	l'arrivant
+T198	PER 42523 42533	du garçon 
+T199	PER 50625 50637	Noël Barray 
+T200	PER 9393 9398	Noël 
+T201	PER 55222 55227	Noël 
+T202	PER 57514 57518	Noël
+T203	PER 26810 26820	le garçon 
+T204	PER 3331 3340	le garçon
+T205	PER 3284 3286	J'
+T206	PER 25307 25312	Noël 
+T207	PER 27411 27416	Noël 
+T208	PER 6574 6584	du garçon 
+T209	PER 8858 8863	Noël 
+T210	PER 42845 42855	du garçon 
+T211	PER 42782 42786	Noël
+T212	PER 4696 4706	le garçon 
+T213	PER 40512 40522	le garçon 
+T214	PER 23113 23117	Noël
+T215	PER 9006 9011	Noël 
+T216	PER 6761 6775	ce Noël Barray
+T217	PER 20464 20469	Noël 
+T218	PER 25713 25718	Noël 
+T219	PER 4855 4866	Noël Barray
+T220	PER 21283 21287	Noël
+T221	PER 4812 4822	le garçon 
+T222	PER 7070 7082	son camarade
+T223	PER 38834 38839	Noël 
+T224	PER 17255 17260	Noël 
+T225	PER 45223 45228	Noël 
+T226	PER 7274 7279	Noël 
+T227	PER 18608 18613	Noël 
+T228	PER 40860 40865	Noël 
+T229	PER 39138 39143	Noël 
+T230	PER 45730 45747	son camarade Noël
+T231	PER 52670 52675	Vous 
+T232	PER 41557 41566	le garçon
+T233	PER 52735 52740	Noël 
+T234	PER 19099 19104	Noël 
+T235	PER 23710 23714	Noël
+T236	PER 21572 21581	le garçon
+T237	PER 57681 57686	Noël 
+T238	PER 3888 3898	le garçon 
+T239	PER 8601 8605	Noël
+T240	PER 53024 53029	Noël 
+T241	PER 37245 37250	Noël 
+T242	PER 41812 41817	Noël 
+T243	PER 6390 6395	Noël 
+T244	PER 58131 58136	Noël 
+T245	PER 8738 8751	son camarade 
+T246	PER 16813 16826	son ami Noël 
+T247	PER 52853 52858	Noël 
+T248	PER 21817 21821	Noël
+T249	PER 19377 19382	Noël 
+T250	PER 50879 50884	Noël 
+T251	PER 42403 42408	Noël 
+T252	PER 42456 42461	Noël 
+T253	PER 29820 29824	Noël
+T254	PER 58539 58544	Noël 
+T255	PER 29929 29934	Noël 
+T256	PER 19873 19878	Noël 
+T257	PER 54193 54197	Noël
+T258	PER 7721 7725	Noël
+T259	PER 51148 51153	Noël 
+T260	PER 54084 54089	Noël 
+T261	PER 27776 27781	Noël 
+T262	PER 5474 5479	Noël 
+T263	PER 40442 40454	son camarade
+T264	PER 56878 56882	Noël
+T265	PER 51683 51693	l'arrivant
+T266	PER 40137 40141	Noël
+T267	PER 8022 8027	Noël 
+T268	PER 51520 51525	Noël 
+T269	PER 38061 38065	Noël
+T270	PER 54561 54566	Noël 
+T271	PER 56716 56731	le petit Barray
+T272	PER 20203 20208	Noël 
+T273	PER 26044 26048	Noël
+T274	PER 56548 56553	Noël 
+T275	PER 2912 2932	une amie de toujours
+T276	PER 5557 5575	Les nouveaux amis 
+T277	PER 3473 3490	les deux enfants 
+T278	PER 42363 42379	des deux enfants
+T279	PER 57114 57130	Les jeunes gens 
+T280	PER 27776 27789	Noël et Douce
+T281	PER 38158 38170	aux enfants 
+T282	PER 52347 52363	Les jeunes gens 
+T283	PER 17246 17260	Douce et Noël 
+T284	PER 28059 28076	les deux enfants 
+T285	PER 27614 27630	les deux enfants
+T286	PER 37921 37933	des enfants 
+T287	PER 41773 41790	les deux enfants 
+T288	FAC 11943 11952	la maison
+T289	FAC 3958 3968	la maison 
+T290	FAC 10431 10441	la maison 
+T291	FAC 13721 13730	la maison
+T292	PER 4037 4048	ses parents
+T293	PER 16632 16651	son père et sa mère
+T294	PER 16863 16882	un père et une mère
+T295	PER 23195 23214	ton père et ta mère
+T296	PER 14832 14851	son père et sa mère
+T297	PER 17797 17813	Le père Lumière 
+T298	PER 10548 10573	le grand-père silencieux 
+T299	PER 19235 19250	son grand-père 
+T300	PER 26600 26616	le père Lumière 
+T301	PER 45455 45470	son grand-père 
+T302	PER 13744 13760	le père Lumière 
+T303	PER 57628 57642	son grand-père
+T304	PER 56064 56079	son grand-père 
+T305	PER 58172 58188	le père Lumière 
+T306	PER 4184 4199	son grand-père 
+T307	PER 11830 11840	Grand-père
+T308	PER 55177 55191	le grand-père 
+T309	PER 37042 37056	son grand-père
+T310	PER 16480 16495	son grand-père 
+T311	PER 42417 42433	le père Lumière 
+T312	PER 7602 7617	son grand-père 
+T313	PER 14519 14531	père Lumière
+T314	PER 12001 12014	le vieillard 
+T315	PER 36500 36515	Le père Lumière
+T316	PER 46784 46798	Au grand-père 
+T317	PER 14589 14597	le vieux
+T318	PER 15082 15098	le père Lumière 
+T319	PER 17063 17077	son grand-père
+T320	PER 7921 7945	ce grand-père taciturne 
+T321	PER 18704 18718	du grand-père 
+T322	PER 28133 28148	du père Lumière
+T323	PER 49800 49816	Le père Lumière 
+T324	PER 17474 17490	le père Lumière 
+T325	PER 56599 56615	le père Lumière 
+T326	PER 12468 12484	le père Lumière 
+T327	PER 17583 17594	grand-père 
+T328	PER 8145 8160	le père Lumière
+T329	PER 10405 10421	le père Lumière 
+T330	PER 8091 8106	le vieil homme 
+T331	PER 4392 4410	aux autres enfants
+T332	LOC 4495 4502	le bois
+T333	PER 57269 57283	Mère Clarisse 
+T334	PER 37693 37707	mère Clarisse 
+T335	PER 57866 57880	Mère Clarisse 
+T336	PER 13455 13468	Mère Clarisse
+T337	PER 54646 54660	mère Clarisse 
+T338	PER 57240 57254	mère Clarisse 
+T339	PER 49537 49551	mère Clarisse 
+T340	PER 36772 36786	mère Clarisse 
+T341	PER 37195 37208	mère Clarisse
+T342	PER 36619 36633	mère Clarisse 
+T343	PER 57062 57075	mère Clarisse
+T344	PER 38371 38385	mère Clarisse 
+T345	PER 37456 37470	Mère Clarisse 
+T346	PER 56288 56302	Mère Clarisse 
+T347	PER 40914 40927	mère Clarisse
+T348	PER 4519 4533	Mère Clarisse 
+T349	PER 39003 39020	la mère Clarisse 
+T350	PER 13323 13336	mère Clarisse
+T351	PER 11330 11342	la nourrice 
+T352	PER 15581 15596	Votre nourrice 
+T353	PER 11315 11328	mère Clarisse
+T354	PER 45073 45086	Mère Clarisse
+T355	PER 44443 44456	mère Clarisse
+T356	PER 4586 4602	mon petit frère 
+T357	GPE 13945 13966	du village de Bléroux
+T358	GPE 55273 55280	Bléroux
+T359	GPE 45443 45450	Bléroux
+T360	GPE 4883 4904	du village de Bléroux
+T361	GPE 13208 13219	au village 
+T362	GPE 8127 8134	Bléroux
+T363	GPE 52892 52900	Bléroux 
+T364	PER 4924 4936	ses parents 
+T365	PER 5224 5227	Luc
+T366	PER 5229 5244	son grand frère
+T367	ORG 5263 5274	le régiment
+T368	FAC 5292 5302	la maison 
+T369	PER 5324 5341	petits camarades 
+T370	TIME 5410 5423	chaque jeudi 
+T371	LOC 5440 5450	Le soleil 
+T372	LOC 5889 5901	le sous-bois
+T373	LOC 6014 6026	ce sous-bois
+T374	LOC 6063 6073	le soleil 
+T375	TIME 6246 6257	Les jeudis 
+T376	PER 6289 6303	des trois amis
+T377	PER 10009 10024	les trois amis 
+T378	PER 6574 6596	du garçon et du chien 
+T379	PER 6390 6402	Noël et Tou 
+T380	PER 6598 6618	Les quelques gamins 
+T381	PER 6777 6794	garçon de dix ans
+T382	LOC 37729 37741	la sapinière
+T383	LOC 25317 25333	Cette sapinière 
+T384	LOC 24040 24053	la sapinière 
+T385	LOC 8720 8733	la sapinière 
+T386	LOC 24083 24095	la sapinière
+T387	LOC 7314 7335	la sapinière voisine 
+T388	LOC 9949 9972	cette grande sapinière 
+T389	LOC 19619 19631	la sapinière
+T390	LOC 49928 49940	la sapinière
+T391	LOC 50903 50915	la sapinière
+T392	LOC 33007 33020	la sapinière 
+T393	LOC 7374 7386	un ruisseau 
+T394	LOC 7515 7527	le ruisseau 
+T395	LOC 41803 41810	l'étang
+T396	LOC 10097 10104	l'étang
+T397	LOC 57172 57179	l'étang
+T398	LOC 56928 56936	l'étang 
+T399	LOC 54603 54610	l'étang
+T400	LOC 37862 37869	l'étang
+T401	LOC 54783 54790	l'étang
+T402	LOC 7546 7553	l'étang
+T403	LOC 7423 7432	un étang 
+T404	LOC 19608 19631	l'étang de la sapinière
+T405	LOC 51746 51753	l'étang
+T406	LOC 24634 24641	l'étang
+T407	LOC 40702 40710	l'étang 
+T408	LOC 52685 52692	l'étang
+T409	LOC 53744 53751	l'étang
+T410	FAC 7866 7875	la route 
+T411	PER 8110 8123	tout le monde
+T412	PER 8169 8189	ses propres parents 
+T413	PER 43046 43057	ses parents
+T414	FAC 8201 8210	au jardin
+T415	TIME 8467 8477	ce jour-là
+T416	PER 9817 9831	de jeunes fous
+T417	TIME 9839 9859	les grandes vacances
+T418	LOC 9917 9926	les bois 
+T419	FAC 9975 9994	les chemins tracés 
+T420	LOC 10086 10104	au bord de l'étang
+T421	TIME 10338 10360	le milieu de septembre
+T422	TIME 10351 10360	septembre
+T423	TIME 10499 10521	des journées entières 
+T424	TIME 10635 10649	ce dernier été
+T425	TIME 11369 11386	l'âge de cinq ans
+T426	TIME 11378 11386	cinq ans
+T427	PER 11438 11447	un garçon
+T428	FAC 43073 43080	l'école
+T429	FAC 17866 17874	l'école 
+T430	FAC 44536 44544	l'école 
+T431	FAC 45400 45408	l'école 
+T432	FAC 13653 13660	l'école
+T433	FAC 11870 11878	l'école 
+T434	FAC 24223 24230	l'école
+T435	FAC 15757 15764	l'école
+T436	FAC 13776 13784	l'école 
+T437	FAC 28187 28194	l'école
+T438	PER 11906 11931	une vraie petite ménagère
+T439	TIME 12655 12674	ces jours derniers 
+T440	FAC 13117 13134	au fond du jardin
+T441	FAC 13125 13134	du jardin
+T442	TIME 13379 13391	le dimanche 
+T443	PER 13881 13893	une écolière
+T444	PER 19252 19272	la maîtresse d'école
+T445	PER 28564 28577	Mlle Charmes 
+T446	PER 31453 31466	la maîtresse 
+T447	PER 35489 35502	la maîtresse 
+T448	PER 33539 33552	Mlle Charmes 
+T449	PER 44240 44252	la maîtresse
+T450	PER 13916 13928	Mlle Charmes
+T451	PER 28323 28336	la maîtresse 
+T452	PER 35385 35397	sa maîtresse
+T453	PER 13969 13982	Mlle Charmes 
+T454	PER 13930 13966	l'institutrice du village de Bléroux
+T455	PER 46665 46677	Mlle Charmes
+T456	PER 44080 44093	Mlle Charmes 
+T457	PER 31833 31846	Mlle Charmes 
+T458	PER 33851 33866	l'institutrice 
+T459	PER 28869 28881	Mademoiselle
+T460	PER 16231 16243	la maîtresse
+T461	PER 31066 31079	la maîtresse 
+T462	PER 55854 55867	Mlle Charmes 
+T463	PER 31641 31653	Mademoiselle
+T464	PER 30988 31001	Mlle Charmes 
+T465	PER 19361 19375	l'institutrice
+T466	PER 43709 43722	Mlle Charmes 
+T467	PER 40011 40023	sa maîtresse
+T468	PER 15014 15026	Mademoiselle
+T469	PER 34277 34290	Mlle Charmes 
+T470	PER 14634 14649	l'institutrice 
+T471	PER 19887 19899	Mlle Charmes
+T472	PER 55443 55456	Mlle Charmes 
+T473	PER 46730 46743	Mlle Charmes 
+T474	PER 39671 39684	Mlle Charmes 
+T475	PER 34103 34116	La maîtresse 
+T476	PER 34627 34640	La maîtresse 
+T477	PER 25760 25773	Mlle Charmes 
+T478	PER 15335 15348	Mlle Charmes 
+T479	PER 45251 45256	Elle 
+T480	PER 35201 35214	Mlle Charmes 
+T481	PER 15523 15535	la maîtresse
+T482	PER 32271 32283	la maîtresse
+T483	TIME 13992 14012	quarante ans passés 
+T484	TIME 14599 14608	Sept ans 
+T485	TIME 14551 14560	sept ans 
+T486	TIME 14608 14622	du dernier mai
+T487	TIME 19671 19679	le 3 mai
+T488	TIME 19663 19665	C'
+T489	TIME 14713 14725	Le trois mai
+T490	TIME 17141 17162	la date du trois mai 
+T491	TIME 14956 14965	une date 
+T492	TIME 16519 16534	Au frais matin 
+T493	TIME 17167 17183	son frais matin 
+T494	TIME 14727 14736	au matin 
+T495	TIME 14773 14789	au soir tombant 
+T496	TIME 17186 17202	son soir tombant
+T497	TIME 16572 16587	au soir tombant
+T498	FAC 14802 14811	l'église 
+T499	FAC 16602 16611	l'église 
+T500	FAC 47761 47770	l'église 
+T501	FAC 55512 55520	l'église
+T502	PER 23195 23204	ton père 
+T503	PER 16632 16641	son père 
+T504	PER 19530 19538	son père
+T505	PER 16863 16871	un père 
+T506	PER 24853 24862	son père 
+T507	PER 14832 14841	son père 
+T508	PER 16644 16651	sa mère
+T509	PER 19480 19488	sa mère 
+T510	PER 23207 23214	ta mère
+T511	PER 16874 16882	une mère
+T512	PER 14844 14851	sa mère
+T513	FAC 55092 55102	la maison 
+T514	FAC 56380 56393	cette maison 
+T515	FAC 15117 15126	sa maison
+T516	FAC 20818 20838	cette grande maison 
+T517	FAC 55930 55939	la maison
+T518	FAC 36665 36674	sa maison
+T519	TIME 15134 15162	ce jour de rentrée de classe
+T520	PER 15175 15201	plusieurs élèves nouvelles
+T521	PER 15703 15721	Ce nom d'Églantine
+T522	PER 15662 15671	Églantine
+T523	PER 28435 28460	son joli nom d'Églantine 
+T524	PER 15634 15643	votre nom
+T525	PER 36206 36223	celui d'Églantine
+T526	PER 15280 15297	Églantine Lumière
+T527	PER 15299 15308	personne 
+T528	FAC 16101 16110	la classe
+T529	PER 16655 16669	Ses compagnes 
+T530	PER 16813 16847	son ami Noël et les autres enfants
+T531	PER 16829 16847	les autres enfants
+T532	PER 16939 16973	tous ceux qui mouraient au village
+T533	GPE 16963 16973	au village
+T534	FAC 16997 17015	la route du retour
+T535	TIME 17205 17213	Octobre 
+T536	TIME 18103 18126	cette journée de pluie 
+T537	TIME 17287 17299	Ce jeudi-là 
+T538	TIME 17462 17472	la matinée
+T539	TIME 25491 25500	le matin 
+T540	TIME 24565 24573	du matin
+T541	TIME 27671 27680	du matin 
+T542	TIME 26561 26570	ce matin 
+T543	TIME 17311 17326	un clair matin 
+T544	TIME 18584 18601	un quart d'heure 
+T545	TIME 18647 18658	des jeudis 
+T546	PER 19195 19206	des parents
+T547	FAC 19323 19343	la ferme des Barray 
+T548	FAC 43037 43057	celle de ses parents
+T549	FAC 29875 29895	la ferme des Barray 
+T550	PER 19332 19343	des Barray 
+T551	PER 29884 29895	des Barray 
+T552	FAC 19573 19583	la maison 
+T553	FAC 19822 19830	la pièce
+T554	PER 20179 20197	Une vraie gnangnan
+T555	PER 20481 20491	un garçon 
+T556	FAC 20688 20705	toutes les pièces
+T557	FAC 21124 21136	les chambres
+T558	FAC 21478 21504	un escalier presque droit 
+T559	FAC 21731 21744	cet escalier 
+T560	FAC 23854 23862	la pièce
+T561	FAC 21940 21949	la pièce 
+T562	FAC 58105 58126	cette chambre du haut
+T563	FAC 22054 22072	une grande chambre
+T564	FAC 22054 22178	une grande chambre, blanchie à la chaux, meublée d'un lit, d'une vaste armoire à ferrures ouvragées, et d'une lourde commode
+T565	PER 22518 22536	deux jeunes mariés
+T566	PER 22538 22547	La mariée
+T567	PER 23077 23086	Le marié 
+T568	PER 24951 24965	du jeune marié
+T569	PER 22689 22697	le marié
+T570	PER 23572 23586	son compagnon 
+T571	PER 24202 24230	les petites filles à l'école
+T572	LOC 24365 24375	le soleil 
+T573	LOC 24968 24978	Le soleil 
+T574	LOC 27715 27725	le soleil 
+T575	TIME 24463 24468	Midi 
+T576	TIME 24842 24850	le jour 
+T577	TIME 25143 25155	au printemps
+T578	PER 25271 25282	un chasseur
+T579	PER 27400 27416	le père de Noël 
+T580	PER 37309 37314	Papa 
+T581	PER 41975 41982	le père
+T582	PER 42392 42408	le père de Noël 
+T583	PER 25345 25350	Papa 
+T584	PER 26350 26357	le père
+T585	PER 26229 26237	le père 
+T586	PER 53355 53364	son père 
+T587	PER 27553 27561	le père 
+T588	PER 38050 38065	le père de Noël
+T589	PER 41840 41844	papa
+T590	PER 41742 41750	le père 
+T591	PER 26866 26874	Le père 
+T592	PER 27750 27758	le père 
+T593	PER 26109 26118	son père 
+T594	PER 25800 25822	ses élèves maladroites
+T595	TIME 27633 27642	Le temps 
+T596	TIME 27963 27972	L'automne
+T597	TIME 28010 28046	l'hiver, avec sa neige et ses gelées
+T598	TIME 28271 28291	les heures de classe
+T599	PER 28521 28534	ses compagnes
+T600	PER 35052 35066	tes compagnes 
+T601	PER 43693 43707	Juliette Force
+T602	PER 31125 31133	Juliette
+T603	PER 40111 40125	Juliette Force
+T604	PER 31984 31998	Juliette Force
+T605	PER 32217 32226	Juliette 
+T606	PER 31158 31167	Juliette 
+T607	PER 28845 28857	la méchante 
+T608	PER 28687 28708	une grande de dix ans
+T609	PER 31032 31041	sa fille 
+T610	PER 28671 28685	Juliette Force
+T611	TIME 28701 28708	dix ans
+T612	FAC 29959 29968	la route 
+T613	FAC 29381 29390	la route 
+T614	PER 29422 29429	filles 
+T615	PER 29422 29440	filles et garçons 
+T616	PER 29432 29440	garçons 
+T617	FAC 29450 29462	leur demeure
+T618	GPE 29914 29924	du village
+T619	PER 55372 55388	Marguerite Dupré
+T620	PER 30144 30160	Marguerite Dupré
+T621	PER 35258 35275	Marguerite Dupré 
+T622	PER 30042 30058	Marguerite Dupré
+T623	PER 50253 50267	La jeune fille
+T624	PER 31590 31607	Marguerite Dupré 
+T625	PER 36267 36284	Marguerite Dupré 
+T626	PER 50235 50251	Marguerite Dupré
+T627	FAC 30167 30177	la maison 
+T628	FAC 30441 30451	le sentier
+T629	FAC 30258 30273	le même sentier
+T630	PER 30381 30393	les méchants
+T631	TIME 30395 30403	Un jour 
+T632	PER 30606 30615	la bande 
+T633	PER 30652 30664	le coupable 
+T634	PER 30666 30688	la mère de Marguerite 
+T635	PER 31790 31796	Maman 
+T636	PER 30943 30969	la mère de Juliette Force 
+T637	PER 31086 31105	les deux fillettes 
+T638	PER 31360 31374	tes camarades 
+T639	PER 31661 31671	un garçon 
+T640	TIME 31824 31831	ce jour
+T641	FAC 35750 35759	la classe
+T642	FAC 32522 32531	la classe
+T643	FAC 33062 33076	ce pont étroit
+T644	PER 34448 34452	Qui 
+T645	PER 34469 34477	Personne
+T646	PER 34616 34624	personne
+T647	PER 34493 34507	tes camarades 
+T648	PER 36094 36114	cette petite Lumière
+T649	TIME 36136 36148	le jour même
+T650	PER 36376 36394	la mauvaise élève 
+T651	PER 36407 36431	la dernière de la classe
+T652	PER 36422 36431	la classe
+T653	FAC 36747 36770	les fermes avoisinantes
+T654	PER 36922 36927	Douce
+T655	TIME 37225 37234	du jeudi 
+T656	FAC 37657 37664	chemin 
+T657	TIME 38245 38266	Les grandes vacances 
+T658	LOC 38448 38455	du pays
+T659	PER 38631 38649	mon aimable berger
+T660	LOC 38727 38770	du tout petit ruisseau de la source voisine
+T661	LOC 38753 38770	la source voisine
+T662	PER 39172 39183	du roulier 
+T663	PER 39366 39376	le roulier
+T664	FAC 39186 39201	La grand'route 
+T665	PER 39442 39447	Cadet
+T666	PER 39449 39465	le beau limonier
+T667	VEH 39516 39535	un solide attelage 
+T668	FAC 39586 39594	la route
+T669	PER 39884 39893	les gens 
+T670	TIME 42288 42305	Plusieurs années 
+T671	PER 42650 42662	les pauvres 
+T672	PER 42684 42694	les riches
+T673	FAC 42860 42894	une école d'agriculture en Algérie
+T674	GPE 50659 50666	Algérie
+T675	GPE 42884 42894	en Algérie
+T676	PER 42941 42956	les gens d'ici 
+T677	TIME 43564 43572	dix ans 
+T678	PER 44116 44124	fillette
+T679	TIME 44304 44313	vingt ans
+T680	GPE 44346 44352	France
+T681	TIME 44355 44363	L'hiver 
+T682	FAC 44605 44613	la route
+T683	TIME 44974 44979	midi 
+T684	TIME 45318 45332	un mois de mai
+T685	TIME 45366 45375	seize ans
+T686	FAC 45423 45450	chez le tailleur de Bléroux
+T687	PER 46289 46300	du tailleur
+T688	PER 45428 45450	le tailleur de Bléroux
+T689	PER 46144 46156	Le tailleur 
+T690	PER 45553 45571	cette jeune fille 
+T691	PER 45632 45665	l'enfant à la souquenille trouée 
+T692	PER 45924 45949	les gens de son entourage
+T693	PER 45936 45949	son entourage
+T694	FAC 46108 46120	cette maison
+T695	PER 46144 46168	Le tailleur et sa femme 
+T696	PER 46159 46168	sa femme 
+T697	PER 46194 46205	les enfants
+T698	PER 55354 55369	Louis Pied Bot 
+T699	PER 46280 46300	le frère du tailleur
+T700	PER 50058 50073	Louis Pied Bot 
+T701	PER 46714 46728	Louis Pied Bot
+T702	PER 46302 46318	Louis Pied Bot, 
+T703	PER 50571 50586	Louis Pied Bot 
+T704	PER 46318 46347	jeune homme de vingt-cinq ans
+T705	PER 50442 50456	Louis Pied Bot
+T706	TIME 46333 46347	vingt-cinq ans
+T707	FAC 46533 46542	l'église 
+T708	TIME 46542 46553	le dimanche
+T709	PER 47285 47298	ses compagnes
+T710	TIME 47711 47726	les soirs d'été
+T711	FAC 47828 47852	la chapelle de la Vierge
+T712	NO_PER 47843 47852	la Vierge
+T713	FAC 48343 48370	un chemin de sable brillant
+T714	PER 48401 48407	Marie 
+T715	PER 48410 48420	son enfant
+T716	PER 49247 49272	mon aimable Fils affable 
+T717	PER 49234 49240	Joseph
+T718	PER 49094 49101	Joseph 
+T719	PER 48440 48446	Joseph
+T720	PER 49207 49226	son enfant préféré 
+T721	EVENT 48699 48720	la nativité de Jésus 
+T722	NO_PER 48714 48720	Jésus 
+T723	PER 48748 48760	des bergers 
+T724	NO_PER 48764 48774	les anges 
+T725	PER 48798 48811	du nouveau-né
+T726	PER 48836 48847	la bergère 
+T727	FAC 48862 48884	la crèche du petit roi
+T728	PER 48872 48884	du petit roi
+T729	PER 49111 49121	ses frères
+T730	PER 49150 49156	Jacob 
+T731	PER 49164 49173	ses fils 
+T732	PER 49356 49365	les gens 
+T733	TIME 49392 49399	du soir
+T734	FAC 49725 49744	l'entrée du Verger 
+T735	FAC 49942 49952	Un chemin 
+T736	FAC 49915 49940	le chemin de la sapinière
+T737	FAC 51360 51370	le chemin 
+T738	FAC 50037 50046	la route 
+T739	FAC 50222 50251	la maison de Marguerite Dupré
+T740	FAC 50505 50527	la maison de son frère
+T741	PER 50518 50527	son frère
+T742	TIME 50550 50569	ce beau soir de mai
+T743	TIME 50566 50569	mai
+T744	TIME 50648 50657	ce matin 
+T745	FAC 50710 50715	école
+T746	LOC 50857 50863	soleil
+T747	TIME 51155 51168	dix-neuf ans 
+T748	PER 51228 51242	un jeune homme
+T749	PER 51272 51287	une jeune fille
+T750	FAC 51320 51330	l'atelier 
+T751	LOC 51651 51663	le sous-bois
+T752	PER 51831 51865	Ce jeune homme à la poitrine large
+T753	PER 51978 52017	Cette jeune fille à l'allure distinguée
+T754	PER 52165 52170	l'un 
+T755	TIME 52769 52793	cette époque de l'année 
+T756	PER 53294 53303	son frère
+T757	ORG 53329 53340	le régiment
+T758	TIME 54572 54591	tous les dimanches 
+T759	TIME 56936 56954	tous les dimanches
+T760	TIME 53713 53732	tous les dimanches 
+T761	PER 53977 53993	le petit garçon 
+T762	PER 53977 54012	le petit garçon et la petite fille 
+T763	PER 53996 54012	la petite fille 
+T764	TIME 54199 54209	ce soir-là
+T765	LOC 54468 54476	le bois 
+T766	PER 54820 54835	le jeune homme 
+T767	PER 54851 54867	ce gamin de Noël
+T768	TIME 54907 54915	deux ans
+T769	PER 55102 55114	les amitiés 
+T770	PER 55239 55280	des relations de la jeune fille à Bléroux
+T771	PER 55327 55341	Ses relations 
+T772	PER 55652 55663	sa famille 
+T773	PER 56021 56029	aux gens
+T774	PER 56335 56344	l'enfant 
+T775	PER 56442 56459	Une petite fille 
+T776	TIME 56368 56375	un jour
+T777	TIME 56959 56967	le mois 
+T778	PER 57502 57518	la femme de Noël
+T779	PER 57720 57734	un grand-père 
+T780	PER 57739 57754	sa petite fille
+T781	TIME 57924 57932	le passé
+T782	TIME 57963 57973	le présent
+T783	PER 58365 58377	ses parents 
