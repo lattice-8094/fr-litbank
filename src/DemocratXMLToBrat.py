@@ -70,8 +70,30 @@ def get_sentences(xmlroot):
 
 
 def get_doc_title(root):
+    """
+    Finds and returns the title of the document
+    remove space, punctuation and diacriticals marks
+    Parameters
+    ----------
+    xmlroot: node
+        the root node
+
+    Returns
+    -------
+    String
+        title of the document (normalized as a filename)
+    """
     title = root.find(".//tei:titleStmt/tei:title", namespaces=nsd)
-    return title.text.strip()
+    file_name = title.text.strip()
+    file_name = re.sub(' ?\(\d+\)', '', file_name) # "fifi (1)" -> "fifi"
+    file_name = re.sub('\s', '_', file_name) # "Mademoiselle Fifi" -> "Mademoiselle_Fifi"
+    file_name = re.sub('[,;.]', '', file_name) # "Mademoiselle Fifi, nouveaux contes" -> "Mademoiselle_fifi_nouveaux_contes"
+    file_name = re.sub('[éèêë]', 'e', file_name) # "Pécuchet" -> "Pecuchet"
+    file_name = re.sub('[àâ]', 'a', file_name)
+    file_name = re.sub('[ù]', 'u', file_name)
+    file_name = re.sub('[ç]', 'c', file_name)
+    file_name = re.sub('[ï]', 'i', file_name)
+    return file_name
 
 
 def get_mention_num_id(mention_id):
