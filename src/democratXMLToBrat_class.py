@@ -45,12 +45,15 @@ class Sentence:
                     # si le dernier caractère de l'item courant est 'no space after' : pas d'espace
                     elif item.form[-1] in Sentence.__fr_nospace_after:
                         item.printable = item.form
+                    # si l'item suivant n'est pas un objet Word : pas d'espace
+                    elif not(isinstance(content[i + 1], Word)):
+                        item.printable = item.form
                     # sinon un espace après
                     else:
                         item.printable = item.form + " "
-                # exception quand pas de mot suivant : un espace après
+                # exception quand pas de mot suivant : pas d'espace
                 except IndexError:
-                    item.printable = item.form + " "
+                    item.printable = item.form
                 self.content.append(item)
                 current_offset = item.get_end()
             else:
