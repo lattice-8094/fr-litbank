@@ -51,9 +51,12 @@ class Sentence:
                     # sinon un espace après
                     else:
                         item.printable = item.form + " "
-                # exception quand pas de mot suivant : pas d'espace
+                # exception quand pas de mot suivant : espace
                 except IndexError:
-                    item.printable = item.form
+                    if item.pos == 'NOM' or item.pos == 'NAM':
+                        item.printable = item.form
+                    else:
+                        item.printable = item.form + " "
                 self.content.append(item)
                 current_offset = item.get_end()
             else:
