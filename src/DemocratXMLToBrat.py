@@ -85,7 +85,7 @@ def get_doc_title(root):
     """
     title = root.find(".//tei:titleStmt/tei:title", namespaces=nsd)
     file_name = title.text.strip()
-    file_name = re.sub(' ?\(\d+\)', '', file_name) # "fifi (1)" -> "fifi"
+    file_name = re.sub(r' ?\((\d+)\)', r'-\1', file_name) # "fifi (1)" -> "fifi-1"
     file_name = re.sub('\s', '_', file_name) # "Mademoiselle Fifi" -> "Mademoiselle_Fifi"
     file_name = re.sub('[,;.]', '', file_name) # "Mademoiselle Fifi, nouveaux contes" -> "Mademoiselle_fifi_nouveaux_contes"
     file_name = re.sub('[éèêë]', 'e', file_name) # "Pécuchet" -> "Pecuchet"
