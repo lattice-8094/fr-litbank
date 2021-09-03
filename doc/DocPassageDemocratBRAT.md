@@ -6,11 +6,11 @@ Les formats annotés récupérés par l'export dans le logiciel TXM sont de la f
 
 ### Pour les fichiers.xml
 
- ![](C:\Users\Laurette%20Chardon\Documents\CloudUnicaen-pause\Espace%20Personnel\Documents\CRISCO-PC\LATTICE-cooperation\gitLatticeTempo\Lattice_fr-litbank_xml.png)
+ ![](Lattice_fr-litbank_xml.png)
 
 ## TOTO-URS.XML
 
-![](C:\Users\Laurette%20Chardon\Documents\CloudUnicaen-pause\Espace%20Personnel\Documents\CRISCO-PC\LATTICE-cooperation\gitLatticeTempo\Lattice_fr-litbank_urs_xml.png)
+![](Lattice_fr-litbank_urs_xml.png)
 
 ## Formats d'arrivée (Brat)
 
