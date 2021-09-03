@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1265"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Lattice_fr-litbank_urs_xml.svg"
+   inkscape:export-filename="C:\Users\Laurette Chardon\Documents\CloudUnicaen-pause\Espace Personnel\Documents\CRISCO-PC\LATTICE-cooperation\gitLatticeTempo\Lattice_fr-litbank_urs_xml.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs1259" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="477.10526"
+     inkscape:cy="420.56106"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1262">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <rect
+       style="opacity:0.98000004;fill:#800067;fill-opacity:0.13983051;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3549-8"
+       width="116.79678"
+       height="39.555893"
+       x="5.7462959"
+       y="233.25621"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <rect
+       style="opacity:0.98000004;fill:#000080;fill-opacity:0.16972477;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3549"
+       width="116.79678"
+       height="31.805073"
+       x="4.2763124"
+       y="162.02888"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.8635283"
+       y="210.0152"
+       id="text1816-7"
+       transform="scale(0.73883836,1.353476)"><tspan
+         sodipodi:role="line"
+         x="3.8635283"
+         y="210.0152"
+         style="stroke-width:0.26458332"
+         id="tspan1874-8">&lt;/annotations&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.8635283"
+         y="214.07635"
+         style="stroke-width:0.26458332"
+         id="tspan1796"> &lt;/standOff</tspan><tspan
+         sodipodi:role="line"
+         x="3.8635283"
+         y="218.13751"
+         style="stroke-width:0.26458332"
+         id="tspan1799">&lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000"
+   id="tspan2903">/TEI</tspan>&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.8635283"
+         y="222.19867"
+         style="stroke-width:0.26458332"
+         id="tspan1824-16" /></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 4.7247024,101.01935 C 5.2916666,240.30357 5.2916666,240.30357 5.2916666,240.30357"
+       id="path3377"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:0.98000004;fill:#cccccc;fill-opacity:1;stroke:#491e9c;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3379"
+       width="1.6522551"
+       height="200.61403"
+       x="2.052007"
+       y="91.397636"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="176.49052"
+       y="128.26553"
+       id="text1816-3-0-7"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="176.49052"
+         y="128.26553"
+         style="stroke-width:0.26458332"
+         id="tspan1038">Appel de urs_<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000080"
+   id="tspan1044">root.find('.//link[@id=&quot;' + chaine.id+'&quot;]'</tspan>, namespaces=nsd)</tspan><tspan
+         sodipodi:role="line"
+         x="176.49052"
+         y="132.32669"
+         style="stroke-width:0.26458332"
+         id="tspan3375-3">link.get('target')</tspan><tspan
+         sodipodi:role="line"
+         x="176.49052"
+         y="136.63457"
+         style="stroke-width:0.26458332"
+         id="tspan3547">de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan930">get_mentions()</tspan> </tspan><tspan
+         sodipodi:role="line"
+         x="176.49052"
+         y="140.79756"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-2-4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.8562636"
+       y="67.811615"
+       id="text1816-3-2"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="4.8562636"
+         y="67.811615"
+         style="stroke-width:0.26458332"
+         id="tspan973-7">&lt;tei:TEI xmlns:tei=&quot;http://www.tei-c.org/ns/1.0&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="4.8562636"
+         y="71.872772"
+         style="stroke-width:0.26458332"
+         id="tspan975-8">  &lt;teiHeader&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="4.8562636"
+         y="75.933929"
+         style="stroke-width:0.26458332"
+         id="tspan977-9">  ...</tspan><tspan
+         sodipodi:role="line"
+         x="4.8562636"
+         y="79.995079"
+         style="stroke-width:0.26458332"
+         id="tspan979-3">  &lt;/teiHeader&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="4.8562636"
+         y="84.056236"
+         style="stroke-width:0.26458332"
+         id="tspan981-7">  ...</tspan><tspan
+         sodipodi:role="line"
+         x="4.8562636"
+         y="88.117393"
+         style="stroke-width:0.26458332"
+         id="tspan983-0">  &lt;standOff&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="4.8562636"
+         y="92.178551"
+         style="stroke-width:0.26458332"
+         id="tspan985-1">  ...</tspan><tspan
+         sodipodi:role="line"
+         x="4.8562636"
+         y="96.239708"
+         style="stroke-width:0.26458332"
+         id="tspan987-4">  &lt;annotations type=&quot;coreference&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="4.8562636"
+         y="100.30086"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.6650062"
+       y="122.31305"
+       id="text1816-3-6"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="6.6650062"
+         y="122.31305"
+         style="stroke-width:0.26458332"
+         id="tspan1001-1">      &lt;annotationGrp type=&quot;Schema&quot; subtype=&quot;CHAINE&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="6.6650062"
+         y="126.37421"
+         style="stroke-width:0.26458332"
+         id="tspan1004-0">      ...</tspan><tspan
+         sodipodi:role="line"
+         x="6.6650062"
+         y="130.43536"
+         style="stroke-width:0.26458332"
+         id="tspan1006-3">        &lt;<tspan
+   style="fill:#000080;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan3539">link id=</tspan>&quot;s-CHAINE-nbchaine&quot; <tspan
+   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000080"
+   id="tspan3543">target</tspan>=&quot;#u-MENTION-nbmention</tspan><tspan
+         sodipodi:role="line"
+         x="6.6650062"
+         y="134.49652"
+         style="stroke-width:0.26458332"
+         id="tspan1010-7">         #u-MENTION-nbmention #u-MENTION-nbmention&quot; ana=&quot;#s-CHAINE-nbchaine-fs&quot;&gt;&lt;/link&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="6.6650062"
+         y="138.55768"
+         style="stroke-width:0.26458332"
+         id="tspan1012-8">        ...</tspan><tspan
+         sodipodi:role="line"
+         x="6.6650062"
+         y="142.61882"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-0">      &lt;/annotationGrp&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="7.7502131"
+       y="101.38134"
+       id="text1816-3-5"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="7.7502131"
+         y="101.38134"
+         style="stroke-width:0.26458332"
+         id="tspan989-3">      &lt;annotationGrp type=&quot;Unit&quot; subtype=&quot;MENTION&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="7.7502131"
+         y="105.4425"
+         style="stroke-width:0.26458332"
+         id="tspan991-2">      ...</tspan><tspan
+         sodipodi:role="line"
+         x="7.7502131"
+         y="109.50365"
+         style="stroke-width:0.26458332"
+         id="tspan993-7">        &lt;<tspan
+   style="fill:#1feafa;fill-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1215">span id=&quot;</tspan><tspan
+   style="fill:#1feafa;fill-opacity:1"
+   id="tspan1219">u-MENTION-nbmention&quot; </tspan><tspan
+   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#1feafa;fill-opacity:1"
+   id="tspan1225">from</tspan>=&quot;text:w_TOTO_nbw&quot; <tspan
+   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#1feafa;fill-opacity:1"
+   id="tspan1229">to</tspan>=&quot;text:w_TOTO_nbw&quot; ana=&quot;#u-MENTION-1-fs&quot;&gt;&lt;/span&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="7.7502131"
+         y="113.56481"
+         style="stroke-width:0.26458332"
+         id="tspan995-2">      ...</tspan><tspan
+         sodipodi:role="line"
+         x="7.7502131"
+         y="117.62597"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-5">      &lt;/annotationGrp&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.579761"
+       y="146.60175"
+       id="text1816-3-9"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="5.579761"
+         y="146.60175"
+         style="stroke-width:0.26458332"
+         id="tspan1016-1">      &lt;div type=&quot;unit-fs&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="5.579761"
+         y="150.6629"
+         style="stroke-width:0.26458332"
+         id="tspan1018-6">        &lt;<tspan
+   style="fill:#00800a;fill-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1147">fs id=</tspan>&quot;u-MENTION-nbmention-fs&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="5.579761"
+         y="154.72406"
+         style="stroke-width:0.26458332"
+         id="tspan1020-0">          &lt;<tspan
+   style="fill:#00800a;fill-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1151">f name=&quot;REF&quot;</tspan>&gt;&lt;string&gt;le narrateur&lt;/string&gt;&lt;/f&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="5.579761"
+         y="158.78522"
+         style="stroke-width:0.26458332"
+         id="tspan1022-6">        &lt;/fs&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="5.579761"
+         y="162.84637"
+         style="stroke-width:0.26458332"
+         id="tspan1026-2">      ...</tspan><tspan
+         sodipodi:role="line"
+         x="5.579761"
+         y="166.90752"
+         style="stroke-width:0.26458332"
+         id="tspan1028-7">      &lt;/div&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="5.579761"
+         y="170.96867"
+         style="stroke-width:0.26458332"
+         id="tspan1055-7" /><tspan
+         sodipodi:role="line"
+         x="5.579761"
+         y="175.02983"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-6" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.0645728"
+       y="175.42105"
+       id="text1816-3-9-6"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="3.0645728"
+         y="175.42105"
+         style="stroke-width:0.26458332"
+         id="tspan1032-9-6">       &lt;div type=&quot;schema-fs&quot;&gt;&lt;/div&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.0645728"
+         y="179.48221"
+         style="stroke-width:0.26458332"
+         id="tspan1034-0-3">        ...</tspan><tspan
+         sodipodi:role="line"
+         x="3.0645728"
+         y="183.54337"
+         style="stroke-width:0.26458332"
+         id="tspan1036-8-9">        &lt;fs id=&quot;s-CHAINE-nbchaine-fs&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.0645728"
+         y="187.60452"
+         style="stroke-width:0.26458332"
+         id="tspan1039-0-7">          &lt;f name=&quot;REF&quot;&gt;&lt;string&gt;texteREF&lt;/string&gt;&lt;/f&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.0645728"
+         y="191.66568"
+         style="stroke-width:0.26458332"
+         id="tspan1041-3-1">          &lt;f name=&quot;<tspan
+   style="fill:#df5b11;fill-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1087">NB MAILLONS</tspan>&quot;&gt;&lt;string&gt;nbmaillons&lt;/string&gt;&lt;/f&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.0645728"
+         y="195.72682"
+         style="stroke-width:0.26458332"
+         id="tspan1043-1-8">          &lt;f name=&quot;<tspan
+   style="fill:#df1144;fill-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1046">TYPE REFERENT</tspan>&quot;&gt;&lt;string&gt;[]PER,FAC,VEH...]&lt;/string&gt;&lt;/f&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.0645728"
+         y="199.78798"
+         style="stroke-width:0.26458332"
+         id="tspan1045-5-2">        &lt;/fs&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.0645728"
+         y="203.84914"
+         style="stroke-width:0.26458332"
+         id="tspan1047-8-3">        ...</tspan><tspan
+         sodipodi:role="line"
+         x="3.0645728"
+         y="207.91029"
+         style="stroke-width:0.26458332"
+         id="tspan1055-7-7">      &lt;/div&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.0645728"
+         y="211.97145"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-6-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.7880366"
+       y="171.6915"
+       id="text1816-3-9-6-2"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="3.7880366"
+         y="171.6915"
+         style="stroke-width:0.26458332"
+         id="tspan1055-7-7-4">       &lt;div type=&quot;schema-fs&quot;&gt;&lt;/div&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.7880366"
+         y="175.75266"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-6-5-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="180.39163"
+       y="174.16403"
+       id="text1816-3-0-7-75"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="180.39163"
+         y="174.16403"
+         style="stroke-width:0.26458332"
+         id="tspan3375-3-4">Appel de <tspan
+   style="fill:#800067;fill-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan992">urs_</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800067;stroke-width:0.26458332;fill-opacity:1"
+   id="tspan1044-5">root.findall('.//div[@type=&quot;schema-fs&quot;]/fs'</tspan><tspan
+   style="fill:#800067;fill-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan994">,</tspan> namespaces=nsd)</tspan><tspan
+         sodipodi:role="line"
+         x="180.39163"
+         y="178.22519"
+         style="stroke-width:0.26458332"
+         id="tspan3547-7">de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan955">get_chaines()</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="180.39163"
+         y="182.28635"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-2-4-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="179.80489"
+       y="183.30351"
+       id="text1816-3-0-7-75-4"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="179.80489"
+         y="183.30351"
+         style="stroke-width:0.26458332"
+         id="tspan3375-3-4-9">Appel de <tspan
+   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill:#df1144;fill-opacity:1"
+   id="tspan1000">schema</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#df1144;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan1044-5-5">.find('./f[@name=&quot;TYPE REFERENT&quot;]/string'</tspan>, namespaces=nsd)</tspan><tspan
+         sodipodi:role="line"
+         x="179.80489"
+         y="187.36467"
+         style="stroke-width:0.26458332"
+         id="tspan3547-7-1">de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
+   id="tspan955-7">get_chaines()</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="179.80489"
+         y="191.42583"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-2-4-1-1" /></text>
+    <rect
+       style="opacity:0.98000004;fill:#da5c5c;fill-opacity:0;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3549-8-8"
+       width="116.79678"
+       height="39.555893"
+       x="132.96658"
+       y="259.58228"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <rect
+       style="opacity:0.98000004;fill:#df1144;fill-opacity:0.19915257;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3549-8-6"
+       width="116.79678"
+       height="5.3453932"
+       x="6.0135655"
+       y="261.31952"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="180.01494"
+       y="193.76935"
+       id="text1816-3-0-7-75-4-4"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="180.01494"
+         y="193.76935"
+         style="stroke-width:0.26458332"
+         id="tspan3375-3-4-9-7">Appel de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#df5b11;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan1000-2">schema.find('./f[@name=&quot;NB MAILLONS&quot;]/string'</tspan>, namespaces=nsd)</tspan><tspan
+         sodipodi:role="line"
+         x="180.01494"
+         y="197.83051"
+         style="stroke-width:0.26458332"
+         id="tspan3547-7-1-4">de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
+   id="tspan955-7-9">get_chaines()</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="180.01494"
+         y="201.89166"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-2-4-1-1-2" /></text>
+    <rect
+       style="opacity:0.98000004;fill:#df5b11;fill-opacity:0.19491523;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3549-8-6-1"
+       width="116.79678"
+       height="5.3453932"
+       x="6.0135651"
+       y="255.97412"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="177.85942"
+       y="150.50899"
+       id="text1816-3-0-7-77"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="177.85942"
+         y="150.50899"
+         style="stroke-width:0.26458332"
+         id="tspan3375-3-5">Appel de urs_<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000080;stroke-width:0.26458332"
+   id="tspan1044-6"><tspan
+   style="fill:#00800a;fill-opacity:1"
+   id="tspan1143">root.find('.//fs[@id=&quot;' + mention_id+ '-fs&quot;]/f[@name=&quot;REF&quot;]/string</tspan>'</tspan>, namespaces=nsd)</tspan><tspan
+         sodipodi:role="line"
+         x="177.85942"
+         y="154.81686"
+         style="stroke-width:0.26458332"
+         id="tspan3547-1">de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
+   id="tspan930-7">get_mentions()</tspan> </tspan><tspan
+         sodipodi:role="line"
+         x="177.85942"
+         y="158.97987"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-2-4-18" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="222.71239"
+       y="106.92422"
+       id="text1816-3-0-7-77-4"
+       transform="scale(0.73883837,1.353476)"><tspan
+         sodipodi:role="line"
+         x="222.71239"
+         y="106.92422"
+         style="stroke-width:0.26458332"
+         id="tspan3375-3-5-8">Appel de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#1feafa;fill-opacity:1"
+   id="tspan1203">urs_</tspan><tspan
+   id="tspan1207"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#1feafa;fill-opacity:1;stroke-width:0.26458332">root.find('.//span[@id=&quot;' + mention_id+ '&quot;]'</tspan>, namespaces=nsd)</tspan><tspan
+         sodipodi:role="line"
+         x="222.71239"
+         y="110.98537"
+         style="stroke-width:0.26458332"
+         id="tspan1221">Appel de <tspan
+   style="fill:#1feafa;fill-opacity:1;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1223">mention_span.get(&quot;from&quot;) et mention_span.get(&quot;to&quot;)</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="222.71239"
+         y="115.29325"
+         style="stroke-width:0.26458332"
+         id="tspan3547-1-7">de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332"
+   id="tspan930-7-2">get_mentions()</tspan> </tspan><tspan
+         sodipodi:role="line"
+         x="222.71239"
+         y="119.45625"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-2-4-18-2" /></text>
+    <rect
+       style="opacity:0.98000004;fill:#00800a;fill-opacity:0.11440681;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3549-7"
+       width="114.9259"
+       height="15.501633"
+       x="5.7462921"
+       y="199.84752"
+       rx="1.0000006"
+       ry="1.0000006" />
+    <rect
+       style="opacity:0.98000004;fill:#1feafa;fill-opacity:0.10169492;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3549-6"
+       width="152.6109"
+       height="8.8198948"
+       x="9.4880762"
+       y="143.45364"
+       rx="1.0000007"
+       ry="1.0000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66667604px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="197.22943"
+       y="83.648796"
+       id="text817-8-9-0-7-8-7-76"
+       transform="scale(0.85069871,1.1755043)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="197.22943"
+         y="83.648796"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan819-9-4-3-1-5-3-1">Dépôt : https://github.com/lattice-8094/fr-litbank</tspan><tspan
+         sodipodi:role="line"
+         x="197.22943"
+         y="92.468239"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4812">Lectures fichier usr xml</tspan></text>
+  </g>
+</svg>

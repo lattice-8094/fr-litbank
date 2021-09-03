@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1265"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Lattice_fr-litbank_xml.svg"
+   inkscape:export-filename="C:\Users\Laurette Chardon\Documents\CloudUnicaen-pause\Espace Personnel\Documents\CRISCO-PC\LATTICE-cooperation\gitLatticeTempo\Lattice_fr-litbank_xml.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs1259">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path932"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000080;stroke-width:1pt;stroke-opacity:1;fill:#000080;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1295"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1293"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000080;stroke-width:1pt;stroke-opacity:1;fill:#000080;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path944"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000080;stroke-opacity:1;fill:#000080;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path926"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path938"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000080;stroke-width:1pt;stroke-opacity:1;fill:#000080;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path932-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#800080;fill-opacity:1;fill-rule:evenodd;stroke:#800080;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="494.6898"
+     inkscape:cy="404.3673"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1262">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.1218696"
+       y="84.59211"
+       id="text1816-3"
+       transform="scale(0.73883836,1.353476)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan1814-8"
+         x="3.1218696"
+         y="84.59211"
+         style="stroke-width:0.26458332">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.1218696"
+         y="88.653267"
+         style="stroke-width:0.26458332"
+         id="tspan1874-7">&lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000"
+   id="tspan2901">TEI </tspan>xmlns=&quot;http://www.tei-c.org/ns/1.0&quot; xmlns:txm=&quot;http://textometrie.org/1.0&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="3.1218696"
+         y="92.714424"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.5870137"
+       y="194.41516"
+       id="text1816-7"
+       transform="scale(0.73883836,1.353476)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="4.5870137"
+         y="194.41516"
+         style="stroke-width:0.26458332"
+         id="tspan1874-8">&lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000"
+   id="tspan2903">/TEI</tspan>&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="4.5870137"
+         y="198.47632"
+         style="stroke-width:0.26458332"
+         id="tspan1824-16" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="17.957747"
+       y="93.109642"
+       id="text1816-2"
+       transform="scale(0.73883836,1.353476)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="93.109642"
+         style="stroke-width:0.26458332"
+         id="tspan1820-7">&lt;teiHeader xml:lang=&quot;fr&quot; xmlns=&quot;http://www.tei-c.org/ns/1.0&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="97.170799"
+         style="stroke-width:0.26458332"
+         id="tspan1876-9">&lt;fileDesc&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="101.23196"
+         style="stroke-width:0.26458332"
+         id="tspan3291">&lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#808000"
+   id="tspan3307">titleStmt</tspan>&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="105.29311"
+         style="stroke-width:0.26458332"
+         id="tspan3295">                &lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#808000"
+   id="tspan3319">title</tspan> type=&quot;main&quot;&gt;Pauline&lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#808000"
+   id="tspan3325">/title</tspan>&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="109.35426"
+         style="stroke-width:0.26458332"
+         id="tspan3303">                ...</tspan><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="113.41542"
+         style="stroke-width:0.26458332"
+         id="tspan3305"> &lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#808000"
+   id="tspan3315">/titleStmt</tspan>&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="117.47658"
+         style="stroke-width:0.26458332"
+         id="tspan1826-1">....</tspan><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="121.53773"
+         style="stroke-width:0.26458332"
+         id="tspan3289">&lt;/fileDesc&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="125.59888"
+         style="stroke-width:0.26458332"
+         id="tspan1828-8">&lt;/teiHeader&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="129.66003"
+         style="stroke-width:0.26458332"
+         id="tspan1874-5" /><tspan
+         sodipodi:role="line"
+         x="17.957747"
+         y="133.72119"
+         style="stroke-width:0.26458332"
+         id="tspan1824-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="142.35382"
+       y="104.77637"
+       id="text1816-3-0"
+       transform="scale(0.73883837,1.353476)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="142.35382"
+         y="104.77637"
+         style="stroke-width:0.26458332"
+         id="tspan1874-7-3">Appel de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan3373"><tspan
+   style="fill:#808000"
+   id="tspan1048">root.find(&quot;.//tei:titleStmt/tei:title</tspan>&quot;</tspan> de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan889">get_doc_title(</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         x="142.35382"
+         y="108.83753"
+         style="stroke-width:0.26458332"
+         id="tspan3375" /><tspan
+         sodipodi:role="line"
+         x="142.35382"
+         y="112.89869"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-2" /></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 4.1901633,122.13364 C 4.7571275,261.41786 4.7571275,261.41786 4.7571275,261.41786"
+       id="path3377"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="opacity:0.98000004;fill:#ff0000;fill-opacity:1;stroke:#491e9c;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3379"
+       width="0.85044652"
+       height="136.20209"
+       x="4.1901631"
+       y="122.13364"
+       rx="1.0000006"
+       ry="1.0000006"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="opacity:0.98000004;fill:#808000;fill-opacity:0.16972477;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3381"
+       width="64.251823"
+       height="22.285818"
+       x="11.946546"
+       y="132.88649"
+       rx="1.0000006"
+       ry="1.0000006"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="12.169098"
+       y="131.86981"
+       id="text1816-1"
+       transform="scale(0.73883836,1.353476)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="131.86981"
+         style="stroke-width:0.26458332"
+         id="tspan1830-5">&lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000080"
+   id="tspan1003">text</tspan> id=&quot;TOTO&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="135.93097"
+         style="stroke-width:0.26458332"
+         id="tspan1832-9">  ...</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="139.99213"
+         style="stroke-width:0.26458332"
+         id="tspan1834-0">    &lt;lb n=&quot;n°&quot;&gt;&lt;/lb&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="144.05328"
+         style="stroke-width:0.26458332"
+         id="tspan1836-2">    ...</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="148.11444"
+         style="stroke-width:0.26458332"
+         id="tspan1838-6">    &lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000080"
+   id="tspan1007">s n=id</tspan>&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="152.17558"
+         style="stroke-width:0.26458332"
+         id="tspan1840-7">          ...</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="156.23674"
+         style="stroke-width:0.26458332"
+         id="tspan1842-6">         &lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080"
+   id="tspan1117">w</tspan> id=&quot;w_TOTO_nbw&quot; n=&quot;nbw&quot;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="160.2979"
+         style="stroke-width:0.26458332"
+         id="tspan1844-4">             &lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080"
+   id="tspan1125">txm:form</tspan>&gt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1143">text</tspan>&lt;/txm:form&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="164.35905"
+         style="stroke-width:0.26458332"
+         id="tspan1846-5">             &lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080"
+   id="tspan1129">txm:ana type=&quot;#frpos&quot;</tspan> resp=&quot;#txm&quot;&gt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1145">NAM</tspan>&lt;/txm:ana&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="168.42021"
+         style="stroke-width:0.26458332"
+         id="tspan1848-7">             &lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080"
+   id="tspan1139">txm:ana type=&quot;#frlemma&quot;</tspan> resp=&quot;#txm&quot;&gt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan1147">lemma</tspan>&lt;/txm:ana&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="172.48137"
+         style="stroke-width:0.26458332"
+         id="tspan1850-6">         &lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080"
+   id="tspan1121">/w</tspan>&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="176.54253"
+         style="stroke-width:0.26458332"
+         id="tspan1050">          ...</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="180.60368"
+         style="stroke-width:0.26458332"
+         id="tspan1852-4">    &lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000080"
+   id="tspan1153">/s</tspan>&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="184.66484"
+         style="stroke-width:0.26458332"
+         id="tspan1872-9">  ...</tspan><tspan
+         sodipodi:role="line"
+         x="12.169098"
+         y="188.726"
+         style="stroke-width:0.26458332"
+         id="tspan1824-17">&lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000080"
+   id="tspan1157">/text</tspan>&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="143.57193"
+       y="134.58455"
+       id="text1816-3-0-7"
+       transform="scale(0.73883837,1.353476)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="143.57193"
+         y="134.58455"
+         style="stroke-width:0.26458332"
+         id="tspan1038">Appel de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000080"
+   id="tspan1044">xmlroot.findall(&quot;.//tei:text//tei:s&quot;</tspan>, namespaces=nsd)</tspan><tspan
+         sodipodi:role="line"
+         x="143.57193"
+         y="138.64571"
+         style="stroke-width:0.26458332"
+         id="tspan3375-3">de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan887">get_sentences() </tspan>-&gt; création des objets Sentence</tspan><tspan
+         sodipodi:role="line"
+         x="143.57193"
+         y="142.70686"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-2-4" /></text>
+    <rect
+       style="opacity:0.98000004;fill:#000080;fill-opacity:1;stroke:#491e9c;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3379-5"
+       width="0.85044652"
+       height="40.252323"
+       x="13.205523"
+       y="200.03384"
+       rx="1.0000006"
+       ry="1.0000006"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="opacity:0.98000004;fill:#800080;fill-opacity:1;stroke:#491e9c;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3379-5-6"
+       width="0.85044652"
+       height="17.534412"
+       x="18.016375"
+       y="212.72914"
+       rx="1.0000006"
+       ry="1.0000006"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24892449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="148.74107"
+       y="162.76674"
+       id="text1816-3-0-7-7"
+       transform="scale(0.73883837,1.353476)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="148.74107"
+         y="162.76674"
+         style="stroke-width:0.26458332"
+         id="tspan3375-3-2">Appels de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#800080"
+   id="tspan1199">child.find(...)</tspan> dans <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan885">get_sentences_content()</tspan> -&gt; création des objets Word</tspan><tspan
+         sodipodi:role="line"
+         x="148.74107"
+         y="166.8279"
+         style="stroke-width:0.26458332"
+         id="tspan1824-1-2-4-5" /></text>
+    <rect
+       style="opacity:0.98000004;fill:#000080;fill-opacity:0.08050848;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3381-8"
+       width="91.246048"
+       height="51.952736"
+       x="9.8354053"
+       y="195.25272"
+       rx="1.0000006"
+       ry="1.0000006"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="opacity:0.98000004;fill:#800080;fill-opacity:0.19915257;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="rect3381-8-4"
+       width="91.246048"
+       height="37.252911"
+       x="14.055969"
+       y="203.03325"
+       rx="1.0000006"
+       ry="1.0000006"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000080;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 103.4333,181.80683 c -14.165278,3.20723 -16.303434,13.63075 -16.303434,13.63075"
+       id="path921"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#800080;stroke-width:0.56500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)"
+       d="m 124.9615,221.58326 c -11.04373,9.20207 -18.48562,5.67669 -18.48562,5.67669"
+       id="path921-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66667604px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="102.97651"
+       y="80.494995"
+       id="text817-8-9-0-7-8-7-76"
+       transform="scale(0.85069871,1.1755043)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         x="102.97651"
+         y="80.494995"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan819-9-4-3-1-5-3-1">Dépôt : https://github.com/lattice-8094/fr-litbank</tspan><tspan
+         sodipodi:role="line"
+         x="102.97651"
+         y="89.314438"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4812">Lectures fichier xml</tspan></text>
+  </g>
+</svg>

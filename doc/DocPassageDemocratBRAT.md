@@ -4,88 +4,13 @@
 
 Les formats annotés récupérés par l'export dans le logiciel TXM sont de la forme :
 
-### TOTO.xml
+### Pour les fichiers.xml
 
-```
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0">
-  <teiHeader xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
-  ....
-  </teiHeader>
-  <text id="TOTO">
-  ...
-    <lb n="n°"></lb>
-    ...
-    <s n="n°">
-    ...
-      <w id="w_TOTO_nbw" n="nbw">
-        <txm:form>text</txm:form>
-        <txm:ana type="#frpos" resp="#txm">NAM</txm:ana>
-        <txm:ana type="#frlemma" resp="#txm">lemma</txm:ana>
-      </w>
-    </s>
-  ...
-  <s n="n°">
-  ...
-    <w id="w_TOTO_nbw" n="nbw">
-      <txm:form>text</txm:form>
-      <txm:ana type="#frpos" resp="#txm">NAM</txm:ana>
-      <txm:ana type="#frlemma" resp="#txm">lemma</txm:ana>
-    </w>
-  </s>
-...
-</text></TEI>
-```
-
-<?xml version="1.0" encoding="UTF-8"?>
+ ![](C:\Users\Laurette%20Chardon\Documents\CloudUnicaen-pause\Espace%20Personnel\Documents\CRISCO-PC\LATTICE-cooperation\gitLatticeTempo\Lattice_fr-litbank_xml.png)
 
 ## TOTO-URS.XML
 
-```
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-  ...
-  </teiHeader>
-  ...
-  <standOff>
-  ...
-    <annotations type="coreference">
-      <annotationGrp type="Unit" subtype="MENTION">
-      ...
-        <span id="u-MENTION-nbmention" from="text:w_TOTO_nbw" to="text:w_TOTO_nbw" ana="#u-MENTION-1-fs"></span>
-      ...
-      </annotationGrp>
-
-      <annotationGrp type="Schema" subtype="CHAINE">
-      ...
-        <link id="s-CHAINE-nbchaine" target="#u-MENTION-nbmention
-         #u-MENTION-nbmention #u-MENTION-nbmention" ana="#s-CHAINE-nbchaine-fs"></link>
-
-        ...
-      </annotationGrp>
-      <div type="unit-fs">
-        <fs id="u-MENTION-nbmention-fs">
-          <f name="REF"><string>le narrateur</string></f>
-        </fs>
-      ...
-
-      </div>
-      <div type="relation-fs"></div>
-      <div type="schema-fs"></div>
-        ...
-        <fs id="s-CHAINE-nbchaine-fs">
-          <f name="REF"><string>texteREF</string></f>
-          <f name="NB MAILLONS"><string>nbmaillons</string></f>
-          <f name="TYPE REFERENT"><string>[]PER,FAC,VEH...]</string></f>
-        </fs>
-        ...
-      </div>
-    </annotations>
-  </standOff>
-</tei:TEI>
-```
-
-<?xml version="1.0" encoding="UTF-8"?>
+![](C:\Users\Laurette%20Chardon\Documents\CloudUnicaen-pause\Espace%20Personnel\Documents\CRISCO-PC\LATTICE-cooperation\gitLatticeTempo\Lattice_fr-litbank_urs_xml.png)
 
 ## Formats d'arrivée (Brat)
 
@@ -122,8 +47,6 @@ Pour recréer le fichier texte à partir du fichier toto.xml de départ, il faud
 [Bibliothèque XSLT](https://txm.gitpages.huma-num.fr/textometrie/files/library/xsl/#feuilles-de-style-de-base-pour-filtrer-les-sources-xml)
 
 [tei.xsl ](https://forge.cbp.ens-lyon.fr/redmine/projects/txm/repository/entry/tmp/org.txm.core/res/org/txm/xml/xsl/tei/xhtml2/tei.xsl)
-
-
 
 ### Réflexions et tests
 
