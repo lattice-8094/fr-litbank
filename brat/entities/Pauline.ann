@@ -2,807 +2,772 @@ T1	TIME 175 184	trois ans
 T2	GPE 198 209	Saint-Front
 T3	LOC 255 268	nos environs 
 T4	PER 340 347	Cassini
-T5	EVENT 349 362	une aventure 
-T6	TIME 527 543	une nuit sombre 
-T7	VEH 1942 1952	la berline
-T8	VEH 8486 8497	sa voiture 
-T9	VEH 568 588	Une chaise de poste 
-T10	VEH 1073 1084	la patache 
-T11	FAC 599 636	la cour de l'auberge du Lion-Couronné
-T12	FAC 4456 4466	l'auberge 
-T13	FAC 610 636	l'auberge du Lion-Couronné
-T14	FAC 8767 8793	l'auberge du Lion-Couronné
-T15	FAC 8803 8824	l'antique hôtellerie 
-T16	FAC 6339 6361	hôtel du Lion-Couronné
-T17	FAC 12635 12645	l'auberge 
-T18	ORG 620 636	du Lion-Couronné
-T19	PER 650 656	femme 
-T20	VEH 664 675	des chevaux
-T21	VEH 792 799	chevaux
-T22	PER 7053 7062	Baptiste 
-T23	PER 692 705	Le postillon 
-T24	PER 1252 1280	le postillon à demi débotté 
-T25	PER 6840 6852	au postillon
-T26	EVENT 808 819	l'épidémie 
-T27	FAC 867 913	certains relais sur les routes peu fréquentées
-T28	FAC 887 913	les routes peu fréquentées
-T29	TIME 943 963	la semaine dernière 
-T30	TIME 998 1005	la nuit
-T31	VEH 1039 1050	l'attelage 
-T32	PER 1144 1178	le laquais empaqueté de fourrures 
-T33	TIME 1232 1241	une heure
-T34	TIME 4420 4428	l'heure 
-T35	PER 1340 1354	Le domestique 
-T36	PER 1361 1397	une jeune et jolie femme de chambre 
-T37	PER 54941 54950	Laurence 
-T38	PER 57099 57108	Laurence 
-T39	PER 13644 13657	La voyageuse 
-T40	PER 13546 13558	l'étrangère 
-T41	PER 59045 59054	Laurence 
-T42	PER 56841 56846	Elle 
-T43	PER 18490 18505	Chère Laurence 
-T44	PER 16332 16345	la voyageuse 
-T45	PER 55075 55084	Laurence 
-T46	PER 18569 18578	Laurence 
-T47	PER 17441 17450	Laurence 
-T48	PER 17357 17366	Laurence 
-T49	PER 55434 55439	Elle 
-T50	PER 17678 17687	Laurence 
-T51	PER 34559 34567	son amie
-T52	PER 34603 34612	Laurence 
-T53	PER 17545 17553	Laurence
-T54	PER 15535 15548	la voyageuse 
-T55	PER 35133 35149	ma pauvre enfant
-T56	PER 34911 34919	Laurence
-T57	PER 32476 32484	Laurence
-T58	PER 40691 40722	la belle actrice de la capitale
-T59	PER 45407 45414	son gré
-T60	PER 45366 45375	Laurence 
-T61	PER 42796 42805	Laurence 
-T62	PER 57612 57621	Laurence 
-T63	PER 36196 36206	mon enfant
-T64	PER 42770 42778	Laurence
-T65	PER 45192 45200	Laurence
-T66	PER 23007 23016	Laurence 
-T67	PER 58185 58193	Laurence
-T68	PER 19651 19659	Laurence
-T69	PER 21607 21615	Laurence
-T70	PER 55932 55940	Laurence
-T71	PER 57915 57923	Laurence
-T72	PER 43272 43300	cette petite sous-maîtresse 
-T73	PER 55646 55655	Laurence 
-T74	PER 40747 40756	Laurence 
-T75	PER 41360 41368	Laurence
-T76	PER 37266 37278	de Laurence 
-T77	PER 58305 58314	Laurence 
-T78	PER 54112 54121	Laurence 
-T79	PER 19776 19785	Laurence 
-T80	PER 1557 1569	la personne 
-T81	PER 56738 56746	Laurence
-T82	PER 56754 56763	Laurence 
-T83	PER 1766 1841	une jeune femme d'une beauté vive et saisissante, mais pâlie par la fatigue
-T84	PER 58608 58617	Laurence 
-T85	PER 54386 54394	Laurence
-T86	PER 58724 58733	Laurence 
-T87	PER 56504 56513	Laurence 
-T88	PER 6056 6062	Madame
-T89	PER 46040 46049	Laurence 
-T90	PER 23924 23933	Laurence 
-T91	PER 25851 25860	l'actrice
-T92	PER 48186 48194	son amie
-T93	PER 27850 27858	Laurence
-T94	PER 23514 23523	Laurence 
-T95	PER 27707 27732	mademoiselle … ou madame 
-T96	PER 25712 25721	Laurence 
-T97	PER 32256 32265	son amie 
-T98	PER 6073 6084	la servante
-T99	PER 27804 27814	l'actrice 
-T100	PER 50524 50533	Laurence 
-T101	PER 26440 26448	Laurence
-T102	PER 44016 44024	Laurence
-T103	PER 43913 43917	Lui 
-T104	PER 30303 30311	Laurence
-T105	PER 28121 28130	Laurence 
-T106	PER 26176 26184	Laurence
-T107	PER 43889 43893	Lui 
-T108	PER 48400 48409	Laurence 
-T109	PER 48861 48870	Laurence 
-T110	PER 5153 5165	la voyageuse
-T111	PER 26848 26857	Laurence 
-T112	PER 44458 44467	son amie 
-T113	PER 2867 2880	La voyageuse 
-T114	PER 41995 42008	la comédienne
-T115	PER 28381 28391	cette dame
-T116	PER 50665 50674	Laurence 
-T117	PER 28409 28418	son amie 
-T118	PER 26556 26565	Laurence 
-T119	PER 20336 20344	Laurence
-T120	PER 50640 50658	l'amie de Pauline 
-T121	PER 42542 42551	l'actrice
-T122	PER 19004 19013	Laurence 
-T123	PER 3254 3266	la voyageuse
-T124	PER 22792 22801	Laurence 
-T125	PER 20979 20988	Laurence 
-T126	PER 26962 26980	cette malheureuse 
-T127	PER 24715 24723	Laurence
-T128	PER 20752 20761	Laurence 
-T129	PER 46924 46932	Laurence
-T130	PER 40133 40142	Laurence 
-T131	PER 7736 7742	madame
-T132	PER 42228 42237	Laurence 
-T133	PER 6678 6684	madame
-T134	PER 4256 4271	la jeune femme 
-T135	PER 35482 35491	Laurence 
-T136	PER 52645 52654	Laurence 
-T137	PER 52528 52537	Laurence 
-T138	PER 30562 30571	Laurence 
-T139	PER 2244 2256	la voyageuse
-T140	PER 33654 33663	Laurence 
-T141	PER 9465 9477	la voyageuse
-T142	PER 12030 12042	la voyageuse
-T143	PER 34144 34153	Laurence 
-T144	PER 53376 53385	Laurence 
-T145	PER 33998 34007	Laurence 
-T146	PER 49297 49307	l'actrice 
-T147	PER 27228 27237	Laurence 
-T148	PER 31573 31581	Laurence
-T149	PER 16819 16837	son ancienne amie 
-T150	PER 14678 14690	l'étrangère 
-T151	PER 33816 33825	l'actrice
-T152	PER 35939 35942	Tu 
-T153	PER 49194 49203	Laurence 
-T154	PER 6289 6296	madame 
-T155	PER 8312 8327	notre voyageuse
-T156	PER 32057 32066	l'actrice
-T157	PER 8456 8468	l'étrangère 
-T158	PER 6386 6399	la voyageuse 
-T159	PER 49789 49798	l'actrice
-T160	PER 47800 47817	mademoiselle S … 
-T161	PER 6500 6514	la jeune femme
-T162	PER 10574 10587	la voyageuse 
-T163	PER 34266 34275	Laurence 
-T164	PER 29540 29549	Laurence 
-T165	PER 49688 49697	Laurence 
-T166	PER 51602 51611	Laurence 
-T167	PER 1584 1600	ces deux laquais
-T168	PER 1893 1904	ses valets 
-T169	FAC 1714 1725	la cuisine 
-T170	FAC 4634 4642	la pièce
-T171	FAC 4442 4466	La cuisine de l'auberge 
-T172	EVENT 1855 1876	l'offre d'une chambre
-T173	FAC 1865 1876	une chambre
-T174	PER 2033 2052	du voyageur résigné
-T175	PER 5594 5606	la servante 
-T176	PER 7628 7646	la fille d'auberge
-T177	PER 8018 8030	La servante 
-T178	PER 6437 6460	La servante épouvantée 
-T179	PER 6741 6752	la servante
-T180	PER 7587 7595	ma chère
-T181	PER 5808 5827	la servante ébahie 
-T182	PER 8193 8207	la jeune dame 
-T183	PER 2054 2065	La servante
-T184	PER 7753 7762	la fille 
-T185	TIME 2086 2103	son quart de nuit
-T186	GPE 9605 9624	cette triste ville 
-T187	GPE 7237 7249	Saint-Front 
-T188	GPE 12967 12975	la ville
-T189	GPE 38858 38869	Saint-Front
-T190	GPE 3268 3327	une ville aux rues anguleuses et sombres, au pavé raboteux 
-T191	GPE 36546 36562	la petite ville 
-T192	GPE 12530 12539	la ville 
-T193	GPE 3230 3246	une triste ville
-T194	GPE 23269 23280	Saint-Front
-T195	GPE 38961 38969	la ville
-T196	GPE 6205 6217	cette ville 
-T197	GPE 7669 7681	cette ville 
-T198	GPE 45353 45364	Saint-Front
-T199	GPE 8437 8445	la ville
-T200	GPE 6310 6321	Saint-Front
-T201	GPE 44516 44525	la ville 
-T202	GPE 36422 36433	Saint-Front
-T203	FAC 3278 3308	aux rues anguleuses et sombres
-T204	LOC 3329 3354	une ville laide et pauvre
-T205	LOC 3641 3659	cette pauvre ville
-T206	VEH 3432 3442	ma voiture
-T207	PER 3557 3571	Chaque piéton 
-T208	TIME 3601 3622	l'heure du couvre-feu
-T209	EVENT 14251 14550	Le carreau de briques rougeâtres bien lavées, les boiseries brunes soigneusement dégagées de poussière, la glace dont le cadre avait été doré jadis, les meubles massifs brodés au petit point par quelque aïeule de la famille, et deux ou trois tableaux de dévotion légués par l'oncle, curé de la ville
-T210	EVENT 22042 22059	ce monde inconnu 
-T211	EVENT 3609 3622	du couvre-feu
-T212	EVENT 36455 36460	dame 
-T213	TIME 3686 3721	des années de jeunesse et de force 
-T214	FAC 4614 4642	tout l'intérieur de la pièce
-T215	LOC 4876 4884	le lieu 
-T216	EVENT 4918 4964	l'éboulement d'une petite avalanche de cendre 
-T217	TIME 10037 10065	la date de notre séparation 
-T218	TIME 6031 6042	cette date 
-T219	TIME 5965 5980	10 février 182 
-T220	TIME 5952 5963	cette date 
-T221	GPE 6232 6240	Villiers
-T222	FAC 36435 36449	route de Paris
-T223	FAC 6323 6337	route de Paris
-T224	GPE 6332 6337	Paris
-T225	GPE 7022 7026	Lyon
-T226	GPE 55992 55996	Lyon
-T227	GPE 6780 6785	Lyon 
-T228	GPE 34702 34706	Lyon
-T229	GPE 34257 34261	Lyon
-T230	GPE 23028 23034	Paris 
-T231	GPE 46569 46574	Paris
-T232	GPE 7207 7213	Paris 
-T233	GPE 40711 40722	la capitale
-T234	GPE 43722 43728	Paris 
-T235	GPE 6969 6974	Paris
-T236	GPE 23205 23211	Paris 
-T237	GPE 6908 6913	Paris
-T238	GPE 25429 25435	Paris 
-T239	GPE 46642 46653	la capitale
-T240	GPE 34047 34053	Paris 
-T241	GPE 23593 23598	Paris
-T242	TIME 7218 7230	ce temps-ci 
-T243	TIME 6920 6931	ce temps-ci
-T244	VEH 6933 6962	toutes les voitures de poste 
-T245	VEH 7128 7139	son cheval 
-T246	TIME 7139 7157	la moitié du temps
-T247	FAC 7195 7213	la route de Paris 
-T248	LOC 7312 7322	aux lieux 
-T249	TIME 7424 7435	deux heures
-T250	PER 13631 13636	Elle 
-T251	PER 9823 9837	ma pauvre amie
-T252	PER 13995 14002	Pauline
-T253	PER 16454 16462	Pauline 
-T254	PER 18603 18612	son amie 
-T255	PER 17375 17383	Pauline 
-T256	PER 55422 55429	Pauline
-T257	PER 17588 17595	Pauline
-T258	PER 34485 34492	Pauline
-T259	PER 13046 13054	Pauline 
-T260	PER 15490 15497	Pauline
-T261	PER 15684 15692	Pauline 
-T262	PER 15632 15640	Pauline 
-T263	PER 40618 40626	Pauline 
-T264	PER 21331 21340	son amie 
-T265	PER 55592 55600	Pauline 
-T266	PER 59739 59747	Pauline 
-T267	PER 25297 25305	sa fille
-T268	PER 57651 57659	Pauline 
-T269	PER 19169 19176	Pauline
-T270	PER 21219 21227	Pauline 
-T271	PER 57449 57460	mon enfant 
-T272	PER 57412 57420	Pauline 
-T273	PER 19100 19108	Pauline 
-T274	PER 19681 19688	Pauline
-T275	PER 58056 58064	Pauline 
-T276	PER 43091 43099	Pauline 
-T277	PER 23428 23451	l'aînée de ses élèves, 
-T278	PER 17274 17282	Pauline 
-T279	PER 17118 17126	Pauline 
-T280	PER 54258 54266	Pauline 
-T281	PER 19857 19864	Pauline
-T282	PER 58250 58258	Pauline 
-T283	PER 41264 41272	Pauline 
-T284	PER 58351 58359	Pauline 
-T285	PER 19975 19983	Pauline 
-T286	PER 58631 58639	Pauline 
-T287	PER 54463 54471	Pauline 
-T288	PER 56586 56606	la jeune provinciale
-T289	PER 56405 56412	Pauline
-T290	PER 28082 28091	sa fille 
-T291	PER 45925 45932	Pauline
-T292	PER 27988 27996	ma fille
-T293	PER 52128 52136	Pauline 
-T294	PER 48128 48135	Pauline
-T295	PER 50046 50055	son amie 
-T296	PER 27877 27894	la bonne Pauline 
-T297	PER 32194 32202	La fille
-T298	PER 29797 29805	Pauline 
-T299	PER 25685 25693	Pauline 
-T300	PER 50023 50033	ma Pauline
-T301	PER 50465 50473	Pauline 
-T302	PER 30468 30476	Pauline 
-T303	PER 28149 28157	Pauline 
-T304	PER 24597 24605	Pauline 
-T305	PER 20630 20637	Pauline
-T306	PER 40069 40076	Pauline
-T307	PER 24561 24568	Pauline
-T308	PER 48925 48933	Pauline 
-T309	PER 44333 44341	Pauline 
-T310	PER 26775 26783	Pauline 
-T311	PER 20449 20458	son amie 
-T312	PER 50650 50658	Pauline 
-T313	PER 28394 28402	Pauline 
-T314	PER 26571 26578	Pauline
-T315	PER 7681 7704	mademoiselle Pauline D 
-T316	PER 22865 22873	Pauline 
-T317	PER 21031 21039	Pauline 
-T318	PER 59324 59332	Pauline 
-T319	PER 27064 27071	Pauline
-T320	PER 24684 24692	Pauline 
-T321	PER 18711 18719	Pauline 
-T322	PER 10803 10811	Pauline 
-T323	PER 33194 33201	Pauline
-T324	PER 50777 50786	son amie 
-T325	PER 30530 30541	ses mérites
-T326	PER 51187 51194	Pauline
-T327	PER 53087 53095	Pauline 
-T328	PER 50987 50995	Pauline 
-T329	PER 52948 52955	Pauline
-T330	PER 30952 30959	Pauline
-T331	PER 10067 10082	Pauvre Pauline 
-T332	PER 31444 31452	Pauline 
-T333	PER 51450 51466	la jeune recluse
-T334	PER 49400 49408	Pauline 
-T335	PER 27312 27320	Pauline 
-T336	PER 12314 12321	Pauline
-T337	PER 35917 35925	Pauline 
-T338	PER 28950 28958	sa fille
-T339	PER 27096 27104	Pauline 
-T340	PER 53758 53774	ma chère enfant 
-T341	PER 29717 29725	sa fille
-T342	PER 8361 8384	mademoiselle Pauline D 
-T343	PER 51674 51682	Pauline 
-T344	PER 25578 25585	Pauline
-T345	PER 27478 27486	sa fille
-T346	PER 49632 49640	Pauline 
-T347	LOC 7780 7788	ce pays 
-T348	TIME 7799 7809	huit jours
-T349	PER 7837 7855	une autre servante
-T350	PER 8042 8063	toutes les servantes 
-T351	PER 8085 8104	le garçon d'écurie 
-T352	PER 8085 8122	le garçon d'écurie et les postillons 
-T353	PER 8107 8122	les postillons 
-T354	VEH 8152 8165	leurs chevaux
-T355	PER 8235 8242	le chef
-T356	TIME 8254 8280	un quart d'heure d'attente
-T357	FAC 8502 8512	la remise 
-T358	FAC 8534 8545	une chambre
-T359	TIME 8580 8587	le jour
-T360	TIME 8866 8873	dix ans
-T361	PER 9023 9036	les bergères 
-T362	PER 9088 9112	les bergers en lambeaux 
-T363	PER 9209 9228	de guerrier romain 
-T364	PER 9253 9277	la fille de l'aubergiste
-T365	PER 9265 9277	l'aubergiste
-T366	PER 9386 9392	Jésus 
-T367	FAC 9394 9403	la crèche
-T368	TIME 9491 9507	plusieurs jours 
-T369	FAC 9507 9525	cette même chambre
-T370	TIME 9534 9543	douze ans
-T371	PER 9578 9592	ma bonne mère 
-T372	TIME 9741 9800	Quelle nuit de douleur et d'espoir, de regret et d'attente 
-T373	TIME 9717 9739	la nuit de mon départ 
-T374	EVENT 9728 9739	mon départ 
-T375	PER 49550 49565	les deux amies 
-T376	EVENT 10048 10065	notre séparation 
-T377	TIME 10124 10136	ce temps-là 
-T378	PER 10152 10182	une vieille fille de province 
-T379	LOC 10173 10182	province 
-T380	TIME 10406 10425	un jour de bonheur 
-T381	TIME 11241 11250	du passé 
-T382	TIME 11332 11355	le matin gris et froid 
-T383	FAC 11382 11403	des maisons déjetées 
-T384	FAC 11438 11447	les unes 
-T385	FAC 11473 11484	le clocher 
-T386	TIME 11502 11536	ses heures de repos ou de rêverie 
-T387	PER 11558 11572	les bourgeois 
-T388	FAC 11707 11713	la rue
-T389	PER 11739 11751	du forgeron 
-T390	FAC 11776 11797	une maison décrépite 
-T391	LOC 11816 11826	au marché 
-T392	PER 11826 11839	les fermiers 
-T393	TIME 11940 11958	aux jours du passé
-T394	TIME 11950 11958	du passé
-T395	TIME 23306 23317	quatre ans 
-T396	TIME 12142 12161	quatre ans entiers 
-T397	PER 12210 12221	ces gens-là
-T398	FAC 12286 12309	ces rues impraticables 
-T399	TIME 12549 12560	sept heures
-T400	PER 12746 12773	les laquais de bonne maison
-T401	FAC 12795 12819	une des rues tortueuses 
-T402	FAC 12799 12819	des rues tortueuses 
-T403	PER 12896 12910	une Parisienne
-T404	PER 12945 12975	tous les bourgeois de la ville
-T405	PER 12986 13006	une figure nouvelle 
-T406	EVENT 13012 13030	un grave événement
-T407	FAC 37155 37168	cette maison 
-T408	FAC 13780 13793	Cette maison 
-T409	FAC 37070 37094	la maison des dames D … 
-T410	FAC 13033 13054	La maison de Pauline 
-T411	TIME 13140 13149	l'époque 
-T412	PER 13474 13523	la vieille servante non moins laide et rechignée 
-T413	TIME 13807 13841	les plus fraîches années de sa vie
-T414	EVENT 13843 13875	les pures scènes de sa jeunesse 
-T415	TIME 13863 13875	sa jeunesse 
-T416	TIME 13911 13921	son passé 
-T417	TIME 13932 13954	son existence présente
-T418	FAC 14193 14208	la grande pièce
-T419	PER 14222 14249	les hôtes du titre de salon
-T420	PER 14446 14474	quelque aïeule de la famille
-T421	PER 14464 14474	la famille
-T422	PER 14525 14532	l'oncle
-T423	LOC 14583 14597	la même place 
-T424	TIME 14644 14651	dix ans
-T425	TIME 14701 14713	des siècles 
-T426	FAC 14772 14780	La salle
-T427	FAC 15292 15310	cette vaste pièce 
-T428	PER 14980 14990	Rembrandt 
-T429	PER 15058 15069	philosophe 
-T430	PER 15074 15085	alchimiste 
-T431	PER 16243 16271	la grande moitié des femmes 
-T432	PER 16260 16271	des femmes 
-T433	GPE 16286 16292	France
-T434	TIME 16799 16817	le premier instant
-T435	PER 17699 17713	les personnes 
-T436	PER 59685 59693	sa mère 
-T437	PER 23242 23249	sa mère
-T438	PER 19362 19369	ma mère
-T439	PER 33183 33201	La mère de Pauline
-T440	PER 40604 40615	madame D … 
-T441	PER 45937 45945	sa mère 
-T442	PER 28002 28012	l'aveugle 
-T443	PER 21155 21165	L'aveugle 
-T444	PER 25231 25247	la mère aveugle 
-T445	PER 25800 25810	l'aveugle 
-T446	PER 32902 32911	l'aveugle
-T447	PER 25672 25679	Devinez
-T448	PER 25743 25750	sa mère
-T449	PER 29868 29876	sa mère 
-T450	PER 19576 19589	pauvre femme 
-T451	PER 28335 28356	mon chocolat de santé
-T452	PER 33745 33762	La vieille femme 
-T453	PER 31115 31123	la mère 
-T454	PER 28904 28914	L'aveugle 
-T455	PER 26328 26337	l'aveugle
-T456	PER 35826 35846	ma bonne madame D … 
-T457	PER 22145 22153	ma mère 
-T458	PER 40849 40859	l'aveugle 
-T459	PER 28232 28236	moi 
-T460	PER 21382 21390	ma mère 
-T461	PER 26815 26824	l'aveugle
-T462	PER 40017 40029	La mère D … 
-T463	PER 34766 34775	L'aveugle
-T464	PER 46691 46701	l'aveugle 
-T465	PER 29160 29170	l'aveugle 
-T466	PER 41227 41237	l'aveugle 
-T467	PER 28484 28499	la vieille dame
-T468	PER 34453 34463	l'aveugle 
-T469	PER 35991 36000	l'aveugle
-T470	PER 41860 41871	madame D … 
-T471	PER 27157 27165	sa mère 
-T472	PER 21053 21060	sa mère
-T473	PER 47128 47143	mes infirmités 
-T474	PER 25638 25648	l'aveugle 
-T475	PER 38264 38279	la vieille D … 
-T476	PER 27078 27086	ma mère 
-T477	PER 49819 49830	madame D … 
-T478	PER 29684 29692	la mère 
-T479	PER 25562 25567	maman
-T480	PER 20190 20198	ma mère 
-T481	PER 17901 17909	Ma mère 
-T482	PER 49735 49751	la vieille femme
-T483	PER 24663 24673	l'aveugle 
-T484	PER 20801 20826	la vieille femme aveugle 
-T485	PER 27423 27432	l'aveugle
-T486	PER 18060 18074	les personnes 
-T487	TIME 18112 18137	au milieu de mes rêveries
-T488	EVENT 18325 18338	l'apparition 
-T489	TIME 18651 18668	plusieurs années 
-T490	PER 19253 19285	toutes les personnes que je vois
-T491	TIME 20166 20175	cinq ans 
-T492	TIME 20177 20183	un an 
-T493	FAC 20731 20749	la chambre voisine
-T494	FAC 46793 46841	son salon froid et abandonné depuis si longtemps
-T495	FAC 21345 21353	le salon
-T496	FAC 45854 45863	du salon 
-T497	FAC 43073 43099	le vieux salon de Pauline 
-T498	FAC 41612 41620	au salon
-T499	PER 21358 21365	Causons
-T500	TIME 21429 21445	quelques heures 
-T501	METALEPSE 22763 22774	Le lecteur 
-T502	TIME 23123 23134	quinze ans 
-T503	TIME 23468 23479	quinze ans 
-T504	PER 23143 23154	sa famille 
-T505	LOC 23228 23237	province 
-T506	FAC 23351 23381	un pensionnat de jeunes filles
-T507	PER 23368 23381	jeunes filles
-T508	PER 23625 23649	des filles d'un banquier
-T509	PER 23638 23649	un banquier
-T510	PER 23682 23698	une jeune fille 
-T511	PER 23853 23883	mademoiselle Hippolyte Clairon
-T512	TIME 23904 23921	du siècle dernier
-T513	PER 23943 23973	tous ces artistes prédestinés 
-T514	PER 24134 24144	l'artiste 
-T515	PER 24185 24218	une belle et intelligente actrice
-T516	PER 24389 24407	des gens d'esprit 
-T517	PER 24493 24498	femme
-T518	TIME 24658 24663	midi 
-T519	PER 24814 24828	les personnes 
-T520	PER 24927 24934	autrui 
-T521	PER 25620 25624	Qui 
-T522	PER 37080 37094	des dames D … 
-T523	PER 30621 30638	ces deux victimes
-T524	PER 32172 32192	les deux bourgeoises
-T525	PER 29940 29956	ces deux femmes 
-T526	PER 40604 40626	madame D … et Pauline 
-T527	PER 36824 36838	les dames D … 
-T528	PER 25358 25372	une belle dame
-T529	PER 25600 25615	madame Ducornay
-T530	PER 25393 25408	madame Ducornay
-T531	PER 25880 25895	madame Ducornay
-T532	PER 25930 25940	nos dames 
-T533	TIME 26387 26405	quelques instants 
-T534	TIME 27553 27562	le temps 
-T535	PER 27707 27720	mademoiselle 
-T536	PER 27725 27732	madame 
-T537	PER 27785 27793	Laurence
-T538	TIME 29262 29277	quelques heures
-T539	PER 29375 29384	les gens 
-T540	TIME 29422 29449	aux heures de sa dépendance
-T541	TIME 29592 29616	le courant de la journée
-T542	TIME 29606 29616	la journée
-T543	TIME 29778 29795	tous les instants
-T544	PER 30057 30063	l'une 
-T545	PER 30074 30091	un être moribond 
-T546	PER 30074 30109	un être moribond et un être vivant 
-T547	PER 30094 30109	un être vivant 
-T548	PER 30111 30116	l'un 
-T549	PER 30142 30209	celui qui pouvait à chaque instant lui enlever son dernier souffle 
-T550	TIME 30704 30711	le soir
-T551	TIME 30782 30792	la journée
-T552	TIME 30866 30884	au premier moment 
-T553	PER 31069 31108	une vierge catholique des anciens jours
-T554	TIME 31091 31108	des anciens jours
-T555	NO_PER 31313 31333	des anges de lumière
-T556	PER 32639 32665	l'artiste aimée du public 
-T557	PER 32655 32665	du public 
-T558	PER 32675 32685	un enfant 
-T559	PER 32709 32716	famille
-T560	PER 33126 33144	les vrais artistes
-T561	PER 33149 33165	ceux du théâtre 
-T562	PER 33270 33316	une femme assez distinguée et assez instruite 
-T563	PER 33470 33493	son entourage habituel 
-T564	VEH 33889 33909	des chevaux de poste
-T565	PER 34028 34035	Sa mère
-T566	PER 36079 36087	ta mère 
-T567	PER 34334 34342	sa mère 
-T568	PER 35042 35070	une bien excellente personne
-T569	PER 36120 36130	une femme 
-T570	PER 35805 35824	une excellente mère
-T571	PER 34924 34946	Cette pauvre madame S 
-T572	PER 34628 34636	sa mère 
-T573	PER 49568 49584	la mère aveugle 
-T574	PER 35625 35639	ma bonne mère 
-T575	PER 34873 34898	son ancienne connaissance
-T576	PER 34345 34352	sa sœur
-T577	PER 34078 34094	sa seconde fille
-T578	FAC 34158 34179	le théâtre d'Orléans 
-T579	GPE 34171 34179	Orléans 
-T580	PER 34334 34352	sa mère et sa sœur
-T581	TIME 34360 34387	quinze jours de séparation 
-T582	TIME 34680 34688	un jour 
-T583	VEH 34723 34735	ses chevaux 
-T584	TIME 34744 34757	le lendemain 
-T585	TIME 38636 38648	au lendemain
-T586	TIME 55632 55644	Le lendemain
-T587	TIME 59171 59180	la veille
-T588	TIME 34757 34764	au soir
-T589	TIME 35323 35337	cette occasion
-T590	PER 35562 35568	l'une 
-T591	PER 35958 35973	une bonne fille
-T592	EVENT 36393 36404	l'aventure 
-T593	PER 37168 37185	la dame étrangère
-T594	PER 36667 36699	cette dame de la chaise de poste
-T595	PER 38542 38554	l'étrangère 
-T596	PER 37779 37803	la personne en question 
-T597	PER 36451 36479	une dame en chaise de poste 
-T598	VEH 36463 36479	chaise de poste 
-T599	VEH 36681 36699	la chaise de poste
-T600	GPE 36499 36507	Villiers
-T601	FAC 36509 36522	route de Lyon
-T602	TIME 36588 36603	quelques heures
-T603	TIME 36768 36785	toute la journée 
-T604	PER 49550 49584	les deux amies et la mère aveugle 
-T605	PER 36974 37000	Le secrétaire de la mairie
-T606	FAC 38099 38109	la mairie 
-T607	FAC 36991 37000	la mairie
-T608	FAC 37035 37043	au café 
-T609	PER 37329 37346	la femme de Paris
-T610	PER 37329 37368	la femme de Paris, et la femme artiste 
-T611	GPE 37341 37346	Paris
-T612	PER 37351 37368	la femme artiste 
-T613	LOC 37432 37443	la province
-T614	PER 37445 37483	Toutes les dames des maisons voisines 
-T615	FAC 37462 37483	des maisons voisines 
-T616	PER 37631 37641	la voisine
-T617	PER 38030 38042	la servante 
-T618	PER 37653 37665	la servante 
-T619	LOC 37683 37692	au marché
-T620	PER 38082 38109	Le secrétaire de la mairie 
-T621	PER 38163 38182	l'adjoint du maire 
-T622	PER 38338 38346	Le maire
-T623	PER 39756 39768	M. le maire 
-T624	PER 39924 39933	Le maire 
-T625	PER 39205 39213	le maire
-T626	PER 38173 38182	du maire 
-T627	PER 40504 40517	le bon maire 
-T628	PER 41073 41085	M. le maire 
-T629	PER 39004 39013	le maire 
-T630	PER 40177 40185	au maire
-T631	PER 38214 38234	la duchesse de Berry
-T632	PER 38375 38398	les dames de sa famille
-T633	PER 38388 38398	sa famille
-T634	PER 38495 38514	au maître de poste 
-T635	VEH 38532 38540	chevaux 
-T636	EVENT 38625 38636	son départ 
-T637	PER 38667 38682	son domestique 
-T638	TIME 38716 38726	au moment 
-T639	VEH 38748 38759	des chevaux
-T640	PER 38842 38869	des citadins de Saint-Front
-T641	EVENT 39022 39033	une émeute 
-T642	PER 39035 39055	le procureur du roi 
-T643	PER 39048 39055	du roi 
-T644	PER 39064 39079	la gendarmerie 
-T645	VEH 39112 39142	les chevaux de l'ordre public 
-T646	TIME 39169 39181	tout le jour
-T647	PER 39225 39250	un homme de mœurs douces 
-T648	PER 39225 39289	un homme de mœurs douces et un cœur sensible envers le beau sexe
-T649	PER 39277 39289	le beau sexe
-T650	PER 39313 39322	gendarme 
-T651	PER 39362 39371	une dame 
-T652	PER 39424 39436	le substitut
-T653	PER 39594 39599	Vous 
-T654	PER 39483 39499	procureur du roi
-T655	PER 39576 39589	Junius Brutus
-T656	PER 39647 39669	le magistrat pacifique
-T657	PER 42489 42501	la mairesse 
-T658	PER 39672 39684	La mairesse 
-T659	PER 41167 41186	madame la mairesse 
-T660	PER 42862 42874	la mairesse 
-T661	PER 42152 42170	Madame la mairesse
-T662	PER 41741 41758	la femme du maire
-T663	PER 40007 40015	sa femme
-T664	PER 39702 39733	les femmes des autres autorités
-T665	PER 39713 39733	des autres autorités
-T666	PER 40243 40278	toutes les personnes de sa famille 
-T667	PER 40267 40278	sa famille 
-T668	PER 40346 40374	au plus petit de ses enfants
-T669	PER 40363 40374	ses enfants
-T670	TIME 40395 40411	un quart d'heure
-T671	PER 40541 40547	un fou
-T672	TIME 40673 40686	ce même jour 
-T673	EVENT 40724 40733	Le dîner 
-T674	TIME 40923 40951	quelques heures d'enjouement
-T675	TIME 41034 41044	au dessert
-T676	TIME 41473 41481	dix ans 
-T677	FAC 41594 41612	la salle à manger 
-T678	FAC 41689 41700	l'escalier 
-T679	EVENT 41721 41731	une visite
-T680	PER 42282 42292	ses filles
-T681	PER 42010 42026	Ces demoiselles 
-T682	PER 41904 41914	ses filles
-T683	TIME 42048 42055	la nuit
-T684	TIME 42413 42430	quelques minutes 
-T685	EVENT 42437 42456	une seconde visite 
-T686	PER 42680 42704	Cette seconde visiteuse 
-T687	PER 42577 42601	une de ses amies intimes
-T688	PER 42664 42678	une comédienne
-T689	EVENT 42847 42874	la présence de la mairesse 
-T690	EVENT 42923 42943	La troisième visite 
-T691	EVENT 43017 43042	l'arrivée de la quatrième
-T692	TIME 43062 43071	une heure
-T693	PER 43135 43150	toute la ville 
-T694	EVENT 43152 43169	une grande soirée
-T695	GPE 43397 43412	toute la France
-T696	TIME 43511 43519	le passé
-T697	PER 43564 43572	Laurence
-T698	PER 43637 43644	l'amie 
-T699	PER 43637 43680	l'amie et la protégée de mademoiselle Mars 
-T700	PER 43647 43680	la protégée de mademoiselle Mars 
-T701	PER 43662 43680	mademoiselle Mars 
-T702	PER 43684 43687	On 
-T703	PER 43788 43814	les plus célèbres auteurs 
-T704	TIME 44026 44037	Un instant 
-T705	EVENT 44043 44051	le dîner
-T706	PER 56431 56450	la femme de chambre
-T707	PER 57533 57541	Suzette 
-T708	PER 57572 57592	la femme de chambre 
-T709	PER 44075 44094	sa femme de chambre
-T710	PER 56159 56178	la femme de chambre
-T711	PER 55866 55879	la soubrette 
-T712	PER 55751 55771	Sa femme de chambre 
-T713	NO_PER 44164 44173	les fées 
-T714	PER 44226 44239	une princesse
-T715	EVENT 44433 44439	voyage
-T716	PER 44503 44525	Les dames de la ville 
-T717	PER 44843 44869	l'élégante de petite ville
-T718	LOC 44857 44869	petite ville
-T719	PER 44905 44935	l'élégante des grandes villes 
-T720	PER 45021 45042	les femmes sans goût 
-T721	LOC 45262 45271	province 
-T722	PER 45286 45300	une comédienne
-T723	PER 45469 45493	tous ces petits esprits 
-T724	PER 45520 45528	les uns 
-T725	PER 45560 45568	le seul 
-T726	PER 45614 45628	une bohémienne
-T727	PER 45814 45832	Toutes ces femmes 
-T728	FAC 45846 45863	un côté du salon 
-T729	PER 45869 45891	un régiment en déroute
-T730	FAC 45899 45911	l'autre côté
-T731	PER 45925 45979	Pauline, de sa mère et de quelques hommes de bon sens 
-T732	PER 45951 45979	quelques hommes de bon sens 
-T733	PER 46064 46082	une reine affable 
-T734	PER 46095 46106	son peuple 
-T735	EVENT 46349 46382	le départ des plus désappointées 
-T736	PER 46488 46498	la lingère
-T737	EVENT 46609 46627	le premier voyage 
-T738	TIME 46658 46689	l'arrivée des premières visites
-T739	PER 46771 46785	tout ce monde 
-T740	PER 47057 47065	mesdames
-T741	TIME 47180 47189	deux ans 
-T742	TIME 47228 47235	le soir
-T743	PER 47280 47295	toute la ville 
-T744	EVENT 47352 47359	ma fête
-T745	TIME 47390 47398	six mois
-T746	TIME 48146 48162	du commencement 
-T747	TIME 48164 48171	la fin 
-T748	LOC 48278 48289	en province
-T749	TIME 48770 48786	toute la soirée 
-T750	TIME 48971 48981	la veille 
-T751	PER 49475 49481	femme 
-T752	PER 49483 49489	femme 
-T753	PER 49506 49512	homme 
-T754	PER 49514 49519	homme
-T755	FAC 49867 49877	sa chambre
-T756	EVENT 49985 50005	cette petite épreuve
-T757	PER 50383 50396	ces bégueules
-T758	PER 50680 50704	la femme la plus droite 
-T759	TIME 51224 51234	un instant
-T760	TIME 51409 51423	Chaque moment 
-T761	EVENT 52177 52213	leur premier entretien de la matinée
-T762	TIME 52203 52213	la matinée
-T763	TIME 52315 52322	Le soir
-T764	NO_PER 53296 53315	une nymphe antique 
-T765	PER 53561 53570	une mère 
-T766	PER 53572 53580	sa fille
-T767	PER 53776 53791	Les classiques 
-T768	NO_PER 53921 53941	Phèdre tout entière 
-T769	NO_PER 54987 54994	Phèdre 
-T770	NO_PER 53828 53835	Phèdre 
-T771	NO_PER 58211 58218	Phèdre 
-T772	NO_PER 53987 54003	celle d'Euripide
-T773	NO_PER 57064 57071	Phèdre 
-T774	NO_PER 53951 53971	la Phèdre de Racine 
-T775	PER 53961 53971	de Racine 
-T776	LOC 54055 54066	des forêts 
-T777	TIME 54433 54461	quelques instants de silence
-T778	EVENT 54454 54461	silence
-T779	TIME 54616 54660	ses longues heures de silence et de solitude
-T780	EVENT 54638 54646	silence 
-T781	EVENT 54638 54660	silence et de solitude
-T782	EVENT 54652 54660	solitude
-T783	TIME 54729 54758	tant de belles années perdues
-T784	TIME 54834 54860	son temps le plus précieux
-T785	EVENT 55113 55145	l'insomnie de la nuit précédente
-T786	TIME 55127 55145	la nuit précédente
-T787	TIME 55617 55630	toute la nuit
-T788	TIME 55723 55731	au jour 
-T789	TIME 56000 56012	trois jours 
-T790	FAC 56197 56211	l'appartement 
-T791	TIME 56788 56804	quelques heures 
-T792	TIME 57189 57197	au soir 
-T793	TIME 57640 57651	un instant 
-T794	TIME 57832 57845	trop de temps
-T795	TIME 58391 58402	cet instant
-T796	FAC 58424 58440	une autre pièce 
-T797	TIME 58599 58606	Le soir
-T798	VEH 58675 58682	voiture
-T799	TIME 58688 58698	cette fois
-T800	TIME 58766 58783	trente-six heures
-T801	TIME 58813 58825	au lendemain
-T802	NO_PER 59391 59410	l'oiseau sédentaire
-T803	NO_PER 59775 59784	Le serin 
-T804	NO_PER 59233 59243	son serin 
-T805	FAC 59264 59271	sa cage
-T806	FAC 59802 59810	sa cage 
-T807	FAC 59348 59355	la cage
-T808	TIME 59674 59682	l'heure 
+T5	TIME 527 543	une nuit sombre 
+T6	VEH 1942 1952	la berline
+T7	VEH 8486 8497	sa voiture 
+T8	VEH 568 588	Une chaise de poste 
+T9	VEH 1073 1084	la patache 
+T10	FAC 599 636	la cour de l'auberge du Lion-Couronné
+T11	FAC 4456 4466	l'auberge 
+T12	FAC 610 636	l'auberge du Lion-Couronné
+T13	FAC 8767 8793	l'auberge du Lion-Couronné
+T14	FAC 8803 8824	l'antique hôtellerie 
+T15	FAC 6339 6361	hôtel du Lion-Couronné
+T16	FAC 12635 12645	l'auberge 
+T17	ORG 620 636	du Lion-Couronné
+T18	PER 650 656	femme 
+T19	VEH 664 675	des chevaux
+T20	VEH 792 799	chevaux
+T21	PER 7053 7062	Baptiste 
+T22	PER 692 705	Le postillon 
+T23	PER 1252 1280	le postillon à demi débotté 
+T24	PER 6840 6852	au postillon
+T25	FAC 867 913	certains relais sur les routes peu fréquentées
+T26	FAC 887 913	les routes peu fréquentées
+T27	TIME 943 963	la semaine dernière 
+T28	TIME 998 1005	la nuit
+T29	VEH 1039 1050	l'attelage 
+T30	PER 1144 1178	le laquais empaqueté de fourrures 
+T31	TIME 1232 1241	une heure
+T32	TIME 4420 4428	l'heure 
+T33	PER 1340 1354	Le domestique 
+T34	PER 1361 1397	une jeune et jolie femme de chambre 
+T35	PER 54941 54950	Laurence 
+T36	PER 57099 57108	Laurence 
+T37	PER 13644 13657	La voyageuse 
+T38	PER 13546 13558	l'étrangère 
+T39	PER 59045 59054	Laurence 
+T40	PER 56841 56846	Elle 
+T41	PER 18490 18505	Chère Laurence 
+T42	PER 16332 16345	la voyageuse 
+T43	PER 55075 55084	Laurence 
+T44	PER 18569 18578	Laurence 
+T45	PER 17441 17450	Laurence 
+T46	PER 17357 17366	Laurence 
+T47	PER 55434 55439	Elle 
+T48	PER 17678 17687	Laurence 
+T49	PER 34559 34567	son amie
+T50	PER 34603 34612	Laurence 
+T51	PER 17545 17553	Laurence
+T52	PER 15535 15548	la voyageuse 
+T53	PER 35133 35149	ma pauvre enfant
+T54	PER 34911 34919	Laurence
+T55	PER 32476 32484	Laurence
+T56	PER 40691 40722	la belle actrice de la capitale
+T57	PER 45407 45414	son gré
+T58	PER 45366 45375	Laurence 
+T59	PER 42796 42805	Laurence 
+T60	PER 57612 57621	Laurence 
+T61	PER 36196 36206	mon enfant
+T62	PER 42770 42778	Laurence
+T63	PER 45192 45200	Laurence
+T64	PER 23007 23016	Laurence 
+T65	PER 58185 58193	Laurence
+T66	PER 19651 19659	Laurence
+T67	PER 21607 21615	Laurence
+T68	PER 55932 55940	Laurence
+T69	PER 57915 57923	Laurence
+T70	PER 43272 43300	cette petite sous-maîtresse 
+T71	PER 55646 55655	Laurence 
+T72	PER 40747 40756	Laurence 
+T73	PER 41360 41368	Laurence
+T74	PER 37266 37278	de Laurence 
+T75	PER 58305 58314	Laurence 
+T76	PER 54112 54121	Laurence 
+T77	PER 19776 19785	Laurence 
+T78	PER 1557 1569	la personne 
+T79	PER 56738 56746	Laurence
+T80	PER 56754 56763	Laurence 
+T81	PER 1766 1841	une jeune femme d'une beauté vive et saisissante, mais pâlie par la fatigue
+T82	PER 58608 58617	Laurence 
+T83	PER 54386 54394	Laurence
+T84	PER 58724 58733	Laurence 
+T85	PER 56504 56513	Laurence 
+T86	PER 6056 6062	Madame
+T87	PER 46040 46049	Laurence 
+T88	PER 23924 23933	Laurence 
+T89	PER 25851 25860	l'actrice
+T90	PER 48186 48194	son amie
+T91	PER 27850 27858	Laurence
+T92	PER 23514 23523	Laurence 
+T93	PER 27707 27732	mademoiselle … ou madame 
+T94	PER 25712 25721	Laurence 
+T95	PER 32256 32265	son amie 
+T96	PER 6073 6084	la servante
+T97	PER 27804 27814	l'actrice 
+T98	PER 50524 50533	Laurence 
+T99	PER 26440 26448	Laurence
+T100	PER 44016 44024	Laurence
+T101	PER 43913 43917	Lui 
+T102	PER 30303 30311	Laurence
+T103	PER 28121 28130	Laurence 
+T104	PER 26176 26184	Laurence
+T105	PER 43889 43893	Lui 
+T106	PER 48400 48409	Laurence 
+T107	PER 48861 48870	Laurence 
+T108	PER 5153 5165	la voyageuse
+T109	PER 26848 26857	Laurence 
+T110	PER 44458 44467	son amie 
+T111	PER 2867 2880	La voyageuse 
+T112	PER 41995 42008	la comédienne
+T113	PER 28381 28391	cette dame
+T114	PER 50665 50674	Laurence 
+T115	PER 28409 28418	son amie 
+T116	PER 26556 26565	Laurence 
+T117	PER 20336 20344	Laurence
+T118	PER 50640 50658	l'amie de Pauline 
+T119	PER 42542 42551	l'actrice
+T120	PER 19004 19013	Laurence 
+T121	PER 3254 3266	la voyageuse
+T122	PER 22792 22801	Laurence 
+T123	PER 20979 20988	Laurence 
+T124	PER 26962 26980	cette malheureuse 
+T125	PER 24715 24723	Laurence
+T126	PER 20752 20761	Laurence 
+T127	PER 46924 46932	Laurence
+T128	PER 40133 40142	Laurence 
+T129	PER 7736 7742	madame
+T130	PER 42228 42237	Laurence 
+T131	PER 6678 6684	madame
+T132	PER 4256 4271	la jeune femme 
+T133	PER 35482 35491	Laurence 
+T134	PER 52645 52654	Laurence 
+T135	PER 52528 52537	Laurence 
+T136	PER 30562 30571	Laurence 
+T137	PER 2244 2256	la voyageuse
+T138	PER 33654 33663	Laurence 
+T139	PER 9465 9477	la voyageuse
+T140	PER 12030 12042	la voyageuse
+T141	PER 34144 34153	Laurence 
+T142	PER 53376 53385	Laurence 
+T143	PER 33998 34007	Laurence 
+T144	PER 49297 49307	l'actrice 
+T145	PER 27228 27237	Laurence 
+T146	PER 31573 31581	Laurence
+T147	PER 16819 16837	son ancienne amie 
+T148	PER 14678 14690	l'étrangère 
+T149	PER 33816 33825	l'actrice
+T150	PER 35939 35942	Tu 
+T151	PER 49194 49203	Laurence 
+T152	PER 6289 6296	madame 
+T153	PER 8312 8327	notre voyageuse
+T154	PER 32057 32066	l'actrice
+T155	PER 8456 8468	l'étrangère 
+T156	PER 6386 6399	la voyageuse 
+T157	PER 49789 49798	l'actrice
+T158	PER 47800 47817	mademoiselle S … 
+T159	PER 6500 6514	la jeune femme
+T160	PER 10574 10587	la voyageuse 
+T161	PER 34266 34275	Laurence 
+T162	PER 29540 29549	Laurence 
+T163	PER 49688 49697	Laurence 
+T164	PER 51602 51611	Laurence 
+T165	PER 1584 1600	ces deux laquais
+T166	PER 1893 1904	ses valets 
+T167	FAC 1714 1725	la cuisine 
+T168	FAC 4634 4642	la pièce
+T169	FAC 4442 4466	La cuisine de l'auberge 
+T170	FAC 1865 1876	une chambre
+T171	PER 2033 2052	du voyageur résigné
+T172	PER 5594 5606	la servante 
+T173	PER 7628 7646	la fille d'auberge
+T174	PER 8018 8030	La servante 
+T175	PER 6437 6460	La servante épouvantée 
+T176	PER 6741 6752	la servante
+T177	PER 7587 7595	ma chère
+T178	PER 5808 5827	la servante ébahie 
+T179	PER 8193 8207	la jeune dame 
+T180	PER 2054 2065	La servante
+T181	PER 7753 7762	la fille 
+T182	TIME 2086 2103	son quart de nuit
+T183	GPE 9605 9624	cette triste ville 
+T184	GPE 7237 7249	Saint-Front 
+T185	GPE 12967 12975	la ville
+T186	GPE 38858 38869	Saint-Front
+T187	GPE 3268 3327	une ville aux rues anguleuses et sombres, au pavé raboteux 
+T188	GPE 36546 36562	la petite ville 
+T189	GPE 12530 12539	la ville 
+T190	GPE 3230 3246	une triste ville
+T191	GPE 23269 23280	Saint-Front
+T192	GPE 38961 38969	la ville
+T193	GPE 6205 6217	cette ville 
+T194	GPE 7669 7681	cette ville 
+T195	GPE 45353 45364	Saint-Front
+T196	GPE 8437 8445	la ville
+T197	GPE 6310 6321	Saint-Front
+T198	GPE 44516 44525	la ville 
+T199	GPE 36422 36433	Saint-Front
+T200	FAC 3278 3308	aux rues anguleuses et sombres
+T201	LOC 3329 3354	une ville laide et pauvre
+T202	LOC 3641 3659	cette pauvre ville
+T203	VEH 3432 3442	ma voiture
+T204	PER 3557 3571	Chaque piéton 
+T205	TIME 3601 3622	l'heure du couvre-feu
+T206	TIME 3686 3721	des années de jeunesse et de force 
+T207	FAC 4614 4642	tout l'intérieur de la pièce
+T208	LOC 4876 4884	le lieu 
+T209	TIME 10037 10065	la date de notre séparation 
+T210	TIME 6031 6042	cette date 
+T211	TIME 5965 5980	10 février 182 
+T212	TIME 5952 5963	cette date 
+T213	GPE 6232 6240	Villiers
+T214	FAC 36435 36449	route de Paris
+T215	FAC 6323 6337	route de Paris
+T216	GPE 6332 6337	Paris
+T217	GPE 7022 7026	Lyon
+T218	GPE 55992 55996	Lyon
+T219	GPE 6780 6785	Lyon 
+T220	GPE 34702 34706	Lyon
+T221	GPE 34257 34261	Lyon
+T222	GPE 23028 23034	Paris 
+T223	GPE 46569 46574	Paris
+T224	GPE 7207 7213	Paris 
+T225	GPE 40711 40722	la capitale
+T226	GPE 43722 43728	Paris 
+T227	GPE 6969 6974	Paris
+T228	GPE 23205 23211	Paris 
+T229	GPE 6908 6913	Paris
+T230	GPE 25429 25435	Paris 
+T231	GPE 46642 46653	la capitale
+T232	GPE 34047 34053	Paris 
+T233	GPE 23593 23598	Paris
+T234	TIME 7218 7230	ce temps-ci 
+T235	TIME 6920 6931	ce temps-ci
+T236	VEH 6933 6962	toutes les voitures de poste 
+T237	VEH 7128 7139	son cheval 
+T238	TIME 7139 7157	la moitié du temps
+T239	FAC 7195 7213	la route de Paris 
+T240	LOC 7312 7322	aux lieux 
+T241	TIME 7424 7435	deux heures
+T242	PER 13631 13636	Elle 
+T243	PER 9823 9837	ma pauvre amie
+T244	PER 13995 14002	Pauline
+T245	PER 16454 16462	Pauline 
+T246	PER 18603 18612	son amie 
+T247	PER 17375 17383	Pauline 
+T248	PER 55422 55429	Pauline
+T249	PER 17588 17595	Pauline
+T250	PER 34485 34492	Pauline
+T251	PER 13046 13054	Pauline 
+T252	PER 15490 15497	Pauline
+T253	PER 15684 15692	Pauline 
+T254	PER 15632 15640	Pauline 
+T255	PER 40618 40626	Pauline 
+T256	PER 21331 21340	son amie 
+T257	PER 55592 55600	Pauline 
+T258	PER 59739 59747	Pauline 
+T259	PER 25297 25305	sa fille
+T260	PER 57651 57659	Pauline 
+T261	PER 19169 19176	Pauline
+T262	PER 21219 21227	Pauline 
+T263	PER 57449 57460	mon enfant 
+T264	PER 57412 57420	Pauline 
+T265	PER 19100 19108	Pauline 
+T266	PER 19681 19688	Pauline
+T267	PER 58056 58064	Pauline 
+T268	PER 43091 43099	Pauline 
+T269	PER 23428 23451	l'aînée de ses élèves, 
+T270	PER 17274 17282	Pauline 
+T271	PER 17118 17126	Pauline 
+T272	PER 54258 54266	Pauline 
+T273	PER 19857 19864	Pauline
+T274	PER 58250 58258	Pauline 
+T275	PER 41264 41272	Pauline 
+T276	PER 58351 58359	Pauline 
+T277	PER 19975 19983	Pauline 
+T278	PER 58631 58639	Pauline 
+T279	PER 54463 54471	Pauline 
+T280	PER 56586 56606	la jeune provinciale
+T281	PER 56405 56412	Pauline
+T282	PER 28082 28091	sa fille 
+T283	PER 45925 45932	Pauline
+T284	PER 27988 27996	ma fille
+T285	PER 52128 52136	Pauline 
+T286	PER 48128 48135	Pauline
+T287	PER 50046 50055	son amie 
+T288	PER 27877 27894	la bonne Pauline 
+T289	PER 32194 32202	La fille
+T290	PER 29797 29805	Pauline 
+T291	PER 25685 25693	Pauline 
+T292	PER 50023 50033	ma Pauline
+T293	PER 50465 50473	Pauline 
+T294	PER 30468 30476	Pauline 
+T295	PER 28149 28157	Pauline 
+T296	PER 24597 24605	Pauline 
+T297	PER 20630 20637	Pauline
+T298	PER 40069 40076	Pauline
+T299	PER 24561 24568	Pauline
+T300	PER 48925 48933	Pauline 
+T301	PER 44333 44341	Pauline 
+T302	PER 26775 26783	Pauline 
+T303	PER 20449 20458	son amie 
+T304	PER 50650 50658	Pauline 
+T305	PER 28394 28402	Pauline 
+T306	PER 26571 26578	Pauline
+T307	PER 7681 7704	mademoiselle Pauline D 
+T308	PER 22865 22873	Pauline 
+T309	PER 21031 21039	Pauline 
+T310	PER 59324 59332	Pauline 
+T311	PER 27064 27071	Pauline
+T312	PER 24684 24692	Pauline 
+T313	PER 18711 18719	Pauline 
+T314	PER 10803 10811	Pauline 
+T315	PER 33194 33201	Pauline
+T316	PER 50777 50786	son amie 
+T317	PER 30530 30541	ses mérites
+T318	PER 51187 51194	Pauline
+T319	PER 53087 53095	Pauline 
+T320	PER 50987 50995	Pauline 
+T321	PER 52948 52955	Pauline
+T322	PER 30952 30959	Pauline
+T323	PER 10067 10082	Pauvre Pauline 
+T324	PER 31444 31452	Pauline 
+T325	PER 51450 51466	la jeune recluse
+T326	PER 49400 49408	Pauline 
+T327	PER 27312 27320	Pauline 
+T328	PER 12314 12321	Pauline
+T329	PER 35917 35925	Pauline 
+T330	PER 28950 28958	sa fille
+T331	PER 27096 27104	Pauline 
+T332	PER 53758 53774	ma chère enfant 
+T333	PER 29717 29725	sa fille
+T334	PER 8361 8384	mademoiselle Pauline D 
+T335	PER 51674 51682	Pauline 
+T336	PER 25578 25585	Pauline
+T337	PER 27478 27486	sa fille
+T338	PER 49632 49640	Pauline 
+T339	LOC 7780 7788	ce pays 
+T340	TIME 7799 7809	huit jours
+T341	PER 7837 7855	une autre servante
+T342	PER 8042 8063	toutes les servantes 
+T343	PER 8085 8104	le garçon d'écurie 
+T344	PER 8085 8122	le garçon d'écurie et les postillons 
+T345	PER 8107 8122	les postillons 
+T346	VEH 8152 8165	leurs chevaux
+T347	PER 8235 8242	le chef
+T348	TIME 8254 8280	un quart d'heure d'attente
+T349	FAC 8502 8512	la remise 
+T350	FAC 8534 8545	une chambre
+T351	TIME 8580 8587	le jour
+T352	TIME 8866 8873	dix ans
+T353	PER 9023 9036	les bergères 
+T354	PER 9088 9112	les bergers en lambeaux 
+T355	PER 9209 9228	de guerrier romain 
+T356	PER 9253 9277	la fille de l'aubergiste
+T357	PER 9265 9277	l'aubergiste
+T358	PER 9386 9392	Jésus 
+T359	FAC 9394 9403	la crèche
+T360	TIME 9491 9507	plusieurs jours 
+T361	FAC 9507 9525	cette même chambre
+T362	TIME 9534 9543	douze ans
+T363	PER 9578 9592	ma bonne mère 
+T364	TIME 9741 9800	Quelle nuit de douleur et d'espoir, de regret et d'attente 
+T365	TIME 9717 9739	la nuit de mon départ 
+T366	PER 49550 49565	les deux amies 
+T367	TIME 10124 10136	ce temps-là 
+T368	PER 10152 10182	une vieille fille de province 
+T369	LOC 10173 10182	province 
+T370	TIME 10406 10425	un jour de bonheur 
+T371	TIME 11241 11250	du passé 
+T372	TIME 11332 11355	le matin gris et froid 
+T373	FAC 11382 11403	des maisons déjetées 
+T374	FAC 11438 11447	les unes 
+T375	FAC 11473 11484	le clocher 
+T376	TIME 11502 11536	ses heures de repos ou de rêverie 
+T377	PER 11558 11572	les bourgeois 
+T378	FAC 11707 11713	la rue
+T379	PER 11739 11751	du forgeron 
+T380	FAC 11776 11797	une maison décrépite 
+T381	LOC 11816 11826	au marché 
+T382	PER 11826 11839	les fermiers 
+T383	TIME 11940 11958	aux jours du passé
+T384	TIME 11950 11958	du passé
+T385	TIME 23306 23317	quatre ans 
+T386	TIME 12142 12161	quatre ans entiers 
+T387	PER 12210 12221	ces gens-là
+T388	FAC 12286 12309	ces rues impraticables 
+T389	TIME 12549 12560	sept heures
+T390	PER 12746 12773	les laquais de bonne maison
+T391	FAC 12795 12819	une des rues tortueuses 
+T392	FAC 12799 12819	des rues tortueuses 
+T393	PER 12896 12910	une Parisienne
+T394	PER 12945 12975	tous les bourgeois de la ville
+T395	PER 12986 13006	une figure nouvelle 
+T396	FAC 37155 37168	cette maison 
+T397	FAC 13780 13793	Cette maison 
+T398	FAC 37070 37094	la maison des dames D … 
+T399	FAC 13033 13054	La maison de Pauline 
+T400	TIME 13140 13149	l'époque 
+T401	PER 13474 13523	la vieille servante non moins laide et rechignée 
+T402	TIME 13807 13841	les plus fraîches années de sa vie
+T403	TIME 13863 13875	sa jeunesse 
+T404	TIME 13911 13921	son passé 
+T405	TIME 13932 13954	son existence présente
+T406	FAC 14193 14208	la grande pièce
+T407	PER 14222 14249	les hôtes du titre de salon
+T408	PER 14446 14474	quelque aïeule de la famille
+T409	PER 14464 14474	la famille
+T410	PER 14525 14532	l'oncle
+T411	LOC 14583 14597	la même place 
+T412	TIME 14644 14651	dix ans
+T413	TIME 14701 14713	des siècles 
+T414	FAC 14772 14780	La salle
+T415	FAC 15292 15310	cette vaste pièce 
+T416	PER 14980 14990	Rembrandt 
+T417	PER 15058 15069	philosophe 
+T418	PER 15074 15085	alchimiste 
+T419	PER 16243 16271	la grande moitié des femmes 
+T420	PER 16260 16271	des femmes 
+T421	GPE 16286 16292	France
+T422	TIME 16799 16817	le premier instant
+T423	PER 17699 17713	les personnes 
+T424	PER 59685 59693	sa mère 
+T425	PER 23242 23249	sa mère
+T426	PER 19362 19369	ma mère
+T427	PER 33183 33201	La mère de Pauline
+T428	PER 40604 40615	madame D … 
+T429	PER 45937 45945	sa mère 
+T430	PER 28002 28012	l'aveugle 
+T431	PER 21155 21165	L'aveugle 
+T432	PER 25231 25247	la mère aveugle 
+T433	PER 25800 25810	l'aveugle 
+T434	PER 32902 32911	l'aveugle
+T435	PER 25672 25679	Devinez
+T436	PER 25743 25750	sa mère
+T437	PER 29868 29876	sa mère 
+T438	PER 19576 19589	pauvre femme 
+T439	PER 28335 28356	mon chocolat de santé
+T440	PER 33745 33762	La vieille femme 
+T441	PER 31115 31123	la mère 
+T442	PER 28904 28914	L'aveugle 
+T443	PER 26328 26337	l'aveugle
+T444	PER 35826 35846	ma bonne madame D … 
+T445	PER 22145 22153	ma mère 
+T446	PER 40849 40859	l'aveugle 
+T447	PER 28232 28236	moi 
+T448	PER 21382 21390	ma mère 
+T449	PER 26815 26824	l'aveugle
+T450	PER 40017 40029	La mère D … 
+T451	PER 34766 34775	L'aveugle
+T452	PER 46691 46701	l'aveugle 
+T453	PER 29160 29170	l'aveugle 
+T454	PER 41227 41237	l'aveugle 
+T455	PER 28484 28499	la vieille dame
+T456	PER 34453 34463	l'aveugle 
+T457	PER 35991 36000	l'aveugle
+T458	PER 41860 41871	madame D … 
+T459	PER 27157 27165	sa mère 
+T460	PER 21053 21060	sa mère
+T461	PER 47128 47143	mes infirmités 
+T462	PER 25638 25648	l'aveugle 
+T463	PER 38264 38279	la vieille D … 
+T464	PER 27078 27086	ma mère 
+T465	PER 49819 49830	madame D … 
+T466	PER 29684 29692	la mère 
+T467	PER 25562 25567	maman
+T468	PER 20190 20198	ma mère 
+T469	PER 17901 17909	Ma mère 
+T470	PER 49735 49751	la vieille femme
+T471	PER 24663 24673	l'aveugle 
+T472	PER 20801 20826	la vieille femme aveugle 
+T473	PER 27423 27432	l'aveugle
+T474	PER 18060 18074	les personnes 
+T475	TIME 18112 18137	au milieu de mes rêveries
+T476	TIME 18651 18668	plusieurs années 
+T477	PER 19253 19285	toutes les personnes que je vois
+T478	TIME 20166 20175	cinq ans 
+T479	TIME 20177 20183	un an 
+T480	FAC 20731 20749	la chambre voisine
+T481	FAC 46793 46841	son salon froid et abandonné depuis si longtemps
+T482	FAC 21345 21353	le salon
+T483	FAC 45854 45863	du salon 
+T484	FAC 43073 43099	le vieux salon de Pauline 
+T485	FAC 41612 41620	au salon
+T486	PER 21358 21365	Causons
+T487	TIME 21429 21445	quelques heures 
+T488	METALEPSE 22763 22774	Le lecteur 
+T489	TIME 23123 23134	quinze ans 
+T490	TIME 23468 23479	quinze ans 
+T491	PER 23143 23154	sa famille 
+T492	LOC 23228 23237	province 
+T493	FAC 23351 23381	un pensionnat de jeunes filles
+T494	PER 23368 23381	jeunes filles
+T495	PER 23625 23649	des filles d'un banquier
+T496	PER 23638 23649	un banquier
+T497	PER 23682 23698	une jeune fille 
+T498	PER 23853 23883	mademoiselle Hippolyte Clairon
+T499	TIME 23904 23921	du siècle dernier
+T500	PER 23943 23973	tous ces artistes prédestinés 
+T501	PER 24134 24144	l'artiste 
+T502	PER 24185 24218	une belle et intelligente actrice
+T503	PER 24389 24407	des gens d'esprit 
+T504	PER 24493 24498	femme
+T505	TIME 24658 24663	midi 
+T506	PER 24814 24828	les personnes 
+T507	PER 24927 24934	autrui 
+T508	PER 25620 25624	Qui 
+T509	PER 37080 37094	des dames D … 
+T510	PER 30621 30638	ces deux victimes
+T511	PER 32172 32192	les deux bourgeoises
+T512	PER 29940 29956	ces deux femmes 
+T513	PER 40604 40626	madame D … et Pauline 
+T514	PER 36824 36838	les dames D … 
+T515	PER 25358 25372	une belle dame
+T516	PER 25600 25615	madame Ducornay
+T517	PER 25393 25408	madame Ducornay
+T518	PER 25880 25895	madame Ducornay
+T519	PER 25930 25940	nos dames 
+T520	TIME 26387 26405	quelques instants 
+T521	TIME 27553 27562	le temps 
+T522	PER 27707 27720	mademoiselle 
+T523	PER 27725 27732	madame 
+T524	PER 27785 27793	Laurence
+T525	TIME 29262 29277	quelques heures
+T526	PER 29375 29384	les gens 
+T527	TIME 29422 29449	aux heures de sa dépendance
+T528	TIME 29592 29616	le courant de la journée
+T529	TIME 29606 29616	la journée
+T530	TIME 29778 29795	tous les instants
+T531	PER 30057 30063	l'une 
+T532	PER 30074 30091	un être moribond 
+T533	PER 30074 30109	un être moribond et un être vivant 
+T534	PER 30094 30109	un être vivant 
+T535	PER 30111 30116	l'un 
+T536	PER 30142 30209	celui qui pouvait à chaque instant lui enlever son dernier souffle 
+T537	TIME 30704 30711	le soir
+T538	TIME 30782 30792	la journée
+T539	TIME 30866 30884	au premier moment 
+T540	PER 31069 31108	une vierge catholique des anciens jours
+T541	TIME 31091 31108	des anciens jours
+T542	NO_PER 31313 31333	des anges de lumière
+T543	PER 32639 32665	l'artiste aimée du public 
+T544	PER 32655 32665	du public 
+T545	PER 32675 32685	un enfant 
+T546	PER 32709 32716	famille
+T547	PER 33126 33144	les vrais artistes
+T548	PER 33149 33165	ceux du théâtre 
+T549	PER 33270 33316	une femme assez distinguée et assez instruite 
+T550	PER 33470 33493	son entourage habituel 
+T551	VEH 33889 33909	des chevaux de poste
+T552	PER 34028 34035	Sa mère
+T553	PER 36079 36087	ta mère 
+T554	PER 34334 34342	sa mère 
+T555	PER 35042 35070	une bien excellente personne
+T556	PER 36120 36130	une femme 
+T557	PER 35805 35824	une excellente mère
+T558	PER 34924 34946	Cette pauvre madame S 
+T559	PER 34628 34636	sa mère 
+T560	PER 49568 49584	la mère aveugle 
+T561	PER 35625 35639	ma bonne mère 
+T562	PER 34873 34898	son ancienne connaissance
+T563	PER 34345 34352	sa sœur
+T564	PER 34078 34094	sa seconde fille
+T565	FAC 34158 34179	le théâtre d'Orléans 
+T566	GPE 34171 34179	Orléans 
+T567	PER 34334 34352	sa mère et sa sœur
+T568	TIME 34360 34387	quinze jours de séparation 
+T569	TIME 34680 34688	un jour 
+T570	VEH 34723 34735	ses chevaux 
+T571	TIME 34744 34757	le lendemain 
+T572	TIME 38636 38648	au lendemain
+T573	TIME 55632 55644	Le lendemain
+T574	TIME 59171 59180	la veille
+T575	TIME 34757 34764	au soir
+T576	TIME 35323 35337	cette occasion
+T577	PER 35562 35568	l'une 
+T578	PER 35958 35973	une bonne fille
+T579	PER 37168 37185	la dame étrangère
+T580	PER 36667 36699	cette dame de la chaise de poste
+T581	PER 38542 38554	l'étrangère 
+T582	PER 37779 37803	la personne en question 
+T583	PER 36451 36479	une dame en chaise de poste 
+T584	VEH 36463 36479	chaise de poste 
+T585	VEH 36681 36699	la chaise de poste
+T586	GPE 36499 36507	Villiers
+T587	FAC 36509 36522	route de Lyon
+T588	TIME 36588 36603	quelques heures
+T589	TIME 36768 36785	toute la journée 
+T590	PER 49550 49584	les deux amies et la mère aveugle 
+T591	PER 36974 37000	Le secrétaire de la mairie
+T592	FAC 38099 38109	la mairie 
+T593	FAC 36991 37000	la mairie
+T594	FAC 37035 37043	au café 
+T595	PER 37329 37346	la femme de Paris
+T596	PER 37329 37368	la femme de Paris, et la femme artiste 
+T597	GPE 37341 37346	Paris
+T598	PER 37351 37368	la femme artiste 
+T599	LOC 37432 37443	la province
+T600	PER 37445 37483	Toutes les dames des maisons voisines 
+T601	FAC 37462 37483	des maisons voisines 
+T602	PER 37631 37641	la voisine
+T603	PER 38030 38042	la servante 
+T604	PER 37653 37665	la servante 
+T605	LOC 37683 37692	au marché
+T606	PER 38082 38109	Le secrétaire de la mairie 
+T607	PER 38163 38182	l'adjoint du maire 
+T608	PER 38338 38346	Le maire
+T609	PER 39756 39768	M. le maire 
+T610	PER 39924 39933	Le maire 
+T611	PER 39205 39213	le maire
+T612	PER 38173 38182	du maire 
+T613	PER 40504 40517	le bon maire 
+T614	PER 41073 41085	M. le maire 
+T615	PER 39004 39013	le maire 
+T616	PER 40177 40185	au maire
+T617	PER 38214 38234	la duchesse de Berry
+T618	PER 38375 38398	les dames de sa famille
+T619	PER 38388 38398	sa famille
+T620	PER 38495 38514	au maître de poste 
+T621	VEH 38532 38540	chevaux 
+T622	PER 38667 38682	son domestique 
+T623	TIME 38716 38726	au moment 
+T624	VEH 38748 38759	des chevaux
+T625	PER 38842 38869	des citadins de Saint-Front
+T626	PER 39035 39055	le procureur du roi 
+T627	PER 39048 39055	du roi 
+T628	PER 39064 39079	la gendarmerie 
+T629	VEH 39112 39142	les chevaux de l'ordre public 
+T630	TIME 39169 39181	tout le jour
+T631	PER 39225 39250	un homme de mœurs douces 
+T632	PER 39225 39289	un homme de mœurs douces et un cœur sensible envers le beau sexe
+T633	PER 39277 39289	le beau sexe
+T634	PER 39313 39322	gendarme 
+T635	PER 39362 39371	une dame 
+T636	PER 39424 39436	le substitut
+T637	PER 39594 39599	Vous 
+T638	PER 39483 39499	procureur du roi
+T639	PER 39576 39589	Junius Brutus
+T640	PER 39647 39669	le magistrat pacifique
+T641	PER 42489 42501	la mairesse 
+T642	PER 39672 39684	La mairesse 
+T643	PER 41167 41186	madame la mairesse 
+T644	PER 42862 42874	la mairesse 
+T645	PER 42152 42170	Madame la mairesse
+T646	PER 41741 41758	la femme du maire
+T647	PER 40007 40015	sa femme
+T648	PER 39702 39733	les femmes des autres autorités
+T649	PER 39713 39733	des autres autorités
+T650	PER 40243 40278	toutes les personnes de sa famille 
+T651	PER 40267 40278	sa famille 
+T652	PER 40346 40374	au plus petit de ses enfants
+T653	PER 40363 40374	ses enfants
+T654	TIME 40395 40411	un quart d'heure
+T655	PER 40541 40547	un fou
+T656	TIME 40673 40686	ce même jour 
+T657	TIME 40923 40951	quelques heures d'enjouement
+T658	TIME 41034 41044	au dessert
+T659	TIME 41473 41481	dix ans 
+T660	FAC 41594 41612	la salle à manger 
+T661	FAC 41689 41700	l'escalier 
+T662	PER 42282 42292	ses filles
+T663	PER 42010 42026	Ces demoiselles 
+T664	PER 41904 41914	ses filles
+T665	TIME 42048 42055	la nuit
+T666	TIME 42413 42430	quelques minutes 
+T667	PER 42680 42704	Cette seconde visiteuse 
+T668	PER 42577 42601	une de ses amies intimes
+T669	PER 42664 42678	une comédienne
+T670	TIME 43062 43071	une heure
+T671	PER 43135 43150	toute la ville 
+T672	GPE 43397 43412	toute la France
+T673	TIME 43511 43519	le passé
+T674	PER 43564 43572	Laurence
+T675	PER 43637 43644	l'amie 
+T676	PER 43637 43680	l'amie et la protégée de mademoiselle Mars 
+T677	PER 43647 43680	la protégée de mademoiselle Mars 
+T678	PER 43662 43680	mademoiselle Mars 
+T679	PER 43684 43687	On 
+T680	PER 43788 43814	les plus célèbres auteurs 
+T681	TIME 44026 44037	Un instant 
+T682	PER 56431 56450	la femme de chambre
+T683	PER 57533 57541	Suzette 
+T684	PER 57572 57592	la femme de chambre 
+T685	PER 44075 44094	sa femme de chambre
+T686	PER 56159 56178	la femme de chambre
+T687	PER 55866 55879	la soubrette 
+T688	PER 55751 55771	Sa femme de chambre 
+T689	NO_PER 44164 44173	les fées 
+T690	PER 44226 44239	une princesse
+T691	PER 44503 44525	Les dames de la ville 
+T692	PER 44843 44869	l'élégante de petite ville
+T693	LOC 44857 44869	petite ville
+T694	PER 44905 44935	l'élégante des grandes villes 
+T695	PER 45021 45042	les femmes sans goût 
+T696	LOC 45262 45271	province 
+T697	PER 45286 45300	une comédienne
+T698	PER 45469 45493	tous ces petits esprits 
+T699	PER 45520 45528	les uns 
+T700	PER 45560 45568	le seul 
+T701	PER 45614 45628	une bohémienne
+T702	PER 45814 45832	Toutes ces femmes 
+T703	FAC 45846 45863	un côté du salon 
+T704	PER 45869 45891	un régiment en déroute
+T705	FAC 45899 45911	l'autre côté
+T706	PER 45925 45979	Pauline, de sa mère et de quelques hommes de bon sens 
+T707	PER 45951 45979	quelques hommes de bon sens 
+T708	PER 46064 46082	une reine affable 
+T709	PER 46095 46106	son peuple 
+T710	PER 46488 46498	la lingère
+T711	TIME 46658 46689	l'arrivée des premières visites
+T712	PER 46771 46785	tout ce monde 
+T713	PER 47057 47065	mesdames
+T714	TIME 47180 47189	deux ans 
+T715	TIME 47228 47235	le soir
+T716	PER 47280 47295	toute la ville 
+T717	TIME 47390 47398	six mois
+T718	TIME 48146 48162	du commencement 
+T719	TIME 48164 48171	la fin 
+T720	LOC 48278 48289	en province
+T721	TIME 48770 48786	toute la soirée 
+T722	TIME 48971 48981	la veille 
+T723	PER 49475 49481	femme 
+T724	PER 49483 49489	femme 
+T725	PER 49506 49512	homme 
+T726	PER 49514 49519	homme
+T727	FAC 49867 49877	sa chambre
+T728	PER 50383 50396	ces bégueules
+T729	PER 50680 50704	la femme la plus droite 
+T730	TIME 51224 51234	un instant
+T731	TIME 51409 51423	Chaque moment 
+T732	TIME 52203 52213	la matinée
+T733	TIME 52315 52322	Le soir
+T734	NO_PER 53296 53315	une nymphe antique 
+T735	PER 53561 53570	une mère 
+T736	PER 53572 53580	sa fille
+T737	PER 53776 53791	Les classiques 
+T738	NO_PER 53921 53941	Phèdre tout entière 
+T739	NO_PER 54987 54994	Phèdre 
+T740	NO_PER 53828 53835	Phèdre 
+T741	NO_PER 58211 58218	Phèdre 
+T742	NO_PER 53987 54003	celle d'Euripide
+T743	NO_PER 57064 57071	Phèdre 
+T744	NO_PER 53951 53971	la Phèdre de Racine 
+T745	PER 53961 53971	de Racine 
+T746	LOC 54055 54066	des forêts 
+T747	TIME 54433 54461	quelques instants de silence
+T748	TIME 54616 54660	ses longues heures de silence et de solitude
+T749	TIME 54729 54758	tant de belles années perdues
+T750	TIME 54834 54860	son temps le plus précieux
+T751	TIME 55127 55145	la nuit précédente
+T752	TIME 55617 55630	toute la nuit
+T753	TIME 55723 55731	au jour 
+T754	TIME 56000 56012	trois jours 
+T755	FAC 56197 56211	l'appartement 
+T756	TIME 56788 56804	quelques heures 
+T757	TIME 57189 57197	au soir 
+T758	TIME 57640 57651	un instant 
+T759	TIME 57832 57845	trop de temps
+T760	TIME 58391 58402	cet instant
+T761	FAC 58424 58440	une autre pièce 
+T762	TIME 58599 58606	Le soir
+T763	VEH 58675 58682	voiture
+T764	TIME 58688 58698	cette fois
+T765	TIME 58766 58783	trente-six heures
+T766	TIME 58813 58825	au lendemain
+T767	NO_PER 59391 59410	l'oiseau sédentaire
+T768	NO_PER 59775 59784	Le serin 
+T769	NO_PER 59233 59243	son serin 
+T770	FAC 59264 59271	sa cage
+T771	FAC 59802 59810	sa cage 
+T772	FAC 59348 59355	la cage
+T773	TIME 59674 59682	l'heure 

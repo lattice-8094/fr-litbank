@@ -347,386 +347,385 @@ T346	PER 14884 14893	des dames
 T347	FAC 15101 15134	un pensionnat de jeunes personnes
 T348	ORG 15482 15497	le gouvernement
 T349	PER 15602 15610	Fualdès 
-T350	EVENT 15680 15693	la Révolution
-T351	FAC 15718 15746	des boutiques de bric-à-brac
-T352	FAC 15763 15799	le Conservatoire des arts et métiers
-T353	GPE 15801 15812	Saint-Denis
-T354	LOC 15814 15826	les Gobelins
-T355	FAC 15828 15842	les Invalides 
-T356	PER 15967 15981	deux étrangers
-T357	PER 15983 15995	deux Anglais
-T358	FAC 16003 16025	les galeries du Muséum
-T359	FAC 16016 16025	du Muséum
-T360	FAC 16243 16262	les serres chaudes 
-T361	FAC 16447 16457	au Louvre 
-T362	PER 16481 16488	Raphaël
-T363	FAC 16492 16514	la grande bibliothèque
-T364	FAC 16616 16636	du Collège de France
-T365	GPE 16630 16636	France
-T366	PER 16641 16655	le professeur 
-T367	FAC 16767 16799	les coulisses d'un petit théâtre
-T368	FAC 16783 16799	un petit théâtre
-T369	FAC 16855 16865	l'Académie
-T370	TIME 17165 17174	l'époque 
-T371	TIME 17224 17239	cette époque-là
-T372	LOC 17283 17292	des pays 
-T373	FAC 17544 17552	les rues
-T374	FAC 17599 17618	Le quai aux Fleurs 
-T375	TIME 17774 17782	du jour 
-T376	TIME 17658 17670	Un dimanche 
-T377	GPE 17724 17730	Meudon
-T378	GPE 17732 17740	Bellevue
-T379	GPE 17742 17750	Suresnes
-T380	GPE 17752 17759	Auteuil
-T381	LOC 17846 17864	au bord des champs
-T382	FAC 17932 17947	des guinguettes
-T383	TIME 18043 18058	Les lendemains 
-T384	FAC 18125 18135	du bureau 
-T385	PER 18241 18262	les mêmes compagnons 
-T386	TIME 18933 18947	Un après-midi 
-T387	TIME 18956 18974	le 20 janvier 1839
-T388	FAC 18993 19006	son comptoir 
-T389	PER 19037 19047	le facteur
-T390	PER 19141 19152	Les commis 
-T391	PER 19212 19222	un médecin
-T392	FAC 19439 19464	au ministère de la Marine
-T393	PER 20107 20115	Tardivel
-T394	PER 19687 19698	Me Tardivel
-T395	PER 21114 21125	au notaire 
-T396	PER 21141 21152	Le notaire 
-T397	PER 22514 22522	Tardivel
-T398	GPE 19700 19719	Savigny-en-Septaine
-T399	TIME 19721 19736	14 janvier 1839
-T400	GPE 19917 19935	la ville de Nantes
-T401	GPE 19947 19961	cette commune 
-T402	GPE 19929 19935	Nantes
-T403	PER 20117 20124	notaire
-T404	FAC 20180 20187	la cour
-T405	ORG 20407 20415	la poste
-T406	PER 20476 20486	du notaire
-T407	FAC 20693 20710	l'Arc de Triomphe
-T408	LOC 20726 20742	le bord de l'eau
-T409	FAC 20756 20766	Notre-Dame
-T410	TIME 20857 20869	cinq minutes
-T411	PER 21468 21477	un neveu 
-T412	PER 21515 21524	mon oncle
-T413	PER 21633 21657	Ses deux fils légitimes 
-T414	PER 22171 22181	des frères
-T415	PER 21843 21856	sa cuisinière
-T416	PER 21897 21907	la famille
-T417	PER 22164 22193	L'aîné des frères, M. Étienne
-T418	PER 22538 22550	M. Alexandre
-T419	PER 22524 22536	L'autre fils
-T420	PER 23028 23047	le sieur Alexandre 
-T421	GPE 40378 40393	du point de vue
-T422	GPE 22809 22816	Savigny
-T423	LOC 23561 23569	Le Nord 
-T424	LOC 23602 23610	le Midi 
-T425	LOC 23674 23683	le Centre
-T426	GPE 23723 23735	La Bretagne 
-T427	LOC 23797 23817	aux régions de l'Est
-T428	LOC 23812 23817	l'Est
-T429	GPE 23937 23945	le Forez
-T430	GPE 23947 23955	le Bugey
-T431	GPE 23957 23968	le Roumois 
-T432	FAC 24029 24041	leur maison 
-T433	VEH 24337 24349	les charrues
-T434	PER 24590 24596	chefs 
-T435	FAC 24649 24667	un domicile à eux 
-T436	FAC 24702 24717	leur basse-cour
-T437	FAC 24734 24745	leur jardin
-T438	FAC 25026 25036	une maison
-T439	PER 25896 25912	leurs collègues 
-T440	TIME 26328 26355	dix-huit mois de recherches
-T441	LOC 26412 26438	tous les environs de Paris
-T442	GPE 26450 26457	Amiens 
-T443	GPE 26465 26471	Évreux
-T444	GPE 26479 26493	Fontainebleau 
-T445	LOC 26523 26536	une campagne 
-T446	FAC 26673 26689	des habitations 
-T447	FAC 26899 26915	une manufacture 
-T448	LOC 37935 37948	la propriété 
-T449	LOC 27043 27053	un domaine
-T450	GPE 32712 32724	Chavignolles
-T451	GPE 58078 58091	Chavignolles 
-T452	GPE 39792 39805	Chavignolles 
-T453	GPE 29609 29621	Chavignolles
-T454	GPE 33392 33404	Chavignolles
-T455	GPE 27057 27069	Chavignolles
-T456	GPE 29551 29555	Caen
-T457	GPE 27077 27082	Caen 
-T458	GPE 32065 32070	Caen 
-T459	GPE 32292 32296	Caen
-T460	GPE 32453 32460	Falaise
-T461	GPE 29831 29838	Falaise
-T462	GPE 27085 27092	Falaise
-T463	FAC 50470 50488	Leur exploitation 
-T464	FAC 27113 27146	une ferme de trente-huit hectares
-T465	FAC 37068 37078	leur ferme
-T466	FAC 52514 52523	la ferme 
-T467	FAC 27322 27328	l'une 
-T468	FAC 38720 38730	La maison 
-T469	FAC 27311 27321	la maison 
-T470	FAC 27153 27176	une manière de château 
-T471	FAC 34377 34386	le jardin
-T472	FAC 53013 53022	du jardin
-T473	FAC 54658 54668	le jardin 
-T474	FAC 35910 35920	le jardin 
-T475	FAC 39391 39400	le jardin
-T476	FAC 27179 27205	un jardin en plein rapport
-T477	FAC 56497 56512	tout le jardin 
-T478	GPE 27235 27247	le Calvados 
-T479	PER 27605 27613	sa mère 
-T480	TIME 27735 27749	la fin de 1840
-T481	TIME 27751 27777	six mois avant sa retraite
-T482	PER 27979 27988	Descambos
-T483	PER 28099 28112	ses collègues
-T484	FAC 28683 28694	son balcon 
-T485	FAC 28757 28767	des quais 
-T486	VEH 28804 28816	des omnibus 
-T487	TIME 28850 28898	des jours heureux passés dans cette grande ville
-T488	LOC 28880 28898	cette grande ville
-T489	FAC 28917 28930	au restaurant
-T490	TIME 28932 28952	des soirs au théâtre
-T491	FAC 28942 28952	au théâtre
-T492	FAC 29145 29155	sa chambre
-T493	LOC 29494 29502	la Seine
-T494	VEH 30800 30810	du chariot
-T495	VEH 32885 32895	le chariot
-T496	VEH 29756 29784	une voiture de déménagement 
-T497	GPE 29807 29817	Nonancourt
-T498	GPE 29819 29828	Verneuil 
-T499	PER 30230 30244	le conducteur 
-T500	PER 29893 29906	du conducteur
-T501	TIME 30029 30048	le dimanche 20 mars
-T502	PER 31296 31307	les hommes 
-T503	PER 31627 31646	ces deux imbéciles 
-T504	PER 30230 30260	le conducteur et le charretier
-T505	PER 31690 31704	du charretier 
-T506	PER 30247 30260	le charretier
-T507	PER 61297 61311	le charretier 
-T508	FAC 30282 30301	exécrables auberges
-T509	FAC 30388 30403	les mêmes gîtes
-T510	TIME 30437 30444	l'aube 
-T511	FAC 30449 30457	la route
-T512	LOC 30601 30613	la campagne 
-T513	VEH 30860 30869	un navire
-T514	GPE 31432 31441	Gauburge 
-T515	TIME 31651 31671	la journée suivante 
-T516	TIME 31831 31846	le surlendemain
-T517	FAC 31905 31929	la cour des Messageries 
-T518	FAC 31975 31998	la cathédrale de Rouen 
-T519	GPE 31992 31998	Rouen 
-T520	VEH 32021 32030	diligence
-T521	TIME 32033 32040	Le soir
-T522	FAC 32119 32138	au théâtre des Arts
-T523	PER 32157 32168	ses voisins
-T524	LOC 32234 32258	un domaine aux alentours
-T525	TIME 32278 32290	le vendredi 
-T526	TIME 32340 32352	le dimanche 
-T527	VEH 32371 32384	une charrette
-T528	PER 37150 37160	le fermier
-T529	PER 38396 38408	maître Gouy 
-T530	PER 37975 37987	Maître Gouy 
-T531	PER 49881 49892	le fermier 
-T532	PER 50164 50176	maître Gouy 
-T533	PER 37162 37173	maître Gouy
-T534	PER 37314 37322	L'homme 
-T535	PER 49795 49807	maître Gouy 
-T536	PER 32400 32411	le fermier 
-T537	TIME 32433 32448	quelques heures
-T538	TIME 32462 32492	le neuvième jour de son voyage
-T539	GPE 32587 32598	Bretteville
-T540	FAC 32613 32627	la grand'route
-T541	FAC 32647 32668	un chemin de traverse
-T542	TIME 32685 32699	chaque minute 
-T543	FAC 32699 32724	le pignon de Chavignolles
-T544	FAC 32736 32749	les ornières 
-T545	LOC 32804 32833	au milieu des champs labourés
-T546	TIME 32835 32843	La nuit 
-T547	FAC 32983 32993	des fermes
-T548	FAC 33062 33070	sa route
-T549	VEH 33180 33192	un cabriolet
-T550	TIME 33303 33313	une heure 
-T551	FAC 33470 33478	la salle
-T552	FAC 33559 33571	le vestibule
-T553	PER 52624 52632	Germaine
-T554	PER 33692 33709	La vieille femme 
-T555	PER 36510 36530	La vieille servante 
-T556	FAC 34641 34654	les espaliers
-T557	TIME 34889 34897	La nuit 
-T558	FAC 35017 35037	Leurs deux chambres 
-T559	LOC 35489 35496	la lune
-T560	TIME 35542 35555	le lendemain 
-T561	LOC 35756 35766	les champs
-T562	FAC 35777 35787	une grange
-T563	FAC 35794 35817	le clocher de l'église 
-T564	FAC 35808 35817	l'église 
-T565	FAC 35856 35879	Deux allées principales
-T566	FAC 36144 36158	les espaliers 
-T567	FAC 36245 36254	un verger
-T568	LOC 36276 36287	un bosquet 
-T569	FAC 36436 36446	le sentier
-T570	FAC 36314 36329	un petit chemin
-T571	PER 36370 36429	un homme à chevelure grisonnante et vêtu d'un paletot noir 
-T572	PER 36554 36567	M. Vaucorbeil
-T573	PER 36611 36631	Les autres notables 
-T574	PER 44032 44044	M. le comte 
-T575	PER 36641 36661	le comte de Faverges
-T576	PER 45812 45820	le comte
-T577	PER 42868 42877	Le comte 
-T578	PER 44798 44807	Le comte 
-T579	PER 42814 42829	M. de Faverges 
-T580	GPE 36653 36661	Faverges
-T581	PER 36715 36723	le maire
-T582	PER 36725 36735	M. Foureau
-T583	PER 36794 36806	M. Marescot 
-T584	PER 36819 36833	l'abbé Jeufroy
-T585	PER 41784 41798	cette personne
-T586	PER 41657 41667	Mme Bordin
-T587	PER 36838 36854	Mme veuve Bordin
-T588	PER 36906 36914	Germaine
-T589	PER 36927 36947	feu Germain son mari
-T590	TIME 36962 36975	des journées 
-T591	FAC 37141 37148	la cour
-T592	PER 37193 37203	un garçon 
-T593	PER 37206 37217	la fermière
-T594	PER 37987 38001	et son épouse 
-T595	PER 50059 50068	sa femme 
-T596	PER 37401 37410	La femme 
-T597	PER 37505 37517	aux manants 
-T598	FAC 37532 37543	des églises
-T599	FAC 37551 37561	la cuisine
-T600	FAC 37655 37672	la haute cheminée
-T601	FAC 38056 38074	Tous les bâtiments
-T602	FAC 38083 38099	la charretterie 
-T603	FAC 38107 38120	la bouillerie
-T604	FAC 38180 38195	une succursale 
-T605	LOC 38290 38298	la mare 
-T606	FAC 38345 38360	les trois cours
-T607	FAC 38381 38394	les cultures 
-T608	VEH 38455 38468	les charrois 
-T609	LOC 38557 38570	les prairies 
-T610	FAC 38683 38691	la cavée
-T611	FAC 38698 38718	une avenue de hêtres
-T612	FAC 38755 38773	sa cour d'honneur 
-T613	FAC 39145 39152	la cour
-T614	FAC 38755 38785	sa cour d'honneur et sa façade
-T615	FAC 38853 38863	Le hangar 
-T616	FAC 38853 38876	Le hangar et le cellier
-T617	FAC 38866 38876	le cellier
-T618	FAC 38878 38889	le fournil 
-T619	FAC 38878 38902	le fournil et le bûcher 
-T620	FAC 57589 57599	la cuisine
-T621	FAC 40961 40972	la cuisine 
-T622	FAC 38946 38957	La cuisine 
-T623	FAC 42087 42097	la cuisine
-T624	FAC 38975 38991	une petite salle
-T625	FAC 39016 39028	le vestibule
-T626	FAC 39030 39060	une deuxième salle plus grande
-T627	FAC 39062 39070	le salon
-T628	FAC 39072 39092	Les quatre chambres 
-T629	FAC 42148 42160	les chambres
-T630	FAC 39119 39131	le corridor 
-T631	FAC 39225 39241	la bibliothèque 
-T632	TIME 39722 39745	plus de trois semaines 
-T633	PER 39775 39805	les bourgeois de Chavignolles 
-T634	PER 39927 39941	La population 
-T635	FAC 40972 40985	un large trou
-T636	FAC 41219 41227	la fosse
-T637	PER 41399 41416	Les cultivateurs 
-T638	PER 41437 41453	les aubergistes 
-T639	TIME 42222 42234	la mi-carême
-T640	TIME 42251 42263	le printemps
-T641	TIME 42279 42292	chaque matin 
-T642	FAC 42618 42628	leur ferme
-T643	TIME 42925 42944	une heure de marche
-T644	LOC 42978 42988	un coteau 
-T645	LOC 42999 43018	la vallée de l'Orne
-T646	LOC 43012 43018	l'Orne
-T647	LOC 43020 43031	La rivière 
-T648	LOC 43631 43641	la rivière
-T649	LOC 43251 43266	l'autre colline
-T650	FAC 43315 43326	les maisons
-T651	FAC 43520 43548	Le château à façade blanche 
-T652	FAC 45997 46007	au château
-T653	LOC 43580 43588	un bois 
-T654	PER 43747 43758	Des femmes 
-T655	PER 44863 44876	Les faneuses 
-T656	PER 44721 44731	aux femmes
-T657	VEH 43984 44004	une longue charrette
-T658	PER 44062 44075	son régisseur
-T659	PER 47308 47321	Le régisseur 
-T660	PER 46856 46869	Le régisseur 
-T661	PER 46010 46024	Son régisseur 
-T662	PER 44171 44184	un magistrat 
-T663	PER 44189 44197	un dandy
-T664	PER 44516 44535	au râteleur anglais
-T665	PER 44572 44592	un pareil instrument
-T666	PER 44827 44840	cette enfant 
-T667	PER 44595 44611	Une petite fille
-T668	PER 45942 45956	un domestique 
-T669	PER 46037 46087	homme à figure chafouine et de façons obséquieuses
-T670	PER 46145 46166	quatorze moissonneurs
-T671	TIME 46577 46591	Le crépuscule 
-T672	PER 46760 46769	Le berger
-T673	FAC 46997 47028	Tous les bâtiments de la ferme 
-T674	FAC 48924 48932	la cour 
-T675	FAC 47078 47085	la cour
-T676	LOC 47160 47172	un ruisseau 
-T677	FAC 47339 47353	les bergeries 
-T678	FAC 47478 47488	La grange 
-T679	FAC 47507 47522	une cathédrale 
-T680	PER 47613 47626	une servante 
-T681	FAC 47738 47751	le pigeonnier
-T682	FAC 48264 48275	la bouverie
-T683	PER 49035 49055	Les gens de travail 
-T684	TIME 49251 49258	le soir
-T685	FAC 49316 49334	la Maison rustique
-T686	VEH 49480 49493	une carriole 
-T687	PER 49693 49708	les laboureurs 
-T688	PER 50436 50457	Son notaire de Paris 
-T689	PER 50800 50816	deux charretiers
-T690	PER 50818 50829	deux femmes
-T691	PER 50831 50841	un berger 
-T692	TIME 51081 51101	Au mois de novembre 
-T693	TIME 51092 51101	novembre 
-T694	TIME 51648 51665	L'année suivante 
-T695	TIME 51865 51883	le long de l'année
-T696	TIME 51885 51894	du matin 
-T697	TIME 51900 51907	au soir
-T698	PER 51971 51985	le même homme 
-T699	PER 52294 52317	La fille de basse-cour 
-T700	PER 52346 52362	des gens mariés 
-T701	PER 52364 52376	les enfants 
-T702	PER 52389 52400	les cousins
-T703	PER 52402 52414	les cousines
-T704	PER 52416 52426	les oncles
-T705	PER 52428 52445	les belles-sœurs 
-T706	TIME 52545 52553	le soir 
-T707	FAC 52592 52603	la chambre 
-T708	GPE 52896 52907	du village 
-T709	FAC 54455 54465	du perron 
-T710	FAC 54625 54656	toutes les allées de sable neuf
-T711	PER 55955 55971	du bon jardinier
-T712	FAC 58027 58053	les jardins de la capitale
-T713	PER 58488 58494	Puvis 
-T714	PER 58510 58526	le manuel Roret 
-T715	PER 58575 58583	Franklin
-T716	PER 58585 58592	Riéfel 
-T717	PER 58585 58605	Riéfel et M. Rigaud 
-T718	PER 58595 58605	M. Rigaud 
-T719	PER 58709 58717	Leclerc 
-T720	PER 58768 58777	Gasparin 
-T721	PER 58782 58794	un Lyonnais 
-T722	TIME 58807 58821	un demi-siècle
-T723	PER 58908 58913	Tull 
-T724	PER 58968 58985	le major Beetson 
-T725	PER 59516 59525	Louis Xv 
-T726	PER 59529 59550	un prêtre de Touraine
-T727	GPE 59542 59550	Touraine
-T728	FAC 60489 60497	sa cour 
-T729	LOC 60585 60596	la campagne
-T730	LOC 60870 60879	les pays 
-T731	PER 61418 61430	les paysans 
-T732	PER 61821 61834	des familles 
+T350	FAC 15718 15746	des boutiques de bric-à-brac
+T351	FAC 15763 15799	le Conservatoire des arts et métiers
+T352	GPE 15801 15812	Saint-Denis
+T353	LOC 15814 15826	les Gobelins
+T354	FAC 15828 15842	les Invalides 
+T355	PER 15967 15981	deux étrangers
+T356	PER 15983 15995	deux Anglais
+T357	FAC 16003 16025	les galeries du Muséum
+T358	FAC 16016 16025	du Muséum
+T359	FAC 16243 16262	les serres chaudes 
+T360	FAC 16447 16457	au Louvre 
+T361	PER 16481 16488	Raphaël
+T362	FAC 16492 16514	la grande bibliothèque
+T363	FAC 16616 16636	du Collège de France
+T364	GPE 16630 16636	France
+T365	PER 16641 16655	le professeur 
+T366	FAC 16767 16799	les coulisses d'un petit théâtre
+T367	FAC 16783 16799	un petit théâtre
+T368	FAC 16855 16865	l'Académie
+T369	TIME 17165 17174	l'époque 
+T370	TIME 17224 17239	cette époque-là
+T371	LOC 17283 17292	des pays 
+T372	FAC 17544 17552	les rues
+T373	FAC 17599 17618	Le quai aux Fleurs 
+T374	TIME 17774 17782	du jour 
+T375	TIME 17658 17670	Un dimanche 
+T376	GPE 17724 17730	Meudon
+T377	GPE 17732 17740	Bellevue
+T378	GPE 17742 17750	Suresnes
+T379	GPE 17752 17759	Auteuil
+T380	LOC 17846 17864	au bord des champs
+T381	FAC 17932 17947	des guinguettes
+T382	TIME 18043 18058	Les lendemains 
+T383	FAC 18125 18135	du bureau 
+T384	PER 18241 18262	les mêmes compagnons 
+T385	TIME 18933 18947	Un après-midi 
+T386	TIME 18956 18974	le 20 janvier 1839
+T387	FAC 18993 19006	son comptoir 
+T388	PER 19037 19047	le facteur
+T389	PER 19141 19152	Les commis 
+T390	PER 19212 19222	un médecin
+T391	FAC 19439 19464	au ministère de la Marine
+T392	PER 20107 20115	Tardivel
+T393	PER 19687 19698	Me Tardivel
+T394	PER 21114 21125	au notaire 
+T395	PER 21141 21152	Le notaire 
+T396	PER 22514 22522	Tardivel
+T397	GPE 19700 19719	Savigny-en-Septaine
+T398	TIME 19721 19736	14 janvier 1839
+T399	GPE 19917 19935	la ville de Nantes
+T400	GPE 19947 19961	cette commune 
+T401	GPE 19929 19935	Nantes
+T402	PER 20117 20124	notaire
+T403	FAC 20180 20187	la cour
+T404	ORG 20407 20415	la poste
+T405	PER 20476 20486	du notaire
+T406	FAC 20693 20710	l'Arc de Triomphe
+T407	LOC 20726 20742	le bord de l'eau
+T408	FAC 20756 20766	Notre-Dame
+T409	TIME 20857 20869	cinq minutes
+T410	PER 21468 21477	un neveu 
+T411	PER 21515 21524	mon oncle
+T412	PER 21633 21657	Ses deux fils légitimes 
+T413	PER 22171 22181	des frères
+T414	PER 21843 21856	sa cuisinière
+T415	PER 21897 21907	la famille
+T416	PER 22164 22193	L'aîné des frères, M. Étienne
+T417	PER 22538 22550	M. Alexandre
+T418	PER 22524 22536	L'autre fils
+T419	PER 23028 23047	le sieur Alexandre 
+T420	GPE 40378 40393	du point de vue
+T421	GPE 22809 22816	Savigny
+T422	LOC 23561 23569	Le Nord 
+T423	LOC 23602 23610	le Midi 
+T424	LOC 23674 23683	le Centre
+T425	GPE 23723 23735	La Bretagne 
+T426	LOC 23797 23817	aux régions de l'Est
+T427	LOC 23812 23817	l'Est
+T428	GPE 23937 23945	le Forez
+T429	GPE 23947 23955	le Bugey
+T430	GPE 23957 23968	le Roumois 
+T431	FAC 24029 24041	leur maison 
+T432	VEH 24337 24349	les charrues
+T433	PER 24590 24596	chefs 
+T434	FAC 24649 24667	un domicile à eux 
+T435	FAC 24702 24717	leur basse-cour
+T436	FAC 24734 24745	leur jardin
+T437	FAC 25026 25036	une maison
+T438	PER 25896 25912	leurs collègues 
+T439	TIME 26328 26355	dix-huit mois de recherches
+T440	LOC 26412 26438	tous les environs de Paris
+T441	GPE 26450 26457	Amiens 
+T442	GPE 26465 26471	Évreux
+T443	GPE 26479 26493	Fontainebleau 
+T444	LOC 26523 26536	une campagne 
+T445	FAC 26673 26689	des habitations 
+T446	FAC 26899 26915	une manufacture 
+T447	LOC 37935 37948	la propriété 
+T448	LOC 27043 27053	un domaine
+T449	GPE 32712 32724	Chavignolles
+T450	GPE 58078 58091	Chavignolles 
+T451	GPE 39792 39805	Chavignolles 
+T452	GPE 29609 29621	Chavignolles
+T453	GPE 33392 33404	Chavignolles
+T454	GPE 27057 27069	Chavignolles
+T455	GPE 29551 29555	Caen
+T456	GPE 27077 27082	Caen 
+T457	GPE 32065 32070	Caen 
+T458	GPE 32292 32296	Caen
+T459	GPE 32453 32460	Falaise
+T460	GPE 29831 29838	Falaise
+T461	GPE 27085 27092	Falaise
+T462	FAC 50470 50488	Leur exploitation 
+T463	FAC 27113 27146	une ferme de trente-huit hectares
+T464	FAC 37068 37078	leur ferme
+T465	FAC 52514 52523	la ferme 
+T466	FAC 27322 27328	l'une 
+T467	FAC 38720 38730	La maison 
+T468	FAC 27311 27321	la maison 
+T469	FAC 27153 27176	une manière de château 
+T470	FAC 34377 34386	le jardin
+T471	FAC 53013 53022	du jardin
+T472	FAC 54658 54668	le jardin 
+T473	FAC 35910 35920	le jardin 
+T474	FAC 39391 39400	le jardin
+T475	FAC 27179 27205	un jardin en plein rapport
+T476	FAC 56497 56512	tout le jardin 
+T477	GPE 27235 27247	le Calvados 
+T478	PER 27605 27613	sa mère 
+T479	TIME 27735 27749	la fin de 1840
+T480	TIME 27751 27777	six mois avant sa retraite
+T481	PER 27979 27988	Descambos
+T482	PER 28099 28112	ses collègues
+T483	FAC 28683 28694	son balcon 
+T484	FAC 28757 28767	des quais 
+T485	VEH 28804 28816	des omnibus 
+T486	TIME 28850 28898	des jours heureux passés dans cette grande ville
+T487	LOC 28880 28898	cette grande ville
+T488	FAC 28917 28930	au restaurant
+T489	TIME 28932 28952	des soirs au théâtre
+T490	FAC 28942 28952	au théâtre
+T491	FAC 29145 29155	sa chambre
+T492	LOC 29494 29502	la Seine
+T493	VEH 30800 30810	du chariot
+T494	VEH 32885 32895	le chariot
+T495	VEH 29756 29784	une voiture de déménagement 
+T496	GPE 29807 29817	Nonancourt
+T497	GPE 29819 29828	Verneuil 
+T498	PER 30230 30244	le conducteur 
+T499	PER 29893 29906	du conducteur
+T500	TIME 30029 30048	le dimanche 20 mars
+T501	PER 31296 31307	les hommes 
+T502	PER 31627 31646	ces deux imbéciles 
+T503	PER 30230 30260	le conducteur et le charretier
+T504	PER 31690 31704	du charretier 
+T505	PER 30247 30260	le charretier
+T506	PER 61297 61311	le charretier 
+T507	FAC 30282 30301	exécrables auberges
+T508	FAC 30388 30403	les mêmes gîtes
+T509	TIME 30437 30444	l'aube 
+T510	FAC 30449 30457	la route
+T511	LOC 30601 30613	la campagne 
+T512	VEH 30860 30869	un navire
+T513	GPE 31432 31441	Gauburge 
+T514	TIME 31651 31671	la journée suivante 
+T515	TIME 31831 31846	le surlendemain
+T516	FAC 31905 31929	la cour des Messageries 
+T517	FAC 31975 31998	la cathédrale de Rouen 
+T518	GPE 31992 31998	Rouen 
+T519	VEH 32021 32030	diligence
+T520	TIME 32033 32040	Le soir
+T521	FAC 32119 32138	au théâtre des Arts
+T522	PER 32157 32168	ses voisins
+T523	LOC 32234 32258	un domaine aux alentours
+T524	TIME 32278 32290	le vendredi 
+T525	TIME 32340 32352	le dimanche 
+T526	VEH 32371 32384	une charrette
+T527	PER 37150 37160	le fermier
+T528	PER 38396 38408	maître Gouy 
+T529	PER 37975 37987	Maître Gouy 
+T530	PER 49881 49892	le fermier 
+T531	PER 50164 50176	maître Gouy 
+T532	PER 37162 37173	maître Gouy
+T533	PER 37314 37322	L'homme 
+T534	PER 49795 49807	maître Gouy 
+T535	PER 32400 32411	le fermier 
+T536	TIME 32433 32448	quelques heures
+T537	TIME 32462 32492	le neuvième jour de son voyage
+T538	GPE 32587 32598	Bretteville
+T539	FAC 32613 32627	la grand'route
+T540	FAC 32647 32668	un chemin de traverse
+T541	TIME 32685 32699	chaque minute 
+T542	FAC 32699 32724	le pignon de Chavignolles
+T543	FAC 32736 32749	les ornières 
+T544	LOC 32804 32833	au milieu des champs labourés
+T545	TIME 32835 32843	La nuit 
+T546	FAC 32983 32993	des fermes
+T547	FAC 33062 33070	sa route
+T548	VEH 33180 33192	un cabriolet
+T549	TIME 33303 33313	une heure 
+T550	FAC 33470 33478	la salle
+T551	FAC 33559 33571	le vestibule
+T552	PER 52624 52632	Germaine
+T553	PER 33692 33709	La vieille femme 
+T554	PER 36510 36530	La vieille servante 
+T555	FAC 34641 34654	les espaliers
+T556	TIME 34889 34897	La nuit 
+T557	FAC 35017 35037	Leurs deux chambres 
+T558	LOC 35489 35496	la lune
+T559	TIME 35542 35555	le lendemain 
+T560	LOC 35756 35766	les champs
+T561	FAC 35777 35787	une grange
+T562	FAC 35794 35817	le clocher de l'église 
+T563	FAC 35808 35817	l'église 
+T564	FAC 35856 35879	Deux allées principales
+T565	FAC 36144 36158	les espaliers 
+T566	FAC 36245 36254	un verger
+T567	LOC 36276 36287	un bosquet 
+T568	FAC 36436 36446	le sentier
+T569	FAC 36314 36329	un petit chemin
+T570	PER 36370 36429	un homme à chevelure grisonnante et vêtu d'un paletot noir 
+T571	PER 36554 36567	M. Vaucorbeil
+T572	PER 36611 36631	Les autres notables 
+T573	PER 44032 44044	M. le comte 
+T574	PER 36641 36661	le comte de Faverges
+T575	PER 45812 45820	le comte
+T576	PER 42868 42877	Le comte 
+T577	PER 44798 44807	Le comte 
+T578	PER 42814 42829	M. de Faverges 
+T579	GPE 36653 36661	Faverges
+T580	PER 36715 36723	le maire
+T581	PER 36725 36735	M. Foureau
+T582	PER 36794 36806	M. Marescot 
+T583	PER 36819 36833	l'abbé Jeufroy
+T584	PER 41784 41798	cette personne
+T585	PER 41657 41667	Mme Bordin
+T586	PER 36838 36854	Mme veuve Bordin
+T587	PER 36906 36914	Germaine
+T588	PER 36927 36947	feu Germain son mari
+T589	TIME 36962 36975	des journées 
+T590	FAC 37141 37148	la cour
+T591	PER 37193 37203	un garçon 
+T592	PER 37206 37217	la fermière
+T593	PER 37987 38001	et son épouse 
+T594	PER 50059 50068	sa femme 
+T595	PER 37401 37410	La femme 
+T596	PER 37505 37517	aux manants 
+T597	FAC 37532 37543	des églises
+T598	FAC 37551 37561	la cuisine
+T599	FAC 37655 37672	la haute cheminée
+T600	FAC 38056 38074	Tous les bâtiments
+T601	FAC 38083 38099	la charretterie 
+T602	FAC 38107 38120	la bouillerie
+T603	FAC 38180 38195	une succursale 
+T604	LOC 38290 38298	la mare 
+T605	FAC 38345 38360	les trois cours
+T606	FAC 38381 38394	les cultures 
+T607	VEH 38455 38468	les charrois 
+T608	LOC 38557 38570	les prairies 
+T609	FAC 38683 38691	la cavée
+T610	FAC 38698 38718	une avenue de hêtres
+T611	FAC 38755 38773	sa cour d'honneur 
+T612	FAC 39145 39152	la cour
+T613	FAC 38755 38785	sa cour d'honneur et sa façade
+T614	FAC 38853 38863	Le hangar 
+T615	FAC 38853 38876	Le hangar et le cellier
+T616	FAC 38866 38876	le cellier
+T617	FAC 38878 38889	le fournil 
+T618	FAC 38878 38902	le fournil et le bûcher 
+T619	FAC 57589 57599	la cuisine
+T620	FAC 40961 40972	la cuisine 
+T621	FAC 38946 38957	La cuisine 
+T622	FAC 42087 42097	la cuisine
+T623	FAC 38975 38991	une petite salle
+T624	FAC 39016 39028	le vestibule
+T625	FAC 39030 39060	une deuxième salle plus grande
+T626	FAC 39062 39070	le salon
+T627	FAC 39072 39092	Les quatre chambres 
+T628	FAC 42148 42160	les chambres
+T629	FAC 39119 39131	le corridor 
+T630	FAC 39225 39241	la bibliothèque 
+T631	TIME 39722 39745	plus de trois semaines 
+T632	PER 39775 39805	les bourgeois de Chavignolles 
+T633	PER 39927 39941	La population 
+T634	FAC 40972 40985	un large trou
+T635	FAC 41219 41227	la fosse
+T636	PER 41399 41416	Les cultivateurs 
+T637	PER 41437 41453	les aubergistes 
+T638	TIME 42222 42234	la mi-carême
+T639	TIME 42251 42263	le printemps
+T640	TIME 42279 42292	chaque matin 
+T641	FAC 42618 42628	leur ferme
+T642	TIME 42925 42944	une heure de marche
+T643	LOC 42978 42988	un coteau 
+T644	LOC 42999 43018	la vallée de l'Orne
+T645	LOC 43012 43018	l'Orne
+T646	LOC 43020 43031	La rivière 
+T647	LOC 43631 43641	la rivière
+T648	LOC 43251 43266	l'autre colline
+T649	FAC 43315 43326	les maisons
+T650	FAC 43520 43548	Le château à façade blanche 
+T651	FAC 45997 46007	au château
+T652	LOC 43580 43588	un bois 
+T653	PER 43747 43758	Des femmes 
+T654	PER 44863 44876	Les faneuses 
+T655	PER 44721 44731	aux femmes
+T656	VEH 43984 44004	une longue charrette
+T657	PER 44062 44075	son régisseur
+T658	PER 47308 47321	Le régisseur 
+T659	PER 46856 46869	Le régisseur 
+T660	PER 46010 46024	Son régisseur 
+T661	PER 44171 44184	un magistrat 
+T662	PER 44189 44197	un dandy
+T663	PER 44516 44535	au râteleur anglais
+T664	PER 44572 44592	un pareil instrument
+T665	PER 44827 44840	cette enfant 
+T666	PER 44595 44611	Une petite fille
+T667	PER 45942 45956	un domestique 
+T668	PER 46037 46087	homme à figure chafouine et de façons obséquieuses
+T669	PER 46145 46166	quatorze moissonneurs
+T670	TIME 46577 46591	Le crépuscule 
+T671	PER 46760 46769	Le berger
+T672	FAC 46997 47028	Tous les bâtiments de la ferme 
+T673	FAC 48924 48932	la cour 
+T674	FAC 47078 47085	la cour
+T675	LOC 47160 47172	un ruisseau 
+T676	FAC 47339 47353	les bergeries 
+T677	FAC 47478 47488	La grange 
+T678	FAC 47507 47522	une cathédrale 
+T679	PER 47613 47626	une servante 
+T680	FAC 47738 47751	le pigeonnier
+T681	FAC 48264 48275	la bouverie
+T682	PER 49035 49055	Les gens de travail 
+T683	TIME 49251 49258	le soir
+T684	FAC 49316 49334	la Maison rustique
+T685	VEH 49480 49493	une carriole 
+T686	PER 49693 49708	les laboureurs 
+T687	PER 50436 50457	Son notaire de Paris 
+T688	PER 50800 50816	deux charretiers
+T689	PER 50818 50829	deux femmes
+T690	PER 50831 50841	un berger 
+T691	TIME 51081 51101	Au mois de novembre 
+T692	TIME 51092 51101	novembre 
+T693	TIME 51648 51665	L'année suivante 
+T694	TIME 51865 51883	le long de l'année
+T695	TIME 51885 51894	du matin 
+T696	TIME 51900 51907	au soir
+T697	PER 51971 51985	le même homme 
+T698	PER 52294 52317	La fille de basse-cour 
+T699	PER 52346 52362	des gens mariés 
+T700	PER 52364 52376	les enfants 
+T701	PER 52389 52400	les cousins
+T702	PER 52402 52414	les cousines
+T703	PER 52416 52426	les oncles
+T704	PER 52428 52445	les belles-sœurs 
+T705	TIME 52545 52553	le soir 
+T706	FAC 52592 52603	la chambre 
+T707	GPE 52896 52907	du village 
+T708	FAC 54455 54465	du perron 
+T709	FAC 54625 54656	toutes les allées de sable neuf
+T710	PER 55955 55971	du bon jardinier
+T711	FAC 58027 58053	les jardins de la capitale
+T712	PER 58488 58494	Puvis 
+T713	PER 58510 58526	le manuel Roret 
+T714	PER 58575 58583	Franklin
+T715	PER 58585 58592	Riéfel 
+T716	PER 58585 58605	Riéfel et M. Rigaud 
+T717	PER 58595 58605	M. Rigaud 
+T718	PER 58709 58717	Leclerc 
+T719	PER 58768 58777	Gasparin 
+T720	PER 58782 58794	un Lyonnais 
+T721	TIME 58807 58821	un demi-siècle
+T722	PER 58908 58913	Tull 
+T723	PER 58968 58985	le major Beetson 
+T724	PER 59516 59525	Louis Xv 
+T725	PER 59529 59550	un prêtre de Touraine
+T726	GPE 59542 59550	Touraine
+T727	FAC 60489 60497	sa cour 
+T728	LOC 60585 60596	la campagne
+T729	LOC 60870 60879	les pays 
+T730	PER 61418 61430	les paysans 
+T731	PER 61821 61834	des familles 

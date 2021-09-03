@@ -102,634 +102,633 @@ T101	PER 13227 13240	le capitaine
 T102	PER 16729 16738	capitaine
 T103	PER 2604 2619	son subordonné 
 T104	PER 1510 1519	capitaine
-T105	EVENT 1846 1867	la guerre d'Autriche 
-T106	GPE 1858 1867	Autriche 
-T107	PER 2369 2377	un moine
-T108	TIME 2567 2575	le matin
-T109	PER 2895 2901	filles
-T110	TIME 2933 2944	trois mois 
-T111	PER 3054 3062	un homme
-T112	FAC 3912 3950	La salle à manger du château d'Uville 
-T113	FAC 8187 8204	la salle à manger
-T114	FAC 4555 4633	cette pièce mutilée, assombrie par l'averse, attristante par son aspect vaincu
-T115	FAC 14163 14180	la salle à manger
-T116	FAC 3183 3192	la salle 
-T117	FAC 3956 3983	une longue et royale pièce 
-T118	FAC 10012 10029	la salle à manger
-T119	PER 3207 3244	les trois officiers de moindre grade 
-T120	PER 3246 3259	un lieutenant
-T121	PER 20059 20062	Tu 
-T122	PER 16758 16763	Otto 
-T123	PER 19774 19792	le lieutenant Otto
-T124	PER 15238 15257	au lieutenant Otto 
-T125	PER 22918 22923	Otto 
-T126	PER 5654 5673	le lieutenant Otto 
-T127	PER 22689 22707	du lieutenant Otto
-T128	PER 7232 7251	le lieutenant Otto 
-T129	PER 3304 3324	Fritz Scheunaubourg 
-T130	PER 12718 12737	Le lieutenant Fritz
-T131	PER 16766 16771	Fritz
-T132	PER 5676 5700	le sous-lieutenant Fritz
-T133	PER 15291 15315	au sous-lieutenant Fritz
-T134	PER 22909 22915	Fritz 
-T135	PER 3304 3352	Fritz Scheunaubourg et le marquis Wilhem d'Eyrik
-T136	GPE 20843 20853	la France 
-T137	GPE 11992 12007	le pays entier 
-T138	GPE 21746 21752	France
-T139	GPE 20687 20697	la France 
-T140	GPE 21387 21394	France 
-T141	GPE 20909 20916	France 
-T142	GPE 3479 3485	France
-T143	GPE 24808 24815	le pays
-T144	GPE 19949 19959	la France 
-T145	PER 3487 3501	ses camarades 
-T146	PER 3526 3535	Mlle Fifi
-T147	PER 3537 3547	Ce surnom 
-T148	GPE 4064 4076	des Flandres
-T149	PER 4237 4244	famille
-T150	PER 4246 4269	un guerrier vêtu de fer
-T151	PER 4246 4298	un guerrier vêtu de fer, un cardinal et un président
-T152	PER 4271 4283	un cardinal 
-T153	PER 4286 4298	un président
-T154	PER 10127 10145	tous les officiers
-T155	PER 6338 6357	tous les officiers 
-T156	PER 15526 15539	des officiers
-T157	PER 17952 18046	les hommes eux-mêmes, grisés par cette chair de femme étalée sous leur nez et sous leurs mains
-T158	PER 4508 4522	des officiers 
-T159	PER 12641 12657	Les cinq hommes 
-T160	PER 19514 19540	les femmes, ivres à tomber
-T161	PER 8816 8834	tous les officiers
-T162	PER 17432 17445	leurs voisins
-T163	PER 11908 11939	Le commandant et ses officiers 
-T164	FAC 4705 4712	cabaret
-T165	TIME 4716 4732	l'heure du tabac
-T166	TIME 4815 4826	chaque jour
-T167	PER 5120 5134	des Hottentots
-T168	PER 5274 5284	un soldat 
-T169	PER 5459 5468	des gens 
-T170	NO_PER 5574 5578	Dieu
-T171	PER 16742 16810	Les lieutenants Otto et Fritz, polis comme auprès de femmes du monde
-T172	PER 9248 9267	Tous les Allemands 
-T173	PER 22909 22923	Fritz et Otto 
-T174	PER 5654 5700	le lieutenant Otto et le sous-lieutenant Fritz
-T175	PER 6078 6089	_Le Devoir_
-T176	PER 6581 6604	un vieux sous-officier 
-T177	PER 13743 13755	_Le Devoir_ 
-T178	PER 6560 6571	_Le Devoir_
-T179	PER 6109 6119	des dames 
-T180	PER 24723 24743	des filles publiques
-T181	TIME 6230 6246	une bonne soirée
-T182	GPE 6262 6272	Farlsberg 
-T183	GPE 8721 8731	Farlsberg 
-T184	GPE 24762 24771	Farlsberg
-T185	PER 6690 6699	ses chefs
-T186	TIME 6815 6837	cinq minutes plus tard
-T187	VEH 6839 6924	une grande voiture du train militaire, couverte d'une bâche de meunier tendue en dôme
-T188	VEH 6858 6876	du train militaire
-T189	PER 6902 6910	meunier 
-T190	PER 7812 7825	tout le monde
-T191	PER 7957 7990	le comte Fernand d'Amoys d'Uville
-T192	PER 14363 14378	le propriétaire
-T193	PER 8244 8253	du maître
-T194	GPE 7976 7990	Amoys d'Uville
-T195	FAC 9783 9809	le vaste salon bouleversé 
-T196	FAC 8927 8936	le salon 
-T197	FAC 8142 8157	son grand salon
-T198	FAC 8266 8286	une galerie de musée
-T199	FAC 8281 8286	musée
-T200	FAC 8288 8302	Aux murailles 
-T201	PER 8703 8731	le major comte de Farlsberg 
-T202	TIME 8836 8846	ce jour-là
-T203	TIME 8877 8889	cinq minutes
-T204	FAC 9179 9199	l'appartement voisin
-T205	PER 9831 9840	la Néron 
-T206	FAC 10243 10251	la pièce
-T207	FAC 10488 10563	le clocher de l'église dressé comme une pointe grise dans la pluie battante
-T208	FAC 10502 10563	l'église dressé comme une pointe grise dans la pluie battante
-T209	PER 10652 10669	les envahisseurs 
-T210	FAC 10709 10719	du clocher
-T211	PER 11540 11551	son pasteur
-T212	PER 25689 25697	le curé 
-T213	PER 26053 26063	le prêtre 
-T214	PER 24995 25005	le prêtre 
-T215	PER 12242 12252	le prêtre 
-T216	PER 11342 11360	l'abbé Chantavoine
-T217	PER 10721 10729	Le curé 
-T218	PER 24894 24902	le curé 
-T219	PER 25928 25936	le curé 
-T220	PER 10781 10803	des soldats prussiens 
-T221	PER 10894 10914	le commandant ennemi
-T222	PER 11220 11229	au prêtre
-T223	PER 11268 11281	tout le monde
-T224	FAC 11438 11448	son église
-T225	PER 11450 11502	Le village entier, enthousiasmé par cette résistance
-T226	PER 11661 11673	aux paysans 
-T227	GPE 11724 11732	Belfort 
-T228	GPE 11739 11749	Strasbourg
-T229	GPE 11806 11816	du hameau 
-T230	PER 11882 11906	aux Prussiens vainqueurs
-T231	PER 11925 11939	ses officiers 
-T232	TIME 12257 12269	chaque jour 
-T233	PER 12461 12466	femme
-T234	TIME 12679 12695	quelques minutes
-T235	PER 12784 12800	Ces temoiselles 
-T236	TIME 13017 13033	la nuit tombante
-T237	TIME 13213 13222	le matin 
-T238	PER 13376 13387	l'un d'eux 
-T239	TIME 13413 13436	six heures dix minutes 
-T240	VEH 13511 13529	la grande voiture 
-T241	PER 13670 13737	cinq belles filles choisies avec soin par un camarade du capitaine 
-T242	PER 19995 20006	les femmes 
-T243	PER 14494 14505	des femmes 
-T244	PER 19229 19239	nos dames 
-T245	PER 21119 21130	Les filles 
-T246	PER 13630 13642	cinq femmes 
-T247	PER 13712 13737	un camarade du capitaine 
-T248	PER 13786 13798	son officier
-T249	PER 13886 13899	les Prussiens
-T250	PER 20664 20678	leurs maîtres 
-T251	PER 22161 22174	des Prussiens
-T252	TIME 13908 13919	trois mois 
-T253	PER 13967 13974	hommes 
-T254	FAC 14046 14051	route
-T255	FAC 14409 14432	une taverne de bandits 
-T256	PER 14424 14432	bandits 
-T257	PER 14610 14627	filles à plaisir 
-T258	PER 14638 14660	les trois jeunes gens 
-T259	PER 16622 16628	Paméla
-T260	PER 15106 15115	Numéro un
-T261	PER 15033 15038	Elle 
-T262	PER 16630 16639	Blondine 
-T263	PER 15183 15191	Blondine
-T264	PER 15257 15273	la grosse Amanda
-T265	PER 15275 15291	Éva _la Tomate_ 
-T266	PER 15416 15426	une juive 
-T267	PER 16231 16238	Rachel 
-T268	PER 18732 18740	la juive
-T269	PER 20021 20027	Rachel
-T270	PER 21825 21830	Elle 
-T271	PER 26000 26015	sa prisonnière 
-T272	PER 21192 21199	Rachel 
-T273	PER 24271 24277	Rachel
-T274	PER 24392 24401	La juive 
-T275	PER 20325 20344	La fille, exaspérée
-T276	PER 25754 25771	une pauvre fille 
-T277	PER 22116 22127	une putain 
-T278	PER 26332 26341	une Dame 
-T279	PER 18226 18233	Rachel 
-T280	PER 18864 18879	la jeune femme 
-T281	PER 22178 22183	Elle 
-T282	PER 21398 21403	Elle 
-T283	PER 20701 20706	Elle 
-T284	PER 22065 22069	Moi 
-T285	FAC 15764 15785	des maisons publiques
-T286	PER 15787 15809	Les trois jeunes gens 
-T287	PER 15846 15858	leurs femmes
-T288	PER 16113 16131	les autres couples
-T289	PER 16693 16698	Vous 
-T290	PER 16795 16810	femmes du monde
-T291	LOC 16802 16810	du monde
-T292	PER 16832 16847	leurs voisines 
-T293	GPE 16866 16879	Kelweingstein
-T294	LOC 17018 17026	du Rhin 
-T295	FAC 17050 17057	taverne
-T296	PER 17117 17138	aux filles au milieu 
-T297	PER 17395 17405	des folles
-T298	PER 17934 17942	l'ennemi
-T299	PER 18124 18148	des soldats impassibles 
-T300	PER 19193 19214	l'impératrice Augusta
-T301	PER 19440 19445	l'un 
-T302	PER 20081 20093	des Français
-T303	PER 20856 20868	les Français
-T304	LOC 20870 20878	les bois
-T305	LOC 20880 20891	les champs 
-T306	FAC 20894 20916	les maisons de France 
-T307	GPE 21072 21082	la Prusse 
-T308	PER 21366 21394	toutes les femmes de France 
-T309	PER 21732 21752	les femmes de France
-T310	PER 22092 22101	une femme
-T311	TIME 22820 22827	la nuit
-T312	TIME 22868 22880	deux minutes
-T313	PER 22958 22968	les femmes
-T314	FAC 23073 23084	une chambre
-T315	PER 23103 23114	deux hommes
-T316	PER 23116 23143	les quatre filles éperdues 
-T317	PER 23174 23186	ses soldats 
-T318	PER 23230 23241	la fugitive
-T319	PER 23273 23310	Cinquante hommes, fouettés de menaces
-T320	FAC 23331 23338	le parc
-T321	PER 23340 23358	Deux cents autres 
-T322	LOC 23370 23379	les bois 
-T323	FAC 23382 23413	toutes les maisons de la vallée
-T324	LOC 23404 23413	la vallée
-T325	PER 23490 23582	les quatre officiers, rigides, dégrisés, avec la face dure des hommes de guerre en fonctions
-T326	PER 23549 23582	des hommes de guerre en fonctions
-T327	TIME 23630 23637	la nuit
-T328	TIME 23889 23902	quatre heures
-T329	TIME 24068 24076	Au matin
-T330	PER 24078 24092	tout le monde 
-T331	PER 24100 24113	Deux soldats 
-T332	PER 24134 24175	trois autres blessés par leurs camarades 
-T333	PER 24159 24175	leurs camarades 
-T334	PER 24285 24299	les habitants 
-T335	FAC 24318 24343	les demeures bouleversées
-T336	ORG 24558 24565	l'armée
-T337	GPE 24966 24971	Eyrik
-T338	PER 25089 25100	des soldats
-T339	PER 25129 25137	soldats 
-T340	FAC 25204 25216	au cimetière
-T341	TIME 25348 25356	le soir 
-T342	TIME 25367 25380	le lendemain 
-T343	TIME 25390 25405	tous les jours 
-T344	TIME 25456 25463	la nuit
-T345	PER 25617 25642	Tous les paysans du lieu 
-T346	LOC 25634 25642	du lieu 
-T347	PER 25843 25858	ces deux hommes
-T348	PER 25689 25713	le curé et le sacristain
-T349	PER 25700 25713	le sacristain
-T350	FAC 25733 25743	du clocher
-T351	PER 25889 25911	des troupes allemandes
-T352	TIME 25919 25926	un soir
-T353	VEH 25951 25979	le char-à-bancs du boulanger
-T354	FAC 26118 26133	le logis public
-T355	PER 26140 26152	la patronne 
-T356	PER 26212 26238	un patriote sans préjugés 
-T357	PER 26381 26396	MADAME BAPTISTE
-T358	PER 38588 38596	monsieur
-T359	PER 35298 35303	Vous 
-T360	PER 36055 36063	monsieur
-T361	PER 37994 37999	Vous 
-T362	PER 33655 33663	monsieur
-T363	FAC 26417 26461	la salle des voyageurs de la gare de Loubain
-T364	PER 26430 26440	voyageurs 
-T365	FAC 26773 26780	la gare
-T366	FAC 26443 26461	la gare de Loubain
-T367	GPE 27936 27946	une ville 
-T368	GPE 26454 26461	Loubain
-T369	GPE 35439 35448	la ville 
-T370	GPE 28626 28634	la ville
-T371	TIME 26521 26545	deux heures dix minutes 
-T372	VEH 26545 26563	l'express de Paris
-T373	GPE 26558 26563	Paris
-T374	GPE 50579 50584	Paris
-T375	FAC 26848 26854	La rue
-T376	FAC 26921 26952	maisons inégales et différentes
-T377	LOC 27004 27012	colline 
-T378	FAC 27064 27072	un parc 
-T379	FAC 27125 27136	la chaussée
-T380	LOC 27148 27184	les ruisseaux d'une manière délicate
-T381	FAC 27263 27270	cuisine
-T382	PER 27294 27299	homme
-T383	FAC 27419 27449	le petit café du chemin de fer
-T384	FAC 27433 27449	du chemin de fer
-T385	LOC 27499 27506	du lieu
-T386	VEH 27524 27542	un convoi funèbre 
-T387	FAC 27555 27572	une rue latérale 
-T388	VEH 27624 27638	du corbillard 
-T389	PER 34726 34731	Elle 
-T390	PER 31817 31838	La petite Fontanelle 
-T391	PER 29495 29513	Cette jeune femme 
-T392	PER 36859 36864	Elle 
-T393	PER 30168 30185	cette jeune femme
-T394	PER 30209 30247	la fille d'un riche commerçant du pays
-T395	PER 37452 37466	la jeune femme
-T396	PER 36030 36047	cette pauvre dame
-T397	PER 30628 30644	La petite fille 
-T398	PER 27745 27753	Le mort 
-T399	PER 30500 30518	la pauvre martyre 
-T400	PER 30524 30570	victime des honteuses pratiques de cette brute
-T401	PER 36400 36416	madame Baptiste 
-T402	PER 29022 29030	le mort 
-T403	PER 31158 31167	l'enfant 
-T404	PER 34083 34097	cette femme-là
-T405	PER 28140 28153	ce défunt-là 
-T406	PER 30906 30926	la petite Fontanelle
-T407	PER 33898 33914	Mlle Fontanelle 
-T408	PER 30802 30807	Elle 
-T409	PER 30835 30869	une sorte de monstre, de phénomène
-T410	PER 36743 36751	Laquelle
-T411	PER 32139 32160	cette jeune personne 
-T412	PER 36622 36640	cette malheureuse 
-T413	PER 32027 32032	Elle 
-T414	PER 33511 33522	leur fille 
-T415	PER 29090 29099	une morte
-T416	PER 31238 31258	cette pauvre petite 
-T417	PER 29084 29086	C'
-T418	PER 33575 33580	Elle 
-T419	PER 27775 27790	huit messieurs 
-T420	PER 28380 28398	les huit messieurs
-T421	PER 27795 27798	un 
-T422	PER 27848 27855	prêtre 
-T423	PER 27985 28016	une centaine de libre-penseurs 
-T424	PER 28001 28016	libre-penseurs 
-T425	VEH 28291 28310	la voiture funèbre 
-T426	TIME 28411 28442	une heure au moins d'occupation
-T427	PER 29694 29699	Vous 
-T428	PER 29740 29748	monsieur
-T429	PER 28506 28524	Les deux derniers 
-T430	PER 28875 28884	messieurs
-T431	PER 29057 29071	des messieurs 
-T432	PER 28658 28677	les deux précédents
-T433	PER 28804 28815	mes voisins
-T434	PER 29054 29071	Un des messieurs 
-T435	PER 29870 29882	Le monsieur 
-T436	PER 29197 29213	L'autre monsieur
-T437	PER 29415 29436	Mon obligeant voisin 
-T438	PER 37848 37859	Le conteur 
-T439	ORG 29283 29293	Le clergé 
-T440	FAC 38060 38068	l'église
-T441	FAC 29319 29327	l'église
-T442	PER 29597 29606	son mari 
-T443	FAC 38346 38358	du cimetière
-T444	FAC 30057 30069	au cimetière
-T445	PER 30220 30247	un riche commerçant du pays
-T446	LOC 30240 30247	du pays
-T447	PER 30285 30291	enfant
-T448	TIME 30295 30312	l'âge de onze ans
-T449	TIME 30304 30312	onze ans
-T450	PER 33082 33091	du valet 
-T451	PER 30338 30347	un valet 
-T452	PER 35808 35816	Baptiste
-T453	PER 30559 30570	cette brute
-T454	PER 30572 30580	L'homme 
-T455	PER 30414 30427	sa brutalité 
-T456	TIME 30489 30500	trois mois 
-T457	PER 30685 30693	camarade
-T458	PER 30717 30739	les grandes personnes 
-T459	GPE 38112 38127	toute la ville 
-T460	GPE 30826 30835	la ville 
-T461	FAC 30935 30942	la rue 
-T462	FAC 32444 32450	la rue
-T463	FAC 32607 32613	la rue
-T464	PER 30942 30956	tout le monde 
-T465	PER 31064 31098	les servantes des autres familles 
-T466	PER 31078 31098	des autres familles 
-T467	PER 31285 31297	les mioches 
-T468	TIME 31297 31318	toutes les après-midi
-T469	PER 32015 32023	sa bonne
-T470	PER 31361 31374	sa domestique
-T471	PER 31402 31420	les autres gamins 
-T472	PER 31494 31505	aux enfants
-T473	PER 31578 31588	un groupe 
-T474	PER 31684 31693	les mères
-T475	PER 31684 31717	les mères, les bonnes, les tantes
-T476	PER 31707 31717	les tantes
-T477	PER 31748 31784	les fillettes confiées à leur garde 
-T478	PER 32081 32099	les jeunes filles 
-T479	PER 32107 32121	une pestiférée
-T480	PER 32338 32348	les mères 
-T481	TIME 32388 32416	le soir seulement du mariage
-T482	PER 32467 32481	sa gouvernante
-T483	PER 32699 32723	les autres jeunes filles
-T484	PER 32937 32953	quelques hommes 
-T485	OTHER 32970 32980	Les mères 
-T486	PER 33018 33041	Quelques petits voyous 
-T487	PER 33056 33072	madame Baptiste 
-T488	PER 33476 33497	M. et Mme Fontanelle 
-T489	PER 33230 33242	Ses parents 
-T490	PER 33361 33378	Un honnête homme 
-T491	PER 33416 33432	un forçat libéré
-T492	PER 33448 33458	ce forçat 
-T493	PER 33465 33474	son fils 
-T494	PER 33476 33477	M
-T495	PER 33482 33497	Mme Fontanelle 
-T496	PER 33547 33571	un fils sortant du bagne
-T497	PER 35044 35097	Le préfet, entouré de son état-major et des autorités
-T498	PER 33711 33733	un nouveau sous-préfet
-T499	TIME 33752 33765	dix-huit mois
-T500	PER 35677 35703	le secrétaire particulier 
-T501	PER 34416 34425	son mari 
-T502	PER 34127 34130	Il 
-T503	PER 37655 37664	son mari 
-T504	PER 38444 38461	du pauvre garçon 
-T505	PER 37236 37245	M. Hamot 
-T506	PER 33785 33811	son secrétaire particulier
-T507	PER 33891 33894	Il 
-T508	PER 35785 35788	Tu 
-T509	PER 35226 35252	son secrétaire particulier
-T510	PER 33813 33832	un drôle de garçon 
-T511	FAC 33859 33876	le quartier Latin
-T512	PER 34255 34274	Quelques personnes 
-T513	LOC 34370 34378	le monde
-T514	NO_PER 34431 34438	un dieu
-T515	PER 34641 34648	hommes 
-T516	PER 34782 34820	les personnes les plus chatouilleuses 
-T517	TIME 35003 35015	l'autre jour
-T518	LOC 35035 35042	du pays
-T519	ORG 35066 35081	son état-major 
-T520	PER 35066 35097	son état-major et des autorités
-T521	ORG 35084 35097	des autorités
-T522	PER 35121 35133	des orphéons
-T523	PER 35407 35415	aux gens
-T524	PER 35419 35448	Toutes les dames de la ville 
-T525	FAC 35464 35473	l'estrade
-T526	PER 35497 35537	le chef de musique du bourg de Mormillon
-T527	PER 37268 37290	ce grossier personnage
-T528	PER 35736 35746	cet homme 
-T529	GPE 35528 35537	Mormillon
-T530	PER 35639 35652	tout le monde
-T531	PER 35913 35930	un tas de peuple 
-T532	PER 35923 35930	peuple 
-T533	PER 35949 35959	Le peuple 
-T534	PER 36085 36095	une femme 
-T535	PER 36302 36320	toute cette foule 
-T536	PER 36368 36377	le public
-T537	PER 36642 36652	des maris 
-T538	PER 36663 36676	leurs femmes 
-T539	PER 36718 36727	des gens 
-T540	PER 36771 36782	Les gamins 
-T541	PER 36962 36973	l'assemblée
-T542	TIME 37391 37401	Une heure 
-T543	PER 37421 37431	les Hamot 
-T544	FAC 37638 37646	du pont 
-T545	LOC 37711 37721	la rivière
-T546	FAC 37749 37759	les arches
-T547	TIME 37768 37780	deux heures 
-T548	ORG 38029 38039	le clergé 
-T549	PER 38207 38220	les familles 
-T550	PER 38307 38314	prêtres
-T551	PER 45722 45738	M. de Coutelier 
-T552	PER 45618 45627	le baron 
-T553	PER 43933 43949	M. de Coutelier 
-T554	PER 47670 47672	J'
-T555	PER 47595 47608	son vieil ami
-T556	PER 51832 51840	leur ami
-T557	PER 47498 47510	un monsieur 
-T558	PER 47532 47579	le baron, changé, vieilli, en costume de voyage
-T559	PER 46024 46033	Le baron 
-T560	PER 42523 42533	son maître
-T561	PER 46049 46053	Moi 
-T562	PER 42586 42595	le baron 
-T563	PER 41316 41332	monsieur Hector 
-T564	PER 44790 44799	Le baron 
-T565	PER 39159 39162	Il 
-T566	PER 48425 48433	du baron
-T567	PER 41423 41432	le baron 
-T568	PER 41982 41991	le baron 
-T569	PER 50930 50932	J'
-T570	PER 48771 48786	M. de Coutelier
-T571	PER 39974 39982	chasseur
-T572	PER 43451 43465	un homme foutu
-T573	PER 51330 51339	du baron 
-T574	PER 40243 40265	Le baron de Coutelier 
-T575	PER 48953 48962	du baron 
-T576	PER 46721 46730	le baron 
-T577	PER 49391 49406	M. de Coutelier
-T578	PER 51656 51665	Le baron 
-T579	PER 43543 43551	le baron
-T580	PER 45318 45321	Il 
-T581	PER 38659 38662	Il 
-T582	PER 45182 45190	Le baron
-T583	PER 47221 47229	du baron
-T584	PER 47078 47094	M. de Coutelier 
-T585	PER 49228 49237	Le baron 
-T586	TIME 38740 38754	tous les jours
-T587	TIME 38756 38765	du matin 
-T588	TIME 38765 38772	au soir
-T589	TIME 38815 38821	hiver 
-T590	TIME 38832 38845	au printemps 
-T591	TIME 38853 38862	l'automne
-T592	LOC 38864 38873	au marais
-T593	LOC 38910 38920	la plaine 
-T594	LOC 38910 38932	la plaine et les bois 
-T595	LOC 38923 38932	les bois 
-T596	TIME 39179 39199	cinquante ans sonnés
-T597	LOC 39465 39481	dans la contrée 
-T598	PER 39530 39566	le baron Hector Gontran de Coutelier
-T599	LOC 39581 39599	au milieu des bois
-T600	LOC 39591 39599	des bois
-T601	FAC 39601 39616	un petit manoir
-T602	PER 39662 39695	toute la noblesse du département 
-T603	GPE 39680 39695	du département 
-T604	PER 39709 39738	tous ses représentants mâles 
-T605	PER 43067 43076	ses amis 
-T606	PER 40291 40299	ses amis
-T607	PER 39816 39829	les Courville
-T608	PER 39802 39814	une famille 
-T609	PER 47115 47147	Les Courville, étonnés, inquiets
-T610	PER 41336 41375	Courville, Darnetot et les deux femmes 
-T611	PER 48312 48329	Toute la famille 
-T612	FAC 39895 39908	cette maison 
-T613	PER 46397 46402	Vous 
-T614	PER 46377 46393	M. de Courville 
-T615	PER 51256 51272	M. de Courville 
-T616	PER 49609 49616	mon ami
-T617	PER 46194 46201	mon ami
-T618	PER 51946 51962	M. de Courville 
-T619	PER 51778 51794	M. de Courville 
-T620	PER 47455 47470	M. de Courville
-T621	PER 41336 41345	Courville
-T622	PER 51121 51126	Vous 
-T623	PER 46153 46166	son compagnon
-T624	PER 48819 48834	M. de Courville
-T625	PER 51595 51604	son mari 
-T626	PER 46569 46584	M. de Courville
-T627	PER 40021 40037	M. de Courville 
-T628	PER 49322 49349	M. de Courville, impatienté
-T629	PER 40043 40067	son ami et son camarade 
-T630	PER 45877 45892	M. de Courville
-T631	PER 47895 47911	M. de Courville 
-T632	GPE 46383 46393	Courville 
-T633	GPE 48825 48834	Courville
-T634	GPE 47901 47911	Courville 
-T635	GPE 45883 45892	Courville
-T636	GPE 49328 49337	Courville
-T637	GPE 40027 40037	Courville 
-T638	GPE 51262 51272	Courville 
-T639	GPE 51952 51962	Courville 
-T640	GPE 47461 47470	Courville
-T641	GPE 51784 51794	Courville 
-T642	GPE 42648 42658	Courville 
-T643	GPE 46575 46584	Courville
-T644	PER 40043 40051	son ami 
-T645	PER 40054 40067	son camarade 
-T646	PER 40136 40144	sa femme
-T647	PER 51519 51536	Mme de Courville 
-T648	PER 43512 43520	sa mère 
-T649	PER 51462 51470	sa femme
-T650	PER 40146 40155	sa fille 
-T651	PER 43490 43506	Mme de Darnetot 
-T652	PER 40158 40168	son gendre
-T653	PER 41347 41356	Darnetot 
-T654	NO_PER 42440 42452	Son piqueur 
-T655	NO_PER 40564 40570	Médor 
-T656	NO_PER 42477 42488	cet écuyer 
-T657	NO_PER 41232 41237	Médor
-T658	NO_PER 42456 42472	son garde-malade
-T659	NO_PER 45656 45662	Médor 
-T660	NO_PER 41095 41101	Médor 
-T661	NO_PER 45133 45139	Médor 
-T662	LOC 40977 40987	la lisière
-T663	PER 43262 43273	les femmes 
-T664	PER 41359 41375	les deux femmes 
-T665	PER 42635 42658	Les dames de Courville 
-T666	TIME 42203 42213	deux mois 
-T667	FAC 42310 42321	sa cuisine 
-T668	PER 42325 42343	un vieux serviteur
-T669	LOC 43029 43038	au marais
-T670	TIME 43048 43056	un soir 
-T671	PER 43555 43569	Tout le monde 
-T672	TIME 43635 43651	toute la soirée 
-T673	PER 43657 43668	les veuves 
-T674	PER 46478 46496	une femme comme ça
-T675	PER 51734 51741	Berthe 
-T676	PER 49757 49767	cette dame
-T677	PER 48175 48185	cette dame
-T678	PER 50482 50496	cette personne
-T679	PER 45943 45959	sa nouvelle amie
-T680	PER 45201 45210	son élève
-T681	PER 47359 47370	Mme Vilers 
-T682	PER 48614 48624	Mme Vilers
-T683	PER 47172 47182	leur amie 
-T684	PER 45462 45481	Mme Vilers, éperdue
-T685	PER 48888 48898	votre amie
-T686	PER 45792 45805	Quelle femme 
-T687	PER 43712 43798	une femme de quarante ans, encore jolie, assez riche, de belle humeur et bien portante
-T688	TIME 43725 43737	quarante ans
-T689	PER 43815 43832	Mme Berthe Vilers
-T690	TIME 43855 43863	un mois 
-T691	FAC 43863 43873	au château
-T692	TIME 44026 44046	des heures entières 
-T693	PER 44277 44306	aux hommes de sa connaissance
-T694	TIME 44355 44362	un soir
-T695	PER 44466 44471	femme
-T696	PER 44551 44565	tout le monde 
-T697	NO_PER 44636 44643	amazone
-T698	PER 44773 44788	valet de chiens
-T699	LOC 45005 45013	un champ
-T700	PER 45062 45075	une nourrice 
-T701	PER 45087 45102	son nourrisson 
-T702	PER 45645 45651	un fou
-T703	TIME 45713 45720	ce jour
-T704	TIME 45822 45837	tous les soirs 
-T705	TIME 46235 46242	la nuit
-T706	TIME 46251 46263	trois jours 
-T707	TIME 46552 46565	toute l'année
-T708	GPE 46854 46859	Paris
-T709	TIME 46981 46993	le lendemain
-T710	TIME 47021 47032	Une semaine
-T711	TIME 47021 47064	Une semaine, deux semaines, trois semaines 
-T712	TIME 47034 47047	deux semaines
-T713	TIME 47049 47064	trois semaines 
-T714	TIME 47243 47263	tous les deux jours 
-T715	PER 47308 47323	ses serviteurs 
-T716	TIME 47344 47351	un soir
-T717	PER 47407 47417	une bonne 
-T718	PER 48079 48092	honnête homme
-T719	PER 48457 48477	des enfants naturels
-T720	TIME 48674 48692	Trois mois encore 
-T721	TIME 48706 48713	Un soir
-T722	TIME 48806 48814	le soir 
-T723	TIME 49598 49607	vingt ans
-T724	TIME 50003 50013	seize ans 
-T725	PER 50256 50265	le maire 
-T726	PER 50256 50278	le maire et le prêtre 
-T727	PER 50268 50278	le prêtre 
-T728	PER 50378 50395	Un honnête homme 
-T729	TIME 50566 50584	huit jours à Paris
-T730	TIME 50599 50609	huit jours
-T731	TIME 50949 50961	quinze jours
-T732	TIME 50963 50977	trois semaines
-T733	FAC 51014 51030	les restaurants 
-T734	FAC 51414 51424	sa demeure
-T735	PER 51880 51888	sa femme
+T105	GPE 1858 1867	Autriche 
+T106	PER 2369 2377	un moine
+T107	TIME 2567 2575	le matin
+T108	PER 2895 2901	filles
+T109	TIME 2933 2944	trois mois 
+T110	PER 3054 3062	un homme
+T111	FAC 3912 3950	La salle à manger du château d'Uville 
+T112	FAC 8187 8204	la salle à manger
+T113	FAC 4555 4633	cette pièce mutilée, assombrie par l'averse, attristante par son aspect vaincu
+T114	FAC 14163 14180	la salle à manger
+T115	FAC 3183 3192	la salle 
+T116	FAC 3956 3983	une longue et royale pièce 
+T117	FAC 10012 10029	la salle à manger
+T118	PER 3207 3244	les trois officiers de moindre grade 
+T119	PER 3246 3259	un lieutenant
+T120	PER 20059 20062	Tu 
+T121	PER 16758 16763	Otto 
+T122	PER 19774 19792	le lieutenant Otto
+T123	PER 15238 15257	au lieutenant Otto 
+T124	PER 22918 22923	Otto 
+T125	PER 5654 5673	le lieutenant Otto 
+T126	PER 22689 22707	du lieutenant Otto
+T127	PER 7232 7251	le lieutenant Otto 
+T128	PER 3304 3324	Fritz Scheunaubourg 
+T129	PER 12718 12737	Le lieutenant Fritz
+T130	PER 16766 16771	Fritz
+T131	PER 5676 5700	le sous-lieutenant Fritz
+T132	PER 15291 15315	au sous-lieutenant Fritz
+T133	PER 22909 22915	Fritz 
+T134	PER 3304 3352	Fritz Scheunaubourg et le marquis Wilhem d'Eyrik
+T135	GPE 20843 20853	la France 
+T136	GPE 11992 12007	le pays entier 
+T137	GPE 21746 21752	France
+T138	GPE 20687 20697	la France 
+T139	GPE 21387 21394	France 
+T140	GPE 20909 20916	France 
+T141	GPE 3479 3485	France
+T142	GPE 24808 24815	le pays
+T143	GPE 19949 19959	la France 
+T144	PER 3487 3501	ses camarades 
+T145	PER 3526 3535	Mlle Fifi
+T146	PER 3537 3547	Ce surnom 
+T147	GPE 4064 4076	des Flandres
+T148	PER 4237 4244	famille
+T149	PER 4246 4269	un guerrier vêtu de fer
+T150	PER 4246 4298	un guerrier vêtu de fer, un cardinal et un président
+T151	PER 4271 4283	un cardinal 
+T152	PER 4286 4298	un président
+T153	PER 10127 10145	tous les officiers
+T154	PER 6338 6357	tous les officiers 
+T155	PER 15526 15539	des officiers
+T156	PER 17952 18046	les hommes eux-mêmes, grisés par cette chair de femme étalée sous leur nez et sous leurs mains
+T157	PER 4508 4522	des officiers 
+T158	PER 12641 12657	Les cinq hommes 
+T159	PER 19514 19540	les femmes, ivres à tomber
+T160	PER 8816 8834	tous les officiers
+T161	PER 17432 17445	leurs voisins
+T162	PER 11908 11939	Le commandant et ses officiers 
+T163	FAC 4705 4712	cabaret
+T164	TIME 4716 4732	l'heure du tabac
+T165	TIME 4815 4826	chaque jour
+T166	PER 5120 5134	des Hottentots
+T167	PER 5274 5284	un soldat 
+T168	PER 5459 5468	des gens 
+T169	NO_PER 5574 5578	Dieu
+T170	PER 16742 16810	Les lieutenants Otto et Fritz, polis comme auprès de femmes du monde
+T171	PER 9248 9267	Tous les Allemands 
+T172	PER 22909 22923	Fritz et Otto 
+T173	PER 5654 5700	le lieutenant Otto et le sous-lieutenant Fritz
+T174	PER 6078 6089	_Le Devoir_
+T175	PER 6581 6604	un vieux sous-officier 
+T176	PER 13743 13755	_Le Devoir_ 
+T177	PER 6560 6571	_Le Devoir_
+T178	PER 6109 6119	des dames 
+T179	PER 24723 24743	des filles publiques
+T180	TIME 6230 6246	une bonne soirée
+T181	GPE 6262 6272	Farlsberg 
+T182	GPE 8721 8731	Farlsberg 
+T183	GPE 24762 24771	Farlsberg
+T184	PER 6690 6699	ses chefs
+T185	TIME 6815 6837	cinq minutes plus tard
+T186	VEH 6839 6924	une grande voiture du train militaire, couverte d'une bâche de meunier tendue en dôme
+T187	VEH 6858 6876	du train militaire
+T188	PER 6902 6910	meunier 
+T189	PER 7812 7825	tout le monde
+T190	PER 7957 7990	le comte Fernand d'Amoys d'Uville
+T191	PER 14363 14378	le propriétaire
+T192	PER 8244 8253	du maître
+T193	GPE 7976 7990	Amoys d'Uville
+T194	FAC 9783 9809	le vaste salon bouleversé 
+T195	FAC 8927 8936	le salon 
+T196	FAC 8142 8157	son grand salon
+T197	FAC 8266 8286	une galerie de musée
+T198	FAC 8281 8286	musée
+T199	FAC 8288 8302	Aux murailles 
+T200	PER 8703 8731	le major comte de Farlsberg 
+T201	TIME 8836 8846	ce jour-là
+T202	TIME 8877 8889	cinq minutes
+T203	FAC 9179 9199	l'appartement voisin
+T204	PER 9831 9840	la Néron 
+T205	FAC 10243 10251	la pièce
+T206	FAC 10488 10563	le clocher de l'église dressé comme une pointe grise dans la pluie battante
+T207	FAC 10502 10563	l'église dressé comme une pointe grise dans la pluie battante
+T208	PER 10652 10669	les envahisseurs 
+T209	FAC 10709 10719	du clocher
+T210	PER 11540 11551	son pasteur
+T211	PER 25689 25697	le curé 
+T212	PER 26053 26063	le prêtre 
+T213	PER 24995 25005	le prêtre 
+T214	PER 12242 12252	le prêtre 
+T215	PER 11342 11360	l'abbé Chantavoine
+T216	PER 10721 10729	Le curé 
+T217	PER 24894 24902	le curé 
+T218	PER 25928 25936	le curé 
+T219	PER 10781 10803	des soldats prussiens 
+T220	PER 10894 10914	le commandant ennemi
+T221	PER 11220 11229	au prêtre
+T222	PER 11268 11281	tout le monde
+T223	FAC 11438 11448	son église
+T224	PER 11450 11502	Le village entier, enthousiasmé par cette résistance
+T225	PER 11661 11673	aux paysans 
+T226	GPE 11724 11732	Belfort 
+T227	GPE 11739 11749	Strasbourg
+T228	GPE 11806 11816	du hameau 
+T229	PER 11882 11906	aux Prussiens vainqueurs
+T230	PER 11925 11939	ses officiers 
+T231	TIME 12257 12269	chaque jour 
+T232	PER 12461 12466	femme
+T233	TIME 12679 12695	quelques minutes
+T234	PER 12784 12800	Ces temoiselles 
+T235	TIME 13017 13033	la nuit tombante
+T236	TIME 13213 13222	le matin 
+T237	PER 13376 13387	l'un d'eux 
+T238	TIME 13413 13436	six heures dix minutes 
+T239	VEH 13511 13529	la grande voiture 
+T240	PER 13670 13737	cinq belles filles choisies avec soin par un camarade du capitaine 
+T241	PER 19995 20006	les femmes 
+T242	PER 14494 14505	des femmes 
+T243	PER 19229 19239	nos dames 
+T244	PER 21119 21130	Les filles 
+T245	PER 13630 13642	cinq femmes 
+T246	PER 13712 13737	un camarade du capitaine 
+T247	PER 13786 13798	son officier
+T248	PER 13886 13899	les Prussiens
+T249	PER 20664 20678	leurs maîtres 
+T250	PER 22161 22174	des Prussiens
+T251	TIME 13908 13919	trois mois 
+T252	PER 13967 13974	hommes 
+T253	FAC 14046 14051	route
+T254	FAC 14409 14432	une taverne de bandits 
+T255	PER 14424 14432	bandits 
+T256	PER 14610 14627	filles à plaisir 
+T257	PER 14638 14660	les trois jeunes gens 
+T258	PER 16622 16628	Paméla
+T259	PER 15106 15115	Numéro un
+T260	PER 15033 15038	Elle 
+T261	PER 16630 16639	Blondine 
+T262	PER 15183 15191	Blondine
+T263	PER 15257 15273	la grosse Amanda
+T264	PER 15275 15291	Éva _la Tomate_ 
+T265	PER 15416 15426	une juive 
+T266	PER 16231 16238	Rachel 
+T267	PER 18732 18740	la juive
+T268	PER 20021 20027	Rachel
+T269	PER 21825 21830	Elle 
+T270	PER 26000 26015	sa prisonnière 
+T271	PER 21192 21199	Rachel 
+T272	PER 24271 24277	Rachel
+T273	PER 24392 24401	La juive 
+T274	PER 20325 20344	La fille, exaspérée
+T275	PER 25754 25771	une pauvre fille 
+T276	PER 22116 22127	une putain 
+T277	PER 26332 26341	une Dame 
+T278	PER 18226 18233	Rachel 
+T279	PER 18864 18879	la jeune femme 
+T280	PER 22178 22183	Elle 
+T281	PER 21398 21403	Elle 
+T282	PER 20701 20706	Elle 
+T283	PER 22065 22069	Moi 
+T284	FAC 15764 15785	des maisons publiques
+T285	PER 15787 15809	Les trois jeunes gens 
+T286	PER 15846 15858	leurs femmes
+T287	PER 16113 16131	les autres couples
+T288	PER 16693 16698	Vous 
+T289	PER 16795 16810	femmes du monde
+T290	LOC 16802 16810	du monde
+T291	PER 16832 16847	leurs voisines 
+T292	GPE 16866 16879	Kelweingstein
+T293	LOC 17018 17026	du Rhin 
+T294	FAC 17050 17057	taverne
+T295	PER 17117 17138	aux filles au milieu 
+T296	PER 17395 17405	des folles
+T297	PER 17934 17942	l'ennemi
+T298	PER 18124 18148	des soldats impassibles 
+T299	PER 19193 19214	l'impératrice Augusta
+T300	PER 19440 19445	l'un 
+T301	PER 20081 20093	des Français
+T302	PER 20856 20868	les Français
+T303	LOC 20870 20878	les bois
+T304	LOC 20880 20891	les champs 
+T305	FAC 20894 20916	les maisons de France 
+T306	GPE 21072 21082	la Prusse 
+T307	PER 21366 21394	toutes les femmes de France 
+T308	PER 21732 21752	les femmes de France
+T309	PER 22092 22101	une femme
+T310	TIME 22820 22827	la nuit
+T311	TIME 22868 22880	deux minutes
+T312	PER 22958 22968	les femmes
+T313	FAC 23073 23084	une chambre
+T314	PER 23103 23114	deux hommes
+T315	PER 23116 23143	les quatre filles éperdues 
+T316	PER 23174 23186	ses soldats 
+T317	PER 23230 23241	la fugitive
+T318	PER 23273 23310	Cinquante hommes, fouettés de menaces
+T319	FAC 23331 23338	le parc
+T320	PER 23340 23358	Deux cents autres 
+T321	LOC 23370 23379	les bois 
+T322	FAC 23382 23413	toutes les maisons de la vallée
+T323	LOC 23404 23413	la vallée
+T324	PER 23490 23582	les quatre officiers, rigides, dégrisés, avec la face dure des hommes de guerre en fonctions
+T325	PER 23549 23582	des hommes de guerre en fonctions
+T326	TIME 23630 23637	la nuit
+T327	TIME 23889 23902	quatre heures
+T328	TIME 24068 24076	Au matin
+T329	PER 24078 24092	tout le monde 
+T330	PER 24100 24113	Deux soldats 
+T331	PER 24134 24175	trois autres blessés par leurs camarades 
+T332	PER 24159 24175	leurs camarades 
+T333	PER 24285 24299	les habitants 
+T334	FAC 24318 24343	les demeures bouleversées
+T335	ORG 24558 24565	l'armée
+T336	GPE 24966 24971	Eyrik
+T337	PER 25089 25100	des soldats
+T338	PER 25129 25137	soldats 
+T339	FAC 25204 25216	au cimetière
+T340	TIME 25348 25356	le soir 
+T341	TIME 25367 25380	le lendemain 
+T342	TIME 25390 25405	tous les jours 
+T343	TIME 25456 25463	la nuit
+T344	PER 25617 25642	Tous les paysans du lieu 
+T345	LOC 25634 25642	du lieu 
+T346	PER 25843 25858	ces deux hommes
+T347	PER 25689 25713	le curé et le sacristain
+T348	PER 25700 25713	le sacristain
+T349	FAC 25733 25743	du clocher
+T350	PER 25889 25911	des troupes allemandes
+T351	TIME 25919 25926	un soir
+T352	VEH 25951 25979	le char-à-bancs du boulanger
+T353	FAC 26118 26133	le logis public
+T354	PER 26140 26152	la patronne 
+T355	PER 26212 26238	un patriote sans préjugés 
+T356	PER 26381 26396	MADAME BAPTISTE
+T357	PER 38588 38596	monsieur
+T358	PER 35298 35303	Vous 
+T359	PER 36055 36063	monsieur
+T360	PER 37994 37999	Vous 
+T361	PER 33655 33663	monsieur
+T362	FAC 26417 26461	la salle des voyageurs de la gare de Loubain
+T363	PER 26430 26440	voyageurs 
+T364	FAC 26773 26780	la gare
+T365	FAC 26443 26461	la gare de Loubain
+T366	GPE 27936 27946	une ville 
+T367	GPE 26454 26461	Loubain
+T368	GPE 35439 35448	la ville 
+T369	GPE 28626 28634	la ville
+T370	TIME 26521 26545	deux heures dix minutes 
+T371	VEH 26545 26563	l'express de Paris
+T372	GPE 26558 26563	Paris
+T373	GPE 50579 50584	Paris
+T374	FAC 26848 26854	La rue
+T375	FAC 26921 26952	maisons inégales et différentes
+T376	LOC 27004 27012	colline 
+T377	FAC 27064 27072	un parc 
+T378	FAC 27125 27136	la chaussée
+T379	LOC 27148 27184	les ruisseaux d'une manière délicate
+T380	FAC 27263 27270	cuisine
+T381	PER 27294 27299	homme
+T382	FAC 27419 27449	le petit café du chemin de fer
+T383	FAC 27433 27449	du chemin de fer
+T384	LOC 27499 27506	du lieu
+T385	VEH 27524 27542	un convoi funèbre 
+T386	FAC 27555 27572	une rue latérale 
+T387	VEH 27624 27638	du corbillard 
+T388	PER 34726 34731	Elle 
+T389	PER 31817 31838	La petite Fontanelle 
+T390	PER 29495 29513	Cette jeune femme 
+T391	PER 36859 36864	Elle 
+T392	PER 30168 30185	cette jeune femme
+T393	PER 30209 30247	la fille d'un riche commerçant du pays
+T394	PER 37452 37466	la jeune femme
+T395	PER 36030 36047	cette pauvre dame
+T396	PER 30628 30644	La petite fille 
+T397	PER 27745 27753	Le mort 
+T398	PER 30500 30518	la pauvre martyre 
+T399	PER 30524 30570	victime des honteuses pratiques de cette brute
+T400	PER 36400 36416	madame Baptiste 
+T401	PER 29022 29030	le mort 
+T402	PER 31158 31167	l'enfant 
+T403	PER 34083 34097	cette femme-là
+T404	PER 28140 28153	ce défunt-là 
+T405	PER 30906 30926	la petite Fontanelle
+T406	PER 33898 33914	Mlle Fontanelle 
+T407	PER 30802 30807	Elle 
+T408	PER 30835 30869	une sorte de monstre, de phénomène
+T409	PER 36743 36751	Laquelle
+T410	PER 32139 32160	cette jeune personne 
+T411	PER 36622 36640	cette malheureuse 
+T412	PER 32027 32032	Elle 
+T413	PER 33511 33522	leur fille 
+T414	PER 29090 29099	une morte
+T415	PER 31238 31258	cette pauvre petite 
+T416	PER 29084 29086	C'
+T417	PER 33575 33580	Elle 
+T418	PER 27775 27790	huit messieurs 
+T419	PER 28380 28398	les huit messieurs
+T420	PER 27795 27798	un 
+T421	PER 27848 27855	prêtre 
+T422	PER 27985 28016	une centaine de libre-penseurs 
+T423	PER 28001 28016	libre-penseurs 
+T424	VEH 28291 28310	la voiture funèbre 
+T425	TIME 28411 28442	une heure au moins d'occupation
+T426	PER 29694 29699	Vous 
+T427	PER 29740 29748	monsieur
+T428	PER 28506 28524	Les deux derniers 
+T429	PER 28875 28884	messieurs
+T430	PER 29057 29071	des messieurs 
+T431	PER 28658 28677	les deux précédents
+T432	PER 28804 28815	mes voisins
+T433	PER 29054 29071	Un des messieurs 
+T434	PER 29870 29882	Le monsieur 
+T435	PER 29197 29213	L'autre monsieur
+T436	PER 29415 29436	Mon obligeant voisin 
+T437	PER 37848 37859	Le conteur 
+T438	ORG 29283 29293	Le clergé 
+T439	FAC 38060 38068	l'église
+T440	FAC 29319 29327	l'église
+T441	PER 29597 29606	son mari 
+T442	FAC 38346 38358	du cimetière
+T443	FAC 30057 30069	au cimetière
+T444	PER 30220 30247	un riche commerçant du pays
+T445	LOC 30240 30247	du pays
+T446	PER 30285 30291	enfant
+T447	TIME 30295 30312	l'âge de onze ans
+T448	TIME 30304 30312	onze ans
+T449	PER 33082 33091	du valet 
+T450	PER 30338 30347	un valet 
+T451	PER 35808 35816	Baptiste
+T452	PER 30559 30570	cette brute
+T453	PER 30572 30580	L'homme 
+T454	PER 30414 30427	sa brutalité 
+T455	TIME 30489 30500	trois mois 
+T456	PER 30685 30693	camarade
+T457	PER 30717 30739	les grandes personnes 
+T458	GPE 38112 38127	toute la ville 
+T459	GPE 30826 30835	la ville 
+T460	FAC 30935 30942	la rue 
+T461	FAC 32444 32450	la rue
+T462	FAC 32607 32613	la rue
+T463	PER 30942 30956	tout le monde 
+T464	PER 31064 31098	les servantes des autres familles 
+T465	PER 31078 31098	des autres familles 
+T466	PER 31285 31297	les mioches 
+T467	TIME 31297 31318	toutes les après-midi
+T468	PER 32015 32023	sa bonne
+T469	PER 31361 31374	sa domestique
+T470	PER 31402 31420	les autres gamins 
+T471	PER 31494 31505	aux enfants
+T472	PER 31578 31588	un groupe 
+T473	PER 31684 31693	les mères
+T474	PER 31684 31717	les mères, les bonnes, les tantes
+T475	PER 31707 31717	les tantes
+T476	PER 31748 31784	les fillettes confiées à leur garde 
+T477	PER 32081 32099	les jeunes filles 
+T478	PER 32107 32121	une pestiférée
+T479	PER 32338 32348	les mères 
+T480	TIME 32388 32416	le soir seulement du mariage
+T481	PER 32467 32481	sa gouvernante
+T482	PER 32699 32723	les autres jeunes filles
+T483	PER 32937 32953	quelques hommes 
+T484	OTHER 32970 32980	Les mères 
+T485	PER 33018 33041	Quelques petits voyous 
+T486	PER 33056 33072	madame Baptiste 
+T487	PER 33476 33497	M. et Mme Fontanelle 
+T488	PER 33230 33242	Ses parents 
+T489	PER 33361 33378	Un honnête homme 
+T490	PER 33416 33432	un forçat libéré
+T491	PER 33448 33458	ce forçat 
+T492	PER 33465 33474	son fils 
+T493	PER 33476 33477	M
+T494	PER 33482 33497	Mme Fontanelle 
+T495	PER 33547 33571	un fils sortant du bagne
+T496	PER 35044 35097	Le préfet, entouré de son état-major et des autorités
+T497	PER 33711 33733	un nouveau sous-préfet
+T498	TIME 33752 33765	dix-huit mois
+T499	PER 35677 35703	le secrétaire particulier 
+T500	PER 34416 34425	son mari 
+T501	PER 34127 34130	Il 
+T502	PER 37655 37664	son mari 
+T503	PER 38444 38461	du pauvre garçon 
+T504	PER 37236 37245	M. Hamot 
+T505	PER 33785 33811	son secrétaire particulier
+T506	PER 33891 33894	Il 
+T507	PER 35785 35788	Tu 
+T508	PER 35226 35252	son secrétaire particulier
+T509	PER 33813 33832	un drôle de garçon 
+T510	FAC 33859 33876	le quartier Latin
+T511	PER 34255 34274	Quelques personnes 
+T512	LOC 34370 34378	le monde
+T513	NO_PER 34431 34438	un dieu
+T514	PER 34641 34648	hommes 
+T515	PER 34782 34820	les personnes les plus chatouilleuses 
+T516	TIME 35003 35015	l'autre jour
+T517	LOC 35035 35042	du pays
+T518	ORG 35066 35081	son état-major 
+T519	PER 35066 35097	son état-major et des autorités
+T520	ORG 35084 35097	des autorités
+T521	PER 35121 35133	des orphéons
+T522	PER 35407 35415	aux gens
+T523	PER 35419 35448	Toutes les dames de la ville 
+T524	FAC 35464 35473	l'estrade
+T525	PER 35497 35537	le chef de musique du bourg de Mormillon
+T526	PER 37268 37290	ce grossier personnage
+T527	PER 35736 35746	cet homme 
+T528	GPE 35528 35537	Mormillon
+T529	PER 35639 35652	tout le monde
+T530	PER 35913 35930	un tas de peuple 
+T531	PER 35923 35930	peuple 
+T532	PER 35949 35959	Le peuple 
+T533	PER 36085 36095	une femme 
+T534	PER 36302 36320	toute cette foule 
+T535	PER 36368 36377	le public
+T536	PER 36642 36652	des maris 
+T537	PER 36663 36676	leurs femmes 
+T538	PER 36718 36727	des gens 
+T539	PER 36771 36782	Les gamins 
+T540	PER 36962 36973	l'assemblée
+T541	TIME 37391 37401	Une heure 
+T542	PER 37421 37431	les Hamot 
+T543	FAC 37638 37646	du pont 
+T544	LOC 37711 37721	la rivière
+T545	FAC 37749 37759	les arches
+T546	TIME 37768 37780	deux heures 
+T547	ORG 38029 38039	le clergé 
+T548	PER 38207 38220	les familles 
+T549	PER 38307 38314	prêtres
+T550	PER 45722 45738	M. de Coutelier 
+T551	PER 45618 45627	le baron 
+T552	PER 43933 43949	M. de Coutelier 
+T553	PER 47670 47672	J'
+T554	PER 47595 47608	son vieil ami
+T555	PER 51832 51840	leur ami
+T556	PER 47498 47510	un monsieur 
+T557	PER 47532 47579	le baron, changé, vieilli, en costume de voyage
+T558	PER 46024 46033	Le baron 
+T559	PER 42523 42533	son maître
+T560	PER 46049 46053	Moi 
+T561	PER 42586 42595	le baron 
+T562	PER 41316 41332	monsieur Hector 
+T563	PER 44790 44799	Le baron 
+T564	PER 39159 39162	Il 
+T565	PER 48425 48433	du baron
+T566	PER 41423 41432	le baron 
+T567	PER 41982 41991	le baron 
+T568	PER 50930 50932	J'
+T569	PER 48771 48786	M. de Coutelier
+T570	PER 39974 39982	chasseur
+T571	PER 43451 43465	un homme foutu
+T572	PER 51330 51339	du baron 
+T573	PER 40243 40265	Le baron de Coutelier 
+T574	PER 48953 48962	du baron 
+T575	PER 46721 46730	le baron 
+T576	PER 49391 49406	M. de Coutelier
+T577	PER 51656 51665	Le baron 
+T578	PER 43543 43551	le baron
+T579	PER 45318 45321	Il 
+T580	PER 38659 38662	Il 
+T581	PER 45182 45190	Le baron
+T582	PER 47221 47229	du baron
+T583	PER 47078 47094	M. de Coutelier 
+T584	PER 49228 49237	Le baron 
+T585	TIME 38740 38754	tous les jours
+T586	TIME 38756 38765	du matin 
+T587	TIME 38765 38772	au soir
+T588	TIME 38815 38821	hiver 
+T589	TIME 38832 38845	au printemps 
+T590	TIME 38853 38862	l'automne
+T591	LOC 38864 38873	au marais
+T592	LOC 38910 38920	la plaine 
+T593	LOC 38910 38932	la plaine et les bois 
+T594	LOC 38923 38932	les bois 
+T595	TIME 39179 39199	cinquante ans sonnés
+T596	LOC 39465 39481	dans la contrée 
+T597	PER 39530 39566	le baron Hector Gontran de Coutelier
+T598	LOC 39581 39599	au milieu des bois
+T599	LOC 39591 39599	des bois
+T600	FAC 39601 39616	un petit manoir
+T601	PER 39662 39695	toute la noblesse du département 
+T602	GPE 39680 39695	du département 
+T603	PER 39709 39738	tous ses représentants mâles 
+T604	PER 43067 43076	ses amis 
+T605	PER 40291 40299	ses amis
+T606	PER 39816 39829	les Courville
+T607	PER 39802 39814	une famille 
+T608	PER 47115 47147	Les Courville, étonnés, inquiets
+T609	PER 41336 41375	Courville, Darnetot et les deux femmes 
+T610	PER 48312 48329	Toute la famille 
+T611	FAC 39895 39908	cette maison 
+T612	PER 46397 46402	Vous 
+T613	PER 46377 46393	M. de Courville 
+T614	PER 51256 51272	M. de Courville 
+T615	PER 49609 49616	mon ami
+T616	PER 46194 46201	mon ami
+T617	PER 51946 51962	M. de Courville 
+T618	PER 51778 51794	M. de Courville 
+T619	PER 47455 47470	M. de Courville
+T620	PER 41336 41345	Courville
+T621	PER 51121 51126	Vous 
+T622	PER 46153 46166	son compagnon
+T623	PER 48819 48834	M. de Courville
+T624	PER 51595 51604	son mari 
+T625	PER 46569 46584	M. de Courville
+T626	PER 40021 40037	M. de Courville 
+T627	PER 49322 49349	M. de Courville, impatienté
+T628	PER 40043 40067	son ami et son camarade 
+T629	PER 45877 45892	M. de Courville
+T630	PER 47895 47911	M. de Courville 
+T631	GPE 46383 46393	Courville 
+T632	GPE 48825 48834	Courville
+T633	GPE 47901 47911	Courville 
+T634	GPE 45883 45892	Courville
+T635	GPE 49328 49337	Courville
+T636	GPE 40027 40037	Courville 
+T637	GPE 51262 51272	Courville 
+T638	GPE 51952 51962	Courville 
+T639	GPE 47461 47470	Courville
+T640	GPE 51784 51794	Courville 
+T641	GPE 42648 42658	Courville 
+T642	GPE 46575 46584	Courville
+T643	PER 40043 40051	son ami 
+T644	PER 40054 40067	son camarade 
+T645	PER 40136 40144	sa femme
+T646	PER 51519 51536	Mme de Courville 
+T647	PER 43512 43520	sa mère 
+T648	PER 51462 51470	sa femme
+T649	PER 40146 40155	sa fille 
+T650	PER 43490 43506	Mme de Darnetot 
+T651	PER 40158 40168	son gendre
+T652	PER 41347 41356	Darnetot 
+T653	NO_PER 42440 42452	Son piqueur 
+T654	NO_PER 40564 40570	Médor 
+T655	NO_PER 42477 42488	cet écuyer 
+T656	NO_PER 41232 41237	Médor
+T657	NO_PER 42456 42472	son garde-malade
+T658	NO_PER 45656 45662	Médor 
+T659	NO_PER 41095 41101	Médor 
+T660	NO_PER 45133 45139	Médor 
+T661	LOC 40977 40987	la lisière
+T662	PER 43262 43273	les femmes 
+T663	PER 41359 41375	les deux femmes 
+T664	PER 42635 42658	Les dames de Courville 
+T665	TIME 42203 42213	deux mois 
+T666	FAC 42310 42321	sa cuisine 
+T667	PER 42325 42343	un vieux serviteur
+T668	LOC 43029 43038	au marais
+T669	TIME 43048 43056	un soir 
+T670	PER 43555 43569	Tout le monde 
+T671	TIME 43635 43651	toute la soirée 
+T672	PER 43657 43668	les veuves 
+T673	PER 46478 46496	une femme comme ça
+T674	PER 51734 51741	Berthe 
+T675	PER 49757 49767	cette dame
+T676	PER 48175 48185	cette dame
+T677	PER 50482 50496	cette personne
+T678	PER 45943 45959	sa nouvelle amie
+T679	PER 45201 45210	son élève
+T680	PER 47359 47370	Mme Vilers 
+T681	PER 48614 48624	Mme Vilers
+T682	PER 47172 47182	leur amie 
+T683	PER 45462 45481	Mme Vilers, éperdue
+T684	PER 48888 48898	votre amie
+T685	PER 45792 45805	Quelle femme 
+T686	PER 43712 43798	une femme de quarante ans, encore jolie, assez riche, de belle humeur et bien portante
+T687	TIME 43725 43737	quarante ans
+T688	PER 43815 43832	Mme Berthe Vilers
+T689	TIME 43855 43863	un mois 
+T690	FAC 43863 43873	au château
+T691	TIME 44026 44046	des heures entières 
+T692	PER 44277 44306	aux hommes de sa connaissance
+T693	TIME 44355 44362	un soir
+T694	PER 44466 44471	femme
+T695	PER 44551 44565	tout le monde 
+T696	NO_PER 44636 44643	amazone
+T697	PER 44773 44788	valet de chiens
+T698	LOC 45005 45013	un champ
+T699	PER 45062 45075	une nourrice 
+T700	PER 45087 45102	son nourrisson 
+T701	PER 45645 45651	un fou
+T702	TIME 45713 45720	ce jour
+T703	TIME 45822 45837	tous les soirs 
+T704	TIME 46235 46242	la nuit
+T705	TIME 46251 46263	trois jours 
+T706	TIME 46552 46565	toute l'année
+T707	GPE 46854 46859	Paris
+T708	TIME 46981 46993	le lendemain
+T709	TIME 47021 47032	Une semaine
+T710	TIME 47021 47064	Une semaine, deux semaines, trois semaines 
+T711	TIME 47034 47047	deux semaines
+T712	TIME 47049 47064	trois semaines 
+T713	TIME 47243 47263	tous les deux jours 
+T714	PER 47308 47323	ses serviteurs 
+T715	TIME 47344 47351	un soir
+T716	PER 47407 47417	une bonne 
+T717	PER 48079 48092	honnête homme
+T718	PER 48457 48477	des enfants naturels
+T719	TIME 48674 48692	Trois mois encore 
+T720	TIME 48706 48713	Un soir
+T721	TIME 48806 48814	le soir 
+T722	TIME 49598 49607	vingt ans
+T723	TIME 50003 50013	seize ans 
+T724	PER 50256 50265	le maire 
+T725	PER 50256 50278	le maire et le prêtre 
+T726	PER 50268 50278	le prêtre 
+T727	PER 50378 50395	Un honnête homme 
+T728	TIME 50566 50584	huit jours à Paris
+T729	TIME 50599 50609	huit jours
+T730	TIME 50949 50961	quinze jours
+T731	TIME 50963 50977	trois semaines
+T732	FAC 51014 51030	les restaurants 
+T733	FAC 51414 51424	sa demeure
+T734	PER 51880 51888	sa femme

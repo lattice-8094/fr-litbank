@@ -718,66 +718,65 @@ T717	PER 49234 49240	Joseph
 T718	PER 49094 49101	Joseph 
 T719	PER 48440 48446	Joseph
 T720	PER 49207 49226	son enfant préféré 
-T721	EVENT 48699 48720	la nativité de Jésus 
-T722	NO_PER 48714 48720	Jésus 
-T723	PER 48748 48760	des bergers 
-T724	NO_PER 48764 48774	les anges 
-T725	PER 48798 48811	du nouveau-né
-T726	PER 48836 48847	la bergère 
-T727	FAC 48862 48884	la crèche du petit roi
-T728	PER 48872 48884	du petit roi
-T729	PER 49111 49121	ses frères
-T730	PER 49150 49156	Jacob 
-T731	PER 49164 49173	ses fils 
-T732	PER 49356 49365	les gens 
-T733	TIME 49392 49399	du soir
-T734	FAC 49725 49744	l'entrée du Verger 
-T735	FAC 49942 49952	Un chemin 
-T736	FAC 49915 49940	le chemin de la sapinière
-T737	FAC 51360 51370	le chemin 
-T738	FAC 50037 50046	la route 
-T739	FAC 50222 50251	la maison de Marguerite Dupré
-T740	FAC 50505 50527	la maison de son frère
-T741	PER 50518 50527	son frère
-T742	TIME 50550 50569	ce beau soir de mai
-T743	TIME 50566 50569	mai
-T744	TIME 50648 50657	ce matin 
-T745	FAC 50710 50715	école
-T746	LOC 50857 50863	soleil
-T747	TIME 51155 51168	dix-neuf ans 
-T748	PER 51228 51242	un jeune homme
-T749	PER 51272 51287	une jeune fille
-T750	FAC 51320 51330	l'atelier 
-T751	LOC 51651 51663	le sous-bois
-T752	PER 51831 51865	Ce jeune homme à la poitrine large
-T753	PER 51978 52017	Cette jeune fille à l'allure distinguée
-T754	PER 52165 52170	l'un 
-T755	TIME 52769 52793	cette époque de l'année 
-T756	PER 53294 53303	son frère
-T757	ORG 53329 53340	le régiment
-T758	TIME 54572 54591	tous les dimanches 
-T759	TIME 56936 56954	tous les dimanches
-T760	TIME 53713 53732	tous les dimanches 
-T761	PER 53977 53993	le petit garçon 
-T762	PER 53977 54012	le petit garçon et la petite fille 
-T763	PER 53996 54012	la petite fille 
-T764	TIME 54199 54209	ce soir-là
-T765	LOC 54468 54476	le bois 
-T766	PER 54820 54835	le jeune homme 
-T767	PER 54851 54867	ce gamin de Noël
-T768	TIME 54907 54915	deux ans
-T769	PER 55102 55114	les amitiés 
-T770	PER 55239 55280	des relations de la jeune fille à Bléroux
-T771	PER 55327 55341	Ses relations 
-T772	PER 55652 55663	sa famille 
-T773	PER 56021 56029	aux gens
-T774	PER 56335 56344	l'enfant 
-T775	PER 56442 56459	Une petite fille 
-T776	TIME 56368 56375	un jour
-T777	TIME 56959 56967	le mois 
-T778	PER 57502 57518	la femme de Noël
-T779	PER 57720 57734	un grand-père 
-T780	PER 57739 57754	sa petite fille
-T781	TIME 57924 57932	le passé
-T782	TIME 57963 57973	le présent
-T783	PER 58365 58377	ses parents 
+T721	NO_PER 48714 48720	Jésus 
+T722	PER 48748 48760	des bergers 
+T723	NO_PER 48764 48774	les anges 
+T724	PER 48798 48811	du nouveau-né
+T725	PER 48836 48847	la bergère 
+T726	FAC 48862 48884	la crèche du petit roi
+T727	PER 48872 48884	du petit roi
+T728	PER 49111 49121	ses frères
+T729	PER 49150 49156	Jacob 
+T730	PER 49164 49173	ses fils 
+T731	PER 49356 49365	les gens 
+T732	TIME 49392 49399	du soir
+T733	FAC 49725 49744	l'entrée du Verger 
+T734	FAC 49942 49952	Un chemin 
+T735	FAC 49915 49940	le chemin de la sapinière
+T736	FAC 51360 51370	le chemin 
+T737	FAC 50037 50046	la route 
+T738	FAC 50222 50251	la maison de Marguerite Dupré
+T739	FAC 50505 50527	la maison de son frère
+T740	PER 50518 50527	son frère
+T741	TIME 50550 50569	ce beau soir de mai
+T742	TIME 50566 50569	mai
+T743	TIME 50648 50657	ce matin 
+T744	FAC 50710 50715	école
+T745	LOC 50857 50863	soleil
+T746	TIME 51155 51168	dix-neuf ans 
+T747	PER 51228 51242	un jeune homme
+T748	PER 51272 51287	une jeune fille
+T749	FAC 51320 51330	l'atelier 
+T750	LOC 51651 51663	le sous-bois
+T751	PER 51831 51865	Ce jeune homme à la poitrine large
+T752	PER 51978 52017	Cette jeune fille à l'allure distinguée
+T753	PER 52165 52170	l'un 
+T754	TIME 52769 52793	cette époque de l'année 
+T755	PER 53294 53303	son frère
+T756	ORG 53329 53340	le régiment
+T757	TIME 54572 54591	tous les dimanches 
+T758	TIME 56936 56954	tous les dimanches
+T759	TIME 53713 53732	tous les dimanches 
+T760	PER 53977 53993	le petit garçon 
+T761	PER 53977 54012	le petit garçon et la petite fille 
+T762	PER 53996 54012	la petite fille 
+T763	TIME 54199 54209	ce soir-là
+T764	LOC 54468 54476	le bois 
+T765	PER 54820 54835	le jeune homme 
+T766	PER 54851 54867	ce gamin de Noël
+T767	TIME 54907 54915	deux ans
+T768	PER 55102 55114	les amitiés 
+T769	PER 55239 55280	des relations de la jeune fille à Bléroux
+T770	PER 55327 55341	Ses relations 
+T771	PER 55652 55663	sa famille 
+T772	PER 56021 56029	aux gens
+T773	PER 56335 56344	l'enfant 
+T774	PER 56442 56459	Une petite fille 
+T775	TIME 56368 56375	un jour
+T776	TIME 56959 56967	le mois 
+T777	PER 57502 57518	la femme de Noël
+T778	PER 57720 57734	un grand-père 
+T779	PER 57739 57754	sa petite fille
+T780	TIME 57924 57932	le passé
+T781	TIME 57963 57973	le présent
+T782	PER 58365 58377	ses parents 
