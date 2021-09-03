@@ -1,0 +1,644 @@
+T1	TIME 28 46	quatre-vingts ans 
+T2	GPE 79 89	Emmetsburg
+T3	PER 174 201	les évêques des États-Unis 
+T4	GPE 186 201	des États-Unis 
+T5	GPE 1549 1564	aux États-Unis 
+T6	GPE 4866 4880	aux États-Unis
+T7	GPE 16625 16635	les États 
+T8	GPE 11263 11277	des États-Unis
+T9	PER 291 331	le président de l'Université de Niagara 
+T10	ORG 307 331	l'Université de Niagara 
+T11	GPE 323 331	Niagara 
+T12	PER 446 472	des gloires de l'Amérique 
+T13	GPE 461 472	l'Amérique 
+T14	PER 928 950	une créature mortelle 
+T15	PER 1564 1586	des prêtres admirables
+T16	PER 1588 1648	Les Cheverus, les Matignon, les Du Bourg, les Bruté de Rémur
+T17	PER 1722 1744	ces proscrits apôtres 
+T18	PER 1588 1600	Les Cheverus
+T19	PER 1602 1614	les Matignon
+T20	PER 1616 1628	les Du Bourg
+T21	PER 1630 1648	les Bruté de Rémur
+T22	PER 2067 2081	ses historiens
+T23	METALEPSE 2098 2134	aux lecteurs de la Revue Canadienne 
+T24	GPE 29264 29273	New-York 
+T25	GPE 11219 11227	New-York
+T26	GPE 2390 2398	New-York
+T27	GPE 24928 24936	New-York
+T28	GPE 18089 18098	New-York 
+T29	GPE 29640 29648	New-York
+T30	GPE 16851 16860	New-York 
+T31	GPE 20729 20737	New-York
+T32	GPE 28441 28449	New-York
+T33	GPE 22328 22337	New-York 
+T34	GPE 11080 11088	New-York
+T35	PER 19838 19860	cet illustre Américain
+T36	PER 5459 5477	le docteur Bayley 
+T37	PER 2741 2756	Richard Bayley 
+T38	PER 19671 19679	son père
+T39	PER 20389 20403	Richard Bayley
+T40	PER 7473 7481	mon père
+T41	PER 2412 2426	Richard Bayley
+T42	PER 19550 19565	Richard Bayley 
+T43	PER 4799 4817	Le docteur Bayley 
+T44	PER 2524 2533	Son père 
+T45	PER 20876 20891	Richard Bayley 
+T46	PER 6459 6468	mon père 
+T47	PER 5138 5152	Richard Bayley
+T48	PER 12786 12794	son père
+T49	PER 20024 20035	le docteur 
+T50	PER 2731 2739	son père
+T51	PER 19247 19256	son père 
+T52	PER 4556 4565	son père 
+T53	PER 16281 16289	son père
+T54	PER 19942 19952	M. Bayley 
+T55	PER 20538 20556	Le docteur Bayley 
+T56	PER 2428 2466	cadet d'une noble famille d'Angleterre
+T57	PER 2436 2466	une noble famille d'Angleterre
+T58	GPE 6477 6487	Angleterre
+T59	GPE 2456 2466	Angleterre
+T60	PER 3590 3595	maman
+T61	PER 2474 2492	Catherine Charlton
+T62	PER 4062 4070	ma mère 
+T63	PER 2600 2608	sa mère 
+T64	PER 2494 2522	fille d'un ministre anglican
+T65	PER 2502 2522	un ministre anglican
+T66	TIME 2656 2666	trois ans 
+T67	PER 2876 2887	des aimants
+T68	TIME 3132 3143	quatre ans 
+T69	PER 3411 3427	la petite Kitty 
+T70	PER 4078 4083	Kitty
+T71	PER 3161 3185	sa petite sœur Catherine
+T72	PER 3521 3527	Kitty 
+T73	FAC 3300 3322	du seuil de la maison 
+T74	FAC 3312 3322	la maison 
+T75	TIME 3638 3645	un jour
+T76	PER 3673 3695	ses petites compagnes 
+T77	NO_PER 3729 3735	oiseau
+T78	TIME 3948 3966	ses jeunes années 
+T79	PER 4062 4083	ma mère et pour Kitty
+T80	LOC 4142 4159	au bord de la mer
+T81	LOC 48869 48872	mer
+T82	LOC 42156 42163	la mer 
+T83	LOC 26714 26720	la mer
+T84	LOC 4153 4159	la mer
+T85	LOC 48409 48416	la mer 
+T86	LOC 26947 26950	mer
+T87	LOC 53059 53065	La mer
+T88	LOC 43825 43832	la mer 
+T89	TIME 4177 4200	des heures sur la plage
+T90	LOC 4192 4200	la plage
+T91	TIME 4436 4453	sa petite enfance
+T92	PER 4724 4794	ceux qui commencent la vie avec le sentiment d'une vénération profonde
+T93	FAC 4882 4913	les établissements d'éducation 
+T94	TIME 5080 5089	sept ans 
+T95	TIME 5103 5136	ces années d'alarmes et de périls
+T96	ORG 5168 5175	l'armée
+T97	TIME 5371 5383	quatorze ans
+T98	PER 5412 5438	des grands poètes anglais 
+T99	PER 5505 5515	une femme 
+T100	PER 5696 5764	l'une des bienfaitrices de la grande et douloureuse famille humaine 
+T101	PER 5702 5764	des bienfaitrices de la grande et douloureuse famille humaine 
+T102	PER 5723 5764	la grande et douloureuse famille humaine 
+T103	ORG 5916 5935	L'église anglicane 
+T104	ORG 6140 6159	l'Église catholique
+T105	TIME 6381 6404	Un jour de l'année 1789
+T106	TIME 6392 6404	l'année 1789
+T107	TIME 6493 6517	une belle matinée de mai
+T108	TIME 6514 6517	mai
+T109	VEH 6559 6570	un chariot 
+T110	LOC 7148 7156	des bois
+T111	LOC 6581 6589	au bois 
+T112	PER 6614 6617	Joe
+T113	FAC 6722 6733	un sentier 
+T114	LOC 6746 6757	une prairie
+T115	TIME 7068 7080	du printemps
+T116	PER 7243 7250	enfant 
+T117	TIME 7503 7512	ce moment
+T118	LOC 7641 7649	le bois 
+T119	TIME 8091 8105	Tous les jours
+T120	TIME 8181 8192	chaque soir
+T121	PER 8445 8465	ses coreligionnaires
+T122	ORG 8618 8647	des anciens ordres religieux 
+T123	FAC 8792 8810	des vieux cloîtres
+T124	TIME 8831 8843	la jeunesse 
+T125	TIME 22456 22467	sa jeunesse
+T126	TIME 8971 8994	cette partie de sa vie 
+T127	TIME 9021 9042	la dix-huitième année
+T128	TIME 9106 9115	Seize ans
+T129	PER 9137 9148	la famille 
+T130	TIME 9340 9352	Dix-huit ans
+T131	FAC 9370 9394	une maison à la campagne
+T132	LOC 18113 18124	la campagne
+T133	LOC 9383 9394	la campagne
+T134	PER 9410 9438	tous les enfants d'alentour 
+T135	LOC 9747 9755	des mers
+T136	PER 9880 9889	les gens 
+T137	FAC 10127 10136	la maison
+T138	FAC 32660 32740	une grande chambre voûtée, très haute, aussi haute que le plafond de Saint-Paul 
+T139	FAC 49096 49106	la chambre
+T140	FAC 38799 38813	notre chambre 
+T141	FAC 51750 51764	notre chambre 
+T142	FAC 36655 36668	notre chambre
+T143	FAC 33709 33748	cette grande chambre aux murailles nues
+T144	FAC 10277 10288	ma chambre 
+T145	FAC 33262 33276	notre chambre 
+T146	FAC 46720 46733	cette chambre
+T147	PER 10557 10625	une si pauvre créature faite de poussière et poussée par le chagrin 
+T148	TIME 11009 11022	dix-neuf ans 
+T149	PER 35050 35058	William 
+T150	PER 61035 61047	mon William 
+T151	PER 41677 41689	mon William 
+T152	PER 58935 58947	mon William 
+T153	PER 16501 16514	William Seton
+T154	PER 22388 22402	William Seton 
+T155	PER 24965 24979	Notre William 
+T156	PER 45635 45650	mon pauvre mari
+T157	PER 16872 16881	M. Seton 
+T158	PER 45409 45418	mon mari 
+T159	PER 41726 41737	mon William
+T160	PER 43549 43567	Le pauvre William 
+T161	PER 23219 23231	mon William 
+T162	PER 36678 36686	William 
+T163	PER 38577 38595	mon pauvre William
+T164	PER 50369 50381	mon William 
+T165	PER 50301 50309	William 
+T166	PER 54089 54097	son père
+T167	PER 40753 40765	mon William 
+T168	PER 58196 58204	William 
+T169	PER 12011 12012	M
+T170	PER 16061 16066	Papa 
+T171	PER 42614 42633	mon pauvre William 
+T172	PER 53987 53995	William 
+T173	PER 36922 36961	mon mari gisant sur ces carreaux glacés
+T174	PER 16208 16222	William Seton 
+T175	PER 17088 17097	son mari 
+T176	PER 40484 40496	mon William 
+T177	PER 36814 36822	William 
+T178	PER 39244 39252	William 
+T179	PER 11697 11711	William Seton 
+T180	PER 21863 21877	William Seton 
+T181	PER 58506 58510	papa
+T182	PER 32927 32934	William
+T183	PER 17459 17466	William
+T184	PER 58368 58372	papa
+T185	PER 56190 56197	William
+T186	PER 47408 47420	Cher William
+T187	PER 39647 39663	du pauvre malade
+T188	PER 37680 37687	William
+T189	PER 50692 50704	Cher William
+T190	PER 34094 34112	mon pauvre malade 
+T191	PER 37572 37583	mon William
+T192	PER 22113 22127	William Seton 
+T193	PER 17866 17874	William 
+T194	PER 15387 15394	William
+T195	PER 33951 33959	William 
+T196	PER 11090 11104	William Seton 
+T197	PER 11040 11062	M. William-Magee Seton
+T198	PER 25672 25689	mon cher William 
+T199	PER 29768 29787	mon pauvre William 
+T200	PER 48919 48926	William
+T201	PER 55052 55070	mon pauvre William
+T202	PER 11333 11342	son fils 
+T203	PER 44518 44530	mon William 
+T204	PER 33427 33446	mon pauvre William 
+T205	PER 11387 11406	Le jeune Américain 
+T206	PER 30161 30180	Mon pauvre William 
+T207	PER 48569 48580	mon William
+T208	PER 34687 34692	papa 
+T209	PER 49274 49282	William 
+T210	PER 46643 46661	le pauvre William 
+T211	PER 41287 41295	William 
+T212	PER 31916 31923	William
+T213	PER 55324 55336	Mon William 
+T214	PER 43058 43077	mon pauvre William 
+T215	PER 12843 12860	la famille Seton 
+T216	PER 11117 11166	une très ancienne et très noble famille écossaise
+T217	PER 17654 17674	Notre bien-aimé père
+T218	PER 11183 11227	directeur de la banque de l'État de New-York
+T219	PER 16317 16326	M. Seton 
+T220	PER 12832 12860	le chef de la famille Seton 
+T221	PER 11168 11177	Son père 
+T222	PER 11308 11317	M. Seton 
+T223	PER 11232 11277	l'un des plus riches armateurs des États-Unis
+T224	PER 11627 11635	son père
+T225	ORG 11196 11227	la banque de l'État de New-York
+T226	GPE 11209 11227	l'État de New-York
+T227	GPE 11419 11427	l'Écosse
+T228	GPE 11419 11475	l'Écosse, l'Angleterre, la France, l'Espagne et l'Italie
+T229	GPE 11429 11441	l'Angleterre
+T230	GPE 11443 11452	la France
+T231	GPE 11454 11464	l'Espagne 
+T232	GPE 11467 11475	l'Italie
+T233	GPE 22489 22498	l'Italie 
+T234	TIME 11546 11556	trois ans 
+T235	GPE 29598 29606	Livourne
+T236	GPE 11558 11567	Livourne 
+T237	GPE 37768 37777	la ville 
+T238	GPE 28343 28351	Livourne
+T239	GPE 30503 30511	la ville
+T240	PER 11572 11584	les Filicchi
+T241	PER 22207 22219	MM. Filicchi
+T242	PER 22444 22453	ces amis 
+T243	PER 22284 22312	les deux banquiers italiens 
+T244	PER 33776 33800	les excellents Filicchi 
+T245	PER 41593 41605	les Filicchi
+T246	PER 11586 11635	banquiers et armateurs correspondants de son père
+T247	TIME 11723 11738	vingt-cinq ans 
+T248	PER 11871 11878	Bossuet
+T249	PER 17654 17660	Notre 
+T250	PER 12011 12026	M. et Mme Seton
+T251	PER 17634 17650	la famille Seton
+T252	PER 12142 12159	les jeunes époux 
+T253	PER 24396 24412	M. et Mme Seton 
+T254	PER 12222 12235	leurs parents
+T255	PER 12333 12350	les deux familles
+T256	PER 16342 16353	sa famille 
+T257	PER 12715 12734	sa nouvelle famille
+T258	PER 12887 12898	aux pauvres
+T259	PER 13015 13045	la sœur de charité protestante
+T260	PER 12996 13013	sa fille Rebecca 
+T261	PER 54350 54370	Chère, chère Rebecca
+T262	PER 13150 13167	cette jeune fille
+T263	PER 54735 54745	chère sœur
+T264	PER 49143 49150	ma sœur
+T265	PER 17260 17282	sa belle-sœur Rebecca 
+T266	PER 13240 13262	les deux belles-sœurs 
+T267	PER 54418 54428	nous deux 
+T268	PER 13137 13167	Élisabeth et cette jeune fille
+T269	TIME 13183 13208	les temps les plus froids
+T270	TIME 13224 13238	l'aube du jour
+T271	PER 25346 25362	mes chers petits
+T272	PER 13696 13707	ses enfants
+T273	PER 44111 44136	mes chers petits enfants 
+T274	PER 24070 24095	mes chers petits enfants 
+T275	PER 19194 19213	ses petits enfants 
+T276	PER 60553 60578	ses chers petits enfants 
+T277	PER 13897 13905	une mère
+T278	PER 14376 14393	sa seconde fille 
+T279	PER 14588 14604	Précieuse enfant
+T280	PER 14360 14375	ma petite Kate 
+T281	TIME 14412 14420	sept ans
+T282	NO_PER 14492 14500	un ange 
+T283	PER 50471 50488	notre Rédempteur 
+T284	PER 44919 44931	Jésus-Christ
+T285	PER 14867 14872	Jésus
+T286	PER 47761 47786	notre adorable Rédempteur
+T287	PER 26625 26635	le Christ 
+T288	PER 22880 22889	du Christ
+T289	PER 61418 61432	mon Rédempteur
+T290	PER 28162 28174	Jésus-Christ
+T291	PER 47835 47841	Jésus 
+T292	TIME 15115 15124	Deux ans 
+T293	PER 49880 49885	Anna 
+T294	PER 58445 58454	ma chérie
+T295	PER 49014 49019	Anna 
+T296	PER 48256 48270	la petite Anna
+T297	PER 33518 33532	Petite chérie 
+T298	PER 40951 40955	Anna
+T299	PER 34427 34441	la petite Anna
+T300	PER 25722 25737	ma petite Anna 
+T301	PER 36670 36675	Anna 
+T302	PER 33455 33460	Anna 
+T303	PER 43371 43376	Anna 
+T304	PER 15997 16005	mon Anna
+T305	PER 37135 37140	Anna 
+T306	PER 58265 58270	Anna 
+T307	PER 58274 58283	un trésor
+T308	PER 24432 24450	leur petite fille 
+T309	PER 48719 48733	la petite Anna
+T310	PER 54081 54086	Anna 
+T311	PER 22983 23008	sa fille aînée Anna-Maria
+T312	PER 39541 39556	ma petite Anna 
+T313	PER 16007 16023	mon petit trésor
+T314	PER 53966 53971	Anna 
+T315	PER 48472 48486	ma petite Anna
+T316	PER 39887 39892	Anna 
+T317	PER 33962 33967	Anna 
+T318	PER 41773 41778	Anna 
+T319	PER 31845 31863	Pauvre petite Anna
+T320	GPE 16164 16171	Amiens 
+T321	TIME 16294 16304	tout temps
+T322	PER 16473 16499	ses douze frères et sieurs
+T323	TIME 16531 16541	trente ans
+T324	LOC 16638 16650	le continent
+T325	VEH 16706 16720	les vaisseaux 
+T326	PER 16757 16771	les corsaires 
+T327	VEH 16783 16806	les vaisseaux de guerre
+T328	VEH 16808 16822	Chaque navire 
+T329	LOC 24917 24936	la baie de New-York
+T330	LOC 16840 16860	la baie de New-York 
+T331	TIME 17218 17227	ses nuits
+T332	PER 17708 17720	ses enfants 
+T333	FAC 18065 18098	sa somptueuse maison de New-York 
+T334	TO_DISCUSS 19588 19617	le monde scientifique d'alors
+T335	PER 19864 19895	Un chirurgien de Staten Island 
+T336	PER 20127 20140	Son confrère 
+T337	GPE 19881 19895	Staten Island 
+T338	GPE 20568 20582	Staten Island 
+T339	PER 20362 20366	Ils 
+T340	PER 20166 20183	Ces pauvres gens 
+T341	FAC 20582 20603	une délicieuse villa 
+T342	TIME 20647 20662	la belle saison
+T343	TIME 20677 20696	au mois d'août 1801
+T344	TIME 20687 20696	août 1801
+T345	PER 20761 20793	les pauvres émigrants irlandais 
+T346	TIME 26002 26020	le lever du soleil
+T347	TIME 20996 21015	le lever du soleil 
+T348	TIME 21026 21057	une heure avancée de la soirée 
+T349	PER 21078 21089	des malade 
+T350	PER 21078 21104	des malade et des mourants
+T351	PER 21092 21104	des mourants
+T352	TIME 21168 21201	six jours de cruelles souffrances
+T353	TIME 22248 22267	si agréables années
+T354	PER 22339 22354	l'aîné Filippo 
+T355	PER 22372 22386	une Américaine
+T356	GPE 22430 22437	Toscane
+T357	TIME 23026 23034	huit ans
+T358	PER 23048 23079	ses quatre plus jeunes enfants 
+T359	PER 23097 23109	ses parents 
+T360	PER 23931 23936	Éliza
+T361	PER 23143 23153	Mme Sadler
+T362	PER 23155 23186	l'une de ses plus chères amies 
+T363	PER 23164 23186	ses plus chères amies 
+T364	TIME 24360 24378	mon heure dernière
+T365	TIME 24382 24394	Le 2 octobre
+T366	VEH 51033 51047	notre vaisseau
+T367	VEH 28311 28321	le navire 
+T368	VEH 28479 28498	du brick américain 
+T369	VEH 33093 33104	du vaisseau
+T370	VEH 29350 29363	notre navire 
+T371	VEH 29736 29746	Le navire 
+T372	VEH 24454 24477	le brick The Sheperdess
+T373	PER 24953 24961	Rebecca 
+T374	PER 24671 24728	cette amie incomparable, confidente de toutes ses pensées
+T375	PER 24573 24587	Sa belle-sœur 
+T376	PER 24508 24522	Rebecca Seton 
+T377	PER 25502 25516	sa belle-sœur 
+T378	PER 28574 28587	Rebecca Seton
+T379	TIME 24890 24902	Le 3 octobre
+T380	PER 24965 24971	Notre 
+T381	PER 46591 46597	Notre 
+T382	GPE 25468 25483	les îles Açores
+T383	VEH 25568 25583	quelque navire 
+T384	NO_PER 26351 26369	notre Père céleste
+T385	GPE 26756 26777	la baie de Gibraltar 
+T386	GPE 26767 26777	Gibraltar 
+T387	NO_PER 26829 26857	des anges debout sur la rive
+T388	LOC 26850 26857	la rive
+T389	TIME 26954 26977	la date du 14 novembre 
+T390	NO_PER 27335 27356	son adorable Seigneur
+T391	TIME 28178 28192	Le 18 novembre
+T392	LOC 28194 28213	les côtes d'Italie 
+T393	GPE 28206 28213	Italie 
+T394	PER 28236 28250	des passagers 
+T395	FAC 28332 28351	le port de Livourne
+T396	PER 28451 28462	l'équipage 
+T397	PER 28451 28498	l'équipage et les passagers du brick américain 
+T398	PER 28465 28498	les passagers du brick américain 
+T399	PER 28526 28540	des pestiférés
+T400	TIME 28589 28605	19 novembre 1803
+T401	TIME 51682 51690	le jour 
+T402	TIME 28607 28624	10 heures du soir
+T403	FAC 28894 28912	une immense prison
+T404	PER 29081 29094	la sentinelle
+T405	TIME 29280 29290	la matinée
+T406	VEH 29310 29320	un bateau 
+T407	FAC 29378 29385	le pont
+T408	PER 29410 29426	le cher Carleton
+T409	PER 56058 56067	Carleton 
+T410	PER 45295 45310	un être parfait
+T411	PER 45147 45156	Carleton 
+T412	PER 29496 29505	un garde 
+T413	FAC 33179 33190	le lazaret 
+T414	FAC 29808 29818	au lazaret
+T415	FAC 33196 33235	un endroit tout exprès pour les malades
+T416	FAC 61690 61700	ce lazaret
+T417	FAC 30465 30476	Le lazaret 
+T418	FAC 55763 55773	au lazaret
+T419	FAC 52367 52378	au lazaret 
+T420	PER 29901 29923	la troupe de musiciens
+T421	PER 29914 29923	musiciens
+T422	PER 29959 29972	des étrangers
+T423	FAC 30009 30022	notre cabine 
+T424	PER 30063 30075	les enfants 
+T425	TIME 30357 30364	au soir
+T426	VEH 30368 30378	Un bateau 
+T427	VEH 30945 30958	notre bateau 
+T428	VEH 30454 30463	le bateau
+T429	VEH 31413 31423	la barque 
+T430	VEH 30398 30425	une barque à quatorze rames
+T431	FAC 30624 30634	du chenal 
+T432	PER 30833 30843	nos marins
+T433	LOC 30913 30943	le lieu de notre débarquement 
+T434	PER 31010 31018	un garde
+T435	TIME 31051 31075	une demi-heure plus tard
+T436	PER 31077 31124	celui que l'on appelle ici Monsieur le capitano
+T437	PER 32151 32162	du capitano
+T438	PER 31464 31475	au capitano
+T439	PER 32790 32802	Le capitano 
+T440	PER 49773 49788	Notre capitano 
+T441	PER 43035 43050	notre capitano 
+T442	PER 31104 31124	Monsieur le capitano
+T443	PER 31196 31210	son lieutenant
+T444	PER 31259 31275	tout l'équipage 
+T445	PER 31291 31300	un garde 
+T446	PER 40424 40427	Il 
+T447	PER 56106 56122	notre commandant
+T448	PER 40589 40603	notre capitano
+T449	PER 39699 39713	Le commandant 
+T450	PER 31395 31408	du commandant
+T451	PER 43456 43473	Notre commandant 
+T452	PER 50124 50136	Le capitano 
+T453	PER 37243 37257	Le commandant 
+T454	PER 40247 40249	J'
+T455	PER 52047 52061	le commandant 
+T456	PER 46591 46608	Notre commandant 
+T457	PER 41503 41505	J'
+T458	PER 57909 57923	le commandant 
+T459	PER 41413 41426	le commandant
+T460	PER 31723 31735	La personne 
+T461	FAC 32141 32162	la maison du capitano
+T462	PER 32179 32199	Mme Filippo Filicchi
+T463	FAC 32525 32534	la maison
+T464	FAC 41706 41717	l'escalier 
+T465	FAC 32605 32626	un escalier de pierre
+T466	FAC 32729 32740	Saint-Paul 
+T467	PER 33224 33235	les malades
+T468	FAC 33276 33291	un petit réduit
+T469	TIME 33754 33774	la tombée de la nuit
+T470	PER 33951 33967	William et Anna 
+T471	PER 36670 36686	Anna et William 
+T472	TIME 34147 34164	une telle journée
+T473	TIME 34904 34916	cette saison
+T474	TIME 35351 35361	une heure 
+T475	TIME 35751 35765	Le 20 novembre
+T476	TIME 54847 54858	du dimanche
+T477	TIME 35767 35775	dimanche
+T478	TIME 35777 35785	9 heures
+T479	FAC 56447 56458	ma chambre 
+T480	FAC 35993 36010	ma petite chambre
+T481	FAC 53650 53661	ma chambre 
+T482	LOC 36043 36057	la pleine mer 
+T483	FAC 40683 40695	notre prison
+T484	FAC 49949 49959	une prison
+T485	FAC 36138 36150	cette prison
+T486	FAC 51475 51482	prison 
+T487	PER 36539 36556	le pauvre Filippo
+T488	PER 37537 37549	M. Filicchi 
+T489	PER 57894 57906	M. Filicchi 
+T490	PER 39813 39821	Filicchi
+T491	PER 38724 38730	Luigi 
+T492	PER 41807 41819	notre Luigi 
+T493	PER 38943 38963	ce pauvre vieillard 
+T494	PER 37869 37881	un vieillard
+T495	PER 37883 37888	Luigi
+T496	PER 48990 49012	notre vieux serviteur 
+T497	PER 37792 37805	un serviteur 
+T498	PER 38295 38307	Pauvre Luigi
+T499	TIME 37827 37861	tout le temps de notre quarantaine
+T500	PER 38207 38223	tous ces hommes 
+T501	PER 38665 38668	On 
+T502	FAC 38730 38748	un logement à part
+T503	TIME 38924 38941	une seule journée
+T504	TIME 54998 55003	Lundi
+T505	TIME 39125 39130	Lundi
+T506	TIME 39125 39143	Lundi, 21 novembre
+T507	TIME 39132 39143	21 novembre
+T508	PER 39727 39738	des gardes 
+T509	PER 43371 43383	Anna et moi 
+T510	PER 57954 57958	Nos 
+T511	PER 39887 39898	Anna et moi
+T512	PER 40272 40282	une femme 
+T513	PER 41512 41520	ma femme
+T514	PER 40410 40420	son enfant
+T515	PER 40332 40348	une petite fille
+T516	TIME 41108 41119	onze heures
+T517	TIME 41154 41173	les heures du jour 
+T518	TIME 41154 41187	les heures du jour et de la nuit 
+T519	TIME 41225 41243	toutes les heures 
+T520	TIME 48129 48134	Mardi
+T521	TIME 41265 41270	Mardi
+T522	TIME 41272 41283	22 novembre
+T523	PER 41342 41361	le docteur Tutilli 
+T524	PER 56261 56272	le docteur 
+T525	PER 55190 55194	moi 
+T526	PER 55117 55135	le docteur Tutilli
+T527	TIME 42008 42027	l'heure du couchant
+T528	TIME 42193 42206	cette soirée 
+T529	PER 42291 42315	la sentinelle en faction
+T530	TIME 42439 42447	Mercredi
+T531	TIME 42449 42460	23 novembre
+T532	TIME 42541 42555	ce même moment
+T533	PER 42895 42903	ses amis
+T534	TIME 43205 43216	mon enfance
+T535	PER 43250 43266	Un des gardiens 
+T536	TIME 43323 43343	Au coucher du soleil
+T537	TIME 43345 43369	une demi-heure de calme 
+T538	TIME 43432 43437	Jeudi
+T539	TIME 43439 43450	24 novembre
+T540	TIME 43501 43512	cinq jours 
+T541	TIME 43514 43529	le 19 décembre 
+T542	TIME 43610 43623	ce moment-là 
+T543	FAC 53377 53386	ma maison
+T544	FAC 54435 54443	du foyer
+T545	FAC 44064 44083	Notre chère maison 
+T546	FAC 45533 45544	notre foyer
+T547	PER 44092 44109	Nos chères sœurs 
+T548	PER 44092 44136	Nos chères sœurs … mes chers petits enfants 
+T549	PER 44705 44772	vos pauvres créatures, faibles et surchargées d'un si lourd fardeau
+T550	PER 44872 44917	Celui qui est notre résurrection et notre vie
+T551	PER 44933 44958	notre adorable Rédempteur
+T552	TIME 44962 44970	Vendredi
+T553	TIME 44972 44983	25 novembre
+T554	PER 45364 45389	notre cher petit William 
+T555	GPE 46110 46117	Islande
+T556	TIME 46520 46532	Nuit et jour
+T557	TIME 46617 46631	cet après-midi
+T558	PER 46776 46787	un Arménien
+T559	PER 46929 46969	un Français, pris du délire de la fièvre
+T560	TIME 47308 47313	jours
+T561	TIME 47354 47364	nos jours 
+T562	TIME 47470 47486	quelques moments
+T563	TIME 48136 48147	29 novembre
+T564	TIME 48151 48167	La nuit dernière
+T565	TIME 48208 48218	dix heures
+T566	TIME 48272 48281	Ce matin 
+T567	TIME 48523 48534	neuf heures
+T568	PER 48616 48622	ïsaïe 
+T569	GPE 49246 49257	Saint-André
+T570	TIME 49259 49270	30 novembre
+T571	FAC 49317 49327	la cuisine
+T572	TIME 49329 49345	La nuit dernière
+T573	PER 49347 49466	trente ou quarante pauvres créatures de toutes les nations, Grecs, Turcs, Espagnols, Français, venant de faire naufrage
+T574	PER 53719 53797	Les pauvres étrangers arrivés d'hier, devenus presque fous de froid et de faim
+T575	LOC 49387 49405	toutes les nations
+T576	PER 49407 49412	Grecs
+T577	PER 49414 49419	Turcs
+T578	PER 49421 49430	Espagnols
+T579	PER 49432 49440	Français
+T580	FAC 49644 49680	une seule chambre aux murailles nues
+T581	PER 51020 51047	du second de notre vaisseau
+T582	PER 51060 51080	le capitaine O'Brien
+T583	PER 51338 51353	Pauvre Charles 
+T584	PER 51157 51173	un des matelots 
+T585	PER 51731 51764	un des gardiens de notre chambre 
+T586	PER 52760 52768	Filippo 
+T587	PER 52602 52618	cet honnête cœur
+T588	PER 52114 52132	le pauvre Filippo 
+T589	TIME 52181 52190	deux ans 
+T590	PER 52662 52672	une femme 
+T591	PER 52213 52248	une belle jeune femme de seize ans 
+T592	TIME 52238 52248	seize ans 
+T593	PER 52675 52688	deux enfants 
+T594	PER 52255 52268	deux enfants 
+T595	TIME 52357 52367	les nuits 
+T596	TIME 52386 52394	le matin
+T597	TIME 52419 52436	une heure ou deux
+T598	PER 52662 52688	une femme et deux enfants 
+T599	TIME 52852 52864	1er décembre
+T600	TIME 52880 52898	six et sept heures
+T601	TIME 52887 52898	sept heures
+T602	TIME 53013 53020	l'aube 
+T603	TIME 53479 53496	l'aube naissante 
+T604	TIME 53502 53512	la matinée
+T605	TIME 53577 53587	dix heures
+T606	TIME 53611 53618	la nuit
+T607	TIME 54006 54036	Coucher du soleil clair et pur
+T608	TIME 54134 54149	quelques heures
+T609	TIME 54641 54652	des heures 
+T610	TIME 54672 54684	des minutes 
+T611	TIME 54703 54715	Une semaine 
+T612	TIME 54817 54832	Le premier jour
+T613	TIME 54834 54858	ce cher jour du dimanche
+T614	PER 55241 55272	celui qui peut assister son âme
+T615	TIME 55278 55287	ce moment
+T616	TIME 55681 55707	quelques heures plus tard 
+T617	TIME 55867 55897	La plus grande partie du temps
+T618	TIME 56078 56099	la tombée de la nuit 
+T619	TIME 56364 56379	quelques heures
+T620	TIME 56598 56612	toute la nuit 
+T621	TIME 56726 56743	la minute d'après
+T622	TIME 57786 57794	le matin
+T623	PER 57872 57880	M. Hall 
+T624	PER 57894 57923	M. Filicchi et le commandant 
+T625	TIME 57954 57967	Nos journées 
+T626	TIME 57954 57982	Nos journées et nos soirées 
+T627	TIME 57970 57982	nos soirées 
+T628	TIME 58094 58101	moments
+T629	TIME 58604 58615	Cinq jours 
+T630	FAC 58656 58670	Nos logements 
+T631	GPE 58685 58689	Pise
+T632	LOC 58695 58712	le bord de l'Arno
+T633	LOC 58740 58758	ce fleuve célèbre 
+T634	LOC 58706 58712	l'Arno
+T635	PER 59000 59017	toute sa personne
+T636	PER 59093 59134	le chrétien le plus doux, le plus humble 
+T637	TIME 59514 59526	chaque jour 
+T638	TIME 59985 60005	ce moment de ma vie 
+T639	TIME 59876 59884	ce jour 
+T640	TIME 60043 60057	le seul temps 
+T641	TIME 60011 60035	un temps de bénédiction 
+T642	PER 60695 60719	notre cher Henry Hobart 
+T643	LOC 61669 61700	au fond du cachot de ce lazaret
+T644	FAC 61677 61700	du cachot de ce lazaret

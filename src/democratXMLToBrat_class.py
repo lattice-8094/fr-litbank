@@ -120,6 +120,20 @@ class Mention:
                 return True
         return False
 
+class Event:
+    """
+    An event annotation in the litbank way (see https://github.com/dbamman/litbank#event-annotations)
+    i.e. like a mention in the urs format but not related to a 'chaine'
+    the event annotation is not herited from the Democrat corpus, it has been made for the fr-litbank
+    """
+
+    def __init__(self, id, words):
+        self.id = id
+        self.words = words
+    
+    def __str__(self):
+        return "".join([str(word) for word in self.words])
+
 class Chaine:
     """ """
 

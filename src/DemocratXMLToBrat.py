@@ -5,10 +5,11 @@
 
 import re
 import os
+from shutil import copyfile
 from lxml import etree
 import argparse
 
-from democratXMLToBrat_class import Sentence, Word, Chaine, Mention
+from democratXMLToBrat_class import Sentence, Word, Chaine, Mention, Event
 
 
 nsd = {"tei": "http://www.tei-c.org/ns/1.0", "txm": "http://textometrie.org/1.0"}
@@ -88,7 +89,7 @@ def get_doc_title(root):
     file_name = re.sub(r' ?\((\d+)\)', r'-\1', file_name) # "fifi (1)" -> "fifi-1"
     file_name = re.sub('\s', '_', file_name) # "Mademoiselle Fifi" -> "Mademoiselle_Fifi"
     file_name = re.sub('[,;.]', '', file_name) # "Mademoiselle Fifi, nouveaux contes" -> "Mademoiselle_fifi_nouveaux_contes"
-    file_name = re.sub('[éèêë]', 'e', file_name) # "Pécuchet" -> "Pecuchet"
+    file_name = re.sub('[Ééèêë]', 'e', file_name) # "Pécuchet" -> "Pecuchet"
     file_name = re.sub('[àâ]', 'a', file_name)
     file_name = re.sub('[ù]', 'u', file_name)
     file_name = re.sub('[ç]', 'c', file_name)
@@ -118,7 +119,7 @@ def get_mentions(chaine, urs_root, words):
     Returns
     -------
     List
-        list of Mentions objects
+        list of Mention objects
     """
     mentions = []
     link = urs_root.find('.//link[@id="' + chaine.id + '"]', namespaces=nsd)
@@ -149,6 +150,39 @@ def get_mentions(chaine, urs_root, words):
         # print(chaine.id, mention_id, mention_ref, ','.join([w.form for w in mention_words]))
     return mentions
 
+def get_events(urs_root, words):
+    """
+    Finds and returns the 'event mentions (u-BAMMAN)' in the given urs xml node
+
+    Parameters
+    ----------
+    urs_root: node
+        the urs root node
+    words: dict
+        dict of all Word objects in text, index by word id (w.id: w)
+
+    Returns
+    -------
+    List
+        list of Event objects
+    """
+    events = []
+    event_elems = urs_root.findall('.//annotationGrp[@subtype="BAMMAN"]/span', namespaces=nsd)
+    for event_elem in event_elems:
+        # dans une mention de type event on peut avoir plusieurs mots
+        # ils sont indiqués par 'span' (id du début, id de fin) : il faut retrouver tous les mots entre les bornes
+        event_words = []
+        event_id = event_elem.get("id")
+        span_from = event_elem.get("from")[5:]
+        span_to = event_elem.get("to")[5:]
+        from_int = get_mention_num_id(span_from)
+        to_int = get_mention_num_id(span_to)
+        for i in range(from_int, to_int + 1):
+            w_id = re.sub(r"(.+)_\d+", rf"\1_{i}", span_from)
+            event_words.append(words[w_id])
+        events.append(Event(event_id, event_words))
+        #print(event_id, ','.join([w.form for w in event_words]))
+    return events
 
 def get_chaines(urs_root, words):
     """
@@ -165,13 +199,15 @@ def get_chaines(urs_root, words):
     Returns
     -------
     List
-        list of Chaine bjects
+        list of Chaine objects
     """
     chaines = []
     schemas = urs_root.findall('.//div[@type="schema-fs"]/fs', namespaces=nsd)
     for schema in schemas:
         type = schema.find('./f[@name="TYPE REFERENT"]/string', namespaces=nsd)
         if type is not None:
+            if type.text == "EVENT":
+                continue
             id = schema.get("id")[:-3]
             nb_maillons = schema.find('./f[@name="NB MAILLONS"]/string', namespaces=nsd)
             ref = schema.find('./f[@name="REF"]/string', namespaces=nsd)
@@ -185,115 +221,6 @@ def get_chaines(urs_root, words):
     return chaines
 
 
-# -----------------------------------------------
-def get_mentions_w_id(ursroot):
-    d = {}
-    niv1 = etree.XML(
-        etree.tostring(ursroot)
-    )  # renvoie les 3 éléments niv1 : teiHeader, soHeader et standOff
-    niv2 = etree.XML(
-        etree.tostring(niv1[2])
-    )  # on prend le 3ème élément niv1[2]-> standOff
-    niv3 = etree.XML(
-        etree.tostring(niv2[1])
-    )  # on prend le 2ème élément de standOff -> annotations
-
-    # niv3 a 5 éléments : annotationsGrp type Unit, annotationsGrp type Schema, et 3 div type unit-fs, relation-fs et schema-fs
-    # ici on s'intéresse au 1er élément : annotationsGrp type Unit
-    u = etree.XML(etree.tostring(niv3[0]))
-    for m in u:
-        ident = int(m.get("id").split("-")[-1])
-        start = int(m.get("from").split("_")[-1])
-        end = int(m.get("to").split("_")[-1])
-        if start <= end:
-            d[ident] = [i for i in range(start, end + 1)]
-
-            # ne pas tenir copte des erreurs from > to
-            # ex : <span id="u-MENTION-111" from="text:w_FC_NAR_EXT_181Pauline_brut_PRIS_PAR_MARINE_499" to="text:w_FC_NAR_EXT_181Pauline_brut_PRIS_PAR_MARINE_488" ana="#u-MENTION-111-fs"></span>
-
-    return d
-    # return({27:[119,120,121,122],29:[128,129,130,131]})
-
-
-# -----------------------------------------------
-"""def get_chaines(ursroot):
-    d1={}
-    d2={}
-    niv1=etree.XML(etree.tostring(ursroot)) # renvoie les 3 éléments niv1 : teiHeader, soHeader et standOff
-    niv2=etree.XML(etree.tostring(niv1[2])) # on prend le 3ème élément niv1[2]-> standOff
-    niv3=etree.XML(etree.tostring(niv2[1])) # on prend le 2ème élément de standOff -> annotations
-    # niv3 a 5 éléments : annotationsGrp type Unit, annotationsGrp type Schema, et 3 div type unit-fs, relation-fs et schema-fs
-
-    # On va d'abord récupérer les chaines qui ont un TYPE REFERENT
-    # Ensuite, on y ajoute les mentions correspondantes
-
-    s=etree.XML(etree.tostring(niv3[4])) # on prend le 4ème élément de annotations : schema-fs
-    for r in s:
-        if len(r)==3: # on doit avoir <f name="REF">, <f name="NB MAILLONS"> et <f name="TYPE REFERENT">
-            ident=int(r.get("id").split('-')[-2]) # le n° de chaine n'est pas en dernier mais avant dernier -> -2
-            if r[2].get("name")=="TYPE REFERENT":
-                #d1[ident]={"type":r[2][0].text} # on récupère le contenu de <string></string>
-                d1[ident]=r[2][0].text 
-
-
-    # ici on s'intéresse au 2nd élément : annotationsGrp type Schema
-    u=etree.XML(etree.tostring(niv3[1]))
-    # u contient des éléments de type <link id="s-CHAINE-nbchaine" target="#u-MENTION-nbmention1 #u-MENTION-nbmention2 #u-MENTION-nbmention3" ana="#s-CHAINE-xx-fs"></link>
-    for c in u:
-        ident=int(c.get("id").split('-')[-1])
-        if ident in d1.keys():
-            l=[]
-            listementions=c.get("target").split(' ')
-            listenbmentions=[int(i.split('-')[-1]) for i in listementions]
-            #d2[ident]={"mentions":listenbmentions}
-            d2[ident]=listenbmentions
-        
-
-    return(d1,d2)
-
-    #return({19:{"mentions":[21,20,23,22,19]},25:{"mentions":[210,29,448,449,306,678]}})
-"""
-
-
-# -----------------------------------------------
-def get_ann(d1, d2, d3):
-    # d1= dico des chaines; d2 = dico des mentions; d3 = dico des w id
-    texte = ""
-    # Pour chaque chaine, si elle n'a qu'une mention(on commence par le cas simple) et si elle est de type PER, GPE, FAC, LOC
-    ind_T = 1  # indice pour le TAG T
-    for c in sorted(d1.keys()):
-        if len(d1[c]["mentions"]) == 1 and d1[c]["type"] in [
-            "PER",
-            "GPE",
-            "FAC",
-            "LOC",
-            "ORG",
-        ]:
-            # la chaine ne contient qu'une mention
-            text_mention = ""
-            m = d1[c]["mentions"][0]
-            start_offset = d3[d2[m][0]][
-                "start"
-            ]  # on récupère la position de départ du premier w id de la seule mention de la chaine
-            for w in d2[m]:
-                text_mention += "{} ".format(d3[w]["texte"])
-            end_offset = d3[w]["end"]
-            texte += (
-                "T"
-                + str(ind_T)
-                + "\t"
-                + d1[c]["type"]
-                + " "
-                + str(start_offset)
-                + " "
-                + str(end_offset)
-                + " "
-                + text_mention
-                + "\n"
-            )
-            ind_T += 1
-    return texte
-    # return("T1    Organization 0 4    Sony\nT2  MERGE-ORG 14 27 joint venture\nT3  Organization 33 41  Ericsson\nE1  MERGE-ORG:T2 Org1:T1 Org2:T3\n")
 
 
 # -----------------------------------------------
@@ -324,14 +251,20 @@ if __name__ == "__main__":
     ursxml_tree = etree.parse(f_ursxml)
     urs_root = ursxml_tree.getroot()
 
-    # fichiers de sortie
-    f_brat_txt = args.out_dir + title + ".txt"
-    f_brat_ann = args.out_dir + title + ".ann"
+    #####
+    # Traitement des 'entities'
+    #####
+    # fichiers de sortie pour 'entities'
+    entities_dir = os.path.join(args.out_dir, 'entities')
+    if not os.path.exists(entities_dir):
+        os.makedirs(entities_dir)
+    f_brat_entities_txt = os.path.join(entities_dir, title + ".txt")
+    f_brat_entities_ann = os.path.join(entities_dir, title + ".ann")
 
     ## Stockage des phrases (éléments 's' et des mots 'w')
     ## Écriture du fichier txt
     sentences = get_sentences(xml_root)
-    with open(f_brat_txt, "w") as txt:
+    with open(f_brat_entities_txt, "w") as txt:
         for s in sentences:
             print(s, end="", file=txt)
 
@@ -341,7 +274,7 @@ if __name__ == "__main__":
     words = {w.id: w for s in sentences for w in s.content if isinstance(w, Word)}
     chaines = get_chaines(urs_root, words)
     i = 1
-    with open(f_brat_ann, "w") as ann:
+    with open(f_brat_entities_ann, "w") as ann:
         for chaine in chaines:
             for mention in chaine.mentions:
                 if mention.is_entity():
@@ -350,6 +283,28 @@ if __name__ == "__main__":
                         file=ann,
                     )
                     i = i + 1
+    ###
+    # Traitement des 'events'
+    ###
+    ## Récupération des annotations de type 'event'
+    events_dir = os.path.join(args.out_dir, 'events')
+    if not os.path.exists(events_dir):
+        os.makedirs(events_dir)
+    f_brat_events_txt = os.path.join(events_dir, title + ".txt")
+    f_brat_events_ann = os.path.join(events_dir, title + ".ann")
+
+    # simple copie du fichier txt des 'entities'
+    copyfile(f_brat_entities_txt, f_brat_events_txt)
+    events = get_events(urs_root, words)
+    i = 1
+    with open(f_brat_events_ann, "w") as ann:
+        for event in events:
+            print(
+                        f"T{i}\tEVENT {event.words[0].start} {event.words[-1].get_end()}\t{str(event)}",
+                        file=ann,
+                    )
+            i = i + 1
+
 
     """
     ursxml_tree = etree.parse(f_ursxml)
