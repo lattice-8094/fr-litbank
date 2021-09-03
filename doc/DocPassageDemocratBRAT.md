@@ -4,11 +4,11 @@
 
 Les formats annotés récupérés par l'export dans le logiciel TXM sont de la forme :
 
-### Pour les fichiers.xml
+## Pour les fichiers de type .xml
 
  ![](Lattice_fr-litbank_xml.png)
 
-## TOTO-URS.XML
+## Pour les fichiers de type .-URS.XML
 
 ![](Lattice_fr-litbank_urs_xml.png)
 
