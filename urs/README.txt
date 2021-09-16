@@ -1,6 +1,6 @@
 Les fichiers dans ce répertoire .urs sont des fichiers zippés.
 
-mv *.usr *.zip
+mv *.urs *.zip
 
 puis
 
