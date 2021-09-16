@@ -6,23 +6,23 @@ We use a subset of the files from [Democrat](https://www.ortolang.fr/market/corp
 
 ## Corpus
 
-|Date|Author|Title|annot|
-|---|---|---|---|
-|1830|Honoré de Balzac|Sarrasine||
-|1836|Théophile Gautier|La morte amoureuse||
-|1841|George Sand|Pauline||
-|1856|Victor Cousin|Madame de Hautefort||				
-|1863|Théophile Gautier|Le capitaine Fracasse||
-|1873|Émile Zola|Le ventre de Paris||
-|1881|Gustave Flaubert|Bouvard et Pécuchet||
-|1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (1)||
-|1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (2)||
-|1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (3)||
-|1901|Lucie Achard|Rosalie de Constant, sa famille et ses amis||
-|1903|Laure Conan|Élisabeth Seton||
-|1904-1912|Romain Rolland|Jean-Christophe (1)||
-|1904-1912|Romain Rolland|Jean-Christophe (2)||
-|1917|Adèle Bourgeois|Némoville||
-|1923|Raymond Radiguet|Le diable au corps||
-|1926|Marguerite Audoux|De la ville au moulin||
-|1937|Marguerite Audoux|Douce Lumière||
+|Date|Author|Title|entities|event|
+|---|---|---|---|---|
+|1830|Honoré de Balzac|Sarrasine|ok|ok|
+|1836|Théophile Gautier|La morte amoureuse|ok|ok|
+|1841|George Sand|Pauline|ok|ok|
+|1856|Victor Cousin|Madame de Hautefort|ok||			
+|1863|Théophile Gautier|Le capitaine Fracasse|ok|ok|
+|1873|Émile Zola|Le ventre de Paris|ok||
+|1881|Gustave Flaubert|Bouvard et Pécuchet|ok||
+|1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (1)|ok||
+|1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (2)|ok|ok|
+|1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (3)|||
+|1901|Lucie Achard|Rosalie de Constant, sa famille et ses amis|ok||
+|1903|Laure Conan|Élisabeth Seton|ok|ok|
+|1904-1912|Romain Rolland|Jean-Christophe (1)|||
+|1904-1912|Romain Rolland|Jean-Christophe (2)|||
+|1917|Adèle Bourgeois|Némoville|ok|ok|
+|1923|Raymond Radiguet|Le diable au corps|ok||
+|1926|Marguerite Audoux|De la ville au moulin|ok||
+|1937|Marguerite Audoux|Douce Lumière|ok|ok|
