@@ -74,6 +74,25 @@ Pour recréer le fichier texte à partir du fichier toto.xml de départ, il faud
 
 - L'idée sera de garder les mentions dont au moins un w id a un #frpos = NAM ou NOM
 
+## PartOfSpeech utilisés
+
+Ce sont les type="#frpos" dans les fichiers xml
+
+
+
+```
+cd xml/
+touch frpos.csv # création du fichier vide
+cat *.xml | grep frpos | cut -d' ' -f 5 | cut -d '>' -f 2 | cut -d'<' -f 1  >> frpos.csv
+```
+
+Puis dans libreofficecalc menu données/plus de filtres/filtres standard -> options "enlever les doublons"
+
+On obtient :
+
+|     |
+| --- |
+
 ## Liens
 
 - Outil pour lire les fichiers BRAT : https://brat.nlplab.org/ 
