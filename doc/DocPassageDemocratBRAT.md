@@ -90,8 +90,8 @@ Puis dans libreofficecalc menu données/plus de filtres/filtres standard -> opti
 
 On obtient :
 
-|     |
-| --- |
+| NAM<br/>PRO:DEM<br/>DET:ART<br/>PUN<br/>VER:simp<br/>PRP<br/>PRO:PER<br/>NUM<br/>PRO:IND<br/>ADV<br/>DET:POS<br/>INT<br/>KON<br/>NOM<br/>PRO:REL<br/>VER:pres<br/>SENT<br/>VER:impf<br/>ADJ<br/>PRP:det<br/>VER:cond<br/>ABR<br/>VER:pper<br/>PUN:cit<br/>PRO<br/>VER:ppre<br/>VER:infi<br/>VER:impe |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Liens
 
