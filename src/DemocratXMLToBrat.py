@@ -204,17 +204,22 @@ def get_chaines(urs_root, words):
     chaines = []
     schemas = urs_root.findall('.//div[@type="schema-fs"]/fs', namespaces=nsd)
     for schema in schemas:
-        type = schema.find('./f[@name="TYPE REFERENT"]/string', namespaces=nsd)
-        if type is not None:
-            if type.text == "EVENT":
+        type_elem = schema.find('./f[@name="TYPE REFERENT"]/string', namespaces=nsd)
+        if type_elem is not None:
+            if type_elem.text == "EVENT":
                 continue
             id = schema.get("id")[:-3]
-            nb_maillons = schema.find('./f[@name="NB MAILLONS"]/string', namespaces=nsd)
-            ref = schema.find('./f[@name="REF"]/string', namespaces=nsd)
-            if ref is None:
-                ref = etree.Element("none")
-                ref.text = ""
-            chaine = Chaine(id, ref.text, nb_maillons.text, type.text)
+            nb_maillons_elem = schema.find('./f[@name="NB MAILLONS"]/string', namespaces=nsd)
+            if nb_maillons_elem is None:
+                nb_maillons = ""
+            else:
+                nb_maillons = nb_maillons_elem.text
+            ref_elem = schema.find('./f[@name="REF"]/string', namespaces=nsd)
+            if ref_elem is None:
+                ref = ""
+            else:
+                ref = ref_elem.text
+            chaine = Chaine(id, ref, nb_maillons, type_elem.text)
             mentions = get_mentions(chaine, urs_root, words)
             chaine.mentions = mentions
             chaines.append(chaine)
@@ -283,18 +288,21 @@ if __name__ == "__main__":
                         file=ann,
                     )
                     i = i + 1
-    ###
+    
+    #####
     # Traitement des 'events'
-    ###
-    ## Récupération des annotations de type 'event'
+    #####
+    # création du répertoire 'brat/events' si besoin
     events_dir = os.path.join(args.out_dir, 'events')
     if not os.path.exists(events_dir):
         os.makedirs(events_dir)
+    # fichiers de sortie pour 'events'
     f_brat_events_txt = os.path.join(events_dir, title + ".txt")
     f_brat_events_ann = os.path.join(events_dir, title + ".ann")
 
     # simple copie du fichier txt des 'entities'
     copyfile(f_brat_entities_txt, f_brat_events_txt)
+    ## Récupération des annotations de type 'event'
     events = get_events(urs_root, words)
     i = 1
     with open(f_brat_events_ann, "w") as ann:
@@ -305,56 +313,4 @@ if __name__ == "__main__":
                     )
             i = i + 1
 
-
-    """
-    ursxml_tree = etree.parse(f_ursxml)
-    ursxml_root = ursxml_tree.getroot()
-
-    # récupération des informations du XML et URS_XML DEMOCRAT et création des structures de données
-    # ----------------------------------------------------------------------------------------------
-
     
-    # on crée le dictionnaire avec le texte et les offset (les offset doivent être créés ici car à partir des mentions c'est impossible : 2 mentions peuvent contenir le même w id)
-    w_id_text_offsets, brat_txt=get_w_id_text(xml_root)
-
-    # on créé les mentions
-    # A NOTER : 2 mentions différents peuvent avoir les même w id !
-    # ex la mention 3350 dans Pauline va du w id 12281 au w id 12283 et la mention 3351 contient le w id 12282 
-    mentions_w_id={}
-    mentions_w_id=get_mentions_w_id(ursxml_root)
-
-    chaines={}
-    # on créé le dictionnaire avec le TYPE REFERENT et les mentions
-    # A NOTER : chaines ne contient que les chaines qui ont un TYPE REFERENT
-    typeref,mentions=get_chaines(ursxml_root)
-
-    for k in typeref.keys():
-        chaines[k]={"type":typeref[k],"mentions":mentions[k]}
-
-
-    # création des fichiers BRAT
-    # --------------------------
-
-    # on complète le dictionnaire w_id_text_offsets avec les start-offset et end_offset
-    # cette fonction changera en fonction de la feuille de style de TXM
-    # --- juste pour test 
-    brat_text2=""
-    for w in list(sorted(w_id_text_offsets.keys())):
-        brat_text2 += '{} '.format(w_id_text_offsets[w]['texte'])
-    # ---    
-    
-
-    # Création fichier brat .ann 
-    
-    brat_ann=get_ann(chaines, mentions_w_id,w_id_text_offsets)
-    
-
-    # Création des fichiers de sortie
-
-    f_txt=open(f_brat_txt,"w")
-    f_txt.write(brat_txt)
-    f_txt.close()
-    f_ann=open(f_brat_ann,"w")
-    f_ann.write(brat_ann)
-    f_ann.close()
-    """
