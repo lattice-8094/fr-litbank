@@ -1,8 +1,8 @@
 T1	PER 15512 15539	au plus jeune des officiers
 T2	PER 12568 12577	Mlle Fifi
 T3	PER 0 17	MADEMOISELLE FIFI
-T4	PER 22882 22892	Mlle Fifi 
-T5	PER 5230 5240	Mlle Fifi 
+T4	PER 5230 5240	Mlle Fifi 
+T5	PER 22882 22892	Mlle Fifi 
 T6	PER 19006 19009	Il 
 T7	PER 4161 4170	Mlle Fifi
 T8	PER 3327 3352	le marquis Wilhem d'Eyrik
@@ -14,8 +14,8 @@ T13	PER 8891 8908	Le petit marquis
 T14	PER 16476 16491	son possesseur 
 T15	PER 21756 21759	Il 
 T16	PER 7487 7504	le jeune blondin 
-T17	PER 21591 21602	l'officier 
-T18	PER 8763 8772	Mlle Fifi
+T17	PER 8763 8772	Mlle Fifi
+T18	PER 21591 21602	l'officier 
 T19	PER 20374 20377	Tu 
 T20	PER 20383 20389	salop 
 T21	PER 25068 25077	Mlle Fifi
@@ -45,8 +45,8 @@ T44	PER 2475 2489	Le commandant
 T45	PER 1908 1922	brave officier
 T46	PER 2747 2755	Le major
 T47	PER 12223 12237	son supérieur 
-T48	PER 1885 1897	brave homme 
-T49	PER 9888 9898	le premier
+T48	PER 9888 9898	le premier
+T49	PER 1885 1897	brave homme 
 T50	PER 6250 6272	Le comte de Farlsberg 
 T51	PER 13173 13187	du commandant 
 T52	PER 6386 6395	leur chef
@@ -77,14 +77,14 @@ T76	GPE 6072 6078	Rouen
 T77	GPE 1198 1203	Rouen
 T78	LOC 1301 1319	l'Andelle gonflée 
 T79	LOC 1383 1387	Rhin
-T80	PER 6539 6548	le baron 
-T81	PER 17471 17480	le baron 
+T80	PER 17471 17480	le baron 
+T81	PER 6539 6548	le baron 
 T82	PER 5820 5823	Il 
 T83	PER 5802 5816	mon capitaine 
 T84	PER 6430 6442	le capitaine
 T85	PER 16854 16900	le baron de Kelweingstein, lâché dans son vice
-T86	PER 5997 6006	Le baron 
-T87	PER 13436 13445	le baron 
+T86	PER 13436 13445	le baron 
+T87	PER 5997 6006	Le baron 
 T88	PER 5983 5993	capitaine 
 T89	PER 19620 19632	Le capitaine
 T90	PER 6784 6792	du baron
@@ -96,8 +96,8 @@ T95	PER 14462 14483	Le capitaine, radieux
 T96	PER 1434 1444	son second
 T97	PER 2820 2838	le baron capitaine
 T98	PER 6307 6312	Vous 
-T99	PER 1924 1936	Le capitaine
-T100	PER 6322 6329	mon ami
+T99	PER 6322 6329	mon ami
+T100	PER 1924 1936	Le capitaine
 T101	PER 13227 13240	le capitaine 
 T102	PER 16729 16738	capitaine
 T103	PER 2604 2619	son subordonné 
@@ -108,8 +108,8 @@ T107	TIME 2567 2575	le matin
 T108	PER 2895 2901	filles
 T109	TIME 2933 2944	trois mois 
 T110	PER 3054 3062	un homme
-T111	FAC 3912 3950	La salle à manger du château d'Uville 
-T112	FAC 8187 8204	la salle à manger
+T111	FAC 8187 8204	la salle à manger
+T112	FAC 3912 3950	La salle à manger du château d'Uville 
 T113	FAC 4555 4633	cette pièce mutilée, assombrie par l'averse, attristante par son aspect vaincu
 T114	FAC 14163 14180	la salle à manger
 T115	FAC 3183 3192	la salle 
@@ -123,10 +123,10 @@ T122	PER 19774 19792	le lieutenant Otto
 T123	PER 15238 15257	au lieutenant Otto 
 T124	PER 22918 22923	Otto 
 T125	PER 5654 5673	le lieutenant Otto 
-T126	PER 22689 22707	du lieutenant Otto
-T127	PER 7232 7251	le lieutenant Otto 
-T128	PER 3304 3324	Fritz Scheunaubourg 
-T129	PER 12718 12737	Le lieutenant Fritz
+T126	PER 7232 7251	le lieutenant Otto 
+T127	PER 22689 22707	du lieutenant Otto
+T128	PER 12718 12737	Le lieutenant Fritz
+T129	PER 3304 3324	Fritz Scheunaubourg 
 T130	PER 16766 16771	Fritz
 T131	PER 5676 5700	le sous-lieutenant Fritz
 T132	PER 15291 15315	au sous-lieutenant Fritz
@@ -136,11 +136,11 @@ T135	GPE 20843 20853	la France
 T136	GPE 11992 12007	le pays entier 
 T137	GPE 21746 21752	France
 T138	GPE 20687 20697	la France 
-T139	GPE 21387 21394	France 
-T140	GPE 20909 20916	France 
+T139	GPE 20909 20916	France 
+T140	GPE 21387 21394	France 
 T141	GPE 3479 3485	France
-T142	GPE 24808 24815	le pays
-T143	GPE 19949 19959	la France 
+T142	GPE 19949 19959	la France 
+T143	GPE 24808 24815	le pays
 T144	PER 3487 3501	ses camarades 
 T145	PER 3526 3535	Mlle Fifi
 T146	PER 3537 3547	Ce surnom 
@@ -154,8 +154,8 @@ T153	PER 10127 10145	tous les officiers
 T154	PER 6338 6357	tous les officiers 
 T155	PER 15526 15539	des officiers
 T156	PER 17952 18046	les hommes eux-mêmes, grisés par cette chair de femme étalée sous leur nez et sous leurs mains
-T157	PER 4508 4522	des officiers 
-T158	PER 12641 12657	Les cinq hommes 
+T157	PER 12641 12657	Les cinq hommes 
+T158	PER 4508 4522	des officiers 
 T159	PER 19514 19540	les femmes, ivres à tomber
 T160	PER 8816 8834	tous les officiers
 T161	PER 17432 17445	leurs voisins
@@ -212,8 +212,8 @@ T211	PER 25689 25697	le curé
 T212	PER 26053 26063	le prêtre 
 T213	PER 24995 25005	le prêtre 
 T214	PER 12242 12252	le prêtre 
-T215	PER 11342 11360	l'abbé Chantavoine
-T216	PER 10721 10729	Le curé 
+T215	PER 10721 10729	Le curé 
+T216	PER 11342 11360	l'abbé Chantavoine
 T217	PER 24894 24902	le curé 
 T218	PER 25928 25936	le curé 
 T219	PER 10781 10803	des soldats prussiens 
@@ -271,14 +271,14 @@ T270	PER 26000 26015	sa prisonnière
 T271	PER 21192 21199	Rachel 
 T272	PER 24271 24277	Rachel
 T273	PER 24392 24401	La juive 
-T274	PER 20325 20344	La fille, exaspérée
-T275	PER 25754 25771	une pauvre fille 
+T274	PER 25754 25771	une pauvre fille 
+T275	PER 20325 20344	La fille, exaspérée
 T276	PER 22116 22127	une putain 
-T277	PER 26332 26341	une Dame 
+T277	PER 18864 18879	la jeune femme 
 T278	PER 18226 18233	Rachel 
-T279	PER 18864 18879	la jeune femme 
-T280	PER 22178 22183	Elle 
-T281	PER 21398 21403	Elle 
+T279	PER 26332 26341	une Dame 
+T280	PER 21398 21403	Elle 
+T281	PER 22178 22183	Elle 
 T282	PER 20701 20706	Elle 
 T283	PER 22065 22069	Moi 
 T284	FAC 15764 15785	des maisons publiques
@@ -446,9 +446,9 @@ T445	LOC 30240 30247	du pays
 T446	PER 30285 30291	enfant
 T447	TIME 30295 30312	l'âge de onze ans
 T448	TIME 30304 30312	onze ans
-T449	PER 33082 33091	du valet 
+T449	PER 35808 35816	Baptiste
 T450	PER 30338 30347	un valet 
-T451	PER 35808 35816	Baptiste
+T451	PER 33082 33091	du valet 
 T452	PER 30559 30570	cette brute
 T453	PER 30572 30580	L'homme 
 T454	PER 30414 30427	sa brutalité 
@@ -552,11 +552,11 @@ T551	PER 45618 45627	le baron
 T552	PER 43933 43949	M. de Coutelier 
 T553	PER 47670 47672	J'
 T554	PER 47595 47608	son vieil ami
-T555	PER 51832 51840	leur ami
-T556	PER 47498 47510	un monsieur 
+T555	PER 47498 47510	un monsieur 
+T556	PER 51832 51840	leur ami
 T557	PER 47532 47579	le baron, changé, vieilli, en costume de voyage
-T558	PER 46024 46033	Le baron 
-T559	PER 42523 42533	son maître
+T558	PER 42523 42533	son maître
+T559	PER 46024 46033	Le baron 
 T560	PER 46049 46053	Moi 
 T561	PER 42586 42595	le baron 
 T562	PER 41316 41332	monsieur Hector 
@@ -636,8 +636,8 @@ T635	GPE 49328 49337	Courville
 T636	GPE 40027 40037	Courville 
 T637	GPE 51262 51272	Courville 
 T638	GPE 51952 51962	Courville 
-T639	GPE 47461 47470	Courville
-T640	GPE 51784 51794	Courville 
+T639	GPE 51784 51794	Courville 
+T640	GPE 47461 47470	Courville
 T641	GPE 42648 42658	Courville 
 T642	GPE 46575 46584	Courville
 T643	PER 40043 40051	son ami 
@@ -655,8 +655,8 @@ T654	NO_PER 40564 40570	Médor
 T655	NO_PER 42477 42488	cet écuyer 
 T656	NO_PER 41232 41237	Médor
 T657	NO_PER 42456 42472	son garde-malade
-T658	NO_PER 45656 45662	Médor 
-T659	NO_PER 41095 41101	Médor 
+T658	NO_PER 41095 41101	Médor 
+T659	NO_PER 45656 45662	Médor 
 T660	NO_PER 45133 45139	Médor 
 T661	LOC 40977 40987	la lisière
 T662	PER 43262 43273	les femmes 
@@ -681,8 +681,8 @@ T680	PER 47359 47370	Mme Vilers
 T681	PER 48614 48624	Mme Vilers
 T682	PER 47172 47182	leur amie 
 T683	PER 45462 45481	Mme Vilers, éperdue
-T684	PER 48888 48898	votre amie
-T685	PER 45792 45805	Quelle femme 
+T684	PER 45792 45805	Quelle femme 
+T685	PER 48888 48898	votre amie
 T686	PER 43712 43798	une femme de quarante ans, encore jolie, assez riche, de belle humeur et bien portante
 T687	TIME 43725 43737	quarante ans
 T688	PER 43815 43832	Mme Berthe Vilers

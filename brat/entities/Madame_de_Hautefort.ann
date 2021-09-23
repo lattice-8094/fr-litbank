@@ -1,8 +1,8 @@
 T1	PER 9285 9302	Mlle de Hautefort
 T2	PER 11053 11071	Mlle de Hautefort 
 T3	PER 34418 34449	la sœur de son valet de chambre
-T4	PER 9458 9475	Mlle de Hautefort
-T5	PER 13314 13333	Mlle de Haute-fort 
+T4	PER 13314 13333	Mlle de Haute-fort 
+T5	PER 9458 9475	Mlle de Hautefort
 T6	PER 50533 50549	Mme de Hautefort
 T7	PER 7732 7751	cette belle enfant 
 T8	PER 7764 7776	une héroïne 
@@ -48,29 +48,29 @@ T47	PER 23614 23625	sa compagne
 T48	PER 41828 41845	Mme de Hautefort 
 T49	PER 39912 39931	Marie de Hautefort 
 T50	PER 43795 43810	la noble femme 
-T51	PER 43727 43744	Mme de Hautefort 
-T52	PER 45826 45861	une personne tout aussi dangereuse 
-T53	PER 21254 21272	Mlle de Hautefort 
+T51	PER 21254 21272	Mlle de Hautefort 
+T52	PER 43727 43744	Mme de Hautefort 
+T53	PER 45826 45861	une personne tout aussi dangereuse 
 T54	PER 39801 39827	sa jeune et intrépide amie
 T55	PER 41708 41723	sa petite-fille
 T56	PER 23383 23400	Mlle de Hautefort
 T57	PER 23441 23464	une blonde éblouissante
 T58	PER 21876 21890	la jeune fille
-T59	PER 7412 7429	Mlle de Hautefort
-T60	PER 3660 3696	leur sœur cadette Marie de Hautefort
+T59	PER 3660 3696	leur sœur cadette Marie de Hautefort
+T60	PER 7412 7429	Mlle de Hautefort
 T61	PER 42227 42244	Mme de Hautefort 
 T62	PER 55018 55035	Mme de Hautefort 
 T63	PER 2237 2286	le dernier enfant du marquis Charles de Hautefort
 T64	PER 6004 6022	Mlle de Hautefort 
 T65	PER 42776 42796	sa jeune confidente 
 T66	PER 22195 22213	Mlle de Hautefort 
-T67	PER 3993 4007	La jeune fille
-T68	PER 34670 34699	l’altière Marie de Hautefort 
+T67	PER 34670 34699	l’altière Marie de Hautefort 
+T68	PER 3993 4007	La jeune fille
 T69	PER 15884 15907	ce jeune et noble cœur 
 T70	PER 42521 42538	Mme de Hautefort 
 T71	PER 40515 40533	Mlle de Hautefort 
-T72	PER 38358 38375	Mlle de Hautefort
-T73	PER 42421 42445	cette ravissante figure 
+T72	PER 42421 42445	cette ravissante figure 
+T73	PER 38358 38375	Mlle de Hautefort
 T74	PER 42461 42474	ce noble cœur
 T75	PER 55300 55317	Mme de Hautefort 
 T76	PER 36169 36186	Mlle de Hautefort
@@ -135,17 +135,17 @@ T134	PER 20885 20897	du cardinal
 T135	PER 45333 45354	son redouté ministre 
 T136	PER 20244 20254	Richelieu 
 T137	PER 49244 49254	Richelieu 
-T138	PER 21430 21439	Richelieu
-T139	PER 41957 41967	Richelieu 
+T138	PER 41957 41967	Richelieu 
+T139	PER 21430 21439	Richelieu
 T140	PER 16706 16722	son persécuteur 
 T141	PER 32698 32707	Richelieu
 T142	PER 45918 45930	le cardinal 
 T143	PER 44581 44591	Richelieu 
 T144	PER 28365 28374	Richelieu
-T145	PER 43841 43851	Richelieu 
-T146	PER 41880 41890	Richelieu 
-T147	PER 46677 46687	Richelieu 
-T148	PER 44555 44569	M. le cardinal
+T145	PER 41880 41890	Richelieu 
+T146	PER 46677 46687	Richelieu 
+T147	PER 44555 44569	M. le cardinal
+T148	PER 43841 43851	Richelieu 
 T149	PER 39130 39139	Richelieu
 T150	PER 46492 46504	le cardinal 
 T151	PER 28158 28170	du cardinal 
@@ -179,8 +179,8 @@ T178	PER 20278 20286	Mazarin
 T179	PER 228 235	Mazarin
 T180	PER 349 378	la famille des hommes d’état 
 T181	PER 360 378	des hommes d’état 
-T182	GPE 6697 6704	l’état 
-T183	GPE 14699 14705	l’état
+T182	GPE 14699 14705	l’état
+T183	GPE 6697 6704	l’état 
 T184	GPE 27470 27479	la France
 T185	GPE 17405 17412	l’état 
 T186	GPE 6447 6457	la royauté
@@ -198,15 +198,15 @@ T197	PER 54615 54619	amis
 T198	PER 543 552	ses amis 
 T199	PER 11118 11125	du roi 
 T200	PER 45608 45616	Monsieur
-T201	PER 47724 47731	du roi 
-T202	PER 39594 39601	au roi 
+T201	PER 39594 39601	au roi 
+T202	PER 47724 47731	du roi 
 T203	PER 9273 9280	du roi 
 T204	PER 9189 9199	Louis XIII
 T205	PER 13018 13025	le roi 
 T206	PER 47611 47617	du roi
 T207	PER 25170 25181	Louis XIII 
-T208	PER 9416 9423	du roi 
-T209	PER 15088 15095	le roi 
+T208	PER 15088 15095	le roi 
+T209	PER 9416 9423	du roi 
 T210	PER 13239 13246	le roi 
 T211	PER 47450 47457	du roi 
 T212	PER 45333 45337	son 
@@ -215,8 +215,8 @@ T214	PER 43400 43407	le roi
 T215	PER 56783 56801	la main puissante 
 T216	PER 43977 43988	Louis XIII 
 T217	PER 15306 15323	cet esprit malade
-T218	PER 45870 45881	Louis XIII 
-T219	PER 56650 56656	du roi
+T218	PER 56650 56656	du roi
+T219	PER 45870 45881	Louis XIII 
 T220	PER 21383 21393	Louis XIII
 T221	PER 41859 41870	Louis XIII 
 T222	PER 45733 45740	le roi 
@@ -233,8 +233,8 @@ T232	PER 56977 56984	du roi
 T233	PER 5815 5822	le roi 
 T234	PER 14504 14515	Louis XIII 
 T235	PER 14461 14468	le roi 
-T236	PER 46141 46152	Louis XIII 
-T237	PER 19540 19550	Louis XIII
+T236	PER 19540 19550	Louis XIII
+T237	PER 46141 46152	Louis XIII 
 T238	PER 46097 46104	du roi 
 T239	PER 25741 25752	Louis XIII 
 T240	PER 22076 22087	Louis XIII 
@@ -247,13 +247,13 @@ T246	PER 11022 11026	Lui
 T247	PER 10989 10994	Louis
 T248	PER 10922 10938	son royal amant 
 T249	PER 6065 6082	l’homme du monde 
-T250	PER 44446 44465	le faible monarque 
-T251	PER 57087 57097	Louis XIII
-T252	PER 42396 42407	Louis XIII 
-T253	PER 6048 6059	Louis XIII 
+T250	PER 57087 57097	Louis XIII
+T251	PER 44446 44465	le faible monarque 
+T252	PER 6048 6059	Louis XIII 
+T253	PER 42396 42407	Louis XIII 
 T254	PER 41083 41089	du roi
-T255	PER 36784 36790	le roi
-T256	PER 18621 18632	Louis XIII 
+T255	PER 18621 18632	Louis XIII 
+T256	PER 36784 36790	le roi
 T257	PER 10486 10493	le Roi 
 T258	PER 18664 18668	son 
 T259	PER 27956 27967	Louis XIII 
@@ -279,8 +279,8 @@ T278	PER 24520 24527	du roi
 T279	PER 47030 47045	son royal amant
 T280	PER 8125 8136	Louis XIII 
 T281	PER 8099 8105	le roi
-T282	PER 13827 13833	un roi
-T283	PER 11818 11829	Louis XIII 
+T282	PER 11818 11829	Louis XIII 
+T283	PER 13827 13833	un roi
 T284	PER 8206 8213	du roi 
 T285	PER 13946 13976	le martyr de Mlle de Hautefort
 T286	PER 26261 26268	du roi 
@@ -293,8 +293,8 @@ T292	PER 8365 8372	Le roi
 T293	PER 45129 45136	le roi 
 T294	PER 41189 41195	du roi
 T295	PER 45220 45226	Louis 
-T296	PER 24888 24894	Le roi
-T297	PER 22779 22795	le triste amant 
+T296	PER 22779 22795	le triste amant 
+T297	PER 24888 24894	Le roi
 T298	PER 12202 12209	Le roi 
 T299	PER 47214 47225	Louis XIII 
 T300	PER 12097 12104	du roi 
@@ -314,8 +314,8 @@ T313	PER 41450 41458	la reine
 T314	PER 43410 43419	la reine 
 T315	PER 22954 22962	la reine
 T316	PER 15361 15369	la reine
-T317	PER 9514 9523	la reine 
-T318	PER 11455 11464	la reine 
+T317	PER 11455 11464	la reine 
+T318	PER 9514 9523	la reine 
 T319	PER 27564 27580	Anne d’Autriche 
 T320	PER 21309 21318	la reine 
 T321	PER 7842 7880	sa maîtresse persécutée et malheureuse
@@ -349,8 +349,8 @@ T348	PER 30026 30034	la reine
 T349	PER 53852 53865	votre majesté
 T350	PER 53841 53847	madame
 T351	PER 27915 27929	la reine Anne 
-T352	PER 8748 8757	La reine 
-T353	PER 38880 38896	Anne d’Autriche 
+T352	PER 38880 38896	Anne d’Autriche 
+T353	PER 8748 8757	La reine 
 T354	PER 7003 7019	Anne d’Autriche 
 T355	PER 27710 27719	la reine 
 T356	PER 53660 53667	madame 
@@ -372,11 +372,11 @@ T371	PER 42914 42926	sa maîtresse
 T372	PER 871 880	une reine
 T373	PER 49540 49549	la reine 
 T374	PER 30844 30853	la reine 
-T375	PER 37357 37366	la reine 
-T376	PER 52759 52769	une reine 
+T375	PER 52759 52769	une reine 
+T376	PER 37357 37366	la reine 
 T377	PER 35473 35482	la reine 
-T378	PER 13924 13932	la reine
-T379	PER 8157 8172	Anne d’Autriche
+T378	PER 8157 8172	Anne d’Autriche
+T379	PER 13924 13932	la reine
 T380	PER 26388 26397	la reine 
 T381	PER 48635 48651	Anne d’Autriche 
 T382	PER 28456 28471	Anne d’Autriche
@@ -395,8 +395,8 @@ T394	PER 49739 49747	la reine
 T395	PER 34018 34026	la reine
 T396	PER 42981 42996	Anne d’Autriche
 T397	LOC 922 931	l’univers
-T398	NO_PER 37160 37165	Dieu 
-T399	NO_PER 51327 51332	Dieu 
+T398	NO_PER 51327 51332	Dieu 
+T399	NO_PER 37160 37165	Dieu 
 T400	NO_PER 1129 1134	Dieu 
 T401	NO_PER 4523 4528	Dieu 
 T402	PER 1156 1176	une créature humaine
@@ -434,8 +434,8 @@ T433	PER 2255 2286	du marquis Charles de Hautefort
 T434	ORG 2305 2323	des armées du roi 
 T435	PER 2316 2323	du roi 
 T436	FAC 2351 2361	sa chambre
-T437	PER 3752 3760	sa mère 
-T438	PER 2379 2394	Renée de Bellay
+T437	PER 2379 2394	Renée de Bellay
+T438	PER 3752 3760	sa mère 
 T439	FAC 2399 2439	l’ancienne maison de La Flotte Hauterive
 T440	PER 2473 2483	deux fils 
 T441	PER 2473 2499	deux fils et quatre filles
@@ -456,21 +456,21 @@ T455	TIME 3092 3105	décembre 1693
 T456	TIME 3114 3133	quatre-vingt-un ans
 T457	PER 3135 3152	Des quatre filles
 T458	PER 3154 3173	les deux premières 
-T459	PER 55940 55947	sa sœur
-T460	PER 49143 49150	sa sœur
+T459	PER 49143 49150	sa sœur
+T460	PER 55940 55947	sa sœur
 T461	PER 41422 41458	une des filles d’honneur de la reine
-T462	PER 9525 9533	d’Escars
-T463	PER 41391 41398	Sa sœur
+T462	PER 41391 41398	Sa sœur
+T463	PER 9525 9533	d’Escars
 T464	PER 3316 3337	mademoiselle d’Escars
 T465	PER 3366 3386	François de Choiseul
 T466	PER 3539 3554	ses deux frères
 T467	PER 6934 6948	dame d’atours 
 T468	PER 49072 49085	sa grand’mère
 T469	PER 6907 6934	Mme de La Flotte Hauterive 
-T470	PER 41641 41657	Mme de La Flotte
-T471	PER 4095 4111	Mme de La Flotte
-T472	PER 3860 3873	sa grand mère
-T473	PER 4597 4614	Mme de La Flotte 
+T470	PER 4095 4111	Mme de La Flotte
+T471	PER 41641 41657	Mme de La Flotte
+T472	PER 4597 4614	Mme de La Flotte 
+T473	PER 3860 3873	sa grand mère
 T474	PER 41257 41270	sa grand’mère
 T475	PER 43495 43512	Mme de La Flotte 
 T476	TIME 3903 3924	Ses premières années 
@@ -492,8 +492,8 @@ T491	PER 4983 4996	La princesse
 T492	PER 4904 4942	la brillante maîtresse de Bassompierre
 T493	PER 5069 5083	tout le monde 
 T494	PER 7137 7150	la reine-mère
-T495	PER 18866 18880	la reine-mère 
-T496	PER 19477 19500	sa première protectrice
+T495	PER 19477 19500	sa première protectrice
+T496	PER 18866 18880	la reine-mère 
 T497	PER 5790 5804	la reine-mère 
 T498	PER 6755 6762	sa mère
 T499	PER 14625 14632	sa mère
@@ -651,8 +651,8 @@ T650	PER 21142 21162	le chevalier de Jars
 T651	PER 39764 39768	Jars
 T652	FAC 36486 36496	l’échafaud
 T653	FAC 21210 21220	l’échafaud
-T654	FAC 34109 34119	l’échafaud
-T655	FAC 56866 56877	un échafaud
+T654	FAC 56866 56877	un échafaud
+T655	FAC 34109 34119	l’échafaud
 T656	PER 28082 28087	amis 
 T657	PER 21297 21318	des amis de la reine 
 T658	TIME 22442 22452	les années
@@ -724,8 +724,8 @@ T723	PER 28219 28255	ces rares courtisans de l’infortune
 T724	PER 29233 29250	La Rochefoucauld 
 T725	PER 39183 39199	La Rochefoucauld
 T726	PER 32244 32261	La Rochefoucauld 
-T727	PER 28261 28277	La Rochefoucauld
-T728	PER 31860 31876	La Rochefoucauld
+T727	PER 31860 31876	La Rochefoucauld
+T728	PER 28261 28277	La Rochefoucauld
 T729	PER 28855 28871	La Rochefoucauld
 T730	PER 43096 43113	La Rochefoucauld 
 T731	PER 28330 28339	son père 
@@ -741,13 +741,13 @@ T740	PER 30254 30269	ses deux frères
 T741	PER 54634 54652	le pauvre La Porte
 T742	PER 37503 37511	La Porte
 T743	PER 35851 35864	ce prisonnier
-T744	PER 39381 39389	La Porte
-T745	PER 37926 37953	ce prisonnier si bien gardé
+T744	PER 37926 37953	ce prisonnier si bien gardé
+T745	PER 39381 39389	La Porte
 T746	PER 39058 39066	La Porte
 T747	PER 37634 37661	du fidèle valet de chambre 
 T748	PER 31665 31673	La Porte
-T749	PER 31222 31230	La Porte
-T750	PER 30367 30389	Un de ses domestiques 
+T749	PER 30367 30389	Un de ses domestiques 
+T750	PER 31222 31230	La Porte
 T751	PER 38143 38152	La Porte 
 T752	PER 30895 30904	La Porte 
 T753	PER 31518 31527	la reine 
@@ -765,8 +765,8 @@ T764	FAC 31689 31714	un cachot de la Bastille
 T765	FAC 34773 34784	la Bastille
 T766	FAC 30507 30518	la Bastille
 T767	FAC 33920 33931	la Bastille
-T768	FAC 35800 35811	ce lieu-ci 
-T769	FAC 31702 31714	la Bastille 
+T768	FAC 31702 31714	la Bastille 
+T769	FAC 35800 35811	ce lieu-ci 
 T770	FAC 54728 54739	la Bastille
 T771	PER 30908 30929	le chancelier Séguier
 T772	PER 31094 31104	deux fils 
@@ -840,8 +840,8 @@ T839	PER 44360 44370	Cinq-Mars
 T840	PER 44267 44275	du fils 
 T841	PER 45357 45371	son nouvel ami
 T842	PER 56595 56615	l’ambitieux étourdi 
-T843	PER 44848 44858	Cinq-Mars 
-T844	PER 44097 44143	un jeune homme de la tournure la plus agréable
+T843	PER 44097 44143	un jeune homme de la tournure la plus agréable
+T844	PER 44848 44858	Cinq-Mars 
 T845	PER 44155 44207	un de ses amis les plus dévoués et les plus capables
 T846	PER 44279 44286	du père
 T847	PER 44161 44207	ses amis les plus dévoués et les plus capables
