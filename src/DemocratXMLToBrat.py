@@ -313,4 +313,36 @@ if __name__ == "__main__":
                     )
             i = i + 1
 
+    #####
+    # Traitement des 'coref'
+    #####
+    # fichiers de sortie pour 'coref'
+    coref_dir = os.path.join(args.out_dir, 'coref')
+    if not os.path.exists(coref_dir):
+        os.makedirs(coref_dir)
+    f_brat_coref_txt = os.path.join(coref_dir, title + ".txt")
+    f_brat_coref_ann = os.path.join(coref_dir, title + ".ann")
+
+    # simple copie du fichier txt des 'entities'
+    copyfile(f_brat_entities_txt, f_brat_coref_txt)
+    
+    i = 1
+    with open(f_brat_coref_ann, "w") as ann:
+        for chaine in chaines:
+            for mention in chaine.mentions:
+                #if mention.is_entity():
+                print(
+                    f"T{i}\t{mention.get_pos()}_{chaine.type_referent} {mention.words[0].start} {mention.words[-1].get_end()}\t{str(mention)}",
+                    file=ann,
+                )
+                i = i + 1
+        j = 1 # un num par chaine et toutes ses mentions   
+        for chaine in chaines:
+            for mention in chaine.mentions:
+                print(
+                     f"T{i}\t{chaine.ref}-{j} {mention.words[0].start} {mention.words[-1].get_end()}\t{str(mention)}",
+                    file=ann,
+                )
+                i = i + 1
+        j = j + 1
     

@@ -132,6 +132,16 @@ class Mention:
             if word.pos == "NAM" or word.pos == "NOM":
                 return True
         return False
+    
+    def get_pos(self):
+        """
+        Returns the part of speech of the mention
+        since there is no syntax analysis we don't know the head of the mention
+        dumb algo : first word with NOM or NAM or PRO:PER sets the pos
+        """
+        for word in self.words:
+            if word.pos in ['NAM', 'NOM', 'PRO:PER']:
+                return word.pos
 
 class Event:
     """
