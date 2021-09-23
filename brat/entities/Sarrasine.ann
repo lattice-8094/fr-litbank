@@ -13,17 +13,17 @@ T12	LOC 567 574	la lune
 T13	PER 815 827	des vivants 
 T14	FAC 829 847	un salon splendide
 T15	PER 973 1004	les plus jolies femmes de Paris
-T16	GPE 75894 75899	Paris
-T17	GPE 56247 56252	Paris
-T18	GPE 3118 3123	Paris
-T19	GPE 75915 75943	une terre bien hospitalière 
-T20	GPE 16589 16594	Paris
-T21	GPE 2216 2222	Paris 
-T22	GPE 39667 39673	Paris 
-T23	GPE 2222 2281	la ville la plus amusante du monde et la plus philosophique
-T24	GPE 7509 7514	Paris
-T25	GPE 999 1004	Paris
-T26	GPE 46964 46974	tout Paris
+T16	GPE 2216 2222	Paris 
+T17	GPE 2222 2281	la ville la plus amusante du monde et la plus philosophique
+T18	GPE 75915 75943	une terre bien hospitalière 
+T19	GPE 39667 39673	Paris 
+T20	GPE 7509 7514	Paris
+T21	GPE 75894 75899	Paris
+T22	GPE 16589 16594	Paris
+T23	GPE 999 1004	Paris
+T24	GPE 46964 46974	tout Paris
+T25	GPE 56247 56252	Paris
+T26	GPE 3118 3123	Paris
 T27	GPE 33831 33837	Paris 
 T28	PER 1023 1091	les mieux titrées, éclatantes, pompeuses, éblouissantes de diamants 
 T29	PER 1552 1562	les amants
@@ -38,10 +38,10 @@ T37	FAC 2572 2582	des salons
 T38	PER 7323 7332	monsieur 
 T39	PER 2650 2668	monsieur de Lanty 
 T40	FAC 8742 8749	l’hôtel
-T41	FAC 2676 2686	cet hôtel 
+T41	FAC 24613 24623	son hôtel 
 T42	FAC 17169 17181	cette maison
 T43	FAC 11702 11718	l’hôtel de Lanty
-T44	FAC 24613 24623	son hôtel 
+T44	FAC 2676 2686	cet hôtel 
 T45	PER 2725 2751	le maréchal de Carigliano 
 T46	PER 2777 2789	Ces gens-là 
 T47	PER 2937 2958	monsieur de Nucingen 
@@ -51,21 +51,21 @@ T50	PER 3049 3073	les deux interlocuteurs
 T51	PER 3091 3111	cette gent curieuse 
 T52	PER 3420 3429	Personne 
 T53	LOC 3442 3452	quel pays 
-T54	PER 8049 8063	cette famille 
-T55	PER 8243 8259	la maison Lanty 
-T56	PER 11778 11788	la famille
-T57	PER 7085 7111	Cette mystérieuse famille 
-T58	PER 13989 14003	cette famille 
-T59	PER 11347 11365	la maison de Lanty
+T54	PER 74093 74103	les Lanty 
+T55	PER 3459 3478	la famille de Lanty
+T56	PER 10697 10710	cette famille
+T57	PER 3635 3649	cette famille 
+T58	PER 8049 8063	cette famille 
+T59	PER 74274 74291	la famille Lanty 
 T60	PER 11433 11447	cette famille 
-T61	PER 74274 74291	la famille Lanty 
-T62	PER 74093 74103	les Lanty 
-T63	PER 10697 10710	cette famille
-T64	PER 3459 3478	la famille de Lanty
-T65	PER 3635 3649	cette famille 
-T66	PER 11418 11447	les membres de cette famille 
-T67	PER 13969 14003	tous les membres de cette famille 
-T68	PER 3615 3649	Tous les membres de cette famille 
+T61	PER 11778 11788	la famille
+T62	PER 13989 14003	cette famille 
+T63	PER 8243 8259	la maison Lanty 
+T64	PER 11347 11365	la maison de Lanty
+T65	PER 7085 7111	Cette mystérieuse famille 
+T66	PER 3615 3649	Tous les membres de cette famille 
+T67	PER 11418 11447	les membres de cette famille 
+T68	PER 13969 14003	tous les membres de cette famille 
 T69	PER 3810 3832	ces différents peuples
 T70	PER 3845 3859	des bohémiens 
 T71	PER 3872 3888	des flibustiers 
@@ -75,70 +75,70 @@ T74	PER 6840 6858	Le comte de Lanty
 T75	PER 3980 3998	Le comte de Lanty 
 T76	FAC 4014 4028	quelque Casbah
 T77	PER 4069 4082	un philosophe
-T78	PER 23973 23982	Marianina
-T79	PER 74603 74612	Marianina
+T78	PER 11844 11853	Marianina
+T79	PER 8853 8862	Marianina
 T80	PER 27405 27421	la jeune enfant 
-T81	PER 11844 11853	Marianina
-T82	PER 27241 27251	Marianina 
-T83	PER 4048 4057	sa fille 
-T84	PER 12807 12831	la trop naïve Marianina 
-T85	PER 4658 4670	Cette fille 
-T86	PER 4104 4113	Marianina
-T87	PER 6168 6177	Marianina
-T88	PER 6128 6148	la comtesse de Lanty
-T89	PER 8853 8862	Marianina
-T90	PER 6231 6242	la comtesse
-T91	PER 4852 4862	Marianina 
+T81	PER 4048 4057	sa fille 
+T82	PER 4658 4670	Cette fille 
+T83	PER 74603 74612	Marianina
+T84	PER 4104 4113	Marianina
+T85	PER 4852 4862	Marianina 
+T86	PER 6168 6177	Marianina
+T87	PER 6128 6148	la comtesse de Lanty
+T88	PER 23973 23982	Marianina
+T89	PER 27241 27251	Marianina 
+T90	PER 12807 12831	la trop naïve Marianina 
+T91	PER 6231 6242	la comtesse
 T92	PER 6193 6200	sa sœur
 T93	PER 16124 16133	Marianina
-T94	PER 46591 46601	Marianina 
+T94	PER 4491 4501	Marianina 
 T95	PER 8635 8646	la comtesse
-T96	PER 26779 26797	la jeune Marianina
+T96	PER 46591 46601	Marianina 
 T97	PER 13130 13142	La comtesse 
-T98	PER 4491 4501	Marianina 
-T99	PER 28157 28172	La jeune folle 
-T100	PER 28146 28155	Marianina
+T98	PER 28157 28172	La jeune folle 
+T99	PER 28146 28155	Marianina
+T100	PER 26779 26797	la jeune Marianina
 T101	PER 4193 4214	des poètes orientaux 
 T102	PER 4222 4241	la fille du sultan 
 T103	PER 4231 4241	du sultan 
 T104	PER 4358 4370	des Malibran
 T105	PER 4372 4382	des Sontag
 T106	PER 4384 4393	des Fodor
-T107	PER 23995 24011	madame de Lanty 
-T108	PER 6829 6838	leur mère
-T109	PER 4876 4883	sa mère
-T110	PER 17107 17122	madame de Lanty
-T111	PER 11855 11871	madame de Lanty 
-T112	PER 7335 7351	madame de Lanty 
-T113	PER 26447 26462	madame de Lanty
-T114	PER 13500 13516	madame de Lanty 
-T115	PER 74660 74676	madame de Lanty 
-T116	PER 24558 24574	madame de Lanty 
+T107	PER 11855 11871	madame de Lanty 
+T108	PER 7335 7351	madame de Lanty 
+T109	PER 74660 74676	madame de Lanty 
+T110	PER 24558 24574	madame de Lanty 
+T111	PER 13500 13516	madame de Lanty 
+T112	PER 17107 17122	madame de Lanty
+T113	PER 23995 24011	madame de Lanty 
+T114	PER 4876 4883	sa mère
+T115	PER 6829 6838	leur mère
+T116	PER 26447 26462	madame de Lanty
 T117	PER 4915 4926	ces femmes 
 T118	PER 5743 5759	une jeune fille 
 T119	PER 6001 6023	ces puissantes sirènes
 T120	PER 5795 5815	ces sortes de femmes
-T121	PER 5809 5815	femmes
-T122	PER 47569 47580	les femmes 
-T123	PER 51757 51768	des femmes 
-T124	PER 23577 23588	les femmes 
-T125	PER 18669 18680	les femmes 
-T126	PER 25689 25697	un homme
-T127	PER 54833 54842	un homme 
-T128	PER 14674 14682	un homme
-T129	PER 5817 5826	un homme 
+T121	PER 51757 51768	des femmes 
+T122	PER 23577 23588	les femmes 
+T123	PER 18669 18680	les femmes 
+T124	PER 5809 5815	femmes
+T125	PER 47569 47580	les femmes 
+T126	PER 54833 54842	un homme 
+T127	PER 25689 25697	un homme
+T128	PER 5817 5826	un homme 
+T129	PER 14674 14682	un homme
 T130	PER 5845 5865	monsieur de Jaucourt
 T131	FAC 5911 5921	un cabinet
 T132	PER 5923 5943	la femme de chambre 
-T133	PER 13532 13541	le comte 
-T134	PER 23984 23992	Filippo 
-T135	PER 13804 13821	le comte de Lanty
+T133	PER 6150 6157	Filippo
+T134	PER 11835 11842	Filippo
+T135	PER 6576 6584	Filippo 
 T136	PER 6270 6285	ce jeune homme 
-T137	PER 12925 12933	Filippo 
-T138	PER 6150 6157	Filippo
-T139	PER 13823 13850	cet homme froid et réservé 
-T140	PER 11835 11842	Filippo
-T141	PER 6576 6584	Filippo 
+T137	PER 13804 13821	le comte de Lanty
+T138	PER 13823 13850	cet homme froid et réservé 
+T139	PER 13532 13541	le comte 
+T140	PER 12925 12933	Filippo 
+T141	PER 23984 23992	Filippo 
 T142	PER 6312 6322	l’Antinoüs
 T143	PER 6616 6629	jeunes filles
 T144	PER 6689 6705	toutes les mères
@@ -157,63 +157,63 @@ T156	PER 7323 7351	monsieur et madame de Lanty
 T157	LOC 7433 7461	les quatre parties du monde 
 T158	LOC 7452 7461	du monde 
 T159	PER 7550 7560	Vespasien 
-T160	PER 7677 7694	la haute société 
-T161	PER 9296 9313	la haute société 
-T162	PER 8133 8150	la haute société 
+T160	PER 8133 8150	la haute société 
+T161	PER 7677 7694	la haute société 
+T162	PER 9296 9313	la haute société 
 T163	PER 7846 7860	tout le monde 
 T164	LOC 7895 7905	une ville 
 T165	PER 7974 7990	les aventuriers 
 T166	PER 8339 8353	Anne Radcliffe
-T167	PER 8373 8382	ces gens 
-T168	PER 8355 8371	Les observateurs
+T167	PER 8355 8371	Les observateurs
+T168	PER 8373 8382	ces gens 
 T169	FAC 8409 8422	quel magasin 
 T170	FAC 8497 8515	votre appartement 
-T171	PER 19352 19368	ce corps étrange
-T172	PER 21828 21859	cette espèce d’idole japonaise 
+T171	PER 21828 21859	cette espèce d’idole japonaise 
+T172	PER 74051 74070	le petit vieillard 
 T173	PER 19464 19472	l’homme 
-T174	PER 74051 74070	le petit vieillard 
-T175	PER 13419 13431	le vieillard
-T176	PER 18140 18149	cet homme
-T177	PER 12863 12876	le vieillard 
-T178	PER 10394 10409	ce petit vieux 
-T179	PER 23706 23718	le vieillard
-T180	PER 21528 21558	ce personnage fantasmagorique 
-T181	PER 22160 22173	le vieillard 
-T182	PER 26992 27011	le spectre habillé 
-T183	PER 11532 11544	ce vieillard
-T184	PER 16019 16038	le petit vieillard 
-T185	PER 24682 24701	un petit vieillard 
-T186	PER 22896 22919	cet homme en poussière 
-T187	PER 11618 11632	Ce personnage 
-T188	PER 9176 9186	mon voisin
-T189	PER 19600 19610	L’inconnu 
-T190	PER 18498 18522	cette créature sans nom 
-T191	PER 9188 9213	ce monsieur vêtu de noir 
-T192	PER 9437 9461	ce personnage mystérieux
-T193	PER 27367 27380	le vieillard 
-T194	PER 27444 27463	le cadavre ambulant
-T195	PER 8663 8684	un personnage étrange
-T196	PER 8947 8956	L’inconnu
-T197	PER 11929 11939	l’inconnu 
-T198	PER 14493 14501	Ce vieux
-T199	PER 20104 20120	cet être bizarre
-T200	PER 23159 23162	Il 
-T201	PER 17372 17385	Le vieillard 
-T202	PER 17334 17344	son voisin
-T203	PER 27850 27862	Le vieillard
-T204	PER 9976 9986	l’inconnu 
-T205	PER 46604 46623	son petit vieillard
-T206	PER 18845 18864	le petit vieillard 
-T207	PER 23539 23552	le phénomène 
-T208	PER 12322 12340	ce génie familier 
-T209	PER 10080 10092	ce vieillard
-T210	PER 13106 13128	cette créature bizarre
-T211	PER 21119 21149	au spectre survenu devant nous
+T174	PER 18140 18149	cet homme
+T175	PER 10394 10409	ce petit vieux 
+T176	PER 13419 13431	le vieillard
+T177	PER 19352 19368	ce corps étrange
+T178	PER 12863 12876	le vieillard 
+T179	PER 16019 16038	le petit vieillard 
+T180	PER 9188 9213	ce monsieur vêtu de noir 
+T181	PER 9176 9186	mon voisin
+T182	PER 11618 11632	Ce personnage 
+T183	PER 18498 18522	cette créature sans nom 
+T184	PER 11532 11544	ce vieillard
+T185	PER 22896 22919	cet homme en poussière 
+T186	PER 26992 27011	le spectre habillé 
+T187	PER 8663 8684	un personnage étrange
+T188	PER 22160 22173	le vieillard 
+T189	PER 9437 9461	ce personnage mystérieux
+T190	PER 19600 19610	L’inconnu 
+T191	PER 24682 24701	un petit vieillard 
+T192	PER 27444 27463	le cadavre ambulant
+T193	PER 21119 21149	au spectre survenu devant nous
+T194	PER 17334 17344	son voisin
+T195	PER 11929 11939	l’inconnu 
+T196	PER 14493 14501	Ce vieux
+T197	PER 27367 27380	le vieillard 
+T198	PER 20104 20120	cet être bizarre
+T199	PER 8947 8956	L’inconnu
+T200	PER 17372 17385	Le vieillard 
+T201	PER 27850 27862	Le vieillard
+T202	PER 23159 23162	Il 
+T203	PER 9976 9986	l’inconnu 
+T204	PER 23706 23718	le vieillard
+T205	PER 21528 21558	ce personnage fantasmagorique 
+T206	PER 12322 12340	ce génie familier 
+T207	PER 10080 10092	ce vieillard
+T208	PER 46604 46623	son petit vieillard
+T209	PER 23539 23552	le phénomène 
+T210	PER 18845 18864	le petit vieillard 
+T211	PER 13106 13128	cette créature bizarre
 T212	PER 8694 8702	un homme
 T213	FAC 8815 8824	le salon 
-T214	PER 8982 8993	cette femme
-T215	PER 8913 8945	une dame placée près de la porte
-T216	PER 9050 9062	cette femme 
+T214	PER 9050 9062	cette femme 
+T215	PER 8982 8993	cette femme
+T216	PER 8913 8945	une dame placée près de la porte
 T217	PER 8902 8913	sa voisine 
 T218	PER 9284 9313	aux gens de la haute société 
 T219	NO_PER 9485 9495	un vampire
@@ -235,8 +235,8 @@ T234	PER 10043 10058	Des romanciers
 T235	TIME 10189 10198	le temps 
 T236	PER 10221 10240	du prince de Mysore
 T237	PER 10242 10255	Des banquiers
-T238	PER 10434 10442	Monsieur
-T239	PER 10568 10576	Monsieur
+T238	PER 10568 10576	Monsieur
+T239	PER 10434 10442	Monsieur
 T240	PER 10584 10593	un homme 
 T241	PER 10748 10764	madame d’Espard 
 T242	PER 10845 10857	ce vieillard
@@ -279,8 +279,8 @@ T278	PER 14463 14475	ces gens-là
 T279	PER 14480 14491	des fripons
 T280	PER 14582 14594	un assassin 
 T281	PER 14603 14620	un banqueroutier 
-T282	PER 14804 14812	monsieur
-T283	PER 14733 14741	Monsieur
+T282	PER 14733 14741	Monsieur
+T283	PER 14804 14812	monsieur
 T284	PER 15130 15143	des inconnus 
 T285	TIME 14968 14977	six mois 
 T286	NO_PER 15001 15009	l’Esprit
@@ -288,28 +288,28 @@ T287	NO_PER 15035 15050	un être vivant
 T288	TIME 15161 15171	au moment 
 T289	FAC 15420 15431	des jardins
 T290	TIME 15455 15461	temps 
-T291	PER 73981 74000	madame de Rochefide
-T292	PER 18022 18037	La jeune femme 
-T293	PER 28583 28602	ma jeune partenaire
-T294	PER 74573 74579	madame
-T295	PER 24418 24424	Madame
-T296	PER 52076 52087	la marquise
-T297	PER 24335 24347	Ma compagne 
-T298	PER 18285 18287	J’
-T299	PER 18340 18345	Vous 
-T300	PER 17079 17097	cette jeune femme 
-T301	PER 74107 74113	Madame
-T302	PER 24082 24097	La jeune femme 
-T303	PER 28653 28658	Vous 
-T304	PER 28679 28685	madame
+T291	PER 18022 18037	La jeune femme 
+T292	PER 28653 28658	Vous 
+T293	PER 24082 24097	La jeune femme 
+T294	PER 28679 28685	madame
+T295	PER 74107 74113	Madame
+T296	PER 74573 74579	madame
+T297	PER 73981 74000	madame de Rochefide
+T298	PER 28583 28602	ma jeune partenaire
+T299	PER 18285 18287	J’
+T300	PER 24335 24347	Ma compagne 
+T301	PER 24418 24424	Madame
+T302	PER 18340 18345	Vous 
+T303	PER 17079 17097	cette jeune femme 
+T304	PER 16554 16594	une des plus ravissantes femmes de Paris
 T305	PER 29261 29264	moi
-T306	PER 16554 16594	une des plus ravissantes femmes de Paris
-T307	PER 23189 23215	la jeune femme épouvantée 
-T308	PER 22476 22492	une jeune femme 
-T309	PER 17407 17432	cette délicieuse créature
-T310	PER 29677 29682	Vous 
-T311	PER 46627 46632	Vous 
-T312	PER 17646 17659	la jeune dame
+T306	PER 23189 23215	la jeune femme épouvantée 
+T307	PER 22476 22492	une jeune femme 
+T308	PER 17407 17432	cette délicieuse créature
+T309	PER 29677 29682	Vous 
+T310	PER 17646 17659	la jeune dame
+T311	PER 52076 52087	la marquise
+T312	PER 46627 46632	Vous 
 T313	PER 46531 46551	madame de Rochefide 
 T314	PER 15547 15563	une jeune femme 
 T315	PER 47027 47033	madame
@@ -322,8 +322,8 @@ T321	FAC 16010 16017	sa loge
 T322	PER 16084 16133	une haie de gens attentifs à la voix de Marianina
 T323	PER 16164 16172	Tancrède
 T324	LOC 16476 16495	au milieu du monde 
-T325	LOC 16486 16495	du monde 
-T326	LOC 16505 16513	le monde
+T325	LOC 16505 16513	le monde
+T326	LOC 16486 16495	du monde 
 T327	PER 16558 16594	des plus ravissantes femmes de Paris
 T328	PER 16698 16707	un enfant
 T329	LOC 16826 16836	du soleil 
@@ -379,8 +379,8 @@ T378	PER 26434 26462	un parent de madame de Lanty
 T379	PER 26700 26710	une femme 
 T380	FAC 27036 27056	du salon de musique 
 T381	PER 46591 46623	Marianina ni son petit vieillard
-T382	PER 27304 27322	un grand homme sec
-T383	PER 27382 27403	ce gardien mystérieux
+T382	PER 27382 27403	ce gardien mystérieux
+T383	PER 27304 27322	un grand homme sec
 T384	NO_PER 27334 27348	génie familier
 T385	PER 27562 27590	quelques femmes privilégiées
 T386	FAC 28282 28290	le salon
@@ -402,122 +402,122 @@ T401	FAC 30568 30575	La rue
 T402	TIME 30643 30674	ces soirées délicieuses à l’âme
 T403	TIME 30727 30770	ces heures passées dans la paix et le désir
 T404	PER 31054 31066	le narrateur
-T405	PER 56852 56862	Sarrasine 
-T406	PER 54691 54710	l’amoureux artiste 
-T407	PER 54777 54788	le Français
-T408	PER 73756 73768	le Français 
-T409	PER 70078 70087	Sarrasine
+T405	PER 54777 54788	le Français
+T406	PER 56852 56862	Sarrasine 
+T407	PER 54691 54710	l’amoureux artiste 
+T408	PER 57237 57247	Sarrasine 
+T409	PER 70536 70546	l’artiste 
 T410	PER 70622 70631	Sarrasine
-T411	PER 70536 70546	l’artiste 
-T412	PER 34792 34801	son fils 
-T413	PER 34573 34594	du sculpteur célèbre 
-T414	PER 34682 34702	un grand homme futur
+T411	PER 34985 34994	Sarrasine
+T412	PER 34682 34702	un grand homme futur
+T413	PER 34792 34801	son fils 
+T414	PER 34573 34594	du sculpteur célèbre 
 T415	PER 71452 71465	le sculpteur 
 T416	PER 35283 35292	Sarrasine
 T417	PER 71183 71193	l’artiste 
 T418	PER 35080 35095	cette jeune âme
-T419	PER 34985 34994	Sarrasine
-T420	PER 40849 40859	L’artiste 
-T421	PER 59622 59635	du sculpteur 
-T422	PER 44867 44876	Sarrasine
-T423	PER 38430 38449	du jeune sculpteur 
-T424	PER 63149 63159	l’artiste 
-T425	PER 73013 73023	Sarrasine 
-T426	PER 60034 60044	Sarrasine 
-T427	PER 63513 63523	Sarrasine 
-T428	PER 61741 61750	Sarrasine
-T429	PER 57755 57764	Sarrasine
-T430	PER 55691 55701	Sarrasine 
-T431	PER 59698 59707	Sarrasine
-T432	PER 37248 37258	Sarrasine 
-T433	PER 37201 37213	sa camarade 
-T434	PER 58207 58217	Sarrasine 
-T435	PER 71636 71646	Sarrasine 
-T436	PER 60183 60192	l’artiste
-T437	PER 37082 37095	le sculpteur 
-T438	PER 58055 58066	du Français
-T439	PER 62163 62173	Sarrasine 
-T440	PER 69944 69957	le sculpteur 
-T441	PER 73603 73616	le sculpteur 
-T442	PER 71896 71906	Sarrasine 
-T443	PER 54486 54496	Sarrasine 
-T444	PER 58560 58573	le sculpteur 
-T445	PER 69796 69806	Sarrasine 
-T446	PER 54178 54191	le sculpteur 
-T447	PER 58423 58433	Sarrasine 
-T448	PER 67654 67663	Sarrasine
-T449	PER 65745 65753	monsieur
-T450	PER 47483 47493	Sarrasine 
-T451	PER 63954 63974	l’amoureux sculpteur
-T452	PER 67457 67469	le sculpteur
-T453	PER 49344 49355	son maître 
-T454	PER 69198 69210	du sculpteur
-T455	PER 53512 53522	Sarrasine 
-T456	PER 69291 69300	l’artiste
-T457	PER 51383 51402	un pauvre sculpteur
-T458	PER 63705 63715	l’artiste 
+T419	PER 40849 40859	L’artiste 
+T420	PER 44867 44876	Sarrasine
+T421	PER 55691 55701	Sarrasine 
+T422	PER 59698 59707	Sarrasine
+T423	PER 59622 59635	du sculpteur 
+T424	PER 38430 38449	du jeune sculpteur 
+T425	PER 46794 46804	Sarrasine 
+T426	PER 73013 73023	Sarrasine 
+T427	PER 60034 60044	Sarrasine 
+T428	PER 63705 63715	l’artiste 
+T429	PER 61741 61750	Sarrasine
+T430	PER 57755 57764	Sarrasine
+T431	PER 63513 63523	Sarrasine 
+T432	PER 54178 54191	le sculpteur 
+T433	PER 41663 41666	Il 
+T434	PER 58423 58433	Sarrasine 
+T435	PER 41631 41641	Sarrasine 
+T436	PER 37248 37258	Sarrasine 
+T437	PER 71636 71646	Sarrasine 
+T438	PER 62163 62173	Sarrasine 
+T439	PER 37201 37213	sa camarade 
+T440	PER 58207 58217	Sarrasine 
+T441	PER 62191 62208	Seigneur Français
+T442	PER 60183 60192	l’artiste
+T443	PER 37082 37095	le sculpteur 
+T444	PER 58055 58066	du Français
+T445	PER 54486 54496	Sarrasine 
+T446	PER 70078 70087	Sarrasine
+T447	PER 73756 73768	le Français 
+T448	PER 69944 69957	le sculpteur 
+T449	PER 73603 73616	le sculpteur 
+T450	PER 58560 58573	le sculpteur 
+T451	PER 71896 71906	Sarrasine 
+T452	PER 65803 65819	l’artiste enivré
+T453	PER 63954 63974	l’amoureux sculpteur
+T454	PER 65745 65753	monsieur
+T455	PER 67654 67663	Sarrasine
+T456	PER 47483 47493	Sarrasine 
+T457	PER 69291 69300	l’artiste
+T458	PER 51383 51402	un pauvre sculpteur
 T459	PER 47290 47302	le Français 
-T460	PER 66097 66109	au sculpteur
-T461	PER 49887 49899	le Français 
-T462	PER 41663 41666	Il 
-T463	PER 45784 45806	le farouche sculpteur 
-T464	PER 49829 49834	Vous 
-T465	PER 41631 41641	Sarrasine 
-T466	PER 67842 67851	Sarrasine
-T467	PER 43840 43850	Sarrasine 
-T468	PER 49726 49735	Sarrasine
-T469	PER 65803 65819	l’artiste enivré
-T470	PER 62191 62208	Seigneur Français
-T471	PER 64628 64638	Sarrasine 
-T472	PER 62670 62683	Le sculpteur 
-T473	PER 68117 68125	monsieur
-T474	PER 48013 48024	Jeune homme
-T475	PER 47948 47957	l’artiste
-T476	PER 66197 66207	Sarrasine 
-T477	PER 57237 57247	Sarrasine 
+T460	PER 67457 67469	le sculpteur
+T461	PER 48013 48024	Jeune homme
+T462	PER 47948 47957	l’artiste
+T463	PER 66197 66207	Sarrasine 
+T464	PER 49887 49899	le Français 
+T465	PER 43840 43850	Sarrasine 
+T466	PER 66097 66109	au sculpteur
+T467	PER 69796 69806	Sarrasine 
+T468	PER 49829 49834	Vous 
+T469	PER 45784 45806	le farouche sculpteur 
+T470	PER 67842 67851	Sarrasine
+T471	PER 49726 49735	Sarrasine
+T472	PER 66531 66539	Mon cher
+T473	PER 62670 62683	Le sculpteur 
+T474	PER 64628 64638	Sarrasine 
+T475	PER 50029 50039	Sarrasine 
+T476	PER 68117 68125	monsieur
+T477	PER 63149 63159	l’artiste 
 T478	PER 38093 38096	Il 
-T479	PER 59221 59231	Sarrasine 
-T480	PER 61105 61115	Sarrasine 
-T481	PER 66531 66539	Mon cher
-T482	PER 50029 50039	Sarrasine 
+T479	PER 66735 66745	Sarrasine 
+T480	PER 59221 59231	Sarrasine 
+T481	PER 61105 61115	Sarrasine 
+T482	PER 35759 35769	Sarrasine 
 T483	PER 35658 35668	son élève 
-T484	PER 35532 35552	cette âme passionnée
-T485	PER 31134 31156	Ernest-Jean Sarrasine 
-T486	PER 33805 33815	Sarrasine 
-T487	PER 31567 31602	le petit-fils de Matthieu Sarrasine
-T488	PER 50328 50338	Sarrasine 
-T489	PER 33695 33704	l’artiste
-T490	PER 35759 35769	Sarrasine 
-T491	PER 31418 31427	un enfant
-T492	PER 34247 34257	son élève 
-T493	PER 50815 50825	Sarrasine 
-T494	PER 68775 68784	Sarrasine
-T495	PER 48857 48867	Sarrasine 
-T496	PER 46794 46804	Sarrasine 
-T497	PER 34178 34194	du jeune artiste
+T484	PER 31134 31156	Ernest-Jean Sarrasine 
+T485	PER 35532 35552	cette âme passionnée
+T486	PER 36086 36107	l’élève de Bouchardon
+T487	PER 33805 33815	Sarrasine 
+T488	PER 31567 31602	le petit-fils de Matthieu Sarrasine
+T489	PER 31418 31427	un enfant
+T490	PER 50328 50338	Sarrasine 
+T491	PER 33695 33704	l’artiste
+T492	PER 68775 68784	Sarrasine
+T493	PER 48857 48867	Sarrasine 
+T494	PER 34178 34194	du jeune artiste
+T495	PER 34247 34257	son élève 
+T496	PER 50815 50825	Sarrasine 
+T497	PER 31778 31796	Le jeune Sarrasine
 T498	PER 36198 36213	un jeune homme 
-T499	PER 66783 66786	Tu 
-T500	PER 48693 48710	seigneur Français
+T499	PER 48693 48710	seigneur Français
+T500	PER 66783 66786	Tu 
 T501	PER 52877 52889	au sculpteur
-T502	PER 36086 36107	l’élève de Bouchardon
-T503	PER 31778 31796	Le jeune Sarrasine
-T504	PER 66735 66745	Sarrasine 
-T505	PER 49323 49333	Sarrasine 
-T506	PER 47188 47201	du sculpteur 
-T507	PER 67143 67156	le sculpteur 
-T508	PER 69100 69112	le Français 
-T509	PER 34354 34364	Sarrasine 
-T510	PER 49025 49038	du sculpteur 
-T511	PER 67053 67062	Sarrasine
-T512	PER 66982 66991	Sarrasine
+T502	PER 53512 53522	Sarrasine 
+T503	PER 69198 69210	du sculpteur
+T504	PER 69100 69112	le Français 
+T505	PER 47188 47201	du sculpteur 
+T506	PER 49323 49333	Sarrasine 
+T507	PER 49344 49355	son maître 
+T508	PER 67143 67156	le sculpteur 
+T509	PER 49025 49038	du sculpteur 
+T510	PER 67053 67062	Sarrasine
+T511	PER 66982 66991	Sarrasine
+T512	PER 34354 34364	Sarrasine 
 T513	PER 31162 31209	le seul fils d’un procureur de la Franche-Comté
 T514	PER 31177 31209	un procureur de la Franche-Comté
 T515	GPE 31193 31209	la Franche-Comté
-T516	PER 31238 31247	Son père 
-T517	PER 34535 34553	du vieux procureur
-T518	PER 31764 31776	au procureur
-T519	PER 31380 31405	Le vieux maître Sarrasine
-T520	PER 34769 34782	le praticien 
+T516	PER 31764 31776	au procureur
+T517	PER 31380 31405	Le vieux maître Sarrasine
+T518	PER 34769 34782	le praticien 
+T519	PER 31238 31247	Son père 
+T520	PER 34535 34553	du vieux procureur
 T521	PER 31321 31331	praticien 
 T522	LOC 31346 31354	province
 T523	PER 31494 31506	un magistrat
@@ -527,12 +527,12 @@ T526	LOC 31614 31634	au pays de Saint-Dié
 T527	ORG 31708 31721	du Parlement 
 T528	ORG 31820 31832	aux Jésuites
 T529	PER 31901 31919	un homme de talent
-T530	PER 69984 69992	ses amis
-T531	PER 45933 45946	ses camarades
-T532	PER 32570 32583	ses camarades
-T533	PER 66489 66503	ses camarades 
-T534	PER 67218 67231	des derniers 
-T535	PER 32084 32098	ses camarades 
+T530	PER 67218 67231	des derniers 
+T531	PER 69984 69992	ses amis
+T532	PER 66489 66503	ses camarades 
+T533	PER 32084 32098	ses camarades 
+T534	PER 45933 45946	ses camarades
+T535	PER 32570 32583	ses camarades
 T536	NO_PER 32142 32160	les héros d’Homère
 T537	PER 32154 32160	Homère
 T538	PER 32287 32299	un camarade 
@@ -557,17 +557,17 @@ T556	NO_PER 33601 33607	Christ
 T557	FAC 33755 33769	du tabernacle 
 T558	FAC 34012 34035	l’atelier de Bouchardon
 T559	PER 37604 37623	monsieur Bouchardon
-T560	PER 36573 36583	son maître
-T561	PER 34025 34035	Bouchardon
-T562	PER 36654 36665	Bouchardon 
-T563	PER 34122 34132	Bouchardon
-T564	PER 36097 36107	Bouchardon
+T560	PER 36654 36665	Bouchardon 
+T561	PER 36097 36107	Bouchardon
+T562	PER 34122 34132	Bouchardon
+T563	PER 35620 35630	le maître 
+T564	PER 34996 35006	Bouchardon
 T565	PER 34467 34490	le généreux Bouchardon 
 T566	PER 36346 36356	Bouchardon
 T567	PER 35822 35833	Bouchardon 
-T568	PER 35620 35630	le maître 
-T569	PER 34996 35006	Bouchardon
-T570	PER 49420 49430	Bouchardon
+T568	PER 49420 49430	Bouchardon
+T569	PER 34025 34035	Bouchardon
+T570	PER 36573 36583	son maître
 T571	PER 34316 34326	son enfant
 T572	GPE 34625 34646	Besançon tout entier 
 T573	TIME 34709 34736	le premier moment d’extase 
@@ -592,28 +592,28 @@ T591	ORG 36527 36547	la Comédie-Française
 T592	PER 36612 36628	madame Geoffrin 
 T593	TIME 36743 36767	cette époque licencieuse
 T594	PER 36784 36800	autre maîtresse 
-T595	PER 49444 49453	Clotilde 
-T596	PER 36820 36828	Clotilde
+T595	PER 36820 36828	Clotilde
+T596	PER 49444 49453	Clotilde 
 T597	PER 36830 36861	l’une des célébrités de l’Opéra
 T598	PER 36836 36861	des célébrités de l’Opéra
 T599	FAC 36854 36861	l’Opéra
 T600	PER 37017 37034	l’illustre nymphe
 T601	PER 37115 37130	Sophie Arnould 
 T602	FAC 37379 37405	des monuments merveilleux 
-T603	GPE 59308 59313	Rome 
+T603	GPE 37756 37760	Rome
 T604	GPE 69928 69933	Rome 
-T605	GPE 37756 37760	Rome
+T605	GPE 37525 37529	Rome
 T606	GPE 66033 66037	Rome
 T607	GPE 67999 68004	Rome 
-T608	GPE 37525 37529	Rome
-T609	GPE 67373 67377	Rome
+T608	GPE 67373 67377	Rome
+T609	GPE 59308 59313	Rome 
 T610	PER 37586 37598	Michel-Ange 
 T611	PER 37586 37623	Michel-Ange et de monsieur Bouchardon
 T612	TIME 37640 37658	les premiers jours
 T613	FAC 38965 38975	du théâtre
-T614	FAC 42561 42571	le théâtre
-T615	FAC 37918 37940	au théâtre d’Argentina
-T616	FAC 48625 48635	du théâtre
+T614	FAC 48625 48635	du théâtre
+T615	FAC 42561 42571	le théâtre
+T616	FAC 37918 37940	au théâtre d’Argentina
 T617	FAC 41215 41226	le théâtre 
 T618	FAC 50698 50708	du théâtre
 T619	FAC 65656 65667	du théâtre 
@@ -622,106 +622,106 @@ T621	GPE 37931 37940	Argentina
 T622	PER 37968 37984	une grande foule
 T623	PER 38012 38027	cette affluence
 T624	PER 38032 38041	le monde 
-T625	PER 54846 54851	Vous 
-T626	PER 45539 45552	sa maîtresse 
-T627	PER 43490 43504	la Zambinella 
-T628	PER 56907 56912	Elle 
-T629	PER 51570 51584	la Zambinella 
-T630	PER 67537 67548	Zambinella 
-T631	PER 69372 69382	Zambinella
-T632	PER 47426 47440	la Zambinella 
-T633	PER 58787 58799	cette femme 
-T634	PER 72059 72070	Zambinella 
-T635	PER 73816 73827	Zambinella 
-T636	PER 70209 70219	le musico 
-T637	PER 56838 56850	sa maîtresse
-T638	PER 56644 56657	la Zambinella
-T639	PER 70040 70051	Zambinella 
-T640	PER 63619 63633	la Zambinella 
-T641	PER 70681 70692	Le chanteur
-T642	PER 43859 43872	sa maîtresse 
-T643	PER 70599 70609	Zambinella
-T644	PER 67855 67868	La Zambinella
-T645	PER 67872 67886	La Zambinella 
-T646	PER 70433 70444	Zambinella 
-T647	PER 74170 74181	Zambinella 
-T648	PER 55037 55055	la belle Italienne
-T649	PER 67778 67783	Elle 
-T650	PER 65867 65881	La Zambinella 
-T651	PER 57062 57083	la source de bonheur 
-T652	PER 51725 51731	madame
-T653	PER 64132 64141	la femme 
-T654	PER 64091 64107	cette âme molle 
-T655	PER 47711 47724	sa maîtresse 
-T656	PER 43578 43592	la Zambinella 
-T657	PER 71079 71090	Zambinella 
-T658	PER 71043 71053	une femme 
-T659	PER 64663 64677	la Zambinella 
-T660	PER 70961 70971	Zambinella
-T661	PER 66454 66466	sa maîtresse
-T662	PER 62634 62643	la femme 
-T663	PER 44187 44200	la Zambinella
-T664	PER 72628 72651	cette femme imaginaire 
-T665	PER 55434 55448	la Zambinella 
-T666	PER 46193 46206	la Zambinella
-T667	PER 68139 68150	Zambinella 
-T668	PER 66225 66238	la Zambinella
-T669	PER 41836 41849	la Zambinella
-T670	PER 61222 61231	Coquette 
-T671	PER 71319 71330	Zambinella 
-T672	PER 62932 62942	Zambinella
-T673	PER 64855 64868	sa maîtresse 
-T674	PER 66692 66703	Zambinella 
-T675	PER 59258 59272	la Zambinella 
-T676	PER 38068 38079	Zambinella 
-T677	PER 61123 61133	chère ange
-T678	PER 71164 71173	une femme
-T679	PER 48395 48408	la Zambinella
-T680	PER 62789 62816	cette femme extraordinaire 
-T681	PER 59610 59635	La compagne du sculpteur 
-T682	PER 40809 40823	la Zambinella 
-T683	PER 74585 74612	le grand-oncle de Marianina
-T684	PER 74499 74507	le type 
-T685	PER 61420 61434	la Zambinella 
-T686	PER 57469 57481	L’Italienne 
-T687	PER 40603 40627	cette création inespérée
-T688	PER 44664 44677	sa maîtresse 
-T689	PER 63177 63190	sa maîtresse 
-T690	PER 74361 74372	Zambinella 
-T691	PER 52118 52131	La Zambinella
-T692	PER 57324 57336	cette femme 
-T693	PER 53712 53723	Zambinella 
-T694	PER 60081 60105	cette charmante créature
-T695	PER 60003 60008	Vous 
-T696	PER 61662 61676	la Zambinella 
-T697	PER 72917 72925	Monstre 
-T698	PER 68179 68190	ce drôle-là
-T699	PER 54044 54058	la Zambinella 
-T700	PER 58293 58307	la Zambinella 
-T701	PER 48870 48884	la Zambinella 
-T702	PER 68706 68716	Zambinella
-T703	PER 71588 71598	Zambinella
+T625	PER 57062 57083	la source de bonheur 
+T626	PER 70433 70444	Zambinella 
+T627	PER 51725 51731	madame
+T628	PER 54846 54851	Vous 
+T629	PER 43490 43504	la Zambinella 
+T630	PER 45539 45552	sa maîtresse 
+T631	PER 70209 70219	le musico 
+T632	PER 56838 56850	sa maîtresse
+T633	PER 56907 56912	Elle 
+T634	PER 51570 51584	la Zambinella 
+T635	PER 67537 67548	Zambinella 
+T636	PER 69372 69382	Zambinella
+T637	PER 58787 58799	cette femme 
+T638	PER 47426 47440	la Zambinella 
+T639	PER 53712 53723	Zambinella 
+T640	PER 74361 74372	Zambinella 
+T641	PER 66225 66238	la Zambinella
+T642	PER 41836 41849	la Zambinella
+T643	PER 70681 70692	Le chanteur
+T644	PER 69775 69777	C’
+T645	PER 43859 43872	sa maîtresse 
+T646	PER 67855 67868	La Zambinella
+T647	PER 67872 67886	La Zambinella 
+T648	PER 70599 70609	Zambinella
+T649	PER 55037 55055	la belle Italienne
+T650	PER 74170 74181	Zambinella 
+T651	PER 67778 67783	Elle 
+T652	PER 64132 64141	la femme 
+T653	PER 64091 64107	cette âme molle 
+T654	PER 47711 47724	sa maîtresse 
+T655	PER 43578 43592	la Zambinella 
+T656	PER 65867 65881	La Zambinella 
+T657	PER 72917 72925	Monstre 
+T658	PER 64663 64677	la Zambinella 
+T659	PER 48395 48408	la Zambinella
+T660	PER 62789 62816	cette femme extraordinaire 
+T661	PER 71079 71090	Zambinella 
+T662	PER 71043 71053	une femme 
+T663	PER 68179 68190	ce drôle-là
+T664	PER 44187 44200	la Zambinella
+T665	PER 68139 68150	Zambinella 
+T666	PER 70961 70971	Zambinella
+T667	PER 66454 66466	sa maîtresse
+T668	PER 62634 62643	la femme 
+T669	PER 72628 72651	cette femme imaginaire 
+T670	PER 55434 55448	la Zambinella 
+T671	PER 46193 46206	la Zambinella
+T672	PER 57324 57336	cette femme 
+T673	PER 59258 59272	la Zambinella 
+T674	PER 38068 38079	Zambinella 
+T675	PER 61222 61231	Coquette 
+T676	PER 71319 71330	Zambinella 
+T677	PER 66714 66725	Zambinella 
+T678	PER 62932 62942	Zambinella
+T679	PER 64855 64868	sa maîtresse 
+T680	PER 66692 66703	Zambinella 
+T681	PER 71164 71173	une femme
+T682	PER 61123 61133	chère ange
+T683	PER 59610 59635	La compagne du sculpteur 
+T684	PER 40809 40823	la Zambinella 
+T685	PER 74585 74612	le grand-oncle de Marianina
+T686	PER 74499 74507	le type 
+T687	PER 61420 61434	la Zambinella 
+T688	PER 57469 57481	L’Italienne 
+T689	PER 44664 44677	sa maîtresse 
+T690	PER 63177 63190	sa maîtresse 
+T691	PER 40603 40627	cette création inespérée
+T692	PER 52118 52131	La Zambinella
+T693	PER 60081 60105	cette charmante créature
+T694	PER 60003 60008	Vous 
+T695	PER 41242 41253	cette femme
+T696	PER 73039 73060	du chanteur épouvanté
+T697	PER 63619 63633	la Zambinella 
+T698	PER 61662 61676	la Zambinella 
+T699	PER 58464 58477	sa maîtresse 
+T700	PER 54207 54220	la cantatrice
+T701	PER 58293 58307	la Zambinella 
+T702	PER 46927 46938	Zambinella 
+T703	PER 54044 54058	la Zambinella 
 T704	PER 50923 50936	sa maîtresse 
-T705	PER 68722 68732	le musico 
+T705	PER 48870 48884	la Zambinella 
 T706	PER 39192 39203	cette femme
 T707	PER 58118 58132	La Zambinella 
-T708	PER 41242 41253	cette femme
-T709	PER 66714 66725	Zambinella 
-T710	PER 73039 73060	du chanteur épouvanté
-T711	PER 39725 39739	La Zambinella 
-T712	PER 58682 58695	sa maîtresse 
-T713	PER 54517 54528	sa voisine 
-T714	PER 45154 45167	la Zambinella
-T715	PER 69073 69084	son protégé
-T716	PER 73520 73531	Zambinella 
-T717	PER 73507 73518	le chanteur
+T708	PER 71588 71598	Zambinella
+T709	PER 68706 68716	Zambinella
+T710	PER 68722 68732	le musico 
+T711	PER 54517 54528	sa voisine 
+T712	PER 72059 72070	Zambinella 
+T713	PER 73816 73827	Zambinella 
+T714	PER 56644 56657	la Zambinella
+T715	PER 70040 70051	Zambinella 
+T716	PER 39725 39739	La Zambinella 
+T717	PER 58682 58695	sa maîtresse 
 T718	PER 65330 65354	frêle et douce créature 
-T719	PER 69775 69777	C’
-T720	PER 54207 54220	la cantatrice
-T721	PER 58464 58477	sa maîtresse 
-T722	PER 39574 39585	cette femme
-T723	PER 51121 51135	la Zambinella 
-T724	PER 46927 46938	Zambinella 
+T719	PER 45154 45167	la Zambinella
+T720	PER 39574 39585	cette femme
+T721	PER 69073 69084	son protégé
+T722	PER 73520 73531	Zambinella 
+T723	PER 73507 73518	le chanteur
+T724	PER 51121 51135	la Zambinella 
 T725	PER 38526 38533	Jomelli
 T726	FAC 38114 38125	au parterre
 T727	PER 38138 38167	deux abbati notablement gros 
@@ -753,9 +753,9 @@ T752	PER 41490 41515	un homme froid et stupide
 T753	FAC 41717 41722	salle
 T754	PER 41727 41738	spectateurs
 T755	PER 41743 41750	acteurs
-T756	PER 54031 54058	Sarrasine et la Zambinella 
-T757	PER 41829 41849	lui et la Zambinella
-T758	PER 48857 48884	Sarrasine et la Zambinella 
+T756	PER 41829 41849	lui et la Zambinella
+T757	PER 48857 48884	Sarrasine et la Zambinella 
+T758	PER 54031 54058	Sarrasine et la Zambinella 
 T759	PER 42661 42678	un homme nerveux 
 T760	PER 42945 42963	les convalescents 
 T761	FAC 43055 43079	les marches d’une église
@@ -769,8 +769,8 @@ T768	PER 43704 43728	tous les grands peintres
 T769	PER 44108 44121	une maîtresse
 T770	TIME 44238 44272	mille années de vie et de bonheur 
 T771	TIME 44387 44399	Le lendemain
-T772	PER 49309 49333	le laquais de Sarrasine 
-T773	PER 44411 44423	son laquais 
+T772	PER 44411 44423	son laquais 
+T773	PER 49309 49333	le laquais de Sarrasine 
 T774	TIME 44435 44450	toute la saison
 T775	FAC 44452 44480	une loge voisine de la scène
 T776	FAC 44472 44480	la scène
@@ -778,10 +778,10 @@ T777	PER 44494 44515	tous les jeunes gens
 T778	TIME 45059 45072	toute une vie
 T779	TIME 45081 45090	le matin 
 T780	TIME 45257 45264	Le soir
-T781	FAC 45295 45302	sa loge
-T782	FAC 48343 48350	sa loge
-T783	FAC 47914 47922	sa loge 
-T784	FAC 46846 46853	sa loge
+T781	FAC 48343 48350	sa loge
+T782	FAC 46846 46853	sa loge
+T783	FAC 45295 45302	sa loge
+T784	FAC 47914 47922	sa loge 
 T785	PER 45357 45379	un Turc enivré d’opium
 T786	TIME 45696 45711	le premier jour
 T787	PER 46229 46237	une mère
@@ -803,14 +803,14 @@ T802	TIME 48177 48184	du soir
 T803	FAC 48204 48219	la rue du Corso
 T804	FAC 48228 48245	l’hôtel d’Espagne
 T805	PER 48465 48505	une femme heureuse d’être enfin comprise
-T806	PER 49203 49213	l’inconnu 
-T807	PER 48637 48648	un inconnu 
-T808	PER 73667 73688	du cardinal Cicognara
-T809	PER 73843 73857	son protecteur
-T810	PER 69870 69892	Le cardinal Cicognara 
-T811	PER 64590 64601	du cardinal
-T812	PER 74115 74137	le cardinal Cicognara 
-T813	PER 48765 48787	Le cardinal Cicognara 
+T806	PER 48637 48648	un inconnu 
+T807	PER 49203 49213	l’inconnu 
+T808	PER 69870 69892	Le cardinal Cicognara 
+T809	PER 74115 74137	le cardinal Cicognara 
+T810	PER 73667 73688	du cardinal Cicognara
+T811	PER 73843 73857	son protecteur
+T812	PER 48765 48787	Le cardinal Cicognara 
+T813	PER 64590 64601	du cardinal
 T814	PER 68983 69004	Le cardinal Cicognara
 T815	PER 48791 48805	son protecteur
 T816	NO_PER 48831 48840	un démon 
@@ -849,11 +849,11 @@ T848	ORG 52050 52059	le clergé
 T849	PER 52261 52269	duchesse
 T850	PER 52687 52702	madame du Barry
 T851	PER 52953 52960	témoins
-T852	PER 57118 57140	Vitagliani, son voisin
-T853	PER 58499 58510	Vitagliani 
-T854	PER 54423 54434	Vitagliani 
-T855	PER 59175 59186	Vitagliani 
-T856	PER 53150 53160	Vitagliani
+T852	PER 59175 59186	Vitagliani 
+T853	PER 54423 54434	Vitagliani 
+T854	PER 53150 53160	Vitagliani
+T855	PER 57118 57140	Vitagliani, son voisin
+T856	PER 58499 58510	Vitagliani 
 T857	PER 53162 53202	le chanteur le plus célèbre de la troupe
 T858	PER 53193 53202	la troupe
 T859	PER 53276 53285	le Ténor 
@@ -880,25 +880,25 @@ T879	NO_PER 56444 56461	la sainte Vierge
 T880	NO_PER 56464 56474	al Bambino
 T881	PER 56476 56481	L’un 
 T882	PER 56524 56540	Une jeune fille 
-T883	PER 56801 56811	les femmes
-T884	PER 60579 60589	les femmes
-T885	PER 58935 58946	les femmes 
+T883	PER 58935 58946	les femmes 
+T884	PER 56801 56811	les femmes
+T885	PER 60579 60589	les femmes
 T886	FAC 57369 57377	boudoir 
 T887	FAC 57394 57402	au salon
 T888	PER 57909 57929	une jeune courtisane
 T889	TIME 58975 58985	Au moment 
 T890	TIME 58988 59018	les premières lueurs du matin 
 T891	PER 59043 59053	une femme 
-T892	GPE 59071 59079	Frascati
-T893	GPE 63133 63141	Frascati
+T892	GPE 63133 63141	Frascati
+T893	GPE 59071 59079	Frascati
 T894	TIME 59143 59154	la journée 
-T895	FAC 64581 64601	la villa du cardinal
+T895	FAC 63852 63869	la villa Ludovisi
 T896	FAC 59156 59173	la villa Ludovisi
-T897	FAC 63852 63869	la villa Ludovisi
+T897	FAC 64581 64601	la villa du cardinal
 T898	VEH 59207 59219	des voitures
-T899	VEH 66166 66176	le phaéton
+T899	VEH 70384 70414	la voiture louée par Sarrasine
 T900	VEH 59277 59287	un phaéton
-T901	VEH 70384 70414	la voiture louée par Sarrasine
+T901	VEH 66166 66176	le phaéton
 T902	PER 59416 59423	Hommes 
 T903	PER 59416 59432	Hommes et femmes
 T904	PER 59426 59432	femmes
@@ -912,8 +912,8 @@ T911	PER 61631 61641	une femme
 T912	PER 61785 61796	un artiste 
 T913	PER 61870 61886	Une femme seule 
 T914	LOC 63840 63869	les bois de la villa Ludovisi
-T915	PER 71055 71077	Le cardinal Cicognara 
-T916	PER 63893 63914	au cardinal Cicognara
+T915	PER 63893 63914	au cardinal Cicognara
+T916	PER 71055 71077	Le cardinal Cicognara 
 T917	TIME 63916 63930	Cette matinée 
 T918	LOC 64336 64347	la campagne
 T919	PER 64349 64387	la petite troupe des joyeux chanteurs 
@@ -930,12 +930,12 @@ T929	FAC 66186 66195	le chemin
 T930	TIME 66249 66266	toute la journée 
 T931	PER 66399 66418	quelques personnes 
 T932	FAC 66433 66466	le palais habité par sa maîtresse
-T933	PER 66823 66835	son camarade
+T933	PER 66531 66535	Mon 
 T934	PER 66481 66503	l’un de ses camarades 
-T935	PER 66531 66535	Mon 
-T936	PER 66580 66598	notre ambassadeur 
-T937	PER 67236 67249	l’ambassadeur
-T938	PER 67392 67406	l’ambassadeur 
+T935	PER 66823 66835	son camarade
+T936	PER 67392 67406	l’ambassadeur 
+T937	PER 66580 66598	notre ambassadeur 
+T938	PER 67236 67249	l’ambassadeur
 T939	PER 66795 66808	tout le monde
 T940	PER 66857 66865	mes amis
 T941	PER 66867 66902	toi, Vien, Lauterbourg et Allegrain
@@ -946,19 +946,19 @@ T945	PER 67092 67108	d’honnêtes gens
 T946	PER 67332 67377	l’un des plus entreprenants vetturini de Rome
 T947	PER 67421 67426	monde
 T948	PER 67481 67500	tous les assistants
-T949	FAC 69964 69972	du salon
-T950	FAC 67510 67519	au salon 
+T949	FAC 67510 67519	au salon 
+T950	FAC 69964 69972	du salon
 T951	PER 67592 67632	les cardinaux, les évêques et les abbés 
 T952	PER 67607 67619	les évêques 
 T953	PER 67622 67632	les abbés 
 T954	PER 67805 67823	le vieux seigneur 
-T955	PER 68406 68422	Le prince Chigi 
-T956	PER 67895 67911	le prince romain
+T955	PER 67895 67911	le prince romain
+T956	PER 68406 68422	Le prince Chigi 
 T957	PER 67973 67979	femme 
 T958	FAC 67983 68004	les théâtres de Rome 
 T959	GPE 68086 68104	les Etats du pape 
-T960	PER 68096 68104	du pape 
-T961	PER 69899 69907	le pape 
+T960	PER 69899 69907	le pape 
+T961	PER 68096 68104	du pape 
 T962	PER 68197 68217	son maître à chanter
 T963	PER 68621 68641	le prétendu chanteur
 T964	PER 70226 70237	l’assemblée
