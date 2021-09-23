@@ -6,7 +6,11 @@ classes for fr-litbank
 
 
 class Sentence:
-    """ """
+    """
+    A set of word objects
+    the tricky part is to define the character offset of the beginning and the end,
+    cornerstone of the .ann brat format
+    """
 
     # from https://forge.cbp.ens-lyon.fr/redmine/projects/txm/repository/entry/tmp/org.txm.utils/src/org/txm/utils/i18n/LangFormater.java
     __fr_nospace_before = [",", ".", ")", "]", "}", "°", "-", "-"]
@@ -82,7 +86,12 @@ class Sentence:
 
 
 class Word:
-    """ """
+    """
+    A word is the smaller unit of a text
+    It has several properties (form, pos, lemma)
+    a word can be part of a Sentence object
+    a word can be part of a Mention object
+    """
 
     def __init__(self, id, form, pos, lemma):
         self.id = id
@@ -99,7 +108,11 @@ class Word:
 
 
 class Mention:
-    """ """
+    """
+    A mention is a markable which has been annotated as part of a coreference relation
+    a mention can contain several Words objects
+    a mention can be part of several Chaines objects
+    """
 
     def __init__(self, id, ref, words):
         self.id = id
@@ -135,7 +148,10 @@ class Event:
         return "".join([str(word) for word in self.words])
 
 class Chaine:
-    """ """
+    """
+    A set of mentions bound by a coreference relation
+    The 'type_referent' property must be part of the litbank tagset defined by the guidelines
+    """
 
     def __init__(self, id, ref, nb_maillons, type_referent):
         self.id = id
