@@ -1,0 +1,885 @@
+T1	EVENT 129 143	eus douze ans 
+T2	EVENT 209 218	troubles 
+T3	EVENT 1314 1326	petite fille
+T4	EVENT 1352 1361	fis tenir
+T5	EVENT 1400 1407	lettre 
+T6	EVENT 1442 1447	amour
+T7	EVENT 1454 1464	autorisai 
+T8	EVENT 1482 1507	solliciter un rendez-vous
+T9	EVENT 1512 1519	lettre 
+T10	EVENT 1523 1540	avait été remise 
+T11	EVENT 1563 1582	se rendît en classe
+T12	EVENT 1653 1665	était propre
+T13	EVENT 1670 1687	allait à l'école 
+T14	EVENT 1736 1741	frère
+T15	EVENT 1769 1779	se tussent
+T16	EVENT 1830 1836	lettre
+T17	EVENT 1843 1851	joignis 
+T18	EVENT 1878 1883	frère
+T19	EVENT 1889 1909	ne savait pas écrire
+T20	EVENT 1933 1943	expliquai 
+T21	EVENT 2257 2274	rentrai en classe
+T22	EVENT 2336 2342	classe
+T23	EVENT 2464 2469	entra
+T24	EVENT 2482 2493	se levèrent
+T25	EVENT 2498 2525	tenait une lettre à la main
+T26	EVENT 2538 2548	fléchirent
+T27	EVENT 2562 2571	tombèrent
+T28	EVENT 2583 2591	ramassai
+T29	EVENT 2617 2631	s'entretenait 
+T30	EVENT 2683 2705	se tournaient vers moi
+T31	EVENT 2747 2769	entendaient chuchoter 
+T32	EVENT 2798 2806	m'appela
+T33	EVENT 2816 2825	me punir 
+T34	EVENT 2840 2854	en n'éveillant
+T35	EVENT 2906 2932	me félicita d'avoir écrit 
+T36	EVENT 2984 2992	demanda 
+T37	EVENT 2998 3022	l'avais bien écrite seul
+T38	EVENT 3032 3053	me pria de le suivre 
+T39	EVENT 3075 3092	n'y allâmes point
+T40	EVENT 3097 3109	me morigéna 
+T41	EVENT 3145 3153	troubla 
+T42	EVENT 3191 3203	considérait 
+T43	EVENT 3215 3221	grave 
+T44	EVENT 3223 3254	avoir compromis la jeune fille 
+T45	EVENT 3276 3295	avaient communiqué 
+T46	EVENT 3298 3309	déclaration
+T47	EVENT 3318 3331	avoir dérobé 
+T48	EVENT 3346 3353	papier 
+T49	EVENT 3370 3401	menaça d'envoyer cette feuille 
+T50	EVENT 3414 3444	le suppliai de n'en rien faire
+T51	EVENT 3449 3453	céda
+T52	EVENT 3463 3467	dit 
+T53	EVENT 3473 3493	conservait la lettre
+T54	EVENT 3577 3585	mélange 
+T55	EVENT 3587 3599	effronterie 
+T56	EVENT 3605 3614	timidité 
+T57	EVENT 3614 3624	déroutait 
+T58	EVENT 3641 3649	trompait
+T59	EVENT 3692 3699	paresse
+T60	EVENT 3743 3760	rentrai en classe
+T61	EVENT 3787 3804	m'appela Don Juan
+T62	EVENT 3827 3833	flatté
+T63	EVENT 3858 3864	citât 
+T64	EVENT 3890 3902	connaissais 
+T65	EVENT 3909 3930	ne connaissaient pas 
+T66	EVENT 3994 4009	transformèrent 
+T67	EVENT 4019 4030	à mon égard
+T68	EVENT 4068 4091	avais chargé un enfant 
+T69	EVENT 4111 4132	de porter une lettre 
+T70	EVENT 4155 4162	disent 
+T71	EVENT 4209 4220	s'appelait 
+T72	EVENT 4220 4229	Messager 
+T73	EVENT 4295 4320	m'avait inspiré confiance
+T74	EVENT 4338 4352	avais supplié 
+T75	EVENT 4365 4381	de ne rien dire 
+T76	EVENT 4407 4435	brûlais de lui raconter tout
+T77	EVENT 4512 4520	Sachant 
+T78	EVENT 4576 4605	ravi qu'il connût ma prouesse
+T79	EVENT 4610 4617	avouai 
+T80	EVENT 4623 4632	ajoutant 
+T81	EVENT 4664 4677	avait promis 
+T82	EVENT 4799 4812	roman d'amour
+T83	EVENT 4817 4822	vint 
+T84	EVENT 4870 4876	parla 
+T85	EVENT 4917 4922	farce
+T86	EVENT 4933 4937	dit 
+T87	EVENT 4956 4964	surpris 
+T88	EVENT 4972 4979	ennuyé 
+T89	EVENT 5070 5079	mensonge 
+T90	EVENT 5092 5103	l'excusait 
+T91	EVENT 5108 5118	contribua 
+T92	EVENT 5131 5139	ivresse 
+T93	EVENT 5152 5159	gagnai 
+T94	EVENT 5176 5183	estime 
+T95	EVENT 5207 5226	clignements d'yeux 
+T96	EVENT 5250 5258	cachait 
+T97	EVENT 5261 5268	rancune
+T98	EVENT 5536 5557	se réservait de dire 
+T99	EVENT 5576 5588	distribution
+T100	EVENT 5715 5738	reçus la couronne d'or 
+T101	EVENT 5760 5777	prix d'excellence
+T102	EVENT 5806 5813	perdit 
+T103	EVENT 5822 5838	meilleurs élèves
+T104	EVENT 5873 5880	retira 
+T105	EVENT 6076 6083	restai 
+T106	EVENT 6107 6122	travaillai seul
+T107	EVENT 6128 6163	me promettais des joies sans bornes
+T108	EVENT 6285 6297	étais libre 
+T109	EVENT 6327 6340	me promenais 
+T110	EVENT 6413 6421	disaient
+T111	EVENT 6464 6471	allais 
+T112	EVENT 6484 6491	bateau 
+T113	EVENT 6532 6545	ne ramais pas
+T114	EVENT 6639 6647	lisais, 
+T115	EVENT 6647 6654	couché 
+T116	EVENT 6698 6705	livres 
+T117	EVENT 7632 7637	vint 
+T118	EVENT 7640 7646	guerre
+T119	EVENT 7759 7774	se réjouissait 
+T120	EVENT 7833 7847	se pressaient 
+T121	EVENT 7931 7939	allions 
+T122	EVENT 8016 8039	voir passer les trains 
+T123	EVENT 8071 8082	campanules 
+T124	EVENT 8094 8103	lancions 
+T125	EVENT 8136 8159	versaient du vin rouge 
+T126	EVENT 8204 8216	sur le quai 
+T127	EVENT 8355 8377	pavoiser les fenêtres 
+T128	EVENT 8409 8424	n'allâmes plus 
+T129	EVENT 8469 8491	en vouloir à la guerre
+T130	EVENT 8497 8517	la trouvaient longue
+T131	EVENT 8702 8719	reprennent espoir
+T132	EVENT 8806 8815	entendre 
+T133	EVENT 8824 8840	parler de départ
+T134	EVENT 8951 8963	plaisantent 
+T135	EVENT 9100 9108	sanglote
+T136	EVENT 9133 9155	astiquer les machines 
+T137	EVENT 9178 9199	proposent de réparer 
+T138	EVENT 9214 9235	se lèvent dès l'aube 
+T139	EVENT 9346 9366	voyage à bicyclette 
+T140	EVENT 9731 9742	phénomènes 
+T141	EVENT 9742 9756	avant-coureurs
+T142	EVENT 9890 9909	souvenir de guerre 
+T143	EVENT 9909 9917	précède 
+T144	EVENT 9920 9926	guerre
+T145	EVENT 9951 9964	nous moquions
+T146	EVENT 9987 10004	un de nos voisins
+T147	EVENT 10062 10082	conseiller municipal
+T148	EVENT 10174 10202	nous défendions de le saluer
+T149	EVENT 10271 10278	aborda 
+T150	EVENT 10299 10303	dit 
+T151	EVENT 10336 10357	conseiller municipal 
+T152	EVENT 10366 10379	nous sauvâmes
+T153	EVENT 10417 10428	hostilités 
+T154	EVENT 10428 10444	furent déclarées
+T155	EVENT 10501 10523	En revenant de l'école
+T156	EVENT 10528 10539	en y allant
+T157	EVENT 10552 10572	tiraient sa sonnette
+T158	EVENT 10698 10736	en allant à la rencontre de mes frères
+T159	EVENT 10779 10792	attroupement 
+T160	EVENT 10941 10947	bonne 
+T161	EVENT 10947 10967	étant devenue folle 
+T162	EVENT 10967 10992	se réfugiait sur le toit 
+T163	EVENT 10995 11016	refusait de descendre
+T164	EVENT 11038 11049	épouvantés 
+T165	EVENT 11056 11064	scandale
+T166	EVENT 11066 11091	avaient clos leurs volets
+T167	EVENT 11170 11177	maison 
+T168	EVENT 11177 11193	parût abandonnée
+T169	EVENT 11204 11212	criaient
+T170	EVENT 11214 11228	s'indignaient 
+T171	EVENT 11296 11305	titubait 
+T172	EVENT 11447 11466	vint nous rappeler 
+T173	EVENT 11517 11524	partis 
+T174	EVENT 11547 11559	priant Dieu 
+T175	EVENT 11690 11709	revenaient de Paris
+T176	EVENT 11711 11726	se dépêchaient 
+T177	EVENT 11779 11795	lui accordaient 
+T178	EVENT 11802 11809	minute 
+T179	EVENT 11888 11921	répétition plus ou moins publique
+T180	EVENT 11971 11982	girandoles 
+T181	EVENT 11982 11993	lumineuses 
+T182	EVENT 11997 12024	formant une véritable rampe
+T183	EVENT 12133 12171	n'avaient osé se dispenser d'illuminer
+T184	EVENT 12192 12204	fantastique 
+T185	EVENT 12237 12242	toit 
+T186	EVENT 12254 12266	se promenait
+T187	EVENT 12362 12367	voix 
+T188	EVENT 12384 12393	inhumaine
+T189	EVENT 12395 12404	gutturale
+T190	EVENT 12412 12420	douceur 
+T191	EVENT 12424 12449	donnait la chair de poule
+T192	EVENT 12456 12465	pompiers 
+T193	EVENT 12775 12782	milice 
+T194	EVENT 12794 12817	faisant des patrouilles
+T195	EVENT 12823 12833	manœuvres 
+T196	EVENT 12840 12847	rondes 
+T197	EVENT 12867 12878	arrivèrent 
+T198	EVENT 12887 12905	fendirent la foule
+T199	EVENT 12918 12926	s'avança
+T200	EVENT 13030 13042	s'apitoyait 
+T201	EVENT 13060 13065	folle
+T202	EVENT 13072 13096	fit des recommandations 
+T203	EVENT 13415 13443	produisit un effet médiocre 
+T204	EVENT 13450 13455	foule
+T205	EVENT 13465 13475	l'ennuyait
+T206	EVENT 13540 13562	escaladèrent la grille
+T207	EVENT 13564 13583	cernèrent la maison
+T208	EVENT 13585 13594	grimpant 
+T209	EVENT 13637 13644	apparut
+T210	EVENT 13668 13673	foule
+T211	EVENT 13704 13722	se mit à vociférer
+T212	EVENT 13726 13735	prévenir 
+T213	EVENT 13769 13776	criait 
+T214	EVENT 13792 13801	excitait 
+T215	EVENT 13854 13858	cris
+T216	EVENT 13863 13868	folle
+T217	EVENT 13870 13888	s'armant de tuiles
+T218	EVENT 13890 13904	en envoya une 
+T219	EVENT 13963 13978	redescendirent 
+T220	EVENT 14004 14008	tirs
+T221	EVENT 14014 14021	manèges
+T222	EVENT 14027 14035	baraques
+T223	EVENT 14057 14072	se lamentaient 
+T224	EVENT 14171 14193	escaladaient les murs 
+T225	EVENT 14196 14225	se pressaient sur la pelouse 
+T226	EVENT 14240 14246	chasse
+T227	EVENT 14251 14257	folle 
+T228	EVENT 14257 14264	disait 
+T229	EVENT 14314 14325	mélancolie 
+T230	EVENT 14415 14421	voyous
+T231	EVENT 14484 14505	combiner les plaisirs
+T232	EVENT 14592 14615	tour de chevaux de bois
+T233	EVENT 14714 14759	se contentaient d'allumer des feux de Bengale
+T234	EVENT 14765 14772	pétards
+T235	EVENT 14969 14993	improvisait un discours 
+T236	EVENT 15032 15043	l'applaudit
+T237	EVENT 15077 15090	applaudissait
+T238	EVENT 15101 15108	saluait
+T239	EVENT 15123 15130	tuiles 
+T240	EVENT 15157 15167	en jetait 
+T241	EVENT 15214 15219	voix 
+T242	EVENT 15219 15228	inhumaine
+T243	EVENT 15235 15246	remerciait 
+T244	EVENT 15254 15272	eût enfin comprise
+T245	EVENT 15372 15385	se dispersait
+T246	EVENT 15403 15422	avais voulu rester 
+T247	EVENT 15550 15566	montagnes russes
+T248	EVENT 15698 15707	spectacle
+T249	EVENT 15735 15748	satisfaisait 
+T250	EVENT 15781 15791	avait dit 
+T251	EVENT 15862 15865	dis
+T252	EVENT 15945 15948	dit
+T253	EVENT 15973 15981	répondit
+T254	EVENT 16090 16102	disait cela 
+T255	EVENT 16114 16122	restasse
+T256	EVENT 16132 16139	savait 
+T257	EVENT 16146 16156	spectacle 
+T258	EVENT 16156 16171	me bouleversait
+T259	EVENT 16176 16184	sentais 
+T260	EVENT 16190 16206	le bouleversait 
+T261	EVENT 16220 16229	demandai 
+T262	EVENT 16232 16274	me prendre sur ses épaules pour mieux voir
+T263	EVENT 16290 16307	allais m'évanouir
+T264	EVENT 16406 16429	entendîmes les clairons
+T265	EVENT 16442 16464	retraite aux flambeaux
+T266	EVENT 16472 16480	torches 
+T267	EVENT 16480 16492	éclairaient 
+T268	EVENT 16503 16508	folle
+T269	EVENT 16619 16653	agitant ses mains en signe d'adieu
+T270	EVENT 16658 16683	croyant à la fin du monde
+T271	EVENT 16705 16722	allait la prendre
+T272	EVENT 16729 16744	se jeta du toit
+T273	EVENT 16746 16764	brisa la marquise 
+T274	EVENT 16772 16777	chute
+T275	EVENT 16787 16794	fracas 
+T276	EVENT 16794 16806	épouvantable
+T277	EVENT 16819 16854	s'aplatir sur les marches de pierre
+T278	EVENT 16868 16898	avais essayé de supporter tout
+T279	EVENT 16973 16982	entendis 
+T280	EVENT 16991 16997	crier 
+T281	EVENT 17023 17029	tombai
+T282	EVENT 17031 17048	sans connaissance
+T283	EVENT 17076 17088	Revenu à moi
+T284	EVENT 17093 17104	m'entraîna 
+T285	EVENT 17132 17141	restâmes 
+T286	EVENT 17152 17162	en silence
+T287	EVENT 17164 17185	allongés dans l'herbe
+T288	EVENT 17191 17197	retour
+T289	EVENT 17202 17212	crus voir 
+T290	EVENT 17258 17266	fantôme 
+T291	EVENT 17326 17348	contemplant les dégâts
+T292	EVENT 17353 17361	marquise
+T293	EVENT 17367 17373	tuiles
+T294	EVENT 17647 17666	entendîmes le canon
+T295	EVENT 17671 17682	se battait 
+T296	EVENT 17943 17952	demandai 
+T297	EVENT 17974 18000	emporter nos vieux livres 
+T298	EVENT 18068 18099	nous nous apprêtions à la fuite
+T299	EVENT 18141 18148	inutile
+T300	EVENT 18189 18229	porter des paniers de poires aux blessés
+T301	EVENT 18258 18271	dédommagement
+T302	EVENT 18345 18356	arrivaient 
+T303	EVENT 18376 18398	étaient presque vides 
+T304	EVENT 18507 18519	distraction 
+T305	EVENT 18544 18583	courir chez notre marchande de journaux
+T306	EVENT 18610 18621	exemplaire 
+T307	EVENT 18624 18627	Mot
+T308	EVENT 18728 18738	printemps 
+T309	EVENT 18738 18744	arriva
+T310	EVENT 18773 18783	incartades
+T311	EVENT 18802 18808	quêtes
+T312	EVENT 18843 18854	me promenai
+T313	EVENT 18903 18919	tenais le tronc 
+T314	EVENT 18942 18950	insignes
+T315	EVENT 19002 19034	profiter de ces journées libres 
+T316	EVENT 19101 19131	nous empressions de recueillir
+T317	EVENT 19153 19160	argent 
+T318	EVENT 19252 19264	polissonner 
+T319	EVENT 19305 19318	première fois
+T320	EVENT 19322 19332	eus un ami
+T321	EVENT 19374 19387	première fois
+T322	EVENT 19392 19419	m'entendais avec un garçon 
+T323	EVENT 19751 19775	allait au lycée Henri Iv
+T324	EVENT 19783 19804	serais dans sa classe
+T325	EVENT 20035 20063	s'obliger à des répétitions 
+T326	EVENT 20227 20234	virent 
+T327	EVENT 20372 20385	première fois
+T328	EVENT 20387 20409	nul jour des vacances 
+T329	EVENT 20434 20440	pesant
+T330	EVENT 20747 20766	rentrée des classes
+T331	EVENT 20776 20789	fut un guide 
+T332	EVENT 20826 20833	plaisir
+T333	EVENT 20884 20903	aimais faire à pied
+T334	EVENT 20928 20935	trajet 
+T335	EVENT 20990 21010	prenions notre train
+T336	EVENT 21087 21102	polissonneries 
+T337	EVENT 21169 21183	fournissaient 
+T338	EVENT 21282 21290	faveurs 
+T339	EVENT 21299 21308	dérobions
+T340	EVENT 21327 21337	dérobaient
+T341	EVENT 21403 21424	aimait à nous emmener
+T342	EVENT 21461 21471	promenades
+T343	EVENT 21936 21952	prîmes le train 
+T344	EVENT 21987 22006	nous rendre à pied 
+T345	EVENT 22043 22057	retrouverions 
+T346	EVENT 22159 22165	Marthe
+T347	EVENT 22226 22259	avais entendu mes parents parler 
+T348	EVENT 22372 22379	Marthe 
+T349	EVENT 22719 22735	nous attendaient
+T350	EVENT 22966 22975	promenade
+T351	EVENT 23582 23591	expliqua 
+T352	EVENT 23686 23699	entra en gare
+T353	EVENT 23793 23798	cria 
+T354	EVENT 23825 23834	me charma
+T355	EVENT 23935 23969	donnait la main à un petit garçon 
+T356	EVENT 24079 24102	trahissaient la maladie
+T357	EVENT 24133 24150	marchions en tête
+T358	EVENT 24161 24178	marchait derrière
+T359	EVENT 24218 24229	bâillaient 
+T360	EVENT 24279 24298	défendait de courir
+T361	EVENT 24310 24324	complimentais 
+T362	EVENT 24359 24368	répondit 
+T363	EVENT 24449 24468	me montrerait mieux
+T364	EVENT 24499 24509	jugeai bon
+T365	EVENT 24519 24532	première fois
+T366	EVENT 24537 24553	ne pas lui dire 
+T367	EVENT 24625 24648	ne pouvait bien me voir
+T368	EVENT 24660 24669	observais
+T369	EVENT 24918 24947	fus attristé de cette réponse
+T370	EVENT 25027 25055	Voulant dissiper le malaise 
+T371	EVENT 25227 25231	dis 
+T372	EVENT 25323 25338	restai terrifié
+T373	EVENT 25803 25833	essayais de deviner ses goûts 
+T374	EVENT 25853 25880	fus heureux qu'elle connût 
+T375	EVENT 25992 26014	discernais une révolte
+T376	EVENT 26144 26174	lui parlait de ce qu'il lisait
+T377	EVENT 26188 26215	conseillait certains livres
+T378	EVENT 26220 26245	lui en défendait d'autres
+T379	EVENT 26303 26344	surpris d'apprendre qu'elle était fiancée
+T380	EVENT 26349 26360	me réjouis 
+T381	EVENT 26378 26391	désobéissait 
+T382	EVENT 26445 26467	fus heureux de sentir 
+T383	EVENT 26473 26496	devait souvent choquer 
+T384	EVENT 26547 26560	me félicitai 
+T385	EVENT 26567 26577	étroitesse
+T386	EVENT 26732 26744	me demandai 
+T387	EVENT 26799 26846	lui avait aussi défendu les académies de dessin
+T388	EVENT 26878 26906	lui proposai de l'y conduire
+T389	EVENT 26908 26917	ajoutant 
+T390	EVENT 26925 26937	travaillais 
+T391	EVENT 27005 27035	la priai de n'en point parler 
+T392	EVENT 27154 27169	ne voulais pas 
+T393	EVENT 27177 27192	pût se figurer 
+T394	EVENT 27199 27207	cachais 
+T395	EVENT 27246 27269	me défendaient de voir 
+T396	EVENT 27308 27335	se fit un secret entre nous
+T397	EVENT 27353 27380	me sentais déjà tyrannique 
+T398	EVENT 27413 27439	être préféré à la campagne
+T399	EVENT 27537 27550	l'appelaient 
+T400	EVENT 27651 27664	s'approchait 
+T401	EVENT 27678 27707	demandait le nom d'une fleur 
+T402	EVENT 27829 27842	nous assîmes 
+T403	EVENT 28028 28034	pensai
+T404	EVENT 28042 28059	pourrais éblouir 
+T405	EVENT 28070 28097	m'attirer la bienveillance 
+T406	EVENT 28155 28167	m'en abstins
+T407	EVENT 28212 28220	pensais 
+T408	EVENT 28260 28273	conversation 
+T409	EVENT 28283 28293	en dehors 
+T410	EVENT 28300 28312	inquiétudes 
+T411	EVENT 28337 28353	rompre le charme
+T412	EVENT 28484 28516	avait faussé notre conversation 
+T413	EVENT 28556 28585	ne pouvais m'en rendre compte
+T414	EVENT 28651 28683	croyais avoir déclaré mon amour 
+T415	EVENT 28916 28927	me répétais
+T416	EVENT 29108 29116	pensait 
+T417	EVENT 29254 29261	triche 
+T418	EVENT 29264 29270	timide
+T419	EVENT 29278 29298	reprenions le train 
+T420	EVENT 29348 29356	attendre
+T421	EVENT 29363 29399	nous assîmes à la terrasse d'un café
+T422	EVENT 29404 29414	dus subir 
+T423	EVENT 29418 29430	compliments 
+T424	EVENT 29451 29464	m'humiliaient
+T425	EVENT 29579 29592	voulut boire 
+T426	EVENT 29598 29608	grenadine 
+T427	EVENT 29615 29625	commandai 
+T428	EVENT 29714 29731	y comprenait rien
+T429	EVENT 29782 29791	tremblai 
+T430	EVENT 29797 29811	me plaisantât 
+T431	EVENT 29833 29836	fit
+T432	EVENT 29970 29982	dîmes adieu 
+T433	EVENT 29999 30006	promis 
+T434	EVENT 30015 30028	de lui porter
+T435	EVENT 30051 30062	collection 
+T436	EVENT 30083 30102	Une saison en enfer
+T437	EVENT 30157 30162	riait
+T438	EVENT 30184 30187	dit
+T439	EVENT 30189 30210	fronçant les sourcils
+T440	EVENT 30294 30311	s'étaient ennuyés
+T441	EVENT 30378 30421	n'éprouvai pas le besoin de raconter à René
+T442	EVENT 30583 30594	m'étonnait 
+T443	EVENT 30620 30665	trouvai René moins différent de mes camarades
+T444	EVENT 30668 30701	Ressentant de l'amour pour Marthe
+T445	EVENT 30705 30714	en ôtais 
+T446	EVENT 30880 30899	ne pouvant attendre
+T447	EVENT 31184 31191	courus 
+T448	EVENT 31276 31284	attendis
+T449	EVENT 31362 31383	palpitations de cœur 
+T450	EVENT 31405 31417	augmentaient
+T451	EVENT 31630 31638	sonnai. 
+T452	EVENT 31640 31661	entrai dans la maison
+T453	EVENT 31666 31691	demandai à la domestique 
+T454	EVENT 31749 31755	parut 
+T455	EVENT 31784 31801	m'avait introduit
+T456	EVENT 31807 31816	sursautai
+T457	EVENT 31946 31956	Rougissant
+T458	EVENT 31961 31967	priai 
+T459	EVENT 32066 32088	ne pouvant venir jeudi
+T460	EVENT 32092 32127	apportais le livre et les journaux 
+T461	EVENT 32169 32173	dit 
+T462	EVENT 32379 32390	m'en allai 
+T463	EVENT 32410 32452	n'avais plus de chance de la revoir jamais
+T464	EVENT 32466 32504	m'efforçais de ne plus penser à Marthe
+T465	EVENT 32525 32545	ne pensant qu'à elle
+T466	EVENT 32583 32604	sautant de mon wagon 
+T467	EVENT 32633 32640	la vis 
+T468	EVENT 32751 32781	lui demandai de m'accompagner 
+T469	EVENT 32809 32812	dit
+T470	EVENT 32924 32929	Vexé 
+T471	EVENT 33015 33028	lui répondis 
+T472	EVENT 33071 33090	fronça les sourcils
+T473	EVENT 33119 33129	arrivions 
+T474	EVENT 33145 33187	ne voulant pas la quitter sur ces paroles 
+T475	EVENT 33217 33234	décidai d'entrer 
+T476	EVENT 33294 33306	fus heureux 
+T477	EVENT 33338 33363	ne montrât pas de sagesse
+T478	EVENT 33365 33389	ne me fit aucun reproche
+T479	EVENT 33403 33442	semblât me remercier d'un tel sacrifice
+T480	EVENT 33467 33485	fus reconnaissant 
+T481	EVENT 33504 33558	ne me proposât point de l'accompagner dans ses courses
+T482	EVENT 33573 33593	me donnât son temps 
+T483	EVENT 33602 33621	lui donnais le mien
+T484	EVENT 33655 33676	jardin du Luxembourg 
+T485	EVENT 33725 33742	renonçai au lycée
+T486	EVENT 33746 33765	avais dans ma poche
+T487	EVENT 33787 33794	argent 
+T488	EVENT 34012 34027	m'ayant appris 
+T489	EVENT 34035 34067	déjeunait chez ses beaux-parents
+T490	EVENT 34072 34112	décidai de la résoudre à rester avec moi
+T491	EVENT 34154 34162	sursauta
+T492	EVENT 34197 34234	abandonnât pour elle tous ses devoirs
+T493	EVENT 34277 34299	voyant que je restais 
+T494	EVENT 34422 34440	restions immobiles
+T495	EVENT 34461 34468	bonheur
+T496	EVENT 34479 34485	sauta 
+T497	EVENT 34516 34523	se leva
+T498	EVENT 34625 34662	faisait avec ses bras des mouvements 
+T499	EVENT 34680 34695	en augurai mal 
+T500	EVENT 34750 34753	dit
+T501	EVENT 34964 34980	accompagnez-moi 
+T502	EVENT 35012 35048	êtes décidé à ne pas aller en classe
+T503	EVENT 35139 35153	l'accompagnai 
+T504	EVENT 35189 35214	l'empêchant de commander 
+T505	EVENT 35271 35286	évitant le rose
+T506	EVENT 35374 35400	fallait obtenir de Marthe 
+T507	EVENT 35408 35446	ne déjeunât pas chez ses beaux-parents
+T508	EVENT 35544 35589	cherchai ce qui la déterminerait à me suivre 
+T509	EVENT 35621 35657	rêvait de connaître un bar américain
+T510	EVENT 35884 35920	ayant usé de tout pour la convaincre
+T511	EVENT 35925 35946	n'insistant même plus
+T512	EVENT 35951 35987	l'accompagnai chez ses beaux-parents
+T513	EVENT 36120 36145	voyais s'approcher la rue
+T514	EVENT 36200 36219	frappant à la vitre
+T515	EVENT 36221 36249	arrêta le chauffeur du taxi 
+T516	EVENT 36285 36289	dit 
+T517	EVENT 36294 36307	Attendez-moi 
+T518	EVENT 36449 36479	n'en pouvant plus d'impatience
+T519	EVENT 36483 36514	avisai une marchande de fleurs 
+T520	EVENT 36742 36748	projet
+T521	EVENT 36783 36814	aller à une académie de dessin 
+T522	EVENT 36819 36841	mensonge du téléphone 
+T523	EVENT 36931 36977	m'étaient des faveurs plus douces qu'un baiser
+T524	EVENT 37117 37150	désirais peu les lèvres de Marthe
+T525	EVENT 37172 37183	complicité 
+T526	EVENT 37216 37224	inconnue
+T527	EVENT 37234 37242	sortait 
+T528	EVENT 37255 37265	rayonnante
+T529	EVENT 37297 37327	donnai au chauffeur l'adresse 
+T530	EVENT 37360 37371	s'extasiait
+T531	EVENT 37537 37547	respirait 
+T532	EVENT 37569 37575	roses 
+T533	EVENT 37684 37728	lui demandai de me montrer une photographie 
+T534	EVENT 37746 37761	le trouvai beau
+T535	EVENT 37828 37887	poussai l'hypocrisie jusqu'à lui dire qu'il était très beau
+T536	EVENT 37968 37977	politesse
+T537	EVENT 38117 38146	songer au motif de son voyage
+T538	EVENT 38188 38225	s'en était remis complètement à elle 
+T539	EVENT 38320 38363	en lui promettant de ne pas faire de folies
+T540	EVENT 38365 38392	avait obtenu de venir seule
+T541	EVENT 38419 38444	choisir quelques meubles 
+T542	EVENT 38581 38633	me fallut faire un effort pour continuer de marcher 
+T543	EVENT 38740 38772	obligation d'accompagner Marthe 
+T544	EVENT 38772 38801	m'apparut comme une malchance
+T545	EVENT 38819 38871	l'aider à choisir une chambre pour elle et un autre 
+T546	EVENT 38950 38959	oubliais 
+T547	EVENT 39318 39342	Au moindre mot de Marthe
+T548	EVENT 39375 39411	me fallait lui désigner le contraire
+T549	EVENT 39457 39499	donner l'apparence de céder à ses caprices
+T550	EVENT 39584 39594	murmurait 
+T551	EVENT 39634 39678	N'osant même plus m'avouer ses propres goûts
+T552	EVENT 39685 39712	les attribuait à son fiancé
+T553	EVENT 39858 39867	pensai-je
+T554	EVENT 39876 39883	raison 
+T555	EVENT 39892 39903	de me céder
+T556	EVENT 39908 39933	sacrifier ses préférences
+T557	EVENT 39983 40002	n'en trouvai aucune
+T558	EVENT 40038 40065	me dire que Marthe m'aimait
+T559	EVENT 40078 40100	étais sûr du contraire
+T560	EVENT 40110 40122	m'avait dit 
+T561	EVENT 40312 40333	représentai à Marthe 
+T562	EVENT 40537 40550	coup de grâce
+T563	EVENT 40614 40635	le reçut sans révolte
+T564	EVENT 40642 40665	se contenta de me dire 
+T565	EVENT 40718 40726	journée 
+T566	EVENT 40726 40736	éreintante
+T567	EVENT 40741 40754	me félicitai 
+T568	EVENT 40781 40808	étais parvenu à transformer
+T569	EVENT 40830 40845	mariage d'amour
+T570	EVENT 40876 40893	mariage de raison
+T571	EVENT 41030 41044	En me quittant
+T572	EVENT 41104 41147	m'avait prié de l'aider les jours suivants 
+T573	EVENT 41187 41200	le lui promis
+T574	EVENT 41227 41269	me jurât de ne jamais le dire à son fiancé
+T575	EVENT 41480 41499	rentrai à la maison
+T576	EVENT 41596 41611	ne savait rien 
+T577	EVENT 41714 41728	En me couchant
+T578	EVENT 41733 41747	me répétai que
+T579	EVENT 42098 42129	guettai dans la rue le facteur 
+T580	EVENT 42133 42169	devait apporter une lettre d'absence
+T581	EVENT 42174 42185	me la remit
+T582	EVENT 42190 42200	l'empochai
+T583	EVENT 42202 42234	jetant les autres dans la boîte 
+T584	EVENT 42302 42320	Manquer la classe 
+T585	EVENT 42550 42570	voulus y goûter seul
+T586	EVENT 42599 42607	liberté 
+T587	EVENT 42610 42632	devint vite une drogue
+T588	EVENT 42748 42779	souhaitais le renvoi du collège
+T589	EVENT 43095 43103	classes 
+T590	EVENT 43129 43138	supplice 
+T591	EVENT 43161 43205	avaient achevé de me les rendre intolérables
+T592	EVENT 43243 43260	aimais moins René
+T593	EVENT 43293 43330	me rappelait quelque chose du collège
+T594	EVENT 43335 43344	souffrais
+T595	EVENT 43363 43398	me rendait même physiquement malade
+T596	EVENT 43512 43554	lui avais trop bien fait partager mon vice
+T597	EVENT 43597 43638	m'annonça qu'il était renvoyé de Henri Iv
+T598	EVENT 43643 43655	crus l'être 
+T599	EVENT 43864 43873	attendis 
+T600	EVENT 43903 43912	prévenir 
+T601	EVENT 44019 44045	partis au bord de la Marne
+T602	EVENT 44289 44297	journée 
+T603	EVENT 44300 44304	vide
+T604	EVENT 44309 44318	tristesse
+T605	EVENT 44323 44343	rentrai le front bas
+T606	EVENT 44479 44491	me promenai 
+T607	EVENT 44507 44542	attendant que mon père me fît venir
+T608	EVENT 44651 44658	me dit 
+T609	EVENT 44699 44713	s'était étendu
+T610	EVENT 44800 44811	se taisait 
+T611	EVENT 44894 44898	dit 
+T612	EVENT 44950 44957	larmes 
+T613	EVENT 45025 45051	bourdonnaient dans ma tête
+T614	EVENT 45150 45178	ne pensais qu'à me soumettre
+T615	EVENT 45978 46005	feignis de vouloir peindre 
+T616	EVENT 46011 46037	n'avoir jamais osé le dire
+T617	EVENT 46039 46054	Encore une fois
+T618	EVENT 46065 46079	ne dit pas non
+T619	EVENT 46100 46124	continuasse d'apprendre 
+T620	EVENT 46540 46571	avais même pris goût au travail
+T621	EVENT 46913 46922	étonnait 
+T622	EVENT 46935 46942	lettre 
+T623	EVENT 46953 46967	n'arrivait pas
+T624	EVENT 46972 47007	me fit à ce sujet sa première scène
+T625	EVENT 47009 47048	croyant que j'avais soustrait la lettre
+T626	EVENT 47184 47198	n'existait pas
+T627	EVENT 47242 47253	me trompais
+T628	EVENT 47327 47358	reçûmes une lettre du proviseur
+T629	EVENT 47364 47392	demandait si j'étais malade 
+T630	EVENT 47395 47440	s'il fallait m'inscrire pour l'année suivante
+T631	EVENT 47686 47701	l'aimais encore
+T632	EVENT 47840 47847	trouvai
+T633	EVENT 47849 47870	en rentrant chez nous
+T634	EVENT 47876 47887	invitation 
+T635	EVENT 48348 48367	arrivai pour goûter
+T636	EVENT 48668 48689	cherchai la sonnette 
+T637	EVENT 48722 48733	gravissant 
+T638	EVENT 48765 48804	me décidai à frapper contre les vitres 
+T639	EVENT 48856 48874	entendais des voix
+T640	EVENT 48894 48910	ouvrit la porte 
+T641	EVENT 48919 48928	demandai 
+T642	EVENT 49016 49034	montai l'escalier 
+T643	EVENT 49048 49058	trébuchant
+T644	EVENT 49060 49070	me cognant
+T645	EVENT 49075 49094	mourant de crainte 
+T646	EVENT 49131 49138	frappai
+T647	EVENT 49157 49170	vint m'ouvrir
+T648	EVENT 49175 49200	faillis lui sauter au cou
+T649	EVENT 49373 49386	lui demandai 
+T650	EVENT 49544 49555	En entrant 
+T651	EVENT 49753 49789	fus à la fois heureux et malheureux 
+T652	EVENT 49923 49942	tisonnant la braise
+T653	EVENT 50171 50190	semblait s'excuser 
+T654	EVENT 50341 50345	feu 
+T655	EVENT 50345 50353	me ravit
+T656	EVENT 50778 50791	restait grave
+T657	EVENT 50849 50870	la trouvai différente
+T658	EVENT 50900 50928	étais sûr de ne plus l'aimer
+T659	EVENT 50933 50953	commençais à l'aimer
+T660	EVENT 51207 51218	ne vis pas 
+T661	EVENT 51224 51248	étais amoureux de Marthe
+T662	EVENT 51954 51962	douceur 
+T663	EVENT 51994 52005	me trompait
+T664	EVENT 52090 52119	commençais à respecter Marthe
+T665	EVENT 52134 52154	commençais à l'aimer
+T666	EVENT 52160 52182	revins tous les soirs 
+T667	EVENT 52315 52326	souhaitais 
+T668	EVENT 52347 52369	fiançailles éternelles
+T669	EVENT 52375 52381	corps 
+T670	EVENT 52381 52408	étendus près de la cheminée
+T671	EVENT 52444 52458	n'osant bouger
+T672	EVENT 52463 52468	peur 
+T673	EVENT 52502 52520	chasser le bonheur
+T674	EVENT 52540 52562	goûtait le même charme
+T675	EVENT 52597 52605	paresse 
+T676	EVENT 52620 52641	lut de l'indifférence
+T677	EVENT 52643 52673	Pensant que je ne l'aimais pas
+T678	EVENT 52793 52806	nous taisions
+T679	EVENT 52810 52840	y voyais une preuve du bonheur
+T680	EVENT 52846 52881	me sentais tellement près de Marthe
+T681	EVENT 53031 53039	silence 
+T682	EVENT 53289 53297	mutisme 
+T683	EVENT 53297 53306	délicieux
+T684	EVENT 53315 53343	se figura que je m'ennuyais 
+T685	EVENT 53365 53406	se sentait prête à tout pour me distraire
+T686	EVENT 53436 53461	aimait dormir près du feu
+T687	EVENT 53538 53571	mettre ses bras autour de mon cou
+T688	EVENT 53630 53659	venait d'avoir un rêve triste
+T689	EVENT 53738 53758	respirer ses cheveux
+T690	EVENT 53764 53767	cou
+T691	EVENT 53773 53779	joues 
+T692	EVENT 53793 53819	en les effleurant à peine 
+T693	EVENT 53863 53872	caresses 
+T694	EVENT 53991 53999	passion 
+T695	EVENT 54344 54360	désirais Marthe 
+T696	EVENT 54397 54405	dormait 
+T697	EVENT 54454 54475	me penchais sur elle 
+T698	EVENT 54480 54496	voir son visage 
+T699	EVENT 54558 54576	m'approchais trop 
+T700	EVENT 54784 54820	sentis mes lèvres contre les siennes
+T701	EVENT 54827 54850	fermait encore les yeux
+T702	EVENT 54905 54916	l'embrassai
+T703	EVENT 54918 54941	stupéfait de mon audace
+T704	EVENT 54991 55015	approchais de son visage
+T705	EVENT 55017 55054	avait attiré ma tête contre sa bouche
+T706	EVENT 55071 55096	s'accrochaient à mon cou 
+T707	EVENT 55279 55293	s'était assise
+T708	EVENT 55300 55329	tenait ma tête sur ses genoux
+T709	EVENT 55331 55352	caressant mes cheveux
+T710	EVENT 55357 55369	me répétant 
+T711	EVENT 55453 55476	n'osais pas la tutoyer 
+T712	EVENT 55489 55513	ne pouvais plus me taire
+T713	EVENT 55518 55528	cherchais 
+T714	EVENT 55626 55651	ne pouvais pas la tutoyer
+T715	EVENT 55726 55733	larmes 
+T716	EVENT 55733 55745	me brûlaient
+T717	EVENT 55846 55879	m'accusai d'avoir rompu le charme
+T718	EVENT 55959 56005	oubliant que c'était elle qui m'avait embrassé
+T719	EVENT 56067 56074	larmes 
+T720	EVENT 56100 56107	larmes 
+T721	EVENT 56240 56248	silence 
+T722	EVENT 56248 56259	l'inquiéta 
+T723	EVENT 56445 56455	grelottais
+T724	EVENT 56460 56478	claquais des dents
+T725	EVENT 56662 56666	dis 
+T726	EVENT 56673 56691	ne m'en irai pas. 
+T727	EVENT 56761 56800	ne voulais pas rentrer chez mes parents
+T728	EVENT 56897 56908	sanglotait 
+T729	EVENT 57003 57009	t'aime
+T730	EVENT 57035 57039	dis 
+T731	EVENT 57134 57151	secouait la tête 
+T732	EVENT 57595 57607	mot d'amour 
+T733	EVENT 57613 57621	sublime 
+T734	EVENT 57623 57635	enfantillage
+T735	EVENT 57844 57859	premier baiser 
+T736	EVENT 57859 57872	m'avait déçu 
+T737	EVENT 58063 58098	étais habitué à la bouche de Marthe
+T738	EVENT 58115 58142	ne pouvais plus m'en passer
+T739	EVENT 58167 58203	parlait de m'en priver à tout jamais
+T740	EVENT 58225 58240	me reconduisit 
+T741	EVENT 58264 58290	me sentir plus près d'elle
+T742	EVENT 58295 58310	me blottissais 
+T743	EVENT 58327 58350	la tenais par la taille
+T744	EVENT 58510 58543	me faisait lui jurer mille folies
+T745	EVENT 58582 58625	ne voulus pas laisser Marthe repartir seule
+T746	EVENT 58630 58660	l'accompagnai jusque chez elle
+T747	EVENT 58731 58759	voulait m'accompagner encore
+T748	EVENT 58763 58771	acceptai
+T749	EVENT 58826 58834	arrivai 
+T750	EVENT 58903 58939	mis ce retard sur le compte du train
+T751	EVENT 58950 58975	fit semblant de le croire
+T752	EVENT 59281 59302	étais ivre de passion
+T753	EVENT 59311 59323	était à moi 
+T754	EVENT 59376 59401	pouvais toucher sa figure
+T755	EVENT 59403 59421	embrasser ses yeux
+T756	EVENT 59487 59498	la mordais 
+T757	EVENT 59633 59653	sauvagerie d'enfant 
+T758	EVENT 59700 59707	disait 
+T759	EVENT 60032 60049	lisions ensemble 
+T760	EVENT 60063 60066	feu
+T761	EVENT 60073 60082	y jetait 
+T762	EVENT 60094 60102	lettres 
+T763	EVENT 60272 60318	ne voyais pas flamber ces lettres sans malaise
+T764	EVENT 60441 60454	me demandait 
+T765	EVENT 60477 60519	l'avais aimée dès notre première rencontre
+T766	EVENT 60521 60535	me reprochait 
+T767	EVENT 60538 60579	ne le lui avoir pas dit avant son mariage
+T768	EVENT 60611 60621	prétendait
+T769	EVENT 60705 60716	fiançailles
+T770	EVENT 60769 60813	avaient peu à peu effacé l'amour de son cœur
+T771	EVENT 60820 60847	n'aimait déjà plus Jacques 
+T772	EVENT 60858 60866	l'épousa
+T773	EVENT 60906 60917	permission 
+T774	EVENT 60983 60996	fut malhabile
+T775	EVENT 61013 61028	agace toujours 
+T776	EVENT 61061 61088	l'aimait toujours davantage
+T777	EVENT 61127 61134	souffre
+T778	EVENT 61141 61169	plaçant trop haut sa Marthe 
+T779	EVENT 61174 61203	la croire capable de trahison
+T780	EVENT 61234 61247	la suppliant 
+T781	EVENT 61260 61305	lui expliquer quel mal il avait pu lui faire 
+T782	EVENT 61404 61418	lui répondait 
+T783	EVENT 61434 61445	se trompait
+T784	EVENT 61455 61477	ne lui reprochait rien
+T785	EVENT 61562 61591	ne m'accompagnait pas à Paris
+T786	EVENT 61601 61621	nue sous un peignoir
+T787	EVENT 61623 61671	attendait que je revinsse de mes cours de dessin
+T788	EVENT 61762 61802	avait demandé de renouveler sa provision
+T789	EVENT 61807 61830	ne sais quelle timidité
+T790	EVENT 61904 61915	me retenait
+T791	EVENT 62234 62249	appelais Marthe
+T792	EVENT 62251 62263	m'en voulant
+T793	EVENT 62322 62351	finir d'en faire ma maîtresse
+T794	EVENT 62342 62351	maîtresse
+T795	EVENT 62366 62382	allant chez elle
+T796	EVENT 62387 62435	me promettais de ne pas sortir qu'elle ne le fût
+T797	EVENT 62551 62578	me fit cadeau d'un peignoir
+T798	EVENT 62607 62639	voulait me voir mettre chez elle
+T799	EVENT 62649 62653	joie
+T800	EVENT 62774 62798	avait entravé mes désirs
+T801	EVENT 62811 62827	peur du ridicule
+T802	EVENT 62832 62849	me sentir habillé
+T803	EVENT 62863 62877	ne l'était pas
+T804	EVENT 62890 62929	pensai à mettre cette robe le jour même
+T805	EVENT 62940 62946	rougis
+T806	EVENT 62948 62959	comprenant 
+T807	EVENT 62970 62977	cadeau 
+T808	EVENT 62977 62999	contenait de reproches
+T809	EVENT 63038 63079	m'avait donné une clef de son appartement
+T810	EVENT 63251 63266	quittai Marthe 
+T811	EVENT 63266 63302	en lui promettant de venir déjeuner 
+T812	EVENT 63399 63422	annonçai à mes parents 
+T813	EVENT 63477 63487	promenade 
+T814	EVENT 63532 63561	partir à cinq heures du matin
+T815	EVENT 63750 63806	voulut préparer elle-même un panier rempli de provisions
+T816	EVENT 63825 63840	étais consterné
+T817	EVENT 63917 63986	goûtais d'avance l'effroi de Marthe quand j'entrerais dans sa chambre
+T818	EVENT 64166 64189	ne voulut rien entendre
+T819	EVENT 64326 64347	emplissait le panier 
+T820	EVENT 64399 64449	voyais les yeux pleins de convoitise de mes frères
+T821	EVENT 64630 64641	me résigner
+T822	EVENT 64781 64796	essayai de lire
+T823	EVENT 64809 64820	dix heures 
+T824	EVENT 64820 64830	sonnaient 
+T825	EVENT 64908 64923	ne pus attendre
+T826	EVENT 64985 65014	n'avais pas mis mes bottines 
+T827	EVENT 65072 65093	Les tenant d'une main
+T828	EVENT 65157 65205	ouvris avec précaution une petite porte d'office
+T829	EVENT 65263 65274	Apercevant 
+T830	EVENT 65281 65289	lumière 
+T831	EVENT 65351 65383	fus sur le point de me recoucher
+T832	EVENT 65392 65406	étais en route
+T833	EVENT 65512 65540	me fallait escalader le mur 
+T834	EVENT 65590 65608	m'approchai du mur
+T835	EVENT 65739 65746	tuiles 
+T836	EVENT 65831 65836	tomba
+T837	EVENT 65926 65958	tenais le panier avec mes dents 
+T838	EVENT 65963 65985	tombai dans une flaque
+T839	EVENT 66009 66022	restai debout
+T840	EVENT 66158 66169	étais sauf 
+T841	EVENT 66210 66225	suivis la Marne
+T842	EVENT 66492 66509	hésitai longtemps
+T843	EVENT 66572 66607	cachai tout de même mes victuailles
+T844	EVENT 66647 66660	pris la clef 
+T845	EVENT 66714 66763	traversai le petit jardin sur la pointe des pieds
+T846	EVENT 66770 66798	montai les marches du perron
+T847	EVENT 66802 66827	ôtai encore mes bottines 
+T848	EVENT 66946 66955	tremblai 
+T849	EVENT 66960 66996	ne trouvai pas le trou de la serrure
+T850	EVENT 67008 67033	tournai la clef lentement
+T851	EVENT 67069 67075	butai 
+T852	EVENT 67185 67218	allai à tâtons jusqu'à la chambre
+T853	EVENT 67223 67233	m'arrêtai 
+T854	EVENT 67402 67408	ouvris
+T855	EVENT 67413 67422	murmurai 
+T856	EVENT 67442 67451	répondit 
+T857	EVENT 67596 67620	me prenait pour Jacques 
+T858	EVENT 67711 67740	me cachait déjà quelque chose
+T859	EVENT 67750 67784	devait donc venir dans huit jours 
+T860	EVENT 67789 67796	allumai
+T861	EVENT 67803 67819	restait tournée 
+T862	EVENT 67891 67907	ne le disais pas
+T863	EVENT 67912 67935	l'embrassai dans le cou
+T864	EVENT 68000 68012	se retourna 
+T865	EVENT 68015 68028	poussa un cri
+T866	EVENT 68061 68080	changea d'attitude 
+T867	EVENT 68218 68240	courut ranimer le feu 
+T868	EVENT 68294 68309	ne bougeais pas
+T869	EVENT 68316 68320	dit 
+T870	EVENT 68496 68509	déshabillage 
+T871	EVENT 68509 68533	prenait un sens maternel
+T872	EVENT 68547 68556	repartait
+T873	EVENT 68558 68566	revenait
+T874	EVENT 68568 68593	repartait dans la cuisine
+T875	EVENT 68600 68605	voir 
+T876	EVENT 68652 68675	me trouva nu sur le lit
+T877	EVENT 68677 68711	me cachant à moitié sous l'édredon
+T878	EVENT 68718 68728	me gronda 
+T879	EVENT 68817 68824	ouvrit 
+T880	EVENT 68839 68865	me jeta un costume de nuit
+T881	EVENT 68930 68949	pensais à l'arrivée
+T882	EVENT 69011 69028	étais dans le lit
+T883	EVENT 69037 69050	m'y rejoignit
+T884	EVENT 69055 69078	lui demandai d'éteindre
+T885	EVENT 69180 69192	me répondit 
