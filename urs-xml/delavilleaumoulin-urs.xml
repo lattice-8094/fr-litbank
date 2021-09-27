@@ -21372,6 +21372,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-3-fs">
 <f name="REF"><string>narratrice</string></f>
 <f name="NB MAILLONS"><string>626</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-4-fs">
 <f name="REF"><string>yeux de la narratrice</string></f>
@@ -21392,6 +21393,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-7-fs">
 <f name="REF"><string>chambre d_enfant</string></f>
 <f name="NB MAILLONS"><string>8</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-9-fs">
 <f name="REF"><string>SI_76</string></f>
@@ -21420,6 +21422,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-15-fs">
 <f name="REF"><string>une longue salle</string></f>
 <f name="NB MAILLONS"><string>7</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-16-fs">
 <f name="REF"><string>SI_1047</string></f>
@@ -21456,6 +21459,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-24-fs">
 <f name="REF"><string>parents de la narratrice</string></f>
 <f name="NB MAILLONS"><string>101</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-25-fs">
 <f name="REF"><string>SI_1</string></f>
@@ -21464,6 +21468,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-26-fs">
 <f name="REF"><string>frères et soeurs de la narratrice</string></f>
 <f name="NB MAILLONS"><string>21</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-27-fs">
 <f name="REF"><string>SI_567</string></f>
@@ -21488,6 +21493,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-32-fs">
 <f name="REF"><string>le médecin</string></f>
 <f name="NB MAILLONS"><string>17</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-33-fs">
 <f name="REF"><string>SI_1015</string></f>
@@ -21524,6 +21530,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-41-fs">
 <f name="REF"><string>père de la narratrice</string></f>
 <f name="NB MAILLONS"><string>38</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-42-fs">
 <f name="REF"><string>SI_705</string></f>
@@ -21584,6 +21591,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-56-fs">
 <f name="REF"><string>SI_108</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-57-fs">
 <f name="REF"><string>SI_877</string></f>
@@ -21592,18 +21600,22 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-58-fs">
 <f name="REF"><string>mère de la narratrice</string></f>
 <f name="NB MAILLONS"><string>54</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-59-fs">
 <f name="REF"><string>SI_1066</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-60-fs">
 <f name="REF"><string>SI_855</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-61-fs">
 <f name="REF"><string>Firmin</string></f>
 <f name="NB MAILLONS"><string>148</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-62-fs">
 <f name="REF"><string>SI_129</string></f>
@@ -21612,6 +21624,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-63-fs">
 <f name="REF"><string>Angèle</string></f>
 <f name="NB MAILLONS"><string>41</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-64-fs">
 <f name="REF"><string>SI_372</string></f>
@@ -21620,6 +21633,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-65-fs">
 <f name="REF"><string>Dieu</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>NO_PER</string></f>
 </fs>
 <fs id="s-CHAINE-66-fs">
 <f name="REF"><string>SI_682</string></f>
@@ -21628,14 +21642,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-68-fs">
 <f name="REF"><string>Nicole</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-67-fs">
 <f name="REF"><string>Nicole et Nicolas</string></f>
 <f name="NB MAILLONS"><string>27</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-69-fs">
 <f name="REF"><string>Nicolas</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-70-fs">
 <f name="REF"><string>le choc</string></f>
@@ -21660,10 +21677,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-75-fs">
 <f name="REF"><string>le fiacre</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-76-fs">
 <f name="REF"><string>l_hôpital</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-77-fs">
 <f name="REF"><string>SI_434</string></f>
@@ -21672,6 +21691,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-78-fs">
 <f name="REF"><string>le vieux cocher</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-79-fs">
 <f name="REF"><string>SI_918</string></f>
@@ -21748,6 +21768,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-97-fs">
 <f name="REF"><string>SI_1029</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-98-fs">
 <f name="REF"><string>SI_258</string></f>
@@ -21764,6 +21785,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-101-fs">
 <f name="REF"><string>la nuit</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-102-fs">
 <f name="REF"><string>une somnolence</string></f>
@@ -21780,6 +21802,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-105-fs">
 <f name="REF"><string>l_homme au marteau</string></f>
 <f name="NB MAILLONS"><string>5</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-106-fs">
 <f name="REF"><string>le marteau</string></f>
@@ -21792,6 +21815,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-108-fs">
 <f name="REF"><string>l_infirmière</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-109-fs">
 <f name="REF"><string>les cris sourds</string></f>
@@ -21816,6 +21840,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-114-fs">
 <f name="REF"><string>une semaine</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-115-fs">
 <f name="REF"><string>SI_935</string></f>
@@ -21828,6 +21853,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-117-fs">
 <f name="REF"><string>un tombereau</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-118-fs">
 <f name="REF"><string>SI_389</string></f>
@@ -21840,6 +21866,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-120-fs">
 <f name="REF"><string>une minute</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-121-fs">
 <f name="REF"><string>SI_834</string></f>
@@ -21848,6 +21875,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-122-fs">
 <f name="REF"><string>le soleil</string></f>
 <f name="NB MAILLONS"><string>5</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-123-fs">
 <f name="REF"><string>SI_1044</string></f>
@@ -21856,6 +21884,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-124-fs">
 <f name="REF"><string>SI_570</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-125-fs">
 <f name="REF"><string>SI_830</string></f>
@@ -21868,10 +21897,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-127-fs">
 <f name="REF"><string>la maison</string></f>
 <f name="NB MAILLONS"><string>10</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-128-fs">
 <f name="REF"><string>SI_1040</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-129-fs">
 <f name="REF"><string>qui</string></f>
@@ -21892,6 +21923,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-133-fs">
 <f name="REF"><string>la femme de ménage</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-134-fs">
 <f name="REF"><string>SI_367</string></f>
@@ -21916,6 +21948,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-139-fs">
 <f name="REF"><string>SI_491</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-140-fs">
 <f name="REF"><string>pas indispensable</string></f>
@@ -21932,6 +21965,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-143-fs">
 <f name="REF"><string>grand-mère</string></f>
 <f name="NB MAILLONS"><string>9</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-144-fs">
 <f name="REF"><string>SI_844</string></f>
@@ -21940,6 +21974,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-145-fs">
 <f name="REF"><string>SI_515</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-146-fs">
 <f name="REF"><string>SI_7</string></f>
@@ -21972,26 +22007,32 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-153-fs">
 <f name="REF"><string>la petite maison</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-154-fs">
 <f name="REF"><string>oncle</string></f>
 <f name="NB MAILLONS"><string>69</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-155-fs">
 <f name="REF"><string>SI_223</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-156-fs">
 <f name="REF"><string>le moulin</string></f>
 <f name="NB MAILLONS"><string>24</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-157-fs">
 <f name="REF"><string>la rivière</string></f>
 <f name="NB MAILLONS"><string>7</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-158-fs">
 <f name="REF"><string>SI_257</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-159-fs">
 <f name="REF"><string>SI_551</string></f>
@@ -22012,10 +22053,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-163-fs">
 <f name="REF"><string>un jour</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-164-fs">
 <f name="REF"><string>SI_791</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-165-fs">
 <f name="REF"><string>SI_410</string></f>
@@ -22056,6 +22099,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-174-fs">
 <f name="REF"><string>SI_561</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-175-fs">
 <f name="REF"><string>SI_986</string></f>
@@ -22080,10 +22124,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-180-fs">
 <f name="REF"><string>SI_40</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-181-fs">
 <f name="REF"><string>Firmin et la narratrice</string></f>
 <f name="NB MAILLONS"><string>39</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-182-fs">
 <f name="REF"><string>SI_948</string></f>
@@ -22092,6 +22138,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-183-fs">
 <f name="REF"><string>SI_319</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-184-fs">
 <f name="REF"><string>SI_689</string></f>
@@ -22124,6 +22171,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-191-fs">
 <f name="REF"><string>la ruelle étroite</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-192-fs">
 <f name="REF"><string>SI_722</string></f>
@@ -22192,6 +22240,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-208-fs">
 <f name="REF"><string>SI_234</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-209-fs">
 <f name="REF"><string>SI_291</string></f>
@@ -22216,6 +22265,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-214-fs">
 <f name="REF"><string>SI_1069</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-215-fs">
 <f name="REF"><string>SI_507</string></f>
@@ -22224,6 +22274,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-216-fs">
 <f name="REF"><string>famille de la narratrice</string></f>
 <f name="NB MAILLONS"><string>24</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-217-fs">
 <f name="REF"><string>SI_154</string></f>
@@ -22236,6 +22287,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-219-fs">
 <f name="REF"><string>SI_884</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-220-fs">
 <f name="REF"><string>SI_991</string></f>
@@ -22244,10 +22296,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-221-fs">
 <f name="REF"><string>le jour</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-222-fs">
 <f name="REF"><string>l_école</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-223-fs">
 <f name="REF"><string>leçons de Firmin</string></f>
@@ -22260,6 +22314,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-225-fs">
 <f name="REF"><string>SI_82</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-226-fs">
 <f name="REF"><string>les fables</string></f>
@@ -22272,6 +22327,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-228-fs">
 <f name="REF"><string>SI_957</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-229-fs">
 <f name="REF"><string>une fable</string></f>
@@ -22292,10 +22348,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-233-fs">
 <f name="REF"><string>le laboureur</string></f>
 <f name="NB MAILLONS"><string>8</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-234-fs">
 <f name="REF"><string>la famille moins Firmin</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-235-fs">
 <f name="REF"><string>SI_302</string></f>
@@ -22316,10 +22374,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-239-fs">
 <f name="REF"><string>les enfants du laboureur</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-240-fs">
 <f name="REF"><string>SI_666</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-241-fs">
 <f name="REF"><string>SI_812</string></f>
@@ -22360,6 +22420,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-250-fs">
 <f name="REF"><string>SI_118</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-251-fs">
 <f name="REF"><string>SI_463</string></f>
@@ -22384,6 +22445,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-256-fs">
 <f name="REF"><string>SI_28</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-257-fs">
 <f name="REF"><string>SI_521</string></f>
@@ -22392,6 +22454,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-258-fs">
 <f name="REF"><string>SI_976</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-259-fs">
 <f name="REF"><string>SI_51</string></f>
@@ -22400,6 +22463,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-260-fs">
 <f name="REF"><string>l_église</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-261-fs">
 <f name="REF"><string>SI_956</string></f>
@@ -22436,6 +22500,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-269-fs">
 <f name="REF"><string>la Vierge</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
+<f name="TYPE REFERENT"><string>NO_PER</string></f>
 </fs>
 <fs id="s-CHAINE-270-fs">
 <f name="REF"><string>SI_16</string></f>
@@ -22468,6 +22533,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-277-fs">
 <f name="REF"><string>les trois plus jeunes</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-278-fs">
 <f name="REF"><string>SI_901</string></f>
@@ -22476,6 +22542,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-279-fs">
 <f name="REF"><string>l_appartement</string></f>
 <f name="NB MAILLONS"><string>7</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-280-fs">
 <f name="REF"><string>défense</string></f>
@@ -22484,6 +22551,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-281-fs">
 <f name="REF"><string>SI_797</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-282-fs">
 <f name="REF"><string>SI_424</string></f>
@@ -22492,22 +22560,27 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-284-fs">
 <f name="REF"><string>SI_303</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-283-fs">
 <f name="REF"><string>SI_711</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-285-fs">
 <f name="REF"><string>SI_760</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-286-fs">
 <f name="REF"><string>Sita</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-287-fs">
 <f name="REF"><string>Gigotar</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-288-fs">
 <f name="REF"><string>SI_430</string></f>
@@ -22544,6 +22617,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-296-fs">
 <f name="REF"><string>SI_869</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-297-fs">
 <f name="REF"><string>SI_690</string></f>
@@ -22672,6 +22746,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-328-fs">
 <f name="REF"><string>SI_67</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-329-fs">
 <f name="REF"><string>SI_773</string></f>
@@ -22696,6 +22771,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-334-fs">
 <f name="REF"><string>SI_484</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-335-fs">
 <f name="REF"><string>SI_130</string></f>
@@ -22720,6 +22796,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-340-fs">
 <f name="REF"><string>la Haie</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>GPE</string></f>
 </fs>
 <fs id="s-CHAINE-341-fs">
 <f name="REF"><string>SI_833</string></f>
@@ -22728,10 +22805,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-342-fs">
 <f name="REF"><string>des semaines de souffrance</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-343-fs">
 <f name="REF"><string>des mois</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-344-fs">
 <f name="REF"><string>des béquilles</string></f>
@@ -22764,10 +22843,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-351-fs">
 <f name="REF"><string>narratrice et ses parents</string></f>
 <f name="NB MAILLONS"><string>6</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-352-fs">
 <f name="REF"><string>la gare</string></f>
 <f name="NB MAILLONS"><string>5</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-353-fs">
 <f name="REF"><string>SI_954</string></f>
@@ -22788,14 +22869,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-357-fs">
 <f name="REF"><string>voiture de la narratrice</string></f>
 <f name="NB MAILLONS"><string>8</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-358-fs">
 <f name="REF"><string>SI_796</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-359-fs">
 <f name="REF"><string>le village</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>GPE</string></f>
 </fs>
 <fs id="s-CHAINE-360-fs">
 <f name="REF"><string>SI_93</string></f>
@@ -22804,6 +22888,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-361-fs">
 <f name="REF"><string>la campagne</string></f>
 <f name="NB MAILLONS"><string>5</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-362-fs">
 <f name="REF"><string>SI_228</string></f>
@@ -22816,10 +22901,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-364-fs">
 <f name="REF"><string>le printemps</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-365-fs">
 <f name="REF"><string>SI_886</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-366-fs">
 <f name="REF"><string>SI_1010</string></f>
@@ -22856,14 +22943,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-374-fs">
 <f name="REF"><string>la route</string></f>
 <f name="NB MAILLONS"><string>9</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-375-fs">
 <f name="REF"><string>Tante Rude</string></f>
 <f name="NB MAILLONS"><string>60</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-376-fs">
 <f name="REF"><string>SI_706</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-377-fs">
 <f name="REF"><string>SI_207</string></f>
@@ -22872,10 +22962,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-378-fs">
 <f name="REF"><string>SI_242</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-379-fs">
 <f name="REF"><string>SI_174</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-380-fs">
 <f name="REF"><string>SI_838</string></f>
@@ -22900,6 +22992,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-385-fs">
 <f name="REF"><string>le chemin</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-386-fs">
 <f name="REF"><string>SI_922</string></f>
@@ -22908,22 +23001,27 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-387-fs">
 <f name="REF"><string>maison de Manine</string></f>
 <f name="NB MAILLONS"><string>13</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-388-fs">
 <f name="REF"><string>Manine</string></f>
 <f name="NB MAILLONS"><string>100</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-389-fs">
 <f name="REF"><string>le garçon meunier</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-390-fs">
 <f name="REF"><string>SI_906</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-391-fs">
 <f name="REF"><string>SI_502</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-392-fs">
 <f name="REF"><string>le moment</string></f>
@@ -22932,6 +23030,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-393-fs">
 <f name="REF"><string>SI_541</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-394-fs">
 <f name="REF"><string>SI_735</string></f>
@@ -22956,6 +23055,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-399-fs">
 <f name="REF"><string>Tante Rude et oncle</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-400-fs">
 <f name="REF"><string>SI_766</string></f>
@@ -22964,6 +23064,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-401-fs">
 <f name="REF"><string>SI_885</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-402-fs">
 <f name="REF"><string>la porte de la maison de Manine</string></f>
@@ -22976,14 +23077,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-404-fs">
 <f name="REF"><string>SI_729</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-405-fs">
 <f name="REF"><string>SI_798</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-406-fs">
 <f name="REF"><string>SI_875</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-407-fs">
 <f name="REF"><string>deux noms</string></f>
@@ -22996,6 +23100,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-409-fs">
 <f name="REF"><string>SI_663</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-410-fs">
 <f name="REF"><string>SI_946</string></f>
@@ -23004,10 +23109,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-411-fs">
 <f name="REF"><string>SI_92</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-412-fs">
 <f name="REF"><string>SI_116</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-413-fs">
 <f name="REF"><string>SI_708</string></f>
@@ -23028,14 +23135,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-417-fs">
 <f name="REF"><string>SI_274</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-418-fs">
 <f name="REF"><string>Clémence</string></f>
 <f name="NB MAILLONS"><string>50</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-419-fs">
 <f name="REF"><string>SI_191</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-420-fs">
 <f name="REF"><string>SI_937</string></f>
@@ -23044,14 +23154,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-421-fs">
 <f name="REF"><string>SI_262</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-422-fs">
 <f name="REF"><string>SI_33</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-423-fs">
 <f name="REF"><string>SI_997</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-424-fs">
 <f name="REF"><string>SI_1011</string></f>
@@ -23064,6 +23177,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-426-fs">
 <f name="REF"><string>SI_373</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-427-fs">
 <f name="REF"><string>SI_135</string></f>
@@ -23140,18 +23254,22 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-445-fs">
 <f name="REF"><string>Manine et la narratrice</string></f>
 <f name="NB MAILLONS"><string>13</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-446-fs">
 <f name="REF"><string>SI_248</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-447-fs">
 <f name="REF"><string>SI_17</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-448-fs">
 <f name="REF"><string>SI_819</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-449-fs">
 <f name="REF"><string>SI_597</string></f>
@@ -23164,10 +23282,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-451-fs">
 <f name="REF"><string>SI_651</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-453-fs">
 <f name="REF"><string>SI_613</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-452-fs">
 <f name="REF"><string>SI_304</string></f>
@@ -23176,6 +23296,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-454-fs">
 <f name="REF"><string>le jardin</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-455-fs">
 <f name="REF"><string>ce qui me plaisait le plus</string></f>
@@ -23208,6 +23329,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-462-fs">
 <f name="REF"><string>le matin</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-463-fs">
 <f name="REF"><string>SI_452</string></f>
@@ -23244,6 +23366,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-471-fs">
 <f name="REF"><string>SI_212</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-472-fs">
 <f name="REF"><string>SI_1043</string></f>
@@ -23376,6 +23499,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-504-fs">
 <f name="REF"><string>les enfants2</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-505-fs">
 <f name="REF"><string>SI_780</string></f>
@@ -23392,6 +23516,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-508-fs">
 <f name="REF"><string>SI_84</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-509-fs">
 <f name="REF"><string>rappel des jours lointains</string></f>
@@ -23400,6 +23525,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-510-fs">
 <f name="REF"><string>SI_270</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-511-fs">
 <f name="REF"><string>la douceur</string></f>
@@ -23412,6 +23538,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-513-fs">
 <f name="REF"><string>le jour présent</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-514-fs">
 <f name="REF"><string>SI_528</string></f>
@@ -23420,6 +23547,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-515-fs">
 <f name="REF"><string>Paris</string></f>
 <f name="NB MAILLONS"><string>12</string></f>
+<f name="TYPE REFERENT"><string>GPE</string></f>
 </fs>
 <fs id="s-CHAINE-516-fs">
 <f name="REF"><string>le chagrin</string></f>
@@ -23432,6 +23560,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-518-fs">
 <f name="REF"><string>le train2</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-519-fs">
 <f name="REF"><string>SI_193</string></f>
@@ -23456,10 +23585,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-524-fs">
 <f name="REF"><string>SI_684</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-525-fs">
 <f name="REF"><string>SI_245</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-526-fs">
 <f name="REF"><string>un sommeil</string></f>
@@ -23496,6 +23627,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-534-fs">
 <f name="REF"><string>SI_324</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-535-fs">
 <f name="REF"><string>SI_334</string></f>
@@ -23504,6 +23636,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-536-fs">
 <f name="REF"><string>SI_806</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-537-fs">
 <f name="REF"><string>SI_3</string></f>
@@ -23528,6 +23661,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-542-fs">
 <f name="REF"><string>SI_519</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-543-fs">
 <f name="REF"><string>SI_595</string></f>
@@ -23540,10 +23674,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-545-fs">
 <f name="REF"><string>SI_286</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-546-fs">
 <f name="REF"><string>SI_362</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-547-fs">
 <f name="REF"><string>SI_305</string></f>
@@ -23552,26 +23688,32 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-548-fs">
 <f name="REF"><string>SI_841</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-550-fs">
 <f name="REF"><string>SI_171</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-549-fs">
 <f name="REF"><string>femmes filles enfants</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-552-fs">
 <f name="REF"><string>SI_477</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-551-fs">
 <f name="REF"><string>SI_143</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-553-fs">
 <f name="REF"><string>SI_36</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-554-fs">
 <f name="REF"><string>SI_609</string></f>
@@ -23588,30 +23730,37 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-557-fs">
 <f name="REF"><string>SI_540</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-558-fs">
 <f name="REF"><string>des charettes</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-559-fs">
 <f name="REF"><string>SI_402</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-560-fs">
 <f name="REF"><string>SI_835</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-561-fs">
 <f name="REF"><string>le sentier</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-562-fs">
 <f name="REF"><string>SI_641</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-563-fs">
 <f name="REF"><string>SI_119</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-564-fs">
 <f name="REF"><string>SI_1023</string></f>
@@ -23620,6 +23769,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-565-fs">
 <f name="REF"><string>SI_271</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-566-fs">
 <f name="REF"><string>SI_125</string></f>
@@ -23648,6 +23798,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-572-fs">
 <f name="REF"><string>SI_556</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-573-fs">
 <f name="REF"><string>SI_295</string></f>
@@ -23660,10 +23811,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-575-fs">
 <f name="REF"><string>Reine</string></f>
 <f name="NB MAILLONS"><string>85</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-576-fs">
 <f name="REF"><string>SI_489</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-577-fs">
 <f name="REF"><string>SI_308</string></f>
@@ -23712,6 +23865,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-588-fs">
 <f name="REF"><string>SI_686</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-589-fs">
 <f name="REF"><string>SI_361</string></f>
@@ -23832,18 +23986,22 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-618-fs">
 <f name="REF"><string>Mme Lapierre</string></f>
 <f name="NB MAILLONS"><string>28</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-619-fs">
 <f name="REF"><string>SI_387</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-620-fs">
 <f name="REF"><string>SI_982</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-621-fs">
 <f name="REF"><string>SI_817</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-622-fs">
 <f name="REF"><string>SI_300</string></f>
@@ -23852,6 +24010,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-623-fs">
 <f name="REF"><string>SI_496</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-624-fs">
 <f name="REF"><string>les béquilles</string></f>
@@ -23860,6 +24019,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-625-fs">
 <f name="REF"><string>SI_631</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-626-fs">
 <f name="REF"><string>SI_279</string></f>
@@ -23868,14 +24028,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-627-fs">
 <f name="REF"><string>Jean</string></f>
 <f name="NB MAILLONS"><string>13</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-628-fs">
 <f name="REF"><string>SI_256</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-629-fs">
 <f name="REF"><string>SI_799</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-630-fs">
 <f name="REF"><string>SI_190</string></f>
@@ -23888,6 +24051,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-632-fs">
 <f name="REF"><string>SI_27</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-633-fs">
 <f name="REF"><string>SI_688</string></f>
@@ -23936,10 +24100,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-644-fs">
 <f name="REF"><string>SI_56</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-645-fs">
 <f name="REF"><string>SI_533</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-646-fs">
 <f name="REF"><string>SI_113</string></f>
@@ -23964,6 +24130,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-651-fs">
 <f name="REF"><string>SI_642</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-652-fs">
 <f name="REF"><string>le gros noyer</string></f>
@@ -23972,6 +24139,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-653-fs">
 <f name="REF"><string>SI_829</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-654-fs">
 <f name="REF"><string>SI_650</string></f>
@@ -23984,6 +24152,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-656-fs">
 <f name="REF"><string>SI_513</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-657-fs">
 <f name="REF"><string>SI_59</string></f>
@@ -23992,6 +24161,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-658-fs">
 <f name="REF"><string>Mme Lapierre et la narratrice</string></f>
 <f name="NB MAILLONS"><string>13</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-659-fs">
 <f name="REF"><string>SI_999</string></f>
@@ -24080,6 +24250,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-681-fs">
 <f name="REF"><string>SI_156</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-680-fs">
 <f name="REF"><string>SI_178</string></f>
@@ -24092,6 +24263,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-683-fs">
 <f name="REF"><string>le coteau d_en face</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-685-fs">
 <f name="REF"><string>SI_371</string></f>
@@ -24116,6 +24288,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-689-fs">
 <f name="REF"><string>les chemins</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-690-fs">
 <f name="REF"><string>SI_1056</string></f>
@@ -24128,6 +24301,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-692-fs">
 <f name="REF"><string>SI_662</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-693-fs">
 <f name="REF"><string>troupeaux paisibles</string></f>
@@ -24164,14 +24338,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-701-fs">
 <f name="REF"><string>SI_499</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-702-fs">
 <f name="REF"><string>l_étendue du plateau</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-703-fs">
 <f name="REF"><string>SI_497</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-704-fs">
 <f name="REF"><string>SI_1033</string></f>
@@ -24224,10 +24401,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-716-fs">
 <f name="REF"><string>SI_236</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-717-fs">
 <f name="REF"><string>SI_1054</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-718-fs">
 <f name="REF"><string>SI_233</string></f>
@@ -24236,10 +24415,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-719-fs">
 <f name="REF"><string>SI_1026</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-720-fs">
 <f name="REF"><string>SI_6</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-721-fs">
 <f name="REF"><string>SI_15</string></f>
@@ -24268,6 +24449,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-727-fs">
 <f name="REF"><string>les filles</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-728-fs">
 <f name="REF"><string>SI_1061</string></f>
@@ -24300,6 +24482,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-735-fs">
 <f name="REF"><string>SI_1037</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-736-fs">
 <f name="REF"><string>SI_673</string></f>
@@ -24328,6 +24511,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-742-fs">
 <f name="REF"><string>la nouvelle femme de ménage</string></f>
 <f name="NB MAILLONS"><string>13</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-743-fs">
 <f name="REF"><string>SI_176</string></f>
@@ -24336,6 +24520,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-744-fs">
 <f name="REF"><string>SI_944</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-745-fs">
 <f name="REF"><string>des choses</string></f>
@@ -24396,6 +24581,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-759-fs">
 <f name="REF"><string>SI_539</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-760-fs">
 <f name="REF"><string>SI_550</string></f>
@@ -24416,10 +24602,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-764-fs">
 <f name="REF"><string>SI_368</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-765-fs">
 <f name="REF"><string>SI_581</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-766-fs">
 <f name="REF"><string>SI_353</string></f>
@@ -24432,6 +24620,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-768-fs">
 <f name="REF"><string>l_automne</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-769-fs">
 <f name="REF"><string>SI_959</string></f>
@@ -24440,6 +24629,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-770-fs">
 <f name="REF"><string>SI_1046</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-771-fs">
 <f name="REF"><string>ennui</string></f>
@@ -24448,6 +24638,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-772-fs">
 <f name="REF"><string>SI_292</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-773-fs">
 <f name="REF"><string>SI_412</string></f>
@@ -24476,6 +24667,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-779-fs">
 <f name="REF"><string>SI_644</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-780-fs">
 <f name="REF"><string>SI_404</string></f>
@@ -24500,10 +24692,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-785-fs">
 <f name="REF"><string>SI_584</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-786-fs">
 <f name="REF"><string>SI_768</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-787-fs">
 <f name="REF"><string>SI_939</string></f>
@@ -24532,6 +24726,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-793-fs">
 <f name="REF"><string>SI_448</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-794-fs">
 <f name="REF"><string>SI_893</string></f>
@@ -24556,14 +24751,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-799-fs">
 <f name="REF"><string>un nourisson de Paris</string></f>
 <f name="NB MAILLONS"><string>7</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-800-fs">
 <f name="REF"><string>SI_795</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-801-fs">
 <f name="REF"><string>SI_565</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-802-fs">
 <f name="REF"><string>SI_106</string></f>
@@ -24584,6 +24782,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-806-fs">
 <f name="REF"><string>SI_478</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-807-fs">
 <f name="REF"><string>SI_24</string></f>
@@ -24592,6 +24791,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-808-fs">
 <f name="REF"><string>SI_658</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-809-fs">
 <f name="REF"><string>le biberon générique</string></f>
@@ -24604,6 +24804,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-811-fs">
 <f name="REF"><string>SI_8</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-812-fs">
 <f name="REF"><string>SI_748</string></f>
@@ -24612,6 +24813,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-813-fs">
 <f name="REF"><string>SI_306</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-814-fs">
 <f name="REF"><string>SI_632</string></f>
@@ -24668,6 +24870,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-827-fs">
 <f name="REF"><string>SI_636</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-828-fs">
 <f name="REF"><string>SI_94</string></f>
@@ -24692,6 +24895,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-833-fs">
 <f name="REF"><string>SI_379</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-834-fs">
 <f name="REF"><string>SI_1028</string></f>
@@ -24712,6 +24916,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-838-fs">
 <f name="REF"><string>SI_152</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-839-fs">
 <f name="REF"><string>une véritable crise</string></f>
@@ -24840,6 +25045,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-870-fs">
 <f name="REF"><string>SI_709</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-871-fs">
 <f name="REF"><string>SI_1019</string></f>
@@ -24960,6 +25166,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-900-fs">
 <f name="REF"><string>SI_928</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-901-fs">
 <f name="REF"><string>SI_296</string></f>
@@ -24984,6 +25191,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-906-fs">
 <f name="REF"><string>SI_138</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-907-fs">
 <f name="REF"><string>SI_592</string></f>
@@ -24992,6 +25200,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-908-fs">
 <f name="REF"><string>SI_516</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-909-fs">
 <f name="REF"><string>récompense</string></f>
@@ -25008,10 +25217,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-912-fs">
 <f name="REF"><string>SI_759</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-913-fs">
 <f name="REF"><string>les jours</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-914-fs">
 <f name="REF"><string>SI_104</string></f>
@@ -25044,6 +25255,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-921-fs">
 <f name="REF"><string>SI_64</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-922-fs">
 <f name="REF"><string>SI_456</string></f>
@@ -25096,6 +25308,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-934-fs">
 <f name="REF"><string>SI_596</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-935-fs">
 <f name="REF"><string>un plat</string></f>
@@ -25208,6 +25421,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-962-fs">
 <f name="REF"><string>SI_802</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-963-fs">
 <f name="REF"><string>SI_23</string></f>
@@ -25220,6 +25434,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-965-fs">
 <f name="REF"><string>SI_339</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-966-fs">
 <f name="REF"><string>une chaise</string></f>
@@ -25232,6 +25447,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-968-fs">
 <f name="REF"><string>bicyclette</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-969-fs">
 <f name="REF"><string>SI_549</string></f>
@@ -25240,6 +25456,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-971-fs">
 <f name="REF"><string>SI_111</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-970-fs">
 <f name="REF"><string>SI_603</string></f>
@@ -25248,6 +25465,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-972-fs">
 <f name="REF"><string>SI_778</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-973-fs">
 <f name="REF"><string>SI_1072</string></f>
@@ -25260,6 +25478,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-975-fs">
 <f name="REF"><string>les maladroits</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-976-fs">
 <f name="REF"><string>SI_548</string></f>
@@ -25268,10 +25487,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-977-fs">
 <f name="REF"><string>la rue barrée</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-978-fs">
 <f name="REF"><string>un agent de police</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-979-fs">
 <f name="REF"><string>SI_320</string></f>
@@ -25304,6 +25525,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-986-fs">
 <f name="REF"><string>SI_933</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-987-fs">
 <f name="REF"><string>SI_505</string></f>
@@ -25368,14 +25590,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1002-fs">
 <f name="REF"><string>l_hiver</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1003-fs">
 <f name="REF"><string>SI_679</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1004-fs">
 <f name="REF"><string>SI_485</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1005-fs">
 <f name="REF"><string>une solide canne</string></f>
@@ -25384,6 +25609,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1006-fs">
 <f name="REF"><string>SI_624</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1007-fs">
 <f name="REF"><string>SI_290</string></f>
@@ -25484,6 +25710,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1031-fs">
 <f name="REF"><string>SI_277</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1032-fs">
 <f name="REF"><string>SI_882</string></f>
@@ -25660,6 +25887,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1075-fs">
 <f name="REF"><string>SI_647</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1077-fs">
 <f name="REF"><string>les foins</string></f>
@@ -25732,6 +25960,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1093-fs">
 <f name="REF"><string>SI_182</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1094-fs">
 <f name="REF"><string>une grande nouvelle</string></f>
@@ -25744,14 +25973,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1096-fs">
 <f name="REF"><string>samedi soir</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1097-fs">
 <f name="REF"><string>SI_1032</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1098-fs">
 <f name="REF"><string>SI_851</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1099-fs">
 <f name="REF"><string>SI_582</string></f>
@@ -25768,14 +26000,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1102-fs">
 <f name="REF"><string>SI_206</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1103-fs">
 <f name="REF"><string>SI_132</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1104-fs">
 <f name="REF"><string>SI_557</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1105-fs">
 <f name="REF"><string>SI_105</string></f>
@@ -25784,6 +26019,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1106-fs">
 <f name="REF"><string>les trains</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-1107-fs">
 <f name="REF"><string>SI_977</string></f>
@@ -25808,6 +26044,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1112-fs">
 <f name="REF"><string>cette heure</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1113-fs">
 <f name="REF"><string>SI_972</string></f>
@@ -25848,6 +26085,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1122-fs">
 <f name="REF"><string>SI_232</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1123-fs">
 <f name="REF"><string>SI_943</string></f>
@@ -25868,10 +26106,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1127-fs">
 <f name="REF"><string>Angèle et Firmin</string></f>
 <f name="NB MAILLONS"><string>12</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1128-fs">
 <f name="REF"><string>SI_160</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1129-fs">
 <f name="REF"><string>SI_723</string></f>
@@ -25880,6 +26120,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1130-fs">
 <f name="REF"><string>SI_396</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1131-fs">
 <f name="REF"><string>SI_846</string></f>
@@ -25920,14 +26161,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1140-fs">
 <f name="REF"><string>SI_439</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1141-fs">
 <f name="REF"><string>SI_354</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1142-fs">
 <f name="REF"><string>SI_70</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1143-fs">
 <f name="REF"><string>SI_200</string></f>
@@ -25960,6 +26204,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1150-fs">
 <f name="REF"><string>SI_1062</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1151-fs">
 <f name="REF"><string>SI_352</string></f>
@@ -25988,10 +26233,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1157-fs">
 <f name="REF"><string>SI_173</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1158-fs">
 <f name="REF"><string>le quai</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1159-fs">
 <f name="REF"><string>SI_889</string></f>
@@ -26032,18 +26279,22 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1168-fs">
 <f name="REF"><string>SI_753</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1169-fs">
 <f name="REF"><string>le train</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-1170-fs">
 <f name="REF"><string>la voiture</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-1171-fs">
 <f name="REF"><string>SI_25</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-1172-fs">
 <f name="REF"><string>SI_994</string></f>
@@ -26052,6 +26303,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1173-fs">
 <f name="REF"><string>SI_590</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1174-fs">
 <f name="REF"><string>SI_261</string></f>
@@ -26076,6 +26328,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1179-fs">
 <f name="REF"><string>SI_646</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1180-fs">
 <f name="REF"><string>SI_151</string></f>
@@ -26088,6 +26341,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1182-fs">
 <f name="REF"><string>SI_251</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-1183-fs">
 <f name="REF"><string>SI_226</string></f>
@@ -26136,6 +26390,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1194-fs">
 <f name="REF"><string>SI_611</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1195-fs">
 <f name="REF"><string>SI_675</string></f>
@@ -26168,6 +26423,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1202-fs">
 <f name="REF"><string>SI_514</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1203-fs">
 <f name="REF"><string>la demande en divorce</string></f>
@@ -26196,14 +26452,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1210-fs">
 <f name="REF"><string>SI_617</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-1209-fs">
 <f name="REF"><string>SI_264</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-1211-fs">
 <f name="REF"><string>SI_45</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-1212-fs">
 <f name="REF"><string>SI_509</string></f>
@@ -26224,6 +26483,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1216-fs">
 <f name="REF"><string>SI_620</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1217-fs">
 <f name="REF"><string>SI_874</string></f>
@@ -26236,10 +26496,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1219-fs">
 <f name="REF"><string>SI_892</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1220-fs">
 <f name="REF"><string>toutes les filles</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1221-fs">
 <f name="REF"><string>SI_849</string></f>
@@ -26276,6 +26538,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1229-fs">
 <f name="REF"><string>SI_328</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1230-fs">
 <f name="REF"><string>SI_318</string></f>
@@ -26304,6 +26567,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1236-fs">
 <f name="REF"><string>le faucheur</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1237-fs">
 <f name="REF"><string>SI_577</string></f>
@@ -26324,6 +26588,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1241-fs">
 <f name="REF"><string>le faucheur suivant</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1242-fs">
 <f name="REF"><string>SI_998</string></f>
@@ -26344,10 +26609,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1246-fs">
 <f name="REF"><string>SI_487</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-1247-fs">
 <f name="REF"><string>SI_782</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-1248-fs">
 <f name="REF"><string>SI_421</string></f>
@@ -26372,6 +26639,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1253-fs">
 <f name="REF"><string>SI_661</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1254-fs">
 <f name="REF"><string>ce travail trop dur</string></f>
@@ -26388,6 +26656,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1257-fs">
 <f name="REF"><string>SI_333</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1258-fs">
 <f name="REF"><string>SI_429</string></f>
@@ -26396,6 +26665,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1259-fs">
 <f name="REF"><string>les hommes</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1260-fs">
 <f name="REF"><string>SI_355</string></f>
@@ -26436,6 +26706,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1269-fs">
 <f name="REF"><string>SI_704</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1270-fs">
 <f name="REF"><string>SI_63</string></f>
@@ -26444,6 +26715,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1271-fs">
 <f name="REF"><string>SI_230</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1272-fs">
 <f name="REF"><string>SI_380</string></f>
@@ -26456,6 +26728,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1274-fs">
 <f name="REF"><string>des matins</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1275-fs">
 <f name="REF"><string>SI_700</string></f>
@@ -26476,6 +26749,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1279-fs">
 <f name="REF"><string>SI_347</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1280-fs">
 <f name="REF"><string>SI_915</string></f>
@@ -26488,6 +26762,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1282-fs">
 <f name="REF"><string>SI_141</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1283-fs">
 <f name="REF"><string>SI_282</string></f>
@@ -26512,6 +26787,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1288-fs">
 <f name="REF"><string>une nuit</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1289-fs">
 <f name="REF"><string>SI_847</string></f>
@@ -26632,14 +26908,17 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1318-fs">
 <f name="REF"><string>SI_441</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1319-fs">
 <f name="REF"><string>Clémence et Nicole</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1320-fs">
 <f name="REF"><string>SI_920</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1321-fs">
 <f name="REF"><string>SI_763</string></f>
@@ -26656,6 +26935,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1324-fs">
 <f name="REF"><string>les enfants3</string></f>
 <f name="NB MAILLONS"><string>15</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1325-fs">
 <f name="REF"><string>SI_968</string></f>
@@ -26672,10 +26952,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1328-fs">
 <f name="REF"><string>dimanche</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1329-fs">
 <f name="REF"><string>SI_475</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-1330-fs">
 <f name="REF"><string>SI_365</string></f>
@@ -26700,10 +26982,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1335-fs">
 <f name="REF"><string>SI_604</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1336-fs">
 <f name="REF"><string>des navires magnifiques</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-1337-fs">
 <f name="REF"><string>SI_912</string></f>
@@ -26728,30 +27012,37 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1342-fs">
 <f name="REF"><string>SI_953</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1343-fs">
 <f name="REF"><string>une grande automobile</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-1344-fs">
 <f name="REF"><string>Gaston</string></f>
 <f name="NB MAILLONS"><string>15</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1345-fs">
 <f name="REF"><string>SI_195</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-1346-fs">
 <f name="REF"><string>SI_701</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1347-fs">
 <f name="REF"><string>la mer</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-1348-fs">
 <f name="REF"><string>SI_864</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>TIME</string></f>
 </fs>
 <fs id="s-CHAINE-1349-fs">
 <f name="REF"><string>SI_789</string></f>
@@ -26760,6 +27051,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1350-fs">
 <f name="REF"><string>SI_659</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1351-fs">
 <f name="REF"><string>le poisson</string></f>
@@ -26768,6 +27060,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1352-fs">
 <f name="REF"><string>un canot à vapeur</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-1353-fs">
 <f name="REF"><string>SI_911</string></f>
@@ -26776,6 +27069,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1354-fs">
 <f name="REF"><string>SI_931</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>GPE</string></f>
 </fs>
 <fs id="s-CHAINE-1355-fs">
 <f name="REF"><string>SI_377</string></f>
@@ -26784,6 +27078,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1356-fs">
 <f name="REF"><string>SI_1018</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
 <fs id="s-CHAINE-1357-fs">
 <f name="REF"><string>SI_219</string></f>
@@ -26796,10 +27091,12 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1359-fs">
 <f name="REF"><string>SI_771</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-1360-fs">
 <f name="REF"><string>SI_1016</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
+<f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
 <fs id="s-CHAINE-1361-fs">
 <f name="REF"><string>SI_260</string></f>
@@ -26816,6 +27113,7 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1364-fs">
 <f name="REF"><string>un tramway</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
+<f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
 <fs id="s-CHAINE-1365-fs">
 <f name="REF"><string>SI_737</string></f>
