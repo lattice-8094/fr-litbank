@@ -14,7 +14,7 @@ We use a subset of the files from [Democrat](https://www.ortolang.fr/market/corp
 |1856|Victor Cousin|Madame de Hautefort|ok||			
 |1863|Théophile Gautier|Le capitaine Fracasse|ok|ok|
 |1873|Émile Zola|Le ventre de Paris|ok|ok|
-|1881|Gustave Flaubert|Bouvard et Pécuchet|ok||
+|1881|Gustave Flaubert|Bouvard et Pécuchet|ok|ok|
 |1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (1)|ok||
 |1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (2)|ok|ok|
 |1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (3)|||
@@ -24,5 +24,5 @@ We use a subset of the files from [Democrat](https://www.ortolang.fr/market/corp
 |1904-1912|Romain Rolland|Jean-Christophe (2)|||
 |1917|Adèle Bourgeois|Némoville|ok|ok|
 |1923|Raymond Radiguet|Le diable au corps|ok|ok|
-|1926|Marguerite Audoux|De la ville au moulin|ok||
+|1926|Marguerite Audoux|De la ville au moulin|ok|ok|
 |1937|Marguerite Audoux|Douce Lumière|ok|ok|

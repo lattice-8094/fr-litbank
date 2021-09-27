@@ -1,0 +1,923 @@
+T1	EVENT 68 76	chaleur 
+T2	EVENT 578 585	rumeur 
+T3	EVENT 739 747	parurent
+T4	EVENT 755 762	venait 
+T5	EVENT 1052 1067	furent arrivés 
+T6	EVENT 1095 1105	s'assirent
+T7	EVENT 1149 1167	s'essuyer le front
+T8	EVENT 1173 1199	retirèrent leurs coiffures
+T9	EVENT 1212 1229	posa près de soi 
+T10	EVENT 1249 1256	aperçut
+T11	EVENT 1327 1339	distinguait 
+T12	EVENT 1423 1426	dit
+T13	EVENT 1436 1457	avons eu la même idée
+T14	EVENT 1618 1634	se considérèrent
+T15	EVENT 1665 1672	charma 
+T16	EVENT 2013 2066	poussait du bout des lèvres une espèce de sifflement 
+T17	EVENT 2078 2090	air sérieux 
+T18	EVENT 2102 2109	frappa 
+T19	EVENT 2452 2464	exclamation 
+T20	EVENT 2464 2476	lui échappa 
+T21	EVENT 2711 2716	yeux 
+T22	EVENT 2716 2748	erraient sur des tas de pierres 
+T23	EVENT 2866 2874	miasmes 
+T24	EVENT 2882 2894	s'exhalaient
+T25	EVENT 2900 2929	se tournèrent de l'autre côté
+T26	EVENT 3100 3135	l'engagea à mettre bas sa redingote
+T27	EVENT 3112 3135	mettre bas sa redingote
+T28	EVENT 3201 3232	traversa en zigzag le trottoir 
+T29	EVENT 3265 3302	entamèrent une conversation politique
+T30	EVENT 3319 3336	étaient les mêmes
+T31	EVENT 3387 3393	bruit 
+T32	EVENT 3407 3425	sonna sur le pavé 
+T33	EVENT 3475 3484	calèches 
+T34	EVENT 3498 3512	s'en allaient 
+T35	EVENT 3524 3534	promenant 
+T36	EVENT 3538 3545	mariée 
+T37	EVENT 3700 3704	vue 
+T38	EVENT 3713 3718	noce 
+T39	EVENT 3718 3763	amena Bouvard et Pécuchet à parler des femmes
+T40	EVENT 4015 4019	dit 
+T41	EVENT 4159 4165	parut 
+T42	EVENT 4258 4293	s'appuyait sur le bras du militaire
+T43	EVENT 4295 4319	en traînant des savates 
+T44	EVENT 4322 4343	balançant les hanches
+T45	EVENT 4357 4370	fut plus loin
+T46	EVENT 4380 4404	se permit une réflexion 
+T47	EVENT 4422 4439	devint très rouge
+T48	EVENT 4486 4514	désigna du regard un prêtre 
+T49	EVENT 4518 4528	s'avançait
+T50	EVENT 4533 4548	ecclésiastique 
+T51	EVENT 4548 4558	descendit 
+T52	EVENT 4673 4691	se déclara soulagé
+T53	EVENT 4809 4820	crépuscule 
+T54	EVENT 4820 4827	tombait
+T55	EVENT 4888 4911	devinrent plus nombreux
+T56	EVENT 4943 4951	paroles 
+T57	EVENT 4951 4961	coulaient 
+T58	EVENT 4983 4993	remarques 
+T59	EVENT 5007 5016	anecdotes
+T60	EVENT 5022 5045	aperçus philosophiques 
+T61	EVENT 5083 5095	dénigrèrent 
+T62	EVENT 5269 5289	en écoutant l'autre 
+T63	EVENT 5289 5332	retrouvait des parties de lui-même oubliées
+T64	EVENT 5394 5424	éprouvaient un plaisir nouveau
+T65	EVENT 5468 5479	tendresses 
+T66	EVENT 5494 5505	Vingt fois 
+T67	EVENT 5509 5524	s'étaient levés
+T68	EVENT 5526 5543	s'étaient rassis 
+T69	EVENT 5546 5583	avaient fait la longueur du boulevard
+T70	EVENT 5646 5664	voulant s'en aller
+T71	EVENT 5666 5689	n'en ayant pas la force
+T72	EVENT 5691 5718	retenus par une fascination
+T73	EVENT 5725 5739	se quittaient 
+T74	EVENT 5758 5764	mains 
+T75	EVENT 5764 5779	étaient jointes
+T76	EVENT 5795 5799	dit 
+T77	EVENT 5875 5882	reprit 
+T78	EVENT 5938 5957	se laissa conduire 
+T79	EVENT 6041 6057	commanda le menu
+T80	EVENT 6150 6161	discussion 
+T81	EVENT 6184 6224	glorifièrent les avantages des sciences 
+T82	EVENT 6339 6357	levèrent les bras 
+T83	EVENT 6359 6369	étonnement
+T84	EVENT 6375 6398	faillirent s'embrasser 
+T85	EVENT 6418 6432	en découvrant 
+T86	EVENT 6439 6469	étaient tous les deux copistes
+T87	EVENT 6629 6678	avait noté des fautes dans l'ouvrage de M. Thiers
+T88	EVENT 6686 6741	parla avec le plus grand respect d'un certain Dumouchel
+T89	EVENT 6849 6869	battait la rémolade 
+T90	EVENT 6919 6927	mangeait
+T91	EVENT 6970 7020	en débitant des choses qui faisaient rire Pécuchet
+T92	EVENT 7033 7038	rire 
+T93	EVENT 7038 7049	particulier
+T94	EVENT 7151 7158	contenu
+T95	EVENT 7160 7166	sonore
+T96	EVENT 7190 7214	lui secouait les épaules
+T97	EVENT 7248 7265	s'en retournaient
+T98	EVENT 7271 7281	repas fini
+T99	EVENT 7287 7312	allèrent prendre le café 
+T100	EVENT 7351 7381	en contemplant les becs de gaz
+T101	EVENT 7383 7415	gémit sur le débordement du luxe
+T102	EVENT 7428 7434	geste 
+T103	EVENT 7446 7465	écarta les journaux
+T104	EVENT 7620 7655	voulut faire des tours d'équilibre 
+T105	EVENT 7664 7681	queue de billard 
+T106	EVENT 7689 7696	boules 
+T107	EVENT 7772 7781	tombaient
+T108	EVENT 7787 7811	roulant sur le plancher 
+T109	EVENT 7843 7862	allaient se perdre 
+T110	EVENT 7886 7930	se levait toutes les fois pour les chercher 
+T111	EVENT 7967 7988	finit par se plaindre
+T112	EVENT 7999 8025	eut une querelle avec lui 
+T113	EVENT 8041 8048	survint
+T114	EVENT 8053 8078	n'écouta pas ses excuses 
+T115	EVENT 8086 8113	chicana sur la consommation
+T116	EVENT 8119 8127	proposa 
+T117	EVENT 8179 8187	domicile
+T118	EVENT 8247 8279	endossa une manière de camisole 
+T119	EVENT 8294 8329	fit les honneurs de son appartement
+T120	EVENT 9043 9084	demanda la permission d'ouvrir la fenêtre
+T121	EVENT 9118 9126	s'écria 
+T122	EVENT 9194 9203	haletait 
+T123	EVENT 9300 9304	dit 
+T124	EVENT 9374 9388	baissa la tête
+T125	EVENT 9480 9487	reprit 
+T126	EVENT 9546 9565	repassa ses bottes 
+T127	EVENT 9565 9579	en grommelant 
+T128	EVENT 9652 9680	l'accompagna jusque chez lui
+T129	EVENT 10089 10093	dit 
+T130	EVENT 10109 10118	flambeau 
+T131	EVENT 10131 10150	éclaira un monsieur
+T132	EVENT 10480 10506	ne put s'empêcher de dire 
+T133	EVENT 10574 10583	répliqua 
+T134	EVENT 10605 10614	ajoutant 
+T135	EVENT 10620 10631	s'appelait 
+T136	EVENT 10638 10654	noms de baptême 
+T137	EVENT 10749 10758	même âge 
+T138	EVENT 10785 10797	coïncidence 
+T139	EVENT 10797 10813	leur fit plaisir
+T140	EVENT 10820 10831	les surprit
+T141	EVENT 11092 11116	s'étant donné l'adresse 
+T142	EVENT 11138 11168	se souhaitèrent une bonne nuit
+T143	EVENT 11202 11207	cria 
+T144	EVENT 11242 11264	descendit les marches 
+T145	EVENT 11264 11278	sans répondre 
+T146	EVENT 11391 11396	voix 
+T147	EVENT 11396 11403	appela 
+T148	EVENT 11447 11478	passa la tête par les carreaux 
+T149	EVENT 11481 11499	reconnut Pécuchet 
+T150	EVENT 11503 11522	articula plus fort 
+T151	EVENT 11594 11598	dit 
+T152	EVENT 11644 11664	propos de la journée
+T153	EVENT 11735 11762	l'avaient empêché de dormir
+T154	EVENT 11848 11874	s'était rappelé son action
+T155	EVENT 11913 11940	venait en instruire Bouvard
+T156	EVENT 11955 12006	fut placé dans son estime à une prodigieuse hauteur
+T157	EVENT 12049 12074	n'avait pas connu sa mère
+T158	EVENT 12143 12169	le mettre chez un huissier
+T159	EVENT 12185 12197	y survinrent
+T160	EVENT 12212 12235	fut envoyé aux galères 
+T161	EVENT 12259 12292	lui causait encore de l'épouvante
+T162	EVENT 12306 12338	avait essayé de plusieurs états 
+T163	EVENT 12480 12517	l'avait engagé comme expéditionnaire 
+T164	EVENT 12904 12927	l'avait emmené à Paris 
+T165	EVENT 12977 13008	lui versa quelques mille francs
+T166	EVENT 13019 13036	avait pris femme 
+T167	EVENT 13039 13071	ouvert une boutique de confiseur
+T168	EVENT 13097 13104	épouse 
+T169	EVENT 13104 13118	disparaissait 
+T170	EVENT 13118 13140	en emportant la caisse
+T171	EVENT 13211 13226	achevé sa ruine
+T172	EVENT 13242 13254	inspiration 
+T173	EVENT 13256 13279	utiliser sa belle main 
+T174	EVENT 13291 13300	douze ans
+T175	EVENT 13305 13333	se tenait dans la même place
+T176	EVENT 13426 13477	lui avait expédié comme souvenir le fameux portrait
+T177	EVENT 13601 13621	permettaient d'aller
+T178	EVENT 13685 13695	rencontre 
+T179	EVENT 13695 13731	avait eu l'importance d'une aventure
+T180	EVENT 13763 13796	accrochés par des fibres secrètes
+T181	EVENT 14067 14080	se tutoyèrent
+T182	EVENT 14096 14117	venaient se chercher 
+T183	EVENT 14147 14157	paraissait
+T184	EVENT 14167 14186	fermait son pupitre
+T185	EVENT 14195 14218	s'en allaient ensemble 
+T186	EVENT 14241 14269	marchait à grandes enjambées
+T187	EVENT 14359 14393	semblait glisser sur des roulettes
+T188	EVENT 14409 14415	goûts 
+T189	EVENT 14428 14443	s'harmonisaient
+T190	EVENT 14742 14793	voulut faire à Pécuchet la connaissance de Barberou
+T191	EVENT 14944 14965	le trouva déplaisant 
+T192	EVENT 14968 15003	il conduisit Bouvard chez Dumouchel
+T193	EVENT 15009 15016	auteur 
+T194	EVENT 15062 15096	donnait des leçons de littérature 
+T195	EVENT 15191 15198	ennuya 
+T196	EVENT 15223 15258	n'avait caché à l'autre son opinion
+T197	EVENT 15267 15290	en reconnut la justesse
+T198	EVENT 15298 15308	habitudes 
+T199	EVENT 15308 15319	changèrent 
+T200	EVENT 15361 15403	finirent par dîner ensemble tous les jours
+T201	EVENT 15410 15435	faisaient des réflexions 
+T202	EVENT 15610 15639	revenait dans leurs discours 
+T203	EVENT 15654 15693	cherchaient les causes de la Révolution
+T204	EVENT 15700 15710	flânaient 
+T205	EVENT 15752 15763	visitèrent 
+T206	EVENT 15888 15912	demandait leur passeport
+T207	EVENT 15918 15949	faisaient mine de l'avoir perdu
+T208	EVENT 15951 15981	se donnant pour deux étrangers
+T209	EVENT 16031 16041	passèrent 
+T210	EVENT 16046 16059	ébahissement 
+T211	EVENT 16098 16106	plaisir 
+T212	EVENT 16133 16146	indifférence 
+T213	EVENT 16157 16164	métaux 
+T214	EVENT 16179 16195	les firent rêver
+T215	EVENT 16215 16225	les ennuya
+T216	EVENT 16231 16243	examinèrent 
+T217	EVENT 16281 16291	frémirent 
+T218	EVENT 16291 16303	en songeant 
+T219	EVENT 16363 16374	admirèrent 
+T220	EVENT 16433 16447	s'efforcèrent 
+T221	EVENT 16460 16488	s'enthousiasmer pour Raphaël
+T222	EVENT 16575 16583	Une fois
+T223	EVENT 16589 16616	entrèrent au cours d'arabe 
+T224	EVENT 16655 16692	fut étonné de voir ces deux inconnus 
+T225	EVENT 16696 16726	tâchaient de prendre des notes
+T226	EVENT 16750 16781	pénétrèrent dans les coulisses 
+T227	EVENT 16792 16799	théâtre
+T228	EVENT 16811 16836	leur procura des billets 
+T229	EVENT 16845 16852	séance 
+T230	EVENT 16871 16885	s'informaient 
+T231	EVENT 16902 16925	lisaient les prospectus
+T232	EVENT 16957 16970	intelligence 
+T233	EVENT 16970 16982	se développa
+T234	EVENT 17097 17124	En admirant un vieux meuble
+T235	EVENT 17130 17174	regrettaient de n'avoir pas vécu à l'époque 
+T236	EVENT 17201 17213	ignorassent 
+T237	EVENT 17271 17292	imaginaient des pays 
+T238	EVENT 17452 17470	ayant plus d'idées
+T239	EVENT 17476 17502	eurent plus de souffrances
+T240	EVENT 17514 17526	malle-poste 
+T241	EVENT 17526 17539	les croisait 
+T242	EVENT 17558 17597	sentaient le besoin de partir avec elle
+T243	EVENT 17618 17655	les faisait soupirer pour la campagne
+T244	EVENT 17674 17694	se mirent en marche 
+T245	EVENT 17712 17720	passant 
+T246	EVENT 17786 17816	vagabondèrent entre les vignes
+T247	EVENT 17818 17846	arrachèrent des coquelicots 
+T248	EVENT 17866 17887	dormirent sur l'herbe
+T249	EVENT 17889 17903	burent du lait
+T250	EVENT 17905 17932	mangèrent sous les acacias 
+T251	EVENT 17952 17972	rentrèrent fort tard
+T252	EVENT 17974 17982	poudreux
+T253	EVENT 17984 17992	exténués
+T254	EVENT 17994 17999	ravis
+T255	EVENT 18005 18041	renouvelèrent souvent ces promenades
+T256	EVENT 18047 18058	lendemains 
+T257	EVENT 18069 18076	tristes
+T258	EVENT 18085 18109	finirent par s'en priver
+T259	EVENT 18115 18125	monotonie 
+T260	EVENT 18135 18156	leur devenait odieuse
+T261	EVENT 18251 18262	compagnons 
+T262	EVENT 18290 18322	leur parlaient de moins en moins
+T263	EVENT 18329 18355	leur valut des taquineries
+T264	EVENT 18405 18426	reçurent des semonces
+T265	EVENT 18521 18543	s'estimaient davantage
+T266	EVENT 18552 18582	se renforçaient dans ce dégoût
+T267	EVENT 18584 18597	s'exaltaient 
+T268	EVENT 18611 18622	se gâtaient
+T269	EVENT 18633 18667	contracta la brusquerie de Bouvard
+T270	EVENT 18677 18722	prit quelque chose de la morosité de Pécuchet
+T271	EVENT 18790 18797	disait 
+T272	EVENT 18832 18842	s'écriait 
+T273	EVENT 19006 19022	reçut une lettre
+T274	EVENT 19054 19059	bras 
+T275	EVENT 19059 19070	se levèrent
+T276	EVENT 19075 19080	tête 
+T277	EVENT 19090 19104	se renversait 
+T278	EVENT 19110 19124	tomba évanoui 
+T279	EVENT 19152 19168	se précipitèrent
+T280	EVENT 19173 19191	lui ôta sa cravate
+T281	EVENT 19196 19222	envoya chercher un médecin
+T282	EVENT 19227 19244	rouvrit les yeux 
+T283	EVENT 19407 19433	courut tout d'une haleine 
+T284	EVENT 19466 19497	se passant la main sur le front
+T285	EVENT 19499 19518	croyant devenir fou
+T286	EVENT 19520 19540	tâchant de se calmer
+T287	EVENT 19546 19559	fit demander 
+T288	EVENT 19579 19584	parut
+T289	EVENT 19603 19608	mort 
+T290	EVENT 19648 19676	montre les lignes suivantes 
+T291	EVENT 20137 20161	fut obligé de s'asseoir 
+T292	EVENT 20319 20326	reprit 
+T293	EVENT 20493 20532	prouvait l'authenticité de la nouvelle 
+T294	EVENT 20543 20558	se regardèrent 
+T295	EVENT 20606 20612	larme 
+T296	EVENT 20676 20710	allèrent jusqu'à l'Arc de Triomphe
+T297	EVENT 20712 20722	revinrent 
+T298	EVENT 20776 20792	était très rouge
+T299	EVENT 20797 20844	donna à Pécuchet des coups de poing dans le dos
+T300	EVENT 20871 20882	déraisonna 
+T301	EVENT 20901 20912	ricanaient 
+T302	EVENT 20928 20936	héritage
+T303	EVENT 21021 21035	en reparlaient
+T304	EVENT 21106 21125	écrivit au notaire 
+T305	EVENT 21152 21180	envoya la copie du testament
+T306	EVENT 21189 21208	se terminait ainsi 
+T307	EVENT 21280 21293	fils naturel 
+T308	EVENT 21364 21381	avait eu ce fils 
+T309	EVENT 21407 21430	l'avait tenu à l'écart 
+T310	EVENT 21445 21477	le faisant passer pour un neveu 
+T311	EVENT 21491 21524	l'avait toujours appelé mon oncle
+T312	EVENT 21535 21560	sachant à quoi s'en tenir
+T313	EVENT 21594 21607	s'était marié
+T314	EVENT 21614 21631	était devenu veuf
+T315	EVENT 21657 21694	ayant tourné contrairement à ses vues
+T316	EVENT 21699 21707	remords 
+T317	EVENT 21707 21734	l'avait pris sur l'abandon 
+T318	EVENT 21780 21786	enfant
+T319	EVENT 21922 21931	isolement
+T320	EVENT 21952 21977	voulut réparer ses torts 
+T321	EVENT 21977 22056	en léguant au fruit de ses premières amours tout ce qu'il pouvait de sa fortune
+T322	EVENT 22251 22282	tomba dans une sorte d'hébétude
+T323	EVENT 22287 22296	répétait 
+T324	EVENT 22310 22322	en souriant 
+T325	EVENT 22445 22462	n'en revenait pas
+T326	EVENT 22469 22484	furent secoués 
+T327	EVENT 22504 22511	lettre 
+T328	EVENT 22552 22608	déclarait son intention de régler tout devant la justice
+T329	EVENT 22739 22766	en eut une maladie bilieuse
+T330	EVENT 22793 22816	s'embarqua pour Savigny
+T331	EVENT 22826 22832	revint
+T332	EVENT 22919 22928	insomnies
+T333	EVENT 22950 22957	colère 
+T334	EVENT 22962 22968	espoir
+T335	EVENT 22972 22983	exaltation 
+T336	EVENT 22988 22998	abattement
+T337	EVENT 23067 23100	entra en possession de l'héritage
+T338	EVENT 23107 23119	premier cri 
+T339	EVENT 23160 23169	campagne 
+T340	EVENT 23186 23213	liait son ami à son bonheur
+T341	EVENT 23258 23264	union 
+T342	EVENT 23283 23297	était absolue 
+T343	EVENT 23300 23308	profonde
+T344	EVENT 23476 23487	fut décidée
+T345	EVENT 23520 23559	passèrent en revue toutes les provinces
+T346	EVENT 24133 24166	se voyaient en manches de chemise
+T347	EVENT 24871 24910	s'achetèrent des instruments horticoles
+T348	EVENT 24927 24934	choses 
+T349	EVENT 25510 25532	tranchait la question 
+T350	EVENT 25614 25621	disait 
+T351	EVENT 25646 25660	s'organisaient
+T352	EVENT 25827 25860	s'étaient juré de taire tout cela
+T353	EVENT 25879 25888	rayonnait
+T354	EVENT 25912 25933	les trouvaient drôles
+T355	EVENT 25948 25979	écrivait étalé sur son pupitre 
+T356	EVENT 26035 26069	poussait son espèce de sifflement 
+T357	EVENT 26074 26122	en clignant d'un air malin ses lourdes paupières
+T358	EVENT 26134 26171	juché sur un grand tabouret de paille
+T359	EVENT 26173 26225	soignait toujours les jambages de sa longue écriture
+T360	EVENT 26232 26255	en gonflant les narines
+T361	EVENT 26257 26275	pinçait les lèvres
+T362	EVENT 26328 26355	dix-huit mois de recherches
+T363	EVENT 26361 26382	n'avaient rien trouvé
+T364	EVENT 26388 26407	firent des voyages 
+T365	EVENT 26651 26689	fuyaient le voisinage des habitations 
+T366	EVENT 26743 26756	se décidaient
+T367	EVENT 26763 26788	craignant de se repentir 
+T368	EVENT 26803 26821	changeaient d'avis
+T369	EVENT 26950 26959	les sauva
+T370	EVENT 26965 26986	connaissait leur rêve
+T371	EVENT 27025 27053	lui avait parlé d'un domaine
+T372	EVENT 27117 27123	ferme 
+T373	EVENT 27168 27176	château 
+T374	EVENT 27182 27189	jardin 
+T375	EVENT 27212 27247	se transportèrent dans le Calvados 
+T376	EVENT 27254 27274	furent enthousiasmés
+T377	EVENT 27367 27408	exigeait cent quarante-trois mille francs
+T378	EVENT 27418 27451	n'en donnait que cent vingt mille
+T379	EVENT 27463 27487	combattit son entêtement
+T380	EVENT 27489 27505	le pria de céder
+T381	EVENT 27513 27550	déclara qu'il complèterait le surplus
+T382	EVENT 27644 27666	n'en avait soufflé mot
+T383	EVENT 27668 27689	réservant ce capital 
+T384	EVENT 27716 27721	Tout 
+T385	EVENT 27721 27730	fut payé 
+T386	EVENT 27788 27808	n'était plus copiste
+T387	EVENT 27882 27899	s'en était démis 
+T388	EVENT 27899 27929	une fois certain de l'héritage
+T389	EVENT 27944 27955	retournait 
+T390	EVENT 28020 28054	offrit un punch à tout le comptoir
+T391	EVENT 28081 28112	fut maussade pour ses collègues
+T392	EVENT 28142 28163	en claquant la porte 
+T393	EVENT 28180 28213	avait à surveiller les emballages
+T394	EVENT 28267 28281	prendre congé 
+T395	EVENT 28311 28346	lui proposa un commerce épistolaire
+T396	EVENT 28401 28434	après des félicitations nouvelles
+T397	EVENT 28436 28464	lui souhaita une bonne santé
+T398	EVENT 28476 28500	se montra plus sensible 
+T399	EVENT 28500 28530	en recevant l'adieu de Bouvard
+T400	EVENT 28535 28573	abandonna exprès une partie de dominos
+T401	EVENT 28575 28604	promit d'aller le voir là-bas
+T402	EVENT 28606 28630	commanda deux anisettes 
+T403	EVENT 28633 28643	l'embrassa
+T404	EVENT 28655 28670	rentré chez lui
+T405	EVENT 28672 28718	aspira sur son balcon une large bouffée d'air 
+T406	EVENT 28718 28731	en se disant 
+T407	EVENT 28839 28868	se rappela des jours heureux 
+T408	EVENT 29014 29044	sentit une défaillance de cœur
+T409	EVENT 29050 29060	tristesse 
+T410	EVENT 29066 29086	n'osait pas s'avouer
+T411	EVENT 29129 29155	se promena dans sa chambre
+T412	EVENT 29250 29292	grava son nom sur le plâtre de la cheminée
+T413	EVENT 29311 29318	bagage 
+T414	EVENT 29318 29330	était parti 
+T415	EVENT 29724 29740	objets précieux 
+T416	EVENT 29740 29784	furent mis dans une voiture de déménagement 
+T417	EVENT 29788 29803	s'acheminerait 
+T418	EVENT 29849 29869	voulut l'accompagner
+T419	EVENT 29875 29906	s'installa auprès du conducteur
+T420	EVENT 30068 30089	sortit de la capitale
+T421	EVENT 30095 30105	mouvement 
+T422	EVENT 30131 30144	l'occupèrent 
+T423	EVENT 30183 30197	se ralentirent
+T424	EVENT 30206 30244	amena des disputes avec le conducteur 
+T425	EVENT 30266 30301	choisissaient d'exécrables auberges
+T426	EVENT 30374 30403	couchait dans les mêmes gîtes
+T427	EVENT 30423 30444	repartait dès l'aube 
+T428	EVENT 30543 30552	cailloux 
+T429	EVENT 30552 30566	se succédaient
+T430	EVENT 30572 30579	fossés 
+T431	EVENT 30579 30599	étaient pleins d'eau
+T432	EVENT 30766 30778	bourrasques 
+T433	EVENT 30794 30800	bâche 
+T434	EVENT 30826 30843	claquait au vent 
+T435	EVENT 30880 30899	baissait la figure 
+T436	EVENT 31040 31046	cahots
+T437	EVENT 31051 31099	entendait osciller derrière lui tout son bagage 
+T438	EVENT 31102 31132	prodiguait les recommandations
+T439	EVENT 31134 31169	Voyant qu'elles ne servaient à rien
+T440	EVENT 31174 31194	changea de tactique 
+T441	EVENT 31199 31216	fit le bon enfant
+T442	EVENT 31218 31240	eut des complaisances 
+T443	EVENT 31272 31307	poussait à la roue avec les hommes 
+T444	EVENT 31312 31349	en vint jusqu'à leur payer le gloria 
+T445	EVENT 31380 31403	filèrent plus lestement
+T446	EVENT 31443 31450	essieu 
+T447	EVENT 31450 31460	se rompit 
+T448	EVENT 31466 31474	chariot 
+T449	EVENT 31474 31486	resta penché
+T450	EVENT 31546 31557	porcelaine 
+T451	EVENT 31557 31577	gisaient en morceaux
+T452	EVENT 31582 31595	leva les bras
+T453	EVENT 31597 31618	en grinçant des dents
+T454	EVENT 31654 31662	journée 
+T455	EVENT 31671 31682	fut perdue 
+T456	EVENT 31693 31704	charretier 
+T457	EVENT 31708 31717	se grisa 
+T458	EVENT 31806 31846	n'avait quitté Paris que le surlendemain
+T459	EVENT 31956 31998	se réveilla devant la cathédrale de Rouen 
+T460	EVENT 32003 32030	s'était trompé de diligence
+T461	EVENT 32114 32138	alla au théâtre des Arts
+T462	EVENT 32146 32168	souriait à ses voisins
+T463	EVENT 32170 32206	disant qu'il était retiré du négoce 
+T464	EVENT 32269 32296	débarqua le vendredi à Caen
+T465	EVENT 32302 32310	ballots 
+T466	EVENT 32330 32352	les reçut le dimanche 
+T467	EVENT 32355 32384	les expédia sur une charrette
+T468	EVENT 32386 32411	ayant prévenu le fermier 
+T469	EVENT 32503 32528	prit un cheval de renfort
+T470	EVENT 32563 32570	marcha 
+T471	EVENT 32600 32627	ayant quitté la grand'route
+T472	EVENT 32632 32668	s'engagea dans un chemin de traverse
+T473	EVENT 32740 32749	ornières 
+T474	EVENT 32749 32762	s'effaçaient 
+T475	EVENT 32770 32781	disparurent
+T476	EVENT 32790 32833	se trouvèrent au milieu des champs labourés
+T477	EVENT 32875 32895	abandonna le chariot
+T478	EVENT 32901 32924	pataugeant dans la boue
+T479	EVENT 32926 32935	s'avança 
+T480	EVENT 32972 32993	approchait des fermes
+T481	EVENT 33006 33015	aboyaient
+T482	EVENT 33020 33048	criait de toutes ses forces 
+T483	EVENT 33075 33091	ne répondait pas
+T484	EVENT 33096 33107	avait peur 
+T485	EVENT 33147 33157	lanternes 
+T486	EVENT 33157 33167	brillèrent
+T487	EVENT 33172 33192	aperçut un cabriolet
+T488	EVENT 33194 33220	s'élança pour le rejoindre
+T489	EVENT 33230 33242	était dedans
+T490	EVENT 33269 33293	voiture de déménagement 
+T491	EVENT 33317 33346	la hélèrent dans les ténèbres
+T492	EVENT 33359 33370	se retrouva
+T493	EVENT 33379 33390	arrivèrent 
+T494	EVENT 33416 33420	feu 
+T495	EVENT 33456 33465	flambait 
+T496	EVENT 33485 33494	couverts 
+T497	EVENT 33595 33608	s'attablèrent
+T498	EVENT 33614 33643	leur avait préparé une soupe 
+T499	EVENT 33713 33732	faisait la cuisine 
+T500	EVENT 33756 33781	s'informer de leurs goûts
+T501	EVENT 33787 33799	répondaient 
+T502	EVENT 33888 33899	les délecta
+T503	EVENT 33966 34016	promenaient autour d'eux un regard de satisfaction
+T504	EVENT 34018 34050	en mangeant sur la petite table 
+T505	EVENT 34128 34150	tendaient leur ventre 
+T506	EVENT 34156 34198	s'appuyaient sur le dossier de leur chaise
+T507	EVENT 34224 34238	se répétaient 
+T508	EVENT 34344 34386	eut l'idée de faire un tour dans le jardin
+T509	EVENT 34396 34413	ne s'y refusa pas
+T510	EVENT 34419 34440	prirent la chandelle 
+T511	EVENT 34478 34493	se promenèrent 
+T512	EVENT 34524 34571	avaient plaisir à nommer tout haut les légumes 
+T513	EVENT 34628 34654	inspectèrent les espaliers
+T514	EVENT 34665 34697	tâcha de découvrir des bourgeons
+T515	EVENT 34892 34897	nuit 
+T516	EVENT 34941 34950	immobile 
+T517	EVENT 34964 34971	silence
+T518	EVENT 34984 34991	douceur
+T519	EVENT 35004 35008	coq 
+T520	EVENT 35008 35014	chanta
+T521	EVENT 35068 35074	porte 
+T522	EVENT 35188 35208	la trouvèrent béante
+T523	EVENT 35221 35229	surprise
+T524	EVENT 35266 35291	bavardèrent quelque temps
+T525	EVENT 35298 35311	s'endormirent
+T526	EVENT 35461 35472	ronflaient 
+T527	EVENT 35480 35496	clair de la lune
+T528	EVENT 35502 35526	entrait par les fenêtres
+T529	EVENT 35536 35540	joie
+T530	EVENT 35555 35572	en se réveillant 
+T531	EVENT 35583 35597	fuma une pipe 
+T532	EVENT 35609 35623	huma une prise
+T533	EVENT 35685 35707	se mirent à la croisée
+T534	EVENT 35714 35729	voir le paysage
+T535	EVENT 36336 36350	contemplaient 
+T536	EVENT 36373 36403	homme à chevelure grisonnante 
+T537	EVENT 36429 36446	longea le sentier
+T538	EVENT 36448 36508	en raclant avec sa canne tous les barreaux de la claire-voie
+T539	EVENT 36530 36567	leur apprit que c'était M. Vaucorbeil
+T540	EVENT 37126 37148	entrèrent dans la cour
+T541	EVENT 37175 37203	vociférait contre un garçon 
+T542	EVENT 37236 37271	serrait entre ses jambes une dinde 
+T543	EVENT 37279 37312	empâtait avec des gobes de farine
+T544	EVENT 37890 37922	désiraient faire leur inspection
+T545	EVENT 37924 37959	n'ayant vu la propriété qu'une fois
+T546	EVENT 38001 38017	les escortèrent 
+T547	EVENT 38036 38045	plaintes 
+T548	EVENT 38374 38394	visita les cultures 
+T549	EVENT 38408 38420	les déprécia
+T550	EVENT 38578 38590	dénigrement 
+T551	EVENT 38664 38679	s'en revinrent 
+T552	EVENT 38996 39028	rencontrait ensuite le vestibule
+T553	EVENT 39163 39175	en prit une 
+T554	EVENT 39256 39278	ouvraient les armoires
+T555	EVENT 39284 39312	trouvèrent d'autres bouquins
+T556	EVENT 39375 39381	pressé
+T557	EVENT 39385 39400	était le jardin
+T558	EVENT 39412 39443	en passant près de la charmille
+T559	EVENT 39477 39491	dame en plâtre
+T560	EVENT 39516 39532	écartait sa jupe
+T561	EVENT 39654 39667	plaisanterie 
+T562	EVENT 39667 39686	les amusa tellement
+T563	EVENT 39749 39762	la répétèrent
+T564	EVENT 39805 39830	désiraient les connaître 
+T565	EVENT 39835 39873	venait les observer par la claire-voie
+T566	EVENT 39879 39908	en bouchèrent les ouvertures 
+T567	EVENT 39941 39955	fut contrariée
+T568	EVENT 39963 39984	se garantir du soleil
+T569	EVENT 39994 40026	portait sur la tête un mouchoir 
+T570	EVENT 40224 40235	labouraient
+T571	EVENT 40237 40247	sarclaient
+T572	EVENT 40249 40259	émondaient
+T573	EVENT 40261 40284	s'imposaient des tâches
+T574	EVENT 40286 40319	mangeaient le plus vite possible 
+T575	EVENT 40326 40365	allaient prendre le café sur le vigneau
+T576	EVENT 40402 40426	rencontraient un limaçon
+T577	EVENT 40432 40453	s'approchaient de lui
+T578	EVENT 40458 40471	l'écrasaient 
+T579	EVENT 40471 40514	en faisant une grimace du coin de la bouche
+T580	EVENT 40587 40620	coupaient en deux les vers blancs
+T581	EVENT 40731 40751	battaient les arbres
+T582	EVENT 40801 40839	planta une pivoine au milieu du gazon 
+T583	EVENT 40942 40985	fit creuser devant la cuisine un large trou
+T584	EVENT 41201 41227	rêvait au bord de la fosse
+T585	EVENT 41342 41349	fumier 
+T586	EVENT 41385 41397	lui manquait
+T587	EVENT 41493 41503	recherches
+T588	EVENT 41567 41581	prit le parti 
+T589	EVENT 41585 41611	aller lui-même au crottin 
+T590	EVENT 41678 41688	l'accosta 
+T591	EVENT 41720 41737	l'eut complimenté
+T592	EVENT 41744 41764	s'informa de son ami
+T593	EVENT 41770 41775	yeux 
+T594	EVENT 41903 41916	intimidèrent 
+T595	EVENT 41929 41938	répondit 
+T596	EVENT 41952 41965	tourna le dos
+T597	EVENT 41983 41989	blâma 
+T598	EVENT 42008 42022	mauvais jours 
+T599	EVENT 42022 42032	survinrent
+T600	EVENT 42067 42097	s'installèrent dans la cuisine
+T601	EVENT 42102 42125	faisaient du treillage 
+T602	EVENT 42135 42160	parcouraient les chambres
+T603	EVENT 42162 42186	causaient au coin du feu
+T604	EVENT 42188 42215	regardaient la pluie tomber
+T605	EVENT 42240 42263	guettèrent le printemps
+T606	EVENT 42268 42279	répétaient 
+T607	EVENT 42301 42306	part 
+T608	EVENT 42374 42384	en disant 
+T609	EVENT 42393 42403	va partir 
+T610	EVENT 42411 42445	virent enfin lever les petits pois
+T611	EVENT 42489 42499	promettait
+T612	EVENT 42545 42581	devaient réussir dans l'agriculture 
+T613	EVENT 42588 42597	ambition 
+T614	EVENT 42597 42628	les prit de cultiver leur ferme
+T615	EVENT 42770 42791	rédigèrent une lettre
+T616	EVENT 42800 42866	demandaient à M. de Faverges l'honneur de visiter son exploitation
+T617	EVENT 42877 42916	leur donna tout de suite un rendez-vous
+T618	EVENT 42929 42944	heure de marche
+T619	EVENT 42950 42961	arrivèrent 
+T620	EVENT 43457 43465	apparut 
+T621	EVENT 43706 43733	entrèrent dans une luzerne 
+T622	EVENT 43739 43745	fanait
+T623	EVENT 43842 43896	soulevaient avec des râteaux le foin laissé par terre 
+T624	EVENT 43952 44004	jetait des bottes vivement dans une longue charrette
+T625	EVENT 44044 44053	s'avança 
+T626	EVENT 44305 44351	exposa son système relativement aux fourrages 
+T627	EVENT 44356 44379	retournait les andains 
+T628	EVENT 44405 44412	meules 
+T629	EVENT 44412 44435	devaient être coniques 
+T630	EVENT 44705 44731	donnait à boire aux femmes
+T631	EVENT 44733 44763	en versant du cidre d'un broc 
+T632	EVENT 44771 44796	appuyait contre sa hanche
+T633	EVENT 44807 44840	demanda d'où venait cette enfant 
+T634	EVENT 44845 44861	n'en savait rien
+T635	EVENT 44876 44913	l'avaient recueillie pour les servir 
+T636	EVENT 44936 44955	haussa les épaules 
+T637	EVENT 44964 44978	en s'éloignant
+T638	EVENT 44980 45039	proféra quelques plaintes sur l'immoralité de nos campagnes
+T639	EVENT 45050 45075	fit l'éloge de sa luzerne
+T640	EVENT 45136 45144	cuscute 
+T641	EVENT 45167 45200	ouvrirent les yeux au mot cuscute
+T642	EVENT 45235 45275	s'appliquait aux prairies artificielles 
+T643	EVENT 45461 45480	reprirent ensemble 
+T644	EVENT 45570 45577	cheval 
+T645	EVENT 45607 45653	traînait un large coffre monté sur trois roues
+T646	EVENT 45808 45812	dit 
+T647	EVENT 45900 45935	entamait la démonstration du semoir
+T648	EVENT 45956 45972	vint le chercher
+T649	EVENT 46024 46035	le remplaça
+T650	EVENT 46093 46140	conduisit « ces messieurs » vers un autre champ
+T651	EVENT 46154 46166	moissonneurs
+T652	EVENT 46208 46230	fauchaient des seigles
+T653	EVENT 46236 46241	fers 
+T654	EVENT 46241 46267	sifflaient dans la paille 
+T655	EVENT 46373 46397	avançaient en même temps
+T656	EVENT 46418 46440	admirèrent leurs bras 
+T657	EVENT 46443 46497	se sentaient pris d'une vénération presque religieuse 
+T658	EVENT 46531 46566	longèrent ensuite plusieurs pièces 
+T659	EVENT 46580 46591	crépuscule 
+T660	EVENT 46591 46598	tombait
+T661	EVENT 46656 46681	rencontrèrent le troupeau
+T662	EVENT 46687 46694	moutons
+T663	EVENT 46706 46717	pâturaient 
+T664	EVENT 46723 46758	entendait leur continuel broutement
+T665	EVENT 46763 46769	berger
+T666	EVENT 46799 46824	tricotait un bas de laine
+T667	EVENT 46859 46869	régisseur 
+T668	EVENT 46869 46916	aida Bouvard et Pécuchet à franchir un échalier
+T669	EVENT 46925 46950	traversèrent deux masures
+T670	EVENT 46959 46966	vaches 
+T671	EVENT 46966 46977	ruminaient 
+T672	EVENT 47321 47334	fit observer 
+T673	EVENT 47589 47598	divertir 
+T674	EVENT 47626 47670	jeta devant les poules des poignées d'avoine
+T675	EVENT 47723 47751	montèrent dans le pigeonnier
+T676	EVENT 47756 47765	laiterie 
+T677	EVENT 47778 47792	les émerveilla
+T678	EVENT 47877 47887	en entrant
+T679	EVENT 47893 47903	fraîcheur 
+T680	EVENT 47903 47918	vous surprenait
+T681	EVENT 48500 48506	bœufs 
+T682	EVENT 48506 48516	mangeaient
+T683	EVENT 48628 48641	donna du jour
+T684	EVENT 48728 48741	mugissements 
+T685	EVENT 48741 48753	s'élevèrent 
+T686	EVENT 48815 48821	bœufs 
+T687	EVENT 48821 48845	avancèrent leurs mufles 
+T688	EVENT 48867 48876	buvaient 
+T689	EVENT 48899 48909	attelages 
+T690	EVENT 48909 48932	entrèrent dans la cour 
+T691	EVENT 48939 48948	poulains 
+T692	EVENT 48948 48957	hennirent
+T693	EVENT 49003 49015	s'allumèrent
+T694	EVENT 49022 49033	disparurent
+T695	EVENT 49039 49055	gens de travail 
+T696	EVENT 49065 49106	en traînant leurs sabots sur les cailloux
+T697	EVENT 49114 49121	cloche 
+T698	EVENT 49136 49141	tinta
+T699	EVENT 49163 49176	s'en allèrent
+T700	EVENT 49194 49205	avaient vu 
+T701	EVENT 49205 49220	les enchantait 
+T702	EVENT 49227 49236	décision 
+T703	EVENT 49236 49245	fut prise
+T704	EVENT 49264 49334	tirèrent de leur bibliothèque les quatre volumes de la Maison rustique
+T705	EVENT 49336 49376	se firent expédier le cours de Gasparin 
+T706	EVENT 49379 49418	s'abonnèrent à un journal d'agriculture
+T707	EVENT 49469 49493	achetèrent une carriole 
+T708	EVENT 49648 49676	rôdaient autour des bestiaux
+T709	EVENT 49678 49708	questionnaient les laboureurs 
+T710	EVENT 49711 49768	ne manquaient pas d'assister à tous les comices agricoles
+T711	EVENT 49783 49824	fatiguèrent maître Gouy de leurs conseils
+T712	EVENT 49826 49836	déplorant 
+T713	EVENT 49855 49874	système de jachères
+T714	EVENT 49916 49945	demanda la remise d'un terme 
+T715	EVENT 50102 50152	déclara son intention de ne pas renouveler le bail
+T716	EVENT 50176 50195	épargna les fumiers
+T717	EVENT 50197 50232	laissa pousser les mauvaises herbes
+T718	EVENT 50255 50265	s'en alla 
+T719	EVENT 50346 50359	20 000 francs
+T720	EVENT 50457 50467	les envoya
+T721	EVENT 50664 50700	se procurèrent tous les instruments 
+T722	EVENT 50910 50936	vendirent leurs fourrages 
+T723	EVENT 51105 51124	brassèrent du cidre
+T724	EVENT 51146 51166	fouettait le cheval 
+T725	EVENT 51198 51217	retournait le marc 
+T726	EVENT 51238 51266	haletaient en serrant la vis
+T727	EVENT 51268 51290	puchaient dans la cuve
+T728	EVENT 51292 51316	surveillaient les bondes
+T729	EVENT 51318 51344	portaient de lourds sabots
+T730	EVENT 51346 51358	s'amusaient 
+T731	EVENT 51434 51497	supprimèrent la moitié environ de leurs prairies artificielles 
+T732	EVENT 51542 51568	se servirent de tourteaux 
+T733	EVENT 51575 51605	enterrèrent sans les concasser
+T734	EVENT 51622 51632	rendement 
+T735	EVENT 51632 51645	fut pitoyable
+T736	EVENT 51669 51690	firent les semailles 
+T737	EVENT 51704 51711	orages 
+T738	EVENT 51711 51721	survinrent
+T739	EVENT 51759 51784	s'acharnaient au froment 
+T740	EVENT 51791 51823	entreprirent d'épierrer la Butte
+T741	EVENT 51828 51836	banneau 
+T742	EVENT 51836 51858	emportait les cailloux
+T743	EVENT 51958 51966	banneau 
+T744	EVENT 52004 52010	gravir
+T745	EVENT 52012 52022	descendre 
+T746	EVENT 52025 52034	remonter 
+T747	EVENT 52073 52090	marchait derrière
+T748	EVENT 52092 52111	faisant des haltes 
+T749	EVENT 52175 52186	traitaient 
+T750	EVENT 52200 52207	animaux
+T751	EVENT 52209 52243	leur administraient des purgations
+T752	EVENT 52264 52271	graves 
+T753	EVENT 52271 52281	désordres 
+T754	EVENT 52281 52292	eurent lieu
+T755	EVENT 52297 52303	fille 
+T756	EVENT 52317 52332	devint enceinte
+T757	EVENT 52338 52362	prirent des gens mariés 
+T758	EVENT 52368 52376	enfants 
+T759	EVENT 52376 52387	pullulèrent
+T760	EVENT 52487 52537	résolurent de coucher dans la ferme à tour de rôle
+T761	EVENT 52557 52572	étaient tristes
+T762	EVENT 52577 52589	malpropreté 
+T763	EVENT 52690 52721	les dupait de toutes les façons
+T764	EVENT 52727 52746	batteurs en grange 
+T765	EVENT 52746 52788	fourraient du blé dans leur cruche à boire
+T766	EVENT 52799 52812	en surprit un
+T767	EVENT 52817 52824	s'écria
+T768	EVENT 52826 52864	en le poussant dehors par les épaules 
+T769	EVENT 52940 52965	n'inspirait aucun respect
+T770	EVENT 53126 53141	en délibérèrent
+T771	EVENT 53150 53162	arrangement 
+T772	EVENT 53162 53172	fut décidé
+T773	EVENT 53216 53223	couches
+T774	EVENT 53234 53266	en fit construire une en briques
+T775	EVENT 53271 53299	peignit lui-même les châssis
+T776	EVENT 53304 53334	redoutant les coups de soleil 
+T777	EVENT 53334 53372	barbouilla de craie toutes les cloches
+T778	EVENT 53378 53451	eut la précaution pour les boutures d'enlever les têtes avec les feuilles
+T779	EVENT 53465 53491	s'appliqua aux marcottages
+T780	EVENT 53496 53530	essaya plusieurs sortes de greffes
+T781	EVENT 53627 53652	ajustait les deux libers 
+T782	EVENT 53663 53685	serrait les ligatures 
+T783	EVENT 53752 53773	prenait son arrosoir 
+T784	EVENT 53776 53804	le balançait sur les plantes
+T785	EVENT 53854 53890	verdissaient sous l'eau qui tombait 
+T786	EVENT 53908 53935	lui semblait se désaltérer 
+T787	EVENT 53990 54023	arrachait la pomme de l'arrosoir 
+T788	EVENT 54026 54048	versait à plein goulot
+T789	EVENT 54142 54149	cahute 
+T790	EVENT 54211 54267	passait là des heures délicieuses à éplucher les graines
+T791	EVENT 54349 54375	s'asseyait devant la porte
+T792	EVENT 54402 54431	projetait des embellissements
+T793	EVENT 54437 54494	avait créé au bas du perron deux corbeilles de géraniums 
+T794	EVENT 54536 54558	planta des tournesols 
+T795	EVENT 54727 54734	couche 
+T796	EVENT 54734 54754	fourmilla de larves 
+T797	EVENT 54857 54898	ne poussa que des végétations rachitiques
+T798	EVENT 54904 54913	boutures 
+T799	EVENT 54913 54929	ne reprirent pas
+T800	EVENT 54935 54943	greffes 
+T801	EVENT 54943 54957	se décollèrent
+T802	EVENT 54981 54989	s'arrêta
+T803	EVENT 55050 55071	furent une désolation
+T804	EVENT 55145 55152	gadoue 
+T805	EVENT 55152 55172	nuisit aux fraisiers
+T806	EVENT 55338 55343	dégel
+T807	EVENT 55391 55405	le consolèrent
+T808	EVENT 55420 55444	lui donna des espérances
+T809	EVENT 55449 55463	s'épanouissait
+T810	EVENT 55465 55472	montait
+T811	EVENT 55474 55500	finit par être prodigieux 
+T812	EVENT 55548 55560	fut content 
+T813	EVENT 55594 55600	tenta 
+T814	EVENT 55646 55662	l'élève du melon
+T815	EVENT 55668 55707	sema les graines de plusieurs variétés 
+T816	EVENT 55753 55775	enfouit dans sa couche
+T817	EVENT 55785 55809	dressa une autre couche 
+T818	EVENT 55825 55841	eut jeté son feu
+T819	EVENT 55843 55876	repiqua les plants les plus beaux
+T820	EVENT 55910 55933	fit toutes les tailles 
+T821	EVENT 55933 55971	suivant les préceptes du bon jardinier
+T822	EVENT 55994 56020	laissa se nouer les fruits
+T823	EVENT 56053 56072	supprima les autres
+T824	EVENT 56122 56161	glissa sous leur écorce une planchette 
+T825	EVENT 56216 56229	les bassinait
+T826	EVENT 56231 56241	les aérait
+T827	EVENT 56243 56290	enlevait avec son mouchoir la brume des cloches
+T828	EVENT 56326 56360	apportait vivement des paillassons
+T829	EVENT 56375 56392	n'en dormait plus
+T830	EVENT 56394 56409	Plusieurs fois 
+T831	EVENT 56417 56427	se releva 
+T832	EVENT 56486 56512	traversait tout le jardin 
+T833	EVENT 56576 56587	cantaloups 
+T834	EVENT 56587 56595	mûrirent
+T835	EVENT 56600 56607	premier
+T836	EVENT 56617 56631	fit la grimace
+T837	EVENT 56697 56737	trouvait pour chacun une excuse nouvelle
+T838	EVENT 56748 56756	dernier 
+T839	EVENT 56762 56781	jeta par la fenêtre
+T840	EVENT 56783 56812	déclarant n'y rien comprendre
+T841	EVENT 56834 56896	avait cultivé les unes près des autres des espèces différentes
+T842	EVENT 56910 56930	s'étaient confondus 
+T843	EVENT 57051 57089	en était résulté d'abominables mulets 
+T844	EVENT 57093 57122	avaient le goût de citrouille
+T845	EVENT 57140 57165	se tourna vers les fleurs
+T846	EVENT 57170 57190	écrivit à Dumouchel 
+T847	EVENT 57232 57272	acheta une provision de terre de bruyère
+T848	EVENT 57277 57294	se mit à l'œuvre 
+T849	EVENT 57315 57347	planta des passiflores à l'ombre
+T850	EVENT 57349 57370	des pensées au soleil
+T851	EVENT 57372 57403	couvrit de fumier les jacinthes
+T852	EVENT 57405 57440	arrosa les lis après leur floraison
+T853	EVENT 57442 57470	détruisit les rhododendrons 
+T854	EVENT 57497 57535	stimula les fuchsias avec de la colle 
+T855	EVENT 57545 57563	rôtit un grenadier
+T856	EVENT 57565 57599	en l'exposant au feu de la cuisine
+T857	EVENT 58105 58116	se procura 
+T858	EVENT 58221 58233	expériences 
+T859	EVENT 58233 58241	ratèrent
+T860	EVENT 58246 58275	était chaque fois fort étonné
+T861	EVENT 58298 58323	rencontrait des obstacles
+T862	EVENT 58329 58357	se consultaient mutuellement
+T863	EVENT 58359 58377	ouvraient un livre
+T864	EVENT 58441 58464	divergence des opinions
+T865	EVENT 58481 58486	marne
+T866	EVENT 58494 58508	la recommande 
+T867	EVENT 58526 58535	la combat
+T868	EVENT 58547 58553	plâtre
+T869	EVENT 58605 58638	n'en paraissent pas enthousiasmés
+T870	EVENT 58645 58653	jachères
+T871	EVENT 58717 58766	note les cas où elles sont presque indispensables
+T872	EVENT 58913 58932	exalte les labours 
+T873	EVENT 58989 59027	supprime les engrais avec les labours 
+T874	EVENT 59074 59096	étudièrent les nuages 
+T875	EVENT 59139 59174	contemplaient ceux qui s'allongent 
+T876	EVENT 59204 59226	ressemblent à des îles
+T877	EVENT 59278 59321	tâchant de distinguer les nimbus des cirrus
+T878	EVENT 59360 59372	changeaient 
+T879	EVENT 59385 59408	eussent trouvé les noms
+T880	EVENT 59414 59424	baromètre 
+T881	EVENT 59424 59434	les trompa
+T882	EVENT 59477 59503	recoururent à l'expédient 
+T883	EVENT 59556 59564	sangsue 
+T884	EVENT 59684 59694	atmosphère
+T885	EVENT 59714 59734	contredit la sangsue
+T886	EVENT 59740 59776	en mirent trois autres avec celle-là
+T887	EVENT 59796 59824	se comportèrent différemment
+T888	EVENT 59839 59850	méditations
+T889	EVENT 59860 59889	reconnut qu'il s'était trompé
+T890	EVENT 59903 59929	exigeait la grande culture
+T891	EVENT 59958 59986	aventura ce qui lui restait 
+T892	EVENT 60034 60053	Excité par Pécuchet
+T893	EVENT 60058 60084	eut le délire de l'engrais
+T894	EVENT 60113 60143	furent entassés des branchages
+T895	EVENT 60214 60238	employa la liqueur belge
+T896	EVENT 60314 60332	fit venir du guano
+T897	EVENT 60334 60354	tâcha d'en fabriquer
+T898	EVENT 60398 60435	ne tolérait pas qu'on perdît l'urine 
+T899	EVENT 60440 60469	supprima les lieux d'aisances
+T900	EVENT 60474 60519	apportait dans sa cour des cadavres d'animaux
+T901	EVENT 60529 60546	fumait ses terres
+T902	EVENT 60606 60643	souriait au milieu de cette infection
+T903	EVENT 60649 60655	pompe 
+T904	EVENT 60683 60717	crachait du purin sur les récoltes
+T905	EVENT 60730 60751	avaient l'air dégoûté
+T906	EVENT 60756 60763	disait 
+T907	EVENT 60960 60970	fut chétif
+T908	EVENT 61001 61019	se vendit fort mal
+T909	EVENT 61098 61124	donnait moins qu'autrefois
+T910	EVENT 61130 61165	crut bon de renouveler son matériel
+T911	EVENT 61170 61203	acheta un scarificateur Guillaume
+T912	EVENT 61261 61268	araire 
+T913	EVENT 61311 61321	la dénigra
+T914	EVENT 61381 61400	essayait de montrer
+T915	EVENT 61402 61413	se trompait
+T916	EVENT 61430 61440	ricanaient
+T917	EVENT 61453 61503	ne put les astreindre au commandement de la cloche
+T918	EVENT 61519 61538	criait derrière eux
+T919	EVENT 61540 61570	courait d'un endroit à l'autre
+T920	EVENT 61572 61596	notait ses observations 
+T921	EVENT 61612 61635	donnait des rendez-vous
+T922	EVENT 61666 61700	bouillonnait d'idées industrielles
+T923	EVENT 61705 61739	se promettait de cultiver le pavot

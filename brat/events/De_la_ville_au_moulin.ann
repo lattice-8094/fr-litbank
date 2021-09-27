@@ -1,0 +1,799 @@
+T1	EVENT 49 61	seconde fois
+T2	EVENT 65 81	ouvris les yeux 
+T3	EVENT 114 133	me trouvais couchée
+T4	EVENT 482 515	abaissai de nouveau les paupières
+T5	EVENT 812 845	cherchai à reconnaître les bruits
+T6	EVENT 914 934	parlait à voix basse
+T7	EVENT 970 1002	me fut impossible de distinguer 
+T8	EVENT 1020 1027	paroles
+T9	EVENT 1100 1132	donnait des indications précises
+T10	EVENT 1137 1181	faisait des recommandations très importantes
+T11	EVENT 1194 1200	se tut
+T12	EVENT 1212 1217	voix 
+T13	EVENT 1217 1232	se fit entendre
+T14	EVENT 1251 1260	reconnus 
+T15	EVENT 1334 1341	parlait
+T16	EVENT 1555 1566	souffrance 
+T17	EVENT 1570 1581	réveillait 
+T18	EVENT 1600 1606	corps 
+T19	EVENT 1643 1650	mémoire
+T20	EVENT 1743 1756	épouvantable 
+T21	EVENT 1756 1762	scène 
+T22	EVENT 1766 1780	avait eu lieu 
+T23	EVENT 1819 1855	revis mon père les deux poings levés
+T24	EVENT 1929 1944	revis mon frère
+T25	EVENT 1986 2013	tendant vers eux ses mains 
+T26	EVENT 2024 2036	revis Angèle
+T27	EVENT 2047 2059	agenouillée 
+T28	EVENT 2096 2144	entendis les cris terrifiés de Nicole et Nicolas
+T29	EVENT 2172 2215	me revis moi-même lancée entre mes parents 
+T30	EVENT 2239 2270	crus sentir de nouveau le choc 
+T31	EVENT 2274 2296	m'avait jetée à terre 
+T32	EVENT 2356 2362	chute 
+T33	EVENT 2505 2512	cahots 
+T34	EVENT 2515 2522	fiacre 
+T35	EVENT 2526 2552	m'avait amenée à l'hôpital
+T36	EVENT 2563 2572	question 
+T37	EVENT 2583 2591	médecin 
+T38	EVENT 2671 2678	médecin
+T39	EVENT 2708 2718	demandait 
+T40	EVENT 2764 2779	ne répondis pas
+T41	EVENT 2783 2799	écoutais le pas 
+T42	EVENT 2828 2853	cherchaient à s'éloigner 
+T43	EVENT 2916 2930	s'en allaient 
+T44	EVENT 2950 2970	douleur de ma hanche
+T45	EVENT 3027 3064	appuya des deux mains sur ma poitrine
+T46	EVENT 3066 3076	en disant 
+T47	EVENT 3223 3258	voyais mes parents gagner la sortie
+T48	EVENT 3276 3301	avaient l'air malheureux 
+T49	EVENT 3453 3481	ressentis un immense chagrin
+T50	EVENT 3508 3548	continuait à s'informer de ma souffrance
+T51	EVENT 3554 3561	larmes 
+T52	EVENT 3666 3687	douleur de mon corps 
+T53	EVENT 3709 3747	n'apportai d'attention à rien d'autre 
+T54	EVENT 3819 3828	souffrais
+T55	EVENT 3833 3843	souffrais 
+T56	EVENT 3940 3950	souffrance
+T57	EVENT 3972 3983	la sentais 
+T58	EVENT 4060 4072	soubresauts 
+T59	EVENT 4085 4105	augmentaient mon mal
+T60	EVENT 4123 4131	affreux 
+T61	EVENT 4131 4136	rêve 
+T62	EVENT 4178 4203	levait sur moi un marteau
+T63	EVENT 4220 4240	me briser la hanche 
+T64	EVENT 4240 4269	en la frappant à grands coups
+T65	EVENT 4325 4342	venait me parler 
+T66	EVENT 4342 4374	en mettant sa main sur mon front
+T67	EVENT 4451 4468	dura une semaine 
+T68	EVENT 4548 4562	céda sa place 
+T69	EVENT 4567 4594	tombereau plein de pierres 
+T70	EVENT 4608 4628	m'écrasait la hanche
+T71	EVENT 4656 4667	réussissais
+T72	EVENT 4688 4715	soulever le lourd tombereau
+T73	EVENT 4800 4811	apaisement 
+T74	EVENT 4843 4847	mal 
+T75	EVENT 4888 4922	s'endormait parfois durant le jour
+T76	EVENT 4948 4982	me venait un grand désir de remuer
+T77	EVENT 5459 5471	imagination 
+T78	EVENT 5471 5492	créait mille dangers 
+T79	EVENT 5550 5577	essaya de me tranquilliser 
+T80	EVENT 5577 5623	en m'assurant que tout allait bien à la maison
+T81	EVENT 5662 5680	finit par me dire 
+T82	EVENT 5785 5795	amenèrent 
+T83	EVENT 5955 5974	avaient bonne mine 
+T84	EVENT 5981 6006	gardaient un air si sage 
+T85	EVENT 6144 6148	mort
+T86	EVENT 6210 6223	avait décidé 
+T87	EVENT 6230 6262	resterais à la garde des jumeaux
+T88	EVENT 6273 6307	m'adjoindrait une femme de ménage 
+T89	EVENT 6352 6369	avait bien marché
+T90	EVENT 6393 6427	ne se plaisaient qu'auprès de nous
+T91	EVENT 6440 6484	passait ses veillées à fabriquer des jouets 
+T92	EVENT 6536 6572	nous emmenait dans la petite maison 
+T93	EVENT 6665 6672	moulin 
+T94	EVENT 6672 6703	tournait sur une jolie rivière 
+T95	EVENT 6744 6756	avait changé
+T96	EVENT 6762 6773	discussions
+T97	EVENT 6794 6803	disputes 
+T98	EVENT 6803 6839	s'étaient élevées entre nos parents 
+T99	EVENT 6847 6873	n'avait fait qu'augmenter 
+T100	EVENT 6944 6977	avaient été si près de se frapper
+T101	EVENT 6994 6999	paix 
+T102	EVENT 6999 7025	paraissait faite entre eux
+T103	EVENT 7031 7057	se parlaient avec douceur 
+T104	EVENT 7121 7137	première visite 
+T105	EVENT 7156 7189	s'était attardé auprès de mon lit
+T106	EVENT 7196 7204	me dire 
+T107	EVENT 7299 7351	avait le plus souffert de la désunion de nos parents
+T108	EVENT 7411 7420	disputes 
+T109	EVENT 7420 7446	l'avaient souvent affecté 
+T110	EVENT 7541 7573	l'avais vu se torturer l'esprit 
+T111	EVENT 7681 7716	avions appris de quoi il s'agissait
+T112	EVENT 7763 7772	pleurait 
+T113	EVENT 7951 7957	amour 
+T114	EVENT 7964 7973	sanglots 
+T115	EVENT 8018 8042	retenions notre souffle 
+T116	EVENT 8125 8154	avait dit des mots consolants
+T117	EVENT 8172 8180	silence 
+T118	EVENT 8213 8243	n'avions nulle envie de dormir
+T119	EVENT 8354 8381	réfléchissions aux paroles 
+T120	EVENT 8384 8392	douleur 
+T121	EVENT 8398 8406	reproche
+T122	EVENT 8427 8444	repris ton amour 
+T123	EVENT 8450 8456	amour 
+T124	EVENT 8518 8552	pouvait amener un pareil désespoir
+T125	EVENT 8608 8659	ne pouvions rendre à notre mère ce bien si précieux
+T126	EVENT 8666 8690	étions restés longtemps 
+T127	EVENT 8796 8847	fallait chasser pour toujours ces vilains souvenirs
+T128	EVENT 8904 8913	revoyais 
+T129	EVENT 8948 8956	épanoui 
+T130	EVENT 9114 9139	nous aimions profondément
+T131	EVENT 9259 9268	veillées 
+T132	EVENT 9300 9363	m'apprenait le soir ce qu'on lui avait enseigné pendant le jour
+T133	EVENT 9379 9422	retenais les leçons plus facilement que lui
+T134	EVENT 9478 9517	lui faisais surtout réciter ses fables 
+T135	EVENT 9523 9550	ne parvenait pas à retenir 
+T136	EVENT 9743 9754	s'en mêlait
+T137	EVENT 9908 9923	faisait silence
+T138	EVENT 9959 9971	se dandinait
+T139	EVENT 9988 9996	lançait 
+T140	EVENT 10075 10100	sentant sa mort prochaine
+T141	EVENT 10102 10123	Fit venir ses enfants
+T142	EVENT 10125 10136	leur parla 
+T143	EVENT 10161 10175	s'arrêtait net
+T144	EVENT 10180 10206	gardait la bouche ouverte 
+T145	EVENT 10256 10269	ne venait pas
+T146	EVENT 10287 10293	disait
+T147	EVENT 10340 10350	rougissait
+T148	EVENT 10352 10367	s'impatientait 
+T149	EVENT 10370 10387	frappait du pied 
+T150	EVENT 10482 10488	riait 
+T151	EVENT 10491 10526	renvoyait Firmin apprendre sa fable
+T152	EVENT 10615 10624	punition 
+T153	EVENT 10644 10668	étions seuls à connaître
+T154	EVENT 10700 10740	arrivait à peu près une fois par semaine
+T155	EVENT 10794 10803	demandais
+T156	EVENT 10807 10838	en le voyant rentrer en retard 
+T157	EVENT 10863 10878	près de pleurer
+T158	EVENT 10880 10890	répondait 
+T159	EVENT 11158 11190	l'avait souvent menée à l'église
+T160	EVENT 11251 11286	en avait gardé le goût de la prière
+T161	EVENT 11304 11316	contrariété 
+T162	EVENT 11335 11339	joie
+T163	EVENT 11346 11366	tirait son chapelet 
+T164	EVENT 11518 11524	jouer 
+T165	EVENT 11547 11588	les faire rire jusqu'à les rendre malades
+T166	EVENT 11595 11614	se tenait à l'écart
+T167	EVENT 11641 11650	Une fois 
+T168	EVENT 11665 11687	l'avions vue en colère
+T169	EVENT 11712 11721	rougeole 
+T170	EVENT 11730 11739	obligeait
+T171	EVENT 11759 11776	garder la chambre
+T172	EVENT 11783 11802	éviter la contagion
+T173	EVENT 11816 11882	avaient installé les trois autres à l'autre bout de l'appartement 
+T174	EVENT 11963 11972	journées 
+T175	EVENT 11972 11996	nous semblaient longues 
+T176	EVENT 12052 12087	nous apporta des romans d'aventures
+T177	EVENT 12153 12179	devins vite la belle Sita 
+T178	EVENT 12187 12217	était le respectueux serviteur
+T179	EVENT 12277 12284	venait 
+T180	EVENT 12299 12317	prendre mes ordres
+T181	EVENT 12322 12342	se tenait devant moi
+T182	EVENT 12428 12458	éclatais de rire à chaque fois
+T183	EVENT 12471 12521	ne pouvais retenir le nom bizarre de ce serviteur 
+T184	EVENT 12573 12579	rires 
+T185	EVENT 12583 12620	s'entendaient dans tout l'appartement
+T186	EVENT 12629 12654	se lassa de les entendre 
+T187	EVENT 12694 12706	entr'ouvrit 
+T188	EVENT 12734 12738	dit 
+T189	EVENT 12948 12988	nous avait menacés d'affreux châtiments 
+T190	EVENT 13061 13070	surprise 
+T191	EVENT 13081 13091	serviteur 
+T192	EVENT 13098 13142	s'était brusquement changé en chien de garde
+T193	EVENT 13144 13152	aboyant 
+T194	EVENT 13186 13204	l'obligeant à fuir
+T195	EVENT 13239 13251	avait aboyé 
+T196	EVENT 13264 13270	fureur
+T197	EVENT 13516 13529	tranquillité 
+T198	EVENT 13529 13543	s'affermissait
+T199	EVENT 13776 13803	oubliais de rester immobile
+T200	EVENT 14017 14024	retour 
+T201	EVENT 14530 14542	en a décidé 
+T202	EVENT 14654 14664	a répondu 
+T203	EVENT 14734 14743	arrivons 
+T204	EVENT 14758 14763	gare 
+T205	EVENT 14789 14798	s'élance 
+T206	EVENT 14848 14863	a un air fâché 
+T207	EVENT 14957 14984	me soulève de la banquette 
+T208	EVENT 14987 15016	m'emporte jusqu'à la voiture 
+T209	EVENT 15091 15115	En traversant le village
+T210	EVENT 15119 15144	éprouve une grande honte 
+T211	EVENT 15364 15371	trajet 
+T212	EVENT 15371 15389	se fait en silence
+T213	EVENT 15403 15433	marchent de chaque côté de moi
+T214	EVENT 15584 15601	suivons la route 
+T215	EVENT 15666 15678	nous attend 
+T216	EVENT 15697 15710	En approchant
+T217	EVENT 15715 15720	vois 
+T218	EVENT 15735 15744	son mari 
+T219	EVENT 15752 15760	regarde 
+T220	EVENT 15782 15827	se tient plus droite et plus raide que jamais
+T221	EVENT 16007 16041	se penche sur moi pour m'embrasser
+T222	EVENT 16105 16130	sans un mot de bienvenue 
+T223	EVENT 16150 16167	passe la barrière
+T224	EVENT 16172 16179	marche 
+T225	EVENT 16293 16304	étonnement 
+T226	EVENT 16335 16347	nous conduit
+T227	EVENT 16360 16366	Manine
+T228	EVENT 16502 16516	vais demeurer 
+T229	EVENT 16516 16561	en attendant le moment où je pourrai marcher 
+T230	EVENT 16593 16606	me l'apprend 
+T231	EVENT 16699 16724	m'installent dans un lit 
+T232	EVENT 16743 16756	installation 
+T233	EVENT 16775 16785	s'en vont 
+T234	EVENT 16831 16847	entends grincer 
+T235	EVENT 16863 16869	claie 
+T236	EVENT 16891 16897	ferme 
+T237	EVENT 17222 17239	devenue orpheline
+T238	EVENT 17244 17255	recueillie 
+T239	EVENT 17285 17334	l'a tout de suite employée aux travaux du moulin 
+T240	EVENT 17418 17447	l'a mariée au garçon meunier 
+T241	EVENT 17488 17523	s'est trouvé parfaitement d'accord 
+T242	EVENT 17584 17608	a mis au monde Clémence 
+T243	EVENT 17662 17685	est mort d'un accident 
+T244	EVENT 17775 17825	ai un réel contentement à me retrouver près d'elle
+T245	EVENT 17872 17912	la regarde aller et venir dans la maison
+T246	EVENT 17922 17941	répare le désordre 
+T247	EVENT 18084 18118	fait semblant de gronder Clémence 
+T248	EVENT 18122 18144	ne veut pas s'endormir
+T249	EVENT 18158 18178	avoir ranimé le feu 
+T250	EVENT 18225 18245	approche une chaise 
+T251	EVENT 18248 18274	s'assied auprès de mon lit
+T252	EVENT 18299 18308	contente 
+T253	EVENT 18330 18370	se met à parler librement de toute chose
+T254	EVENT 18516 18536	continue de sourire 
+T255	EVENT 18536 18546	en parlant
+T256	EVENT 18630 18661	m'avaient confiée à tante Rude 
+T257	EVENT 18715 18737	s'était occupée de moi
+T258	EVENT 18744 18763	m'emmenait partout 
+T259	EVENT 18771 18784	avait à faire
+T260	EVENT 18810 18840	passions des journées entières
+T261	EVENT 18889 18936	me plaisait le plus dans les travaux de Manine 
+T262	EVENT 18947 18981	suivre les dindes et les pintades 
+T263	EVENT 18988 19024	cachaient dans les haies pour pondre
+T264	EVENT 19037 19059	nous fallait chercher 
+T265	EVENT 19062 19080	découvrir les œufs
+T266	EVENT 19085 19110	étais paresseuse le matin
+T267	EVENT 19122 19134	me grondait 
+T268	EVENT 19180 19190	me disait 
+T269	EVENT 19235 19256	étais vite réveillée 
+T270	EVENT 19259 19264	vêtue
+T271	EVENT 19350 19369	s'en allait au nid 
+T272	EVENT 19386 19396	caquetant 
+T273	EVENT 19399 19408	picorant 
+T274	EVENT 19509 19533	faisant mine de rentrer 
+T275	EVENT 19674 19684	caquetant 
+T276	EVENT 19687 19697	picorant, 
+T277	EVENT 19744 19758	disparaissait 
+T278	EVENT 19837 19867	en restait toujours stupéfaite
+T279	EVENT 19900 19906	disait
+T280	EVENT 19919 19942	s'asseyait sur l'herbe 
+T281	EVENT 19949 19979	tirait son tricot de sa poche 
+T282	EVENT 19982 20012	m'interdisait le moindre bruit
+T283	EVENT 20055 20065	se levait 
+T284	EVENT 20070 20079	explorer 
+T285	EVENT 20170 20180	découvrir 
+T286	EVENT 20270 20292	se rappeler l'endroit 
+T287	EVENT 20299 20327	aller ramasser le nouvel œuf
+T288	EVENT 20350 20391	se garder de surprendre la dinde au nid, 
+T289	EVENT 20400 20414	l'abandonnait 
+T290	EVENT 20461 20469	courses 
+T291	EVENT 20497 20507	amusantes 
+T292	EVENT 20514 20552	devins vite capable de les faire seule
+T293	EVENT 20610 20632	cessaient de caqueter 
+T294	EVENT 20645 20669	approchaient de leur nid
+T295	EVENT 20697 20712	me dissimulais 
+T296	EVENT 20725 20751	en redoublant d'attention 
+T297	EVENT 20757 20764	voyais 
+T298	EVENT 20870 20884	première fois 
+T299	EVENT 20891 20908	revins au moulin 
+T300	EVENT 20948 20957	racontai 
+T301	EVENT 20968 20998	m'y étais prise pour les avoir
+T302	EVENT 21014 21018	rit 
+T303	EVENT 21037 21041	dit 
+T304	EVENT 21141 21187	nous plaisons au rappel de ces jours lointains
+T305	EVENT 21195 21203	douceur 
+T306	EVENT 21212 21225	en ressentons
+T307	EVENT 21261 21283	cache le jour présent 
+T308	EVENT 21294 21319	fait oublier la tristesse
+T309	EVENT 21334 21359	n'ont pas voulu attendre 
+T310	EVENT 21373 21381	repartir
+T311	EVENT 21395 21403	ont dit 
+T312	EVENT 21497 21527	n'ai pas essayé de les retenir
+T313	EVENT 21535 21573	ne leur ai pas laissé voir le chagrin 
+T314	EVENT 21577 21600	me causait leur départ 
+T315	EVENT 21628 21634	train 
+T316	EVENT 21638 21652	les emportait 
+T317	EVENT 21652 21687	commença de rouler dans la campagne
+T318	EVENT 21692 21720	tendis longuement l'oreille 
+T319	EVENT 22053 22063	dormaient 
+T320	EVENT 22117 22122	foyer
+T321	EVENT 22127 22134	cendre 
+T322	EVENT 22242 22252	étincelle 
+T323	EVENT 22257 22271	s'en échappait
+T324	EVENT 22529 22537	sommeil 
+T325	EVENT 22548 22566	me fermer les yeux
+T326	EVENT 22822 22831	secouent 
+T327	EVENT 22834 22853	retournent le foin 
+T328	EVENT 22891 22922	le chargent sur des charrettes 
+T329	EVENT 22926 22955	l'emportent vers les granges 
+T330	EVENT 23061 23073	vois revenir
+T331	EVENT 23088 23095	faneurs
+T332	EVENT 23097 23108	silencieux 
+T333	EVENT 23111 23129	traînant les pieds
+T334	EVENT 23201 23236	s'arrêtent au seuil de notre porte 
+T335	EVENT 23280 23324	ressens de l'humiliation à être vue couchée 
+T336	EVENT 23361 23369	fenaison
+T337	EVENT 23378 23428	n'a guère le temps de s'occuper de la petite Reine
+T338	EVENT 23438 23454	a mise au monde 
+T339	EVENT 23513 23550	change en hâte les langes de l'enfant
+T340	EVENT 23552 23582	approche le berceau de mon lit
+T341	EVENT 23587 23606	s'en va en courant 
+T342	EVENT 23639 23647	revenir 
+T343	EVENT 23681 23686	tétée
+T344	EVENT 23804 23813	m'ennuie 
+T345	EVENT 23840 23849	m'ennuie 
+T346	EVENT 23868 23897	m'arrive de descendre du lit 
+T347	EVENT 23955 23964	regrette 
+T348	EVENT 23982 23988	hanche
+T349	EVENT 24132 24160	couds des pièces de layette 
+T350	EVENT 24241 24248	taille 
+T351	EVENT 24324 24345	assemble de mon mieux
+T352	EVENT 24379 24388	se moque 
+T353	EVENT 24719 24744	m'en parle à tout propos 
+T354	EVENT 24753 24757	ris 
+T355	EVENT 24781 24790	se fâche 
+T356	EVENT 24793 24799	pleure
+T357	EVENT 24837 24871	se regarde dans un bout de miroir 
+T358	EVENT 24964 25017	enlève une à une les petites parcelles de peau sèche 
+T359	EVENT 25148 25154	poupée
+T360	EVENT 25161 25171	l'habille 
+T361	EVENT 25174 25187	la déshabille
+T362	EVENT 25189 25200	sans un mot
+T363	EVENT 25287 25323	vient passer ses après-midi avec moi
+T364	EVENT 25518 25551	en s'aidant de ses deux béquilles
+T365	EVENT 25558 25584	réussit à faire le chemin 
+T366	EVENT 25790 25813	en suis un peu jalouse 
+T367	EVENT 25918 25946	jette ses béquilles à terre 
+T368	EVENT 26135 26147	les ramasse 
+T369	EVENT 26150 26183	les pose en travers de ma voiture
+T370	EVENT 26240 26244	dit 
+T371	EVENT 26319 26327	visites 
+T372	EVENT 26343 26356	déplaisaient 
+T373	EVENT 26379 26405	m'a tout de suite avertie 
+T374	EVENT 26460 26496	ne vois rien de répréhensible à cela
+T375	EVENT 26569 26609	me devient de jour en jour plus agréable
+T376	EVENT 26666 26694	aperçoit la mère et l'enfant
+T377	EVENT 26701 26738	pousse ma voiture sous le gros noyer 
+T378	EVENT 26782 26829	apporte pour Mme Lapierre sa plus belle chaise 
+T379	EVENT 26855 26871	fait bon visage 
+T380	EVENT 26905 26924	me demande souvent 
+T381	EVENT 27043 27079	n'avons pas de conversations suivies
+T382	EVENT 27131 27153	se rapportant à Paris 
+T383	EVENT 27162 27173	regrettons 
+T384	EVENT 27275 27341	voir arriver aux prochaines vacances, les petits avec nos parents 
+T385	EVENT 27379 27387	lecture 
+T386	EVENT 27407 27425	lettres de Firmin 
+T387	EVENT 27425 27474	me tenant au courant de ce qui se passe chez nous
+T388	EVENT 27555 27646	silences qui nous permettent de nous réjouir du babillage de Clémence et du petit Jean, du 
+T389	EVENT 27568 27613	nous permettent de nous réjouir du babillage 
+T390	EVENT 27697 27715	chant des oiseaux 
+T391	EVENT 27757 27764	bruits 
+T392	EVENT 27885 27892	coteau 
+T393	EVENT 27928 27933	blés 
+T394	EVENT 27940 27948	avoines 
+T395	EVENT 27948 27960	se couchant 
+T396	EVENT 27963 27977	se redressant 
+T397	EVENT 28052 28060	chemins 
+T398	EVENT 28163 28173	troupeaux 
+T399	EVENT 28298 28311	moulin à vent
+T400	EVENT 28323 28339	change de forme 
+T401	EVENT 28448 28456	au repos
+T402	EVENT 28789 28808	gestes désordonnés 
+T403	EVENT 28808 28835	semblent appeler au secours
+T404	EVENT 28868 28899	ouvre toutes grandes ses ailes 
+T405	EVENT 29068 29079	me prévint 
+T406	EVENT 29095 29129	passeraient leurs vacances à Paris
+T407	EVENT 29342 29381	fut pour moi une bien mauvaise nouvelle
+T408	EVENT 29388 29395	lettre 
+T409	EVENT 29424 29456	m'enleva une partie de ma peine 
+T410	EVENT 29456 29474	en me faisant rire
+T411	EVENT 29479 29486	disait 
+T412	EVENT 29982 30011	a repris ses sorties du soir 
+T413	EVENT 30047 30083	est pour des travaux supplémentaires
+T414	EVENT 30121 30152	m'a bien défendu de t'en parler
+T415	EVENT 30225 30270	font bien enrager la nouvelle femme de ménage
+T416	EVENT 30328 30375	nous donne à manger des choses qu'on n'aime pas
+T417	EVENT 30517 30555	l'a vue manger un fromage tout entier 
+T418	EVENT 30894 30921	prend ces petites tablettes
+T419	EVENT 30926 30957	n'en ai jamais vu de pareilles 
+T420	EVENT 31062 31095	m'a promis de se plaindre à maman
+T421	EVENT 31183 31193	a inventé 
+T422	EVENT 31236 31295	nous accorde la grâce d'aller passer nos vacances au moulin
+T423	EVENT 31300 31327	récite la prière avec elle 
+T424	EVENT 31420 31427	prière 
+T425	EVENT 31436 31455	ne fut pas exaucée 
+T426	EVENT 31564 31598	m'oblige de rester dans la maison 
+T427	EVENT 31601 31644	empêche Mme Lapierre de venir auprès de moi
+T428	EVENT 31693 31733	reste des heures entières sans mouvement
+T429	EVENT 31771 31801	repousse même la petite Reine 
+T430	EVENT 31812 31844	se plaît à mettre dans mes bras 
+T431	EVENT 31844 31854	en disant 
+T432	EVENT 31896 31902	désir 
+T433	EVENT 31902 31909	violent
+T434	EVENT 31911 31921	lancinant 
+T435	EVENT 31930 31947	revoir les miens 
+T436	EVENT 31947 31981	m'est devenu un mal plus sensible 
+T437	EVENT 32021 32080	en me privant de Firmin et des petits pendant les vacances 
+T438	EVENT 32083 32125	m'a privée d'une chose nécessaire à la vie
+T439	EVENT 32218 32242	m'apporte de la couture 
+T440	EVENT 32432 32456	laisse couler mes larmes
+T441	EVENT 32487 32496	me parle 
+T442	EVENT 32516 32530	en l'excusant 
+T443	EVENT 32705 32720	ne réponds pas 
+T444	EVENT 32851 32860	récoltes 
+T445	EVENT 32860 32869	rentrées 
+T446	EVENT 32875 32884	vendange 
+T447	EVENT 32884 32889	faite
+T448	EVENT 32898 32938	dut se résigner à prendre un nourrisson 
+T449	EVENT 33119 33131	résignation 
+T450	EVENT 33139 33146	pénible
+T451	EVENT 33182 33208	ne pouvait pas être sevrée
+T452	EVENT 33338 33353	vient de partir
+T453	EVENT 33355 33366	tremblante 
+T454	EVENT 33369 33382	affreusement 
+T455	EVENT 33382 33392	tourmentée
+T456	EVENT 33539 33544	tétée
+T457	EVENT 33610 33666	ne voulus pas attendre le réveil complet de la mignonne 
+T458	EVENT 33711 33719	le prit 
+T459	EVENT 33773 33785	le repoussa 
+T460	EVENT 33833 33853	y eut dans ses yeux 
+T461	EVENT 33875 33886	étonnement 
+T462	EVENT 33886 33893	indigné
+T463	EVENT 33912 33927	se mit à crier 
+T464	EVENT 33988 33993	cria 
+T465	EVENT 33996 34005	repoussa 
+T466	EVENT 34092 34098	Lasse 
+T467	EVENT 34101 34108	ennuyée
+T468	EVENT 34112 34156	essayai de divers moyens pour la faire boire
+T469	EVENT 34186 34198	Le soir venu
+T470	EVENT 34216 34244	ne pouvait gronder l'enfant 
+T471	EVENT 34244 34259	s'en prit à moi
+T472	EVENT 34264 34286	m'accusa de maladresse
+T473	EVENT 34293 34320	prépara un nouveau biberon 
+T474	EVENT 34328 34335	glissa 
+T475	EVENT 34395 34418	tira la porte sur elle 
+T476	EVENT 34455 34480	ne voulait pas s'endormir
+T477	EVENT 34487 34501	ne la calmait 
+T478	EVENT 34588 34598	avait faim
+T479	EVENT 34604 34609	cris 
+T480	EVENT 34609 34633	se faisaient plus aigus 
+T481	EVENT 34686 34722	devint une véritable crise nerveuse 
+T482	EVENT 34794 34840	suppliai Clémence d'aller chercher du secours 
+T483	EVENT 34898 34916	refusa en pleurant
+T484	EVENT 34930 34975	était effrayée par les cris de sa petite sœur
+T485	EVENT 34995 35005	davantage 
+T486	EVENT 35017 35053	traverser le jardin dans l'obscurité
+T487	EVENT 35070 35088	pus lui promettre 
+T488	EVENT 35136 35153	ne put la décider
+T489	EVENT 35164 35176	impuissance 
+T490	EVENT 35203 35226	fus prise de désespoir 
+T491	EVENT 35229 35246	me mis à pleurer 
+T492	EVENT 35280 35284	dit 
+T493	EVENT 35371 35410	savais que cela ne m'était pas possible
+T494	EVENT 35440 35450	simulacre 
+T495	EVENT 35577 35615	approchai la petite Reine ma poitrine 
+T496	EVENT 35643 35652	se calma 
+T497	EVENT 35699 35717	n'avais pas prévue
+T498	EVENT 35724 35757	saisit une mince partie de chair 
+T499	EVENT 35762 35769	aspira 
+T500	EVENT 35798 35818	me fit un mal atroce
+T501	EVENT 35941 35949	supplice
+T502	EVENT 35953 35989	essayai de repousser la petite Reine
+T503	EVENT 36004 36034	cessa tout de suite la succion
+T504	EVENT 36041 36047	garda 
+T505	EVENT 36111 36118	retint 
+T506	EVENT 36167 36173	resta 
+T507	EVENT 36201 36206	yeux 
+T508	EVENT 36225 36257	m'adressaient de tels reproches 
+T509	EVENT 36416 36425	en pleurs
+T510	EVENT 36511 36533	lui présentai le lait 
+T511	EVENT 36596 36600	Bois
+T512	EVENT 36631 36649	a emporté le tien 
+T513	EVENT 36687 36712	eut une sorte de sanglot 
+T514	EVENT 36751 36767	ouvrit la bouche
+T515	EVENT 36813 36835	suça la grosse tétine 
+T516	EVENT 36865 36885	eut vidé le biberon 
+T517	EVENT 36954 36966	l'embrassai 
+T518	EVENT 37038 37046	soupira 
+T519	EVENT 37118 37129	s'endormit 
+T520	EVENT 37275 37300	sauta de mon lit à terre 
+T521	EVENT 37300 37313	en demandant 
+T522	EVENT 37566 37592	énuméra tous ses vêtements
+T523	EVENT 37629 37645	eus répondu oui 
+T524	EVENT 37669 37683	se mit à rire 
+T525	EVENT 37688 37707	sauter joyeusement 
+T526	EVENT 37737 37744	retour 
+T527	EVENT 37767 37786	tétant son biberon 
+T528	EVENT 37887 37912	adressa ses remerciements
+T529	EVENT 37919 37947	mit sur mon front un baiser 
+T530	EVENT 38029 38033	émue
+T531	EVENT 38043 38047	dit 
+T532	EVENT 38135 38146	récompense 
+T533	EVENT 38155 38176	l'apportait avec elle
+T534	EVENT 38301 38321	avait tant à me dire
+T535	EVENT 38424 38475	continuais à garder les mains croisées sous ma tête
+T536	EVENT 38561 38566	joie 
+T537	EVENT 38679 38687	paroles 
+T538	EVENT 38697 38735	m'avaient transportée auprès des miens
+T539	EVENT 39111 39119	pensais 
+T540	EVENT 39190 39230	avais remplacé grand'mère dans le ménage
+T541	EVENT 39264 39271	disait 
+T542	EVENT 39271 39280	en riant 
+T543	EVENT 39301 39312	bouilloire 
+T544	EVENT 39325 39337	m'échappait 
+T545	EVENT 39340 39348	tombait 
+T546	EVENT 39356 39363	fracas 
+T547	EVENT 39418 39423	plat 
+T548	EVENT 39473 39478	dire 
+T549	EVENT 39563 39569	plats 
+T550	EVENT 39576 39586	assiettes 
+T551	EVENT 39595 39602	tasses 
+T552	EVENT 39642 39653	casseroles 
+T553	EVENT 39653 39663	bosselées 
+T554	EVENT 39778 39796	avais détériorées 
+T555	EVENT 39874 39888	m'épouvantais 
+T556	EVENT 39901 39908	petits 
+T557	EVENT 39908 39918	accidents 
+T558	EVENT 39927 39938	véritables 
+T559	EVENT 39938 39950	catastrophes
+T560	EVENT 39992 40005	m'excusaient 
+T561	EVENT 40008 40025	m'encourageaient 
+T562	EVENT 40049 40068	reprenais confiance
+T563	EVENT 40086 40108	étais devenue adroite 
+T564	EVENT 40111 40120	attentive
+T565	EVENT 40144 40156	m'attardais 
+T566	EVENT 40203 40211	variété 
+T567	EVENT 40218 40223	jeux 
+T568	EVENT 40284 40292	imitait 
+T569	EVENT 40330 40337	bruits 
+T570	EVENT 40461 40483	restaient tranquilles 
+T571	EVENT 40488 40497	l'écouter
+T572	EVENT 40524 40552	prenaient plaisir à le voir 
+T573	EVENT 40557 40567	l'entendre
+T574	EVENT 40579 40600	assis à califourchon 
+T575	EVENT 40664 40687	se lançait à bicyclette
+T576	EVENT 40713 40719	cohue 
+T577	EVENT 40723 40732	voitures 
+T578	EVENT 40739 40746	piétons
+T579	EVENT 40952 40985	s'était immobilisé sur sa chaise 
+T580	EVENT 40988 41001	me regardant 
+T581	EVENT 41004 41015	rougissant 
+T582	EVENT 41046 41060	avais demandé 
+T583	EVENT 41116 41130	avait répondu 
+T584	EVENT 41230 41255	entendais encore le rire 
+T585	EVENT 41286 41299	me souvenais 
+T586	EVENT 41324 41332	baisers 
+T587	EVENT 41399 41406	coucher
+T588	EVENT 41428 41437	souvenirs
+T589	EVENT 41943 41991	emportant chaque jour avec lui un peu de mon mal
+T590	EVENT 42005 42015	printemps 
+T591	EVENT 42092 42102	béquilles 
+T592	EVENT 42176 42182	canne 
+T593	EVENT 42255 42303	avais hâte de me déplacer par mes propres moyens
+T594	EVENT 42336 42348	me répétait 
+T595	EVENT 42379 42389	reprenait 
+T596	EVENT 42398 42434	avait coutume de se dire à lui-même 
+T597	EVENT 42514 42522	marcher 
+T598	EVENT 42654 42662	paroles 
+T599	EVENT 42665 42673	médecin 
+T600	EVENT 42771 42779	Boiteuse
+T601	EVENT 42811 42819	Boiteuse
+T602	EVENT 42904 42939	m'efforçais de me tenir très droite
+T603	EVENT 42947 42998	marcher sur l'extrême pointe de mon pied trop court
+T604	EVENT 43019 43046	avait tenu à m'accompagner 
+T605	EVENT 43064 43071	me dit 
+T606	EVENT 43165 43177	désagrément 
+T607	EVENT 43193 43203	infirmité 
+T608	EVENT 43313 43359	annonçai chez nous la nouvelle de ma guérison 
+T609	EVENT 43421 43429	réponse 
+T610	EVENT 43429 43441	ne m'arriva 
+T611	EVENT 43458 43464	retard
+T612	EVENT 43506 43516	me disait 
+T613	EVENT 43712 43728	devins maussade 
+T614	EVENT 43732 43743	impatience 
+T615	EVENT 43743 43751	me prit 
+T616	EVENT 43756 43782	en arrivai bientôt à dire 
+T617	EVENT 43959 43966	me dit 
+T618	EVENT 44052 44064	me défendis 
+T619	EVENT 44257 44270	empêchements 
+T620	EVENT 44291 44309	eus réponse à tout
+T621	EVENT 44344 44354	entêtement
+T622	EVENT 44362 44366	dit 
+T623	EVENT 44655 44682	apercevais dans son regard 
+T624	EVENT 44706 44717	inquiétude 
+T625	EVENT 44723 44745	cherchait à dissimuler
+T626	EVENT 44750 44777	l'assurai de mon affection 
+T627	EVENT 44780 44802	lui promis d'attendre 
+T628	EVENT 44878 44906	me chanta une autre chanson 
+T629	EVENT 44972 44978	foins 
+T630	EVENT 44984 44991	moisson
+T631	EVENT 44997 45014	la laissais dire 
+T632	EVENT 45088 45094	foins 
+T633	EVENT 45100 45108	moisson 
+T634	EVENT 45108 45133	n'étaient pas mon affaire
+T635	EVENT 45293 45300	lettre 
+T636	EVENT 45314 45320	arriva
+T637	EVENT 45325 45332	disait 
+T638	EVENT 45339 45356	ai encore échoué 
+T639	EVENT 45487 45497	a réussi, 
+T640	EVENT 45696 45711	grande nouvelle
+T641	EVENT 45923 45932	nouvelle 
+T642	EVENT 46009 46018	y croire 
+T643	EVENT 46021 46033	m'en réjouir
+T644	EVENT 46050 46075	ne parut pas trop surpris
+T645	EVENT 46123 46141	offrit de m'aider 
+T646	EVENT 46133 46152	m'aider à nettoyer 
+T647	EVENT 46155 46191	mettre en ordre notre propre maison 
+T648	EVENT 46262 46291	n'arrivèrent que le dimanche 
+T649	EVENT 46318 46342	étais restée sans dormir
+T650	EVENT 46377 46395	me mettant debout 
+T651	EVENT 46486 46512	étais sortie de la maison 
+T652	EVENT 46677 46684	silence
+T653	EVENT 46688 46712	entendis marcher au loin
+T654	EVENT 46730 46754	vis s'avancer le groupe 
+T655	EVENT 46802 46807	cœur 
+T656	EVENT 46807 46822	battant de joie
+T657	EVENT 46824 46845	marchant sur l'herbe 
+T658	EVENT 46906 46940	allais à la rencontre de ce groupe
+T659	EVENT 46944 46955	allais vite
+T660	EVENT 46969 47017	en approchant je pus distinguer chacun des miens
+T661	EVENT 47041 47079	m'obligea de m'appuyer contre un arbre
+T662	EVENT 47106 47127	ne me reconnurent pas
+T663	EVENT 47141 47154	m'apercevant 
+T664	EVENT 47154 47167	s'écartèrent 
+T665	EVENT 47197 47217	détournèrent la tête
+T666	EVENT 47222 47241	voulais les appeler
+T667	EVENT 47246 47271	voulais leur faire signe 
+T668	EVENT 47254 47285	leur faire signe de venir à moi
+T669	EVENT 47375 47391	se retournèrent 
+T670	EVENT 47394 47410	crièrent mon nom
+T671	EVENT 47421 47425	fut 
+T672	EVENT 47443 47456	auprès de moi
+T673	EVENT 47483 47486	dit
+T674	EVENT 47518 47533	s'approchèrent 
+T675	EVENT 47584 47601	y eut entre nous 
+T676	EVENT 47611 47618	pleurs 
+T677	EVENT 47625 47630	rires
+T678	EVENT 47666 47695	se haussait pour m'embrasser 
+T679	EVENT 47695 47704	s'excusa 
+T680	EVENT 47851 47864	s'étonnèrent 
+T681	EVENT 47867 47884	me voir si grande
+T682	EVENT 47985 48012	m'entraînaient sur la route
+T683	EVENT 48026 48063	s'arrêtèrent pour me regarder marcher
+T684	EVENT 48067 48092	eus pitié de leur visage 
+T685	EVENT 48124 48149	répétais ce qu'avait dit 
+T686	EVENT 48302 48320	devaient repartir 
+T687	EVENT 48405 48429	avaient un air soucieux 
+T688	EVENT 48432 48438	sévère
+T689	EVENT 48444 48466	restaient à mes côtés 
+T690	EVENT 48551 48576	mirent au lit les jumeaux
+T691	EVENT 48663 48694	reprirent le chemin de la gare 
+T692	EVENT 48745 48751	départ
+T693	EVENT 48756 48816	cessai bientôt d'écouter ce que me disaient Angèle et Firmin
+T694	EVENT 48821 48855	suivais par la pensée nos parents 
+T695	EVENT 48982 49008	me lançai à leur poursuite
+T696	EVENT 49012 49030	arrivai trop tard 
+T697	EVENT 49112 49150	courus à la petite barrière de sortie 
+T698	EVENT 49159 49187	aperçus mon père et ma mère 
+T699	EVENT 49329 49337	parlait 
+T700	EVENT 49377 49404	me semblait l'entendre dire
+T701	EVENT 49478 49495	s'immobilisèrent 
+T702	EVENT 49515 49523	arrivait
+T703	EVENT 49534 49540	monta 
+T704	EVENT 49612 49624	s'éloignait 
+T705	EVENT 49647 49669	dans une autre voiture
+T706	EVENT 49675 49727	dus reculer pour laisser s'ouvrir la petite barrière
+T707	EVENT 49732 49742	restai là 
+T708	EVENT 49778 49788	bousculée 
+T709	EVENT 49796 49806	voyageurs 
+T710	EVENT 49806 49825	descendant du train
+T711	EVENT 49842 49851	sursauta 
+T712	EVENT 49851 49867	en m'apercevant 
+T713	EVENT 49918 49942	eut un geste de la main 
+T714	EVENT 50003 50023	me serrait la gorge 
+T715	EVENT 50073 50077	dis 
+T716	EVENT 50117 50127	s'indigna 
+T717	EVENT 50254 50278	j'eus l'intuition d'une 
+T718	EVENT 50278 50289	séparation 
+T719	EVENT 50314 50333	retenant mes pleurs
+T720	EVENT 50338 50347	répondis 
+T721	EVENT 50490 50524	m'appuyai au bras d'oncle meunier 
+T722	EVENT 50528 50563	m'entraîna lentement sur le chemin 
+T723	EVENT 50575 50589	En m'attendant
+T724	EVENT 50608 50627	s'étaient endormis 
+T725	EVENT 50658 50670	les regarda 
+T726	EVENT 50720 50728	me dire 
+T727	EVENT 50789 50796	ajouta 
+T728	EVENT 50922 50994	fut bien forcée de m'apprendre l'abandon définitif du foyer par son mari
+T729	EVENT 50941 50994	m'apprendre l'abandon définitif du foyer par son mari
+T730	EVENT 51002 51021	demande en divorce 
+T731	EVENT 51193 51228	comptait sur moi pour la remplacer 
+T732	EVENT 51292 51358	décidai de laisser Angèle et Firmin dans l'ignorance de ces choses
+T733	EVENT 51433 51445	les prévins 
+T734	EVENT 51464 51498	allions rester longtemps au moulin
+T735	EVENT 51563 51591	demandai à faire la moisson 
+T736	EVENT 51629 51635	somme 
+T737	EVENT 51711 51740	fut dépensée en moins de rien
+T738	EVENT 51964 51975	m'expliqua 
+T739	EVENT 52333 52350	fis signe que oui
+T740	EVENT 52377 52387	répondais 
+T741	EVENT 52576 52584	moisson 
+T742	EVENT 52584 52606	m'apporta une fatigue 
+T743	EVENT 52726 52762	m'était difficile de rester courbée 
+T744	EVENT 52774 52782	faucheur
+T745	EVENT 52789 52815	mettre en javelles le blé 
+T746	EVENT 52885 52907	me laissais distancer 
+T747	EVENT 52913 52922	faucheur 
+T748	EVENT 52933 52940	criait 
+T749	EVENT 53027 53032	faux 
+T750	EVENT 53032 53053	sifflait à mes talons
+T751	EVENT 53116 53147	m'aplatissais de tout mon long 
+T752	EVENT 53189 53205	prête à pleurer 
+T753	EVENT 53250 53282	rebutée par ce travail trop dur 
+T754	EVENT 53302 53327	décidais de l'abandonner 
+T755	EVENT 53413 53475	entendant les hommes passer la pierre à aiguiser sur leur faux
+T756	EVENT 53480 53500	me levais d'un bond 
+T757	EVENT 53503 53522	reprenait ma place 
+T758	EVENT 53628 53664	ne me laissait rien faire chez nous 
+T759	EVENT 53667 53698	m'obligeait à me mettre au lit 
+T760	EVENT 53719 53747	étais trop lasse pour dormir
+T761	EVENT 53755 53784	passais mes nuits à m'agiter 
+T762	EVENT 53856 53878	me tapotais les joues 
+T763	EVENT 53878 53888	en disant 
+T764	EVENT 54041 54049	travaux 
+T765	EVENT 54079 54093	moins pénibles
+T766	EVENT 54098 54107	batteuse 
+T767	EVENT 54224 54239	m'eût étourdie 
+T768	EVENT 54242 54256	rendue sourde 
+T769	EVENT 54345 54373	se disputaient mes caresses 
+T770	EVENT 54386 54421	m'étaient aussi douces que le repos
+T771	EVENT 54441 54454	petite Reine 
+T772	EVENT 54645 54670	la prenais sur mes genoux
+T773	EVENT 54678 54687	chantais 
+T774	EVENT 54707 54718	m'écoutait 
+T775	EVENT 54759 54795	remuant les doigts devant ma bouche 
+T776	EVENT 55041 55047	Firmin
+T777	EVENT 55052 55057	gaîté
+T778	EVENT 55063 55074	insouciance
+T779	EVENT 55076 55110	éloignaient toute idée de fatigue 
+T780	EVENT 55116 55125	tristesse
+T781	EVENT 55131 55139	moisson 
+T782	EVENT 55157 55161	jeu 
+T783	EVENT 55235 55257	fauchait les cailloux 
+T784	EVENT 55292 55335	entraînant derrière lui Clémence et Nicole 
+T785	EVENT 55338 55350	leur disant 
+T786	EVENT 55478 55492	nous distraire
+T787	EVENT 55557 55566	débitait 
+T788	EVENT 55611 55621	histoires 
+T789	EVENT 55689 55698	dimanche 
+T790	EVENT 55710 55753	sommes à nous reposer au bord de la rivière
+T791	EVENT 55799 55854	en lançant au fil de l'eau de tout petits bouts de bois
+T792	EVENT 55890 55893	dit
+T793	EVENT 56031 56037	debout
+T794	EVENT 56057 56069	nous disant 
+T795	EVENT 56438 56443	crie 
+T796	EVENT 56490 56501	la rassure 
+T797	EVENT 56603 56612	commande 
+T798	EVENT 56714 56732	main en abat-jour 
+T799	EVENT 56779 56794	nous renseigne 
