@@ -7,57 +7,57 @@ T6	VEH 132 159	les voitures de maraîchers
 T7	VEH 5171 5184	Les voitures 
 T8	VEH 1674 1686	des voitures
 T9	VEH 10323 10335	les voitures
-T10	GPE 6713 6734	la chère grande ville
-T11	GPE 21726 21732	Paris 
+T10	GPE 21726 21732	Paris 
+T11	GPE 6713 6734	la chère grande ville
 T12	GPE 8261 8266	Paris
 T13	GPE 23479 23497	ce diable de Paris
 T14	GPE 7673 7678	Paris
-T15	GPE 10362 10367	Paris
-T16	GPE 6460 6465	Paris
+T15	GPE 6460 6465	Paris
+T16	GPE 10362 10367	Paris
 T17	GPE 1306 1329	berçant la ville noire 
-T18	GPE 22181 22186	Paris
-T19	GPE 43025 43030	Paris
+T18	GPE 43025 43030	Paris
+T19	GPE 22181 22186	Paris
 T20	GPE 24359 24364	Paris
 T21	GPE 5844 5850	Paris 
 T22	GPE 15570 15575	Paris
 T23	GPE 46809 46814	Paris
-T24	GPE 22532 22551	la ville gourmande 
+T24	GPE 8902 8908	Paris 
 T25	GPE 30680 30685	Paris
-T26	GPE 8902 8908	Paris 
+T26	GPE 22532 22551	la ville gourmande 
 T27	GPE 7810 7815	Paris
 T28	GPE 3280 3285	Paris
 T29	GPE 3724 3730	Paris 
 T30	GPE 174 179	Paris
 T31	GPE 33542 33562	votre gueux de Paris
-T32	FAC 258 269	des maisons
-T33	VEH 337 359	Un tombereau de choux 
-T34	VEH 362 382	un tombereau de pois
-T35	FAC 384 402	au pont de Neuilly
-T36	FAC 8019 8037	le pont de Neuilly
-T37	GPE 395 402	Neuilly
-T38	GPE 8030 8037	Neuilly
-T39	VEH 421 464	aux huit voitures de navets et de carottes 
-T40	GPE 5918 5926	Nanterre
-T41	GPE 484 493	Nanterre 
+T32	LOC 258 269	des maisons
+T33	LOC 384 402	au pont de Neuilly
+T34	LOC 8019 8037	le pont de Neuilly
+T35	GPE 395 402	Neuilly
+T36	GPE 8030 8037	Neuilly
+T37	VEH 421 464	aux huit voitures de navets et de carottes 
+T38	GPE 5918 5926	Nanterre
+T39	GPE 484 493	Nanterre 
+T40	VEH 5195 5207	les chevaux 
+T41	VEH 498 510	les chevaux 
 T42	PER 2047 2057	des hommes
 T43	PER 4938 4954	Les charretiers 
 T44	PER 2718 2734	les charretiers 
 T45	PER 1766 1791	des charretiers réveillés
 T46	PER 741 757	les charretiers 
-T47	FAC 1091 1099	la route
-T48	FAC 2247 2255	la route
-T49	FAC 9030 9039	la route 
-T50	FAC 1105 1124	les routes voisines
+T47	LOC 1091 1099	la route
+T48	LOC 2247 2255	la route
+T49	LOC 9030 9039	la route 
+T50	LOC 1105 1124	les routes voisines
 T51	VEH 1200 1219	des convois pareils
-T52	TIME 1296 1304	du matin
-T53	NO_PER 11210 11220	Balthazar 
-T54	NO_PER 2000 2009	Balthazar
-T55	NO_PER 2208 2217	du cheval
-T56	NO_PER 6352 6361	Balthazar
-T57	NO_PER 4725 4734	Balthazar
-T58	NO_PER 1383 1411	le cheval de madame François
-T59	NO_PER 1372 1381	Balthazar
-T60	NO_PER 2509 2519	Balthazar 
+T52	VEH 1221 1238	tout un arrivage 
+T53	OTHER 11210 11220	Balthazar 
+T54	OTHER 2000 2009	Balthazar
+T55	OTHER 2208 2217	du cheval
+T56	OTHER 6352 6361	Balthazar
+T57	OTHER 4725 4734	Balthazar
+T58	OTHER 1383 1411	le cheval de madame François
+T59	OTHER 1372 1381	Balthazar
+T60	OTHER 2509 2519	Balthazar 
 T61	PER 31328 31343	madame François
 T62	PER 4002 4016	La maraîchère 
 T63	PER 5255 5271	madame François 
@@ -91,12 +91,12 @@ T90	PER 30653 30669	madame François
 T91	PER 32780 32785	Vous 
 T92	PER 5127 5132	Vous 
 T93	PER 1793 1808	Madame François
-T94	PER 5030 5044	la maraîchère 
-T95	PER 32802 32817	madame François
-T96	NO_PER 1413 1433	une bête trop grasse
+T94	PER 32802 32817	madame François
+T95	PER 5030 5044	la maraîchère 
+T96	OTHER 1413 1433	une bête trop grasse
 T97	LOC 1527 1560	la hauteur de la rue de Longchamp
-T98	FAC 1541 1560	la rue de Longchamp
-T99	GPE 1551 1560	Longchamp
+T98	GPE 1551 1560	Longchamp
+T99	OTHER 1617 1634	Les autres bêtes 
 T100	PER 2044 2057	un des hommes
 T101	PER 5003 5044	Celui qui avait interpellé la maraîchère 
 T102	PER 2752 2796	Celui qui était agenouillé dans ses légumes 
@@ -123,22 +123,22 @@ T122	PER 60015 60023	Florent
 T123	PER 38955 38963	Florent 
 T124	PER 40884 40892	Florent 
 T125	PER 26609 26616	Florent
-T126	PER 52546 52554	Florent 
-T127	PER 50262 50270	Florent 
+T126	PER 50262 50270	Florent 
+T127	PER 52546 52554	Florent 
 T128	PER 33429 33437	Florent 
 T129	PER 33472 33481	monsieur 
-T130	PER 52214 52228	son compagnon 
-T131	PER 30991 30999	Florent 
-T132	PER 49848 49856	Florent 
-T133	PER 3269 3271	J'
+T130	PER 30991 30999	Florent 
+T131	PER 52214 52228	son compagnon 
+T132	PER 3269 3271	J'
+T133	PER 49848 49856	Florent 
 T134	PER 24322 24330	Florent 
 T135	PER 31367 31378	cet inconnu
 T136	PER 45376 45384	Florent 
 T137	PER 51158 51166	Florent 
 T138	PER 2325 2357	un homme vautré tout de son long
 T139	PER 29631 29639	Florent 
-T140	PER 48337 48345	Florent 
-T141	PER 41244 41252	Florent 
+T140	PER 41244 41252	Florent 
+T141	PER 48337 48345	Florent 
 T142	PER 43329 43336	Florent
 T143	PER 2682 2690	l'homme 
 T144	PER 8836 8844	Florent 
@@ -172,673 +172,533 @@ T171	PER 27945 27953	Florent
 T172	PER 30950 30957	Florent
 T173	PER 47147 47155	Florent 
 T174	PER 25833 25841	Florent 
-T175	TO_DISCUSS 27438 27441	On 
-T176	TO_DISCUSS 50350 50353	On 
+T175	PER 27438 27441	On 
+T176	PER 50350 50353	On 
 T177	PER 2276 2284	le monde
-T178	FAC 38191 38207	la rue Pirouette
-T179	FAC 59961 59977	la rue Pirouette
-T180	FAC 34243 34278	Un coin bien curieux du vieux Paris
-T181	FAC 34554 34571	la rue Pirouette 
-T182	FAC 34280 34293	cette rue-là 
-T183	FAC 38042 38049	la rue 
-T184	FAC 35393 35406	rue Pirouette
-T185	FAC 48573 48590	la rue Pirouette 
-T186	FAC 34179 34196	la rue Pirouette 
-T187	FAC 34753 34766	rue Pirouette
-T188	LOC 3880 3898	du côté des Halles
-T189	FAC 4599 4610	aux Halles 
-T190	FAC 4309 4319	aux Halles
-T191	FAC 22692 22702	des Halles
-T192	FAC 3888 3898	des Halles
-T193	FAC 40871 40881	les Halles
-T194	FAC 46663 46673	les Halles
-T195	FAC 6062 6072	aux Halles
-T196	FAC 53245 53264	les grandes Halles 
-T197	FAC 55811 55821	des Halles
-T198	FAC 45950 45961	des Halles 
-T199	FAC 49558 49568	des Halles
-T200	FAC 51635 51645	aux Halles
-T201	FAC 37263 37273	les Halles
-T202	FAC 28053 28063	des Halles
-T203	FAC 29182 29193	Les Halles 
-T204	FAC 41000 41011	des Halles 
-T205	FAC 15610 15631	les nouvelles Halles 
-T206	FAC 19165 19176	Les Halles 
-T207	FAC 51773 51793	cette forêt de fonte
-T208	FAC 56945 56955	des Halles
-T209	FAC 48193 48213	aux Halles centrales
-T210	VEH 9433 9444	la voiture 
-T211	VEH 5398 5409	la voiture 
-T212	VEH 4071 4081	la voiture
-T213	VEH 11952 11963	la voiture 
-T214	VEH 10966 10977	la voiture 
-T215	VEH 4247 4258	ma voiture 
-T216	VEH 11256 11266	la voiture
-T217	VEH 4800 4820	Les autres voitures 
-T218	VEH 9958 9984	les neuf autres tombereaux
-T219	LOC 5431 5458	au beau milieu des carottes
-T220	PER 5940 5955	madame François
-T221	PER 6020 6036	mon pauvre homme
-T222	TIME 6046 6062	tous les matins 
-T223	PER 6120 6127	Florent
-T224	GPE 6519 6526	Cayenne
-T225	TIME 6586 6595	deux ans 
-T226	GPE 6600 6621	la Guyane hollandaise
-T227	ORG 6829 6839	La police 
-T228	ORG 6666 6685	la police impériale
-T229	GPE 6925 6933	au Havre
-T230	GPE 21300 21308	du Havre
-T231	GPE 21732 21740	au Havre
-T232	GPE 7053 7058	Rouen
-T233	GPE 7016 7021	Rouen
-T234	VEH 7038 7048	la voiture
-T235	GPE 7130 7136	Vernon
-T236	GPE 7379 7386	Vernon 
-T237	TIME 7228 7245	plusieurs heures 
-T238	FAC 7250 7258	un fossé
-T239	PER 7282 7294	un gendarme 
-T240	GPE 7771 7781	Courbevoie
-T241	TIME 8919 8926	la nuit
-T242	TIME 7783 7791	la nuit 
-T243	LOC 7976 7983	la côte
-T244	FAC 8053 8063	au parapet
-T245	LOC 8084 8093	la Seine 
-T246	LOC 16362 16371	la Seine 
-T247	LOC 8147 8157	des rives 
-T248	FAC 8557 8587	ses larges trottoirs grisâtres
-T249	FAC 8639 8661	des rues transversales
-T250	FAC 10286 10297	la barrière
-T251	PER 10299 10313	les douaniers 
-T252	PER 10736 10749	Un gros homme
-T253	FAC 26868 26890	Tout le large trottoir
-T254	FAC 10890 10901	le trottoir
-T255	FAC 25960 25972	au trottoir 
-T256	FAC 11377 11389	le trottoir 
-T257	FAC 27267 27279	Le trottoir 
-T258	FAC 11285 11296	le trottoir
-T259	FAC 13706 13717	du trottoir
-T260	FAC 11983 11998	rue Montorgueil
-T261	FAC 18191 18206	rue Montorgueil
-T262	FAC 16648 16666	la rue Montorgueil
-T263	FAC 58275 58293	la rue Montorgueil
-T264	FAC 29666 29681	rue Montorgueil
-T265	FAC 16421 16440	la rue Montorgueil 
-T266	FAC 12000 12014	au Compas d'or
-T267	FAC 54213 54238	la pointe Saint-Eustache 
-T268	FAC 14917 14941	la pointe Saint-Eustache
-T269	FAC 29437 29461	la pointe Saint-Eustache
-T270	FAC 56184 56208	la pointe Saint-Eustache
-T271	FAC 52230 52254	la pointe Saint-Eustache
-T272	TIME 12407 12438	les premiers jours de septembre
-T273	TIME 12440 12453	les matinées 
-T274	LOC 12564 12587	au bord d'une large rue
-T275	FAC 16233 16249	cette grande rue
-T276	FAC 57839 57858	la rue du Pont-Neuf
-T277	FAC 58722 58750	la nouvelle rue du Pont-Neuf
-T278	FAC 16329 16348	la rue du Pont-Neuf
-T279	FAC 12574 12587	une large rue
-T280	FAC 16305 16307	C'
-T281	FAC 13954 13960	la rue
-T282	FAC 12881 12888	la rue 
-T283	FAC 25696 25715	la rue du Pont-Neuf
-T284	LOC 12803 12827	Au milieu de la chaussée
-T285	FAC 12816 12827	la chaussée
-T286	VEH 13110 13134	une charretée de légumes
-T287	VEH 13161 13173	une voiture 
-T288	FAC 13200 13211	un trottoir
-T289	LOC 13423 13448	l'autre côté de ses choux
-T290	PER 13450 13459	un homme 
-T291	PER 13583 13615	un enfant d'une dizaine d'années
-T292	LOC 13654 13693	le creux de deux montagnes de chicorées
-T293	PER 13857 13862	gens 
-T294	TIME 13891 13898	le jour
-T295	TIME 40976 40983	le jour
-T296	TIME 25134 25141	le jour
-T297	TIME 50461 50469	Le jour 
-T298	TIME 54142 54150	le jour 
-T299	TIME 54407 54415	Le jour 
-T300	LOC 13936 13960	aux deux bords de la rue
-T301	FAC 13962 13987	de gigantesques pavillons
-T302	FAC 14730 14764	cette vision colossale et fragile 
-T303	FAC 14130 14149	une suite de palais
-T304	FAC 14551 14569	de salles immenses
-T305	FAC 14807 14843	le cadran lumineux de Saint-Eustache
-T306	FAC 52980 53017	Le cadran lumineux de Saint-Eustache 
-T307	FAC 19065 19101	le cadran lumineux de Saint-Eustache
-T308	FAC 58076 58090	Saint-Eustache
-T309	FAC 19087 19101	Saint-Eustache
-T310	FAC 19371 19385	Saint-Eustache
-T311	FAC 54759 54766	de lait
-T312	FAC 53002 53017	Saint-Eustache 
-T313	FAC 27934 27940	un sou
-T314	FAC 14868 14876	l'église
-T315	FAC 14829 14843	Saint-Eustache
-T316	PER 15397 15421	cet ivrogne de Lacaille 
-T317	PER 15017 15026	un homme 
-T318	PER 29946 29955	Lacaille 
-T319	PER 30401 30413	Ce vieux-là 
-T320	PER 38972 38980	Lacaille
-T321	PER 15153 15162	Lacaille 
-T322	PER 15275 15283	l'homme 
-T323	PER 30292 30301	Lacaille 
-T324	PER 30535 30549	ces Parisiens 
-T325	PER 15201 15214	aux Parisiens
-T326	PER 15300 15309	Les gens 
-T327	FAC 42554 42578	aux fleurs et aux fruits
-T328	FAC 29136 29159	le pavillon aux fruits 
-T329	FAC 15726 15763	le pavillon aux fruits et aux fleurs 
-T330	FAC 25204 25226	du pavillon des fruits
-T331	FAC 15684 15696	le pavillon 
-T332	FAC 15862 15875	six pavillons
-T333	TO_DISCUSS 15951 15960	la viande
-T334	TO_DISCUSS 47135 47145	la viande 
-T335	TO_DISCUSS 15962 15973	la triperie
-T336	TO_DISCUSS 52709 52720	la triperie
-T337	TO_DISCUSS 15975 15985	la Vallée 
-T338	TIME 16036 16043	l'hiver
-T339	FAC 16072 16086	deux pavillons
-T340	FAC 16103 16114	les maisons
-T341	FAC 16126 16141	la Halle au blé
-T342	FAC 16311 16327	une rue nouvelle
-T343	FAC 16398 16416	la rue Montmartre 
-T344	FAC 58358 58375	la rue Montmartre
-T345	PER 23115 23144	Cette pauvre mère Chantemesse
-T346	PER 16578 16595	mère Chantemesse 
-T347	PER 16529 16561	une femme penchée sur ses navets
-T348	PER 22797 22820	.La mère Chantemesse 
-T349	PER 19225 19244	la mère Chantemesse
-T350	PER 51860 51880	la mère Chantemesse 
-T351	LOC 16638 16666	le bas de la rue Montorgueil
-T352	PER 19651 19673	les sergents de ville 
-T353	PER 18855 18877	les sergents de ville 
-T354	PER 18738 18763	quatre sergents de ville 
-T355	PER 16682 16713	une bande de sergents de ville 
-T356	TIME 16732 16753	la nuit du 4 décembre
-T357	TIME 16740 16753	du 4 décembre
-T358	FAC 16766 16789	le boulevard Montmartre
-T359	TIME 16796 16807	deux heures
-T360	PER 16828 16849	au milieu de la foule
-T361	PER 59483 59492	la foule 
-T362	PER 16841 16849	la foule
-T363	PER 17125 17142	la foule affolée 
-T364	PER 16957 16969	les soldats 
-T365	PER 16863 16880	tous ces soldats 
-T366	ORG 16884 16893	l'Élysée 
-T367	FAC 16984 16997	les trottoirs
-T368	TIME 17023 17039	un quart d'heure
-T369	LOC 17074 17101	au coin de la rue Vivienne 
-T370	FAC 21420 21435	la rue Vivienne
-T371	FAC 17085 17101	la rue Vivienne 
-T372	PER 17482 17496	la jeune femme
-T373	PER 21471 21489	la morte inconnue 
-T374	PER 17717 17731	la jeune femme
-T375	PER 18995 19009	la jeune femme
-T376	PER 17277 17292	une jeune femme
-T377	TO_DISCUSS 18047 18063	une femme à lui 
-T378	TIME 18084 18091	Le soir
-T379	TIME 18164 18176	l'après-midi
-T380	FAC 18208 18231	chez un marchand de vin
-T381	PER 18800 18827	Les hommes de la barricade 
-T382	PER 18236 18247	des hommes 
-T383	FAC 18359 18371	la barricade
-T384	FAC 18814 18827	la barricade 
-T385	FAC 18395 18403	les rues
-T386	PER 18442 18454	les soldats 
-T387	TIME 19150 19163	quatre heures
-T388	PER 19387 19411	Un peloton de gendarmes 
-T389	PER 19496 19514	Les cinq cadavres 
-T390	PER 19439 19454	cinq malheureux
-T391	FAC 19463 19494	une barricade de la rue Grenéta
-T392	FAC 19480 19494	la rue Grenéta
-T393	FAC 19529 19540	le trottoir
-T394	FAC 19716 19731	un poste voisin
-T395	FAC 19753 19762	du poste 
-T396	PER 19745 19762	au chef du poste 
-T397	FAC 19911 19919	en poste
-T398	FAC 19902 19911	de poste 
-T399	TO_DISCUSS 20009 20023	un fou furieux
-T400	FAC 20025 20058	Au poste de la rue de la Lingerie
-T401	FAC 20037 20060	la rue de la Lingerie, 
-T402	PER 20060 20078	des soldats ivres 
-T403	PER 20167 20183	les prisonniers 
-T404	FAC 20183 20218	au Dépôt de la préfecture de police
-T405	ORG 20195 20218	la préfecture de police
-T406	TIME 20220 20235	Le surlendemain
-T407	TIME 20299 20307	ce jour 
-T408	FAC 20358 20369	la casemate
-T409	FAC 20251 20282	une casemate du fort de Bicêtre
-T410	FAC 20457 20467	cette cave
-T411	FAC 20264 20282	du fort de Bicêtre
-T412	GPE 20275 20282	Bicêtre
-T413	PER 20759 20767	le juge 
-T414	PER 20592 20613	un juge d'instruction
-T415	ORG 20692 20712	une société secrète 
-T416	TIME 20910 20933	Au bout de six semaines
-T417	TIME 20921 20933	six semaines
-T418	PER 20947 20958	un geôlier 
-T419	TIME 20971 20979	une nuit
-T420	TIME 21318 21348	une nuit heureuse de carnaval 
-T421	TIME 22575 22607	cette lointaine nuit de janvier 
-T422	TIME 22394 22423	La nuit heureuse de carnaval 
-T423	FAC 20996 21004	une cour
-T424	PER 21682 21694	ces forçats 
-T425	PER 21742 21758	les prisonniers 
-T426	PER 21011 21054	quatre cents et quelques autres prisonniers
-T427	PER 21077 21095	ce premier convoi 
-T428	TIME 21056 21075	Une heure plus tard
-T429	FAC 21108 21120	les pontons 
-T430	PER 21164 21187	deux files de gendarmes
-T431	FAC 21222 21242	le pont d'Austerlitz
-T432	FAC 21263 21277	des boulevards
-T433	FAC 22496 22510	des boulevards
-T434	FAC 21292 21308	la gare du Havre
-T435	FAC 21363 21392	des restaurants du boulevard 
-T436	FAC 21379 21392	du boulevard 
-T437	LOC 21533 21561	au fond d'une grande calèche
-T438	VEH 21543 21561	une grande calèche
-T439	PER 22512 22530	les femmes rieuses
-T440	PER 21563 21582	des femmes masquées
-T441	TIME 21898 21916	trente-six heures 
-T442	FAC 21958 21989	la cale de la frégate le Canada
-T443	VEH 21969 21989	la frégate le Canada
-T444	TIME 22451 22459	sept ans
-T445	FAC 22677 22702	cette énormité des Halles
-T446	TIME 38473 38482	la veille
-T447	TIME 22788 22797	la veille
-T448	PER 23233 23241	mon père
-T449	PER 23250 23260	un parent 
-T450	PER 23277 23290	une coureuse 
-T451	TIME 23499 23515	toute la journée
-T452	FAC 23521 23532	un trottoir
-T453	PER 23550 23566	quelques parents
-T454	PER 23633 23644	la famille 
-T455	PER 23780 23789	d'agents 
-T456	LOC 23800 23818	chaque coin de rue
-T457	PER 23820 23830	de femmes 
-T458	PER 23871 23890	aux pauvres diables
-T459	PER 24348 24357	un neveu 
-T460	PER 24450 24461	Vos parents
-T461	LOC 25196 25226	au coin du pavillon des fruits
-T462	VEH 25351 25364	Les voitures 
-T463	VEH 25519 25532	les voitures 
-T464	PER 25394 25409	des charretiers
-T465	LOC 25680 25715	Tout le long de la rue du Pont-Neuf
-T466	VEH 25733 25769	les tombereaux acculés aux ruisseaux
-T467	LOC 25756 25769	aux ruisseaux
-T468	VEH 25771 25802	les chevaux immobiles et serrés
-T469	VEH 25855 25883	une énorme voiture de boueux
-T470	VEH 26655 26668	le tombereau 
-T471	VEH 26255 26267	le tombereau
-T472	PER 26168 26200	Une petite paysanne de seize ans
-T473	LOC 26494 26526	au milieu des verdures épaisses 
-T474	FAC 27777 27788	la chaussée
-T475	FAC 46503 46514	la chaussée
-T476	FAC 26760 26771	la chaussée
-T477	PER 26791 26806	les maraîchers 
-T478	FAC 26818 26836	un étroit sentier 
-T479	PER 26845 26854	le monde 
-T480	PER 27296 27306	une foule 
-T481	TO_DISCUSS 27381 27395	Une voix forte
-T482	FAC 27763 27775	Du pavillon 
-T483	FAC 27469 27498	du pavillon aux gros légumes 
-T484	FAC 27519 27530	ce pavillon
-T485	PER 27500 27530	les revendeuses de ce pavillon
-T486	TIME 27678 27685	du jour
-T487	TO_DISCUSS 27734 27761	des porteurs posées à terre
-T488	TO_DISCUSS 27837 27854	des têtes cognées
-T489	TIME 27912 27929	un quart d'heure 
-T490	PER 27973 27988	des maraîchères
-T491	FAC 28084 28114	le carreau de la rue Rambuteau
-T492	FAC 40621 40637	la rue Rambuteau
-T493	FAC 40948 40964	la rue Rambuteau
-T494	FAC 34959 34975	la rue Rambuteau
-T495	FAC 52385 52401	la rue Rambuteau
-T496	FAC 54953 54969	la rue Rambuteau
-T497	FAC 56225 56242	la rue Rambuteau 
-T498	FAC 58825 58841	la rue Rambuteau
-T499	FAC 28098 28114	la rue Rambuteau
-T500	PER 28546 28560	la jeune femme
-T501	PER 28883 28896	la Sarriette 
-T502	PER 28368 28399	une adorable petite femme brune
-T503	PER 28899 28914	La jeune femme 
-T504	PER 28449 28455	Marcel
-T505	PER 28489 28496	L'homme
-T506	PER 28614 28620	Marcel
-T507	TIME 28562 28593	au bout de cinq grandes minutes
-T508	TIME 28573 28593	cinq grandes minutes
-T509	PER 28996 29002	Jules 
-T510	PER 28846 28855	ton Jules
-T511	PER 29042 29052	les hommes
-T512	FAC 29277 29303	les grandes rues couvertes
-T513	PER 29305 29314	du monde 
-T514	FAC 29334 29347	les pavillons
-T515	FAC 29418 29433	leurs trottoirs
-T516	PER 29463 29478	les boulangers 
-T517	PER 29463 29502	les boulangers et les marchands de vin 
-T518	PER 29481 29502	les marchands de vin 
-T519	FAC 29525 29545	les boutiques rouges
-T520	LOC 29603 29629	le long des maisons grises
-T521	FAC 29611 29629	des maisons grises
-T522	FAC 29649 29664	une boulangerie
-T523	TIME 29805 29827	quatre heures et demie
-T524	FAC 30422 30437	tout le marché 
-T525	FAC 55728 55737	du marché
-T526	TIME 30461 30486	le dernier coup de cloche
-T527	PER 30626 30644	le marchand de vin
-T528	GPE 30749 30768	ville très-éloignée
-T529	TIME 30862 30869	la nuit
-T530	PER 30977 30988	une voisine
-T531	FAC 31410 31421	ce trottoir
-T532	TO_DISCUSS 32023 32038	une voix forte 
-T533	PER 34231 34241	le peintre
-T534	PER 33376 33392	monsieur Claude 
-T535	PER 33437 33454	au jeune peintre 
-T536	PER 39910 39916	Claude
-T537	PER 39323 39330	Claude 
-T538	PER 44272 44279	Claude 
-T539	PER 50040 50056	Claude lui-même 
-T540	PER 52164 52170	Claude
-T541	PER 38299 38306	Claude 
-T542	PER 50719 50725	Claude
-T543	PER 38225 38231	Claude
-T544	PER 37332 37339	Claude 
-T545	PER 32101 32117	un garçon maigre
-T546	PER 52619 52626	Claude 
-T547	PER 45366 45373	Claude 
-T548	PER 57957 57964	Claude 
-T549	PER 48432 48439	Claude 
-T550	PER 54054 54061	Claude 
-T551	PER 56693 56700	Claude 
-T552	PER 59918 59933	Claude Lantier 
-T553	PER 59359 59366	Claude 
-T554	PER 32586 32601	monsieur Claude
-T555	PER 35599 35609	du peintre
-T556	PER 37417 37419	J'
-T557	PER 34691 34697	Claude
-T558	PER 40554 40560	Claude
-T559	PER 46593 46600	Claude 
-T560	PER 46675 46681	Claude
-T561	PER 47234 47240	Claude
-T562	PER 39642 39649	Claude 
-T563	PER 49670 49686	le peintre ravi 
-T564	PER 35313 35320	Claude 
-T565	PER 33690 33697	Claude 
-T566	PER 51239 51250	le peintre 
-T567	PER 36140 36147	Claude 
-T568	FAC 32765 32775	ma chambre
-T569	TIME 32846 32862	un de ces jours 
-T570	FAC 33055 33068	du poulailler
-T571	TIME 33089 33106	toute la semaine 
-T572	TIME 33134 33142	ce matin
-T573	LOC 33278 33306	toute la longueur du carreau
-T574	PER 33664 33680	les deux hommes 
-T575	PER 45366 45384	Claude et Florent 
-T576	PER 33868 33920	un flâneur habitué à toutes les rencontres de hasard
-T577	GPE 34264 34278	du vieux Paris
-T578	GPE 58798 58812	l'ancien Paris
-T579	TO_DISCUSS 34313 34325	une danseuse
-T580	FAC 34330 34342	les maisons 
-T581	FAC 35484 35495	Les maisons
-T582	TIME 34768 34775	La nuit
-T583	PER 34887 34901	deux camarades
-T584	FAC 34945 34975	le carreau de la rue Rambuteau
-T585	FAC 35428 35441	chaque maison
-T586	TO_DISCUSS 35948 35960	une jeunesse
-T587	LOC 36187 36217	au coin de la rue de Mondétour
-T588	FAC 36198 36217	la rue de Mondétour
-T589	FAC 36230 36253	l'avant-dernière maison
-T590	FAC 37441 37456	cette maison-là
-T591	FAC 36936 36948	la boutique 
-T592	FAC 36488 36499	la boutique
-T593	PER 36964 36975	du marchand
-T594	PER 36590 36618	un marchand d'herbes cuites 
-T595	PER 37106 37115	un homme 
-T596	PER 37207 37226	une petite vieille 
-T597	PER 37295 37314	mademoiselle Saget 
-T598	PER 37425 37434	une tante
-T599	FAC 37464 37484	une boîte à cancans 
-T600	PER 37713 37724	des Méhudin
-T601	PER 37497 37509	les Méhudin 
-T602	PER 37736 37754	des poissonnières 
-T603	PER 37756 37764	l'aînée 
-T604	NO_PER 37841 37862	une vierge de Murillo
-T605	PER 37963 37971	Murillo 
-T606	PER 37855 37862	Murillo
-T607	TO_DISCUSS 37986 37997	un polisson
-T608	LOC 38029 38049	au milieu de la rue 
-T609	TO_DISCUSS 38209 38218	une voix 
-T610	LOC 38233 38276	du fond de la boutique d'un marchand de vin
-T611	FAC 38244 38276	la boutique d'un marchand de vin
-T612	PER 38258 38276	un marchand de vin
-T613	FAC 38429 38438	la salle 
-T614	PER 38633 38660	Le patron, monsieur Lebigre
-T615	PER 39200 39216	monsieur Lebigre
-T616	PER 40175 40192	Monsieur Lebigre 
-T617	PER 38670 38681	les clients
-T618	PER 38793 38803	Des hommes
-T619	TIME 38997 39008	cette heure
-T620	PER 39073 39084	un camarade
-T621	FAC 39223 39245	un petit cabinet vitré
-T622	PER 40497 40507	Alexandre 
-T623	PER 39380 39388	l'homme 
-T624	PER 40535 40548	cet Alexandre
-T625	PER 40726 40736	le gredin 
-T626	PER 50242 50251	Alexandre
-T627	PER 39412 39461	un fort, un beau garçon de vingt-deux ans au plus
-T628	PER 39660 39669	Alexandre
-T629	GPE 39730 39743	Charentonneau
-T630	LOC 39827 39835	la Marne
-T631	TIME 39837 39844	Le soir
-T632	PER 40520 40533	Un bon garçon
-T633	FAC 40606 40637	le trottoir de la rue Rambuteau
-T634	LOC 40661 40673	la campagne 
-T635	LOC 40937 40964	au fond de la rue Rambuteau
-T636	NO_PER 40985 41011	La grande voix des Halles 
-T637	NO_PER 41104 41138	cette clameur roulante et montante
-T638	FAC 41073 41092	un pavillon éloigné
-T639	FAC 41159 41181	une des rues couvertes
-T640	FAC 41163 41181	des rues couvertes
-T641	FAC 41189 41213	le pavillon de la marée 
-T642	FAC 42378 42402	Le pavillon de la marée 
-T643	FAC 41189 41242	le pavillon de la marée et le pavillon de la volaille
-T644	FAC 41216 41242	le pavillon de la volaille
-T645	FAC 44454 44467	la grande rue
-T646	FAC 43321 43327	la rue
-T647	FAC 41412 41435	la grande rue du milieu
-T648	TO_DISCUSS 42650 42658	la ville
-T649	TO_DISCUSS 41449 41470	quelque ville étrange
-T650	TO_DISCUSS 41887 41895	la ville
-T651	TO_DISCUSS 41477 41500	ses quartiers distincts
-T652	TO_DISCUSS 41502 41515	ses faubourgs
-T653	TO_DISCUSS 41517 41529	ses villages
-T654	TO_DISCUSS 41531 41546	ses promenades 
-T655	TO_DISCUSS 41531 41559	ses promenades et ses routes
-T656	TO_DISCUSS 41549 41559	ses routes
-T657	TO_DISCUSS 41561 41572	ses places 
-T658	TO_DISCUSS 41561 41589	ses places et ses carrefours
-T659	TO_DISCUSS 41575 41589	ses carrefours
-T660	FAC 41614 41623	un hangar
-T661	GPE 42165 42179	Des quartiers 
-T662	FAC 42220 42262	Les pavillons du beurre et de la volaille 
-T663	FAC 42273 42308	leurs petites boutiques treillagées
-T664	FAC 42323 42346	leurs ruelles désertes 
-T665	PER 42425 42436	des femmes 
-T666	GPE 42660 42681	du quartier populeux 
-T667	TIME 42710 42732	quatre heures du matin
-T668	TIME 42724 42732	du matin
-T669	GPE 42734 42765	au quartier paresseux et riche 
-T670	FAC 42811 42823	ses maisons 
-T671	TIME 42832 42847	les huit heures
-T672	FAC 42861 42887	les grandes rues couvertes
-T673	LOC 42906 42927	Le long des trottoirs
-T674	FAC 42914 42927	des trottoirs
-T675	LOC 42929 42943	aux deux bords
-T676	PER 42945 42960	des maraîchers 
-T677	PER 42979 43001	de petits cultivateurs
-T678	LOC 43009 43030	des environs de Paris
-T679	TIME 43072 43089	la veille au soir
-T680	PER 43168 43176	la foule
-T681	VEH 43276 43288	ces voitures
-T682	VEH 43178 43191	des voitures 
-T683	VEH 43253 43266	leurs chevaux
-T684	VEH 43268 43288	Deux de ces voitures
-T685	VEH 43855 43917	des camions de la marée de plus en plus pressés et inquiétants
-T686	VEH 43690 43702	les camions 
-T687	VEH 43780 43799	les chemins de fer 
-T688	LOC 43828 43835	l'Océan
-T689	VEH 43950 43997	des camions du beurre, des œufs et des fromages
-T690	VEH 43999 44067	de grands chariots jaunes, à quatre chevaux, à lanternes de couleur 
-T691	PER 44069 44079	des forts 
-T692	FAC 44170 44193	le pavillon de la criée
-T693	FAC 44185 44193	la criée
-T694	PER 44198 44224	des employés en casquette 
-T695	TO_DISCUSS 44345 44365	un groupe de blouses
-T696	VEH 44385 44396	une voiture
-T697	LOC 44569 44607	au milieu du marché des fleurs coupées
-T698	FAC 44579 44607	du marché des fleurs coupées
-T699	PER 44647 44666	des femmes assises 
-T700	FAC 45250 45261	un trottoir
-T701	LOC 45430 45450	au milieu des fleurs
-T702	PER 45489 45500	des femmes 
-T703	FAC 45725 45735	une église
-T704	VEH 45764 45801	une voiture grande comme une brouette
-T705	FAC 46134 46144	rue Berger
-T706	FAC 46146 46185	les boutiques nues des commissionnaires
-T707	PER 46165 46185	des commissionnaires
-T708	PER 46378 46396	une dame bien mise
-T709	VEH 46455 46464	un fiacre
-T710	TO_DISCUSS 46472 46514	au milieu de l'encombrement de la chaussée
-T711	NO_PER 46550 46561	Cendrillon 
-T712	LOC 46791 46814	au beau milieu de Paris
-T713	TIME 46816 46828	chaque matin
-T714	TIME 46855 46873	des nuits entières
-T715	PER 46994 47011	son ami Marjolin 
-T716	PER 51437 51454	son ami Marjolin 
-T717	PER 51212 51233	ce diable de Marjolin
-T718	PER 59508 59542	une tête blonde aux larges cheveux
-T719	PER 59612 59621	Marjolin 
-T720	PER 46994 47037	son ami Marjolin et cette gueuse de Cadine 
-T721	PER 51825 51854	lui et cette gueuse de Cadine
-T722	PER 47014 47037	cette gueuse de Cadine 
-T723	PER 59553 59602	une petite tête noire, toute crépue et ébouriffée
-T724	PER 59628 59635	Cadine 
-T725	PER 51832 51854	cette gueuse de Cadine
-T726	TIME 47245 47257	ce moment-là
-T727	TIME 47645 47654	la veille
-T728	TIME 47685 47697	le lendemain
-T729	TIME 47750 47763	Ces matins-là
-T730	PER 47884 47909	ces gredins de bourgeois 
-T731	PER 47952 47959	un ami 
-T732	PER 48067 48075	Baratte 
-T733	PER 47979 47986	Baratte
-T734	TIME 47988 48009	un jour de splendeur 
-T735	FAC 51916 51945	l'ancien marché des Innocents
-T736	FAC 48114 48144	l'ancien marché des Innocents 
-T737	TIME 48167 48179	cette heure 
-T738	NO_PER 48217 48236	ce colosse de fonte
-T739	GPE 48240 48260	cette ville nouvelle
-T740	PER 48276 48290	Les imbéciles 
-T741	TO_DISCUSS 48673 48683	du moderne
-T742	LOC 48727 48746	au coin du trottoir
-T743	LOC 48936 48955	Au coin du trottoir
-T744	FAC 48735 48746	du trottoir
-T745	FAC 48944 48955	du trottoir
-T746	FAC 50814 50825	du trottoir
-T747	LOC 48853 48879	Le long de la rue couverte
-T748	FAC 48864 48879	la rue couverte
-T749	FAC 50642 50665	la grande rue couverte 
-T750	PER 48893 48904	des femmes 
-T751	PER 48957 48988	un large rond de consommateurs 
-T752	PER 49907 49925	les consommateurs 
-T753	PER 49011 49043	une marchande de soupe aux choux
-T754	PER 50005 50014	la femme 
-T755	PER 49175 49183	La femme
-T756	PER 49346 49373	des marchandes très-propres
-T757	PER 49375 49399	des maraîchers en blouse
-T758	PER 49401 49419	des porteurs sales
-T759	PER 49499 49529	de pauvres diables déguenillés
-T760	TO_DISCUSS 49531 49568	toutes les faims matinales des Halles
-T761	PER 50022 50038	un nouvel arrivé
-T762	LOC 50480 50515	Au bout de la rue de la Cossonnerie
-T763	FAC 50491 50515	la rue de la Cossonnerie
-T764	FAC 50517 50553	les maisons du boulevard Sébastopol 
-T765	FAC 50529 50553	du boulevard Sébastopol 
-T766	FAC 50831 50855	des profondeurs de cave 
-T767	TIME 51333 51341	la nuit 
-T768	OTHER 51346 51381	les bêtes de la cave aux volailles 
-T769	FAC 51359 51381	la cave aux volailles 
-T770	TIME 51466 51474	un matin
-T771	LOC 51760 51793	au milieu de cette forêt de fonte
-T772	PER 51809 51823	un joli couple
-T773	TIME 51896 51903	un soir
-T774	LOC 51905 51945	au coin de l'ancien marché des Innocents
-T775	PER 51969 51982	ce grand bêta
-T776	TO_DISCUSS 51995 52004	un Rubens
-T777	FAC 52300 52321	du bureau des omnibus
-T778	VEH 52310 52321	des omnibus
-T779	LOC 52374 52401	Au fond de la rue Rambuteau
-T780	TIME 53635 53649	le jour levant
-T781	TIME 52500 52511	Cette aube 
-T782	TIME 52562 52573	un instant 
-T783	FAC 52663 52685	le marché aux aromates
-T784	LOC 52687 52720	Le long du carreau de la triperie
-T785	FAC 52695 52720	du carreau de la triperie
-T786	PER 52788 52803	les marchandes 
-T787	FAC 52846 52857	du trottoir
-T788	PER 53090 53110	les marchands de vin
-T789	LOC 53112 53137	au fond des rues voisines
-T790	FAC 53120 53137	des rues voisines
-T791	FAC 53343 53362	leurs palais à jour
-T792	PER 53807 53816	un peuple
-T793	FAC 55804 55821	la rue des Halles
-T794	FAC 54240 54257	la rue des Halles
-T795	FAC 54265 54294	les deux groupes de pavillons
-T796	FAC 54321 54340	les deux carrefours
-T797	FAC 59345 59356	la chaussée
-T798	FAC 54620 54631	la chaussée
-T799	TIME 54857 54876	au lever du soleil 
-T800	TIME 54906 54915	du matin 
-T801	LOC 54942 54969	au fond de la rue Rambuteau
-T802	LOC 55720 55737	le long du marché
-T803	LOC 55788 55821	Au carrefour de la rue des Halles
-T804	TIME 56040 56047	l'aube 
-T805	LOC 56168 56208	au carrefour de la pointe Saint-Eustache
-T806	LOC 56210 56242	l'ouverture de la rue Rambuteau 
-T807	TIME 56863 56872	la veille
-T808	TIME 56900 56913	du lendemain 
-T809	LOC 56937 56955	le pavé des Halles
-T810	GPE 57130 57141	la banlieue
-T811	TO_DISCUSS 57154 57220	la foule des bonnets blancs, des caracos noirs, des blouses bleues
-T812	TO_DISCUSS 57163 57181	des bonnets blancs
-T813	TO_DISCUSS 57183 57200	des caracos noirs
-T814	TO_DISCUSS 57202 57220	des blouses bleues
-T815	FAC 57233 57253	les étroits sentiers
-T816	LOC 57278 57309	toute une campagne bourdonnante
-T817	PER 57330 57343	des porteurs 
-T818	PER 57384 57399	Les revendeuses
-T819	PER 57384 57448	Les revendeuses, les marchands des quatre saisons, les fruitiers
-T820	PER 57401 57433	les marchands des quatre saisons
-T821	PER 57486 57499	des caporaux 
-T822	PER 57486 57528	des caporaux et des bandes de religieuses 
-T823	PER 57502 57528	des bandes de religieuses 
-T824	PER 57571 57597	des cuisiniers de collége 
-T825	VEH 57666 57681	des tombereaux 
-T826	FAC 57804 57822	le trottoir opposé
-T827	LOC 57828 57858	du fond de la rue du Pont-Neuf
-T828	VEH 57860 57882	des files de voitures 
-T829	LOC 58251 58293	l'enfoncement sombre de la rue Montorgueil
-T830	LOC 58342 58375	au pan coupé de la rue Montmartre
-T831	FAC 58452 58464	au carrefour
-T832	FAC 58491 58507	autres enseignes
-T833	FAC 58631 58653	Les maisons des angles
-T834	LOC 58814 58841	Au coin de la rue Rambuteau
-T835	FAC 58879 58909	du grand magasin de nouveautés
-T836	PER 58911 58930	des commis bien mis
-T837	FAC 59043 59061	la maison Guillout
-T838	FAC 59076 59087	une caserne
-T839	FAC 59204 59225	Toutes les boutiques 
-T840	PER 59245 59277	Des ouvriers en blouses blanches
-T841	FAC 59443 59451	des rues
-T842	LOC 59836 59873	au fond de l'impasse des Bourdonnais 
-T843	FAC 59847 59873	l'impasse des Bourdonnais 
-T844	FAC 60073 60084	un trottoir
+T178	LOC 2913 2925	le ruisseau 
+T179	LOC 38191 38207	la rue Pirouette
+T180	LOC 59961 59977	la rue Pirouette
+T181	LOC 34243 34278	Un coin bien curieux du vieux Paris
+T182	LOC 34554 34571	la rue Pirouette 
+T183	LOC 34280 34293	cette rue-là 
+T184	LOC 38042 38049	la rue 
+T185	LOC 35393 35406	rue Pirouette
+T186	LOC 48573 48590	la rue Pirouette 
+T187	LOC 34179 34196	la rue Pirouette 
+T188	LOC 34753 34766	rue Pirouette
+T189	LOC 3880 3898	du côté des Halles
+T190	LOC 4599 4610	aux Halles 
+T191	LOC 3888 3898	des Halles
+T192	LOC 4309 4319	aux Halles
+T193	LOC 22692 22702	des Halles
+T194	LOC 40871 40881	les Halles
+T195	LOC 46663 46673	les Halles
+T196	LOC 6062 6072	aux Halles
+T197	LOC 53245 53264	les grandes Halles 
+T198	LOC 55811 55821	des Halles
+T199	LOC 45950 45961	des Halles 
+T200	LOC 49558 49568	des Halles
+T201	LOC 51635 51645	aux Halles
+T202	LOC 37263 37273	les Halles
+T203	LOC 28053 28063	des Halles
+T204	LOC 29182 29193	Les Halles 
+T205	LOC 41000 41011	des Halles 
+T206	LOC 15610 15631	les nouvelles Halles 
+T207	LOC 19165 19176	Les Halles 
+T208	LOC 51773 51793	cette forêt de fonte
+T209	LOC 56945 56955	des Halles
+T210	LOC 48193 48213	aux Halles centrales
+T211	VEH 4800 4820	Les autres voitures 
+T212	VEH 9958 9984	les neuf autres tombereaux
+T213	PER 5940 5955	madame François
+T214	PER 6020 6036	mon pauvre homme
+T215	PER 6120 6127	Florent
+T216	GPE 6519 6526	Cayenne
+T217	ORG 6829 6839	La police 
+T218	ORG 6666 6685	la police impériale
+T219	GPE 21300 21308	du Havre
+T220	GPE 6925 6933	au Havre
+T221	GPE 21732 21740	au Havre
+T222	GPE 7053 7058	Rouen
+T223	GPE 7016 7021	Rouen
+T224	VEH 7038 7048	la voiture
+T225	GPE 7130 7136	Vernon
+T226	GPE 7379 7386	Vernon 
+T227	FAC 7250 7258	un fossé
+T228	PER 7282 7294	un gendarme 
+T229	GPE 7771 7781	Courbevoie
+T230	FAC 8053 8063	au parapet
+T231	LOC 8084 8093	la Seine 
+T232	LOC 16362 16371	la Seine 
+T233	TO_DISCUSS 8126 8157	les masses épaissies des rives 
+T234	LOC 8147 8157	des rives 
+T235	TO_DISCUSS 8179 8184	l'eau
+T236	FAC 8557 8587	ses larges trottoirs grisâtres
+T237	FAC 8621 8661	les trous sombres des rues transversales
+T238	FAC 8639 8661	des rues transversales
+T239	PER 10299 10313	les douaniers 
+T240	PER 10736 10749	Un gros homme
+T241	FAC 26868 26890	Tout le large trottoir
+T242	FAC 10890 10901	le trottoir
+T243	FAC 25960 25972	au trottoir 
+T244	FAC 11377 11389	le trottoir 
+T245	FAC 27267 27279	Le trottoir 
+T246	FAC 11285 11296	le trottoir
+T247	FAC 13706 13717	du trottoir
+T248	LOC 11983 11998	rue Montorgueil
+T249	LOC 18191 18206	rue Montorgueil
+T250	LOC 16648 16666	la rue Montorgueil
+T251	LOC 58275 58293	la rue Montorgueil
+T252	LOC 29666 29681	rue Montorgueil
+T253	LOC 16421 16440	la rue Montorgueil 
+T254	LOC 12000 12014	au Compas d'or
+T255	LOC 16233 16249	cette grande rue
+T256	LOC 57839 57858	la rue du Pont-Neuf
+T257	LOC 58722 58750	la nouvelle rue du Pont-Neuf
+T258	LOC 12574 12587	une large rue
+T259	LOC 16329 16348	la rue du Pont-Neuf
+T260	LOC 16305 16307	C'
+T261	LOC 13954 13960	la rue
+T262	LOC 12881 12888	la rue 
+T263	LOC 25696 25715	la rue du Pont-Neuf
+T264	FAC 12816 12827	la chaussée
+T265	TO_DISCUSS 12954 12981	une file de bêtes attelées 
+T266	VEH 13161 13173	une voiture 
+T267	FAC 13200 13211	un trottoir
+T268	PER 13450 13459	un homme 
+T269	PER 13583 13615	un enfant d'une dizaine d'années
+T270	PER 13857 13862	gens 
+T271	OTHER 13857 13873	gens et légumes 
+T272	FAC 13962 13987	de gigantesques pavillons
+T273	FAC 14730 14764	cette vision colossale et fragile 
+T274	FAC 14130 14149	une suite de palais
+T275	FAC 14551 14569	de salles immenses
+T276	LOC 58076 58090	Saint-Eustache
+T277	LOC 19087 19101	Saint-Eustache
+T278	LOC 19371 19385	Saint-Eustache
+T279	LOC 53002 53017	Saint-Eustache 
+T280	LOC 54759 54766	de lait
+T281	LOC 27934 27940	un sou
+T282	LOC 14868 14876	l'église
+T283	LOC 14829 14843	Saint-Eustache
+T284	FAC 14850 14876	la masse grise de l'église
+T285	PER 15397 15421	cet ivrogne de Lacaille 
+T286	PER 15017 15026	un homme 
+T287	PER 29946 29955	Lacaille 
+T288	PER 30401 30413	Ce vieux-là 
+T289	PER 38972 38980	Lacaille
+T290	PER 15153 15162	Lacaille 
+T291	PER 15275 15283	l'homme 
+T292	PER 30292 30301	Lacaille 
+T293	PER 30535 30549	ces Parisiens 
+T294	PER 15201 15214	aux Parisiens
+T295	PER 15300 15309	Les gens 
+T296	FAC 42554 42578	aux fleurs et aux fruits
+T297	FAC 29136 29159	le pavillon aux fruits 
+T298	FAC 15726 15763	le pavillon aux fruits et aux fleurs 
+T299	FAC 25204 25226	du pavillon des fruits
+T300	FAC 15684 15696	le pavillon 
+T301	FAC 16072 16086	deux pavillons
+T302	FAC 16103 16114	les maisons
+T303	FAC 16126 16141	la Halle au blé
+T304	FAC 16311 16327	une rue nouvelle
+T305	LOC 16398 16416	la rue Montmartre 
+T306	LOC 58358 58375	la rue Montmartre
+T307	PER 23115 23144	Cette pauvre mère Chantemesse
+T308	PER 16578 16595	mère Chantemesse 
+T309	PER 16529 16561	une femme penchée sur ses navets
+T310	PER 22797 22820	.La mère Chantemesse 
+T311	PER 19225 19244	la mère Chantemesse
+T312	PER 51860 51880	la mère Chantemesse 
+T313	LOC 16638 16666	le bas de la rue Montorgueil
+T314	PER 19651 19673	les sergents de ville 
+T315	PER 18855 18877	les sergents de ville 
+T316	PER 18738 18763	quatre sergents de ville 
+T317	PER 16682 16713	une bande de sergents de ville 
+T318	LOC 16766 16789	le boulevard Montmartre
+T319	PER 59483 59492	la foule 
+T320	PER 16841 16849	la foule
+T321	PER 17125 17142	la foule affolée 
+T322	PER 16957 16969	les soldats 
+T323	PER 16863 16880	tous ces soldats 
+T324	ORG 16884 16893	l'Élysée 
+T325	FAC 16984 16997	les trottoirs
+T326	LOC 17074 17101	au coin de la rue Vivienne 
+T327	LOC 21420 21435	la rue Vivienne
+T328	LOC 17085 17101	la rue Vivienne 
+T329	PER 21471 21489	la morte inconnue 
+T330	PER 17482 17496	la jeune femme
+T331	PER 17717 17731	la jeune femme
+T332	PER 18995 19009	la jeune femme
+T333	PER 17277 17292	une jeune femme
+T334	PER 18047 18063	une femme à lui 
+T335	LOC 18208 18231	chez un marchand de vin
+T336	PER 18800 18827	Les hommes de la barricade 
+T337	PER 18236 18247	des hommes 
+T338	FAC 18395 18403	les rues
+T339	PER 18442 18454	les soldats 
+T340	PER 19387 19411	Un peloton de gendarmes 
+T341	PER 19496 19514	Les cinq cadavres 
+T342	PER 19439 19454	cinq malheureux
+T343	LOC 19480 19494	la rue Grenéta
+T344	FAC 19529 19540	le trottoir
+T345	FAC 19716 19731	un poste voisin
+T346	FAC 19753 19762	du poste 
+T347	PER 19745 19762	au chef du poste 
+T348	FAC 19911 19919	en poste
+T349	FAC 19902 19911	de poste 
+T350	PER 20009 20023	un fou furieux
+T351	LOC 20025 20058	Au poste de la rue de la Lingerie
+T352	LOC 20037 20060	la rue de la Lingerie, 
+T353	PER 20060 20078	des soldats ivres 
+T354	PER 20167 20183	les prisonniers 
+T355	LOC 20183 20218	au Dépôt de la préfecture de police
+T356	ORG 20195 20218	la préfecture de police
+T357	LOC 20358 20369	la casemate
+T358	LOC 20251 20282	une casemate du fort de Bicêtre
+T359	LOC 20457 20467	cette cave
+T360	LOC 20264 20282	du fort de Bicêtre
+T361	LOC 20275 20282	Bicêtre
+T362	PER 20424 20436	une centaine
+T363	PER 20759 20767	le juge 
+T364	PER 20592 20613	un juge d'instruction
+T365	ORG 20692 20712	une société secrète 
+T366	FAC 20996 21004	une cour
+T367	PER 21682 21694	ces forçats 
+T368	PER 21742 21758	les prisonniers 
+T369	PER 21011 21054	quatre cents et quelques autres prisonniers
+T370	PER 21077 21095	ce premier convoi 
+T371	PER 21164 21187	deux files de gendarmes
+T372	LOC 21222 21242	le pont d'Austerlitz
+T373	LOC 21292 21308	la gare du Havre
+T374	FAC 21363 21392	des restaurants du boulevard 
+T375	FAC 21379 21392	du boulevard 
+T376	VEH 21543 21561	une grande calèche
+T377	PER 22512 22530	les femmes rieuses
+T378	PER 21563 21582	des femmes masquées
+T379	VEH 21969 21989	la frégate le Canada
+T380	LOC 22677 22702	cette énormité des Halles
+T381	PER 23233 23241	mon père
+T382	PER 23250 23260	un parent 
+T383	PER 23277 23290	une coureuse 
+T384	FAC 23521 23532	un trottoir
+T385	PER 23550 23566	quelques parents
+T386	PER 23633 23644	la famille 
+T387	PER 23780 23789	d'agents 
+T388	FAC 23800 23818	chaque coin de rue
+T389	PER 23820 23830	de femmes 
+T390	PER 23871 23890	aux pauvres diables
+T391	PER 24348 24357	un neveu 
+T392	PER 24450 24461	Vos parents
+T393	PER 24680 24693	un « monsieur
+T394	VEH 25351 25364	Les voitures 
+T395	VEH 25519 25532	les voitures 
+T396	PER 25394 25409	des charretiers
+T397	LOC 25680 25715	Tout le long de la rue du Pont-Neuf
+T398	LOC 25756 25769	aux ruisseaux
+T399	VEH 25771 25802	les chevaux immobiles et serrés
+T400	FAC 25822 25831	une foire
+T401	VEH 25855 25883	une énorme voiture de boueux
+T402	VEH 26255 26267	le tombereau
+T403	VEH 26655 26668	le tombereau 
+T404	PER 26168 26200	Une petite paysanne de seize ans
+T405	FAC 27777 27788	la chaussée
+T406	FAC 46503 46514	la chaussée
+T407	FAC 26760 26771	la chaussée
+T408	PER 26791 26806	les maraîchers 
+T409	FAC 26818 26836	un étroit sentier 
+T410	PER 26845 26854	le monde 
+T411	PER 27296 27306	une foule 
+T412	FAC 27763 27775	Du pavillon 
+T413	FAC 27469 27498	du pavillon aux gros légumes 
+T414	FAC 27519 27530	ce pavillon
+T415	PER 27500 27530	les revendeuses de ce pavillon
+T416	VEH 27973 27988	des maraîchères
+T417	LOC 28084 28114	le carreau de la rue Rambuteau
+T418	LOC 40948 40964	la rue Rambuteau
+T419	LOC 40621 40637	la rue Rambuteau
+T420	LOC 34959 34975	la rue Rambuteau
+T421	LOC 52385 52401	la rue Rambuteau
+T422	LOC 54953 54969	la rue Rambuteau
+T423	LOC 56225 56242	la rue Rambuteau 
+T424	LOC 58825 58841	la rue Rambuteau
+T425	LOC 28098 28114	la rue Rambuteau
+T426	PER 28546 28560	la jeune femme
+T427	PER 28883 28896	la Sarriette 
+T428	PER 28368 28399	une adorable petite femme brune
+T429	PER 28899 28914	La jeune femme 
+T430	PER 28449 28455	Marcel
+T431	PER 28489 28496	L'homme
+T432	PER 28614 28620	Marcel
+T433	VEH 28510 28523	une limousine
+T434	PER 28996 29002	Jules 
+T435	PER 28846 28855	ton Jules
+T436	PER 29042 29052	les hommes
+T437	FAC 29277 29303	les grandes rues couvertes
+T438	PER 29305 29314	du monde 
+T439	FAC 29334 29347	les pavillons
+T440	PER 29387 29433	du grouillement grandissant de leurs trottoirs
+T441	FAC 29418 29433	leurs trottoirs
+T442	PER 29463 29478	les boulangers 
+T443	PER 29463 29502	les boulangers et les marchands de vin 
+T444	PER 29481 29502	les marchands de vin 
+T445	FAC 29611 29629	des maisons grises
+T446	FAC 29649 29664	une boulangerie
+T447	FAC 30422 30437	tout le marché 
+T448	FAC 55728 55737	du marché
+T449	PER 30626 30644	le marchand de vin
+T450	LOC 30749 30768	ville très-éloignée
+T451	PER 30977 30988	une voisine
+T452	FAC 31410 31421	ce trottoir
+T453	PER 34231 34241	le peintre
+T454	PER 33376 33392	monsieur Claude 
+T455	PER 39910 39916	Claude
+T456	PER 33437 33454	au jeune peintre 
+T457	PER 39323 39330	Claude 
+T458	PER 44272 44279	Claude 
+T459	PER 50040 50056	Claude lui-même 
+T460	PER 52164 52170	Claude
+T461	PER 38299 38306	Claude 
+T462	PER 50719 50725	Claude
+T463	PER 38225 38231	Claude
+T464	PER 37332 37339	Claude 
+T465	PER 32101 32117	un garçon maigre
+T466	PER 52619 52626	Claude 
+T467	PER 45366 45373	Claude 
+T468	PER 57957 57964	Claude 
+T469	PER 48432 48439	Claude 
+T470	PER 54054 54061	Claude 
+T471	PER 56693 56700	Claude 
+T472	PER 59918 59933	Claude Lantier 
+T473	PER 59359 59366	Claude 
+T474	PER 32586 32601	monsieur Claude
+T475	PER 35599 35609	du peintre
+T476	PER 37417 37419	J'
+T477	PER 34691 34697	Claude
+T478	PER 40554 40560	Claude
+T479	PER 46593 46600	Claude 
+T480	PER 46675 46681	Claude
+T481	PER 47234 47240	Claude
+T482	PER 39642 39649	Claude 
+T483	PER 49670 49686	le peintre ravi 
+T484	PER 35313 35320	Claude 
+T485	PER 33690 33697	Claude 
+T486	PER 51239 51250	le peintre 
+T487	PER 36140 36147	Claude 
+T488	FAC 32765 32775	ma chambre
+T489	FAC 33055 33068	du poulailler
+T490	PER 33664 33680	les deux hommes 
+T491	PER 45366 45384	Claude et Florent 
+T492	PER 33868 33920	un flâneur habitué à toutes les rencontres de hasard
+T493	PER 33889 33920	toutes les rencontres de hasard
+T494	GPE 34264 34278	du vieux Paris
+T495	GPE 58798 58812	l'ancien Paris
+T496	PER 34313 34325	une danseuse
+T497	FAC 34330 34342	les maisons 
+T498	FAC 35484 35495	Les maisons
+T499	PER 34887 34901	deux camarades
+T500	LOC 34945 34975	le carreau de la rue Rambuteau
+T501	FAC 35428 35441	chaque maison
+T502	PER 35948 35960	une jeunesse
+T503	FAC 35967 35994	la file bossuée des autres 
+T504	LOC 36187 36217	au coin de la rue de Mondétour
+T505	LOC 36198 36217	la rue de Mondétour
+T506	FAC 36230 36253	l'avant-dernière maison
+T507	FAC 37441 37456	cette maison-là
+T508	FAC 36936 36948	la boutique 
+T509	FAC 36488 36499	la boutique
+T510	PER 36964 36975	du marchand
+T511	PER 36590 36618	un marchand d'herbes cuites 
+T512	PER 37106 37115	un homme 
+T513	PER 37207 37226	une petite vieille 
+T514	PER 37295 37314	mademoiselle Saget 
+T515	PER 37425 37434	une tante
+T516	PER 37713 37724	des Méhudin
+T517	PER 37497 37509	les Méhudin 
+T518	PER 37736 37754	des poissonnières 
+T519	PER 37756 37764	l'aînée 
+T520	PER 37963 37971	Murillo 
+T521	PER 37855 37862	Murillo
+T522	PER 37986 37997	un polisson
+T523	LOC 38029 38049	au milieu de la rue 
+T524	LOC 38244 38276	la boutique d'un marchand de vin
+T525	PER 38258 38276	un marchand de vin
+T526	FAC 38429 38438	la salle 
+T527	PER 38633 38660	Le patron, monsieur Lebigre
+T528	PER 39200 39216	monsieur Lebigre
+T529	PER 40175 40192	Monsieur Lebigre 
+T530	PER 38670 38681	les clients
+T531	PER 38793 38803	Des hommes
+T532	PER 39073 39084	un camarade
+T533	FAC 39223 39245	un petit cabinet vitré
+T534	PER 40497 40507	Alexandre 
+T535	PER 39380 39388	l'homme 
+T536	PER 40726 40736	le gredin 
+T537	PER 40535 40548	cet Alexandre
+T538	PER 50242 50251	Alexandre
+T539	PER 39412 39461	un fort, un beau garçon de vingt-deux ans au plus
+T540	GPE 39730 39743	Charentonneau
+T541	LOC 39827 39835	la Marne
+T542	PER 40520 40533	Un bon garçon
+T543	LOC 40606 40637	le trottoir de la rue Rambuteau
+T544	GPE 40661 40673	la campagne 
+T545	LOC 40937 40964	au fond de la rue Rambuteau
+T546	FAC 41073 41092	un pavillon éloigné
+T547	FAC 41159 41181	une des rues couvertes
+T548	FAC 41163 41181	des rues couvertes
+T549	FAC 41189 41213	le pavillon de la marée 
+T550	FAC 42378 42402	Le pavillon de la marée 
+T551	FAC 41189 41242	le pavillon de la marée et le pavillon de la volaille
+T552	FAC 41216 41242	le pavillon de la volaille
+T553	FAC 44454 44467	la grande rue
+T554	FAC 43321 43327	la rue
+T555	FAC 41412 41435	la grande rue du milieu
+T556	GPE 42650 42658	la ville
+T557	GPE 41449 41470	quelque ville étrange
+T558	GPE 41887 41895	la ville
+T559	FAC 41477 41500	ses quartiers distincts
+T560	GPE 41502 41515	ses faubourgs
+T561	GPE 41517 41529	ses villages
+T562	FAC 41531 41546	ses promenades 
+T563	FAC 41531 41559	ses promenades et ses routes
+T564	FAC 41549 41559	ses routes
+T565	FAC 41561 41572	ses places 
+T566	FAC 41561 41589	ses places et ses carrefours
+T567	FAC 41575 41589	ses carrefours
+T568	FAC 41614 41623	un hangar
+T569	GPE 42165 42179	Des quartiers 
+T570	FAC 42220 42262	Les pavillons du beurre et de la volaille 
+T571	FAC 42273 42308	leurs petites boutiques treillagées
+T572	FAC 42323 42346	leurs ruelles désertes 
+T573	PER 42425 42436	des femmes 
+T574	GPE 42660 42681	du quartier populeux 
+T575	GPE 42734 42765	au quartier paresseux et riche 
+T576	FAC 42811 42823	ses maisons 
+T577	FAC 42861 42887	les grandes rues couvertes
+T578	FAC 42914 42927	des trottoirs
+T579	PER 42945 42960	des maraîchers 
+T580	PER 42979 43001	de petits cultivateurs
+T581	GPE 43009 43030	des environs de Paris
+T582	PER 43168 43176	la foule
+T583	VEH 43276 43288	ces voitures
+T584	VEH 43178 43191	des voitures 
+T585	VEH 43253 43266	leurs chevaux
+T586	VEH 43268 43288	Deux de ces voitures
+T587	VEH 43855 43917	des camions de la marée de plus en plus pressés et inquiétants
+T588	VEH 43690 43702	les camions 
+T589	VEH 43780 43799	les chemins de fer 
+T590	LOC 43828 43835	l'Océan
+T591	VEH 43950 43997	des camions du beurre, des œufs et des fromages
+T592	VEH 43999 44067	de grands chariots jaunes, à quatre chevaux, à lanternes de couleur 
+T593	PER 44069 44079	des forts 
+T594	FAC 44170 44193	le pavillon de la criée
+T595	FAC 44185 44193	la criée
+T596	PER 44198 44224	des employés en casquette 
+T597	VEH 44385 44396	une voiture
+T598	LOC 44579 44607	du marché des fleurs coupées
+T599	PER 44647 44666	des femmes assises 
+T600	FAC 45250 45261	un trottoir
+T601	PER 45489 45500	des femmes 
+T602	LOC 45725 45735	une église
+T603	VEH 45764 45801	une voiture grande comme une brouette
+T604	LOC 46134 46144	rue Berger
+T605	LOC 46146 46185	les boutiques nues des commissionnaires
+T606	PER 46165 46185	des commissionnaires
+T607	PER 46378 46396	une dame bien mise
+T608	VEH 46455 46464	un fiacre
+T609	FAC 46485 46514	l'encombrement de la chaussée
+T610	PER 46550 46561	Cendrillon 
+T611	GPE 46791 46814	au beau milieu de Paris
+T612	PER 46994 47011	son ami Marjolin 
+T613	PER 51437 51454	son ami Marjolin 
+T614	PER 51212 51233	ce diable de Marjolin
+T615	PER 59508 59542	une tête blonde aux larges cheveux
+T616	PER 59612 59621	Marjolin 
+T617	PER 47014 47037	cette gueuse de Cadine 
+T618	PER 59553 59602	une petite tête noire, toute crépue et ébouriffée
+T619	PER 59628 59635	Cadine 
+T620	PER 51832 51854	cette gueuse de Cadine
+T621	PER 47884 47909	ces gredins de bourgeois 
+T622	LOC 48067 48075	Baratte 
+T623	LOC 47979 47986	Baratte
+T624	LOC 51916 51945	l'ancien marché des Innocents
+T625	LOC 48114 48144	l'ancien marché des Innocents 
+T626	GPE 48240 48260	cette ville nouvelle
+T627	PER 48276 48290	Les imbéciles 
+T628	FAC 48944 48955	du trottoir
+T629	FAC 48735 48746	du trottoir
+T630	FAC 50814 50825	du trottoir
+T631	FAC 48864 48879	la rue couverte
+T632	FAC 50642 50665	la grande rue couverte 
+T633	PER 48893 48904	des femmes 
+T634	PER 48957 48988	un large rond de consommateurs 
+T635	PER 49907 49925	les consommateurs 
+T636	PER 49011 49043	une marchande de soupe aux choux
+T637	PER 50005 50014	la femme 
+T638	PER 49175 49183	La femme
+T639	PER 49346 49373	des marchandes très-propres
+T640	PER 49375 49399	des maraîchers en blouse
+T641	PER 49401 49419	des porteurs sales
+T642	PER 49499 49529	de pauvres diables déguenillés
+T643	PER 49531 49568	toutes les faims matinales des Halles
+T644	PER 50022 50038	un nouvel arrivé
+T645	LOC 50491 50515	la rue de la Cossonnerie
+T646	LOC 50517 50553	les maisons du boulevard Sébastopol 
+T647	LOC 50529 50553	du boulevard Sébastopol 
+T648	FAC 50831 50855	des profondeurs de cave 
+T649	OTHER 51346 51381	les bêtes de la cave aux volailles 
+T650	PER 51809 51823	un joli couple
+T651	PER 51969 51982	ce grand bêta
+T652	PER 51995 52004	un Rubens
+T653	FAC 52300 52321	du bureau des omnibus
+T654	VEH 52310 52321	des omnibus
+T655	LOC 52597 52612	quelque colline
+T656	FAC 52663 52685	le marché aux aromates
+T657	FAC 52695 52720	du carreau de la triperie
+T658	PER 52788 52803	les marchandes 
+T659	FAC 52846 52857	du trottoir
+T660	PER 53090 53110	les marchands de vin
+T661	FAC 53120 53137	des rues voisines
+T662	FAC 53343 53362	leurs palais à jour
+T663	PER 53807 53816	un peuple
+T664	LOC 54185 54192	une mer
+T665	LOC 55804 55821	la rue des Halles
+T666	LOC 54240 54257	la rue des Halles
+T667	FAC 54265 54294	les deux groupes de pavillons
+T668	FAC 54321 54340	les deux carrefours
+T669	FAC 59345 59356	la chaussée
+T670	FAC 54620 54631	la chaussée
+T671	LOC 54942 54969	au fond de la rue Rambuteau
+T672	FAC 55720 55737	le long du marché
+T673	LOC 55788 55821	Au carrefour de la rue des Halles
+T674	LOC 56168 56208	au carrefour de la pointe Saint-Eustache
+T675	LOC 56210 56242	l'ouverture de la rue Rambuteau 
+T676	LOC 56937 56955	le pavé des Halles
+T677	PER 57154 57220	la foule des bonnets blancs, des caracos noirs, des blouses bleues
+T678	FAC 57233 57253	les étroits sentiers
+T679	LOC 57278 57309	toute une campagne bourdonnante
+T680	PER 57330 57343	des porteurs 
+T681	PER 57384 57399	Les revendeuses
+T682	VEH 57384 57448	Les revendeuses, les marchands des quatre saisons, les fruitiers
+T683	PER 57401 57433	les marchands des quatre saisons
+T684	PER 57486 57499	des caporaux 
+T685	PER 57486 57528	des caporaux et des bandes de religieuses 
+T686	PER 57502 57528	des bandes de religieuses 
+T687	PER 57571 57597	des cuisiniers de collége 
+T688	FAC 57804 57822	le trottoir opposé
+T689	LOC 57828 57858	du fond de la rue du Pont-Neuf
+T690	VEH 57860 57882	des files de voitures 
+T691	LOC 58251 58293	l'enfoncement sombre de la rue Montorgueil
+T692	FAC 58452 58464	au carrefour
+T693	FAC 58509 58535	des Droguerie et pharmacie
+T694	FAC 58631 58653	Les maisons des angles
+T695	LOC 58814 58841	Au coin de la rue Rambuteau
+T696	FAC 58879 58909	du grand magasin de nouveautés
+T697	PER 58911 58930	des commis bien mis
+T698	LOC 59043 59061	la maison Guillout
+T699	FAC 59076 59087	une caserne
+T700	FAC 59204 59225	Toutes les boutiques 
+T701	PER 59245 59277	Des ouvriers en blouses blanches
+T702	FAC 59443 59451	des rues
+T703	LOC 59836 59873	au fond de l'impasse des Bourdonnais 
+T704	LOC 60063 60084	au bord d'un trottoir

@@ -11,11 +11,11 @@ We use a subset of the files from [Democrat](https://www.ortolang.fr/market/corp
 |1830|Honoré de Balzac|Sarrasine|ok|ok|
 |1836|Théophile Gautier|La morte amoureuse|ok|ok|
 |1841|George Sand|Pauline|ok|ok|
-|1856|Victor Cousin|Madame de Hautefort|ok||			
+|1856|Victor Cousin|Madame de Hautefort|ok|ok|			
 |1863|Théophile Gautier|Le capitaine Fracasse|ok|ok|
 |1873|Émile Zola|Le ventre de Paris|ok|ok|
 |1881|Gustave Flaubert|Bouvard et Pécuchet|ok|ok|
-|1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (1)|ok||
+|1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (1)|ok|ok|
 |1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (2)|ok|ok|
 |1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (3)|||
 |1901|Lucie Achard|Rosalie de Constant, sa famille et ses amis|ok||

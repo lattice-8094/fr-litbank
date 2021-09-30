@@ -16714,7 +16714,22 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 </fs>
 </div>
 <div type="relation-fs"></div>
-<div type="schema-fs">
+<div type="schema-fs"><fs id="s-CHAINE-1-fs">
+<f name="REF"><string>référent indéfini</string></f>
+<f name="NB MAILLONS"><string>30</string></f>
+</fs>
+<fs id="s-CHAINE-2-fs">
+<f name="REF"><string>24 octobre 1875</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-3-fs">
+<f name="REF"><string>SI_1</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-4-fs">
+<f name="REF"><string>le soir</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-5-fs">
 <f name="REF"><string>SI_2</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
@@ -16725,14 +16740,49 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>8</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-7-fs">
+<f name="REF"><string>SI_3</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-8-fs">
 <f name="REF"><string>l_abbé Bernard</string></f>
 <f name="NB MAILLONS"><string>299</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-9-fs">
+<f name="REF"><string>SI_4</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-10-fs">
+<f name="REF"><string>SI_5</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-11-fs">
+<f name="REF"><string>SI_6</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-12-fs">
+<f name="REF"><string>SI_7</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-13-fs">
+<f name="REF"><string>SI_8</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-14-fs">
+<f name="REF"><string>SI_9</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-15-fs">
+<f name="REF"><string>SI_10</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-16-fs">
+<f name="REF"><string>SI_11</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-17-fs">
 <f name="REF"><string>un curé de ses amis</string></f>
-<f name="NB MAILLONS"><string>5</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
 <fs id="s-CHAINE-18-fs">
@@ -16740,10 +16790,22 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-19-fs">
+<f name="REF"><string>le chevet d_un mourant</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-20-fs">
 <f name="REF"><string>un mourant</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-21-fs">
+<f name="REF"><string>SI_13</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-22-fs">
+<f name="REF"><string>SI_14</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-23-fs">
 <f name="REF"><string>le presbytère</string></f>
@@ -16770,50 +16832,334 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-28-fs">
+<f name="REF"><string>l_immensité</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-29-fs">
+<f name="REF"><string>SI_17</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-30-fs">
+<f name="REF"><string>SI_18</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-31-fs">
 <f name="REF"><string>Dieu</string></f>
 <f name="NB MAILLONS"><string>8</string></f>
 <f name="TYPE REFERENT"><string>NO_PER</string></f>
+</fs>
+<fs id="s-CHAINE-32-fs">
+<f name="REF"><string>SI_19</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-33-fs">
+<f name="REF"><string>SI_20</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-34-fs">
+<f name="REF"><string>SI_21</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-35-fs">
+<f name="REF"><string>SI_22</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-36-fs">
+<f name="REF"><string>la voix de Dieu</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-37-fs">
+<f name="REF"><string>SI_23</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-38-fs">
+<f name="REF"><string>le banc</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-39-fs">
+<f name="REF"><string>SI_24</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-40-fs">
+<f name="REF"><string>SI_25</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-41-fs">
+<f name="REF"><string>SI_26</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-42-fs">
+<f name="REF"><string>SI_27</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-43-fs">
+<f name="REF"><string>SI_28</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-44-fs">
+<f name="REF"><string>un hymne</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-45-fs">
+<f name="REF"><string>SI_29</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-46-fs">
+<f name="REF"><string>SI_30</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-47-fs">
+<f name="REF"><string>voix du marin</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
 </fs>
 <fs id="s-CHAINE-48-fs">
 <f name="REF"><string>un marin</string></f>
 <f name="NB MAILLONS"><string>27</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-49-fs">
+<f name="REF"><string>SI_31</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-50-fs">
+<f name="REF"><string>tête de l_abbé</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-51-fs">
+<f name="REF"><string>SI_32</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-52-fs">
+<f name="REF"><string>SI_33</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-53-fs">
 <f name="REF"><string>M_ Richard</string></f>
 <f name="NB MAILLONS"><string>97</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-54-fs">
+<f name="REF"><string>ce qu_il me faut</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-55-fs">
+<f name="REF"><string>SI_34</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-56-fs">
 <f name="REF"><string>la bibliothèque</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-57-fs">
+<f name="REF"><string>SI_35</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-58-fs">
+<f name="REF"><string>SI_36</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-59-fs">
+<f name="REF"><string>SI_37</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-60-fs">
+<f name="REF"><string>SI_38</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-61-fs">
+<f name="REF"><string>SI_39</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-62-fs">
+<f name="REF"><string>SI_40</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-63-fs">
 <f name="REF"><string>le marin et l_abbé</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-64-fs">
+<f name="REF"><string>SI_41</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-65-fs">
 <f name="REF"><string>le yatch</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
 <f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
+<fs id="s-CHAINE-66-fs">
+<f name="REF"><string>SI_42</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-67-fs">
+<f name="REF"><string>SI_43</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-68-fs">
+<f name="REF"><string>SI_44</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-69-fs">
+<f name="REF"><string>la machine</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-70-fs">
+<f name="REF"><string>SI_45</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-71-fs">
+<f name="REF"><string>SI_46</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-72-fs">
+<f name="REF"><string>SI_47</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-73-fs">
+<f name="REF"><string>SI_48</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-74-fs">
 <f name="REF"><string>SI_49</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-75-fs">
+<f name="REF"><string>SI_50</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-76-fs">
+<f name="REF"><string>avoir les yeux bandés</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-77-fs">
+<f name="REF"><string>yeux de l_abbé</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-78-fs">
+<f name="REF"><string>SI_51</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-79-fs">
+<f name="REF"><string>SI_52</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-80-fs">
+<f name="REF"><string>SI_53</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-81-fs">
+<f name="REF"><string>SI_54</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-82-fs">
+<f name="REF"><string>SI_55</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-83-fs">
+<f name="REF"><string>un sac de toile goudronné</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-84-fs">
+<f name="REF"><string>SI_56</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-85-fs">
+<f name="REF"><string>SI_57</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-86-fs">
+<f name="REF"><string>SI_58</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-87-fs">
+<f name="REF"><string>un bruit étrange</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-88-fs">
+<f name="REF"><string>SI_59</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-89-fs">
+<f name="REF"><string>SI_60</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-90-fs">
+<f name="REF"><string>la navigation</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-91-fs">
+<f name="REF"><string>SI_61</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-93-fs">
+<f name="REF"><string>SI_62</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-92-fs">
+<f name="REF"><string>SI_63</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-94-fs">
+<f name="REF"><string>SI_64</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-95-fs">
+<f name="REF"><string>SI_65</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-96-fs">
+<f name="REF"><string>SI_66</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-97-fs">
 <f name="REF"><string>quelqu_un</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-98-fs">
+<f name="REF"><string>SI_67</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-99-fs">
+<f name="REF"><string>SI_68</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-100-fs">
 <f name="REF"><string>une chambre</string></f>
 <f name="NB MAILLONS"><string>5</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
+</fs>
+<fs id="s-CHAINE-101-fs">
+<f name="REF"><string>l_électricité</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-102-fs">
+<f name="REF"><string>SI_69</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-103-fs">
+<f name="REF"><string>le lit</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-104-fs">
+<f name="REF"><string>SI_70</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-105-fs">
+<f name="REF"><string>SI_71</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-106-fs">
+<f name="REF"><string>SI_72</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-107-fs">
+<f name="REF"><string>SI_73</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-108-fs">
 <f name="REF"><string>le paquebot</string></f>
@@ -16830,10 +17176,54 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>21</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-111-fs">
+<f name="REF"><string>SI_74</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-112-fs">
+<f name="REF"><string>SI_75</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-113-fs">
+<f name="REF"><string>SI_76</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-114-fs">
+<f name="REF"><string>SI_77</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-115-fs">
+<f name="REF"><string>SI_78</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-116-fs">
+<f name="REF"><string>SI_79</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-117-fs">
+<f name="REF"><string>un épouvantable roulis</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-118-fs">
+<f name="REF"><string>SI_80</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-119-fs">
+<f name="REF"><string>SI_81</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-120-fs">
 <f name="REF"><string>ceux qui n_étaient pas au service du bord</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-121-fs">
+<f name="REF"><string>SI_82</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-122-fs">
+<f name="REF"><string>SI_83</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-123-fs">
 <f name="REF"><string>SI_84</string></f>
@@ -16855,10 +17245,34 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-127-fs">
+<f name="REF"><string>nom du paquebot</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-128-fs">
+<f name="REF"><string>SI_88</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-129-fs">
+<f name="REF"><string>SI_89</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-130-fs">
+<f name="REF"><string>SI_90</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-131-fs">
+<f name="REF"><string>SI_91</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-132-fs">
 <f name="REF"><string>les passagers</string></f>
 <f name="NB MAILLONS"><string>50</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-133-fs">
+<f name="REF"><string>SI_92</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-134-fs">
 <f name="REF"><string>SI_93</string></f>
@@ -16885,35 +17299,123 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-139-fs">
+<f name="REF"><string>SI_98</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-140-fs">
 <f name="REF"><string>SI_99</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-141-fs">
+<f name="REF"><string>SI_100</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-142-fs">
 <f name="REF"><string>le pont du paquebot</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-143-fs">
+<f name="REF"><string>SI_101</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-144-fs">
+<f name="REF"><string>SI_102</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-145-fs">
+<f name="REF"><string>SI_103</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-146-fs">
+<f name="REF"><string>SI_104</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-147-fs">
+<f name="REF"><string>SI_105</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-148-fs">
+<f name="REF"><string>tribord</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-149-fs">
+<f name="REF"><string>SI_106</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-150-fs">
 <f name="REF"><string>SI_107</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-151-fs">
+<f name="REF"><string>les lunettes marines</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-152-fs">
+<f name="REF"><string>l_horizon</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-153-fs">
+<f name="REF"><string>SI_108</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-154-fs">
+<f name="REF"><string>SI_109</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-155-fs">
 <f name="REF"><string>les femmes</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-156-fs">
+<f name="REF"><string>SI_110</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-157-fs">
+<f name="REF"><string>SI_111</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-158-fs">
+<f name="REF"><string>la tempête</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-159-fs">
+<f name="REF"><string>SI_112</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-160-fs">
+<f name="REF"><string>SI_113</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-161-fs">
+<f name="REF"><string>SI_114</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-162-fs">
 <f name="REF"><string>SI_115</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-163-fs">
+<f name="REF"><string>SI_116</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-164-fs">
 <f name="REF"><string>une terre du Pacifique</string></f>
 <f name="NB MAILLONS"><string>28</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-165-fs">
+<f name="REF"><string>SI_117</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-166-fs">
+<f name="REF"><string>SI_118</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-167-fs">
 <f name="REF"><string>une sorte de promontoire</string></f>
@@ -16935,10 +17437,22 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-171-fs">
+<f name="REF"><string>SI_120</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-172-fs">
 <f name="REF"><string>SI_121</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-173-fs">
+<f name="REF"><string>SI_122</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-174-fs">
+<f name="REF"><string>SI_123</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-175-fs">
 <f name="REF"><string>les matelots</string></f>
@@ -16949,6 +17463,10 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>les chaloupes</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>VEH</string></f>
+</fs>
+<fs id="s-CHAINE-177-fs">
+<f name="REF"><string>SI_124</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-178-fs">
 <f name="REF"><string>la dernière chaloupe</string></f>
@@ -16970,15 +17488,55 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-182-fs">
+<f name="REF"><string>un grand malheur</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-183-fs">
+<f name="REF"><string>SI_126</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-184-fs">
+<f name="REF"><string>SI_127</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-185-fs">
 <f name="REF"><string>certains passagers</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-186-fs">
+<f name="REF"><string>SI_128</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-188-fs">
+<f name="REF"><string>SI_129</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-187-fs">
+<f name="REF"><string>SI_130</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-189-fs">
+<f name="REF"><string>SI_131</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-190-fs">
+<f name="REF"><string>SI_132</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-191-fs">
+<f name="REF"><string>SI_133</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-192-fs">
 <f name="REF"><string>SI_134</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-193-fs">
+<f name="REF"><string>SI_135</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-194-fs">
 <f name="REF"><string>quel point du globe</string></f>
@@ -16990,15 +17548,67 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-196-fs">
+<f name="REF"><string>SI_137</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-197-fs">
+<f name="REF"><string>SI_138</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-198-fs">
+<f name="REF"><string>la chose certaine</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-199-fs">
+<f name="REF"><string>SI_139</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-200-fs">
 <f name="REF"><string>SI_140</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-201-fs">
+<f name="REF"><string>SI_141</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-202-fs">
+<f name="REF"><string>SI_142</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-203-fs">
+<f name="REF"><string>SI_143</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-204-fs">
+<f name="REF"><string>le granit</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-205-fs">
+<f name="REF"><string>SI_144</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-206-fs">
+<f name="REF"><string>le sol</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-207-fs">
+<f name="REF"><string>un tremblement de terre</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-208-fs">
+<f name="REF"><string>une époque peu éloignée</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-209-fs">
 <f name="REF"><string>SI_145</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-210-fs">
+<f name="REF"><string>SI_146</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-211-fs">
 <f name="REF"><string>SI_147</string></f>
@@ -17015,6 +17625,58 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>NO_PER</string></f>
 </fs>
+<fs id="s-CHAINE-214-fs">
+<f name="REF"><string>SI_150</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-215-fs">
+<f name="REF"><string>SI_151</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-216-fs">
+<f name="REF"><string>une préoccupation</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-217-fs">
+<f name="REF"><string>SI_152</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-218-fs">
+<f name="REF"><string>SI_153</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-219-fs">
+<f name="REF"><string>SI_154</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-220-fs">
+<f name="REF"><string>SI_155</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-221-fs">
+<f name="REF"><string>chacun</string></f>
+<f name="NB MAILLONS"><string>5</string></f>
+</fs>
+<fs id="s-CHAINE-222-fs">
+<f name="REF"><string>SI_156</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-223-fs">
+<f name="REF"><string>SI_157</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-224-fs">
+<f name="REF"><string>SI_158</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-225-fs">
+<f name="REF"><string>SI_159</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-226-fs">
+<f name="REF"><string>le campement</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
 <fs id="s-CHAINE-227-fs">
 <f name="REF"><string>Turko</string></f>
 <f name="NB MAILLONS"><string>27</string></f>
@@ -17025,15 +17687,79 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>289</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-229-fs">
+<f name="REF"><string>nom de Roger</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-230-fs">
 <f name="REF"><string>SI_160</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-231-fs">
+<f name="REF"><string>SI_161</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-232-fs">
+<f name="REF"><string>un soleil radieux</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-233-fs">
+<f name="REF"><string>SI_162</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-234-fs">
+<f name="REF"><string>SI_163</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-235-fs">
+<f name="REF"><string>SI_164</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-236-fs">
+<f name="REF"><string>SI_165</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-237-fs">
+<f name="REF"><string>SI_166</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-238-fs">
+<f name="REF"><string>SI_167</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-239-fs">
+<f name="REF"><string>SI_168</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-240-fs">
+<f name="REF"><string>la nature de la terre</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-241-fs">
+<f name="REF"><string>SI_169</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-242-fs">
+<f name="REF"><string>SI_170</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-243-fs">
 <f name="REF"><string>SI_171</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-244-fs">
+<f name="REF"><string>la supposition</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-245-fs">
+<f name="REF"><string>SI_172</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-246-fs">
+<f name="REF"><string>la Providence</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
 </fs>
 <fs id="s-CHAINE-247-fs">
 <f name="REF"><string>Roger et Paul</string></f>
@@ -17045,6 +17771,10 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>104</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-249-fs">
+<f name="REF"><string>SI_173</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-250-fs">
 <f name="REF"><string>le sommet</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
@@ -17055,10 +17785,58 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>5</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-252-fs">
+<f name="REF"><string>SI_174</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-253-fs">
+<f name="REF"><string>SI_175</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-255-fs">
+<f name="REF"><string>SI_176</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-254-fs">
+<f name="REF"><string>SI_177</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-256-fs">
+<f name="REF"><string>SI_178</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-257-fs">
+<f name="REF"><string>SI_179</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-258-fs">
+<f name="REF"><string>le câble</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-259-fs">
+<f name="REF"><string>la lunette marine</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-260-fs">
+<f name="REF"><string>SI_180</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-261-fs">
+<f name="REF"><string>SI_181</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-262-fs">
+<f name="REF"><string>SI_182</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-263-fs">
 <f name="REF"><string>les passagers restés au campement</string></f>
 <f name="NB MAILLONS"><string>14</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-264-fs">
+<f name="REF"><string>SI_183</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-266-fs">
 <f name="REF"><string>SI_184</string></f>
@@ -17075,95 +17853,587 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>3</string></f>
 <f name="TYPE REFERENT"><string>METALEPSE</string></f>
 </fs>
+<fs id="s-CHAINE-269-fs">
+<f name="REF"><string>SI_186</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-268-fs">
+<f name="REF"><string>SI_187</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-270-fs">
+<f name="REF"><string>l_excursion</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-271-fs">
+<f name="REF"><string>toutes les difficultés</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-272-fs">
+<f name="REF"><string>SI_188</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-273-fs">
+<f name="REF"><string>SI_189</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-274-fs">
+<f name="REF"><string>SI_190</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-275-fs">
+<f name="REF"><string>SI_191</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-276-fs">
 <f name="REF"><string>SI_192</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-277-fs">
+<f name="REF"><string>SI_193</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-278-fs">
+<f name="REF"><string>SI_194</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-279-fs">
+<f name="REF"><string>SI_195</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-280-fs">
+<f name="REF"><string>SI_196</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-281-fs">
+<f name="REF"><string>SI_197</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-282-fs">
+<f name="REF"><string>SI_198</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-283-fs">
 <f name="REF"><string>SI_199</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-284-fs">
+<f name="REF"><string>SI_200</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-285-fs">
+<f name="REF"><string>SI_201</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-286-fs">
+<f name="REF"><string>la nuit</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-287-fs">
+<f name="REF"><string>les sombres pensées</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-288-fs">
+<f name="REF"><string>SI_202</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-289-fs">
+<f name="REF"><string>SI_203</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-290-fs">
 <f name="REF"><string>un radeau</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>VEH</string></f>
+</fs>
+<fs id="s-CHAINE-291-fs">
+<f name="REF"><string>SI_204</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-292-fs">
 <f name="REF"><string>le bord de la mer</string></f>
 <f name="NB MAILLONS"><string>10</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-293-fs">
+<f name="REF"><string>SI_205</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-294-fs">
 <f name="REF"><string>SI_206</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-295-fs">
+<f name="REF"><string>SI_207</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-296-fs">
 <f name="REF"><string>les blocs de granit</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-297-fs">
+<f name="REF"><string>SI_208</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-298-fs">
+<f name="REF"><string>SI_209</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-299-fs">
+<f name="REF"><string>l_eau</string></f>
+<f name="NB MAILLONS"><string>10</string></f>
+</fs>
+<fs id="s-CHAINE-300-fs">
+<f name="REF"><string>SI_210</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-301-fs">
+<f name="REF"><string>des signes</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-302-fs">
+<f name="REF"><string>yeux de Roger</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-303-fs">
+<f name="REF"><string>SI_211</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-304-fs">
+<f name="REF"><string>SI_212</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-305-fs">
+<f name="REF"><string>SI_213</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-306-fs">
+<f name="REF"><string>une particularité</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-307-fs">
+<f name="REF"><string>SI_214</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-308-fs">
+<f name="REF"><string>SI_215</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-309-fs">
+<f name="REF"><string>SI_216</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-310-fs">
+<f name="REF"><string>SI_217</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-311-fs">
+<f name="REF"><string>SI_218</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-312-fs">
+<f name="REF"><string>SI_219</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-313-fs">
 <f name="REF"><string>les poissons</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>NO_PER</string></f>
+</fs>
+<fs id="s-CHAINE-314-fs">
+<f name="REF"><string>SI_220</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-315-fs">
+<f name="REF"><string>SI_221</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-316-fs">
+<f name="REF"><string>SI_222</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-317-fs">
+<f name="REF"><string>SI_223</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-318-fs">
+<f name="REF"><string>SI_224</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-319-fs">
+<f name="REF"><string>des plans d_évasions</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-320-fs">
+<f name="REF"><string>SI_225</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-321-fs">
+<f name="REF"><string>SI_226</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-322-fs">
+<f name="REF"><string>SI_227</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-323-fs">
+<f name="REF"><string>la vie</string></f>
+<f name="NB MAILLONS"><string>5</string></f>
 </fs>
 <fs id="s-CHAINE-324-fs">
 <f name="REF"><string>SI_228</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-325-fs">
+<f name="REF"><string>SI_229</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-326-fs">
+<f name="REF"><string>SI_230</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-327-fs">
+<f name="REF"><string>SI_231</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-328-fs">
+<f name="REF"><string>SI_232</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-329-fs">
+<f name="REF"><string>le sort horrible</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-330-fs">
+<f name="REF"><string>les pensées tragiques</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-331-fs">
+<f name="REF"><string>SI_233</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-332-fs">
+<f name="REF"><string>SI_234</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-333-fs">
 <f name="REF"><string>SI_235</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-334-fs">
+<f name="REF"><string>SI_236</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-335-fs">
+<f name="REF"><string>SI_237</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-336-fs">
+<f name="REF"><string>SI_238</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-337-fs">
+<f name="REF"><string>la main de Roger</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-338-fs">
+<f name="REF"><string>SI_239</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-339-fs">
 <f name="REF"><string>Nautilus</string></f>
 <f name="NB MAILLONS"><string>51</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-340-fs">
+<f name="REF"><string>SI_240</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-341-fs">
+<f name="REF"><string>SI_241</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-342-fs">
+<f name="REF"><string>baleine ou requin</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-343-fs">
+<f name="REF"><string>SI_242</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-344-fs">
+<f name="REF"><string>SI_243</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-345-fs">
+<f name="REF"><string>SI_244</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-346-fs">
+<f name="REF"><string>SI_245</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-347-fs">
+<f name="REF"><string>SI_246</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-348-fs">
 <f name="REF"><string>Nautilus</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-349-fs">
+<f name="REF"><string>SI_248</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-350-fs">
+<f name="REF"><string>SI_249</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-351-fs">
+<f name="REF"><string>SI_250</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-352-fs">
+<f name="REF"><string>SI_251</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-353-fs">
+<f name="REF"><string>SI_252</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-354-fs">
+<f name="REF"><string>SI_253</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-355-fs">
+<f name="REF"><string>SI_254</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-356-fs">
+<f name="REF"><string>SI_255</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-357-fs">
+<f name="REF"><string>SI_256</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-358-fs">
+<f name="REF"><string>SI_257</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-359-fs">
+<f name="REF"><string>SI_258</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-360-fs">
+<f name="REF"><string>SI_259</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-361-fs">
+<f name="REF"><string>SI_260</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-362-fs">
+<f name="REF"><string>la surface de la mer</string></f>
+<f name="NB MAILLONS"><string>5</string></f>
+</fs>
+<fs id="s-CHAINE-363-fs">
+<f name="REF"><string>voix de Roger</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-364-fs">
+<f name="REF"><string>SI_261</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-365-fs">
+<f name="REF"><string>SI_262</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-366-fs">
+<f name="REF"><string>une grande découverte</string></f>
+<f name="NB MAILLONS"><string>9</string></f>
 </fs>
 <fs id="s-CHAINE-367-fs">
 <f name="REF"><string>ce qu_est</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-368-fs">
+<f name="REF"><string>SI_263</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-369-fs">
+<f name="REF"><string>SI_264</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-370-fs">
+<f name="REF"><string>SI_265</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-371-fs">
+<f name="REF"><string>SI_266</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-372-fs">
+<f name="REF"><string>SI_267</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-373-fs">
+<f name="REF"><string>SI_268</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-374-fs">
+<f name="REF"><string>SI_269</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-375-fs">
+<f name="REF"><string>SI_270</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-376-fs">
+<f name="REF"><string>SI_271</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-377-fs">
+<f name="REF"><string>SI_272</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-378-fs">
+<f name="REF"><string>le récit de Cyrus Smith</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-379-fs">
 <f name="REF"><string>SI_273</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-380-fs">
+<f name="REF"><string>SI_274</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-381-fs">
 <f name="REF"><string>le capitaine Nemo</string></f>
 <f name="NB MAILLONS"><string>13</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-382-fs">
+<f name="REF"><string>SI_275</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-383-fs">
 <f name="REF"><string>les côtes de l_île</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-384-fs">
+<f name="REF"><string>SI_276</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-385-fs">
+<f name="REF"><string>SI_277</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-386-fs">
+<f name="REF"><string>SI_278</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-387-fs">
 <f name="REF"><string>le monde</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-388-fs">
+<f name="REF"><string>SI_279</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-389-fs">
 <f name="REF"><string>SI_280</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-390-fs">
+<f name="REF"><string>des idées</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-391-fs">
+<f name="REF"><string>SI_281</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-392-fs">
+<f name="REF"><string>domaine de Paul</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-393-fs">
+<f name="REF"><string>SI_282</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-394-fs">
+<f name="REF"><string>la situation</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-395-fs">
+<f name="REF"><string>le projet de Roger1</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-396-fs">
+<f name="REF"><string>SI_283</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-397-fs">
+<f name="REF"><string>SI_284</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-398-fs">
+<f name="REF"><string>SI_285</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-399-fs">
+<f name="REF"><string>SI_286</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-400-fs">
+<f name="REF"><string>l_histoire du Nautilus</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-401-fs">
 <f name="REF"><string>une ville sous-marine</string></f>
 <f name="NB MAILLONS"><string>9</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-402-fs">
+<f name="REF"><string>SI_287</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-403-fs">
+<f name="REF"><string>SI_288</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-404-fs">
+<f name="REF"><string>la terre</string></f>
+<f name="NB MAILLONS"><string>15</string></f>
+</fs>
+<fs id="s-CHAINE-405-fs">
+<f name="REF"><string>SI_289</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-406-fs">
+<f name="REF"><string>SI_290</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-407-fs">
+<f name="REF"><string>SI_291</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-408-fs">
+<f name="REF"><string>SI_292</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-409-fs">
 <f name="REF"><string>le domaine des poissons</string></f>
@@ -17180,6 +18450,10 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-412-fs">
+<f name="REF"><string>beaucoup d_ennuis</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-413-fs">
 <f name="REF"><string>SI_293</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
@@ -17190,10 +18464,22 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-415-fs">
+<f name="REF"><string>le rêve de Roger/rêve de Roger</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-416-fs">
+<f name="REF"><string>SI_295</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-417-fs">
 <f name="REF"><string>d_autres sous-marins</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
 <f name="TYPE REFERENT"><string>VEH</string></f>
+</fs>
+<fs id="s-CHAINE-418-fs">
+<f name="REF"><string>les couloirs-tubes</string></f>
+<f name="NB MAILLONS"><string>9</string></f>
 </fs>
 <fs id="s-CHAINE-419-fs">
 <f name="REF"><string>un des sous-marins</string></f>
@@ -17204,6 +18490,14 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>SI_296</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>VEH</string></f>
+</fs>
+<fs id="s-CHAINE-421-fs">
+<f name="REF"><string>SI_297</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-422-fs">
+<f name="REF"><string>SI_298</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-423-fs">
 <f name="REF"><string>SI_299</string></f>
@@ -17220,25 +18514,169 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-426-fs">
+<f name="REF"><string>SI_301</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-427-fs">
+<f name="REF"><string>le projet de Roger2</string></f>
+<f name="NB MAILLONS"><string>6</string></f>
+</fs>
+<fs id="s-CHAINE-428-fs">
+<f name="REF"><string>SI_302</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-429-fs">
+<f name="REF"><string>SI_303</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-430-fs">
+<f name="REF"><string>SI_304</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-431-fs">
+<f name="REF"><string>SI_305</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-432-fs">
+<f name="REF"><string>SI_306</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-433-fs">
+<f name="REF"><string>SI_307</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-434-fs">
+<f name="REF"><string>la réalisation du rêve de Roger</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-435-fs">
+<f name="REF"><string>rêve de Roger/le rêve de Roger</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-436-fs">
+<f name="REF"><string>SI_308</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-437-fs">
+<f name="REF"><string>SI_309</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-438-fs">
+<f name="REF"><string>ce que mon ambition avait rêvé</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-439-fs">
+<f name="REF"><string>SI_310</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-440-fs">
+<f name="REF"><string>SI_311</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-441-fs">
+<f name="REF"><string>SI_312</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-442-fs">
+<f name="REF"><string>SI_313</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-443-fs">
+<f name="REF"><string>SI_314</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-444-fs">
+<f name="REF"><string>SI_315</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-445-fs">
+<f name="REF"><string>SI_316</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-446-fs">
+<f name="REF"><string>SI_317</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-447-fs">
+<f name="REF"><string>SI_318</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-448-fs">
+<f name="REF"><string>SI_319</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-449-fs">
+<f name="REF"><string>SI_320</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-450-fs">
+<f name="REF"><string>l_opposition</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-451-fs">
 <f name="REF"><string>SI_321</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-452-fs">
+<f name="REF"><string>SI_322</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-453-fs">
 <f name="REF"><string>SI_323</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-454-fs">
+<f name="REF"><string>SI_324</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-455-fs">
+<f name="REF"><string>SI_325</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-456-fs">
 <f name="REF"><string>SI_326</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-457-fs">
+<f name="REF"><string>SI_327</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-458-fs">
+<f name="REF"><string>SI_328</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-459-fs">
+<f name="REF"><string>le faux nom</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-460-fs">
+<f name="REF"><string>SI_329</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-461-fs">
+<f name="REF"><string>SI_330</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-462-fs">
+<f name="REF"><string>SI_331</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-463-fs">
+<f name="REF"><string>nous</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-464-fs">
 <f name="REF"><string>le docteur Desmarais</string></f>
 <f name="NB MAILLONS"><string>61</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-465-fs">
+<f name="REF"><string>SI_332</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-466-fs">
 <f name="REF"><string>le docteur Desmarais</string></f>
@@ -17250,10 +18688,98 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-468-fs">
+<f name="REF"><string>la vie de Richard</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-469-fs">
+<f name="REF"><string>SI_335</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-470-fs">
+<f name="REF"><string>SI_336</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-471-fs">
+<f name="REF"><string>yeux de M_ Richard</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-473-fs">
+<f name="REF"><string>SI_337</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-472-fs">
+<f name="REF"><string>SI_338</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-474-fs">
+<f name="REF"><string>SI_339</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-475-fs">
+<f name="REF"><string>SI_340</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-476-fs">
+<f name="REF"><string>l_absolution</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-477-fs">
+<f name="REF"><string>SI_341</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-478-fs">
+<f name="REF"><string>les derniers sacrements</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-479-fs">
+<f name="REF"><string>l_église</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-480-fs">
+<f name="REF"><string>SI_342</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-481-fs">
 <f name="REF"><string>Marcelle</string></f>
 <f name="NB MAILLONS"><string>133</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-482-fs">
+<f name="REF"><string>SI_343</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-483-fs">
+<f name="REF"><string>SI_344</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-484-fs">
+<f name="REF"><string>SI_345</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-485-fs">
+<f name="REF"><string>SI_346</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-486-fs">
+<f name="REF"><string>SI_347</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-487-fs">
+<f name="REF"><string>voix de Richard</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-488-fs">
+<f name="REF"><string>SI_348</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-489-fs">
+<f name="REF"><string>SI_349</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-490-fs">
+<f name="REF"><string>SI_350</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-491-fs">
 <f name="REF"><string>Jean Demers</string></f>
@@ -17270,6 +18796,18 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-494-fs">
+<f name="REF"><string>un mal</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-495-fs">
+<f name="REF"><string>SI_352</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-496-fs">
+<f name="REF"><string>le peu de temps</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-497-fs">
 <f name="REF"><string>le pays</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
@@ -17284,6 +18822,50 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>fille de Demers</string></f>
 <f name="NB MAILLONS"><string>19</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-500-fs">
+<f name="REF"><string>SI_354</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-501-fs">
+<f name="REF"><string>SI_355</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-502-fs">
+<f name="REF"><string>fortune de Demers</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-503-fs">
+<f name="REF"><string>le portefeuille</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-504-fs">
+<f name="REF"><string>SI_356</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-505-fs">
+<f name="REF"><string>SI_357</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-506-fs">
+<f name="REF"><string>SI_358</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-507-fs">
+<f name="REF"><string>SI_359</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-508-fs">
+<f name="REF"><string>SI_360</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-509-fs">
+<f name="REF"><string>SI_361</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-510-fs">
+<f name="REF"><string>SI_362</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-511-fs">
 <f name="REF"><string>SI_363</string></f>
@@ -17305,15 +18887,115 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>3</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-515-fs">
+<f name="REF"><string>SI_364</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-516-fs">
+<f name="REF"><string>SI_365</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-517-fs">
+<f name="REF"><string>SI_366</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-518-fs">
+<f name="REF"><string>SI_367</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-519-fs">
+<f name="REF"><string>SI_368</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-520-fs">
+<f name="REF"><string>SI_369</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-521-fs">
+<f name="REF"><string>SI_370</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-522-fs">
+<f name="REF"><string>SI_371</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-523-fs">
+<f name="REF"><string>SI_372</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-524-fs">
+<f name="REF"><string>SI_373</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-525-fs">
+<f name="REF"><string>SI_374</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-526-fs">
 <f name="REF"><string>Némoville</string></f>
 <f name="NB MAILLONS"><string>68</string></f>
 <f name="TYPE REFERENT"><string>GPE</string></f>
 </fs>
+<fs id="s-CHAINE-527-fs">
+<f name="REF"><string>SI_375</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-528-fs">
+<f name="REF"><string>SI_376</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-529-fs">
+<f name="REF"><string>SI_377</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-530-fs">
+<f name="REF"><string>SI_378</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-531-fs">
+<f name="REF"><string>le mal</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-532-fs">
+<f name="REF"><string>ce qu_est devenue l_enfant</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-533-fs">
+<f name="REF"><string>le nom de la fille de Demers</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-534-fs">
+<f name="REF"><string>SI_379</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-535-fs">
+<f name="REF"><string>la mort</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-536-fs">
+<f name="REF"><string>SI_380</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-537-fs">
+<f name="REF"><string>la promptitude</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-538-fs">
+<f name="REF"><string>SI_381</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-539-fs">
 <f name="REF"><string>SI_382</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-540-fs">
+<f name="REF"><string>SI_383</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-541-fs">
+<f name="REF"><string>SI_384</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-542-fs">
 <f name="REF"><string>SI_385</string></f>
@@ -17325,10 +19007,30 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>4</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-544-fs">
+<f name="REF"><string>SI_386</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-545-fs">
+<f name="REF"><string>SI_387</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-546-fs">
+<f name="REF"><string>SI_388</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-547-fs">
 <f name="REF"><string>SI_389</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
+</fs>
+<fs id="s-CHAINE-548-fs">
+<f name="REF"><string>SI_390</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-549-fs">
+<f name="REF"><string>SI_391</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-550-fs">
 <f name="REF"><string>SI_392</string></f>
@@ -17340,6 +19042,34 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-552-fs">
+<f name="REF"><string>SI_394</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-553-fs">
+<f name="REF"><string>la résignation</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-554-fs">
+<f name="REF"><string>la volonté de Dieu</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-555-fs">
+<f name="REF"><string>SI_395</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-556-fs">
+<f name="REF"><string>une crise de désespoir</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-557-fs">
+<f name="REF"><string>SI_396</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-558-fs">
+<f name="REF"><string>SI_397</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-559-fs">
 <f name="REF"><string>SI_398</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
@@ -17350,15 +19080,75 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>11</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-561-fs">
+<f name="REF"><string>SI_399</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-562-fs">
+<f name="REF"><string>SI_400</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-563-fs">
+<f name="REF"><string>SI_401</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-564-fs">
+<f name="REF"><string>SI_402</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-565-fs">
+<f name="REF"><string>un pli cacheté</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-566-fs">
+<f name="REF"><string>SI_403</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-567-fs">
 <f name="REF"><string>le guide</string></f>
 <f name="NB MAILLONS"><string>5</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-568-fs">
+<f name="REF"><string>SI_404</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-569-fs">
+<f name="REF"><string>une proposition</string></f>
+<f name="NB MAILLONS"><string>6</string></f>
+</fs>
+<fs id="s-CHAINE-570-fs">
+<f name="REF"><string>SI_405</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-571-fs">
+<f name="REF"><string>ce que Roger a à communiquer</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-572-fs">
+<f name="REF"><string>SI_406</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-573-fs">
+<f name="REF"><string>SI_407</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-574-fs">
 <f name="REF"><string>SI_408</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
+</fs>
+<fs id="s-CHAINE-575-fs">
+<f name="REF"><string>SI_409</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-576-fs">
+<f name="REF"><string>SI_410</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-577-fs">
+<f name="REF"><string>SI_411</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-578-fs">
 <f name="REF"><string>le valet</string></f>
@@ -17370,50 +19160,234 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>4</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-580-fs">
+<f name="REF"><string>SI_412</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-581-fs">
+<f name="REF"><string>un magnifique orgue</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-582-fs">
+<f name="REF"><string>SI_413</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-583-fs">
+<f name="REF"><string>la prière de Gounod</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-584-fs">
+<f name="REF"><string>SI_414</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-585-fs">
+<f name="REF"><string>SI_415</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-586-fs">
 <f name="REF"><string>SI_416</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
+</fs>
+<fs id="s-CHAINE-587-fs">
+<f name="REF"><string>SI_417</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-588-fs">
+<f name="REF"><string>SI_418</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-589-fs">
+<f name="REF"><string>SI_419</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-590-fs">
+<f name="REF"><string>SI_420</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-591-fs">
 <f name="REF"><string>SI_421</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-592-fs">
+<f name="REF"><string>SI_422</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-593-fs">
+<f name="REF"><string>SI_423</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-594-fs">
 <f name="REF"><string>habitants de Némoville</string></f>
 <f name="NB MAILLONS"><string>45</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-595-fs">
+<f name="REF"><string>SI_424</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-596-fs">
+<f name="REF"><string>SI_425</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-597-fs">
+<f name="REF"><string>SI_426</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-598-fs">
+<f name="REF"><string>de singulières manières</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-599-fs">
+<f name="REF"><string>SI_427</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-600-fs">
+<f name="REF"><string>SI_428</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-601-fs">
+<f name="REF"><string>SI_429</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-602-fs">
+<f name="REF"><string>le récit du naufrage</string></f>
+<f name="NB MAILLONS"><string>6</string></f>
+</fs>
+<fs id="s-CHAINE-603-fs">
+<f name="REF"><string>naufrage du paquebot</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-604-fs">
+<f name="REF"><string>SI_430</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-605-fs">
+<f name="REF"><string>SI_431</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-606-fs">
+<f name="REF"><string>SI_432</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-607-fs">
+<f name="REF"><string>SI_433</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-608-fs">
+<f name="REF"><string>la vie sous-marine</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
 </fs>
 <fs id="s-CHAINE-609-fs">
 <f name="REF"><string>la mer</string></f>
 <f name="NB MAILLONS"><string>6</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-610-fs">
+<f name="REF"><string>SI_434</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-611-fs">
+<f name="REF"><string>SI_435</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-612-fs">
 <f name="REF"><string>beaucoup d_hommes</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-613-fs">
+<f name="REF"><string>des ambitions plus modestes</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-614-fs">
+<f name="REF"><string>SI_436</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-615-fs">
+<f name="REF"><string>SI_437</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-616-fs">
+<f name="REF"><string>SI_438</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-617-fs">
 <f name="REF"><string>curé de Némoville</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-618-fs">
+<f name="REF"><string>SI_439</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-619-fs">
+<f name="REF"><string>la raison</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
 <fs id="s-CHAINE-620-fs">
 <f name="REF"><string>des enfants</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-621-fs">
+<f name="REF"><string>SI_440</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-622-fs">
+<f name="REF"><string>SI_441</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-623-fs">
+<f name="REF"><string>SI_442</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-624-fs">
+<f name="REF"><string>le devoir</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-625-fs">
+<f name="REF"><string>SI_443</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-626-fs">
+<f name="REF"><string>SI_444</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-627-fs">
+<f name="REF"><string>SI_445</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-628-fs">
+<f name="REF"><string>SI_446</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-629-fs">
 <f name="REF"><string>chambre de l_abbé Bernard</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-630-fs">
+<f name="REF"><string>porte de la chambre du curé</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-631-fs">
+<f name="REF"><string>SI_447</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-632-fs">
 <f name="REF"><string>Roger et l_abbé</string></f>
 <f name="NB MAILLONS"><string>6</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-633-fs">
+<f name="REF"><string>SI_448</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-634-fs">
+<f name="REF"><string>SI_449</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-635-fs">
 <f name="REF"><string>la salle à manger</string></f>
@@ -17430,15 +19404,39 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>4</string></f>
 <f name="TYPE REFERENT"><string>NO_PER</string></f>
 </fs>
+<fs id="s-CHAINE-638-fs">
+<f name="REF"><string>SI_450</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-639-fs">
+<f name="REF"><string>SI_451</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-640-fs">
 <f name="REF"><string>SI_452</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-641-fs">
+<f name="REF"><string>SI_453</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-642-fs">
+<f name="REF"><string>SI_454</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-643-fs">
+<f name="REF"><string>SI_455</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-644-fs">
 <f name="REF"><string>des usuriers</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-645-fs">
+<f name="REF"><string>SI_456</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-646-fs">
 <f name="REF"><string>quelques habitants</string></f>
@@ -17450,15 +19448,127 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>17</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-648-fs">
+<f name="REF"><string>le déjeuner</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-649-fs">
+<f name="REF"><string>SI_457</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-650-fs">
+<f name="REF"><string>SI_458</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-651-fs">
 <f name="REF"><string>SI_459</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-652-fs">
+<f name="REF"><string>SI_460</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-653-fs">
+<f name="REF"><string>la bonté du curé</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-654-fs">
+<f name="REF"><string>SI_461</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-655-fs">
+<f name="REF"><string>SI_462</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-656-fs">
+<f name="REF"><string>SI_463</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-657-fs">
+<f name="REF"><string>SI_464</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-658-fs">
+<f name="REF"><string>la conversation</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-659-fs">
+<f name="REF"><string>secrétaire du gouverneur</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-660-fs">
+<f name="REF"><string>SI_465</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-661-fs">
 <f name="REF"><string>SI_466</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-662-fs">
+<f name="REF"><string>le renflouage du Nautilus</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-663-fs">
+<f name="REF"><string>SI_467</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-664-fs">
+<f name="REF"><string>SI_468</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-665-fs">
+<f name="REF"><string>SI_469</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-666-fs">
+<f name="REF"><string>SI_470</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-667-fs">
+<f name="REF"><string>ce matin</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-668-fs">
+<f name="REF"><string>SI_471</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-669-fs">
+<f name="REF"><string>SI_472</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-670-fs">
+<f name="REF"><string>SI_473</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-671-fs">
+<f name="REF"><string>SI_474</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-672-fs">
+<f name="REF"><string>SI_475</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-673-fs">
+<f name="REF"><string>SI_476</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-674-fs">
+<f name="REF"><string>SI_477</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-675-fs">
+<f name="REF"><string>SI_478</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-676-fs">
+<f name="REF"><string>SI_479</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-677-fs">
+<f name="REF"><string>SI_480</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-678-fs">
 <f name="REF"><string>les sous-marins</string></f>
@@ -17474,6 +19584,18 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>chaque sous-marin</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
 <f name="TYPE REFERENT"><string>VEH</string></f>
+</fs>
+<fs id="s-CHAINE-681-fs">
+<f name="REF"><string>SI_482</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-682-fs">
+<f name="REF"><string>SI_483</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-683-fs">
+<f name="REF"><string>un spectacle bien étrange</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
 </fs>
 <fs id="s-CHAINE-684-fs">
 <f name="REF"><string>SI_484</string></f>
@@ -17515,6 +19637,18 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-692-fs">
+<f name="REF"><string>SI_492</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-693-fs">
+<f name="REF"><string>SI_493</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-694-fs">
+<f name="REF"><string>SI_494</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-695-fs">
 <f name="REF"><string>les mères</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
@@ -17530,6 +19664,26 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-699-fs">
+<f name="REF"><string>SI_496</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-698-fs">
+<f name="REF"><string>SI_497</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-700-fs">
+<f name="REF"><string>SI_498</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-701-fs">
+<f name="REF"><string>SI_499</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-702-fs">
+<f name="REF"><string>funérailles de Richard</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-703-fs">
 <f name="REF"><string>SI_500</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
@@ -17539,6 +19693,10 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>SI_501</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
+</fs>
+<fs id="s-CHAINE-705-fs">
+<f name="REF"><string>SI_502</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-706-fs">
 <f name="REF"><string>le domestique</string></f>
@@ -17555,15 +19713,47 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-709-fs">
+<f name="REF"><string>SI_504</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-710-fs">
+<f name="REF"><string>SI_505</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-711-fs">
 <f name="REF"><string>SI_506</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-712-fs">
+<f name="REF"><string>SI_507</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-713-fs">
 <f name="REF"><string>SI_508</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-714-fs">
+<f name="REF"><string>le moment</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-715-fs">
+<f name="REF"><string>SI_509</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-716-fs">
+<f name="REF"><string>les niaiseries et faussetés</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-717-fs">
+<f name="REF"><string>SI_510</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-718-fs">
+<f name="REF"><string>SI_511</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-719-fs">
 <f name="REF"><string>SI_512</string></f>
@@ -17580,15 +19770,39 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
 </fs>
+<fs id="s-CHAINE-722-fs">
+<f name="REF"><string>SI_515</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-723-fs">
+<f name="REF"><string>nom de Duflot</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-724-fs">
+<f name="REF"><string>nom de Paul</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-725-fs">
 <f name="REF"><string>SI_516</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
+<fs id="s-CHAINE-726-fs">
+<f name="REF"><string>SI_517</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-727-fs">
 <f name="REF"><string>SI_518</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-728-fs">
+<f name="REF"><string>SI_519</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-729-fs">
+<f name="REF"><string>SI_520</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-730-fs">
 <f name="REF"><string>sous-marin vide</string></f>
@@ -17599,6 +19813,14 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>le centre de Némoville</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>LOC</string></f>
+</fs>
+<fs id="s-CHAINE-732-fs">
+<f name="REF"><string>SI_521</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-733-fs">
+<f name="REF"><string>SI_522</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-734-fs">
 <f name="REF"><string>SI_523</string></f>
@@ -17615,45 +19837,381 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-737-fs">
+<f name="REF"><string>mort de Richard</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-738-fs">
+<f name="REF"><string>l_influence de Desmarais</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-739-fs">
 <f name="REF"><string>SI_525</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-740-fs">
+<f name="REF"><string>SI_526</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-741-fs">
+<f name="REF"><string>SI_527</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-742-fs">
+<f name="REF"><string>les on-dit</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-743-fs">
+<f name="REF"><string>SI_528</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-744-fs">
 <f name="REF"><string>SI_529</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-745-fs">
+<f name="REF"><string>SI_530</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-746-fs">
+<f name="REF"><string>une excursion de pêche</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-747-fs">
+<f name="REF"><string>SI_531</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-748-fs">
+<f name="REF"><string>une pêche miraculeuse</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-749-fs">
+<f name="REF"><string>SI_532</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-750-fs">
 <f name="REF"><string>SI_533</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>NO_PER</string></f>
+</fs>
+<fs id="s-CHAINE-751-fs">
+<f name="REF"><string>SI_534</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-752-fs">
+<f name="REF"><string>SI_535</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-753-fs">
+<f name="REF"><string>SI_536</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-754-fs">
+<f name="REF"><string>SI_537</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-755-fs">
+<f name="REF"><string>quelque chose d_extraordinaire</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-756-fs">
+<f name="REF"><string>SI_538</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-757-fs">
+<f name="REF"><string>SI_539</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-758-fs">
 <f name="REF"><string>l_embarcation</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
 <f name="TYPE REFERENT"><string>VEH</string></f>
 </fs>
+<fs id="s-CHAINE-759-fs">
+<f name="REF"><string>un hurlement de Turko</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
 <fs id="s-CHAINE-760-fs">
 <f name="REF"><string>un canot</string></f>
 <f name="NB MAILLONS"><string>14</string></f>
 <f name="TYPE REFERENT"><string>VEH</string></f>
+</fs>
+<fs id="s-CHAINE-761-fs">
+<f name="REF"><string>SI_540</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-762-fs">
+<f name="REF"><string>SI_541</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-763-fs">
+<f name="REF"><string>SI_542</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-764-fs">
+<f name="REF"><string>SI_543</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-765-fs">
+<f name="REF"><string>SI_544</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-766-fs">
+<f name="REF"><string>SI_545</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-767-fs">
+<f name="REF"><string>SI_546</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-768-fs">
+<f name="REF"><string>SI_547</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-769-fs">
+<f name="REF"><string>le moment2</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
 </fs>
 <fs id="s-CHAINE-770-fs">
 <f name="REF"><string>Gaétane</string></f>
 <f name="NB MAILLONS"><string>106</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-771-fs">
+<f name="REF"><string>SI_548</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-772-fs">
 <f name="REF"><string>le sous-marin de Marcelle</string></f>
 <f name="NB MAILLONS"><string>5</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-773-fs">
+<f name="REF"><string>SI_549</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-774-fs">
+<f name="REF"><string>SI_550</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-775-fs">
+<f name="REF"><string>SI_551</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-776-fs">
+<f name="REF"><string>SI_552</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-777-fs">
+<f name="REF"><string>SI_553</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-778-fs">
+<f name="REF"><string>SI_554</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-779-fs">
+<f name="REF"><string>SI_555</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-780-fs">
+<f name="REF"><string>la bonté de Marcelle</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-781-fs">
+<f name="REF"><string>SI_556</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-782-fs">
+<f name="REF"><string>SI_557</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-783-fs">
+<f name="REF"><string>le sentiment de Marcelle</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-784-fs">
+<f name="REF"><string>SI_558</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-785-fs">
+<f name="REF"><string>SI_559</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-786-fs">
+<f name="REF"><string>SI_560</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-787-fs">
 <f name="REF"><string>le salon de Marcelle</string></f>
 <f name="NB MAILLONS"><string>6</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
+</fs>
+<fs id="s-CHAINE-788-fs">
+<f name="REF"><string>SI_561</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-789-fs">
+<f name="REF"><string>SI_562</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-790-fs">
+<f name="REF"><string>SI_563</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-791-fs">
+<f name="REF"><string>la première fois</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-792-fs">
+<f name="REF"><string>SI_564</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-793-fs">
+<f name="REF"><string>SI_565</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-794-fs">
+<f name="REF"><string>un sentiment</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-795-fs">
+<f name="REF"><string>SI_566</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-796-fs">
+<f name="REF"><string>l_émotion</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-797-fs">
+<f name="REF"><string>la réponse</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-798-fs">
+<f name="REF"><string>SI_567</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-799-fs">
+<f name="REF"><string>SI_568</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-800-fs">
+<f name="REF"><string>Marcelle et Gaétane</string></f>
+<f name="NB MAILLONS"><string>6</string></f>
+</fs>
+<fs id="s-CHAINE-801-fs">
+<f name="REF"><string>SI_569</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-802-fs">
+<f name="REF"><string>ce soir-là</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-803-fs">
+<f name="REF"><string>la plus belle</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-805-fs">
+<f name="REF"><string>SI_570</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-804-fs">
+<f name="REF"><string>SI_571</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-806-fs">
+<f name="REF"><string>teint de Marcelle</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-807-fs">
+<f name="REF"><string>yeux de Marcelle</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-808-fs">
+<f name="REF"><string>SI_572</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-809-fs">
+<f name="REF"><string>visage de Gaétane</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-810-fs">
+<f name="REF"><string>SI_573</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-811-fs">
+<f name="REF"><string>SI_574</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-812-fs">
+<f name="REF"><string>les événements</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-813-fs">
+<f name="REF"><string>SI_575</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-814-fs">
+<f name="REF"><string>SI_576</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-815-fs">
+<f name="REF"><string>voix de Gaétane</string></f>
+<f name="NB MAILLONS"><string>7</string></f>
+</fs>
+<fs id="s-CHAINE-816-fs">
+<f name="REF"><string>SI_577</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-817-fs">
+<f name="REF"><string>vie de Gaétane</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-818-fs">
+<f name="REF"><string>SI_578</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-819-fs">
+<f name="REF"><string>SI_579</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-820-fs">
+<f name="REF"><string>SI_580</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-821-fs">
+<f name="REF"><string>une ingratitude</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-822-fs">
+<f name="REF"><string>SI_581</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-823-fs">
+<f name="REF"><string>SI_582</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-824-fs">
+<f name="REF"><string>SI_583</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-825-fs">
+<f name="REF"><string>SI_584</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-826-fs">
+<f name="REF"><string>SI_585</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-827-fs">
+<f name="REF"><string>SI_586</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-828-fs">
+<f name="REF"><string>SI_587</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-829-fs">
 <f name="REF"><string>père de Gaétane</string></f>
@@ -17665,10 +20223,78 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>ORG</string></f>
 </fs>
+<fs id="s-CHAINE-831-fs">
+<f name="REF"><string>SI_589</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-832-fs">
+<f name="REF"><string>une simple coïncidence de nom</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-833-fs">
+<f name="REF"><string>SI_590</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-834-fs">
+<f name="REF"><string>SI_591</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-835-fs">
+<f name="REF"><string>SI_592</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-836-fs">
+<f name="REF"><string>SI_593</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-837-fs">
 <f name="REF"><string>SI_594</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-838-fs">
+<f name="REF"><string>SI_595</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-839-fs">
+<f name="REF"><string>SI_596</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-840-fs">
+<f name="REF"><string>SI_597</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-841-fs">
+<f name="REF"><string>SI_598</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-842-fs">
+<f name="REF"><string>SI_599</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-843-fs">
+<f name="REF"><string>SI_600</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-844-fs">
+<f name="REF"><string>SI_601</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-845-fs">
+<f name="REF"><string>SI_602</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-846-fs">
+<f name="REF"><string>le mensonge</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-847-fs">
+<f name="REF"><string>SI_603</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-848-fs">
+<f name="REF"><string>SI_604</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-849-fs">
 <f name="REF"><string>SI_605</string></f>
@@ -17680,10 +20306,158 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-851-fs">
+<f name="REF"><string>SI_606</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-852-fs">
+<f name="REF"><string>SI_607</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-853-fs">
+<f name="REF"><string>SI_608</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-854-fs">
+<f name="REF"><string>SI_609</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-855-fs">
+<f name="REF"><string>SI_610</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-856-fs">
+<f name="REF"><string>une flamme</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-857-fs">
+<f name="REF"><string>SI_611</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-858-fs">
+<f name="REF"><string>SI_612</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-859-fs">
+<f name="REF"><string>SI_613</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-860-fs">
+<f name="REF"><string>SI_614</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-861-fs">
+<f name="REF"><string>SI_615</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-862-fs">
+<f name="REF"><string>un air</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-863-fs">
+<f name="REF"><string>SI_616</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-864-fs">
+<f name="REF"><string>SI_617</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-865-fs">
+<f name="REF"><string>SI_618</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-866-fs">
+<f name="REF"><string>SI_619</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-867-fs">
+<f name="REF"><string>deux mois</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-868-fs">
+<f name="REF"><string>SI_620</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-869-fs">
+<f name="REF"><string>SI_621</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-870-fs">
+<f name="REF"><string>SI_622</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-871-fs">
+<f name="REF"><string>SI_623</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-872-fs">
+<f name="REF"><string>SI_624</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-873-fs">
+<f name="REF"><string>SI_625</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-874-fs">
+<f name="REF"><string>SI_626</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-875-fs">
+<f name="REF"><string>main de Gaétane</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-876-fs">
 <f name="REF"><string>SI_627</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
+</fs>
+<fs id="s-CHAINE-877-fs">
+<f name="REF"><string>SI_628</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-878-fs">
+<f name="REF"><string>SI_629</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-879-fs">
+<f name="REF"><string>SI_630</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-880-fs">
+<f name="REF"><string>un secret</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-881-fs">
+<f name="REF"><string>SI_631</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-882-fs">
+<f name="REF"><string>SI_632</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-883-fs">
+<f name="REF"><string>SI_633</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-884-fs">
+<f name="REF"><string>SI_634</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-885-fs">
+<f name="REF"><string>SI_635</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-886-fs">
+<f name="REF"><string>SI_636</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-887-fs">
+<f name="REF"><string>SI_637</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-888-fs">
+<f name="REF"><string>le groupe romanesque</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
 </fs>
 <fs id="s-CHAINE-889-fs">
 <f name="REF"><string>SI_638</string></f>
@@ -17695,10 +20469,78 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-891-fs">
+<f name="REF"><string>SI_640</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-892-fs">
+<f name="REF"><string>SI_641</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-893-fs">
+<f name="REF"><string>SI_642</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-894-fs">
+<f name="REF"><string>SI_643</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-895-fs">
+<f name="REF"><string>SI_644</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-896-fs">
+<f name="REF"><string>SI_645</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-897-fs">
+<f name="REF"><string>des accès de tristesse</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-898-fs">
+<f name="REF"><string>SI_646</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-899-fs">
+<f name="REF"><string>SI_647</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-900-fs">
+<f name="REF"><string>SI_648</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-901-fs">
+<f name="REF"><string>des confidences</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-902-fs">
+<f name="REF"><string>24 décembre</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-903-fs">
+<f name="REF"><string>SI_649</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-904-fs">
+<f name="REF"><string>SI_650</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-905-fs">
+<f name="REF"><string>SI_651</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-906-fs">
 <f name="REF"><string>une chapelle</string></f>
 <f name="NB MAILLONS"><string>4</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
+</fs>
+<fs id="s-CHAINE-907-fs">
+<f name="REF"><string>la messe</string></f>
+<f name="NB MAILLONS"><string>3</string></f>
+</fs>
+<fs id="s-CHAINE-908-fs">
+<f name="REF"><string>SI_652</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-909-fs">
 <f name="REF"><string>un sous-marin</string></f>
@@ -17710,6 +20552,14 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-911-fs">
+<f name="REF"><string>SI_653</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-912-fs">
+<f name="REF"><string>SI_654</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-913-fs">
 <f name="REF"><string>SI_655</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
@@ -17720,45 +20570,149 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
 </fs>
+<fs id="s-CHAINE-915-fs">
+<f name="REF"><string>la messe de minuit</string></f>
+<f name="NB MAILLONS"><string>8</string></f>
+</fs>
+<fs id="s-CHAINE-916-fs">
+<f name="REF"><string>solennité</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-917-fs">
+<f name="REF"><string>SI_657</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-918-fs">
+<f name="REF"><string>SI_658</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-919-fs">
+<f name="REF"><string>soir de Noël</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-920-fs">
+<f name="REF"><string>le mystère du sous-marin</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
 <fs id="s-CHAINE-921-fs">
 <f name="REF"><string>l_intérieur du sous-marin</string></f>
 <f name="NB MAILLONS"><string>3</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
+</fs>
+<fs id="s-CHAINE-922-fs">
+<f name="REF"><string>SI_659</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-923-fs">
+<f name="REF"><string>l_église sous-marine</string></f>
+<f name="NB MAILLONS"><string>11</string></f>
+</fs>
+<fs id="s-CHAINE-924-fs">
+<f name="REF"><string>des bruits de pas</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-925-fs">
+<f name="REF"><string>SI_660</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-926-fs">
+<f name="REF"><string>SI_661</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-927-fs">
 <f name="REF"><string>SI_662</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-928-fs">
+<f name="REF"><string>SI_663</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-929-fs">
 <f name="REF"><string>SI_664</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-930-fs">
+<f name="REF"><string>SI_665</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-931-fs">
 <f name="REF"><string>les enfants de Némoville</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-932-fs">
+<f name="REF"><string>SI_666</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-933-fs">
+<f name="REF"><string>SI_667</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-934-fs">
+<f name="REF"><string>les colimaçons</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-935-fs">
+<f name="REF"><string>SI_668</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-936-fs">
+<f name="REF"><string>la scène</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
 <fs id="s-CHAINE-937-fs">
 <f name="REF"><string>les transatlantiques</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>VEH</string></f>
+</fs>
+<fs id="s-CHAINE-938-fs">
+<f name="REF"><string>SI_669</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-939-fs">
 <f name="REF"><string>SI_670</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-940-fs">
+<f name="REF"><string>SI_671</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-941-fs">
 <f name="REF"><string>chacun2</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-942-fs">
+<f name="REF"><string>la cloche</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-943-fs">
+<f name="REF"><string>SI_672</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-944-fs">
+<f name="REF"><string>SI_673</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-945-fs">
+<f name="REF"><string>SI_674</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-946-fs">
+<f name="REF"><string>SI_675</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-947-fs">
 <f name="REF"><string>SI_676</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>FAC</string></f>
+</fs>
+<fs id="s-CHAINE-948-fs">
+<f name="REF"><string>SI_677</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-949-fs">
 <f name="REF"><string>SI_678</string></f>
@@ -17775,35 +20729,167 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-952-fs">
+<f name="REF"><string>les bancs</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-953-fs">
+<f name="REF"><string>SI_681</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-954-fs">
+<f name="REF"><string>SI_682</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-955-fs">
+<f name="REF"><string>le chant</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-956-fs">
+<f name="REF"><string>SI_683</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-957-fs">
+<f name="REF"><string>SI_684</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-958-fs">
+<f name="REF"><string>SI_685</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-959-fs">
+<f name="REF"><string>SI_686</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-960-fs">
+<f name="REF"><string>SI_687</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-961-fs">
+<f name="REF"><string>SI_688</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-962-fs">
+<f name="REF"><string>coeur de Duflot</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-963-fs">
+<f name="REF"><string>SI_689</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-964-fs">
+<f name="REF"><string>SI_690</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-965-fs">
 <f name="REF"><string>SI_691</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-966-fs">
+<f name="REF"><string>le temps de la messe</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-967-fs">
+<f name="REF"><string>la conversation2</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-968-fs">
+<f name="REF"><string>SI_692</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-969-fs">
 <f name="REF"><string>SI_693</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-970-fs">
+<f name="REF"><string>SI_694</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-971-fs">
 <f name="REF"><string>SI_695</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-972-fs">
+<f name="REF"><string>SI_696</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-973-fs">
+<f name="REF"><string>SI_697</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-974-fs">
+<f name="REF"><string>SI_698</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-975-fs">
 <f name="REF"><string>un ange</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>NO_PER</string></f>
 </fs>
+<fs id="s-CHAINE-976-fs">
+<f name="REF"><string>SI_699</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-977-fs">
+<f name="REF"><string>SI_700</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-978-fs">
 <f name="REF"><string>quelque mortel</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-979-fs">
+<f name="REF"><string>SI_701</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-980-fs">
+<f name="REF"><string>SI_702</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-981-fs">
+<f name="REF"><string>SI_703</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-982-fs">
+<f name="REF"><string>SI_704</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-983-fs">
+<f name="REF"><string>SI_705</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-984-fs">
+<f name="REF"><string>SI_706</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-985-fs">
+<f name="REF"><string>le tour de Paul</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-986-fs">
+<f name="REF"><string>la voix de Jeanne</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-987-fs">
+<f name="REF"><string>Jeanne</string></f>
+<f name="NB MAILLONS"><string>4</string></f>
+</fs>
+<fs id="s-CHAINE-988-fs">
+<f name="REF"><string>SI_707</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-989-fs">
 <f name="REF"><string>les convives</string></f>
 <f name="NB MAILLONS"><string>5</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-990-fs">
+<f name="REF"><string>SI_708</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-991-fs">
 <f name="REF"><string>SI_709</string></f>
@@ -17815,10 +20901,26 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-993-fs">
+<f name="REF"><string>habitude de Duflot</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-994-fs">
+<f name="REF"><string>SI_711</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-995-fs">
+<f name="REF"><string>SI_712</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-996-fs">
 <f name="REF"><string>ceux qui</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-997-fs">
+<f name="REF"><string>SI_713</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 <fs id="s-CHAINE-998-fs">
 <f name="REF"><string>SI_714</string></f>
@@ -17830,15 +20932,51 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-1000-fs">
+<f name="REF"><string>SI_716</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-1001-fs">
 <f name="REF"><string>SI_717</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
 </fs>
+<fs id="s-CHAINE-1002-fs">
+<f name="REF"><string>nom de Gaétane</string></f>
+<f name="NB MAILLONS"><string>10</string></f>
+</fs>
+<fs id="s-CHAINE-1003-fs">
+<f name="REF"><string>prénom de Gaétane</string></f>
+<f name="NB MAILLONS"><string>2</string></f>
+</fs>
+<fs id="s-CHAINE-1004-fs">
+<f name="REF"><string>SI_718</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
 <fs id="s-CHAINE-1005-fs">
 <f name="REF"><string>SI_719</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
+</fs>
+<fs id="s-CHAINE-1006-fs">
+<f name="REF"><string>SI_720</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-1007-fs">
+<f name="REF"><string>SI_721</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-1008-fs">
+<f name="REF"><string>SI_722</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-1009-fs">
+<f name="REF"><string>SI_723</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
+</fs>
+<fs id="s-CHAINE-1010-fs">
+<f name="REF"><string>SI_724</string></f>
+<f name="NB MAILLONS"><string>1</string></f>
 </fs>
 </div>
 </annotations></standOff></tei:TEI>

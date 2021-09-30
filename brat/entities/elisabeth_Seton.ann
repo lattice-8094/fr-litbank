@@ -22,16 +22,16 @@ T21	PER 1630 1648	les Bruté de Rémur
 T22	PER 2067 2081	ses historiens
 T23	METALEPSE 2098 2134	aux lecteurs de la Revue Canadienne 
 T24	GPE 29264 29273	New-York 
-T25	GPE 11219 11227	New-York
-T26	GPE 2390 2398	New-York
+T25	GPE 2390 2398	New-York
+T26	GPE 11219 11227	New-York
 T27	GPE 24928 24936	New-York
 T28	GPE 18089 18098	New-York 
 T29	GPE 29640 29648	New-York
 T30	GPE 16851 16860	New-York 
 T31	GPE 20729 20737	New-York
-T32	GPE 28441 28449	New-York
-T33	GPE 22328 22337	New-York 
-T34	GPE 11080 11088	New-York
+T32	GPE 11080 11088	New-York
+T33	GPE 28441 28449	New-York
+T34	GPE 22328 22337	New-York 
 T35	PER 19838 19860	cet illustre Américain
 T36	PER 5459 5477	le docteur Bayley 
 T37	PER 2741 2756	Richard Bayley 
@@ -197,8 +197,8 @@ T196	PER 11090 11104	William Seton
 T197	PER 11040 11062	M. William-Magee Seton
 T198	PER 25672 25689	mon cher William 
 T199	PER 29768 29787	mon pauvre William 
-T200	PER 48919 48926	William
-T201	PER 55052 55070	mon pauvre William
+T200	PER 55052 55070	mon pauvre William
+T201	PER 48919 48926	William
 T202	PER 11333 11342	son fils 
 T203	PER 44518 44530	mon William 
 T204	PER 33427 33446	mon pauvre William 
@@ -206,8 +206,8 @@ T205	PER 11387 11406	Le jeune Américain
 T206	PER 30161 30180	Mon pauvre William 
 T207	PER 48569 48580	mon William
 T208	PER 34687 34692	papa 
-T209	PER 49274 49282	William 
-T210	PER 46643 46661	le pauvre William 
+T209	PER 46643 46661	le pauvre William 
+T210	PER 49274 49282	William 
 T211	PER 41287 41295	William 
 T212	PER 31916 31923	William
 T213	PER 55324 55336	Mon William 
@@ -217,8 +217,8 @@ T216	PER 11117 11166	une très ancienne et très noble famille écossaise
 T217	PER 17654 17674	Notre bien-aimé père
 T218	PER 11183 11227	directeur de la banque de l'État de New-York
 T219	PER 16317 16326	M. Seton 
-T220	PER 12832 12860	le chef de la famille Seton 
-T221	PER 11168 11177	Son père 
+T220	PER 11168 11177	Son père 
+T221	PER 12832 12860	le chef de la famille Seton 
 T222	PER 11308 11317	M. Seton 
 T223	PER 11232 11277	l'un des plus riches armateurs des États-Unis
 T224	PER 11627 11635	son père
@@ -257,11 +257,11 @@ T256	PER 16342 16353	sa famille
 T257	PER 12715 12734	sa nouvelle famille
 T258	PER 12887 12898	aux pauvres
 T259	PER 13015 13045	la sœur de charité protestante
-T260	PER 12996 13013	sa fille Rebecca 
-T261	PER 54350 54370	Chère, chère Rebecca
+T260	PER 54350 54370	Chère, chère Rebecca
+T261	PER 12996 13013	sa fille Rebecca 
 T262	PER 13150 13167	cette jeune fille
-T263	PER 54735 54745	chère sœur
-T264	PER 49143 49150	ma sœur
+T263	PER 49143 49150	ma sœur
+T264	PER 54735 54745	chère sœur
 T265	PER 17260 17282	sa belle-sœur Rebecca 
 T266	PER 13240 13262	les deux belles-sœurs 
 T267	PER 54418 54428	nous deux 
@@ -271,8 +271,8 @@ T270	TIME 13224 13238	l'aube du jour
 T271	PER 25346 25362	mes chers petits
 T272	PER 13696 13707	ses enfants
 T273	PER 44111 44136	mes chers petits enfants 
-T274	PER 24070 24095	mes chers petits enfants 
-T275	PER 19194 19213	ses petits enfants 
+T274	PER 19194 19213	ses petits enfants 
+T275	PER 24070 24095	mes chers petits enfants 
 T276	PER 60553 60578	ses chers petits enfants 
 T277	PER 13897 13905	une mère
 T278	PER 14376 14393	sa seconde fille 
@@ -281,13 +281,13 @@ T280	PER 14360 14375	ma petite Kate
 T281	TIME 14412 14420	sept ans
 T282	NO_PER 14492 14500	un ange 
 T283	PER 50471 50488	notre Rédempteur 
-T284	PER 44919 44931	Jésus-Christ
-T285	PER 14867 14872	Jésus
+T284	PER 14867 14872	Jésus
+T285	PER 44919 44931	Jésus-Christ
 T286	PER 47761 47786	notre adorable Rédempteur
 T287	PER 26625 26635	le Christ 
 T288	PER 22880 22889	du Christ
-T289	PER 61418 61432	mon Rédempteur
-T290	PER 28162 28174	Jésus-Christ
+T289	PER 28162 28174	Jésus-Christ
+T290	PER 61418 61432	mon Rédempteur
 T291	PER 47835 47841	Jésus 
 T292	TIME 15115 15124	Deux ans 
 T293	PER 49880 49885	Anna 
@@ -299,16 +299,16 @@ T298	PER 40951 40955	Anna
 T299	PER 34427 34441	la petite Anna
 T300	PER 25722 25737	ma petite Anna 
 T301	PER 36670 36675	Anna 
-T302	PER 33455 33460	Anna 
-T303	PER 43371 43376	Anna 
+T302	PER 43371 43376	Anna 
+T303	PER 33455 33460	Anna 
 T304	PER 15997 16005	mon Anna
 T305	PER 37135 37140	Anna 
 T306	PER 58265 58270	Anna 
 T307	PER 58274 58283	un trésor
 T308	PER 24432 24450	leur petite fille 
 T309	PER 48719 48733	la petite Anna
-T310	PER 54081 54086	Anna 
-T311	PER 22983 23008	sa fille aînée Anna-Maria
+T310	PER 22983 23008	sa fille aînée Anna-Maria
+T311	PER 54081 54086	Anna 
 T312	PER 39541 39556	ma petite Anna 
 T313	PER 16007 16023	mon petit trésor
 T314	PER 53966 53971	Anna 
@@ -407,8 +407,8 @@ T406	VEH 29310 29320	un bateau
 T407	FAC 29378 29385	le pont
 T408	PER 29410 29426	le cher Carleton
 T409	PER 56058 56067	Carleton 
-T410	PER 45295 45310	un être parfait
-T411	PER 45147 45156	Carleton 
+T410	PER 45147 45156	Carleton 
+T411	PER 45295 45310	un être parfait
 T412	PER 29496 29505	un garde 
 T413	FAC 33179 33190	le lazaret 
 T414	FAC 29808 29818	au lazaret
@@ -451,8 +451,8 @@ T450	PER 31395 31408	du commandant
 T451	PER 43456 43473	Notre commandant 
 T452	PER 50124 50136	Le capitano 
 T453	PER 37243 37257	Le commandant 
-T454	PER 40247 40249	J'
-T455	PER 52047 52061	le commandant 
+T454	PER 52047 52061	le commandant 
+T455	PER 40247 40249	J'
 T456	PER 46591 46608	Notre commandant 
 T457	PER 41503 41505	J'
 T458	PER 57909 57923	le commandant 
@@ -477,8 +477,8 @@ T476	TIME 54847 54858	du dimanche
 T477	TIME 35767 35775	dimanche
 T478	TIME 35777 35785	9 heures
 T479	FAC 56447 56458	ma chambre 
-T480	FAC 35993 36010	ma petite chambre
-T481	FAC 53650 53661	ma chambre 
+T480	FAC 53650 53661	ma chambre 
+T481	FAC 35993 36010	ma petite chambre
 T482	LOC 36043 36057	la pleine mer 
 T483	FAC 40683 40695	notre prison
 T484	FAC 49949 49959	une prison
@@ -490,8 +490,8 @@ T489	PER 57894 57906	M. Filicchi
 T490	PER 39813 39821	Filicchi
 T491	PER 38724 38730	Luigi 
 T492	PER 41807 41819	notre Luigi 
-T493	PER 38943 38963	ce pauvre vieillard 
-T494	PER 37869 37881	un vieillard
+T493	PER 37869 37881	un vieillard
+T494	PER 38943 38963	ce pauvre vieillard 
 T495	PER 37883 37888	Luigi
 T496	PER 48990 49012	notre vieux serviteur 
 T497	PER 37792 37805	un serviteur 
@@ -501,8 +501,8 @@ T500	PER 38207 38223	tous ces hommes
 T501	PER 38665 38668	On 
 T502	FAC 38730 38748	un logement à part
 T503	TIME 38924 38941	une seule journée
-T504	TIME 54998 55003	Lundi
-T505	TIME 39125 39130	Lundi
+T504	TIME 39125 39130	Lundi
+T505	TIME 54998 55003	Lundi
 T506	TIME 39125 39143	Lundi, 21 novembre
 T507	TIME 39132 39143	21 novembre
 T508	PER 39727 39738	des gardes 
@@ -520,8 +520,8 @@ T519	TIME 41225 41243	toutes les heures
 T520	TIME 48129 48134	Mardi
 T521	TIME 41265 41270	Mardi
 T522	TIME 41272 41283	22 novembre
-T523	PER 41342 41361	le docteur Tutilli 
-T524	PER 56261 56272	le docteur 
+T523	PER 56261 56272	le docteur 
+T524	PER 41342 41361	le docteur Tutilli 
 T525	PER 55190 55194	moi 
 T526	PER 55117 55135	le docteur Tutilli
 T527	TIME 42008 42027	l'heure du couchant
