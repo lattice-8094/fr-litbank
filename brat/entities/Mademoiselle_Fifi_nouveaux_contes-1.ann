@@ -1,8 +1,8 @@
 T1	PER 15512 15539	au plus jeune des officiers
 T2	PER 12568 12577	Mlle Fifi
 T3	PER 0 17	MADEMOISELLE FIFI
-T4	PER 5230 5240	Mlle Fifi 
-T5	PER 22882 22892	Mlle Fifi 
+T4	PER 22882 22892	Mlle Fifi 
+T5	PER 5230 5240	Mlle Fifi 
 T6	PER 19006 19009	Il 
 T7	PER 4161 4170	Mlle Fifi
 T8	PER 3327 3352	le marquis Wilhem d'Eyrik
@@ -29,8 +29,8 @@ T28	PER 6444 6458	mon commandant
 T29	PER 10091 10105	Le commandant 
 T30	PER 5942 5951	Le major 
 T31	PER 5915 5929	le commandant 
-T32	PER 7184 7193	le major 
-T33	PER 12534 12548	le commandant 
+T32	PER 12534 12548	le commandant 
+T33	PER 7184 7193	le major 
 T34	PER 23004 23012	Le major
 T35	PER 19113 19127	Le commandant 
 T36	PER 1237 1248	L'officier 
@@ -45,8 +45,8 @@ T44	PER 2475 2489	Le commandant
 T45	PER 1908 1922	brave officier
 T46	PER 2747 2755	Le major
 T47	PER 12223 12237	son supérieur 
-T48	PER 9888 9898	le premier
-T49	PER 1885 1897	brave homme 
+T48	PER 1885 1897	brave homme 
+T49	PER 9888 9898	le premier
 T50	PER 6250 6272	Le comte de Farlsberg 
 T51	PER 13173 13187	du commandant 
 T52	PER 6386 6395	leur chef
@@ -60,13 +60,13 @@ T59	FAC 7918 7929	son château
 T60	FAC 12620 12639	le château d'Uville
 T61	FAC 256 275	le château d'Uville
 T62	FAC 25176 25195	le château d'Uville
-T63	FAC 9376 9386	le château
-T64	FAC 3930 3950	du château d'Uville 
+T63	FAC 3930 3950	du château d'Uville 
+T64	FAC 9376 9386	le château
 T65	GPE 269 275	Uville
 T66	GPE 12633 12639	Uville
 T67	GPE 25189 25195	Uville
-T68	GPE 7984 7990	Uville
-T69	GPE 3943 3950	Uville 
+T68	GPE 3943 3950	Uville 
+T69	GPE 7984 7990	Uville
 T70	TIME 333 347	tous les jours
 T71	PER 717 733	son vaguemestre 
 T72	PER 848 862	ces messieurs 
@@ -77,8 +77,8 @@ T76	GPE 6072 6078	Rouen
 T77	GPE 1198 1203	Rouen
 T78	LOC 1301 1319	l'Andelle gonflée 
 T79	LOC 1383 1387	Rhin
-T80	PER 17471 17480	le baron 
-T81	PER 6539 6548	le baron 
+T80	PER 6539 6548	le baron 
+T81	PER 17471 17480	le baron 
 T82	PER 5820 5823	Il 
 T83	PER 5802 5816	mon capitaine 
 T84	PER 6430 6442	le capitaine
@@ -96,10 +96,10 @@ T95	PER 14462 14483	Le capitaine, radieux
 T96	PER 1434 1444	son second
 T97	PER 2820 2838	le baron capitaine
 T98	PER 6307 6312	Vous 
-T99	PER 6322 6329	mon ami
-T100	PER 1924 1936	Le capitaine
-T101	PER 13227 13240	le capitaine 
-T102	PER 16729 16738	capitaine
+T99	PER 1924 1936	Le capitaine
+T100	PER 6322 6329	mon ami
+T101	PER 16729 16738	capitaine
+T102	PER 13227 13240	le capitaine 
 T103	PER 2604 2619	son subordonné 
 T104	PER 1510 1519	capitaine
 T105	GPE 1858 1867	Autriche 
@@ -139,8 +139,8 @@ T138	GPE 20687 20697	la France
 T139	GPE 20909 20916	France 
 T140	GPE 21387 21394	France 
 T141	GPE 3479 3485	France
-T142	GPE 19949 19959	la France 
-T143	GPE 24808 24815	le pays
+T142	GPE 24808 24815	le pays
+T143	GPE 19949 19959	la France 
 T144	PER 3487 3501	ses camarades 
 T145	PER 3526 3535	Mlle Fifi
 T146	PER 3537 3547	Ce surnom 
@@ -152,10 +152,10 @@ T151	PER 4271 4283	un cardinal
 T152	PER 4286 4298	un président
 T153	PER 10127 10145	tous les officiers
 T154	PER 6338 6357	tous les officiers 
-T155	PER 15526 15539	des officiers
-T156	PER 17952 18046	les hommes eux-mêmes, grisés par cette chair de femme étalée sous leur nez et sous leurs mains
-T157	PER 12641 12657	Les cinq hommes 
-T158	PER 4508 4522	des officiers 
+T155	PER 17952 18046	les hommes eux-mêmes, grisés par cette chair de femme étalée sous leur nez et sous leurs mains
+T156	PER 15526 15539	des officiers
+T157	PER 4508 4522	des officiers 
+T158	PER 12641 12657	Les cinq hommes 
 T159	PER 19514 19540	les femmes, ivres à tomber
 T160	PER 8816 8834	tous les officiers
 T161	PER 17432 17445	leurs voisins
@@ -274,11 +274,11 @@ T273	PER 24392 24401	La juive
 T274	PER 25754 25771	une pauvre fille 
 T275	PER 20325 20344	La fille, exaspérée
 T276	PER 22116 22127	une putain 
-T277	PER 18864 18879	la jeune femme 
-T278	PER 18226 18233	Rachel 
+T277	PER 18226 18233	Rachel 
+T278	PER 18864 18879	la jeune femme 
 T279	PER 26332 26341	une Dame 
-T280	PER 21398 21403	Elle 
-T281	PER 22178 22183	Elle 
+T280	PER 22178 22183	Elle 
+T281	PER 21398 21403	Elle 
 T282	PER 20701 20706	Elle 
 T283	PER 22065 22069	Moi 
 T284	FAC 15764 15785	des maisons publiques
@@ -412,8 +412,8 @@ T411	PER 36622 36640	cette malheureuse
 T412	PER 32027 32032	Elle 
 T413	PER 33511 33522	leur fille 
 T414	PER 29090 29099	une morte
-T415	PER 31238 31258	cette pauvre petite 
-T416	PER 29084 29086	C'
+T415	PER 29084 29086	C'
+T416	PER 31238 31258	cette pauvre petite 
 T417	PER 33575 33580	Elle 
 T418	PER 27775 27790	huit messieurs 
 T419	PER 28380 28398	les huit messieurs
@@ -426,8 +426,8 @@ T425	TIME 28411 28442	une heure au moins d'occupation
 T426	PER 29694 29699	Vous 
 T427	PER 29740 29748	monsieur
 T428	PER 28506 28524	Les deux derniers 
-T429	PER 28875 28884	messieurs
-T430	PER 29057 29071	des messieurs 
+T429	PER 29057 29071	des messieurs 
+T430	PER 28875 28884	messieurs
 T431	PER 28658 28677	les deux précédents
 T432	PER 28804 28815	mes voisins
 T433	PER 29054 29071	Un des messieurs 
@@ -446,9 +446,9 @@ T445	LOC 30240 30247	du pays
 T446	PER 30285 30291	enfant
 T447	TIME 30295 30312	l'âge de onze ans
 T448	TIME 30304 30312	onze ans
-T449	PER 35808 35816	Baptiste
+T449	PER 33082 33091	du valet 
 T450	PER 30338 30347	un valet 
-T451	PER 33082 33091	du valet 
+T451	PER 35808 35816	Baptiste
 T452	PER 30559 30570	cette brute
 T453	PER 30572 30580	L'homme 
 T454	PER 30414 30427	sa brutalité 
@@ -552,8 +552,8 @@ T551	PER 45618 45627	le baron
 T552	PER 43933 43949	M. de Coutelier 
 T553	PER 47670 47672	J'
 T554	PER 47595 47608	son vieil ami
-T555	PER 47498 47510	un monsieur 
-T556	PER 51832 51840	leur ami
+T555	PER 51832 51840	leur ami
+T556	PER 47498 47510	un monsieur 
 T557	PER 47532 47579	le baron, changé, vieilli, en costume de voyage
 T558	PER 42523 42533	son maître
 T559	PER 46024 46033	Le baron 
@@ -612,11 +612,11 @@ T611	FAC 39895 39908	cette maison
 T612	PER 46397 46402	Vous 
 T613	PER 46377 46393	M. de Courville 
 T614	PER 51256 51272	M. de Courville 
-T615	PER 49609 49616	mon ami
-T616	PER 46194 46201	mon ami
-T617	PER 51946 51962	M. de Courville 
-T618	PER 51778 51794	M. de Courville 
-T619	PER 47455 47470	M. de Courville
+T615	PER 46194 46201	mon ami
+T616	PER 49609 49616	mon ami
+T617	PER 51778 51794	M. de Courville 
+T618	PER 47455 47470	M. de Courville
+T619	PER 51946 51962	M. de Courville 
 T620	PER 41336 41345	Courville
 T621	PER 51121 51126	Vous 
 T622	PER 46153 46166	son compagnon
@@ -625,8 +625,8 @@ T624	PER 51595 51604	son mari
 T625	PER 46569 46584	M. de Courville
 T626	PER 40021 40037	M. de Courville 
 T627	PER 49322 49349	M. de Courville, impatienté
-T628	PER 40043 40067	son ami et son camarade 
-T629	PER 45877 45892	M. de Courville
+T628	PER 45877 45892	M. de Courville
+T629	PER 40043 40067	son ami et son camarade 
 T630	PER 47895 47911	M. de Courville 
 T631	GPE 46383 46393	Courville 
 T632	GPE 48825 48834	Courville
@@ -654,9 +654,9 @@ T653	NO_PER 42440 42452	Son piqueur
 T654	NO_PER 40564 40570	Médor 
 T655	NO_PER 42477 42488	cet écuyer 
 T656	NO_PER 41232 41237	Médor
-T657	NO_PER 42456 42472	son garde-malade
+T657	NO_PER 45656 45662	Médor 
 T658	NO_PER 41095 41101	Médor 
-T659	NO_PER 45656 45662	Médor 
+T659	NO_PER 42456 42472	son garde-malade
 T660	NO_PER 45133 45139	Médor 
 T661	LOC 40977 40987	la lisière
 T662	PER 43262 43273	les femmes 
@@ -672,8 +672,8 @@ T671	TIME 43635 43651	toute la soirée
 T672	PER 43657 43668	les veuves 
 T673	PER 46478 46496	une femme comme ça
 T674	PER 51734 51741	Berthe 
-T675	PER 49757 49767	cette dame
-T676	PER 48175 48185	cette dame
+T675	PER 48175 48185	cette dame
+T676	PER 49757 49767	cette dame
 T677	PER 50482 50496	cette personne
 T678	PER 45943 45959	sa nouvelle amie
 T679	PER 45201 45210	son élève
@@ -681,8 +681,8 @@ T680	PER 47359 47370	Mme Vilers
 T681	PER 48614 48624	Mme Vilers
 T682	PER 47172 47182	leur amie 
 T683	PER 45462 45481	Mme Vilers, éperdue
-T684	PER 45792 45805	Quelle femme 
-T685	PER 48888 48898	votre amie
+T684	PER 48888 48898	votre amie
+T685	PER 45792 45805	Quelle femme 
 T686	PER 43712 43798	une femme de quarante ans, encore jolie, assez riche, de belle humeur et bien portante
 T687	TIME 43725 43737	quarante ans
 T688	PER 43815 43832	Mme Berthe Vilers
