@@ -18,7 +18,7 @@ We use a subset of the files from [Democrat](https://www.ortolang.fr/market/corp
 |1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (1)|ok|ok|
 |1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (2)|ok|ok|
 |1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (3)|||
-|1901|Lucie Achard|Rosalie de Constant, sa famille et ses amis|ok||
+|1901|Lucie Achard|Rosalie de Constant, sa famille et ses amis|ok|ok|
 |1903|Laure Conan|Élisabeth Seton|ok|ok|
 |1904-1912|Romain Rolland|Jean-Christophe (1)|ok|ok|
 |1904-1912|Romain Rolland|Jean-Christophe (2)|||
