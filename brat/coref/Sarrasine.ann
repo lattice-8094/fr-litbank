@@ -213,8 +213,8 @@ T212	NOM_PER 13969 14003	tous les membres de cette famille
 T213	NOM_PER 3810 3832	ces différents peuples
 T214	NOM_PER 3845 3859	des bohémiens 
 T215	NOM_PER 3872 3888	des flibustiers 
-T216	NOM_OTHER 3908 3918	le diable 
-T217	None_OTHER 3898 3901	ce 
+T216	NOM_PER 3908 3918	le diable 
+T217	None_PER 3898 3901	ce 
 T218	NOM_PER 3929 3949	de jeunes politiques
 T219	PRO:PER_PER 3951 3955	ils 
 T220	None_PER 7031 7038	citait 
@@ -2276,7 +2276,7 @@ T2275	NOM_PER 69138 69171	ses aides-de-camp ecclésiastiques
 T2276	NOM_PER 69324 69331	un abbé
 T2277	None_PER 69333 69337	qui 
 T2278	NOM_PER 69781 69790	une femme
-T2279	NOM_OTHER 69899 69933	le pape et toute la ville de Rome 
+T2279	NOM_PER 69899 69933	le pape et toute la ville de Rome 
 T2280	NOM_GPE 69910 69933	toute la ville de Rome 
 T2281	NOM_FAC 70015 70032	la cour du palais
 T2282	NOM_FAC 70165 70175	les salons

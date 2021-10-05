@@ -4033,9 +4033,8 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <link id="s-CHAINE-57" target="#u-MENTION-63" ana="#s-CHAINE-57-fs"></link>
 <link id="s-CHAINE-58" target="#u-MENTION-65" ana="#s-CHAINE-58-fs"></link>
 <link id="s-CHAINE-59" target="#u-MENTION-67 #u-MENTION-66" ana="#s-CHAINE-59-fs"></link>
-<link id="s-CHAINE-60" target="#u-MENTION-620 #u-MENTION-101 #u-MENTION-344 #u-MENTION-113 #u-MENTION-341 #u-MENTION-253 #u-MENTION-254 #u-MENTION-342 #u-MENTION-69 #u-MENTION-68 #u-MENTION-622 #u-MENTION-128 #u-MENTION-82 #u-MENTION-74 #u-MENTION-80" ana="#s-CHAINE-60-fs"></link>
+<link id="s-CHAINE-60" target="#u-MENTION-620 #u-MENTION-101 #u-MENTION-344 #u-MENTION-113 #u-MENTION-341 #u-MENTION-253 #u-MENTION-254 #u-MENTION-342 #u-MENTION-69 #u-MENTION-68 #u-MENTION-71 #u-MENTION-622 #u-MENTION-128 #u-MENTION-82 #u-MENTION-74 #u-MENTION-80" ana="#s-CHAINE-60-fs"></link>
 <link id="s-CHAINE-61" target="#u-MENTION-323 #u-MENTION-322 #u-MENTION-1286 #u-MENTION-1682 #u-MENTION-320 #u-MENTION-1684 #u-MENTION-163 #u-MENTION-1683 #u-MENTION-1287 #u-MENTION-847 #u-MENTION-206 #u-MENTION-1716 #u-MENTION-1319 #u-MENTION-1796 #u-MENTION-1279 #u-MENTION-1311 #u-MENTION-1313 #u-MENTION-281 #u-MENTION-1316 #u-MENTION-1711 #u-MENTION-1713 #u-MENTION-213 #u-MENTION-1271 #u-MENTION-577 #u-MENTION-575 #u-MENTION-333 #u-MENTION-573 #u-MENTION-174 #u-MENTION-1794 #u-MENTION-1793 #u-MENTION-1276 #u-MENTION-338 #u-MENTION-613 #u-MENTION-218 #u-MENTION-215 #u-MENTION-612 #u-MENTION-609 #u-MENTION-189 #u-MENTION-223 #u-MENTION-586 #u-MENTION-102 #u-MENTION-221 #u-MENTION-628 #u-MENTION-902 #u-MENTION-228 #u-MENTION-226 #u-MENTION-1618 #u-MENTION-619 #u-MENTION-1334 #u-MENTION-1333 #u-MENTION-1699 #u-MENTION-1615 #u-MENTION-631 #u-MENTION-233 #u-MENTION-1691 #u-MENTION-1330 #u-MENTION-110 #u-MENTION-1297 #u-MENTION-231 #u-MENTION-111 #u-MENTION-592 #u-MENTION-635 #u-MENTION-119 #u-MENTION-633 #u-MENTION-1606 #u-MENTION-1608 #u-MENTION-1609 #u-MENTION-905 #u-MENTION-1048 #u-MENTION-194 #u-MENTION-590 #u-MENTION-1686 #u-MENTION-1322 #u-MENTION-1324 #u-MENTION-1327 #u-MENTION-1722 #u-MENTION-1725 #u-MENTION-1724 #u-MENTION-247 #u-MENTION-245 #u-MENTION-242 #u-MENTION-243 #u-MENTION-240 #u-MENTION-649 #u-MENTION-249 #u-MENTION-1752 #u-MENTION-1358 #u-MENTION-1635 #u-MENTION-1755 #u-MENTION-1634 #u-MENTION-1758 #u-MENTION-654 #u-MENTION-133 #u-MENTION-1750 #u-MENTION-131 #u-MENTION-659 #u-MENTION-899 #u-MENTION-139 #u-MENTION-1620 #u-MENTION-250 #u-MENTION-70 #u-MENTION-1348 #u-MENTION-1626 #u-MENTION-665 #u-MENTION-146 #u-MENTION-1261 #u-MENTION-660 #u-MENTION-1266 #u-MENTION-826 #u-MENTION-824 #u-MENTION-666 #u-MENTION-1814 #u-MENTION-817 #u-MENTION-818 #u-MENTION-1652 #u-MENTION-1775 #u-MENTION-1656 #u-MENTION-1659 #u-MENTION-1658 #u-MENTION-1370 #u-MENTION-159 #u-MENTION-676 #u-MENTION-157 #u-MENTION-275 #u-MENTION-1373 #u-MENTION-1651 #u-MENTION-1772 #u-MENTION-274 #u-MENTION-319 #u-MENTION-317 #u-MENTION-315 #u-MENTION-1649 #u-MENTION-1807 #u-MENTION-96 #u-MENTION-95 #u-MENTION-1763 #u-MENTION-272 #u-MENTION-1762 #u-MENTION-92 #u-MENTION-1369 #u-MENTION-1764 #u-MENTION-270 #u-MENTION-1368" ana="#s-CHAINE-61-fs"></link>
-<link id="s-CHAINE-62" target="#u-MENTION-71" ana="#s-CHAINE-62-fs"></link>
 <link id="s-CHAINE-63" target="#u-MENTION-72" ana="#s-CHAINE-63-fs"></link>
 <link id="s-CHAINE-64" target="#u-MENTION-257 #u-MENTION-86 #u-MENTION-73 #u-MENTION-259" ana="#s-CHAINE-64-fs"></link>
 <link id="s-CHAINE-65" target="#u-MENTION-75 #u-MENTION-255" ana="#s-CHAINE-65-fs"></link>
@@ -17527,18 +17526,13 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 </fs>
 <fs id="s-CHAINE-60-fs">
 <f name="REF"><string>Balthazar</string></f>
-<f name="NB MAILLONS"><string>15</string></f>
-<f name="TYPE REFERENT"><string>OTHER</string></f>
+<f name="NB MAILLONS"><string>16</string></f>
+<f name="TYPE REFERENT"><string>NO_PER</string></f>
 </fs>
 <fs id="s-CHAINE-61-fs">
 <f name="REF"><string>Mme François</string></f>
 <f name="NB MAILLONS"><string>143</string></f>
 <f name="TYPE REFERENT"><string>PER</string></f>
-</fs>
-<fs id="s-CHAINE-62-fs">
-<f name="REF"><string>Balthazar</string></f>
-<f name="NB MAILLONS"><string>1</string></f>
-<f name="TYPE REFERENT"><string>OTHER</string></f>
 </fs>
 <fs id="s-CHAINE-63-fs">
 <f name="REF"><string>SI_793</string></f>
@@ -17577,7 +17571,6 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-71-fs">
 <f name="REF"><string>SI_878</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
-<f name="TYPE REFERENT"><string>OTHER</string></f>
 </fs>
 <fs id="s-CHAINE-72-fs">
 <f name="REF"><string>SI_237</string></f>
@@ -18119,7 +18112,6 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-200-fs">
 <f name="REF"><string>SI_680</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
-<f name="TYPE REFERENT"><string>TO_DISCUSS</string></f>
 </fs>
 <fs id="s-CHAINE-201-fs">
 <f name="REF"><string>SI_936</string></f>
@@ -18133,7 +18125,6 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-203-fs">
 <f name="REF"><string>SI_689</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
-<f name="TYPE REFERENT"><string>TO_DISCUSS</string></f>
 </fs>
 <fs id="s-CHAINE-204-fs">
 <f name="REF"><string>SI_378</string></f>
@@ -18528,7 +18519,6 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-299-fs">
 <f name="REF"><string>une file de bêtes attelées</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
-<f name="TYPE REFERENT"><string>TO_DISCUSS</string></f>
 </fs>
 <fs id="s-CHAINE-300-fs">
 <f name="REF"><string>SI_312</string></f>
@@ -18678,7 +18668,6 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-334-fs">
 <f name="REF"><string>SI_1192</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
-<f name="TYPE REFERENT"><string>OTHER</string></f>
 </fs>
 <fs id="s-CHAINE-336-fs">
 <f name="REF"><string>SI_347</string></f>
@@ -22619,7 +22608,6 @@ Created with TXM 0.8.0.2269 and Analec extension null with 'XML-TEI-URS Export..
 <fs id="s-CHAINE-1259-fs">
 <f name="REF"><string>SI_335</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
-<f name="TYPE REFERENT"><string>OTHER</string></f>
 </fs>
 <fs id="s-CHAINE-1260-fs">
 <f name="REF"><string>SI_1013</string></f>

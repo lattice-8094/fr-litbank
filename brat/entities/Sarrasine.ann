@@ -69,7 +69,7 @@ T68	PER 13969 14003	tous les membres de cette famille
 T69	PER 3810 3832	ces différents peuples
 T70	PER 3845 3859	des bohémiens 
 T71	PER 3872 3888	des flibustiers 
-T72	OTHER 3908 3918	le diable 
+T72	PER 3908 3918	le diable 
 T73	PER 3929 3949	de jeunes politiques
 T74	PER 6840 6858	Le comte de Lanty 
 T75	PER 3980 3998	Le comte de Lanty 
@@ -967,7 +967,7 @@ T966	PER 69132 69171	un de ses aides-de-camp ecclésiastiques
 T967	PER 69138 69171	ses aides-de-camp ecclésiastiques
 T968	PER 69324 69331	un abbé
 T969	PER 69781 69790	une femme
-T970	OTHER 69899 69933	le pape et toute la ville de Rome 
+T970	PER 69899 69933	le pape et toute la ville de Rome 
 T971	GPE 69910 69933	toute la ville de Rome 
 T972	FAC 70015 70032	la cour du palais
 T973	FAC 70165 70175	les salons

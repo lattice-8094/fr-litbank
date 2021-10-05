@@ -570,318 +570,316 @@ T569	PER 9930 9954	Mlle de Hautefort et moi
 T570	TIME 10070 10092	trois fois la semaine 
 T571	TIME 10081 10092	la semaine 
 T572	PER 10427 10436	un poète 
-T573	OTHER 10427 10462	un poète et d’un musicien à la mode
-T574	PER 10441 10462	un musicien à la mode
-T575	PER 10530 10540	Benserade 
-T576	PER 10530 10553	Benserade et de Boisset
-T577	PER 10546 10553	Boisset
-T578	PER 10558 10567	un enfant
-T579	PER 10785 10794	l’auteur 
-T580	TIME 11163 11177	Tous les soirs
-T581	FAC 11201 11221	le salon de la reine
-T582	TIME 11415 11423	un jour 
-T583	PER 12277 12303	tous les jeunes seigneurs 
-T584	TIME 13032 13040	le soir 
-T585	PER 13200 13213	tout le monde
-T586	TIME 13254 13284	la plus grande partie du jour 
-T587	PER 13628 13646	Mme de Motteville 
-T588	PER 14268 14286	des autres hommes 
-T589	GPE 15049 15057	Chalais 
-T590	GPE 15492 15499	Chalais
-T591	PER 15149 15166	le duc d’Orléans 
-T592	PER 15347 15358	des enfans 
-T593	TIME 16053 16061	un jour 
-T594	PER 16828 16848	une femme à la cour 
-T595	TIME 16940 16972	le cours entier du XVIIe siècle 
-T596	PER 17047 17056	Henri IV 
-T597	PER 17097 17106	Louis XIV
-T598	ORG 17224 17242	la société féodale
-T599	None 17272 17289	le pouvoir royal 
-T600	ORG 17301 17327	une aristocratie excessive
-T601	PER 17367 17382	les protestans 
-T602	ORG 17392 17400	un état 
-T603	GPE 17478 17486	Autriche
-T604	GPE 19119 19127	l’Europe
-T605	GPE 17514 17522	l’Europe
-T606	GPE 24719 24728	l’Europe 
-T607	LOC 17538 17560	le territoire français
-T608	PER 18260 18298	les plus fermes partisans de Richelieu
-T609	FAC 18422 18441	tous ces échafauds 
-T610	PER 18443 18461	Les contemporains 
-T611	PER 18798 18839	une jeune fille sortie d’une race féodale
-T612	TIME 18891 18902	quinze ans 
-T613	PER 19260 19269	du passé 
-T614	TIME 19275 19283	l’avenir
-T615	TIME 19288 19299	le présent 
-T616	TIME 19416 19430	quelques mois 
-T617	GPE 19623 19632	Belgique 
-T618	PER 38869 38896	le frère d’Anne d’Autriche 
-T619	PER 19909 19935	son frère le roi d’Espagne
-T620	GPE 20312 20326	aux Carmélites
-T621	GPE 20184 20199	aux Carmélites 
-T622	GPE 20184 20217	aux Carmélites et au Val-de-Grâce
-T623	GPE 20202 20217	au Val-de-Grâce
-T624	PER 20333 20382	ces dignes filles de sainte Thérèse et de Bérulle
-T625	PER 20354 20369	sainte Thérèse 
-T626	PER 20354 20382	sainte Thérèse et de Bérulle
-T627	PER 20375 20382	Bérulle
-T628	PER 20399 20414	les deux reines
-T629	FAC 20433 20443	la maison 
-T630	PER 20460 20485	les victimes de Richelieu
-T631	PER 20652 20690	du garde des sceaux Michel de Marillac
-T632	GPE 20700 20710	Châteaudun
-T633	FAC 20720 20729	sa tombe 
-T634	PER 20801 20836	Charlotte-Marguerite de Montmorency
-T635	GPE 20851 20856	Condé
-T636	GPE 20914 20923	Toulouse 
-T637	PER 20934 20943	son frère
-T638	PER 38297 38317	du chevalier de Jars
-T639	PER 34556 34576	Le chevalier de Jars
-T640	PER 36018 36030	Le chevalier
-T641	PER 34302 34315	du chevalier 
-T642	PER 35402 35414	le chevalier
-T643	PER 37198 37219	Le chevalier de Jars 
-T644	PER 34121 34141	le chevalier de Jars
-T645	PER 36368 36380	le chevalier
-T646	PER 33962 33976	un prisonnier 
-T647	PER 35700 35708	monsieur
-T648	PER 35662 35675	au chevalier 
-T649	PER 35053 35074	le chevalier de Jars 
-T650	PER 21142 21162	le chevalier de Jars
-T651	PER 39764 39768	Jars
-T652	FAC 36486 36496	l’échafaud
-T653	FAC 56866 56877	un échafaud
-T654	FAC 21210 21220	l’échafaud
-T655	FAC 34109 34119	l’échafaud
-T656	PER 28082 28087	amis 
-T657	PER 21297 21318	des amis de la reine 
-T658	TIME 22442 22452	les années
-T659	TIME 22873 22889	plusieurs jours 
-T660	TIME 22940 22947	le soir
-T661	TIME 23219 23239	deux années entières
-T662	PER 23264 23304	les autres filles d’honneur de la reine 
-T663	PER 25126 25145	Mlle de La Fayette 
-T664	PER 43528 43547	Mlle de La Fayette 
-T665	PER 24456 24475	Mlle de La Fayette 
-T666	PER 24956 24965	une femme
-T667	PER 27047 27067	La noble religieuse 
-T668	PER 25685 25705	Mlle de La Vallière 
-T669	PER 25633 25651	Mlle de La Fayette
-T670	PER 40728 40747	Mlle de La Fayette 
-T671	PER 25659 25678	Mlle de La Vallière
-T672	PER 26910 26929	Mlle de La Fayette 
-T673	PER 26147 26166	Mlle de La Fayette 
-T674	PER 24210 24225	la jeune fille 
-T675	PER 25302 25321	Mlle de La Fayette 
-T676	PER 27509 27527	Mlle de La Fayette
-T677	PER 25342 25349	le roi 
-T678	PER 23522 23553	Louise-Angélique de La Fayette 
-T679	PER 26017 26032	la jeune fille 
-T680	PER 26667 26685	Mlle de La Fayette
-T681	PER 23304 23346	une jeune personne de fort bonne naissance
-T682	PER 24128 24146	Mlle de La Fayette
-T683	PER 23863 23883	Les confidens du roi
-T684	PER 23908 23919	Saint-Simon
-T685	PER 23968 23979	le ministre
-T686	PER 24112 24146	l’oncle même de Mlle de La Fayette
-T687	PER 24761 24771	ses sujets
-T688	PER 25224 25233	son amie 
-T689	PER 26879 26897	Mme de Motteville 
-T690	PER 25183 25201	Mlle de Motteville
-T691	PER 25355 25376	un simple gentilhomme
-T692	PER 25485 25493	un frère
-T693	TIME 25551 25562	deux années
-T694	TIME 27856 27869	L’année 1637 
-T695	PER 27458 27468	Louis XIV 
-T696	PER 25801 25810	Louis XIV
-T697	GPE 25947 25958	Versailles 
-T698	PER 26445 26458	tout le monde
-T699	PER 26467 26480	Mathieu Molé 
-T700	PER 26488 26500	M. le Prince
-T701	PER 26556 26574	deux jeunes filles
-T702	PER 26833 26847	des deux amans
-T703	FAC 27294 27331	du couvent des filles de Sainte-Marie
-T704	FAC 26939 27000	au couvent des filles de Sainte-Marie de la rue Saint-Antoine
-T705	PER 27305 27331	des filles de Sainte-Marie
-T706	PER 26950 26977	des filles de Sainte-Marie 
-T707	NO_PER 26964 26977	Sainte-Marie 
-T708	FAC 26980 27000	la rue Saint-Antoine
-T709	TIME 27031 27045	plusieurs mois
-T710	FAC 27097 27108	du cloître 
-T711	NO_PER 27319 27331	Sainte-Marie
-T712	NO_PER 27379 27389	Saint-Maur
-T713	TIME 27404 27422	la nuit au Louvre 
-T714	FAC 33844 33853	au Louvre
-T715	FAC 27412 27422	au Louvre 
-T716	FAC 36601 36611	au Louvre 
-T717	TIME 27538 27546	au jour 
-T718	PER 28066 28077	serviteurs 
-T719	PER 28066 28087	serviteurs et d’amis 
-T720	PER 30011 30034	l’intérieur de la reine
-T721	PER 42967 42996	l’intérieur d’Anne d’Autriche
-T722	PER 28110 28133	une petite cour intime 
-T723	PER 28219 28255	ces rares courtisans de l’infortune 
-T724	PER 29233 29250	La Rochefoucauld 
-T725	PER 39183 39199	La Rochefoucauld
-T726	PER 32244 32261	La Rochefoucauld 
-T727	PER 28261 28277	La Rochefoucauld
-T728	PER 31860 31876	La Rochefoucauld
-T729	PER 28855 28871	La Rochefoucauld
-T730	PER 43096 43113	La Rochefoucauld 
-T731	PER 28330 28339	son père 
-T732	ORG 42738 42760	le parti des mécontens
-T733	ORG 28419 28442	le parti des mécontens 
-T734	PER 42747 42760	des mécontens
-T735	PER 28428 28442	des mécontens 
-T736	PER 28575 28592	femmes charmantes
-T737	ORG 29331 29339	l’armée 
-T738	PER 29386 29410	le marquis de Hautefort 
-T739	GPE 30197 30205	Touraine
-T740	PER 30254 30269	ses deux frères
-T741	PER 54634 54652	le pauvre La Porte
-T742	PER 37503 37511	La Porte
-T743	PER 35851 35864	ce prisonnier
-T744	PER 37926 37953	ce prisonnier si bien gardé
-T745	PER 39381 39389	La Porte
-T746	PER 39058 39066	La Porte
-T747	PER 37634 37661	du fidèle valet de chambre 
-T748	PER 31665 31673	La Porte
-T749	PER 31222 31230	La Porte
-T750	PER 30367 30389	Un de ses domestiques 
-T751	PER 38143 38152	La Porte 
-T752	PER 30895 30904	La Porte 
-T753	PER 31518 31527	la reine 
-T754	PER 55000 55009	La Porte 
-T755	PER 35531 35540	La Porte 
-T756	PER 31418 31436	La Porte intimidé 
-T757	PER 37296 37305	La Porte 
-T758	PER 39775 39783	La Porte
-T759	PER 55398 55406	La Porte
-T760	PER 30373 30389	ses domestiques 
-T761	FAC 37286 37305	cachot de La Porte 
-T762	FAC 37960 37970	un cachot 
-T763	FAC 30494 30518	un cachot de la Bastille
-T764	FAC 31689 31714	un cachot de la Bastille 
-T765	FAC 34773 34784	la Bastille
-T766	FAC 30507 30518	la Bastille
-T767	FAC 33920 33931	la Bastille
-T768	FAC 35800 35811	ce lieu-ci 
-T769	FAC 31702 31714	la Bastille 
-T770	FAC 54728 54739	la Bastille
-T771	PER 30908 30929	le chancelier Séguier
-T772	PER 31094 31104	deux fils 
-T773	FAC 32007 32023	quelque couvent 
-T774	FAC 32036 32055	le château du Havre
-T775	PER 32113 32138	elle et Mlle de Hautefort
-T776	GPE 32161 32170	Bruxelles
-T777	PER 33224 33235	aucun homme
-T778	PER 33363 33391	un gentilhomme de ses parens
-T779	PER 33381 33391	ses parens
-T780	GPE 33420 33426	Tours 
-T781	TIME 33795 33806	grand matin
-T782	VEH 33888 33898	un fiacre 
-T783	PER 34258 34276	quelques personnes
-T784	PER 34589 34604	son domestique 
-T785	PER 34429 34449	son valet de chambre
-T786	PER 34480 34490	cet homme 
-T787	FAC 34731 34749	le corps de garde 
-T788	FAC 34761 34784	la porte de la Bastille
-T789	PER 34897 34926	une demoiselle très équivoque
-T790	FAC 35209 35216	la cour
-T791	TIME 36615 36624	le matin 
-T792	FAC 36982 36992	sa chambre
-T793	FAC 36699 36710	sa chambre 
-T794	PER 36710 36719	la fille 
-T795	PER 36743 36754	sentinelle 
-T796	FAC 37239 37250	Sa chambre 
-T797	PER 37399 37435	au prisonnier de la seconde chambre 
-T798	FAC 37416 37435	la seconde chambre 
-T799	TIME 37737 37752	plusieurs nuits
-T800	PER 37786 37799	des geôliers 
-T801	FAC 39319 39325	prison
-T802	FAC 38777 38786	la prison
-T803	PER 38821 38826	homme
-T804	PER 38971 38989	le duc de Lorraine
-T805	TIME 39301 39316	quelques jours 
-T806	PER 39579 39601	au cardinal et au roi 
-T807	PER 40109 40122	l’oppresseur 
-T808	PER 40019 40029	les héros 
-T809	TIME 40353 40384	au commencement de l’année 1638
-T810	TIME 40372 40384	l’année 1638
-T811	TIME 40545 40559	vingt-deux ans
-T812	TIME 40561 40577	Quelques années 
-T813	PER 41231 41245	dame d’atours 
-T814	PER 41763 41777	dame d’atours 
-T815	PER 41339 41345	madame
-T816	ORG 41557 41608	la compagnie des mousquetaires du comte de Tréville
-T817	PER 41570 41608	des mousquetaires du comte de Tréville
-T818	PER 41588 41608	du comte de Tréville
-T819	PER 42072 42093	cet emploi important 
-T820	PER 41788 41816	gouvernante du petit dauphin
-T821	PER 56382 56399	du petit dauphin 
-T822	PER 41800 41816	du petit dauphin
-T823	PER 41996 42009	le futur roi 
-T824	PER 41859 41890	Louis XIII et même à Richelieu 
-T825	PER 42093 42106	Mme de Lansac
-T826	GPE 53909 53927	la cour et à Paris
-T827	GPE 42626 42642	la cour et Paris
-T828	PER 42829 42850	le comte de Soissons 
-T829	PER 56512 56532	du comte de Soissons
-T830	PER 42829 42866	le comte de Soissons et avec Monsieur
-T831	PER 42858 42866	Monsieur
-T832	PER 43009 43036	une de ses filles d’honneur
-T833	PER 43400 43419	le roi et la reine 
-T834	NO_PER 43432 43440	Céphale 
-T835	NO_PER 43432 43451	Céphale et Procris 
-T836	NO_PER 43443 43451	Procris 
-T837	PER 43876 43905	une autre Mlle de La Fayette 
-T838	TIME 44069 44083	quelque temps 
-T839	PER 44360 44370	Cinq-Mars 
-T840	PER 44267 44275	du fils 
-T841	PER 45357 45371	son nouvel ami
-T842	PER 56595 56615	l’ambitieux étourdi 
-T843	PER 44097 44143	un jeune homme de la tournure la plus agréable
-T844	PER 44848 44858	Cinq-Mars 
-T845	PER 44155 44207	un de ses amis les plus dévoués et les plus capables
-T846	PER 44279 44286	du père
-T847	PER 44161 44207	ses amis les plus dévoués et les plus capables
-T848	TIME 44337 44349	dix-neuf ans
-T849	TIME 45114 45125	une soirée 
-T850	PER 45333 45371	son redouté ministre et son nouvel ami
-T851	PER 45498 45512	la belle dame 
-T852	PER 45971 45994	Mme de Hautefort et lui
-T853	TIME 48344 48352	ce temps
-T854	TIME 48048 48060	quinze jours
-T855	TIME 46291 46313	une quinzaine de jours
-T856	TIME 48376 48393	ces quinze jours 
-T857	TIME 46477 46490	quinze jours 
-T858	TIME 46791 46804	quelque temps
-T859	PER 46809 46820	aux gardes 
-T860	PER 47619 47630	les gardes 
-T861	TIME 47140 47148	un jour 
-T862	PER 47530 47543	tout le monde
-T863	GPE 55630 55638	du Mans 
-T864	GPE 49044 49054	une terre 
-T865	GPE 54261 54269	au Mans 
-T866	GPE 49030 49037	du Mans
-T867	TIME 50572 50588	vingt-quatre ans
-T868	TIME 50592 50608	cet âge heureux 
-T869	PER 52642 52652	Michelette
-T870	PER 53030 53038	sa mère 
-T871	PER 53892 53902	Tous ceux 
-T872	PER 54109 54118	ses amans
-T873	PER 54467 54487	Le brillant marquis 
-T874	PER 54143 54153	L’un d’eux
-T875	PER 54592 54619	un très petit nombre d’amis
-T876	PER 54795 54831	Ces deux âmes loyales et courageuses
-T877	PER 55813 55831	au bouffon malade 
-T878	PER 55665 55672	Scarron
-T879	PER 55908 55916	Scarron 
-T880	PER 55761 55769	Scarron 
-T881	PER 55918 55947	Mme de Hautefort et à sa sœur
-T882	TIME 56066 56078	trois années
-T883	TIME 56339 56346	Un jour
-T884	TIME 56838 56852	vingt-deux ans
-T885	PER 56929 56968	tous ses ennemis au dedans et au dehors
-T886	PER 56934 56968	ses ennemis au dedans et au dehors
-T887	FAC 57149 57157	la tombe
+T573	PER 10441 10462	un musicien à la mode
+T574	PER 10530 10540	Benserade 
+T575	PER 10530 10553	Benserade et de Boisset
+T576	PER 10546 10553	Boisset
+T577	PER 10558 10567	un enfant
+T578	PER 10785 10794	l’auteur 
+T579	TIME 11163 11177	Tous les soirs
+T580	FAC 11201 11221	le salon de la reine
+T581	TIME 11415 11423	un jour 
+T582	PER 12277 12303	tous les jeunes seigneurs 
+T583	TIME 13032 13040	le soir 
+T584	PER 13200 13213	tout le monde
+T585	TIME 13254 13284	la plus grande partie du jour 
+T586	PER 13628 13646	Mme de Motteville 
+T587	PER 14268 14286	des autres hommes 
+T588	GPE 15049 15057	Chalais 
+T589	GPE 15492 15499	Chalais
+T590	PER 15149 15166	le duc d’Orléans 
+T591	PER 15347 15358	des enfans 
+T592	TIME 16053 16061	un jour 
+T593	PER 16828 16848	une femme à la cour 
+T594	TIME 16940 16972	le cours entier du XVIIe siècle 
+T595	PER 17047 17056	Henri IV 
+T596	PER 17097 17106	Louis XIV
+T597	ORG 17224 17242	la société féodale
+T598	ORG 17301 17327	une aristocratie excessive
+T599	PER 17367 17382	les protestans 
+T600	ORG 17392 17400	un état 
+T601	GPE 17478 17486	Autriche
+T602	GPE 19119 19127	l’Europe
+T603	GPE 17514 17522	l’Europe
+T604	GPE 24719 24728	l’Europe 
+T605	LOC 17538 17560	le territoire français
+T606	PER 18260 18298	les plus fermes partisans de Richelieu
+T607	FAC 18422 18441	tous ces échafauds 
+T608	PER 18443 18461	Les contemporains 
+T609	PER 18798 18839	une jeune fille sortie d’une race féodale
+T610	TIME 18891 18902	quinze ans 
+T611	PER 19260 19269	du passé 
+T612	TIME 19275 19283	l’avenir
+T613	TIME 19288 19299	le présent 
+T614	TIME 19416 19430	quelques mois 
+T615	GPE 19623 19632	Belgique 
+T616	PER 38869 38896	le frère d’Anne d’Autriche 
+T617	PER 19909 19935	son frère le roi d’Espagne
+T618	GPE 20312 20326	aux Carmélites
+T619	GPE 20184 20199	aux Carmélites 
+T620	GPE 20184 20217	aux Carmélites et au Val-de-Grâce
+T621	GPE 20202 20217	au Val-de-Grâce
+T622	PER 20333 20382	ces dignes filles de sainte Thérèse et de Bérulle
+T623	PER 20354 20369	sainte Thérèse 
+T624	PER 20354 20382	sainte Thérèse et de Bérulle
+T625	PER 20375 20382	Bérulle
+T626	PER 20399 20414	les deux reines
+T627	FAC 20433 20443	la maison 
+T628	PER 20460 20485	les victimes de Richelieu
+T629	PER 20652 20690	du garde des sceaux Michel de Marillac
+T630	GPE 20700 20710	Châteaudun
+T631	FAC 20720 20729	sa tombe 
+T632	PER 20801 20836	Charlotte-Marguerite de Montmorency
+T633	GPE 20851 20856	Condé
+T634	GPE 20914 20923	Toulouse 
+T635	PER 20934 20943	son frère
+T636	PER 38297 38317	du chevalier de Jars
+T637	PER 34556 34576	Le chevalier de Jars
+T638	PER 36018 36030	Le chevalier
+T639	PER 34302 34315	du chevalier 
+T640	PER 35402 35414	le chevalier
+T641	PER 37198 37219	Le chevalier de Jars 
+T642	PER 34121 34141	le chevalier de Jars
+T643	PER 36368 36380	le chevalier
+T644	PER 33962 33976	un prisonnier 
+T645	PER 35700 35708	monsieur
+T646	PER 35662 35675	au chevalier 
+T647	PER 35053 35074	le chevalier de Jars 
+T648	PER 21142 21162	le chevalier de Jars
+T649	PER 39764 39768	Jars
+T650	FAC 36486 36496	l’échafaud
+T651	FAC 56866 56877	un échafaud
+T652	FAC 21210 21220	l’échafaud
+T653	FAC 34109 34119	l’échafaud
+T654	PER 28082 28087	amis 
+T655	PER 21297 21318	des amis de la reine 
+T656	TIME 22442 22452	les années
+T657	TIME 22873 22889	plusieurs jours 
+T658	TIME 22940 22947	le soir
+T659	TIME 23219 23239	deux années entières
+T660	PER 23264 23304	les autres filles d’honneur de la reine 
+T661	PER 25126 25145	Mlle de La Fayette 
+T662	PER 43528 43547	Mlle de La Fayette 
+T663	PER 24456 24475	Mlle de La Fayette 
+T664	PER 24956 24965	une femme
+T665	PER 27047 27067	La noble religieuse 
+T666	PER 25685 25705	Mlle de La Vallière 
+T667	PER 25633 25651	Mlle de La Fayette
+T668	PER 40728 40747	Mlle de La Fayette 
+T669	PER 25659 25678	Mlle de La Vallière
+T670	PER 26910 26929	Mlle de La Fayette 
+T671	PER 26147 26166	Mlle de La Fayette 
+T672	PER 24210 24225	la jeune fille 
+T673	PER 25302 25321	Mlle de La Fayette 
+T674	PER 27509 27527	Mlle de La Fayette
+T675	PER 25342 25349	le roi 
+T676	PER 23522 23553	Louise-Angélique de La Fayette 
+T677	PER 26017 26032	la jeune fille 
+T678	PER 26667 26685	Mlle de La Fayette
+T679	PER 23304 23346	une jeune personne de fort bonne naissance
+T680	PER 24128 24146	Mlle de La Fayette
+T681	PER 23863 23883	Les confidens du roi
+T682	PER 23908 23919	Saint-Simon
+T683	PER 23968 23979	le ministre
+T684	PER 24112 24146	l’oncle même de Mlle de La Fayette
+T685	PER 24761 24771	ses sujets
+T686	PER 25224 25233	son amie 
+T687	PER 26879 26897	Mme de Motteville 
+T688	PER 25183 25201	Mlle de Motteville
+T689	PER 25355 25376	un simple gentilhomme
+T690	PER 25485 25493	un frère
+T691	TIME 25551 25562	deux années
+T692	TIME 27856 27869	L’année 1637 
+T693	PER 27458 27468	Louis XIV 
+T694	PER 25801 25810	Louis XIV
+T695	GPE 25947 25958	Versailles 
+T696	PER 26445 26458	tout le monde
+T697	PER 26467 26480	Mathieu Molé 
+T698	PER 26488 26500	M. le Prince
+T699	PER 26556 26574	deux jeunes filles
+T700	PER 26833 26847	des deux amans
+T701	FAC 27294 27331	du couvent des filles de Sainte-Marie
+T702	FAC 26939 27000	au couvent des filles de Sainte-Marie de la rue Saint-Antoine
+T703	PER 27305 27331	des filles de Sainte-Marie
+T704	PER 26950 26977	des filles de Sainte-Marie 
+T705	NO_PER 26964 26977	Sainte-Marie 
+T706	FAC 26980 27000	la rue Saint-Antoine
+T707	TIME 27031 27045	plusieurs mois
+T708	FAC 27097 27108	du cloître 
+T709	NO_PER 27319 27331	Sainte-Marie
+T710	NO_PER 27379 27389	Saint-Maur
+T711	TIME 27404 27422	la nuit au Louvre 
+T712	FAC 33844 33853	au Louvre
+T713	FAC 27412 27422	au Louvre 
+T714	FAC 36601 36611	au Louvre 
+T715	TIME 27538 27546	au jour 
+T716	PER 28066 28077	serviteurs 
+T717	PER 28066 28087	serviteurs et d’amis 
+T718	PER 30011 30034	l’intérieur de la reine
+T719	PER 42967 42996	l’intérieur d’Anne d’Autriche
+T720	PER 28110 28133	une petite cour intime 
+T721	PER 28219 28255	ces rares courtisans de l’infortune 
+T722	PER 29233 29250	La Rochefoucauld 
+T723	PER 39183 39199	La Rochefoucauld
+T724	PER 32244 32261	La Rochefoucauld 
+T725	PER 28261 28277	La Rochefoucauld
+T726	PER 31860 31876	La Rochefoucauld
+T727	PER 28855 28871	La Rochefoucauld
+T728	PER 43096 43113	La Rochefoucauld 
+T729	PER 28330 28339	son père 
+T730	ORG 42738 42760	le parti des mécontens
+T731	ORG 28419 28442	le parti des mécontens 
+T732	PER 42747 42760	des mécontens
+T733	PER 28428 28442	des mécontens 
+T734	PER 28575 28592	femmes charmantes
+T735	ORG 29331 29339	l’armée 
+T736	PER 29386 29410	le marquis de Hautefort 
+T737	GPE 30197 30205	Touraine
+T738	PER 30254 30269	ses deux frères
+T739	PER 54634 54652	le pauvre La Porte
+T740	PER 37503 37511	La Porte
+T741	PER 35851 35864	ce prisonnier
+T742	PER 37926 37953	ce prisonnier si bien gardé
+T743	PER 39381 39389	La Porte
+T744	PER 39058 39066	La Porte
+T745	PER 37634 37661	du fidèle valet de chambre 
+T746	PER 31665 31673	La Porte
+T747	PER 31222 31230	La Porte
+T748	PER 30367 30389	Un de ses domestiques 
+T749	PER 38143 38152	La Porte 
+T750	PER 30895 30904	La Porte 
+T751	PER 31518 31527	la reine 
+T752	PER 55000 55009	La Porte 
+T753	PER 35531 35540	La Porte 
+T754	PER 31418 31436	La Porte intimidé 
+T755	PER 37296 37305	La Porte 
+T756	PER 39775 39783	La Porte
+T757	PER 55398 55406	La Porte
+T758	PER 30373 30389	ses domestiques 
+T759	FAC 37286 37305	cachot de La Porte 
+T760	FAC 37960 37970	un cachot 
+T761	FAC 30494 30518	un cachot de la Bastille
+T762	FAC 31689 31714	un cachot de la Bastille 
+T763	FAC 34773 34784	la Bastille
+T764	FAC 30507 30518	la Bastille
+T765	FAC 33920 33931	la Bastille
+T766	FAC 35800 35811	ce lieu-ci 
+T767	FAC 31702 31714	la Bastille 
+T768	FAC 54728 54739	la Bastille
+T769	PER 30908 30929	le chancelier Séguier
+T770	PER 31094 31104	deux fils 
+T771	FAC 32007 32023	quelque couvent 
+T772	FAC 32036 32055	le château du Havre
+T773	PER 32113 32138	elle et Mlle de Hautefort
+T774	GPE 32161 32170	Bruxelles
+T775	PER 33224 33235	aucun homme
+T776	PER 33363 33391	un gentilhomme de ses parens
+T777	PER 33381 33391	ses parens
+T778	GPE 33420 33426	Tours 
+T779	TIME 33795 33806	grand matin
+T780	VEH 33888 33898	un fiacre 
+T781	PER 34258 34276	quelques personnes
+T782	PER 34589 34604	son domestique 
+T783	PER 34429 34449	son valet de chambre
+T784	PER 34480 34490	cet homme 
+T785	FAC 34731 34749	le corps de garde 
+T786	FAC 34761 34784	la porte de la Bastille
+T787	PER 34897 34926	une demoiselle très équivoque
+T788	FAC 35209 35216	la cour
+T789	TIME 36615 36624	le matin 
+T790	FAC 36982 36992	sa chambre
+T791	FAC 36699 36710	sa chambre 
+T792	PER 36710 36719	la fille 
+T793	PER 36743 36754	sentinelle 
+T794	FAC 37239 37250	Sa chambre 
+T795	PER 37399 37435	au prisonnier de la seconde chambre 
+T796	FAC 37416 37435	la seconde chambre 
+T797	TIME 37737 37752	plusieurs nuits
+T798	PER 37786 37799	des geôliers 
+T799	FAC 39319 39325	prison
+T800	FAC 38777 38786	la prison
+T801	PER 38821 38826	homme
+T802	PER 38971 38989	le duc de Lorraine
+T803	TIME 39301 39316	quelques jours 
+T804	PER 39579 39601	au cardinal et au roi 
+T805	PER 40109 40122	l’oppresseur 
+T806	PER 40019 40029	les héros 
+T807	TIME 40353 40384	au commencement de l’année 1638
+T808	TIME 40372 40384	l’année 1638
+T809	TIME 40545 40559	vingt-deux ans
+T810	TIME 40561 40577	Quelques années 
+T811	PER 41231 41245	dame d’atours 
+T812	PER 41763 41777	dame d’atours 
+T813	PER 41339 41345	madame
+T814	ORG 41557 41608	la compagnie des mousquetaires du comte de Tréville
+T815	PER 41570 41608	des mousquetaires du comte de Tréville
+T816	PER 41588 41608	du comte de Tréville
+T817	PER 42072 42093	cet emploi important 
+T818	PER 41788 41816	gouvernante du petit dauphin
+T819	PER 56382 56399	du petit dauphin 
+T820	PER 41800 41816	du petit dauphin
+T821	PER 41996 42009	le futur roi 
+T822	PER 41859 41890	Louis XIII et même à Richelieu 
+T823	PER 42093 42106	Mme de Lansac
+T824	GPE 53909 53927	la cour et à Paris
+T825	GPE 42626 42642	la cour et Paris
+T826	PER 42829 42850	le comte de Soissons 
+T827	PER 56512 56532	du comte de Soissons
+T828	PER 42829 42866	le comte de Soissons et avec Monsieur
+T829	PER 42858 42866	Monsieur
+T830	PER 43009 43036	une de ses filles d’honneur
+T831	PER 43400 43419	le roi et la reine 
+T832	NO_PER 43432 43440	Céphale 
+T833	NO_PER 43432 43451	Céphale et Procris 
+T834	NO_PER 43443 43451	Procris 
+T835	PER 43876 43905	une autre Mlle de La Fayette 
+T836	TIME 44069 44083	quelque temps 
+T837	PER 44360 44370	Cinq-Mars 
+T838	PER 44267 44275	du fils 
+T839	PER 45357 45371	son nouvel ami
+T840	PER 56595 56615	l’ambitieux étourdi 
+T841	PER 44097 44143	un jeune homme de la tournure la plus agréable
+T842	PER 44848 44858	Cinq-Mars 
+T843	PER 44155 44207	un de ses amis les plus dévoués et les plus capables
+T844	PER 44279 44286	du père
+T845	PER 44161 44207	ses amis les plus dévoués et les plus capables
+T846	TIME 44337 44349	dix-neuf ans
+T847	TIME 45114 45125	une soirée 
+T848	PER 45333 45371	son redouté ministre et son nouvel ami
+T849	PER 45498 45512	la belle dame 
+T850	PER 45971 45994	Mme de Hautefort et lui
+T851	TIME 48344 48352	ce temps
+T852	TIME 48048 48060	quinze jours
+T853	TIME 46291 46313	une quinzaine de jours
+T854	TIME 48376 48393	ces quinze jours 
+T855	TIME 46477 46490	quinze jours 
+T856	TIME 46791 46804	quelque temps
+T857	PER 46809 46820	aux gardes 
+T858	PER 47619 47630	les gardes 
+T859	TIME 47140 47148	un jour 
+T860	PER 47530 47543	tout le monde
+T861	GPE 55630 55638	du Mans 
+T862	GPE 49044 49054	une terre 
+T863	GPE 54261 54269	au Mans 
+T864	GPE 49030 49037	du Mans
+T865	TIME 50572 50588	vingt-quatre ans
+T866	TIME 50592 50608	cet âge heureux 
+T867	PER 52642 52652	Michelette
+T868	PER 53030 53038	sa mère 
+T869	PER 53892 53902	Tous ceux 
+T870	PER 54109 54118	ses amans
+T871	PER 54467 54487	Le brillant marquis 
+T872	PER 54143 54153	L’un d’eux
+T873	PER 54592 54619	un très petit nombre d’amis
+T874	PER 54795 54831	Ces deux âmes loyales et courageuses
+T875	PER 55813 55831	au bouffon malade 
+T876	PER 55665 55672	Scarron
+T877	PER 55908 55916	Scarron 
+T878	PER 55761 55769	Scarron 
+T879	PER 55918 55947	Mme de Hautefort et à sa sœur
+T880	TIME 56066 56078	trois années
+T881	TIME 56339 56346	Un jour
+T882	TIME 56838 56852	vingt-deux ans
+T883	PER 56929 56968	tous ses ennemis au dedans et au dehors
+T884	PER 56934 56968	ses ennemis au dedans et au dehors
+T885	FAC 57149 57157	la tombe

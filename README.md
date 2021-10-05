@@ -17,11 +17,11 @@ We use a subset of the files from [Democrat](https://www.ortolang.fr/market/corp
 |1881|Gustave Flaubert|Bouvard et Pécuchet|ok|ok|
 |1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (1)|ok|ok|
 |1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (2)|ok|ok|
-|1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (3)|||
+|1882-1883|Guy de Maupassant|Mademoiselle Fifi, nouveaux contes (3)|ok|ok|
 |1901|Lucie Achard|Rosalie de Constant, sa famille et ses amis|ok|ok|
 |1903|Laure Conan|Élisabeth Seton|ok|ok|
 |1904-1912|Romain Rolland|Jean-Christophe (1)|ok|ok|
-|1904-1912|Romain Rolland|Jean-Christophe (2)|||
+|1904-1912|Romain Rolland|Jean-Christophe (2)|ok|ok|
 |1917|Adèle Bourgeois|Némoville|ok|ok|
 |1923|Raymond Radiguet|Le diable au corps|ok|ok|
 |1926|Marguerite Audoux|De la ville au moulin|ok|ok|

@@ -1024,7 +1024,7 @@ T1023	NOM_PER 32699 32723	les autres jeunes filles
 T1024	None_PER 32824 32837	détournaient 
 T1025	None_PER 32798 32809	ricanaient 
 T1026	NOM_PER 32937 32953	quelques hommes 
-T1027	NOM_OTHER 32970 32980	Les mères 
+T1027	NOM_PER 32970 32980	Les mères 
 T1028	NOM_PER 33018 33041	Quelques petits voyous 
 T1029	NOM_PER 33056 33072	madame Baptiste 
 T1030	PRO:PER_PER 33242 33252	eux-mêmes 

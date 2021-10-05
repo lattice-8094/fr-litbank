@@ -984,7 +984,7 @@ T983	TIME 46576 46597	huit heures du matin
 T984	TIME 46588 46597	du matin 
 T985	PER 46602 46616	M. de Flavigny
 T986	FAC 46622 46632	le chemin 
-T987	TO_DISCUSS 46650 46671	beaucoup de voitures 
+T987	VEH 46650 46671	beaucoup de voitures 
 T988	PER 46781 46798	quatre personnes 
 T989	PER 46806 46834	Beaucoup de gens de la cour 
 T990	ORG 46826 46834	la cour 
