@@ -1123,2172 +1123,2174 @@ T1122	NOM_PER 14884 14893	des dames
 T1123	NOM_FAC 15101 15134	un pensionnat de jeunes personnes
 T1124	NOM_ORG 15482 15497	le gouvernement
 T1125	NAM_PER 15602 15610	Fualdès 
-T1126	NOM_FAC 15718 15746	des boutiques de bric-à-brac
-T1127	NAM_FAC 15763 15799	le Conservatoire des arts et métiers
-T1128	NAM_GPE 15801 15812	Saint-Denis
-T1129	NOM_LOC 15814 15826	les Gobelins
-T1130	NAM_FAC 15828 15842	les Invalides 
-T1131	NOM_PER 15967 15981	deux étrangers
-T1132	NAM_PER 15983 15995	deux Anglais
-T1133	NOM_FAC 16003 16025	les galeries du Muséum
-T1134	NAM_FAC 16016 16025	du Muséum
-T1135	NOM_FAC 16243 16262	les serres chaudes 
-T1136	NAM_FAC 16447 16457	au Louvre 
-T1137	NAM_PER 16481 16488	Raphaël
-T1138	NOM_FAC 16492 16514	la grande bibliothèque
-T1139	NOM_FAC 16616 16636	du Collège de France
-T1140	NAM_GPE 16630 16636	France
-T1141	NOM_PER 16641 16655	le professeur 
-T1142	NOM_FAC 16767 16799	les coulisses d'un petit théâtre
-T1143	NOM_FAC 16783 16799	un petit théâtre
-T1144	NAM_FAC 16855 16865	l'Académie
-T1145	None_TIME 17174 17177	où 
-T1146	NOM_TIME 17165 17174	l'époque 
-T1147	NOM_TIME 17224 17239	cette époque-là
-T1148	NOM_LOC 17283 17292	des pays 
-T1149	PRO:PER_LOC 17321 17324	en 
-T1150	NOM_FAC 17544 17552	les rues
-T1151	NOM_FAC 17599 17618	Le quai aux Fleurs 
-T1152	NOM_TIME 17774 17782	du jour 
-T1153	NOM_TIME 17658 17670	Un dimanche 
-T1154	NAM_GPE 17724 17730	Meudon
-T1155	NAM_GPE 17732 17740	Bellevue
-T1156	NAM_GPE 17742 17750	Suresnes
-T1157	NAM_GPE 17752 17759	Auteuil
-T1158	NOM_LOC 17846 17864	au bord des champs
-T1159	NOM_FAC 17932 17947	des guinguettes
-T1160	NOM_TIME 18043 18058	Les lendemains 
-T1161	NOM_FAC 18125 18135	du bureau 
-T1162	PRO:PER_PER 18264 18268	Les 
-T1163	NOM_PER 18241 18262	les mêmes compagnons 
-T1164	PRO:PER_PER 18290 18295	leur 
-T1165	NOM_TIME 18933 18947	Un après-midi 
-T1166	None_TIME 18948 18950	c'
-T1167	NOM_TIME 18956 18974	le 20 janvier 1839
-T1168	NOM_FAC 18993 19006	son comptoir 
-T1169	NOM_PER 19037 19047	le facteur
-T1170	PRO:PER_PER 19193 19196	On 
-T1171	PRO:PER_PER 19268 19271	on 
-T1172	NOM_PER 19141 19152	Les commis 
-T1173	PRO:PER_PER 19170 19173	on 
-T1174	NOM_PER 19212 19222	un médecin
-T1175	NOM_FAC 19439 19464	au ministère de la Marine
-T1176	PRO:PER_PER 19754 19757	Je 
-T1177	None_PER 20091 20095	mes 
-T1178	None_PER 19785 19789	mon 
-T1179	NAM_PER 20107 20115	Tardivel
-T1180	NAM_PER 19687 19698	Me Tardivel
-T1181	NOM_PER 21114 21125	au notaire 
-T1182	NOM_PER 21141 21152	Le notaire 
-T1183	NAM_PER 22514 22522	Tardivel
-T1184	NAM_GPE 19700 19719	Savigny-en-Septaine
-T1185	NOM_TIME 19721 19736	14 janvier 1839
-T1186	NOM_GPE 19917 19935	la ville de Nantes
-T1187	NOM_GPE 19947 19961	cette commune 
-T1188	NAM_GPE 19929 19935	Nantes
-T1189	NOM_PER 20117 20124	notaire
-T1190	NOM_FAC 20180 20187	la cour
-T1191	NOM_ORG 20407 20415	la poste
-T1192	NOM_PER 20476 20486	du notaire
-T1193	NAM_FAC 20693 20710	l'Arc de Triomphe
-T1194	NOM_LOC 20726 20742	le bord de l'eau
-T1195	NAM_FAC 20756 20766	Notre-Dame
-T1196	NOM_TIME 20857 20869	cinq minutes
-T1197	NOM_PER 21468 21477	un neveu 
-T1198	NOM_PER 21515 21524	mon oncle
-T1199	NOM_PER 21633 21657	Ses deux fils légitimes 
-T1200	NOM_PER 22171 22181	des frères
-T1201	NOM_PER 21843 21856	sa cuisinière
-T1202	PRO:PER_PER 21858 21863	Elle 
-T1203	NOM_PER 21897 21907	la famille
-T1204	PRO:PER_PER 22212 22215	il 
-T1205	NOM_PER 22164 22193	L'aîné des frères, M. Étienne
-T1206	None_PER 22342 22355	des ivrognes 
-T1207	NAM_PER 22538 22550	M. Alexandre
-T1208	None_PER 22562 22566	son 
-T1209	PRO:PER_PER 22639 22642	il 
-T1210	NOM_PER 22524 22536	L'autre fils
-T1211	NOM_PER 23028 23047	le sieur Alexandre 
-T1212	None_GPE 22820 22823	où 
-T1213	NOM_GPE 40378 40393	du point de vue
-T1214	NAM_GPE 22809 22816	Savigny
-T1215	NOM_LOC 23561 23569	Le Nord 
-T1216	NAM_LOC 23602 23610	le Midi 
-T1217	None_LOC 23625 23629	son 
-T1218	NOM_LOC 23674 23683	le Centre
-T1219	NAM_GPE 23723 23735	La Bretagne 
-T1220	NOM_LOC 23797 23817	aux régions de l'Est
-T1221	PRO:PER_LOC 23854 23856	y 
-T1222	NOM_LOC 23812 23817	l'Est
-T1223	NAM_GPE 23937 23945	le Forez
-T1224	NAM_GPE 23947 23955	le Bugey
-T1225	NAM_GPE 23957 23968	le Roumois 
-T1226	NOM_FAC 24029 24041	leur maison 
-T1227	NOM_VEH 24337 24349	les charrues
-T1228	NOM_PER 24590 24596	chefs 
-T1229	NOM_FAC 24649 24667	un domicile à eux 
-T1230	NOM_FAC 24702 24717	leur basse-cour
-T1231	NOM_FAC 24734 24745	leur jardin
-T1232	NOM_FAC 25026 25036	une maison
-T1233	NOM_PER 25896 25912	leurs collègues 
-T1234	NOM_TIME 26328 26355	dix-huit mois de recherches
-T1235	NOM_LOC 26412 26438	tous les environs de Paris
-T1236	NAM_GPE 26450 26457	Amiens 
-T1237	NAM_GPE 26465 26471	Évreux
-T1238	NAM_GPE 26479 26493	Fontainebleau 
-T1239	NOM_LOC 26523 26536	une campagne 
-T1240	None_LOC 26536 26540	qui 
-T1241	NOM_FAC 26673 26689	des habitations 
-T1242	NOM_FAC 26899 26915	une manufacture 
-T1243	PRO:PER_LOC 34248 34250	y 
-T1244	None_LOC 27094 27099	Cela 
-T1245	NOM_LOC 27043 27053	un domaine
-T1246	NOM_LOC 37935 37948	la propriété 
-T1247	NAM_GPE 32712 32724	Chavignolles
-T1248	NAM_GPE 58078 58091	Chavignolles 
-T1249	NAM_GPE 39792 39805	Chavignolles 
-T1250	NAM_GPE 29609 29621	Chavignolles
-T1251	NAM_GPE 33392 33404	Chavignolles
-T1252	NAM_GPE 27057 27069	Chavignolles
-T1253	PRO:PER_GPE 32312 32314	y 
-T1254	NAM_GPE 29551 29555	Caen
-T1255	NAM_GPE 27077 27082	Caen 
-T1256	NAM_GPE 32065 32070	Caen 
-T1257	None_GPE 29557 29560	où 
-T1258	NAM_GPE 32292 32296	Caen
-T1259	NAM_GPE 32453 32460	Falaise
-T1260	NAM_GPE 29831 29838	Falaise
-T1261	NAM_GPE 27085 27092	Falaise
-T1262	NOM_FAC 50470 50488	Leur exploitation 
-T1263	None_FAC 27295 27304	la ferme 
-T1264	None_FAC 53112 53120	la ferme
-T1265	NOM_FAC 27113 27146	une ferme de trente-huit hectares
-T1266	NOM_FAC 37068 37078	leur ferme
-T1267	NOM_FAC 27322 27328	l'une 
-T1268	NOM_FAC 52514 52523	la ferme 
-T1269	NOM_FAC 38720 38730	La maison 
-T1270	None_FAC 38776 38779	sa 
-T1271	NOM_FAC 27311 27321	la maison 
-T1272	PRO:PER_FAC 38788 38793	Elle 
-T1273	NOM_FAC 27153 27176	une manière de château 
-T1274	None_FAC 38755 38758	sa 
-T1275	None_FAC 27354 27361	l'autre
-T1276	NOM_FAC 34377 34386	le jardin
-T1277	NOM_FAC 53013 53022	du jardin
-T1278	NOM_FAC 54658 54668	le jardin 
-T1279	NOM_FAC 35910 35920	le jardin 
-T1280	PRO:PER_FAC 53066 53069	le 
-T1281	NOM_FAC 39391 39400	le jardin
-T1282	NOM_FAC 27179 27205	un jardin en plein rapport
-T1283	NOM_FAC 56497 56512	tout le jardin 
-T1284	NOM_GPE 27235 27247	le Calvados 
-T1285	NOM_PER 27605 27613	sa mère 
-T1286	NOM_TIME 27735 27749	la fin de 1840
-T1287	NOM_TIME 27751 27777	six mois avant sa retraite
-T1288	None_TIME 27745 27749	1840
-T1289	NOM_PER 27979 27988	Descambos
-T1290	NOM_PER 28099 28112	ses collègues
-T1291	NOM_FAC 28683 28694	son balcon 
-T1292	NOM_FAC 28757 28767	des quais 
-T1293	NOM_VEH 28804 28816	des omnibus 
-T1294	NOM_TIME 28850 28898	des jours heureux passés dans cette grande ville
-T1295	NOM_LOC 28880 28898	cette grande ville
-T1296	NOM_FAC 28917 28930	au restaurant
-T1297	NOM_TIME 28932 28952	des soirs au théâtre
-T1298	NOM_FAC 28942 28952	au théâtre
-T1299	NOM_FAC 29145 29155	sa chambre
-T1300	NAM_LOC 29494 29502	la Seine
-T1301	NOM_VEH 30800 30810	du chariot
-T1302	NOM_VEH 32885 32895	le chariot
-T1303	None_VEH 29784 29788	qui 
-T1304	NOM_VEH 29756 29784	une voiture de déménagement 
-T1305	NAM_GPE 29807 29817	Nonancourt
-T1306	NAM_GPE 29819 29828	Verneuil 
-T1307	NOM_PER 30230 30244	le conducteur 
-T1308	NOM_PER 29893 29906	du conducteur
-T1309	NOM_TIME 30029 30048	le dimanche 20 mars
-T1310	NOM_PER 31296 31307	les hommes 
-T1311	NOM_PER 31627 31646	ces deux imbéciles 
-T1312	PRO:PER_PER 30315 30319	ils 
-T1313	PRO:PER_PER 31328 31333	leur 
-T1314	NOM_PER 30230 30260	le conducteur et le charretier
-T1315	PRO:PER_PER 30262 30266	Ils 
-T1316	PRO:PER_PER 31376 31380	ils 
-T1317	NOM_PER 31690 31704	du charretier 
-T1318	PRO:PER_PER 61337 61339	t'
-T1319	None_PER 31704 31708	qui 
-T1320	PRO:PER_PER 61371 61375	-moi
-T1321	NOM_PER 30247 30260	le charretier
-T1322	NOM_PER 61297 61311	le charretier 
-T1323	NOM_FAC 30282 30301	exécrables auberges
-T1324	NOM_FAC 30388 30403	les mêmes gîtes
-T1325	NOM_TIME 30437 30444	l'aube 
-T1326	None_FAC 30468 30475	la même
-T1327	NOM_FAC 30449 30457	la route
-T1328	NOM_LOC 30601 30613	la campagne 
-T1329	NOM_VEH 30860 30869	un navire
-T1330	NAM_GPE 31432 31441	Gauburge 
-T1331	NOM_TIME 31651 31671	la journée suivante 
-T1332	NOM_TIME 31831 31846	le surlendemain
-T1333	NOM_FAC 31905 31929	la cour des Messageries 
-T1334	NOM_FAC 31975 31998	la cathédrale de Rouen 
-T1335	NAM_GPE 31992 31998	Rouen 
-T1336	NOM_VEH 32021 32030	diligence
-T1337	NOM_TIME 32033 32040	Le soir
-T1338	NOM_FAC 32119 32138	au théâtre des Arts
-T1339	NOM_PER 32157 32168	ses voisins
-T1340	NOM_LOC 32234 32258	un domaine aux alentours
-T1341	NOM_TIME 32278 32290	le vendredi 
-T1342	NOM_TIME 32340 32352	le dimanche 
-T1343	NOM_VEH 32371 32384	une charrette
-T1344	NOM_PER 37150 37160	le fermier
-T1345	PRO:PER_PER 50252 50255	il 
-T1346	NOM_PER 38396 38408	maître Gouy 
-T1347	NOM_PER 37975 37987	Maître Gouy 
-T1348	NOM_PER 49881 49892	le fermier 
-T1349	None_PER 50197 50204	laissa 
-T1350	NOM_PER 50164 50176	maître Gouy 
-T1351	NOM_PER 37162 37173	maître Gouy
-T1352	PRO:PER_PER 49994 49997	il 
-T1353	None_PER 49851 49855	son 
-T1354	NOM_PER 37314 37322	L'homme 
-T1355	PRO:PER_PER 49913 49916	Il 
-T1356	NOM_PER 49795 49807	maître Gouy 
-T1357	None_PER 37990 37994	son 
-T1358	NOM_PER 32400 32411	le fermier 
-T1359	None_PER 49901 49904	sa 
-T1360	None_PER 50059 50062	sa 
-T1361	None_PER 50234 50240	ruina 
-T1362	NOM_TIME 32433 32448	quelques heures
-T1363	NOM_TIME 32462 32492	le neuvième jour de son voyage
-T1364	NAM_GPE 32587 32598	Bretteville
-T1365	NOM_FAC 32613 32627	la grand'route
-T1366	NOM_FAC 32647 32668	un chemin de traverse
-T1367	NOM_TIME 32685 32699	chaque minute 
-T1368	NOM_FAC 32699 32724	le pignon de Chavignolles
-T1369	PRO:PER_FAC 32764 32770	elles 
-T1370	NOM_FAC 32736 32749	les ornières 
-T1371	NOM_LOC 32804 32833	au milieu des champs labourés
-T1372	NOM_TIME 32835 32843	La nuit 
-T1373	NOM_FAC 32983 32993	des fermes
-T1374	NOM_FAC 33062 33070	sa route
-T1375	NOM_VEH 33180 33192	un cabriolet
-T1376	PRO:PER_VEH 33208 33211	le 
-T1377	NOM_TIME 33303 33313	une heure 
-T1378	PRO:PER_FAC 33494 33496	y 
-T1379	NOM_FAC 33470 33478	la salle
-T1380	NOM_FAC 33559 33571	le vestibule
-T1381	None_PER 36982 36995	aurait voulu 
-T1382	PRO:PER_PER 36886 36890	elle
-T1383	NAM_PER 52624 52632	Germaine
-T1384	PRO:PER_PER 37035 37037	l'
-T1385	None_PER 52634 52638	qui 
-T1386	NOM_PER 33692 33709	La vieille femme 
-T1387	PRO:PER_PER 36895 36897	l'
-T1388	None_PER 33709 33713	qui 
-T1389	None_PER 36939 36943	son 
-T1390	PRO:PER_PER 36949 36954	Elle 
-T1391	NOM_PER 36510 36530	La vieille servante 
-T1392	NOM_FAC 34641 34654	les espaliers
-T1393	NOM_TIME 34889 34897	La nuit 
-T1394	PRO:PER_FAC 35051 35057	elles 
-T1395	NOM_FAC 35017 35037	Leurs deux chambres 
-T1396	NOM_LOC 35489 35496	la lune
-T1397	NOM_TIME 35542 35555	le lendemain 
-T1398	NOM_LOC 35756 35766	les champs
-T1399	NOM_FAC 35777 35787	une grange
-T1400	NOM_FAC 35794 35817	le clocher de l'église 
-T1401	NOM_FAC 35808 35817	l'église 
-T1402	NOM_FAC 35856 35879	Deux allées principales
-T1403	NOM_FAC 36144 36158	les espaliers 
-T1404	NOM_FAC 36245 36254	un verger
-T1405	NOM_LOC 36276 36287	un bosquet 
-T1406	NOM_FAC 36436 36446	le sentier
-T1407	NOM_FAC 36314 36329	un petit chemin
-T1408	NOM_PER 36370 36429	un homme à chevelure grisonnante et vêtu d'un paletot noir 
-T1409	None_PER 36546 36548	c'
-T1410	NAM_PER 36554 36567	M. Vaucorbeil
-T1411	None_PER 36464 36467	sa 
-T1412	NOM_PER 36611 36631	Les autres notables 
-T1413	PRO:PER_PER 45232 45235	il 
-T1414	None_PER 44062 44066	son 
-T1415	PRO:PER_PER 44078 44081	Il 
-T1416	PRO:PER_PER 44933 44936	Il 
-T1417	PRO:PER_PER 45897 45900	il 
-T1418	None_PER 45218 45222	ses 
-T1419	None_PER 44980 44988	proféra 
-T1420	None_PER 36684 36689	dont 
-T1421	PRO:PER_PER 45961 45964	le 
-T1422	PRO:PER_PER 44302 44305	il 
-T1423	NOM_PER 44032 44044	M. le comte 
-T1424	None_PER 45868 45871	ma 
-T1425	None_PER 44312 44316	son 
-T1426	NOM_PER 36641 36661	le comte de Faverges
-T1427	PRO:PER_PER 45415 45418	me 
-T1428	None_PER 45065 45068	sa 
-T1429	None_PER 44213 44216	sa 
-T1430	NOM_PER 45812 45820	le comte
-T1431	PRO:PER_PER 46024 46027	le 
-T1432	None_PER 45830 45834	mes 
-T1433	None_PER 42850 42854	son 
-T1434	NOM_PER 42868 42877	Le comte 
-T1435	NOM_PER 44798 44807	Le comte 
-T1436	PRO:PER_PER 44235 44238	il 
-T1437	PRO:PER_PER 45822 45825	je 
-T1438	None_PER 46010 46014	Son 
-T1439	PRO:PER_PER 45993 45997	lui 
-T1440	NOM_PER 42814 42829	M. de Faverges 
-T1441	NAM_GPE 36653 36661	Faverges
-T1442	NOM_PER 36715 36723	le maire
-T1443	NAM_PER 36725 36735	M. Foureau
-T1444	None_PER 36737 36741	qui 
-T1445	NAM_PER 36794 36806	M. Marescot 
-T1446	NOM_PER 36819 36833	l'abbé Jeufroy
-T1447	PRO:PER_PER 41865 41870	elle 
-T1448	PRO:PER_PER 41739 41744	elle 
-T1449	None_PER 41853 41857	son 
-T1450	NOM_PER 41784 41798	cette personne
-T1451	NOM_PER 41657 41667	Mme Bordin
-T1452	NOM_PER 36838 36854	Mme veuve Bordin
-T1453	PRO:PER_PER 41715 41720	elle 
-T1454	None_PER 41832 41836	ses 
-T1455	None_PER 36866 36870	son 
-T1456	NAM_PER 36906 36914	Germaine
-T1457	NAM_PER 36927 36947	feu Germain son mari
-T1458	NOM_TIME 36962 36975	des journées 
-T1459	NOM_FAC 37141 37148	la cour
-T1460	NOM_PER 37193 37203	un garçon 
-T1461	NOM_PER 37206 37217	la fermière
-T1462	NOM_PER 37987 38001	et son épouse 
-T1463	None_PER 37250 37254	ses 
-T1464	NOM_PER 50059 50068	sa femme 
-T1465	NOM_PER 37401 37410	La femme 
-T1466	PRO:PER_PER 37274 37279	elle 
-T1467	NOM_PER 37505 37517	aux manants 
-T1468	NOM_FAC 37532 37543	des églises
-T1469	NOM_FAC 37551 37561	la cuisine
-T1470	NOM_FAC 37655 37672	la haute cheminée
-T1471	NOM_FAC 38056 38074	Tous les bâtiments
-T1472	NOM_FAC 38083 38099	la charretterie 
-T1473	NOM_FAC 38107 38120	la bouillerie
-T1474	NOM_FAC 38180 38195	une succursale 
-T1475	NOM_LOC 38290 38298	la mare 
-T1476	NOM_FAC 38345 38360	les trois cours
-T1477	PRO:PER_PER 38371 38374	on 
-T1478	PRO:PER_PER 38660 38664	Ils 
-T1479	NOM_FAC 38381 38394	les cultures 
-T1480	PRO:PER_FAC 38408 38412	les 
-T1481	PRO:PER_FAC 38422 38428	Elles 
-T1482	NOM_VEH 38455 38468	les charrois 
-T1483	NOM_LOC 38557 38570	les prairies 
-T1484	NOM_FAC 38683 38691	la cavée
-T1485	NOM_FAC 38698 38718	une avenue de hêtres
-T1486	NOM_FAC 38755 38773	sa cour d'honneur 
-T1487	NOM_FAC 39145 39152	la cour
-T1488	NOM_FAC 38755 38785	sa cour d'honneur et sa façade
-T1489	NOM_FAC 38853 38863	Le hangar 
-T1490	NOM_FAC 38853 38876	Le hangar et le cellier
-T1491	NOM_FAC 38866 38876	le cellier
-T1492	NOM_FAC 38878 38889	le fournil 
-T1493	NOM_FAC 38878 38902	le fournil et le bûcher 
-T1494	NOM_FAC 57589 57599	la cuisine
-T1495	NOM_FAC 40961 40972	la cuisine 
-T1496	NOM_FAC 42087 42097	la cuisine
-T1497	NOM_FAC 38946 38957	La cuisine 
-T1498	NOM_FAC 38975 38991	une petite salle
-T1499	NOM_FAC 39016 39028	le vestibule
-T1500	NOM_FAC 39030 39060	une deuxième salle plus grande
-T1501	NOM_FAC 39062 39070	le salon
-T1502	NOM_FAC 39072 39092	Les quatre chambres 
-T1503	NOM_FAC 42148 42160	les chambres
-T1504	PRO:PER_FAC 39163 39166	en 
-T1505	None_FAC 39131 39135	qui 
-T1506	NOM_FAC 39119 39131	le corridor 
-T1507	NOM_FAC 39225 39241	la bibliothèque 
-T1508	NOM_TIME 39722 39745	plus de trois semaines 
-T1509	NOM_PER 39775 39805	les bourgeois de Chavignolles 
-T1510	NOM_PER 39927 39941	La population 
-T1511	NOM_FAC 40972 40985	un large trou
-T1512	PRO:PER_FAC 40990 40993	le 
-T1513	NOM_FAC 41219 41227	la fosse
-T1514	NOM_PER 41399 41416	Les cultivateurs 
-T1515	NOM_PER 41437 41453	les aubergistes 
-T1516	NOM_TIME 42222 42234	la mi-carême
-T1517	NOM_TIME 42251 42263	le printemps
-T1518	NOM_TIME 42279 42292	chaque matin 
-T1519	NOM_FAC 42618 42628	leur ferme
-T1520	None_PER 42750 42761	les autres 
-T1521	NOM_TIME 42925 42944	une heure de marche
-T1522	None_LOC 42988 42992	qui 
-T1523	NOM_LOC 42978 42988	un coteau 
-T1524	NOM_LOC 42999 43018	la vallée de l'Orne
-T1525	PRO:PER_LOC 43095 43097	y 
-T1526	None_LOC 43643 43646	où 
-T1527	NAM_LOC 43012 43018	l'Orne
-T1528	NOM_LOC 43020 43031	La rivière 
-T1529	NOM_LOC 43631 43641	la rivière
-T1530	NOM_LOC 43251 43266	l'autre colline
-T1531	NOM_FAC 43315 43326	les maisons
-T1532	None_FAC 47019 47028	la ferme 
-T1533	None_FAC 43510 43518	la ferme
-T1534	None_FAC 48246 48254	la ferme
-T1535	NOM_FAC 43520 43548	Le château à façade blanche 
-T1536	NOM_FAC 45997 46007	au château
-T1537	NOM_LOC 43580 43588	un bois 
-T1538	NOM_PER 43747 43758	Des femmes 
-T1539	NOM_PER 44863 44876	Les faneuses 
-T1540	NOM_PER 44721 44731	aux femmes
-T1541	PRO:PER_PER 44902 44906	les 
-T1542	NOM_VEH 43984 44004	une longue charrette
-T1543	NOM_PER 44062 44075	son régisseur
-T1544	NOM_PER 47308 47321	Le régisseur 
-T1545	PRO:PER_PER 46090 46093	Il 
-T1546	NOM_PER 46856 46869	Le régisseur 
-T1547	NOM_PER 46010 46024	Son régisseur 
-T1548	NOM_PER 44171 44184	un magistrat 
-T1549	NOM_PER 44189 44197	un dandy
-T1550	NOM_PER 44516 44535	au râteleur anglais
-T1551	NOM_PER 44572 44592	un pareil instrument
-T1552	None_PER 44787 44790	sa 
-T1553	None_PER 44648 44653	dont 
-T1554	None_PER 44696 44699	sa 
-T1555	NOM_PER 44827 44840	cette enfant 
-T1556	PRO:PER_PER 44876 44878	l'
-T1557	NOM_PER 44595 44611	Une petite fille
-T1558	PRO:PER_PER 44766 44771	elle 
-T1559	NOM_PER 45942 45956	un domestique 
-T1560	NOM_PER 46037 46087	homme à figure chafouine et de façons obséquieuses
-T1561	None_PER 46429 46435	leurs 
-T1562	None_PER 46292 46299	Chacun 
-T1563	PRO:PER_PER 46369 46373	ils 
-T1564	NOM_PER 46145 46166	quatorze moissonneurs
-T1565	NOM_TIME 46577 46591	Le crépuscule 
-T1566	None_PER 46832 46836	son 
-T1567	PRO:PER_PER 46850 46853	lui
-T1568	NOM_PER 46760 46769	Le berger
-T1569	NOM_FAC 46997 47028	Tous les bâtiments de la ferme 
-T1570	None_FAC 47048 47059	occupaient 
-T1571	NOM_FAC 48924 48932	la cour 
-T1572	PRO:PER_FAC 47100 47102	y 
-T1573	NOM_FAC 47078 47085	la cour
-T1574	NOM_LOC 47160 47172	un ruisseau 
-T1575	None_LOC 47172 47175	qu'
-T1576	NOM_FAC 47339 47353	les bergeries 
-T1577	NOM_FAC 47478 47488	La grange 
-T1578	NOM_FAC 47507 47522	une cathédrale 
-T1579	NOM_PER 47613 47626	une servante 
-T1580	NOM_FAC 47738 47751	le pigeonnier
-T1581	NOM_FAC 48264 48275	la bouverie
-T1582	PRO:PER_FAC 48441 48443	y 
-T1583	None_FAC 48337 48340	sa 
-T1584	PRO:PER_FAC 48349 48352	la 
-T1585	None_PER 49077 49083	leurs 
-T1586	NOM_PER 49035 49055	Les gens de travail 
-T1587	NOM_TIME 49251 49258	le soir
-T1588	NOM_FAC 49316 49334	la Maison rustique
-T1589	None_VEH 49493 49497	que 
-T1590	NOM_VEH 49480 49493	une carriole 
-T1591	NOM_PER 49693 49708	les laboureurs 
-T1592	NOM_PER 50436 50457	Son notaire de Paris 
-T1593	NOM_PER 50800 50816	deux charretiers
-T1594	NOM_PER 50818 50829	deux femmes
-T1595	NOM_PER 50831 50841	un berger 
-T1596	NOM_TIME 51081 51101	Au mois de novembre 
-T1597	NOM_TIME 51092 51101	novembre 
-T1598	NOM_TIME 51648 51665	L'année suivante 
-T1599	NOM_TIME 51865 51883	le long de l'année
-T1600	NOM_TIME 51885 51894	du matin 
-T1601	NOM_TIME 51900 51907	au soir
-T1602	NOM_PER 51971 51985	le même homme 
-T1603	NOM_PER 52294 52317	La fille de basse-cour 
-T1604	NOM_PER 52346 52362	des gens mariés 
-T1605	NOM_PER 52364 52376	les enfants 
-T1606	NOM_PER 52389 52400	les cousins
-T1607	NOM_PER 52402 52414	les cousines
-T1608	NOM_PER 52416 52426	les oncles
-T1609	NOM_PER 52428 52445	les belles-sœurs 
-T1610	NOM_TIME 52545 52553	le soir 
-T1611	NOM_FAC 52592 52603	la chambre 
-T1612	PRO:PER_PER 52881 52884	tu 
-T1613	None_PER 52869 52879	Misérable 
-T1614	PRO:PER_PER 52911 52913	t'
-T1615	None_PER 52810 52812	un
-T1616	PRO:PER_PER 52829 52832	le 
-T1617	NOM_GPE 52896 52907	du village 
-T1618	None_GPE 52907 52911	qui 
-T1619	NOM_FAC 54455 54465	du perron 
-T1620	NOM_FAC 54625 54656	toutes les allées de sable neuf
-T1621	NOM_PER 55955 55971	du bon jardinier
-T1622	NOM_FAC 58027 58053	les jardins de la capitale
-T1623	NAM_PER 58488 58494	Puvis 
-T1624	NAM_PER 58510 58526	le manuel Roret 
-T1625	NAM_PER 58575 58583	Franklin
-T1626	NAM_PER 58585 58592	Riéfel 
-T1627	NAM_PER 58585 58605	Riéfel et M. Rigaud 
-T1628	NAM_PER 58595 58605	M. Rigaud 
-T1629	NAM_PER 58709 58717	Leclerc 
-T1630	NAM_PER 58768 58777	Gasparin 
-T1631	None_PER 58794 58797	qui
-T1632	NAM_PER 58782 58794	un Lyonnais 
-T1633	NOM_TIME 58807 58821	un demi-siècle
-T1634	NAM_PER 58908 58913	Tull 
-T1635	None_PER 58985 58989	qui 
-T1636	NAM_PER 58968 58985	le major Beetson 
-T1637	NAM_PER 59516 59525	Louis Xv 
-T1638	NOM_PER 59529 59550	un prêtre de Touraine
-T1639	NAM_GPE 59542 59550	Touraine
-T1640	NOM_FAC 60489 60497	sa cour 
-T1641	NOM_LOC 60585 60596	la campagne
-T1642	None_LOC 60879 60882	où 
-T1643	NOM_LOC 60870 60879	les pays 
-T1644	PRO:PER_PER 61460 61464	les 
-T1645	PRO:PER_PER 61535 61538	eux
-T1646	NOM_PER 61418 61430	les paysans 
-T1647	NOM_PER 61821 61834	des familles 
-T1648	SI_1576-1 0 19	Bouvard et Pécuchet
-T1649	boulevard Bourdon-2 90 111	le boulevard Bourdon 
-T1650	boulevard Bourdon-2 5571 5583	du boulevard
-T1651	boulevard Bourdon-2 1077 1089	du boulevard
-T1652	boulevard Bourdon-2 4571 4600	l'avenue des maigres ormeaux 
-T1653	canal Saint-Martin-3 228 232	son 
-T1654	canal Saint-Martin-3 349 357	du canal
-T1655	canal Saint-Martin-3 153 174	le canal Saint-Martin
-T1656	SI_1447-4 186 202	les deux écluses
-T1657	SI_17-5 274 297	un bateau plein de bois
-T1658	SI_126-6 306 315	la berge 
-T1659	les maisons-7 377 381	que 
-T1660	les maisons-7 365 377	les maisons 
-T1661	SI_715-8 390 403	des chantiers
-T1662	le soleil-9 51927 51936	le soleil
-T1663	le soleil-9 484 493	du soleil
-T1664	le soleil-9 57361 57370	au soleil
-T1665	le soleil-9 39975 39984	du soleil
-T1666	le soleil-9 32550 32560	du soleil 
-T1667	SI_913-10 539 559	les quais de granit 
-T1668	Bouvard et Pécuchet-11 58325 58329	Ils 
-T1669	Bouvard et Pécuchet-11 58409 58418	savaient 
-T1670	Bouvard et Pécuchet-11 52466 52472	leurs 
-T1671	Bouvard et Pécuchet-11 39875 39879	Ils 
-T1672	Bouvard et Pécuchet-11 20672 20676	Ils 
-T1673	Bouvard et Pécuchet-11 20657 20662	leur 
-T1674	Bouvard et Pécuchet-11 58359 58369	ouvraient 
-T1675	Bouvard et Pécuchet-11 34624 34628	ils 
-T1676	Bouvard et Pécuchet-11 24102 24106	ils 
-T1677	Bouvard et Pécuchet-11 39816 39820	les 
-T1678	Bouvard et Pécuchet-11 52334 52338	Ils 
-T1679	Bouvard et Pécuchet-11 24129 24133	ils 
-T1680	Bouvard et Pécuchet-11 34478 34493	se promenèrent 
-T1681	Bouvard et Pécuchet-11 37871 37890	Les deux Parisiens 
-T1682	Bouvard et Pécuchet-11 25867 25872	leur 
-T1683	Bouvard et Pécuchet-11 25896 25902	leurs 
-T1684	Bouvard et Pécuchet-11 36332 36336	Ils 
-T1685	Bouvard et Pécuchet-11 20629 20635	leurs 
-T1686	Bouvard et Pécuchet-11 37907 37912	leur 
-T1687	Bouvard et Pécuchet-11 34520 34524	Ils 
-T1688	Bouvard et Pécuchet-11 39842 39846	les 
-T1689	Bouvard et Pécuchet-11 47598 47611	les messieurs
-T1690	Bouvard et Pécuchet-11 13733 13737	Ils 
-T1691	Bouvard et Pécuchet-11 13680 13685	leur 
-T1692	Bouvard et Pécuchet-11 25823 25827	Ils 
-T1693	Bouvard et Pécuchet-11 20539 20543	ils 
-T1694	Bouvard et Pécuchet-11 52214 52229	administraient 
-T1695	Bouvard et Pécuchet-11 24029 24034	leur 
-T1696	Bouvard et Pécuchet-11 49190 49194	ils 
-T1697	Bouvard et Pécuchet-11 52769 52774	leur 
-T1698	Bouvard et Pécuchet-11 21017 21021	Ils 
-T1699	Bouvard et Pécuchet-11 15696 15700	Ils 
-T1700	Bouvard et Pécuchet-11 17618 17622	les 
-T1701	Bouvard et Pécuchet-11 14063 14067	ils 
-T1702	Bouvard et Pécuchet-11 50906 50910	ils 
-T1703	Bouvard et Pécuchet-11 52690 52694	les 
-T1704	Bouvard et Pécuchet-11 24395 24409	regarderaient 
-T1705	Bouvard et Pécuchet-11 34827 34833	leurs 
-T1706	Bouvard et Pécuchet-11 17526 17530	les 
-T1707	Bouvard et Pécuchet-11 20919 20922	eux
-T1708	Bouvard et Pécuchet-11 50941 50945	les 
-T1709	Bouvard et Pécuchet-11 50955 50959	eux 
-T1710	Bouvard et Pécuchet-11 17554 17558	ils 
-T1711	Bouvard et Pécuchet-11 20897 20901	Ils 
-T1712	Bouvard et Pécuchet-11 50920 50926	leurs 
-T1713	Bouvard et Pécuchet-11 10734 10738	ils 
-T1714	Bouvard et Pécuchet-11 14119 14124	leur 
-T1715	Bouvard et Pécuchet-11 14092 14096	ils 
-T1716	Bouvard et Pécuchet-11 24351 24359	iraient 
-T1717	Bouvard et Pécuchet-11 17472 17476	ils 
-T1718	Bouvard et Pécuchet-11 10833 10840	chacun 
-T1719	Bouvard et Pécuchet-11 14191 14195	ils 
-T1720	Bouvard et Pécuchet-11 10820 10824	les 
-T1721	Bouvard et Pécuchet-11 10797 10802	leur 
-T1722	Bouvard et Pécuchet-11 52603 52607	les 
-T1723	Bouvard et Pécuchet-11 17315 17319	ils 
-T1724	Bouvard et Pécuchet-11 2705 2711	leurs 
-T1725	Bouvard et Pécuchet-11 52483 52487	ils 
-T1726	Bouvard et Pécuchet-11 24280 24284	Ils 
-T1727	Bouvard et Pécuchet-11 20712 20722	revinrent 
-T1728	Bouvard et Pécuchet-11 38001 38005	les 
-T1729	Bouvard et Pécuchet-11 22465 22469	Ils 
-T1730	Bouvard et Pécuchet-11 34777 34782	leur 
-T1731	Bouvard et Pécuchet-11 20744 20756	dépassèrent 
-T1732	Bouvard et Pécuchet-11 36530 36535	leur 
-T1733	Bouvard et Pécuchet-11 17411 17416	leur 
-T1734	Bouvard et Pécuchet-11 52553 52557	ils 
-T1735	Bouvard et Pécuchet-11 17391 17395	eux 
-T1736	Bouvard et Pécuchet-11 35252 35257	leur 
-T1737	Bouvard et Pécuchet-11 35298 35311	s'endormirent
-T1738	Bouvard et Pécuchet-11 5390 5394	ils 
-T1739	Bouvard et Pécuchet-11 51318 51328	portaient 
-T1740	Bouvard et Pécuchet-11 35262 35266	ils 
-T1741	Bouvard et Pécuchet-11 5345 5349	ils 
-T1742	Bouvard et Pécuchet-11 17905 17915	mangèrent 
-T1743	Bouvard et Pécuchet-11 51292 51306	surveillaient 
-T1744	Bouvard et Pécuchet-11 33591 33595	Ils 
-T1745	Bouvard et Pécuchet-11 16027 16031	ils 
-T1746	Bouvard et Pécuchet-11 49379 49392	s'abonnèrent 
-T1747	Bouvard et Pécuchet-11 15914 15918	ils 
-T1748	Bouvard et Pécuchet-11 17818 17830	arrachèrent 
-T1749	Bouvard et Pécuchet-11 15898 15903	leur 
-T1750	Bouvard et Pécuchet-11 35184 35188	Ils 
-T1751	Bouvard et Pécuchet-11 51268 51278	puchaient 
-T1752	Bouvard et Pécuchet-11 17866 17876	dormirent 
-T1753	Bouvard et Pécuchet-11 49465 49469	ils 
-T1754	Bouvard et Pécuchet-11 51234 51238	Ils 
-T1755	Bouvard et Pécuchet-11 5546 5559	avaient fait 
-T1756	Bouvard et Pécuchet-11 5526 5543	s'étaient rassis 
-T1757	Bouvard et Pécuchet-11 49336 49346	se firent 
-T1758	Bouvard et Pécuchet-11 7283 7287	ils 
-T1759	Bouvard et Pécuchet-11 5505 5509	ils 
-T1760	Bouvard et Pécuchet-11 17782 17786	ils 
-T1761	Bouvard et Pécuchet-11 40220 40224	ils 
-T1762	Bouvard et Pécuchet-11 49222 49227	leur 
-T1763	Bouvard et Pécuchet-11 17670 17674	ils 
-T1764	Bouvard et Pécuchet-11 40237 40247	sarclaient
-T1765	Bouvard et Pécuchet-11 49205 49209	les 
-T1766	Bouvard et Pécuchet-11 33313 33317	ils 
-T1767	Bouvard et Pécuchet-11 51013 51018	leur 
-T1768	Bouvard et Pécuchet-11 15748 15752	Ils 
-T1769	Bouvard et Pécuchet-11 35017 35023	Leurs 
-T1770	Bouvard et Pécuchet-11 49276 49281	leur 
-T1771	Bouvard et Pécuchet-11 49260 49264	ils 
-T1772	Bouvard et Pécuchet-11 51101 51105	ils 
-T1773	Bouvard et Pécuchet-11 5752 5758	leurs 
-T1774	Bouvard et Pécuchet-11 51571 51575	ils 
-T1775	Bouvard et Pécuchet-11 3768 3772	ils 
-T1776	Bouvard et Pécuchet-11 49810 49816	leurs 
-T1777	Bouvard et Pécuchet-11 3724 3744	Bouvard et Pécuchet 
-T1778	Bouvard et Pécuchet-11 16359 16363	ils 
-T1779	Bouvard et Pécuchet-11 37122 37126	ils 
-T1780	Bouvard et Pécuchet-11 46105 46119	ces messieurs 
-T1781	Bouvard et Pécuchet-11 33888 33892	les 
-T1782	Bouvard et Pécuchet-11 5721 5725	Ils 
-T1783	Bouvard et Pécuchet-11 51665 51669	ils 
-T1784	Bouvard et Pécuchet-11 35447 35461	tous les deux 
-T1785	Bouvard et Pécuchet-11 51538 51542	ils 
-T1786	Bouvard et Pécuchet-11 49779 49783	ils 
-T1787	Bouvard et Pécuchet-11 33783 33787	Ils 
-T1788	Bouvard et Pécuchet-11 49714 49725	manquaient 
-T1789	Bouvard et Pécuchet-11 51509 51513	ils 
-T1790	Bouvard et Pécuchet-11 18135 18140	leur 
-T1791	Bouvard et Pécuchet-11 37068 37073	leur 
-T1792	Bouvard et Pécuchet-11 16281 16291	frémirent 
-T1793	Bouvard et Pécuchet-11 33770 33776	leurs 
-T1794	Bouvard et Pécuchet-11 18001 18005	Ils 
-T1795	Bouvard et Pécuchet-11 59135 59139	Ils 
-T1796	Bouvard et Pécuchet-11 49678 49693	questionnaient 
-T1797	Bouvard et Pécuchet-11 18081 18085	ils 
-T1798	Bouvard et Pécuchet-11 51468 51474	leurs 
-T1799	Bouvard et Pécuchet-11 37053 37063	partirent 
-T1800	Bouvard et Pécuchet-11 16179 16183	les 
-T1801	Bouvard et Pécuchet-11 51430 51434	ils 
-T1802	Bouvard et Pécuchet-11 37016 37029	ces messieurs
-T1803	Bouvard et Pécuchet-11 49644 49648	ils 
-T1804	Bouvard et Pécuchet-11 16227 16231	Ils 
-T1805	Bouvard et Pécuchet-11 16215 16219	les 
-T1806	Bouvard et Pécuchet-11 37031 37035	Ils 
-T1807	Bouvard et Pécuchet-11 14403 14409	leurs 
-T1808	Bouvard et Pécuchet-11 59070 59074	ils 
-T1809	Bouvard et Pécuchet-11 47692 47697	leur 
-T1810	Bouvard et Pécuchet-11 17952 17963	rentrèrent 
-T1811	Bouvard et Pécuchet-11 47719 47723	ils 
-T1812	Bouvard et Pécuchet-11 5828 5833	nous 
-T1813	Bouvard et Pécuchet-11 33614 33619	leur 
-T1814	Bouvard et Pécuchet-11 51346 51358	s'amusaient 
-T1815	Bouvard et Pécuchet-11 47778 47782	les 
-T1816	Bouvard et Pécuchet-11 25912 25916	les 
-T1817	Bouvard et Pécuchet-11 53122 53126	Ils 
-T1818	Bouvard et Pécuchet-11 18517 18521	ils 
-T1819	Bouvard et Pécuchet-11 18493 18497	les 
-T1820	Bouvard et Pécuchet-11 34138 34143	leur 
-T1821	Bouvard et Pécuchet-11 18548 18552	ils 
-T1822	Bouvard et Pécuchet-11 34152 34156	ils 
-T1823	Bouvard et Pécuchet-11 16692 16696	qui 
-T1824	Bouvard et Pécuchet-11 34220 34224	ils 
-T1825	Bouvard et Pécuchet-11 16674 16692	ces deux inconnus 
-T1826	Bouvard et Pécuchet-11 46443 46456	se sentaient 
-T1827	Bouvard et Pécuchet-11 34187 34192	leur 
-T1828	Bouvard et Pécuchet-11 18584 18597	s'exaltaient 
-T1829	Bouvard et Pécuchet-11 2896 2900	Ils 
-T1830	Bouvard et Pécuchet-11 18481 18486	leur 
-T1831	Bouvard et Pécuchet-11 24702 24707	leur 
-T1832	Bouvard et Pécuchet-11 40286 40297	mangeaient 
-T1833	Bouvard et Pécuchet-11 40326 40335	allaient 
-T1834	Bouvard et Pécuchet-11 24734 24739	leur 
-T1835	Bouvard et Pécuchet-11 42063 42067	Ils 
-T1836	Bouvard et Pécuchet-11 16585 16589	ils 
-T1837	Bouvard et Pécuchet-11 46399 46418	Les deux Parisiens 
-T1838	Bouvard et Pécuchet-11 24631 24635	ils 
-T1839	Bouvard et Pécuchet-11 34124 34128	Ils 
-T1840	Bouvard et Pécuchet-11 26357 26361	ils 
-T1841	Bouvard et Pécuchet-11 24663 24667	eux 
-T1842	Bouvard et Pécuchet-11 40249 40259	émondaient
-T1843	Bouvard et Pécuchet-11 26384 26388	Ils 
-T1844	Bouvard et Pécuchet-11 24672 24676	ils 
-T1845	Bouvard et Pécuchet-11 40261 40274	s'imposaient 
-T1846	Bouvard et Pécuchet-11 18329 18334	leur 
-T1847	Bouvard et Pécuchet-11 2937 2941	ils 
-T1848	Bouvard et Pécuchet-11 2955 2959	eux 
-T1849	Bouvard et Pécuchet-11 18357 18361	Ils 
-T1850	Bouvard et Pécuchet-11 35628 35632	ils 
-T1851	Bouvard et Pécuchet-11 51755 51759	ils 
-T1852	Bouvard et Pécuchet-11 16516 16520	ils 
-T1853	Bouvard et Pécuchet-11 18405 18414	reçurent 
-T1854	Bouvard et Pécuchet-11 34076 34082	Leurs 
-T1855	Bouvard et Pécuchet-11 51787 51791	ils 
-T1856	Bouvard et Pécuchet-11 18440 18444	ils 
-T1857	Bouvard et Pécuchet-11 35660 35665	leur 
-T1858	Bouvard et Pécuchet-11 35681 35685	ils 
-T1859	Bouvard et Pécuchet-11 4937 4943	Leurs 
-T1860	Bouvard et Pécuchet-11 16429 16433	Ils 
-T1861	Bouvard et Pécuchet-11 33962 33966	ils 
-T1862	Bouvard et Pécuchet-11 18286 18290	ils 
-T1863	Bouvard et Pécuchet-11 33987 33991	eux 
-T1864	Bouvard et Pécuchet-11 24486 24503	se délecteraient 
-T1865	Bouvard et Pécuchet-11 16952 16957	leur 
-T1866	Bouvard et Pécuchet-11 1476 1482	notre 
-T1867	Bouvard et Pécuchet-11 5079 5083	Ils 
-T1868	Bouvard et Pécuchet-11 15214 15223	des deux 
-T1869	Bouvard et Pécuchet-11 1431 1436	nous 
-T1870	Bouvard et Pécuchet-11 50470 50475	Leur 
-T1871	Bouvard et Pécuchet-11 34415 34419	Ils 
-T1872	Bouvard et Pécuchet-11 15239 15247	l'autre 
-T1873	Bouvard et Pécuchet-11 17031 17035	ils 
-T1874	Bouvard et Pécuchet-11 1491 1495	nos 
-T1875	Bouvard et Pécuchet-11 42341 42345	ils 
-T1876	Bouvard et Pécuchet-11 26799 26803	ils 
-T1877	Bouvard et Pécuchet-11 26647 26651	Ils 
-T1878	Bouvard et Pécuchet-11 24852 24858	notre 
-T1879	Bouvard et Pécuchet-11 42236 42240	ils 
-T1880	Bouvard et Pécuchet-11 16902 16911	lisaient 
-T1881	Bouvard et Pécuchet-11 26630 26634	les 
-T1882	Bouvard et Pécuchet-11 52186 52196	eux-mêmes 
-T1883	Bouvard et Pécuchet-11 24867 24871	Ils 
-T1884	Bouvard et Pécuchet-11 23134 23139	Nous 
-T1885	Bouvard et Pécuchet-11 40570 40575	leur 
-T1886	Bouvard et Pécuchet-11 40587 40597	coupaient 
-T1887	Bouvard et Pécuchet-11 26692 26704	redoutaient 
-T1888	Bouvard et Pécuchet-11 40544 40548	Ils 
-T1889	Bouvard et Pécuchet-11 26739 26743	ils 
-T1890	Bouvard et Pécuchet-11 42268 42279	répétaient 
-T1891	Bouvard et Pécuchet-11 16811 16816	leur 
-T1892	Bouvard et Pécuchet-11 34281 34284	me 
-T1893	Bouvard et Pécuchet-11 5262 5269	Chacun 
-T1894	Bouvard et Pécuchet-11 3261 3265	ils 
-T1895	Bouvard et Pécuchet-11 16867 16871	Ils 
-T1896	Bouvard et Pécuchet-11 52171 52175	ils 
-T1897	Bouvard et Pécuchet-11 46652 46656	ils 
-T1898	Bouvard et Pécuchet-11 3304 3310	Leurs 
-T1899	Bouvard et Pécuchet-11 34243 34248	Nous 
-T1900	Bouvard et Pécuchet-11 1614 1618	ils 
-T1901	Bouvard et Pécuchet-11 727 739	Deux hommes 
-T1902	Bouvard et Pécuchet-11 40460 40471	écrasaient 
-T1903	Bouvard et Pécuchet-11 24814 24819	nous 
-T1904	Bouvard et Pécuchet-11 42188 42200	regardaient 
-T1905	Bouvard et Pécuchet-11 42162 42172	causaient 
-T1906	Bouvard et Pécuchet-11 24828 24833	nous 
-T1907	Bouvard et Pécuchet-11 16746 16750	ils 
-T1908	Bouvard et Pécuchet-11 18611 18622	se gâtaient
-T1909	Bouvard et Pécuchet-11 24750 24761	dîneraient 
-T1910	Bouvard et Pécuchet-11 40428 40432	ils 
-T1911	Bouvard et Pécuchet-11 42135 42148	parcouraient 
-T1912	Bouvard et Pécuchet-11 24772 24778	leurs 
-T1913	Bouvard et Pécuchet-11 26509 26513	Ils 
-T1914	Bouvard et Pécuchet-11 42102 42112	faisaient 
-T1915	Bouvard et Pécuchet-11 40398 40402	ils 
-T1916	Bouvard et Pécuchet-11 24790 24795	Nous 
-T1917	Bouvard et Pécuchet-11 59473 59477	ils 
-T1918	Bouvard et Pécuchet-11 10889 10893	ils 
-T1919	Bouvard et Pécuchet-11 11039 11044	nous 
-T1920	Bouvard et Pécuchet-11 15406 15410	Ils 
-T1921	Bouvard et Pécuchet-11 10987 10992	nous 
-T1922	Bouvard et Pécuchet-11 11024 11029	nous 
-T1923	Bouvard et Pécuchet-11 23516 23520	ils 
-T1924	Bouvard et Pécuchet-11 25242 25247	leur 
-T1925	Bouvard et Pécuchet-11 59424 59428	les 
-T1926	Bouvard et Pécuchet-11 42597 42601	les 
-T1927	Bouvard et Pécuchet-11 26977 26982	leur 
-T1928	Bouvard et Pécuchet-11 27009 27014	leur 
-T1929	Bouvard et Pécuchet-11 27004 27009	vint 
-T1930	Bouvard et Pécuchet-11 59381 59385	ils 
-T1931	Bouvard et Pécuchet-11 42661 42665	ils 
-T1932	Bouvard et Pécuchet-11 42618 42623	leur 
-T1933	Bouvard et Pécuchet-11 11119 11125	leurs 
-T1934	Bouvard et Pécuchet-11 11134 11138	ils 
-T1935	Bouvard et Pécuchet-11 17197 17201	ils 
-T1936	Bouvard et Pécuchet-11 15292 15298	Leurs 
-T1937	Bouvard et Pécuchet-11 15332 15337	leur 
-T1938	Bouvard et Pécuchet-11 11071 11076	nous 
-T1939	Bouvard et Pécuchet-11 45146 45167	les futurs agronomes 
-T1940	Bouvard et Pécuchet-11 50660 50664	Ils 
-T1941	Bouvard et Pécuchet-11 42541 42545	ils 
-T1942	Bouvard et Pécuchet-11 25109 25113	ils 
-T1943	Bouvard et Pécuchet-11 17267 17271	ils 
-T1944	Bouvard et Pécuchet-11 15357 15361	ils 
-T1945	Bouvard et Pécuchet-11 17126 17130	ils 
-T1946	Bouvard et Pécuchet-11 15260 15267	Chacun 
-T1947	Bouvard et Pécuchet-11 26950 26954	les 
-T1948	Bouvard et Pécuchet-11 1091 1095	ils 
-T1949	Bouvard et Pécuchet-11 1048 1052	ils 
-T1950	Bouvard et Pécuchet-11 26833 26838	leur 
-T1951	Bouvard et Pécuchet-11 42407 42411	Ils 
-T1952	Bouvard et Pécuchet-11 46874 46894	Bouvard et Pécuchet 
-T1953	Bouvard et Pécuchet-11 42357 42362	leur 
-T1954	Bouvard et Pécuchet-11 40727 40731	ils 
-T1955	Bouvard et Pécuchet-11 42509 42513	ils 
-T1956	Bouvard et Pécuchet-11 23267 23283	ces deux hommes 
-T1957	Bouvard et Pécuchet-11 6180 6184	ils 
-T1958	Bouvard et Pécuchet-11 58055 58059	ils 
-T1959	Bouvard et Pécuchet-11 6335 6339	ils 
-T1960	Bouvard et Pécuchet-11 43692 43706	Les deux amis 
-T1961	Bouvard et Pécuchet-11 1225 1229	soi 
-T1962	Bouvard et Pécuchet-11 1184 1190	leurs 
-T1963	Bouvard et Pécuchet-11 1205 1212	chacun 
-T1964	Bouvard et Pécuchet-11 59736 59740	Ils 
-T1965	Bouvard et Pécuchet-11 42877 42882	leur 
-T1966	Bouvard et Pécuchet-11 1169 1173	ils 
-T1967	Bouvard et Pécuchet-11 25642 25646	ils 
-T1968	Bouvard et Pécuchet-11 42946 42950	ils 
-T1969	Bouvard et Pécuchet-11 45441 45461	Bouvard et Pécuchet 
-T1970	Bouvard et Pécuchet-11 15650 15654	ils 
-T1971	Bouvard et Pécuchet-11 15624 15630	leurs 
-T1972	Bouvard et Pécuchet-11 6371 6375	ils 
-T1973	Bouvard et Pécuchet-11 25542 25547	nous 
-T1974	Bouvard et Pécuchet-11 49144 49163	Les deux visiteurs 
-T1975	Bouvard et Pécuchet-11 23735 23740	leur 
-T1976	Bouvard et Pécuchet-11 27250 27254	ils 
-T1977	Bouvard et Pécuchet-11 6435 6439	ils 
-T1978	Bouvard et Pécuchet-11 6447 6461	tous les deux 
-T1979	Bouvard et Pécuchet-11 39280 39284	ils 
-T1980	Bouvard et Pécuchet-11 39252 39256	ils 
-T1981	Bouvard et Pécuchet-11 25389 25393	ils 
-T1982	Bouvard et Pécuchet-11 42766 42770	ils 
-T1983	Bouvard et Pécuchet-11 42796 42800	ils 
-T1984	Bouvard et Pécuchet-11 39321 39328	eurent 
-T1985	Bouvard et Pécuchet-11 27208 27212	Ils 
-T1986	Bouvard-12 61787 61790	il 
-T1987	Bouvard-12 60189 60192	il 
-T1988	Bouvard-12 4081 4086	vous 
-T1989	Bouvard-12 13597 13601	lui 
-T1990	Bouvard-12 58278 58285	Bouvard
-T1991	Bouvard-12 13576 13580	ses 
-T1992	Bouvard-12 61702 61705	Il 
-T1993	Bouvard-12 19050 19054	Ses 
-T1994	Bouvard-12 4019 4026	Bouvard
-T1995	Bouvard-12 41529 41536	Bouvard
-T1996	Bouvard-12 22243 22251	Bouvard 
-T1997	Bouvard-12 22284 22287	Il 
-T1998	Bouvard-12 3996 3999	Moi
-T1999	Bouvard-12 18977 18985	Bouvard 
-T2000	Bouvard-12 4001 4004	je 
-T2001	Bouvard-12 60055 60058	il 
-T2002	Bouvard-12 18993 18997	son 
-T2003	Bouvard-12 59974 59978	lui 
-T2004	Bouvard-12 61612 61620	donnait 
-T2005	Bouvard-12 59955 59958	il 
-T2006	Bouvard-12 61658 61661	sa 
-T2007	Bouvard-12 61641 61649	pensait 
-T2008	Bouvard-12 10583 10591	Bouvard 
-T2009	Bouvard-12 10561 10565	mon 
-T2010	Bouvard-12 9003 9010	Bouvard
-T2011	Bouvard-12 61579 61583	ses 
-T2012	Bouvard-12 10539 10545	votre 
-T2013	Bouvard-12 59891 59895	Son 
-T2014	Bouvard-12 61572 61579	notait 
-T2015	Bouvard-12 22119 22130	le copiste 
-T2016	Bouvard-12 58661 58668	Bouvard
-T2017	Bouvard-12 60401 60410	tolérait 
-T2018	Bouvard-12 60383 60387	ses 
-T2019	Bouvard-12 10617 10620	il 
-T2020	Bouvard-12 22731 22739	Bouvard 
-T2021	Bouvard-12 2543 2550	Bouvard
-T2022	Bouvard-12 60437 60440	il 
-T2023	Bouvard-12 7467 7475	Bouvard 
-T2024	Bouvard-12 19224 19227	Il 
-T2025	Bouvard-12 20871 20882	déraisonna 
-T2026	Bouvard-12 33222 33230	Bouvard 
-T2027	Bouvard-12 19271 19275	lui 
-T2028	Bouvard-12 7512 7515	Il 
-T2029	Bouvard-12 20794 20797	Il 
-T2030	Bouvard-12 20768 20776	Bouvard 
-T2031	Bouvard-12 60314 60318	fit 
-T2032	Bouvard-12 19181 19184	sa 
-T2033	Bouvard-12 7617 7620	Il 
-T2034	Bouvard-12 9324 9326	j'
-T2035	Bouvard-12 7569 7572	sa 
-T2036	Bouvard-12 60211 60214	Il 
-T2037	Bouvard-12 9288 9296	Bouvard 
-T2038	Bouvard-12 7555 7564	avait eu 
-T2039	Bouvard-12 19072 19075	sa 
-T2040	Bouvard-12 39986 39994	Bouvard 
-T2041	Bouvard-12 2686 2694	Bouvard 
-T2042	Bouvard-12 19107 19110	il 
-T2043	Bouvard-12 19173 19177	lui 
-T2044	Bouvard-12 7179 7183	ses 
-T2045	Bouvard-12 7190 7194	lui 
-T2046	Bouvard-12 1692 1696	Ses 
-T2047	Bouvard-12 19589 19593	Mon 
-T2048	Bouvard-12 7137 7145	Bouvard 
-T2049	Bouvard-12 49497 49505	Bouvard 
-T2050	Bouvard-12 21373 21381	ce fils 
-T2051	Bouvard-12 19610 19612	j'
-T2052	Bouvard-12 31890 31893	Il 
-T2053	Bouvard-12 14233 14241	Bouvard 
-T2054	Bouvard-12 3347 3355	Bouvard 
-T2055	Bouvard-12 1657 1665	Bouvard 
-T2056	Bouvard-12 13093 13097	son 
-T2057	Bouvard-12 11481 11490	reconnut 
-T2058	Bouvard-12 1749 1753	son 
-T2059	Bouvard-12 60598 60606	Bouvard 
-T2060	Bouvard-12 13016 13019	il 
-T2061	Bouvard-12 12977 12981	lui 
-T2062	Bouvard-12 21240 21274	François-Denys-Bartholomée Bouvard
-T2063	Bouvard-12 31798 31806	Bouvard 
-T2064	Bouvard-12 21276 21300	mon fils naturel reconnu
-T2065	Bouvard-12 38625 38633	Bouvard 
-T2066	Bouvard-12 19543 19546	Il 
-T2067	Bouvard-12 60526 60529	il 
-T2068	Bouvard-12 1852 1856	son 
-T2069	Bouvard-12 22823 22826	il 
-T2070	Bouvard-12 38593 38596	sa 
-T2071	Bouvard-12 22878 22882	ses 
-T2072	Bouvard-12 51142 51146	qui 
-T2073	Bouvard-12 51134 51142	Bouvard 
-T2074	Bouvard-12 60536 60540	ses 
-T2075	Bouvard-12 13265 13268	sa 
-T2076	Bouvard-12 13233 13236	il 
-T2077	Bouvard-12 60489 60492	sa 
-T2078	Bouvard-12 13218 13221	sa 
-T2079	Bouvard-12 1880 1883	sa 
-T2080	Bouvard-12 27473 27477	son 
-T2081	Bouvard-12 27489 27492	le 
-T2082	Bouvard-12 19332 19335	me 
-T2083	Bouvard-12 22790 22793	il 
-T2084	Bouvard-12 21098 21106	Bouvard 
-T2085	Bouvard-12 19359 19364	-moi 
-T2086	Bouvard-12 19404 19407	il 
-T2087	Bouvard-12 19389 19392	sa 
-T2088	Bouvard-12 51126 51128	C'
-T2089	Bouvard-12 27410 27418	Bouvard 
-T2090	Bouvard-12 1969 1973	lui 
-T2091	Bouvard-12 32180 32183	il 
-T2092	Bouvard-12 19840 19846	votre 
-T2093	Bouvard-12 35575 35583	Bouvard 
-T2094	Bouvard-12 14510 14513	sa 
-T2095	Bouvard-12 1910 1914	ses 
-T2096	Bouvard-12 13401 13405	son 
-T2097	Bouvard-12 26101 26105	ses 
-T2098	Bouvard-12 41757 41764	son ami
-T2099	Bouvard-12 13302 13305	il 
-T2100	Bouvard-12 14445 14453	Bouvard 
-T2101	Bouvard-12 32143 32146	il 
-T2102	Bouvard-12 27780 27788	Bouvard 
-T2103	Bouvard-12 14469 14476	aimait 
-T2104	Bouvard-12 32111 32114	il 
-T2105	Bouvard-12 26044 26048	son 
-T2106	Bouvard-12 14488 14496	prenait 
-T2107	Bouvard-12 27819 27822	il 
-T2108	Bouvard-12 27837 27841	ses 
-T2109	Bouvard-12 32157 32161	ses 
-T2110	Bouvard-12 2109 2116	Bouvard
-T2111	Bouvard-12 13426 13430	lui 
-T2112	Bouvard-12 21407 21409	l'
-T2113	Bouvard-12 19741 19749	Monsieur
-T2114	Bouvard-12 21445 21448	le 
-T2115	Bouvard-12 21482 21491	le neveu 
-T2116	Bouvard-12 19770 19775	vous 
-T2117	Bouvard-12 19757 19762	vous 
-T2118	Bouvard-12 11933 11940	Bouvard
-T2119	Bouvard-12 11942 11945	qui
-T2120	Bouvard-12 13479 13487	Bouvard 
-T2121	Bouvard-12 25944 25948	qui 
-T2122	Bouvard-12 25967 25971	son 
-T2123	Bouvard-12 26023 26026	sa 
-T2124	Bouvard-12 2010 2013	Il 
-T2125	Bouvard-12 19640 19648	Bouvard 
-T2126	Bouvard-12 35313 35321	Bouvard 
-T2127	Bouvard-12 5787 5795	Bouvard 
-T2128	Bouvard-12 31956 31968	se réveilla 
-T2129	Bouvard-12 53088 53096	Bouvard 
-T2130	Bouvard-12 25935 25942	Bouvard
-T2131	Bouvard-12 32000 32003	il 
-T2132	Bouvard-12 50110 50114	son 
-T2133	Bouvard-12 4626 4633	Bouvard
-T2134	Bouvard-12 4642 4645	il 
-T2135	Bouvard-12 28972 28975	sa 
-T2136	Bouvard-12 4697 4700	il 
-T2137	Bouvard-12 41989 41996	Bouvard
-T2138	Bouvard-12 32414 32417	il 
-T2139	Bouvard-12 50094 50102	Bouvard 
-T2140	Bouvard-12 28836 28839	Il 
-T2141	Bouvard-12 20009 20015	votre 
-T2142	Bouvard-12 32327 32330	Il 
-T2143	Bouvard-12 10077 10081	Mon 
-T2144	Bouvard-12 10093 10100	Bouvard
-T2145	Bouvard-12 32359 32367	expédia 
-T2146	Bouvard-12 20066 20074	Monsieur
-T2147	Bouvard-12 14734 14742	Bouvard 
-T2148	Bouvard-12 10121 10124	il 
-T2149	Bouvard-12 6756 6764	Bouvard 
-T2150	Bouvard-12 28017 28020	il 
-T2151	Bouvard-12 28006 28010	son 
-T2152	Bouvard-12 32266 32269	il 
-T2153	Bouvard-12 27941 27944	il 
-T2154	Bouvard-12 14631 14636	L'un 
-T2155	Bouvard-12 32298 32302	ses 
-T2156	Bouvard-12 6846 6849	il 
-T2157	Bouvard-12 50436 50440	Son 
-T2158	Bouvard-12 15198 15205	Bouvard
-T2159	Bouvard-12 34388 34396	Bouvard 
-T2160	Bouvard-12 6796 6799	Sa 
-T2161	Bouvard-12 3092 3100	Bouvard 
-T2162	Bouvard-12 12807 12810	le 
-T2163	Bouvard-12 23192 23196	son 
-T2164	Bouvard-12 56609 56617	Bouvard 
-T2165	Bouvard-12 23103 23107	Son 
-T2166	Bouvard-12 60753 60756	il 
-T2167	Bouvard-12 60809 60812	il 
-T2168	Bouvard-12 28523 28530	Bouvard
-T2169	Bouvard-12 18660 18667	Bouvard
-T2170	Bouvard-12 1585 1588	moi
-T2171	Bouvard-12 52065 52073	Bouvard 
-T2172	Bouvard-12 14981 14989	Bouvard 
-T2173	Bouvard-12 18669 18677	Bouvard 
-T2174	Bouvard-12 50322 50330	Bouvard 
-T2175	Bouvard-12 29063 29066	il 
-T2176	Bouvard-12 6916 6919	il 
-T2177	Bouvard-12 12961 12964	sa 
-T2178	Bouvard-12 12932 12936	lui 
-T2179	Bouvard-12 12904 12906	l'
-T2180	Bouvard-12 1590 1593	je 
-T2181	Bouvard-12 750 755	L'un 
-T2182	Bouvard-12 12893 12897	son 
-T2183	Bouvard-12 23059 23067	Bouvard 
-T2184	Bouvard-12 809 822	Le plus grand
-T2185	Bouvard-12 29011 29014	il 
-T2186	Bouvard-12 28992 28996	ses 
-T2187	Bouvard-12 5912 5917	vous 
-T2188	Bouvard-12 61167 61170	Il 
-T2189	Bouvard-12 9334 9337	ma 
-T2190	Bouvard-12 29568 29572	qui 
-T2191	Bouvard-12 29560 29568	Bouvard 
-T2192	Bouvard-12 9462 9467	-moi 
-T2193	Bouvard-12 894 897	sa 
-T2194	Bouvard-12 61153 61157	son 
-T2195	Bouvard-12 61127 61130	Il 
-T2196	Bouvard-12 21770 21786	son autre enfant
-T2197	Bouvard-12 21791 21793	l'
-T2198	Bouvard-12 6033 6041	Bouvard 
-T2199	Bouvard-12 7741 7745	ses 
-T2200	Bouvard-12 9487 9494	Bouvard
-T2201	Bouvard-12 28683 28687	son 
-T2202	Bouvard-12 12799 12807	Bouvard 
-T2203	Bouvard-12 40793 40801	Bouvard 
-T2204	Bouvard-12 23364 23371	Bouvard
-T2205	Bouvard-12 28590 28593	le 
-T2206	Bouvard-12 46874 46882	Bouvard 
-T2207	Bouvard-12 45042 45050	Bouvard 
-T2208	Bouvard-12 23202 23206	son 
-T2209	Bouvard-12 28633 28635	l'
-T2210	Bouvard-12 28667 28670	lui
-T2211	Bouvard-12 28646 28653	Bouvard
-T2212	Bouvard-12 61516 61519	il 
-T2213	Bouvard-12 11207 11215	Bouvard 
-T2214	Bouvard-12 9584 9589	Vous 
-T2215	Bouvard-12 25662 25670	Bouvard 
-T2216	Bouvard-12 61540 61548	courait 
-T2217	Bouvard-12 59872 59875	il 
-T2218	Bouvard-12 59852 59860	Bouvard 
-T2219	Bouvard-12 25682 25686	ses 
-T2220	Bouvard-12 61450 61453	il 
-T2221	Bouvard-12 9677 9680	lui
-T2222	Bouvard-12 4372 4380	Bouvard 
-T2223	Bouvard-12 9652 9654	l'
-T2224	Bouvard-12 1283 1294	son voisin 
-T2225	Bouvard-12 39403 39410	Bouvard
-T2226	Bouvard-12 20326 20334	Bouvard 
-T2227	Bouvard-12 11408 11416	Bouvard 
-T2228	Bouvard-12 11418 11435	Monsieur Bouvard 
-T2229	Bouvard-12 9760 9767	Bouvard
-T2230	Bouvard-12 4482 4486	lui 
-T2231	Bouvard-12 29644 29648	son 
-T2232	Bouvard-12 25502 25510	Bouvard 
-T2233	Bouvard-12 61402 61413	se trompait
-T2234	Bouvard-12 61378 61381	Il 
-T2235	Bouvard-12 21988 22021	au fruit de ses premières amours 
-T2236	Bouvard-12 45441 45449	Bouvard 
-T2237	Bouvard-12 6471 6479	Bouvard 
-T2238	Bouvard-12 11438 11447	Celui-ci 
-T2239	Bouvard-12 1426 1429	-il
-T2240	Bouvard-12 1318 1327	celui-ci 
-T2241	SI_1337-13 765 776	la Bastille
-T2242	Pécuchet-14 30131 30133	l'
-T2243	Pécuchet-14 11970 11974	son 
-T2244	Pécuchet-14 41591 41600	lui-même 
-T2245	Pécuchet-14 58293 58296	lui
-T2246	Pécuchet-14 57497 57505	stimula 
-T2247	Pécuchet-14 2230 2233	Sa 
-T2248	Pécuchet-14 22395 22403	Pécuchet
-T2249	Pécuchet-14 2188 2192	son 
-T2250	Pécuchet-14 55843 55851	repiqua 
-T2251	Pécuchet-14 10471 10480	Pécuchet 
-T2252	Pécuchet-14 12067 12070	sa 
-T2253	Pécuchet-14 12051 12057	avait 
-T2254	Pécuchet-14 12009 12012	Il 
-T2255	Pécuchet-14 30065 30068	il 
-T2256	Pécuchet-14 12018 12046	le fils d'un petit marchand 
-T2257	Pécuchet-14 57405 57412	arrosa 
-T2258	Pécuchet-14 54026 54034	versait 
-T2259	Pécuchet-14 55766 55769	sa 
-T2260	Pécuchet-14 55782 55785	il 
-T2261	Pécuchet-14 55750 55753	il 
-T2262	Pécuchet-14 58243 58246	Il 
-T2263	Pécuchet-14 2136 2139	il 
-T2264	Pécuchet-14 57442 57452	détruisit 
-T2265	Pécuchet-14 41564 41567	il 
-T2266	Pécuchet-14 2408 2411	il 
-T2267	Pécuchet-14 29941 29944	sa 
-T2268	Pécuchet-14 12097 12099	l'
-T2269	Pécuchet-14 60045 60053	Pécuchet
-T2270	Pécuchet-14 58217 58221	ses 
-T2271	Pécuchet-14 57372 57380	couvrit 
-T2272	Pécuchet-14 53987 53990	il 
-T2273	Pécuchet-14 30003 30006	sa 
-T2274	Pécuchet-14 12143 12146	le 
-T2275	Pécuchet-14 57277 57284	se mit 
-T2276	Pécuchet-14 25704 25707	sa 
-T2277	Pécuchet-14 55607 55611	lui 
-T2278	Pécuchet-14 2306 2310	Ses 
-T2279	Pécuchet-14 58096 58105	Pécuchet 
-T2280	Pécuchet-14 55665 55668	Il 
-T2281	Pécuchet-14 41385 41389	lui 
-T2282	Pécuchet-14 57312 57315	il 
-T2283	Pécuchet-14 53908 53912	lui 
-T2284	Pécuchet-14 12259 12263	lui 
-T2285	Pécuchet-14 2600 2609	Pécuchet 
-T2286	Pécuchet-14 40176 40179	sa 
-T2287	Pécuchet-14 54434 54437	Il 
-T2288	Pécuchet-14 54402 54412	projetait 
-T2289	Pécuchet-14 40161 40165	son 
-T2290	Pécuchet-14 56119 56122	il 
-T2291	Pécuchet-14 9191 9194	il 
-T2292	Pécuchet-14 7446 7453	écarta 
-T2293	Pécuchet-14 10690 10699	Pécuchet 
-T2294	Pécuchet-14 9126 9134	Pécuchet
-T2295	Pécuchet-14 9136 9140	qui 
-T2296	Pécuchet-14 12303 12306	il 
-T2297	Pécuchet-14 33169 33172	Il 
-T2298	Pécuchet-14 54346 54349	il 
-T2299	Pécuchet-14 56053 56062	supprima 
-T2300	Pécuchet-14 56025 56033	choisit 
-T2301	Pécuchet-14 54312 54316	ses 
-T2302	Pécuchet-14 2464 2468	lui 
-T2303	Pécuchet-14 33194 33203	s'élança 
-T2304	Pécuchet-14 57626 57629	il 
-T2305	Pécuchet-14 40051 40054	sa 
-T2306	Pécuchet-14 33110 33120	regagnait 
-T2307	Pécuchet-14 40069 40072	il 
-T2308	Pécuchet-14 40042 40051	Pécuchet 
-T2309	Pécuchet-14 55994 56001	laissa 
-T2310	Pécuchet-14 20805 20814	Pécuchet 
-T2311	Pécuchet-14 12466 12470	son 
-T2312	Pécuchet-14 9311 9317	votre 
-T2313	Pécuchet-14 9296 9300	lui 
-T2314	Pécuchet-14 57545 57551	rôtit 
-T2315	Pécuchet-14 22405 22410	dont 
-T2316	Pécuchet-14 34656 34665	Pécuchet 
-T2317	Pécuchet-14 55907 55910	Il 
-T2318	Pécuchet-14 54167 54176	Pécuchet 
-T2319	Pécuchet-14 2626 2629	Il 
-T2320	Pécuchet-14 41678 41680	l'
-T2321	Pécuchet-14 54188 54192	ses 
-T2322	Pécuchet-14 54208 54211	il 
-T2323	Pécuchet-14 55973 55982	respecta 
-T2324	Pécuchet-14 52979 52982	il 
-T2325	Pécuchet-14 19570 19579	Pécuchet 
-T2326	Pécuchet-14 19559 19567	Pécuchet
-T2327	Pécuchet-14 1681 1689	Pécuchet
-T2328	Pécuchet-14 53029 53033	son 
-T2329	Pécuchet-14 11499 11503	qui 
-T2330	Pécuchet-14 11490 11499	Pécuchet 
-T2331	Pécuchet-14 27566 27569	sa 
-T2332	Pécuchet-14 27605 27608	sa 
-T2333	Pécuchet-14 27619 27623	ses 
-T2334	Pécuchet-14 27641 27644	il 
-T2335	Pécuchet-14 56323 56326	il 
-T2336	Pécuchet-14 51169 51177	Pécuchet
-T2337	Pécuchet-14 52928 52931	Sa 
-T2338	Pécuchet-14 7341 7349	Pécuchet
-T2339	Pécuchet-14 54533 54536	il 
-T2340	Pécuchet-14 31724 31727	il 
-T2341	Pécuchet-14 56257 56261	son 
-T2342	Pécuchet-14 56235 56241	aérait
-T2343	Pécuchet-14 56243 56252	enlevait 
-T2344	Pécuchet-14 11621 11624	sa 
-T2345	Pécuchet-14 11598 11606	Pécuchet
-T2346	Pécuchet-14 27454 27463	Pécuchet 
-T2347	Pécuchet-14 27492 27497	pria 
-T2348	Pécuchet-14 11527 11530	Je 
-T2349	Pécuchet-14 27524 27527	il 
-T2350	Pécuchet-14 27513 27521	déclara 
-T2351	Pécuchet-14 11551 11554	Je 
-T2352	Pécuchet-14 52790 52799	Pécuchet 
-T2353	Pécuchet-14 56213 56216	Il 
-T2354	Pécuchet-14 52817 52824	s'écria
-T2355	Pécuchet-14 53334 53345	barbouilla 
-T2356	Pécuchet-14 30341 30349	Pécuchet
-T2357	Pécuchet-14 14525 14534	Pécuchet 
-T2358	Pécuchet-14 14546 14555	mangeait 
-T2359	Pécuchet-14 53375 53378	Il 
-T2360	Pécuchet-14 11822 11825	sa 
-T2361	Pécuchet-14 11794 11797	il 
-T2362	Pécuchet-14 11818 11822	lui 
-T2363	Pécuchet-14 11735 11737	l'
-T2364	Pécuchet-14 41757 41761	son 
-T2365	Pécuchet-14 26124 26132	Pécuchet
-T2366	Pécuchet-14 53279 53288	lui-même 
-T2367	Pécuchet-14 53268 53271	Il 
-T2368	Pécuchet-14 41720 41722	l'
-T2369	Pécuchet-14 35363 35372	Pécuchet 
-T2370	Pécuchet-14 3959 3968	Pécuchet 
-T2371	Pécuchet-14 2093 2102	Pécuchet 
-T2372	Pécuchet-14 5882 5890	Pécuchet
-T2373	Pécuchet-14 53225 53234	Pécuchet 
-T2374	Pécuchet-14 5855 5857	J'
-T2375	Pécuchet-14 11910 11913	il 
-T2376	Pécuchet-14 11864 11868	son 
-T2377	Pécuchet-14 27766 27769	sa 
-T2378	Pécuchet-14 11845 11848	il 
-T2379	Pécuchet-14 14282 14290	Pécuchet
-T2380	Pécuchet-14 14318 14321	sa 
-T2381	Pécuchet-14 14335 14339	lui 
-T2382	Pécuchet-14 6555 6557	l'
-T2383	Pécuchet-14 8244 8247	il 
-T2384	Pécuchet-14 32494 32503	Pécuchet 
-T2385	Pécuchet-14 6508 6517	Pécuchet 
-T2386	Pécuchet-14 32482 32486	son 
-T2387	Pécuchet-14 4723 4731	Pécuchet
-T2388	Pécuchet-14 6626 6629	Il 
-T2389	Pécuchet-14 8294 8298	fit 
-T2390	Pécuchet-14 28057 28065	Pécuchet
-T2391	Pécuchet-14 14757 14766	Pécuchet 
-T2392	Pécuchet-14 41916 41924	Pécuchet
-T2393	Pécuchet-14 28099 28103	ses 
-T2394	Pécuchet-14 28117 28123	sortit
-T2395	Pécuchet-14 28177 28180	Il 
-T2396	Pécuchet-14 41926 41929	Il 
-T2397	Pécuchet-14 41952 41959	tourna 
-T2398	Pécuchet-14 53493 53496	Il 
-T2399	Pécuchet-14 6683 6686	il 
-T2400	Pécuchet-14 14672 14680	l'autre 
-T2401	Pécuchet-14 8314 8318	son 
-T2402	Pécuchet-14 14715 14719	lui 
-T2403	Pécuchet-14 3008 3017	Pécuchet 
-T2404	Pécuchet-14 26285 26288	il 
-T2405	Pécuchet-14 26309 26313	son 
-T2406	Pécuchet-14 53462 53465	il 
-T2407	Pécuchet-14 14588 14597	trempait 
-T2408	Pécuchet-14 35600 35609	Pécuchet 
-T2409	Pécuchet-14 26207 26210	sa 
-T2410	Pécuchet-14 26257 26265	pinçait 
-T2411	Pécuchet-14 3123 3126	sa 
-T2412	Pécuchet-14 30964 30968	lui 
-T2413	Pécuchet-14 29242 29245	lui
-T2414	Pécuchet-14 3100 3102	l'
-T2415	Pécuchet-14 30947 30950	sa 
-T2416	Pécuchet-14 29157 29160	Il 
-T2417	Pécuchet-14 29256 29260	son 
-T2418	Pécuchet-14 29247 29250	il 
-T2419	Pécuchet-14 30991 30995	ses 
-T2420	Pécuchet-14 23192 23200	son ami 
-T2421	Pécuchet-14 56562 56566	son 
-T2422	Pécuchet-14 30936 30939	il 
-T2423	Pécuchet-14 28436 28440	lui 
-T2424	Pécuchet-14 29145 29148	sa 
-T2425	Pécuchet-14 34335 34344	Pécuchet 
-T2426	Pécuchet-14 30904 30907	sa 
-T2427	Pécuchet-14 56483 56486	il 
-T2428	Pécuchet-14 14968 14971	il 
-T2429	Pécuchet-14 7012 7020	Pécuchet
-T2430	Pécuchet-14 1557 1561	mon 
-T2431	Pécuchet-14 30871 30880	Pécuchet 
-T2432	Pécuchet-14 29089 29097	Pécuchet
-T2433	Pécuchet-14 18714 18722	Pécuchet
-T2434	Pécuchet-14 32629 32632	il 
-T2435	Pécuchet-14 18624 18633	Pécuchet 
-T2436	Pécuchet-14 28354 28357	le 
-T2437	Pécuchet-14 56414 56417	il 
-T2438	Pécuchet-14 778 786	l'autre 
-T2439	Pécuchet-14 56447 56451	ses 
-T2440	Pécuchet-14 14935 14944	Pécuchet 
-T2441	Pécuchet-14 56372 56375	il 
-T2442	Pécuchet-14 28311 28315	lui 
-T2443	Pécuchet-14 9365 9374	Pécuchet 
-T2444	Pécuchet-14 5897 5900	je 
-T2445	Pécuchet-14 33062 33065	sa 
-T2446	Pécuchet-14 33037 33041	ses 
-T2447	Pécuchet-14 31269 31272	il 
-T2448	Pécuchet-14 12480 12482	l'
-T2449	Pécuchet-14 31309 31312	il 
-T2450	Pécuchet-14 33093 33096	Il 
-T2451	Pécuchet-14 12603 12607	lui 
-T2452	Pécuchet-14 31218 31222	eut 
-T2453	Pécuchet-14 9433 9437	son 
-T2454	Pécuchet-14 33017 33020	Il 
-T2455	Pécuchet-14 5935 5938	il 
-T2456	Pécuchet-14 931 936	dont 
-T2457	Pécuchet-14 916 929	Le plus petit
-T2458	Pécuchet-14 40933 40942	Pécuchet 
-T2459	Pécuchet-14 39180 39184	ses 
-T2460	Pécuchet-14 23399 23402	sa 
-T2461	Pécuchet-14 56831 56834	il 
-T2462	Pécuchet-14 23442 23445	Il 
-T2463	Pécuchet-14 39154 39163	Pécuchet 
-T2464	Pécuchet-14 12702 12705	Sa 
-T2465	Pécuchet-14 9512 9517	vous 
-T2466	Pécuchet-14 32926 32935	s'avança 
-T2467	Pécuchet-14 46885 46894	Pécuchet 
-T2468	Pécuchet-14 31088 31092	son 
-T2469	Pécuchet-14 31102 31113	prodiguait 
-T2470	Pécuchet-14 12643 12646	il 
-T2471	Pécuchet-14 32969 32972	il 
-T2472	Pécuchet-14 31196 31199	il 
-T2473	Pécuchet-14 31171 31174	il 
-T2474	Pécuchet-14 12627 12631	son 
-T2475	Pécuchet-14 32942 32946	lui 
-T2476	Pécuchet-14 9554 9558	ses 
-T2477	Pécuchet-14 6105 6109	lui 
-T2478	Pécuchet-14 32866 32875	Pécuchet 
-T2479	Pécuchet-14 9537 9546	Pécuchet 
-T2480	Pécuchet-14 6060 6069	Pécuchet 
-T2481	Pécuchet-14 56759 56762	il 
-T2482	Pécuchet-14 23373 23376	il 
-T2483	Pécuchet-14 23215 23224	Pécuchet 
-T2484	Pécuchet-14 31048 31051	il 
-T2485	Pécuchet-14 31079 31083	lui 
-T2486	Pécuchet-14 23322 23325	il 
-T2487	Pécuchet-14 56688 56697	Pécuchet 
-T2488	Pécuchet-14 11233 11242	Pécuchet 
-T2489	Pécuchet-14 31620 31627	maudit 
-T2490	Pécuchet-14 9603 9606	ma 
-T2491	Pécuchet-14 57232 57239	acheta 
-T2492	Pécuchet-14 29872 29875	Il 
-T2493	Pécuchet-14 9589 9591	m'
-T2494	Pécuchet-14 29840 29849	Pécuchet 
-T2495	Pécuchet-14 25695 25704	Pécuchet 
-T2496	Pécuchet-14 4413 4422	Pécuchet 
-T2497	Pécuchet-14 9649 9652	il 
-T2498	Pécuchet-14 7990 7999	Pécuchet 
-T2499	Pécuchet-14 31579 31582	Il 
-T2500	Pécuchet-14 1234 1249	le petit homme 
-T2501	Pécuchet-14 55591 55594	il 
-T2502	Pécuchet-14 57131 57140	Pécuchet 
-T2503	Pécuchet-14 53760 53764	son 
-T2504	Pécuchet-14 41198 41201	il 
-T2505	Pécuchet-14 20288 20291	Tu 
-T2506	Pécuchet-14 53749 53752	il 
-T2507	Pécuchet-14 25598 25600	j'
-T2508	Pécuchet-14 55539 55548	Pécuchet 
-T2509	Pécuchet-14 25621 25629	Pécuchet
-T2510	Pécuchet-14 57167 57170	Il 
-T2511	Pécuchet-14 53779 53789	balançait 
-T2512	Pécuchet-14 31488 31497	Pécuchet 
-T2513	Pécuchet-14 8066 8070	ses 
-T2514	Pécuchet-14 45452 45461	Pécuchet 
-T2515	Pécuchet-14 8175 8179	son 
-T2516	Pécuchet-14 8116 8119	Il 
-T2517	Pécuchet-14 55420 55424	lui 
-T2518	Pécuchet-14 55391 55394	le 
-T2519	Pécuchet-14 1366 1394	du particulier en redingote 
-T2520	Pécuchet-14 1283 1287	son 
-T2521	Pécuchet-14 55291 55294	il 
-T2522	Pécuchet-14 20128 20137	Pécuchet 
-T2523	Pécuchet-14 40993 41001	disposa 
-T2524	Pécuchet-14 53660 53663	il 
-T2525	Pécuchet-14 41028 41031	il 
-T2526	Pécuchet-14 20194 20197	il 
-T2527	Pécuchet-14 53624 53627	il 
-T2528	SI_265-15 786 807	du Jardin des Plantes
-T2529	SI_1492-16 1067 1089	au milieu du boulevard
-T2530	SI_1522-17 1109 1123	la même minute
-T2531	SI_122-18 1557 1568	mon bureau 
-T2532	Bouvard Pécuchet ou indéfini-19 35752 35756	soi 
-T2533	Bouvard Pécuchet ou indéfini-19 6016 6019	on 
-T2534	Bouvard Pécuchet ou indéfini-19 3085 3089	soi 
-T2535	Bouvard Pécuchet ou indéfini-19 45506 45510	Ils 
-T2536	Bouvard Pécuchet ou indéfini-19 39745 39749	ils 
-T2537	Bouvard Pécuchet ou indéfini-19 25295 25298	on 
-T2538	Bouvard Pécuchet ou indéfini-19 39667 39671	les 
-T2539	Bouvard Pécuchet ou indéfini-19 3035 3038	on 
-T2540	Bouvard Pécuchet ou indéfini-19 6277 6280	on 
-T2541	Bouvard Pécuchet ou indéfini-19 2487 2490	on 
-T2542	Bouvard Pécuchet ou indéfini-19 35732 35735	On 
-T2543	Bouvard Pécuchet ou indéfini-19 25728 25731	on 
-T2544	Bouvard Pécuchet ou indéfini-19 33375 33379	ils 
-T2545	la campagne-20 23182 23186	qui 
-T2546	la campagne-20 23175 23182	ce mot 
-T2547	la campagne-20 26549 26560	la campagne
-T2548	la campagne-20 36206 36217	la campagne
-T2549	la campagne-20 17644 17655	la campagne
-T2550	la campagne-20 2524 2535	la banlieue
-T2551	la campagne-20 2504 2516	la campagne 
-T2552	la campagne-20 43202 43213	la campagne
-T2553	la campagne-20 23224 23226	l'
-T2554	la campagne-20 23157 23169	la campagne 
-T2555	SI_289-21 2583 2598	des guinguettes
-T2556	Paris-22 26433 26438	Paris
-T2557	Paris-22 50451 50457	Paris 
-T2558	Paris-22 58042 58053	la capitale
-T2559	Paris-22 2673 2684	la capitale
-T2560	Paris-22 30078 30089	la capitale
-T2561	Paris-22 12921 12927	Paris 
-T2562	Paris-22 31821 31827	Paris 
-T2563	SI_1085-23 2812 2836	la cheminée d'une usine 
-T2564	SI_978-24 2826 2836	une usine 
-T2565	SI_724-25 3067 3076	les rues 
-T2566	Bouvard ou Pécuchet-26 14142 14147	l'un 
-T2567	Bouvard ou Pécuchet-26 14159 14167	l'autre 
-T2568	Bouvard ou Pécuchet-26 3137 3140	Lui
-T2569	Bouvard ou Pécuchet-26 10850 10858	l'autre 
-T2570	Bouvard ou Pécuchet-26 17889 17896	burent 
-T2571	Bouvard ou Pécuchet-26 18727 18729	J'
-T2572	Bouvard ou Pécuchet-26 5281 5289	l'autre 
-T2573	Bouvard ou Pécuchet-26 3142 3145	il 
-T2574	Bouvard ou Pécuchet-26 14175 14179	son 
-T2575	Bouvard ou Pécuchet-26 15247 15251	son 
-T2576	Bouvard ou Pécuchet-26 5315 5324	lui-même 
-T2577	Bouvard ou Pécuchet-26 18797 18801	l'un
-T2578	Bouvard ou Pécuchet-26 18842 18849	l'autre
-T2579	SI_1088-27 3190 3201	un ivrogne 
-T2580	SI_87-28 3220 3232	le trottoir 
-T2581	SI_183-29 3247 3259	des ouvriers
-T2582	trois calèches de remise-30 3494 3498	qui 
-T2583	trois calèches de remise-30 3469 3494	trois calèches de remise 
-T2584	SI_1182-31 3517 3522	Bercy
-T2585	une mariée-32 3550 3554	son 
-T2586	une mariée-32 3534 3545	une mariée 
-T2587	SI_1057-33 3563 3595	des bourgeois en cravate blanche
-T2588	des dames-34 3597 3607	des dames 
-T2589	des dames-34 3641 3646	leur 
-T2590	SI_1674-35 3653 3681	deux ou trois petites filles
-T2591	SI_908-36 3683 3695	un collégien
-T2592	les femmes-37 3765 3768	qu'
-T2593	les femmes-37 3753 3763	des femmes
-T2594	les femmes-37 3945 3951	elles 
-T2595	les femmes-37 3891 3897	elles 
-T2596	les femmes-37 3827 3833	elles 
-T2597	SI_1400-38 3864 3875	les hommes 
-T2598	SI_1053-39 4036 4044	enfants 
-T2599	SI_1414-40 4143 4159	au bord du quai 
-T2600	SI_71-41 4151 4159	du quai 
-T2601	une fille de joie-42 4253 4258	elle 
-T2602	une fille de joie-42 4165 4183	une fille de joie 
-T2603	une fille de joie-42 4352 4357	elle 
-T2604	un soldat-43 4281 4293	du militaire
-T2605	un soldat-43 4188 4197	un soldat
-T2606	un prêtre-44 4504 4514	un prêtre 
-T2607	un prêtre-44 4514 4518	qui 
-T2608	un prêtre-44 4531 4548	L'ecclésiastique 
-T2609	SI_139-45 4610 4621	le trottoir
-T2610	les jésuites-46 4738 4742	les 
-T2611	les jésuites-46 4709 4721	les jésuites
-T2612	SI_1627-47 4832 4847	des persiennes 
-T2613	SI_413-48 4875 4888	Les passants 
-T2614	SI_1499-49 4913 4925	Sept heures 
-T2615	SI_50-50 5095 5126	le corps des ponts et chaussées
-T2616	SI_511-51 5128 5147	la régie des tabacs
-T2617	SI_269-52 5162 5174	les théâtres
-T2618	la marine-53 6533 6543	la marine 
-T2619	la marine-53 19455 19464	la Marine
-T2620	la marine-53 5176 5189	notre marine 
-T2621	des gens-54 5220 5229	des gens 
-T2622	des gens-54 5229 5233	qui 
-T2623	SI_826-55 5592 5609	l'écluse d'amont 
-T2624	SI_678-56 5617 5632	l'écluse d'aval
-T2625	SI_1000-57 5968 5984	l'Hôtel de Ville
-T2626	un petit restaurant-58 5991 6011	un petit restaurant 
-T2627	un petit restaurant-58 6011 6014	où 
-T2628	SI_1100-59 6484 6506	une maison de commerce
-T2629	SI_931-60 6517 6543	au ministère de la marine 
-T2630	SI_818-61 6585 6596	chaque soir
-T2631	SI_1061-62 6669 6678	M. Thiers
-T2632	Dumouchel-63 6721 6753	un certain Dumouchel, professeur
-T2633	Dumouchel-63 16801 16811	Dumouchel 
-T2634	Dumouchel-63 8756 8765	Dumouchel
-T2635	Dumouchel-63 14994 15003	Dumouchel
-T2636	Dumouchel-63 15188 15191	Il 
-T2637	Dumouchel-63 15021 15024	il 
-T2638	Dumouchel-63 15005 15016	Cet auteur 
-T2639	Dumouchel-63 28297 28311	Le professeur 
-T2640	Dumouchel-63 28284 28294	Dumouchel 
-T2641	Dumouchel-63 28440 28449	souhaita 
-T2642	Dumouchel-63 57180 57190	Dumouchel 
-T2643	Dumouchel-63 28351 28354	il 
-T2644	SI_1482-64 7317 7339	un autre établissement
-T2645	SI_33-65 7522 7541	tous les écrivains 
-T2646	Barberou-66 14803 14893	un ancien commis voyageur, actuellement boursier, très bon enfant, patriote, ami des dames
-T2647	Barberou-66 14944 14947	le 
-T2648	Barberou-66 16736 16744	Barberou
-T2649	Barberou-66 26962 26965	Il 
-T2650	Barberou-66 7725 7749	Barberou, un de ses amis
-T2651	Barberou-66 28532 28535	Il 
-T2652	Barberou-66 28575 28582	promit 
-T2653	Barberou-66 14898 14902	qui 
-T2654	Barberou-66 14795 14797	C'
-T2655	Barberou-66 14785 14793	Barberou
-T2656	Barberou-66 28606 28615	commanda 
-T2657	Barberou-66 27025 27029	lui 
-T2658	Barberou-66 28635 28643	embrassa
-T2659	Barberou-66 31880 31888	Barberou
-T2660	Barberou-66 28467 28476	Barberou 
-T2661	Barberou-66 26941 26950	Barberou 
-T2662	SI_733-67 7741 7749	ses amis
-T2663	SI_84-68 7828 7841	des personnes
-T2664	le garçon de l_établissement-69 7871 7880	Le garçon
-T2665	le garçon de l_établissement-69 7882 7886	qui 
-T2666	le garçon de l_établissement-69 8021 8025	lui 
-T2667	le limonadier-70 8086 8094	chicana 
-T2668	le limonadier-70 8050 8053	il 
-T2669	le limonadier-70 8027 8041	le limonadier 
-T2670	SI_574-71 8147 8157	la soirée 
-T2671	le domicile de Pécuchet-72 8189 8193	qui 
-T2672	le domicile de Pécuchet-72 11689 11703	l'appartement 
-T2673	le domicile de Pécuchet-72 8314 8329	son appartement
-T2674	le domicile de Pécuchet-72 8175 8187	son domicile
-T2675	SI_711-73 8210 8226	rue Saint-Martin
-T2676	le Havre-74 8743 8752	du Havre 
-T2677	le Havre-74 29510 29518	au Havre
-T2678	le Havre-74 26499 26507	au Havre
-T2679	SI_856-75 9208 9228	cette petite chambre
-T2680	SI_381-76 9246 9255	le matin 
-T2681	SI_1067-77 9693 9710	la rue de Béthune
-T2682	SI_735-78 9703 9710	Béthune
-T2683	SI_790-79 9720 9743	le pont de la Tournelle
-T2684	SI_1560-80 9731 9743	la Tournelle
-T2685	SI_287-81 9746 9767	La chambre de Bouvard
-T2686	SI_434-82 9847 9857	un balcon 
-T2687	SI_973-83 9871 9881	la rivière
-T2688	SI_635-84 10021 10030	des amis 
-T2689	oncle de Bouvard-85 21316 21320	mes 
-T2690	oncle de Bouvard-85 19840 19982	votre père naturel, M. François-Denys-Bartholomée Bouvard, ex-négociant dans la ville de Nantes, décédé en cette commune le 10 du présent mois
-T2691	oncle de Bouvard-85 19589 19599	Mon oncle 
-T2692	oncle de Bouvard-85 21352 21364	Le bonhomme 
-T2693	oncle de Bouvard-85 13401 13410	son oncle
-T2694	oncle de Bouvard-85 10186 10190	son 
-T2695	oncle de Bouvard-85 10433 10436	il 
-T2696	oncle de Bouvard-85 10634 10638	ses 
-T2697	oncle de Bouvard-85 10139 10150	un monsieur
-T2698	oncle de Bouvard-85 10391 10395	Ses 
-T2699	oncle de Bouvard-85 21818 21821	lui
-T2700	oncle de Bouvard-85 22000 22004	ses 
-T2701	oncle de Bouvard-85 21229 21232	je 
-T2702	oncle de Bouvard-85 21276 21280	mon 
-T2703	oncle de Bouvard-85 21737 21740	il 
-T2704	oncle de Bouvard-85 21770 21774	son 
-T2705	oncle de Bouvard-85 22032 22035	il 
-T2706	oncle de Bouvard-85 22046 22049	sa 
-T2707	oncle de Bouvard-85 21788 21791	Il 
-T2708	oncle de Bouvard-85 10514 10517	le 
-T2709	oncle de Bouvard-85 29644 29652	son père
-T2710	oncle de Bouvard-85 21491 21493	l'
-T2711	oncle de Bouvard-85 10077 10087	Mon oncle 
-T2712	oncle de Bouvard-85 10333 10335	l'
-T2713	oncle de Bouvard-85 13501 13504	sa 
-T2714	oncle de Bouvard-85 10561 10572	mon parrain
-T2715	oncle de Bouvard-85 13519 13522	en 
-T2716	oncle de Bouvard-85 10555 10557	C'
-T2717	oncle de Bouvard-85 21967 21971	ses 
-T2718	oncle de Bouvard-85 21686 21690	ses 
-T2719	oncle de Bouvard-85 21707 21709	l'
-T2720	oncle de Bouvard-85 12883 12887	qui 
-T2721	oncle de Bouvard-85 10241 10244	Sa 
-T2722	oncle de Bouvard-85 12893 12902	son oncle
-T2723	oncle de Bouvard-85 13412 13416	qui 
-T2724	oncle de Bouvard-85 12873 12881	Un homme
-T2725	oncle de Bouvard-85 21386 21389	sa 
-T2726	oncle de Bouvard-85 21843 21846	sa 
-T2727	oncle de Bouvard-85 21583 21594	M. Bouvard 
-T2728	oncle de Bouvard-85 21863 21866	le 
-T2729	oncle de Bouvard-85 21404 21407	il 
-T2730	oncle de Bouvard-85 21949 21952	il 
-T2731	oncle de Bouvard-85 21633 21637	Ses 
-T2732	oncle de Bouvard-85 21918 21922	son 
-T2733	SI_1177-86 10539 10550	votre père 
-T2734	SI_508-87 10760 10777	quarante-sept ans
-T2735	SI_350-88 11119 11132	leurs patrons
-T2736	SI_1152-89 11190 11200	les dames 
-T2737	SI_1673-90 11220 11230	l'escalier
-T2738	SI_798-91 11295 11307	Le lendemain
-T2739	SI_1212-92 11314 11385	la cour de Mm. Descambos frères : tissus d'Alsace, rue Hautefeuille, 92
-T2740	SI_452-93 11654 11664	la journée
-T2741	SI_1401-94 11835 11843	Le matin
-T2742	SI_1668-95 12028 12046	un petit marchand 
-T2743	SI_671-96 12067 12074	sa mère
-T2744	SI_158-97 12108 12118	quinze ans
-T2745	un huissier-98 12202 12212	le patron 
-T2746	un huissier-98 12185 12187	y 
-T2747	un huissier-98 12158 12169	un huissier
-T2748	SI_463-99 12171 12185	Les gendarmes 
-T2749	SI_73-100 12340 12358	élève en pharmacie
-T2750	SI_777-101 12360 12375	maître d'études
-T2751	SI_937-102 12377 12425	comptable sur un des paquebots de la haute Seine
-T2752	SI_46-103 12391 12425	un des paquebots de la haute Seine
-T2753	SI_860-104 12394 12425	des paquebots de la haute Seine
-T2754	SI_96-105 12411 12425	la haute Seine
-T2755	SI_992-106 12434 12453	un chef de division
-T2756	SI_998-107 12501 12517	expéditionnaire 
-T2757	SI_1459-108 12724 12735	le dimanche
-T2758	SI_730-109 12826 12847	les bords de la Loire
-T2759	SI_325-110 12839 12847	la Loire
-T2760	SI_776-111 12854 12871	une cour de ferme
-T2761	SI_567-112 13046 13071	une boutique de confiseur
-T2762	SI_177-113 13093 13104	son épouse 
-T2763	SI_1346-114 13142 13150	Les amis
-T2764	SI_1002-115 13659 13671	un estaminet
-T2765	SI_642-116 14041 14061	la fin de la semaine
-T2766	SI_1123-117 14051 14061	la semaine
-T2767	SI_1261-118 14119 14132	leur comptoir
-T2768	SI_1283-119 14223 14231	les rues
-T2769	SI_259-120 14884 14893	des dames
-T2770	SI_1655-121 15101 15134	un pensionnat de jeunes personnes
-T2771	SI_706-122 15482 15497	le gouvernement
-T2772	SI_1470-123 15602 15610	Fualdès 
-T2773	SI_1210-124 15718 15746	des boutiques de bric-à-brac
-T2774	SI_1538-125 15763 15799	le Conservatoire des arts et métiers
-T2775	SI_1255-126 15801 15812	Saint-Denis
-T2776	SI_352-127 15814 15826	les Gobelins
-T2777	SI_742-128 15828 15842	les Invalides 
-T2778	deux étrangers-129 15967 15981	deux étrangers
-T2779	deux étrangers-129 15983 15995	deux Anglais
-T2780	SI_1176-130 16003 16025	les galeries du Muséum
-T2781	SI_827-131 16016 16025	du Muséum
-T2782	SI_209-132 16243 16262	les serres chaudes 
-T2783	SI_233-133 16447 16457	au Louvre 
-T2784	SI_1150-134 16481 16488	Raphaël
-T2785	SI_1145-135 16492 16514	la grande bibliothèque
-T2786	SI_846-136 16616 16636	du Collège de France
-T2787	SI_1109-137 16630 16636	France
-T2788	SI_1545-138 16641 16655	le professeur 
-T2789	SI_394-139 16767 16799	les coulisses d'un petit théâtre
-T2790	SI_1054-140 16783 16799	un petit théâtre
-T2791	SI_220-141 16855 16865	l'Académie
-T2792	l_époque-142 17174 17177	où 
-T2793	l_époque-142 17165 17174	l'époque 
-T2794	l_époque-142 17224 17239	cette époque-là
-T2795	des pays-143 17283 17292	des pays 
-T2796	des pays-143 17321 17324	en 
-T2797	SI_831-144 17544 17552	les rues
-T2798	SI_1013-145 17599 17618	Le quai aux Fleurs 
-T2799	un dimanche-146 17774 17782	du jour 
-T2800	un dimanche-146 17658 17670	Un dimanche 
-T2801	SI_320-147 17724 17730	Meudon
-T2802	SI_389-148 17732 17740	Bellevue
-T2803	SI_1179-149 17742 17750	Suresnes
-T2804	SI_699-150 17752 17759	Auteuil
-T2805	SI_406-151 17846 17864	au bord des champs
-T2806	SI_98-152 17932 17947	des guinguettes
-T2807	SI_765-153 18043 18058	Les lendemains 
-T2808	SI_1187-154 18125 18135	du bureau 
-T2809	les mêmes compagnons-155 18264 18268	Les 
-T2810	les mêmes compagnons-155 18241 18262	les mêmes compagnons 
-T2811	les mêmes compagnons-155 18290 18295	leur 
-T2812	un après midi-156 18933 18947	Un après-midi 
-T2813	un après midi-156 18948 18950	c'
-T2814	SI_1116-157 18956 18974	le 20 janvier 1839
-T2815	SI_290-158 18993 19006	son comptoir 
-T2816	SI_857-159 19037 19047	le facteur
-T2817	les commis-160 19193 19196	On 
-T2818	les commis-160 19268 19271	on 
-T2819	les commis-160 19141 19152	Les commis 
-T2820	les commis-160 19170 19173	on 
-T2821	SI_1238-161 19212 19222	un médecin
-T2822	SI_1659-162 19439 19464	au ministère de la Marine
-T2823	Tardivel-163 19754 19757	Je 
-T2824	Tardivel-163 20091 20095	mes 
-T2825	Tardivel-163 19785 19789	mon 
-T2826	Tardivel-163 20107 20115	Tardivel
-T2827	Tardivel-163 19687 19698	Me Tardivel
-T2828	Tardivel-163 21114 21125	au notaire 
-T2829	Tardivel-163 21141 21152	Le notaire 
-T2830	Tardivel-163 22514 22522	Tardivel
-T2831	SI_1122-164 19700 19719	Savigny-en-Septaine
-T2832	SI_1257-165 19721 19736	14 janvier 1839
-T2833	la ville de Nantes-166 19917 19935	la ville de Nantes
-T2834	la ville de Nantes-166 19947 19961	cette commune 
-T2835	SI_835-167 19929 19935	Nantes
-T2836	SI_848-168 20117 20124	notaire
-T2837	SI_970-169 20180 20187	la cour
-T2838	SI_1101-170 20407 20415	la poste
-T2839	SI_697-171 20476 20486	du notaire
-T2840	SI_456-172 20693 20710	l'Arc de Triomphe
-T2841	SI_205-173 20726 20742	le bord de l'eau
-T2842	SI_914-174 20756 20766	Notre-Dame
-T2843	SI_1498-175 20857 20869	cinq minutes
-T2844	SI_597-176 21468 21477	un neveu 
-T2845	SI_1205-177 21515 21524	mon oncle
-T2846	les fils légitimes-178 21633 21657	Ses deux fils légitimes 
-T2847	les fils légitimes-178 22171 22181	des frères
-T2848	la cuisinière de l_oncle-179 21843 21856	sa cuisinière
-T2849	la cuisinière de l_oncle-179 21858 21863	Elle 
-T2850	SI_605-180 21897 21907	la famille
-T2851	M_ Etienne-181 22212 22215	il 
-T2852	M_ Etienne-181 22164 22193	L'aîné des frères, M. Étienne
-T2853	SI_106-182 22342 22355	des ivrognes 
-T2854	M_ Alexandre-183 22538 22550	M. Alexandre
-T2855	M_ Alexandre-183 22562 22566	son 
-T2856	M_ Alexandre-183 22639 22642	il 
-T2857	M_ Alexandre-183 22524 22536	L'autre fils
-T2858	M_ Alexandre-183 23028 23047	le sieur Alexandre 
-T2859	Savigny-184 22820 22823	où 
-T2860	Savigny-184 40378 40393	du point de vue
-T2861	Savigny-184 22809 22816	Savigny
-T2862	SI_596-185 23561 23569	Le Nord 
-T2863	le Midi-186 23602 23610	le Midi 
-T2864	le Midi-186 23625 23629	son 
-T2865	SI_510-187 23674 23683	le Centre
-T2866	SI_1409-188 23723 23735	La Bretagne 
-T2867	régions de l_Est-189 23797 23817	aux régions de l'Est
-T2868	régions de l_Est-189 23854 23856	y 
-T2869	SI_779-190 23812 23817	l'Est
-T2870	SI_726-191 23937 23945	le Forez
-T2871	SI_383-192 23947 23955	le Bugey
-T2872	SI_402-193 23957 23968	le Roumois 
-T2873	SI_731-194 24029 24041	leur maison 
-T2874	SI_1399-195 24337 24349	les charrues
-T2875	SI_969-196 24590 24596	chefs 
-T2876	SI_224-197 24649 24667	un domicile à eux 
-T2877	SI_1407-198 24702 24717	leur basse-cour
-T2878	SI_229-199 24734 24745	leur jardin
-T2879	SI_173-200 25026 25036	une maison
-T2880	SI_414-201 25896 25912	leurs collègues 
-T2881	SI_370-202 26328 26355	dix-huit mois de recherches
-T2882	SI_144-203 26412 26438	tous les environs de Paris
-T2883	SI_1263-204 26450 26457	Amiens 
-T2884	SI_1615-205 26465 26471	Évreux
-T2885	SI_1315-206 26479 26493	Fontainebleau 
-T2886	une campagne-207 26523 26536	une campagne 
-T2887	une campagne-207 26536 26540	qui 
-T2888	SI_1403-208 26673 26689	des habitations 
-T2889	SI_1359-209 26899 26915	une manufacture 
-T2890	un domaine-210 34248 34250	y 
-T2891	un domaine-210 27094 27099	Cela 
-T2892	un domaine-210 27043 27053	un domaine
-T2893	un domaine-210 37935 37948	la propriété 
-T2894	Chavignolles-211 32712 32724	Chavignolles
-T2895	Chavignolles-211 58078 58091	Chavignolles 
-T2896	Chavignolles-211 39792 39805	Chavignolles 
-T2897	Chavignolles-211 29609 29621	Chavignolles
-T2898	Chavignolles-211 33392 33404	Chavignolles
-T2899	Chavignolles-211 27057 27069	Chavignolles
-T2900	Caen-212 32312 32314	y 
-T2901	Caen-212 29551 29555	Caen
-T2902	Caen-212 27077 27082	Caen 
-T2903	Caen-212 32065 32070	Caen 
-T2904	Caen-212 29557 29560	où 
-T2905	Caen-212 32292 32296	Caen
-T2906	Falaise-213 32453 32460	Falaise
-T2907	Falaise-213 29831 29838	Falaise
-T2908	Falaise-213 27085 27092	Falaise
-T2909	la ferme-214 50470 50488	Leur exploitation 
-T2910	la ferme-214 27295 27304	la ferme 
-T2911	la ferme-214 53112 53120	la ferme
-T2912	la ferme-214 27113 27146	une ferme de trente-huit hectares
-T2913	la ferme-214 37068 37078	leur ferme
-T2914	la ferme-214 27322 27328	l'une 
-T2915	la ferme-214 52514 52523	la ferme 
-T2916	la maison-215 38720 38730	La maison 
-T2917	la maison-215 38776 38779	sa 
-T2918	la maison-215 27311 27321	la maison 
-T2919	la maison-215 38788 38793	Elle 
-T2920	la maison-215 27153 27176	une manière de château 
-T2921	la maison-215 38755 38758	sa 
-T2922	la maison-215 27354 27361	l'autre
-T2923	le jardin-216 34377 34386	le jardin
-T2924	le jardin-216 53013 53022	du jardin
-T2925	le jardin-216 54658 54668	le jardin 
-T2926	le jardin-216 35910 35920	le jardin 
-T2927	le jardin-216 53066 53069	le 
-T2928	le jardin-216 39391 39400	le jardin
-T2929	le jardin-216 27179 27205	un jardin en plein rapport
-T2930	le jardin-216 56497 56512	tout le jardin 
-T2931	SI_1542-217 27235 27247	le Calvados 
-T2932	SI_561-218 27605 27613	sa mère 
-T2933	six mois avant la retraite-219 27735 27749	la fin de 1840
-T2934	six mois avant la retraite-219 27751 27777	six mois avant sa retraite
-T2935	SI_271-220 27745 27749	1840
-T2936	SI_801-221 27979 27988	Descambos
-T2937	SI_368-222 28099 28112	ses collègues
-T2938	SI_1082-223 28683 28694	son balcon 
-T2939	SI_236-224 28757 28767	des quais 
-T2940	SI_1204-225 28804 28816	des omnibus 
-T2941	SI_441-226 28850 28898	des jours heureux passés dans cette grande ville
-T2942	SI_608-227 28880 28898	cette grande ville
-T2943	SI_1077-228 28917 28930	au restaurant
-T2944	SI_882-229 28932 28952	des soirs au théâtre
-T2945	SI_210-230 28942 28952	au théâtre
-T2946	SI_963-231 29145 29155	sa chambre
-T2947	SI_418-232 29494 29502	la Seine
-T2948	une/la voiture de déménagement-233 30800 30810	du chariot
-T2949	une/la voiture de déménagement-233 32885 32895	le chariot
-T2950	une/la voiture de déménagement-233 29784 29788	qui 
-T2951	une/la voiture de déménagement-233 29756 29784	une voiture de déménagement 
-T2952	SI_97-234 29807 29817	Nonancourt
-T2953	SI_1350-235 29819 29828	Verneuil 
-T2954	le conducteur-236 30230 30244	le conducteur 
-T2955	le conducteur-236 29893 29906	du conducteur
-T2956	SI_401-237 30029 30048	le dimanche 20 mars
-T2957	le conducteur et le charretier-238 31296 31307	les hommes 
-T2958	le conducteur et le charretier-238 31627 31646	ces deux imbéciles 
-T2959	le conducteur et le charretier-238 30315 30319	ils 
-T2960	le conducteur et le charretier-238 31328 31333	leur 
-T2961	le conducteur et le charretier-238 30230 30260	le conducteur et le charretier
-T2962	le conducteur et le charretier-238 30262 30266	Ils 
-T2963	le conducteur et le charretier-238 31376 31380	ils 
-T2964	le charretier-239 31690 31704	du charretier 
-T2965	le charretier-239 61337 61339	t'
-T2966	le charretier-239 31704 31708	qui 
-T2967	le charretier-239 61371 61375	-moi
-T2968	le charretier-239 30247 30260	le charretier
-T2969	le charretier-239 61297 61311	le charretier 
-T2970	SI_1060-240 30282 30301	exécrables auberges
-T2971	SI_1625-241 30388 30403	les mêmes gîtes
-T2972	SI_1356-242 30437 30444	l'aube 
-T2973	la route-243 30468 30475	la même
-T2974	la route-243 30449 30457	la route
-T2975	SI_366-244 30601 30613	la campagne 
-T2976	SI_324-245 30860 30869	un navire
-T2977	SI_1225-246 31432 31441	Gauburge 
-T2978	SI_244-247 31651 31671	la journée suivante 
-T2979	SI_745-248 31831 31846	le surlendemain
-T2980	SI_947-249 31905 31929	la cour des Messageries 
-T2981	SI_196-250 31975 31998	la cathédrale de Rouen 
-T2982	SI_1037-251 31992 31998	Rouen 
-T2983	SI_1632-252 32021 32030	diligence
-T2984	SI_294-253 32033 32040	Le soir
-T2985	SI_444-254 32119 32138	au théâtre des Arts
-T2986	SI_1251-255 32157 32168	ses voisins
-T2987	SI_1421-256 32234 32258	un domaine aux alentours
-T2988	SI_1112-257 32278 32290	le vendredi 
-T2989	SI_867-258 32340 32352	le dimanche 
-T2990	SI_632-259 32371 32384	une charrette
-T2991	Maître Gouy-260 37150 37160	le fermier
-T2992	Maître Gouy-260 50252 50255	il 
-T2993	Maître Gouy-260 38396 38408	maître Gouy 
-T2994	Maître Gouy-260 37975 37987	Maître Gouy 
-T2995	Maître Gouy-260 49881 49892	le fermier 
-T2996	Maître Gouy-260 50197 50204	laissa 
-T2997	Maître Gouy-260 50164 50176	maître Gouy 
-T2998	Maître Gouy-260 37162 37173	maître Gouy
-T2999	Maître Gouy-260 49994 49997	il 
-T3000	Maître Gouy-260 49851 49855	son 
-T3001	Maître Gouy-260 37314 37322	L'homme 
-T3002	Maître Gouy-260 49913 49916	Il 
-T3003	Maître Gouy-260 49795 49807	maître Gouy 
-T3004	Maître Gouy-260 37990 37994	son 
-T3005	Maître Gouy-260 32400 32411	le fermier 
-T3006	Maître Gouy-260 49901 49904	sa 
-T3007	Maître Gouy-260 50059 50062	sa 
-T3008	Maître Gouy-260 50234 50240	ruina 
-T3009	SI_336-261 32433 32448	quelques heures
-T3010	SI_281-262 32462 32492	le neuvième jour de son voyage
-T3011	SI_42-263 32587 32598	Bretteville
-T3012	SI_902-264 32613 32627	la grand'route
-T3013	SI_1566-265 32647 32668	un chemin de traverse
-T3014	SI_606-266 32685 32699	chaque minute 
-T3015	SI_953-267 32699 32724	le pignon de Chavignolles
-T3016	les ornières-268 32764 32770	elles 
-T3017	les ornières-268 32736 32749	les ornières 
-T3018	SI_907-269 32804 32833	au milieu des champs labourés
-T3019	SI_395-270 32835 32843	La nuit 
-T3020	SI_1325-271 32983 32993	des fermes
-T3021	SI_999-272 33062 33070	sa route
-T3022	un cabriolet-273 33180 33192	un cabriolet
-T3023	un cabriolet-273 33208 33211	le 
-T3024	SI_1016-274 33303 33313	une heure 
-T3025	la salle-275 33494 33496	y 
-T3026	la salle-275 33470 33478	la salle
-T3027	SI_153-276 33559 33571	le vestibule
-T3028	Germaine-277 36982 36995	aurait voulu 
-T3029	Germaine-277 36886 36890	elle
-T3030	Germaine-277 52624 52632	Germaine
-T3031	Germaine-277 37035 37037	l'
-T3032	Germaine-277 52634 52638	qui 
-T3033	Germaine-277 33692 33709	La vieille femme 
-T3034	Germaine-277 36895 36897	l'
-T3035	Germaine-277 33709 33713	qui 
-T3036	Germaine-277 36939 36943	son 
-T3037	Germaine-277 36949 36954	Elle 
-T3038	Germaine-277 36510 36530	La vieille servante 
-T3039	SI_1153-278 34641 34654	les espaliers
-T3040	SI_1681-279 34889 34897	La nuit 
-T3041	les deux chambres de B et P-280 35051 35057	elles 
-T3042	les deux chambres de B et P-280 35017 35037	Leurs deux chambres 
-T3043	SI_797-281 35489 35496	la lune
-T3044	SI_1378-282 35542 35555	le lendemain 
-T3045	SI_412-283 35756 35766	les champs
-T3046	SI_669-284 35777 35787	une grange
-T3047	SI_1349-285 35794 35817	le clocher de l'église 
-T3048	SI_1478-286 35808 35817	l'église 
-T3049	SI_100-287 35856 35879	Deux allées principales
-T3050	SI_348-288 36144 36158	les espaliers 
-T3051	SI_982-289 36245 36254	un verger
-T3052	SI_1234-290 36276 36287	un bosquet 
-T3053	un petit chemin-291 36436 36446	le sentier
-T3054	un petit chemin-291 36314 36329	un petit chemin
-T3055	M_ Vaucorbeil-292 36370 36429	un homme à chevelure grisonnante et vêtu d'un paletot noir 
-T3056	M_ Vaucorbeil-292 36546 36548	c'
-T3057	M_ Vaucorbeil-292 36554 36567	M. Vaucorbeil
-T3058	M_ Vaucorbeil-292 36464 36467	sa 
-T3059	SI_152-293 36611 36631	Les autres notables 
-T3060	M_ de Faverges-294 45232 45235	il 
-T3061	M_ de Faverges-294 44062 44066	son 
-T3062	M_ de Faverges-294 44078 44081	Il 
-T3063	M_ de Faverges-294 44933 44936	Il 
-T3064	M_ de Faverges-294 45897 45900	il 
-T3065	M_ de Faverges-294 45218 45222	ses 
-T3066	M_ de Faverges-294 44980 44988	proféra 
-T3067	M_ de Faverges-294 36684 36689	dont 
-T3068	M_ de Faverges-294 45961 45964	le 
-T3069	M_ de Faverges-294 44302 44305	il 
-T3070	M_ de Faverges-294 44032 44044	M. le comte 
-T3071	M_ de Faverges-294 45868 45871	ma 
-T3072	M_ de Faverges-294 44312 44316	son 
-T3073	M_ de Faverges-294 36641 36661	le comte de Faverges
-T3074	M_ de Faverges-294 45415 45418	me 
-T3075	M_ de Faverges-294 45065 45068	sa 
-T3076	M_ de Faverges-294 44213 44216	sa 
-T3077	M_ de Faverges-294 45812 45820	le comte
-T3078	M_ de Faverges-294 46024 46027	le 
-T3079	M_ de Faverges-294 45830 45834	mes 
-T3080	M_ de Faverges-294 42850 42854	son 
-T3081	M_ de Faverges-294 42868 42877	Le comte 
-T3082	M_ de Faverges-294 44798 44807	Le comte 
-T3083	M_ de Faverges-294 44235 44238	il 
-T3084	M_ de Faverges-294 45822 45825	je 
-T3085	M_ de Faverges-294 46010 46014	Son 
-T3086	M_ de Faverges-294 45993 45997	lui 
-T3087	M_ de Faverges-294 42814 42829	M. de Faverges 
-T3088	SI_1425-295 36653 36661	Faverges
-T3089	M_ Foureau-296 36715 36723	le maire
-T3090	M_ Foureau-296 36725 36735	M. Foureau
-T3091	M_ Foureau-296 36737 36741	qui 
-T3092	SI_837-297 36794 36806	M. Marescot 
-T3093	SI_1500-298 36819 36833	l'abbé Jeufroy
-T3094	Mme Bordin-299 41865 41870	elle 
-T3095	Mme Bordin-299 41739 41744	elle 
-T3096	Mme Bordin-299 41853 41857	son 
-T3097	Mme Bordin-299 41784 41798	cette personne
-T3098	Mme Bordin-299 41657 41667	Mme Bordin
-T3099	Mme Bordin-299 36838 36854	Mme veuve Bordin
-T3100	Mme Bordin-299 41715 41720	elle 
-T3101	Mme Bordin-299 41832 41836	ses 
-T3102	Mme Bordin-299 36866 36870	son 
-T3103	SI_235-300 36906 36914	Germaine
-T3104	SI_975-301 36927 36947	feu Germain son mari
-T3105	SI_1533-302 36962 36975	des journées 
-T3106	SI_163-303 37141 37148	la cour
-T3107	SI_1303-304 37193 37203	un garçon 
-T3108	la fermière-305 37206 37217	la fermière
-T3109	la fermière-305 37987 38001	et son épouse 
-T3110	la fermière-305 37250 37254	ses 
-T3111	la fermière-305 50059 50068	sa femme 
-T3112	la fermière-305 37401 37410	La femme 
-T3113	la fermière-305 37274 37279	elle 
-T3114	SI_603-306 37505 37517	aux manants 
-T3115	SI_640-307 37532 37543	des églises
-T3116	SI_331-308 37551 37561	la cuisine
-T3117	SI_489-309 37655 37672	la haute cheminée
-T3118	SI_560-310 38056 38074	Tous les bâtiments
-T3119	SI_993-311 38083 38099	la charretterie 
-T3120	SI_225-312 38107 38120	la bouillerie
-T3121	SI_382-313 38180 38195	une succursale 
-T3122	SI_1258-314 38290 38298	la mare 
-T3123	SI_611-315 38345 38360	les trois cours
-T3124	Bouvard Pécuchet le fermier et sa femme-316 38371 38374	on 
-T3125	Bouvard Pécuchet le fermier et sa femme-316 38660 38664	Ils 
-T3126	les cultures-317 38381 38394	les cultures 
-T3127	les cultures-317 38408 38412	les 
-T3128	les cultures-317 38422 38428	Elles 
-T3129	SI_810-318 38455 38468	les charrois 
-T3130	SI_411-319 38557 38570	les prairies 
-T3131	SI_1126-320 38683 38691	la cavée
-T3132	SI_482-321 38698 38718	une avenue de hêtres
-T3133	la cour-322 38755 38773	sa cour d'honneur 
-T3134	la cour-322 39145 39152	la cour
-T3135	SI_1529-323 38755 38785	sa cour d'honneur et sa façade
-T3136	SI_1296-324 38853 38863	Le hangar 
-T3137	SI_1358-325 38853 38876	Le hangar et le cellier
-T3138	SI_1086-326 38866 38876	le cellier
-T3139	SI_512-327 38878 38889	le fournil 
-T3140	SI_1601-328 38878 38902	le fournil et le bûcher 
-T3141	la cuisine-329 57589 57599	la cuisine
-T3142	la cuisine-329 40961 40972	la cuisine 
-T3143	la cuisine-329 42087 42097	la cuisine
-T3144	la cuisine-329 38946 38957	La cuisine 
-T3145	SI_332-330 38975 38991	une petite salle
-T3146	SI_486-331 39016 39028	le vestibule
-T3147	SI_121-332 39030 39060	une deuxième salle plus grande
-T3148	SI_316-333 39062 39070	le salon
-T3149	les chambres-334 39072 39092	Les quatre chambres 
-T3150	les chambres-334 42148 42160	les chambres
-T3151	les chambres-334 39163 39166	en 
-T3152	le corridor-335 39131 39135	qui 
-T3153	le corridor-335 39119 39131	le corridor 
-T3154	SI_1406-336 39225 39241	la bibliothèque 
-T3155	SI_88-337 39722 39745	plus de trois semaines 
-T3156	SI_65-338 39775 39805	les bourgeois de Chavignolles 
-T3157	SI_255-339 39927 39941	La population 
-T3158	un large trou-340 40972 40985	un large trou
-T3159	un large trou-340 40990 40993	le 
-T3160	un large trou-340 41219 41227	la fosse
-T3161	SI_1369-341 41399 41416	Les cultivateurs 
-T3162	SI_583-342 41437 41453	les aubergistes 
-T3163	SI_871-343 42222 42234	la mi-carême
-T3164	SI_1269-344 42251 42263	le printemps
-T3165	SI_1299-345 42279 42292	chaque matin 
-T3166	SI_1289-346 42618 42628	leur ferme
-T3167	SI_761-347 42750 42761	les autres 
-T3168	SI_1215-348 42925 42944	une heure de marche
-T3169	un coteau-349 42988 42992	qui 
-T3170	un coteau-349 42978 42988	un coteau 
-T3171	SI_371-350 42999 43018	la vallée de l'Orne
-T3172	l_Orne-351 43095 43097	y 
-T3173	l_Orne-351 43643 43646	où 
-T3174	l_Orne-351 43012 43018	l'Orne
-T3175	l_Orne-351 43020 43031	La rivière 
-T3176	l_Orne-351 43631 43641	la rivière
-T3177	SI_1426-352 43251 43266	l'autre colline
-T3178	SI_623-353 43315 43326	les maisons
-T3179	la ferme de M_ de Faverges-354 47019 47028	la ferme 
-T3180	la ferme de M_ de Faverges-354 43510 43518	la ferme
-T3181	la ferme de M_ de Faverges-354 48246 48254	la ferme
-T3182	le chateau de M_ de Faverges-355 43520 43548	Le château à façade blanche 
-T3183	le chateau de M_ de Faverges-355 45997 46007	au château
-T3184	SI_813-356 43580 43588	un bois 
-T3185	les faneuses-357 43747 43758	Des femmes 
-T3186	les faneuses-357 44863 44876	Les faneuses 
-T3187	les faneuses-357 44721 44731	aux femmes
-T3188	les faneuses-357 44902 44906	les 
-T3189	SI_1213-358 43984 44004	une longue charrette
-T3190	le régisseur de M_ de Faverges-359 44062 44075	son régisseur
-T3191	le régisseur de M_ de Faverges-359 47308 47321	Le régisseur 
-T3192	le régisseur de M_ de Faverges-359 46090 46093	Il 
-T3193	le régisseur de M_ de Faverges-359 46856 46869	Le régisseur 
-T3194	le régisseur de M_ de Faverges-359 46010 46024	Son régisseur 
-T3195	SI_794-360 44171 44184	un magistrat 
-T3196	SI_343-361 44189 44197	un dandy
-T3197	le râteleur anglais-362 44516 44535	au râteleur anglais
-T3198	le râteleur anglais-362 44572 44592	un pareil instrument
-T3199	une petite fille-363 44787 44790	sa 
-T3200	une petite fille-363 44648 44653	dont 
-T3201	une petite fille-363 44696 44699	sa 
-T3202	une petite fille-363 44827 44840	cette enfant 
-T3203	une petite fille-363 44876 44878	l'
-T3204	une petite fille-363 44595 44611	Une petite fille
-T3205	une petite fille-363 44766 44771	elle 
-T3206	SI_211-364 45942 45956	un domestique 
-T3207	SI_1154-365 46037 46087	homme à figure chafouine et de façons obséquieuses
-T3208	quatorze moissonneurs-366 46429 46435	leurs 
-T3209	quatorze moissonneurs-366 46292 46299	Chacun 
-T3210	quatorze moissonneurs-366 46369 46373	ils 
-T3211	quatorze moissonneurs-366 46145 46166	quatorze moissonneurs
-T3212	SI_318-367 46577 46591	Le crépuscule 
-T3213	le berger-368 46832 46836	son 
-T3214	le berger-368 46850 46853	lui
-T3215	le berger-368 46760 46769	Le berger
-T3216	tous les bâtiments de la ferme-369 46997 47028	Tous les bâtiments de la ferme 
-T3217	tous les bâtiments de la ferme-369 47048 47059	occupaient 
-T3218	la cour Faverges-370 48924 48932	la cour 
-T3219	la cour Faverges-370 47100 47102	y 
-T3220	la cour Faverges-370 47078 47085	la cour
-T3221	un ruisseau-371 47160 47172	un ruisseau 
-T3222	un ruisseau-371 47172 47175	qu'
-T3223	SI_1250-372 47339 47353	les bergeries 
-T3224	SI_1268-373 47478 47488	La grange 
-T3225	SI_1360-374 47507 47522	une cathédrale 
-T3226	SI_317-375 47613 47626	une servante 
-T3227	SI_132-376 47738 47751	le pigeonnier
-T3228	la bouverie-377 48264 48275	la bouverie
-T3229	la bouverie-377 48441 48443	y 
-T3230	la bouverie-377 48337 48340	sa 
-T3231	la bouverie-377 48349 48352	la 
-T3232	les gens de travail-378 49077 49083	leurs 
-T3233	les gens de travail-378 49035 49055	Les gens de travail 
-T3234	SI_365-379 49251 49258	le soir
-T3235	SI_1357-380 49316 49334	la Maison rustique
-T3236	une carriole-381 49493 49497	que 
-T3237	une carriole-381 49480 49493	une carriole 
-T3238	SI_1417-382 49693 49708	les laboureurs 
-T3239	SI_1556-383 50436 50457	Son notaire de Paris 
-T3240	SI_865-384 50800 50816	deux charretiers
-T3241	SI_782-385 50818 50829	deux femmes
-T3242	SI_275-386 50831 50841	un berger 
-T3243	SI_1340-387 51081 51101	Au mois de novembre 
-T3244	SI_1247-388 51092 51101	novembre 
-T3245	SI_425-389 51648 51665	L'année suivante 
-T3246	SI_571-390 51865 51883	le long de l'année
-T3247	SI_573-391 51885 51894	du matin 
-T3248	SI_666-392 51900 51907	au soir
-T3249	SI_895-393 51971 51985	le même homme 
-T3250	SI_584-394 52294 52317	La fille de basse-cour 
-T3251	SI_572-395 52346 52362	des gens mariés 
-T3252	SI_746-396 52364 52376	les enfants 
-T3253	SI_1281-397 52389 52400	les cousins
-T3254	SI_1397-398 52402 52414	les cousines
-T3255	SI_859-399 52416 52426	les oncles
-T3256	SI_357-400 52428 52445	les belles-sœurs 
-T3257	SI_842-401 52545 52553	le soir 
-T3258	SI_1301-402 52592 52603	la chambre 
-T3259	un batteur en grange-403 52881 52884	tu 
-T3260	un batteur en grange-403 52869 52879	Misérable 
-T3261	un batteur en grange-403 52911 52913	t'
-T3262	un batteur en grange-403 52810 52812	un
-T3263	un batteur en grange-403 52829 52832	le 
-T3264	le village-404 52896 52907	du village 
-T3265	le village-404 52907 52911	qui 
-T3266	SI_1104-405 54455 54465	du perron 
-T3267	SI_208-406 54625 54656	toutes les allées de sable neuf
-T3268	SI_514-407 55955 55971	du bon jardinier
-T3269	SI_1103-408 58027 58053	les jardins de la capitale
-T3270	SI_1398-409 58488 58494	Puvis 
-T3271	SI_1162-410 58510 58526	le manuel Roret 
-T3272	SI_687-411 58575 58583	Franklin
-T3273	SI_51-412 58585 58592	Riéfel 
-T3274	SI_1454-413 58585 58605	Riéfel et M. Rigaud 
-T3275	SI_248-414 58595 58605	M. Rigaud 
-T3276	SI_1502-415 58709 58717	Leclerc 
-T3277	SI_760-416 58768 58777	Gasparin 
-T3278	un Lyonnais-417 58794 58797	qui
-T3279	un Lyonnais-417 58782 58794	un Lyonnais 
-T3280	SI_1496-418 58807 58821	un demi-siècle
-T3281	SI_1324-419 58908 58913	Tull 
-T3282	le major Beetson-420 58985 58989	qui 
-T3283	le major Beetson-420 58968 58985	le major Beetson 
-T3284	SI_792-421 59516 59525	Louis Xv 
-T3285	SI_657-422 59529 59550	un prêtre de Touraine
-T3286	SI_14-423 59542 59550	Touraine
-T3287	SI_727-424 60489 60497	sa cour 
-T3288	SI_556-425 60585 60596	la campagne
-T3289	les pays-426 60879 60882	où 
-T3290	les pays-426 60870 60879	les pays 
-T3291	les paysans-427 61460 61464	les 
-T3292	les paysans-427 61535 61538	eux
-T3293	les paysans-427 61418 61430	les paysans 
-T3294	SI_377-428 61821 61834	des familles 
+T1126	NOM_HIST 15680 15693	la Révolution
+T1127	NOM_FAC 15718 15746	des boutiques de bric-à-brac
+T1128	NAM_FAC 15763 15799	le Conservatoire des arts et métiers
+T1129	NAM_GPE 15801 15812	Saint-Denis
+T1130	NOM_LOC 15814 15826	les Gobelins
+T1131	NAM_FAC 15828 15842	les Invalides 
+T1132	NOM_PER 15967 15981	deux étrangers
+T1133	NAM_PER 15983 15995	deux Anglais
+T1134	NOM_FAC 16003 16025	les galeries du Muséum
+T1135	NAM_FAC 16016 16025	du Muséum
+T1136	NOM_FAC 16243 16262	les serres chaudes 
+T1137	NAM_FAC 16447 16457	au Louvre 
+T1138	NAM_PER 16481 16488	Raphaël
+T1139	NOM_FAC 16492 16514	la grande bibliothèque
+T1140	NOM_FAC 16616 16636	du Collège de France
+T1141	NAM_GPE 16630 16636	France
+T1142	NOM_PER 16641 16655	le professeur 
+T1143	NOM_FAC 16767 16799	les coulisses d'un petit théâtre
+T1144	NOM_FAC 16783 16799	un petit théâtre
+T1145	NAM_FAC 16855 16865	l'Académie
+T1146	None_TIME 17174 17177	où 
+T1147	NOM_TIME 17165 17174	l'époque 
+T1148	NOM_TIME 17224 17239	cette époque-là
+T1149	NOM_LOC 17283 17292	des pays 
+T1150	PRO:PER_LOC 17321 17324	en 
+T1151	NOM_FAC 17544 17552	les rues
+T1152	NOM_FAC 17599 17618	Le quai aux Fleurs 
+T1153	NOM_TIME 17774 17782	du jour 
+T1154	NOM_TIME 17658 17670	Un dimanche 
+T1155	NAM_GPE 17724 17730	Meudon
+T1156	NAM_GPE 17732 17740	Bellevue
+T1157	NAM_GPE 17742 17750	Suresnes
+T1158	NAM_GPE 17752 17759	Auteuil
+T1159	NOM_LOC 17846 17864	au bord des champs
+T1160	NOM_FAC 17932 17947	des guinguettes
+T1161	NOM_TIME 18043 18058	Les lendemains 
+T1162	NOM_FAC 18125 18135	du bureau 
+T1163	PRO:PER_PER 18264 18268	Les 
+T1164	NOM_PER 18241 18262	les mêmes compagnons 
+T1165	PRO:PER_PER 18290 18295	leur 
+T1166	NOM_TIME 18933 18947	Un après-midi 
+T1167	None_TIME 18948 18950	c'
+T1168	NOM_TIME 18956 18974	le 20 janvier 1839
+T1169	NOM_FAC 18993 19006	son comptoir 
+T1170	NOM_PER 19037 19047	le facteur
+T1171	PRO:PER_PER 19193 19196	On 
+T1172	PRO:PER_PER 19268 19271	on 
+T1173	NOM_PER 19141 19152	Les commis 
+T1174	PRO:PER_PER 19170 19173	on 
+T1175	NOM_PER 19212 19222	un médecin
+T1176	NOM_FAC 19439 19464	au ministère de la Marine
+T1177	PRO:PER_PER 19754 19757	Je 
+T1178	None_PER 20091 20095	mes 
+T1179	None_PER 19785 19789	mon 
+T1180	NAM_PER 20107 20115	Tardivel
+T1181	NAM_PER 19687 19698	Me Tardivel
+T1182	NOM_PER 21114 21125	au notaire 
+T1183	NOM_PER 21141 21152	Le notaire 
+T1184	NAM_PER 22514 22522	Tardivel
+T1185	NAM_GPE 19700 19719	Savigny-en-Septaine
+T1186	NOM_TIME 19721 19736	14 janvier 1839
+T1187	NOM_GPE 19917 19935	la ville de Nantes
+T1188	NOM_GPE 19947 19961	cette commune 
+T1189	NAM_GPE 19929 19935	Nantes
+T1190	NOM_PER 20117 20124	notaire
+T1191	NOM_FAC 20180 20187	la cour
+T1192	NOM_ORG 20407 20415	la poste
+T1193	NOM_PER 20476 20486	du notaire
+T1194	NAM_FAC 20693 20710	l'Arc de Triomphe
+T1195	NOM_LOC 20726 20742	le bord de l'eau
+T1196	NAM_FAC 20756 20766	Notre-Dame
+T1197	NOM_TIME 20857 20869	cinq minutes
+T1198	NOM_PER 21468 21477	un neveu 
+T1199	NOM_PER 21515 21524	mon oncle
+T1200	NOM_PER 21633 21657	Ses deux fils légitimes 
+T1201	NOM_PER 22171 22181	des frères
+T1202	NOM_PER 21843 21856	sa cuisinière
+T1203	PRO:PER_PER 21858 21863	Elle 
+T1204	NOM_PER 21897 21907	la famille
+T1205	PRO:PER_PER 22212 22215	il 
+T1206	NOM_PER 22164 22193	L'aîné des frères, M. Étienne
+T1207	None_PER 22342 22355	des ivrognes 
+T1208	NAM_PER 22538 22550	M. Alexandre
+T1209	None_PER 22562 22566	son 
+T1210	PRO:PER_PER 22639 22642	il 
+T1211	NOM_PER 22524 22536	L'autre fils
+T1212	NOM_PER 23028 23047	le sieur Alexandre 
+T1213	None_GPE 22820 22823	où 
+T1214	NOM_GPE 40378 40393	du point de vue
+T1215	NAM_GPE 22809 22816	Savigny
+T1216	NOM_LOC 23561 23569	Le Nord 
+T1217	NAM_LOC 23602 23610	le Midi 
+T1218	None_LOC 23625 23629	son 
+T1219	NOM_LOC 23674 23683	le Centre
+T1220	NAM_GPE 23723 23735	La Bretagne 
+T1221	NOM_LOC 23797 23817	aux régions de l'Est
+T1222	PRO:PER_LOC 23854 23856	y 
+T1223	NOM_LOC 23812 23817	l'Est
+T1224	NAM_GPE 23937 23945	le Forez
+T1225	NAM_GPE 23947 23955	le Bugey
+T1226	NAM_GPE 23957 23968	le Roumois 
+T1227	NOM_FAC 24029 24041	leur maison 
+T1228	NOM_VEH 24337 24349	les charrues
+T1229	NOM_PER 24590 24596	chefs 
+T1230	NOM_FAC 24649 24667	un domicile à eux 
+T1231	NOM_FAC 24702 24717	leur basse-cour
+T1232	NOM_FAC 24734 24745	leur jardin
+T1233	NOM_FAC 25026 25036	une maison
+T1234	NOM_PER 25896 25912	leurs collègues 
+T1235	NOM_TIME 26328 26355	dix-huit mois de recherches
+T1236	NOM_LOC 26412 26438	tous les environs de Paris
+T1237	NAM_GPE 26450 26457	Amiens 
+T1238	NAM_GPE 26465 26471	Évreux
+T1239	NAM_GPE 26479 26493	Fontainebleau 
+T1240	NOM_LOC 26523 26536	une campagne 
+T1241	None_LOC 26536 26540	qui 
+T1242	NOM_FAC 26673 26689	des habitations 
+T1243	NOM_FAC 26899 26915	une manufacture 
+T1244	PRO:PER_LOC 34248 34250	y 
+T1245	None_LOC 27094 27099	Cela 
+T1246	NOM_LOC 27043 27053	un domaine
+T1247	NOM_LOC 37935 37948	la propriété 
+T1248	NAM_GPE 32712 32724	Chavignolles
+T1249	NAM_GPE 58078 58091	Chavignolles 
+T1250	NAM_GPE 39792 39805	Chavignolles 
+T1251	NAM_GPE 29609 29621	Chavignolles
+T1252	NAM_GPE 33392 33404	Chavignolles
+T1253	NAM_GPE 27057 27069	Chavignolles
+T1254	PRO:PER_GPE 32312 32314	y 
+T1255	NAM_GPE 29551 29555	Caen
+T1256	NAM_GPE 27077 27082	Caen 
+T1257	NAM_GPE 32065 32070	Caen 
+T1258	None_GPE 29557 29560	où 
+T1259	NAM_GPE 32292 32296	Caen
+T1260	NAM_GPE 32453 32460	Falaise
+T1261	NAM_GPE 29831 29838	Falaise
+T1262	NAM_GPE 27085 27092	Falaise
+T1263	NOM_FAC 50470 50488	Leur exploitation 
+T1264	None_FAC 27295 27304	la ferme 
+T1265	None_FAC 53112 53120	la ferme
+T1266	NOM_FAC 27113 27146	une ferme de trente-huit hectares
+T1267	NOM_FAC 37068 37078	leur ferme
+T1268	NOM_FAC 27322 27328	l'une 
+T1269	NOM_FAC 52514 52523	la ferme 
+T1270	NOM_FAC 38720 38730	La maison 
+T1271	None_FAC 38776 38779	sa 
+T1272	NOM_FAC 27311 27321	la maison 
+T1273	PRO:PER_FAC 38788 38793	Elle 
+T1274	NOM_FAC 27153 27176	une manière de château 
+T1275	None_FAC 38755 38758	sa 
+T1276	None_FAC 27354 27361	l'autre
+T1277	NOM_FAC 34377 34386	le jardin
+T1278	NOM_FAC 53013 53022	du jardin
+T1279	NOM_FAC 54658 54668	le jardin 
+T1280	NOM_FAC 35910 35920	le jardin 
+T1281	PRO:PER_FAC 53066 53069	le 
+T1282	NOM_FAC 39391 39400	le jardin
+T1283	NOM_FAC 27179 27205	un jardin en plein rapport
+T1284	NOM_FAC 56497 56512	tout le jardin 
+T1285	NOM_GPE 27235 27247	le Calvados 
+T1286	NOM_PER 27605 27613	sa mère 
+T1287	NOM_TIME 27735 27749	la fin de 1840
+T1288	NOM_TIME 27751 27777	six mois avant sa retraite
+T1289	None_TIME 27745 27749	1840
+T1290	NOM_PER 27979 27988	Descambos
+T1291	NOM_PER 28099 28112	ses collègues
+T1292	NOM_FAC 28683 28694	son balcon 
+T1293	NOM_FAC 28757 28767	des quais 
+T1294	NOM_VEH 28804 28816	des omnibus 
+T1295	NOM_TIME 28850 28898	des jours heureux passés dans cette grande ville
+T1296	NOM_LOC 28880 28898	cette grande ville
+T1297	NOM_FAC 28917 28930	au restaurant
+T1298	NOM_TIME 28932 28952	des soirs au théâtre
+T1299	NOM_FAC 28942 28952	au théâtre
+T1300	NOM_FAC 29145 29155	sa chambre
+T1301	NAM_LOC 29494 29502	la Seine
+T1302	NOM_VEH 30800 30810	du chariot
+T1303	NOM_VEH 32885 32895	le chariot
+T1304	None_VEH 29784 29788	qui 
+T1305	NOM_VEH 29756 29784	une voiture de déménagement 
+T1306	NAM_GPE 29807 29817	Nonancourt
+T1307	NAM_GPE 29819 29828	Verneuil 
+T1308	NOM_PER 30230 30244	le conducteur 
+T1309	NOM_PER 29893 29906	du conducteur
+T1310	NOM_TIME 30029 30048	le dimanche 20 mars
+T1311	NOM_PER 31296 31307	les hommes 
+T1312	NOM_PER 31627 31646	ces deux imbéciles 
+T1313	PRO:PER_PER 30315 30319	ils 
+T1314	PRO:PER_PER 31328 31333	leur 
+T1315	NOM_PER 30230 30260	le conducteur et le charretier
+T1316	PRO:PER_PER 30262 30266	Ils 
+T1317	PRO:PER_PER 31376 31380	ils 
+T1318	NOM_PER 31690 31704	du charretier 
+T1319	PRO:PER_PER 61337 61339	t'
+T1320	None_PER 31704 31708	qui 
+T1321	PRO:PER_PER 61371 61375	-moi
+T1322	NOM_PER 30247 30260	le charretier
+T1323	NOM_PER 61297 61311	le charretier 
+T1324	NOM_FAC 30282 30301	exécrables auberges
+T1325	NOM_FAC 30388 30403	les mêmes gîtes
+T1326	NOM_TIME 30437 30444	l'aube 
+T1327	None_FAC 30468 30475	la même
+T1328	NOM_FAC 30449 30457	la route
+T1329	NOM_LOC 30601 30613	la campagne 
+T1330	NOM_VEH 30860 30869	un navire
+T1331	NAM_GPE 31432 31441	Gauburge 
+T1332	NOM_TIME 31651 31671	la journée suivante 
+T1333	NOM_TIME 31831 31846	le surlendemain
+T1334	NOM_FAC 31905 31929	la cour des Messageries 
+T1335	NOM_FAC 31975 31998	la cathédrale de Rouen 
+T1336	NAM_GPE 31992 31998	Rouen 
+T1337	NOM_VEH 32021 32030	diligence
+T1338	NOM_TIME 32033 32040	Le soir
+T1339	NOM_FAC 32119 32138	au théâtre des Arts
+T1340	NOM_PER 32157 32168	ses voisins
+T1341	NOM_LOC 32234 32258	un domaine aux alentours
+T1342	NOM_TIME 32278 32290	le vendredi 
+T1343	NOM_TIME 32340 32352	le dimanche 
+T1344	NOM_VEH 32371 32384	une charrette
+T1345	NOM_PER 37150 37160	le fermier
+T1346	PRO:PER_PER 50252 50255	il 
+T1347	NOM_PER 38396 38408	maître Gouy 
+T1348	NOM_PER 37975 37987	Maître Gouy 
+T1349	NOM_PER 49881 49892	le fermier 
+T1350	None_PER 50197 50204	laissa 
+T1351	NOM_PER 50164 50176	maître Gouy 
+T1352	NOM_PER 37162 37173	maître Gouy
+T1353	PRO:PER_PER 49994 49997	il 
+T1354	None_PER 49851 49855	son 
+T1355	NOM_PER 37314 37322	L'homme 
+T1356	PRO:PER_PER 49913 49916	Il 
+T1357	NOM_PER 49795 49807	maître Gouy 
+T1358	None_PER 37990 37994	son 
+T1359	NOM_PER 32400 32411	le fermier 
+T1360	None_PER 49901 49904	sa 
+T1361	None_PER 50059 50062	sa 
+T1362	None_PER 50234 50240	ruina 
+T1363	NOM_TIME 32433 32448	quelques heures
+T1364	NOM_TIME 32462 32492	le neuvième jour de son voyage
+T1365	NAM_GPE 32587 32598	Bretteville
+T1366	NOM_FAC 32613 32627	la grand'route
+T1367	NOM_FAC 32647 32668	un chemin de traverse
+T1368	NOM_TIME 32685 32699	chaque minute 
+T1369	NOM_FAC 32699 32724	le pignon de Chavignolles
+T1370	PRO:PER_FAC 32764 32770	elles 
+T1371	NOM_FAC 32736 32749	les ornières 
+T1372	NOM_LOC 32804 32833	au milieu des champs labourés
+T1373	NOM_TIME 32835 32843	La nuit 
+T1374	NOM_FAC 32983 32993	des fermes
+T1375	NOM_FAC 33062 33070	sa route
+T1376	NOM_VEH 33180 33192	un cabriolet
+T1377	PRO:PER_VEH 33208 33211	le 
+T1378	NOM_TIME 33303 33313	une heure 
+T1379	PRO:PER_FAC 33494 33496	y 
+T1380	NOM_FAC 33470 33478	la salle
+T1381	NOM_FAC 33559 33571	le vestibule
+T1382	None_PER 36982 36995	aurait voulu 
+T1383	PRO:PER_PER 36886 36890	elle
+T1384	NAM_PER 52624 52632	Germaine
+T1385	PRO:PER_PER 37035 37037	l'
+T1386	None_PER 52634 52638	qui 
+T1387	NOM_PER 33692 33709	La vieille femme 
+T1388	PRO:PER_PER 36895 36897	l'
+T1389	None_PER 33709 33713	qui 
+T1390	None_PER 36939 36943	son 
+T1391	PRO:PER_PER 36949 36954	Elle 
+T1392	NOM_PER 36510 36530	La vieille servante 
+T1393	NOM_FAC 34641 34654	les espaliers
+T1394	NOM_TIME 34889 34897	La nuit 
+T1395	PRO:PER_FAC 35051 35057	elles 
+T1396	NOM_FAC 35017 35037	Leurs deux chambres 
+T1397	NOM_LOC 35489 35496	la lune
+T1398	NOM_TIME 35542 35555	le lendemain 
+T1399	NOM_LOC 35756 35766	les champs
+T1400	NOM_FAC 35777 35787	une grange
+T1401	NOM_FAC 35794 35817	le clocher de l'église 
+T1402	NOM_FAC 35808 35817	l'église 
+T1403	NOM_FAC 35856 35879	Deux allées principales
+T1404	NOM_FAC 36144 36158	les espaliers 
+T1405	NOM_FAC 36245 36254	un verger
+T1406	NOM_LOC 36276 36287	un bosquet 
+T1407	NOM_FAC 36436 36446	le sentier
+T1408	NOM_FAC 36314 36329	un petit chemin
+T1409	NOM_PER 36370 36429	un homme à chevelure grisonnante et vêtu d'un paletot noir 
+T1410	None_PER 36546 36548	c'
+T1411	NAM_PER 36554 36567	M. Vaucorbeil
+T1412	None_PER 36464 36467	sa 
+T1413	NOM_PER 36611 36631	Les autres notables 
+T1414	PRO:PER_PER 45232 45235	il 
+T1415	None_PER 44062 44066	son 
+T1416	PRO:PER_PER 44078 44081	Il 
+T1417	PRO:PER_PER 44933 44936	Il 
+T1418	PRO:PER_PER 45897 45900	il 
+T1419	None_PER 45218 45222	ses 
+T1420	None_PER 44980 44988	proféra 
+T1421	None_PER 36684 36689	dont 
+T1422	PRO:PER_PER 45961 45964	le 
+T1423	PRO:PER_PER 44302 44305	il 
+T1424	NOM_PER 44032 44044	M. le comte 
+T1425	None_PER 45868 45871	ma 
+T1426	None_PER 44312 44316	son 
+T1427	NOM_PER 36641 36661	le comte de Faverges
+T1428	PRO:PER_PER 45415 45418	me 
+T1429	None_PER 45065 45068	sa 
+T1430	None_PER 44213 44216	sa 
+T1431	NOM_PER 45812 45820	le comte
+T1432	PRO:PER_PER 46024 46027	le 
+T1433	None_PER 45830 45834	mes 
+T1434	None_PER 42850 42854	son 
+T1435	NOM_PER 42868 42877	Le comte 
+T1436	NOM_PER 44798 44807	Le comte 
+T1437	PRO:PER_PER 44235 44238	il 
+T1438	PRO:PER_PER 45822 45825	je 
+T1439	None_PER 46010 46014	Son 
+T1440	PRO:PER_PER 45993 45997	lui 
+T1441	NOM_PER 42814 42829	M. de Faverges 
+T1442	NAM_GPE 36653 36661	Faverges
+T1443	NOM_PER 36715 36723	le maire
+T1444	NAM_PER 36725 36735	M. Foureau
+T1445	None_PER 36737 36741	qui 
+T1446	NAM_PER 36794 36806	M. Marescot 
+T1447	NOM_PER 36819 36833	l'abbé Jeufroy
+T1448	PRO:PER_PER 41865 41870	elle 
+T1449	PRO:PER_PER 41739 41744	elle 
+T1450	None_PER 41853 41857	son 
+T1451	NOM_PER 41784 41798	cette personne
+T1452	NOM_PER 41657 41667	Mme Bordin
+T1453	NOM_PER 36838 36854	Mme veuve Bordin
+T1454	PRO:PER_PER 41715 41720	elle 
+T1455	None_PER 41832 41836	ses 
+T1456	None_PER 36866 36870	son 
+T1457	NAM_PER 36906 36914	Germaine
+T1458	NAM_PER 36927 36947	feu Germain son mari
+T1459	NOM_TIME 36962 36975	des journées 
+T1460	NOM_FAC 37141 37148	la cour
+T1461	NOM_PER 37193 37203	un garçon 
+T1462	NOM_PER 37206 37217	la fermière
+T1463	NOM_PER 37987 38001	et son épouse 
+T1464	None_PER 37250 37254	ses 
+T1465	NOM_PER 50059 50068	sa femme 
+T1466	NOM_PER 37401 37410	La femme 
+T1467	PRO:PER_PER 37274 37279	elle 
+T1468	NOM_PER 37505 37517	aux manants 
+T1469	NOM_FAC 37532 37543	des églises
+T1470	NOM_FAC 37551 37561	la cuisine
+T1471	NOM_FAC 37655 37672	la haute cheminée
+T1472	NOM_FAC 38056 38074	Tous les bâtiments
+T1473	NOM_FAC 38083 38099	la charretterie 
+T1474	NOM_FAC 38107 38120	la bouillerie
+T1475	NOM_FAC 38180 38195	une succursale 
+T1476	NOM_LOC 38290 38298	la mare 
+T1477	NOM_FAC 38345 38360	les trois cours
+T1478	PRO:PER_PER 38371 38374	on 
+T1479	PRO:PER_PER 38660 38664	Ils 
+T1480	NOM_FAC 38381 38394	les cultures 
+T1481	PRO:PER_FAC 38408 38412	les 
+T1482	PRO:PER_FAC 38422 38428	Elles 
+T1483	NOM_VEH 38455 38468	les charrois 
+T1484	NOM_LOC 38557 38570	les prairies 
+T1485	NOM_FAC 38683 38691	la cavée
+T1486	NOM_FAC 38698 38718	une avenue de hêtres
+T1487	NOM_FAC 38755 38773	sa cour d'honneur 
+T1488	NOM_FAC 39145 39152	la cour
+T1489	NOM_FAC 38755 38785	sa cour d'honneur et sa façade
+T1490	NOM_FAC 38853 38863	Le hangar 
+T1491	NOM_FAC 38853 38876	Le hangar et le cellier
+T1492	NOM_FAC 38866 38876	le cellier
+T1493	NOM_FAC 38878 38889	le fournil 
+T1494	NOM_FAC 38878 38902	le fournil et le bûcher 
+T1495	NOM_FAC 57589 57599	la cuisine
+T1496	NOM_FAC 40961 40972	la cuisine 
+T1497	NOM_FAC 42087 42097	la cuisine
+T1498	NOM_FAC 38946 38957	La cuisine 
+T1499	NOM_FAC 38975 38991	une petite salle
+T1500	NOM_FAC 39016 39028	le vestibule
+T1501	NOM_FAC 39030 39060	une deuxième salle plus grande
+T1502	NOM_FAC 39062 39070	le salon
+T1503	NOM_FAC 39072 39092	Les quatre chambres 
+T1504	NOM_FAC 42148 42160	les chambres
+T1505	PRO:PER_FAC 39163 39166	en 
+T1506	None_FAC 39131 39135	qui 
+T1507	NOM_FAC 39119 39131	le corridor 
+T1508	NOM_FAC 39225 39241	la bibliothèque 
+T1509	NOM_TIME 39722 39745	plus de trois semaines 
+T1510	NOM_PER 39775 39805	les bourgeois de Chavignolles 
+T1511	NOM_PER 39927 39941	La population 
+T1512	NOM_FAC 40972 40985	un large trou
+T1513	PRO:PER_FAC 40990 40993	le 
+T1514	NOM_FAC 41219 41227	la fosse
+T1515	NOM_PER 41399 41416	Les cultivateurs 
+T1516	NOM_PER 41437 41453	les aubergistes 
+T1517	NOM_TIME 42222 42234	la mi-carême
+T1518	NOM_TIME 42251 42263	le printemps
+T1519	NOM_TIME 42279 42292	chaque matin 
+T1520	NOM_FAC 42618 42628	leur ferme
+T1521	None_PER 42750 42761	les autres 
+T1522	NOM_TIME 42925 42944	une heure de marche
+T1523	None_LOC 42988 42992	qui 
+T1524	NOM_LOC 42978 42988	un coteau 
+T1525	NOM_LOC 42999 43018	la vallée de l'Orne
+T1526	PRO:PER_LOC 43095 43097	y 
+T1527	None_LOC 43643 43646	où 
+T1528	NAM_LOC 43012 43018	l'Orne
+T1529	NOM_LOC 43020 43031	La rivière 
+T1530	NOM_LOC 43631 43641	la rivière
+T1531	NOM_LOC 43251 43266	l'autre colline
+T1532	NOM_FAC 43315 43326	les maisons
+T1533	None_FAC 47019 47028	la ferme 
+T1534	None_FAC 43510 43518	la ferme
+T1535	None_FAC 48246 48254	la ferme
+T1536	NOM_FAC 43520 43548	Le château à façade blanche 
+T1537	NOM_FAC 45997 46007	au château
+T1538	NOM_LOC 43580 43588	un bois 
+T1539	NOM_PER 43747 43758	Des femmes 
+T1540	NOM_PER 44863 44876	Les faneuses 
+T1541	NOM_PER 44721 44731	aux femmes
+T1542	PRO:PER_PER 44902 44906	les 
+T1543	NOM_VEH 43984 44004	une longue charrette
+T1544	NOM_PER 44062 44075	son régisseur
+T1545	NOM_PER 47308 47321	Le régisseur 
+T1546	PRO:PER_PER 46090 46093	Il 
+T1547	NOM_PER 46856 46869	Le régisseur 
+T1548	NOM_PER 46010 46024	Son régisseur 
+T1549	NOM_PER 44171 44184	un magistrat 
+T1550	NOM_PER 44189 44197	un dandy
+T1551	NOM_PER 44516 44535	au râteleur anglais
+T1552	NOM_PER 44572 44592	un pareil instrument
+T1553	None_PER 44787 44790	sa 
+T1554	None_PER 44648 44653	dont 
+T1555	None_PER 44696 44699	sa 
+T1556	NOM_PER 44827 44840	cette enfant 
+T1557	PRO:PER_PER 44876 44878	l'
+T1558	NOM_PER 44595 44611	Une petite fille
+T1559	PRO:PER_PER 44766 44771	elle 
+T1560	NOM_PER 45942 45956	un domestique 
+T1561	NOM_PER 46037 46087	homme à figure chafouine et de façons obséquieuses
+T1562	None_PER 46429 46435	leurs 
+T1563	None_PER 46292 46299	Chacun 
+T1564	PRO:PER_PER 46369 46373	ils 
+T1565	NOM_PER 46145 46166	quatorze moissonneurs
+T1566	NOM_TIME 46577 46591	Le crépuscule 
+T1567	None_PER 46832 46836	son 
+T1568	PRO:PER_PER 46850 46853	lui
+T1569	NOM_PER 46760 46769	Le berger
+T1570	NOM_FAC 46997 47028	Tous les bâtiments de la ferme 
+T1571	None_FAC 47048 47059	occupaient 
+T1572	NOM_FAC 48924 48932	la cour 
+T1573	PRO:PER_FAC 47100 47102	y 
+T1574	NOM_FAC 47078 47085	la cour
+T1575	NOM_LOC 47160 47172	un ruisseau 
+T1576	None_LOC 47172 47175	qu'
+T1577	NOM_FAC 47339 47353	les bergeries 
+T1578	NOM_FAC 47478 47488	La grange 
+T1579	NOM_FAC 47507 47522	une cathédrale 
+T1580	NOM_PER 47613 47626	une servante 
+T1581	NOM_FAC 47738 47751	le pigeonnier
+T1582	NOM_FAC 48264 48275	la bouverie
+T1583	PRO:PER_FAC 48441 48443	y 
+T1584	None_FAC 48337 48340	sa 
+T1585	PRO:PER_FAC 48349 48352	la 
+T1586	None_PER 49077 49083	leurs 
+T1587	NOM_PER 49035 49055	Les gens de travail 
+T1588	NOM_TIME 49251 49258	le soir
+T1589	NOM_FAC 49316 49334	la Maison rustique
+T1590	None_VEH 49493 49497	que 
+T1591	NOM_VEH 49480 49493	une carriole 
+T1592	NOM_PER 49693 49708	les laboureurs 
+T1593	NOM_PER 50436 50457	Son notaire de Paris 
+T1594	NOM_PER 50800 50816	deux charretiers
+T1595	NOM_PER 50818 50829	deux femmes
+T1596	NOM_PER 50831 50841	un berger 
+T1597	NOM_TIME 51081 51101	Au mois de novembre 
+T1598	NOM_TIME 51092 51101	novembre 
+T1599	NOM_TIME 51648 51665	L'année suivante 
+T1600	NOM_TIME 51865 51883	le long de l'année
+T1601	NOM_TIME 51885 51894	du matin 
+T1602	NOM_TIME 51900 51907	au soir
+T1603	NOM_PER 51971 51985	le même homme 
+T1604	NOM_PER 52294 52317	La fille de basse-cour 
+T1605	NOM_PER 52346 52362	des gens mariés 
+T1606	NOM_PER 52364 52376	les enfants 
+T1607	NOM_PER 52389 52400	les cousins
+T1608	NOM_PER 52402 52414	les cousines
+T1609	NOM_PER 52416 52426	les oncles
+T1610	NOM_PER 52428 52445	les belles-sœurs 
+T1611	NOM_TIME 52545 52553	le soir 
+T1612	NOM_FAC 52592 52603	la chambre 
+T1613	PRO:PER_PER 52881 52884	tu 
+T1614	None_PER 52869 52879	Misérable 
+T1615	PRO:PER_PER 52911 52913	t'
+T1616	None_PER 52810 52812	un
+T1617	PRO:PER_PER 52829 52832	le 
+T1618	NOM_GPE 52896 52907	du village 
+T1619	None_GPE 52907 52911	qui 
+T1620	NOM_FAC 54455 54465	du perron 
+T1621	NOM_FAC 54625 54656	toutes les allées de sable neuf
+T1622	NOM_PER 55955 55971	du bon jardinier
+T1623	NOM_FAC 58027 58053	les jardins de la capitale
+T1624	NAM_PER 58488 58494	Puvis 
+T1625	NAM_PER 58510 58526	le manuel Roret 
+T1626	NAM_PER 58575 58583	Franklin
+T1627	NAM_PER 58585 58592	Riéfel 
+T1628	NAM_PER 58585 58605	Riéfel et M. Rigaud 
+T1629	NAM_PER 58595 58605	M. Rigaud 
+T1630	NAM_PER 58709 58717	Leclerc 
+T1631	NAM_PER 58768 58777	Gasparin 
+T1632	None_PER 58794 58797	qui
+T1633	NAM_PER 58782 58794	un Lyonnais 
+T1634	NOM_TIME 58807 58821	un demi-siècle
+T1635	NAM_PER 58908 58913	Tull 
+T1636	None_PER 58985 58989	qui 
+T1637	NAM_PER 58968 58985	le major Beetson 
+T1638	NAM_PER 59516 59525	Louis Xv 
+T1639	NOM_PER 59529 59550	un prêtre de Touraine
+T1640	NAM_GPE 59542 59550	Touraine
+T1641	NOM_FAC 60489 60497	sa cour 
+T1642	NOM_LOC 60585 60596	la campagne
+T1643	None_LOC 60879 60882	où 
+T1644	NOM_LOC 60870 60879	les pays 
+T1645	PRO:PER_PER 61460 61464	les 
+T1646	PRO:PER_PER 61535 61538	eux
+T1647	NOM_PER 61418 61430	les paysans 
+T1648	NOM_PER 61821 61834	des familles 
+T1649	SI_1576-1 0 19	Bouvard et Pécuchet
+T1650	boulevard Bourdon-2 90 111	le boulevard Bourdon 
+T1651	boulevard Bourdon-2 5571 5583	du boulevard
+T1652	boulevard Bourdon-2 1077 1089	du boulevard
+T1653	boulevard Bourdon-2 4571 4600	l'avenue des maigres ormeaux 
+T1654	canal Saint-Martin-3 228 232	son 
+T1655	canal Saint-Martin-3 349 357	du canal
+T1656	canal Saint-Martin-3 153 174	le canal Saint-Martin
+T1657	SI_1447-4 186 202	les deux écluses
+T1658	SI_17-5 274 297	un bateau plein de bois
+T1659	SI_126-6 306 315	la berge 
+T1660	les maisons-7 377 381	que 
+T1661	les maisons-7 365 377	les maisons 
+T1662	SI_715-8 390 403	des chantiers
+T1663	le soleil-9 51927 51936	le soleil
+T1664	le soleil-9 484 493	du soleil
+T1665	le soleil-9 57361 57370	au soleil
+T1666	le soleil-9 39975 39984	du soleil
+T1667	le soleil-9 32550 32560	du soleil 
+T1668	SI_913-10 539 559	les quais de granit 
+T1669	Bouvard et Pécuchet-11 58325 58329	Ils 
+T1670	Bouvard et Pécuchet-11 58409 58418	savaient 
+T1671	Bouvard et Pécuchet-11 52466 52472	leurs 
+T1672	Bouvard et Pécuchet-11 39875 39879	Ils 
+T1673	Bouvard et Pécuchet-11 20672 20676	Ils 
+T1674	Bouvard et Pécuchet-11 20657 20662	leur 
+T1675	Bouvard et Pécuchet-11 58359 58369	ouvraient 
+T1676	Bouvard et Pécuchet-11 34624 34628	ils 
+T1677	Bouvard et Pécuchet-11 24102 24106	ils 
+T1678	Bouvard et Pécuchet-11 39816 39820	les 
+T1679	Bouvard et Pécuchet-11 52334 52338	Ils 
+T1680	Bouvard et Pécuchet-11 24129 24133	ils 
+T1681	Bouvard et Pécuchet-11 34478 34493	se promenèrent 
+T1682	Bouvard et Pécuchet-11 37871 37890	Les deux Parisiens 
+T1683	Bouvard et Pécuchet-11 25867 25872	leur 
+T1684	Bouvard et Pécuchet-11 25896 25902	leurs 
+T1685	Bouvard et Pécuchet-11 36332 36336	Ils 
+T1686	Bouvard et Pécuchet-11 20629 20635	leurs 
+T1687	Bouvard et Pécuchet-11 37907 37912	leur 
+T1688	Bouvard et Pécuchet-11 34520 34524	Ils 
+T1689	Bouvard et Pécuchet-11 39842 39846	les 
+T1690	Bouvard et Pécuchet-11 47598 47611	les messieurs
+T1691	Bouvard et Pécuchet-11 13733 13737	Ils 
+T1692	Bouvard et Pécuchet-11 13680 13685	leur 
+T1693	Bouvard et Pécuchet-11 25823 25827	Ils 
+T1694	Bouvard et Pécuchet-11 20539 20543	ils 
+T1695	Bouvard et Pécuchet-11 52214 52229	administraient 
+T1696	Bouvard et Pécuchet-11 24029 24034	leur 
+T1697	Bouvard et Pécuchet-11 49190 49194	ils 
+T1698	Bouvard et Pécuchet-11 52769 52774	leur 
+T1699	Bouvard et Pécuchet-11 21017 21021	Ils 
+T1700	Bouvard et Pécuchet-11 15696 15700	Ils 
+T1701	Bouvard et Pécuchet-11 17618 17622	les 
+T1702	Bouvard et Pécuchet-11 14063 14067	ils 
+T1703	Bouvard et Pécuchet-11 50906 50910	ils 
+T1704	Bouvard et Pécuchet-11 52690 52694	les 
+T1705	Bouvard et Pécuchet-11 24395 24409	regarderaient 
+T1706	Bouvard et Pécuchet-11 34827 34833	leurs 
+T1707	Bouvard et Pécuchet-11 17526 17530	les 
+T1708	Bouvard et Pécuchet-11 20919 20922	eux
+T1709	Bouvard et Pécuchet-11 50941 50945	les 
+T1710	Bouvard et Pécuchet-11 50955 50959	eux 
+T1711	Bouvard et Pécuchet-11 17554 17558	ils 
+T1712	Bouvard et Pécuchet-11 20897 20901	Ils 
+T1713	Bouvard et Pécuchet-11 50920 50926	leurs 
+T1714	Bouvard et Pécuchet-11 10734 10738	ils 
+T1715	Bouvard et Pécuchet-11 14119 14124	leur 
+T1716	Bouvard et Pécuchet-11 14092 14096	ils 
+T1717	Bouvard et Pécuchet-11 24351 24359	iraient 
+T1718	Bouvard et Pécuchet-11 17472 17476	ils 
+T1719	Bouvard et Pécuchet-11 10833 10840	chacun 
+T1720	Bouvard et Pécuchet-11 14191 14195	ils 
+T1721	Bouvard et Pécuchet-11 10820 10824	les 
+T1722	Bouvard et Pécuchet-11 10797 10802	leur 
+T1723	Bouvard et Pécuchet-11 52603 52607	les 
+T1724	Bouvard et Pécuchet-11 17315 17319	ils 
+T1725	Bouvard et Pécuchet-11 2705 2711	leurs 
+T1726	Bouvard et Pécuchet-11 52483 52487	ils 
+T1727	Bouvard et Pécuchet-11 24280 24284	Ils 
+T1728	Bouvard et Pécuchet-11 20712 20722	revinrent 
+T1729	Bouvard et Pécuchet-11 38001 38005	les 
+T1730	Bouvard et Pécuchet-11 22465 22469	Ils 
+T1731	Bouvard et Pécuchet-11 34777 34782	leur 
+T1732	Bouvard et Pécuchet-11 20744 20756	dépassèrent 
+T1733	Bouvard et Pécuchet-11 36530 36535	leur 
+T1734	Bouvard et Pécuchet-11 17411 17416	leur 
+T1735	Bouvard et Pécuchet-11 52553 52557	ils 
+T1736	Bouvard et Pécuchet-11 17391 17395	eux 
+T1737	Bouvard et Pécuchet-11 35252 35257	leur 
+T1738	Bouvard et Pécuchet-11 35298 35311	s'endormirent
+T1739	Bouvard et Pécuchet-11 5390 5394	ils 
+T1740	Bouvard et Pécuchet-11 51318 51328	portaient 
+T1741	Bouvard et Pécuchet-11 35262 35266	ils 
+T1742	Bouvard et Pécuchet-11 5345 5349	ils 
+T1743	Bouvard et Pécuchet-11 17905 17915	mangèrent 
+T1744	Bouvard et Pécuchet-11 51292 51306	surveillaient 
+T1745	Bouvard et Pécuchet-11 33591 33595	Ils 
+T1746	Bouvard et Pécuchet-11 16027 16031	ils 
+T1747	Bouvard et Pécuchet-11 49379 49392	s'abonnèrent 
+T1748	Bouvard et Pécuchet-11 15914 15918	ils 
+T1749	Bouvard et Pécuchet-11 17818 17830	arrachèrent 
+T1750	Bouvard et Pécuchet-11 15898 15903	leur 
+T1751	Bouvard et Pécuchet-11 35184 35188	Ils 
+T1752	Bouvard et Pécuchet-11 51268 51278	puchaient 
+T1753	Bouvard et Pécuchet-11 17866 17876	dormirent 
+T1754	Bouvard et Pécuchet-11 49465 49469	ils 
+T1755	Bouvard et Pécuchet-11 51234 51238	Ils 
+T1756	Bouvard et Pécuchet-11 5546 5559	avaient fait 
+T1757	Bouvard et Pécuchet-11 5526 5543	s'étaient rassis 
+T1758	Bouvard et Pécuchet-11 49336 49346	se firent 
+T1759	Bouvard et Pécuchet-11 7283 7287	ils 
+T1760	Bouvard et Pécuchet-11 5505 5509	ils 
+T1761	Bouvard et Pécuchet-11 17782 17786	ils 
+T1762	Bouvard et Pécuchet-11 40220 40224	ils 
+T1763	Bouvard et Pécuchet-11 49222 49227	leur 
+T1764	Bouvard et Pécuchet-11 17670 17674	ils 
+T1765	Bouvard et Pécuchet-11 40237 40247	sarclaient
+T1766	Bouvard et Pécuchet-11 49205 49209	les 
+T1767	Bouvard et Pécuchet-11 33313 33317	ils 
+T1768	Bouvard et Pécuchet-11 51013 51018	leur 
+T1769	Bouvard et Pécuchet-11 15748 15752	Ils 
+T1770	Bouvard et Pécuchet-11 35017 35023	Leurs 
+T1771	Bouvard et Pécuchet-11 49276 49281	leur 
+T1772	Bouvard et Pécuchet-11 49260 49264	ils 
+T1773	Bouvard et Pécuchet-11 51101 51105	ils 
+T1774	Bouvard et Pécuchet-11 5752 5758	leurs 
+T1775	Bouvard et Pécuchet-11 51571 51575	ils 
+T1776	Bouvard et Pécuchet-11 3768 3772	ils 
+T1777	Bouvard et Pécuchet-11 49810 49816	leurs 
+T1778	Bouvard et Pécuchet-11 3724 3744	Bouvard et Pécuchet 
+T1779	Bouvard et Pécuchet-11 16359 16363	ils 
+T1780	Bouvard et Pécuchet-11 37122 37126	ils 
+T1781	Bouvard et Pécuchet-11 46105 46119	ces messieurs 
+T1782	Bouvard et Pécuchet-11 33888 33892	les 
+T1783	Bouvard et Pécuchet-11 5721 5725	Ils 
+T1784	Bouvard et Pécuchet-11 51665 51669	ils 
+T1785	Bouvard et Pécuchet-11 35447 35461	tous les deux 
+T1786	Bouvard et Pécuchet-11 51538 51542	ils 
+T1787	Bouvard et Pécuchet-11 49779 49783	ils 
+T1788	Bouvard et Pécuchet-11 33783 33787	Ils 
+T1789	Bouvard et Pécuchet-11 49714 49725	manquaient 
+T1790	Bouvard et Pécuchet-11 51509 51513	ils 
+T1791	Bouvard et Pécuchet-11 18135 18140	leur 
+T1792	Bouvard et Pécuchet-11 37068 37073	leur 
+T1793	Bouvard et Pécuchet-11 16281 16291	frémirent 
+T1794	Bouvard et Pécuchet-11 33770 33776	leurs 
+T1795	Bouvard et Pécuchet-11 18001 18005	Ils 
+T1796	Bouvard et Pécuchet-11 59135 59139	Ils 
+T1797	Bouvard et Pécuchet-11 49678 49693	questionnaient 
+T1798	Bouvard et Pécuchet-11 18081 18085	ils 
+T1799	Bouvard et Pécuchet-11 51468 51474	leurs 
+T1800	Bouvard et Pécuchet-11 37053 37063	partirent 
+T1801	Bouvard et Pécuchet-11 16179 16183	les 
+T1802	Bouvard et Pécuchet-11 51430 51434	ils 
+T1803	Bouvard et Pécuchet-11 37016 37029	ces messieurs
+T1804	Bouvard et Pécuchet-11 49644 49648	ils 
+T1805	Bouvard et Pécuchet-11 16227 16231	Ils 
+T1806	Bouvard et Pécuchet-11 16215 16219	les 
+T1807	Bouvard et Pécuchet-11 37031 37035	Ils 
+T1808	Bouvard et Pécuchet-11 14403 14409	leurs 
+T1809	Bouvard et Pécuchet-11 59070 59074	ils 
+T1810	Bouvard et Pécuchet-11 47692 47697	leur 
+T1811	Bouvard et Pécuchet-11 17952 17963	rentrèrent 
+T1812	Bouvard et Pécuchet-11 47719 47723	ils 
+T1813	Bouvard et Pécuchet-11 5828 5833	nous 
+T1814	Bouvard et Pécuchet-11 33614 33619	leur 
+T1815	Bouvard et Pécuchet-11 51346 51358	s'amusaient 
+T1816	Bouvard et Pécuchet-11 47778 47782	les 
+T1817	Bouvard et Pécuchet-11 25912 25916	les 
+T1818	Bouvard et Pécuchet-11 53122 53126	Ils 
+T1819	Bouvard et Pécuchet-11 18517 18521	ils 
+T1820	Bouvard et Pécuchet-11 18493 18497	les 
+T1821	Bouvard et Pécuchet-11 34138 34143	leur 
+T1822	Bouvard et Pécuchet-11 18548 18552	ils 
+T1823	Bouvard et Pécuchet-11 34152 34156	ils 
+T1824	Bouvard et Pécuchet-11 16692 16696	qui 
+T1825	Bouvard et Pécuchet-11 34220 34224	ils 
+T1826	Bouvard et Pécuchet-11 16674 16692	ces deux inconnus 
+T1827	Bouvard et Pécuchet-11 46443 46456	se sentaient 
+T1828	Bouvard et Pécuchet-11 34187 34192	leur 
+T1829	Bouvard et Pécuchet-11 18584 18597	s'exaltaient 
+T1830	Bouvard et Pécuchet-11 2896 2900	Ils 
+T1831	Bouvard et Pécuchet-11 18481 18486	leur 
+T1832	Bouvard et Pécuchet-11 24702 24707	leur 
+T1833	Bouvard et Pécuchet-11 40286 40297	mangeaient 
+T1834	Bouvard et Pécuchet-11 40326 40335	allaient 
+T1835	Bouvard et Pécuchet-11 24734 24739	leur 
+T1836	Bouvard et Pécuchet-11 42063 42067	Ils 
+T1837	Bouvard et Pécuchet-11 16585 16589	ils 
+T1838	Bouvard et Pécuchet-11 46399 46418	Les deux Parisiens 
+T1839	Bouvard et Pécuchet-11 24631 24635	ils 
+T1840	Bouvard et Pécuchet-11 34124 34128	Ils 
+T1841	Bouvard et Pécuchet-11 26357 26361	ils 
+T1842	Bouvard et Pécuchet-11 24663 24667	eux 
+T1843	Bouvard et Pécuchet-11 40249 40259	émondaient
+T1844	Bouvard et Pécuchet-11 26384 26388	Ils 
+T1845	Bouvard et Pécuchet-11 24672 24676	ils 
+T1846	Bouvard et Pécuchet-11 40261 40274	s'imposaient 
+T1847	Bouvard et Pécuchet-11 18329 18334	leur 
+T1848	Bouvard et Pécuchet-11 2937 2941	ils 
+T1849	Bouvard et Pécuchet-11 2955 2959	eux 
+T1850	Bouvard et Pécuchet-11 18357 18361	Ils 
+T1851	Bouvard et Pécuchet-11 35628 35632	ils 
+T1852	Bouvard et Pécuchet-11 51755 51759	ils 
+T1853	Bouvard et Pécuchet-11 16516 16520	ils 
+T1854	Bouvard et Pécuchet-11 18405 18414	reçurent 
+T1855	Bouvard et Pécuchet-11 34076 34082	Leurs 
+T1856	Bouvard et Pécuchet-11 51787 51791	ils 
+T1857	Bouvard et Pécuchet-11 18440 18444	ils 
+T1858	Bouvard et Pécuchet-11 35660 35665	leur 
+T1859	Bouvard et Pécuchet-11 35681 35685	ils 
+T1860	Bouvard et Pécuchet-11 4937 4943	Leurs 
+T1861	Bouvard et Pécuchet-11 16429 16433	Ils 
+T1862	Bouvard et Pécuchet-11 33962 33966	ils 
+T1863	Bouvard et Pécuchet-11 18286 18290	ils 
+T1864	Bouvard et Pécuchet-11 33987 33991	eux 
+T1865	Bouvard et Pécuchet-11 24486 24503	se délecteraient 
+T1866	Bouvard et Pécuchet-11 16952 16957	leur 
+T1867	Bouvard et Pécuchet-11 1476 1482	notre 
+T1868	Bouvard et Pécuchet-11 5079 5083	Ils 
+T1869	Bouvard et Pécuchet-11 15214 15223	des deux 
+T1870	Bouvard et Pécuchet-11 1431 1436	nous 
+T1871	Bouvard et Pécuchet-11 50470 50475	Leur 
+T1872	Bouvard et Pécuchet-11 34415 34419	Ils 
+T1873	Bouvard et Pécuchet-11 15239 15247	l'autre 
+T1874	Bouvard et Pécuchet-11 17031 17035	ils 
+T1875	Bouvard et Pécuchet-11 1491 1495	nos 
+T1876	Bouvard et Pécuchet-11 42341 42345	ils 
+T1877	Bouvard et Pécuchet-11 26799 26803	ils 
+T1878	Bouvard et Pécuchet-11 26647 26651	Ils 
+T1879	Bouvard et Pécuchet-11 24852 24858	notre 
+T1880	Bouvard et Pécuchet-11 42236 42240	ils 
+T1881	Bouvard et Pécuchet-11 16902 16911	lisaient 
+T1882	Bouvard et Pécuchet-11 26630 26634	les 
+T1883	Bouvard et Pécuchet-11 52186 52196	eux-mêmes 
+T1884	Bouvard et Pécuchet-11 24867 24871	Ils 
+T1885	Bouvard et Pécuchet-11 23134 23139	Nous 
+T1886	Bouvard et Pécuchet-11 40570 40575	leur 
+T1887	Bouvard et Pécuchet-11 40587 40597	coupaient 
+T1888	Bouvard et Pécuchet-11 26692 26704	redoutaient 
+T1889	Bouvard et Pécuchet-11 40544 40548	Ils 
+T1890	Bouvard et Pécuchet-11 26739 26743	ils 
+T1891	Bouvard et Pécuchet-11 42268 42279	répétaient 
+T1892	Bouvard et Pécuchet-11 16811 16816	leur 
+T1893	Bouvard et Pécuchet-11 34281 34284	me 
+T1894	Bouvard et Pécuchet-11 5262 5269	Chacun 
+T1895	Bouvard et Pécuchet-11 3261 3265	ils 
+T1896	Bouvard et Pécuchet-11 16867 16871	Ils 
+T1897	Bouvard et Pécuchet-11 52171 52175	ils 
+T1898	Bouvard et Pécuchet-11 46652 46656	ils 
+T1899	Bouvard et Pécuchet-11 3304 3310	Leurs 
+T1900	Bouvard et Pécuchet-11 34243 34248	Nous 
+T1901	Bouvard et Pécuchet-11 1614 1618	ils 
+T1902	Bouvard et Pécuchet-11 727 739	Deux hommes 
+T1903	Bouvard et Pécuchet-11 40460 40471	écrasaient 
+T1904	Bouvard et Pécuchet-11 24814 24819	nous 
+T1905	Bouvard et Pécuchet-11 42188 42200	regardaient 
+T1906	Bouvard et Pécuchet-11 42162 42172	causaient 
+T1907	Bouvard et Pécuchet-11 24828 24833	nous 
+T1908	Bouvard et Pécuchet-11 16746 16750	ils 
+T1909	Bouvard et Pécuchet-11 18611 18622	se gâtaient
+T1910	Bouvard et Pécuchet-11 24750 24761	dîneraient 
+T1911	Bouvard et Pécuchet-11 40428 40432	ils 
+T1912	Bouvard et Pécuchet-11 42135 42148	parcouraient 
+T1913	Bouvard et Pécuchet-11 24772 24778	leurs 
+T1914	Bouvard et Pécuchet-11 26509 26513	Ils 
+T1915	Bouvard et Pécuchet-11 42102 42112	faisaient 
+T1916	Bouvard et Pécuchet-11 40398 40402	ils 
+T1917	Bouvard et Pécuchet-11 24790 24795	Nous 
+T1918	Bouvard et Pécuchet-11 59473 59477	ils 
+T1919	Bouvard et Pécuchet-11 10889 10893	ils 
+T1920	Bouvard et Pécuchet-11 11039 11044	nous 
+T1921	Bouvard et Pécuchet-11 15406 15410	Ils 
+T1922	Bouvard et Pécuchet-11 10987 10992	nous 
+T1923	Bouvard et Pécuchet-11 11024 11029	nous 
+T1924	Bouvard et Pécuchet-11 23516 23520	ils 
+T1925	Bouvard et Pécuchet-11 25242 25247	leur 
+T1926	Bouvard et Pécuchet-11 59424 59428	les 
+T1927	Bouvard et Pécuchet-11 42597 42601	les 
+T1928	Bouvard et Pécuchet-11 26977 26982	leur 
+T1929	Bouvard et Pécuchet-11 27009 27014	leur 
+T1930	Bouvard et Pécuchet-11 27004 27009	vint 
+T1931	Bouvard et Pécuchet-11 59381 59385	ils 
+T1932	Bouvard et Pécuchet-11 42661 42665	ils 
+T1933	Bouvard et Pécuchet-11 42618 42623	leur 
+T1934	Bouvard et Pécuchet-11 11119 11125	leurs 
+T1935	Bouvard et Pécuchet-11 11134 11138	ils 
+T1936	Bouvard et Pécuchet-11 17197 17201	ils 
+T1937	Bouvard et Pécuchet-11 15292 15298	Leurs 
+T1938	Bouvard et Pécuchet-11 15332 15337	leur 
+T1939	Bouvard et Pécuchet-11 11071 11076	nous 
+T1940	Bouvard et Pécuchet-11 45146 45167	les futurs agronomes 
+T1941	Bouvard et Pécuchet-11 50660 50664	Ils 
+T1942	Bouvard et Pécuchet-11 42541 42545	ils 
+T1943	Bouvard et Pécuchet-11 25109 25113	ils 
+T1944	Bouvard et Pécuchet-11 17267 17271	ils 
+T1945	Bouvard et Pécuchet-11 15357 15361	ils 
+T1946	Bouvard et Pécuchet-11 17126 17130	ils 
+T1947	Bouvard et Pécuchet-11 15260 15267	Chacun 
+T1948	Bouvard et Pécuchet-11 26950 26954	les 
+T1949	Bouvard et Pécuchet-11 1091 1095	ils 
+T1950	Bouvard et Pécuchet-11 1048 1052	ils 
+T1951	Bouvard et Pécuchet-11 26833 26838	leur 
+T1952	Bouvard et Pécuchet-11 42407 42411	Ils 
+T1953	Bouvard et Pécuchet-11 46874 46894	Bouvard et Pécuchet 
+T1954	Bouvard et Pécuchet-11 42357 42362	leur 
+T1955	Bouvard et Pécuchet-11 40727 40731	ils 
+T1956	Bouvard et Pécuchet-11 42509 42513	ils 
+T1957	Bouvard et Pécuchet-11 23267 23283	ces deux hommes 
+T1958	Bouvard et Pécuchet-11 6180 6184	ils 
+T1959	Bouvard et Pécuchet-11 58055 58059	ils 
+T1960	Bouvard et Pécuchet-11 6335 6339	ils 
+T1961	Bouvard et Pécuchet-11 43692 43706	Les deux amis 
+T1962	Bouvard et Pécuchet-11 1225 1229	soi 
+T1963	Bouvard et Pécuchet-11 1184 1190	leurs 
+T1964	Bouvard et Pécuchet-11 1205 1212	chacun 
+T1965	Bouvard et Pécuchet-11 59736 59740	Ils 
+T1966	Bouvard et Pécuchet-11 42877 42882	leur 
+T1967	Bouvard et Pécuchet-11 1169 1173	ils 
+T1968	Bouvard et Pécuchet-11 25642 25646	ils 
+T1969	Bouvard et Pécuchet-11 42946 42950	ils 
+T1970	Bouvard et Pécuchet-11 45441 45461	Bouvard et Pécuchet 
+T1971	Bouvard et Pécuchet-11 15650 15654	ils 
+T1972	Bouvard et Pécuchet-11 15624 15630	leurs 
+T1973	Bouvard et Pécuchet-11 6371 6375	ils 
+T1974	Bouvard et Pécuchet-11 25542 25547	nous 
+T1975	Bouvard et Pécuchet-11 49144 49163	Les deux visiteurs 
+T1976	Bouvard et Pécuchet-11 23735 23740	leur 
+T1977	Bouvard et Pécuchet-11 27250 27254	ils 
+T1978	Bouvard et Pécuchet-11 6435 6439	ils 
+T1979	Bouvard et Pécuchet-11 6447 6461	tous les deux 
+T1980	Bouvard et Pécuchet-11 39280 39284	ils 
+T1981	Bouvard et Pécuchet-11 39252 39256	ils 
+T1982	Bouvard et Pécuchet-11 25389 25393	ils 
+T1983	Bouvard et Pécuchet-11 42766 42770	ils 
+T1984	Bouvard et Pécuchet-11 42796 42800	ils 
+T1985	Bouvard et Pécuchet-11 39321 39328	eurent 
+T1986	Bouvard et Pécuchet-11 27208 27212	Ils 
+T1987	Bouvard-12 61787 61790	il 
+T1988	Bouvard-12 60189 60192	il 
+T1989	Bouvard-12 4081 4086	vous 
+T1990	Bouvard-12 13597 13601	lui 
+T1991	Bouvard-12 58278 58285	Bouvard
+T1992	Bouvard-12 13576 13580	ses 
+T1993	Bouvard-12 61702 61705	Il 
+T1994	Bouvard-12 19050 19054	Ses 
+T1995	Bouvard-12 4019 4026	Bouvard
+T1996	Bouvard-12 41529 41536	Bouvard
+T1997	Bouvard-12 22243 22251	Bouvard 
+T1998	Bouvard-12 22284 22287	Il 
+T1999	Bouvard-12 3996 3999	Moi
+T2000	Bouvard-12 18977 18985	Bouvard 
+T2001	Bouvard-12 4001 4004	je 
+T2002	Bouvard-12 60055 60058	il 
+T2003	Bouvard-12 18993 18997	son 
+T2004	Bouvard-12 59974 59978	lui 
+T2005	Bouvard-12 61612 61620	donnait 
+T2006	Bouvard-12 59955 59958	il 
+T2007	Bouvard-12 61658 61661	sa 
+T2008	Bouvard-12 61641 61649	pensait 
+T2009	Bouvard-12 10583 10591	Bouvard 
+T2010	Bouvard-12 10561 10565	mon 
+T2011	Bouvard-12 9003 9010	Bouvard
+T2012	Bouvard-12 61579 61583	ses 
+T2013	Bouvard-12 10539 10545	votre 
+T2014	Bouvard-12 59891 59895	Son 
+T2015	Bouvard-12 61572 61579	notait 
+T2016	Bouvard-12 22119 22130	le copiste 
+T2017	Bouvard-12 58661 58668	Bouvard
+T2018	Bouvard-12 60401 60410	tolérait 
+T2019	Bouvard-12 60383 60387	ses 
+T2020	Bouvard-12 10617 10620	il 
+T2021	Bouvard-12 22731 22739	Bouvard 
+T2022	Bouvard-12 2543 2550	Bouvard
+T2023	Bouvard-12 60437 60440	il 
+T2024	Bouvard-12 7467 7475	Bouvard 
+T2025	Bouvard-12 19224 19227	Il 
+T2026	Bouvard-12 20871 20882	déraisonna 
+T2027	Bouvard-12 33222 33230	Bouvard 
+T2028	Bouvard-12 19271 19275	lui 
+T2029	Bouvard-12 7512 7515	Il 
+T2030	Bouvard-12 20794 20797	Il 
+T2031	Bouvard-12 20768 20776	Bouvard 
+T2032	Bouvard-12 60314 60318	fit 
+T2033	Bouvard-12 19181 19184	sa 
+T2034	Bouvard-12 7617 7620	Il 
+T2035	Bouvard-12 9324 9326	j'
+T2036	Bouvard-12 7569 7572	sa 
+T2037	Bouvard-12 60211 60214	Il 
+T2038	Bouvard-12 9288 9296	Bouvard 
+T2039	Bouvard-12 7555 7564	avait eu 
+T2040	Bouvard-12 19072 19075	sa 
+T2041	Bouvard-12 39986 39994	Bouvard 
+T2042	Bouvard-12 2686 2694	Bouvard 
+T2043	Bouvard-12 19107 19110	il 
+T2044	Bouvard-12 19173 19177	lui 
+T2045	Bouvard-12 7179 7183	ses 
+T2046	Bouvard-12 7190 7194	lui 
+T2047	Bouvard-12 1692 1696	Ses 
+T2048	Bouvard-12 19589 19593	Mon 
+T2049	Bouvard-12 7137 7145	Bouvard 
+T2050	Bouvard-12 49497 49505	Bouvard 
+T2051	Bouvard-12 21373 21381	ce fils 
+T2052	Bouvard-12 19610 19612	j'
+T2053	Bouvard-12 31890 31893	Il 
+T2054	Bouvard-12 14233 14241	Bouvard 
+T2055	Bouvard-12 3347 3355	Bouvard 
+T2056	Bouvard-12 1657 1665	Bouvard 
+T2057	Bouvard-12 13093 13097	son 
+T2058	Bouvard-12 11481 11490	reconnut 
+T2059	Bouvard-12 1749 1753	son 
+T2060	Bouvard-12 60598 60606	Bouvard 
+T2061	Bouvard-12 13016 13019	il 
+T2062	Bouvard-12 12977 12981	lui 
+T2063	Bouvard-12 21240 21274	François-Denys-Bartholomée Bouvard
+T2064	Bouvard-12 31798 31806	Bouvard 
+T2065	Bouvard-12 21276 21300	mon fils naturel reconnu
+T2066	Bouvard-12 38625 38633	Bouvard 
+T2067	Bouvard-12 19543 19546	Il 
+T2068	Bouvard-12 60526 60529	il 
+T2069	Bouvard-12 1852 1856	son 
+T2070	Bouvard-12 22823 22826	il 
+T2071	Bouvard-12 38593 38596	sa 
+T2072	Bouvard-12 22878 22882	ses 
+T2073	Bouvard-12 51142 51146	qui 
+T2074	Bouvard-12 51134 51142	Bouvard 
+T2075	Bouvard-12 60536 60540	ses 
+T2076	Bouvard-12 13265 13268	sa 
+T2077	Bouvard-12 13233 13236	il 
+T2078	Bouvard-12 60489 60492	sa 
+T2079	Bouvard-12 13218 13221	sa 
+T2080	Bouvard-12 1880 1883	sa 
+T2081	Bouvard-12 27473 27477	son 
+T2082	Bouvard-12 27489 27492	le 
+T2083	Bouvard-12 19332 19335	me 
+T2084	Bouvard-12 22790 22793	il 
+T2085	Bouvard-12 21098 21106	Bouvard 
+T2086	Bouvard-12 19359 19364	-moi 
+T2087	Bouvard-12 19404 19407	il 
+T2088	Bouvard-12 19389 19392	sa 
+T2089	Bouvard-12 51126 51128	C'
+T2090	Bouvard-12 27410 27418	Bouvard 
+T2091	Bouvard-12 1969 1973	lui 
+T2092	Bouvard-12 32180 32183	il 
+T2093	Bouvard-12 19840 19846	votre 
+T2094	Bouvard-12 35575 35583	Bouvard 
+T2095	Bouvard-12 14510 14513	sa 
+T2096	Bouvard-12 1910 1914	ses 
+T2097	Bouvard-12 13401 13405	son 
+T2098	Bouvard-12 26101 26105	ses 
+T2099	Bouvard-12 41757 41764	son ami
+T2100	Bouvard-12 13302 13305	il 
+T2101	Bouvard-12 14445 14453	Bouvard 
+T2102	Bouvard-12 32143 32146	il 
+T2103	Bouvard-12 27780 27788	Bouvard 
+T2104	Bouvard-12 14469 14476	aimait 
+T2105	Bouvard-12 32111 32114	il 
+T2106	Bouvard-12 26044 26048	son 
+T2107	Bouvard-12 14488 14496	prenait 
+T2108	Bouvard-12 27819 27822	il 
+T2109	Bouvard-12 27837 27841	ses 
+T2110	Bouvard-12 32157 32161	ses 
+T2111	Bouvard-12 2109 2116	Bouvard
+T2112	Bouvard-12 13426 13430	lui 
+T2113	Bouvard-12 21407 21409	l'
+T2114	Bouvard-12 19741 19749	Monsieur
+T2115	Bouvard-12 21445 21448	le 
+T2116	Bouvard-12 21482 21491	le neveu 
+T2117	Bouvard-12 19770 19775	vous 
+T2118	Bouvard-12 19757 19762	vous 
+T2119	Bouvard-12 11933 11940	Bouvard
+T2120	Bouvard-12 11942 11945	qui
+T2121	Bouvard-12 13479 13487	Bouvard 
+T2122	Bouvard-12 25944 25948	qui 
+T2123	Bouvard-12 25967 25971	son 
+T2124	Bouvard-12 26023 26026	sa 
+T2125	Bouvard-12 2010 2013	Il 
+T2126	Bouvard-12 19640 19648	Bouvard 
+T2127	Bouvard-12 35313 35321	Bouvard 
+T2128	Bouvard-12 5787 5795	Bouvard 
+T2129	Bouvard-12 31956 31968	se réveilla 
+T2130	Bouvard-12 53088 53096	Bouvard 
+T2131	Bouvard-12 25935 25942	Bouvard
+T2132	Bouvard-12 32000 32003	il 
+T2133	Bouvard-12 50110 50114	son 
+T2134	Bouvard-12 4626 4633	Bouvard
+T2135	Bouvard-12 4642 4645	il 
+T2136	Bouvard-12 28972 28975	sa 
+T2137	Bouvard-12 4697 4700	il 
+T2138	Bouvard-12 41989 41996	Bouvard
+T2139	Bouvard-12 32414 32417	il 
+T2140	Bouvard-12 50094 50102	Bouvard 
+T2141	Bouvard-12 28836 28839	Il 
+T2142	Bouvard-12 20009 20015	votre 
+T2143	Bouvard-12 32327 32330	Il 
+T2144	Bouvard-12 10077 10081	Mon 
+T2145	Bouvard-12 10093 10100	Bouvard
+T2146	Bouvard-12 32359 32367	expédia 
+T2147	Bouvard-12 20066 20074	Monsieur
+T2148	Bouvard-12 14734 14742	Bouvard 
+T2149	Bouvard-12 10121 10124	il 
+T2150	Bouvard-12 6756 6764	Bouvard 
+T2151	Bouvard-12 28017 28020	il 
+T2152	Bouvard-12 28006 28010	son 
+T2153	Bouvard-12 32266 32269	il 
+T2154	Bouvard-12 27941 27944	il 
+T2155	Bouvard-12 14631 14636	L'un 
+T2156	Bouvard-12 32298 32302	ses 
+T2157	Bouvard-12 6846 6849	il 
+T2158	Bouvard-12 50436 50440	Son 
+T2159	Bouvard-12 15198 15205	Bouvard
+T2160	Bouvard-12 34388 34396	Bouvard 
+T2161	Bouvard-12 6796 6799	Sa 
+T2162	Bouvard-12 3092 3100	Bouvard 
+T2163	Bouvard-12 12807 12810	le 
+T2164	Bouvard-12 23192 23196	son 
+T2165	Bouvard-12 56609 56617	Bouvard 
+T2166	Bouvard-12 23103 23107	Son 
+T2167	Bouvard-12 60753 60756	il 
+T2168	Bouvard-12 60809 60812	il 
+T2169	Bouvard-12 28523 28530	Bouvard
+T2170	Bouvard-12 18660 18667	Bouvard
+T2171	Bouvard-12 1585 1588	moi
+T2172	Bouvard-12 52065 52073	Bouvard 
+T2173	Bouvard-12 14981 14989	Bouvard 
+T2174	Bouvard-12 18669 18677	Bouvard 
+T2175	Bouvard-12 50322 50330	Bouvard 
+T2176	Bouvard-12 29063 29066	il 
+T2177	Bouvard-12 6916 6919	il 
+T2178	Bouvard-12 12961 12964	sa 
+T2179	Bouvard-12 12932 12936	lui 
+T2180	Bouvard-12 12904 12906	l'
+T2181	Bouvard-12 1590 1593	je 
+T2182	Bouvard-12 750 755	L'un 
+T2183	Bouvard-12 12893 12897	son 
+T2184	Bouvard-12 23059 23067	Bouvard 
+T2185	Bouvard-12 809 822	Le plus grand
+T2186	Bouvard-12 29011 29014	il 
+T2187	Bouvard-12 28992 28996	ses 
+T2188	Bouvard-12 5912 5917	vous 
+T2189	Bouvard-12 61167 61170	Il 
+T2190	Bouvard-12 9334 9337	ma 
+T2191	Bouvard-12 29568 29572	qui 
+T2192	Bouvard-12 29560 29568	Bouvard 
+T2193	Bouvard-12 9462 9467	-moi 
+T2194	Bouvard-12 894 897	sa 
+T2195	Bouvard-12 61153 61157	son 
+T2196	Bouvard-12 61127 61130	Il 
+T2197	Bouvard-12 21770 21786	son autre enfant
+T2198	Bouvard-12 21791 21793	l'
+T2199	Bouvard-12 6033 6041	Bouvard 
+T2200	Bouvard-12 7741 7745	ses 
+T2201	Bouvard-12 9487 9494	Bouvard
+T2202	Bouvard-12 28683 28687	son 
+T2203	Bouvard-12 12799 12807	Bouvard 
+T2204	Bouvard-12 40793 40801	Bouvard 
+T2205	Bouvard-12 23364 23371	Bouvard
+T2206	Bouvard-12 28590 28593	le 
+T2207	Bouvard-12 46874 46882	Bouvard 
+T2208	Bouvard-12 45042 45050	Bouvard 
+T2209	Bouvard-12 23202 23206	son 
+T2210	Bouvard-12 28633 28635	l'
+T2211	Bouvard-12 28667 28670	lui
+T2212	Bouvard-12 28646 28653	Bouvard
+T2213	Bouvard-12 61516 61519	il 
+T2214	Bouvard-12 11207 11215	Bouvard 
+T2215	Bouvard-12 9584 9589	Vous 
+T2216	Bouvard-12 25662 25670	Bouvard 
+T2217	Bouvard-12 61540 61548	courait 
+T2218	Bouvard-12 59872 59875	il 
+T2219	Bouvard-12 59852 59860	Bouvard 
+T2220	Bouvard-12 25682 25686	ses 
+T2221	Bouvard-12 61450 61453	il 
+T2222	Bouvard-12 9677 9680	lui
+T2223	Bouvard-12 4372 4380	Bouvard 
+T2224	Bouvard-12 9652 9654	l'
+T2225	Bouvard-12 1283 1294	son voisin 
+T2226	Bouvard-12 39403 39410	Bouvard
+T2227	Bouvard-12 20326 20334	Bouvard 
+T2228	Bouvard-12 11408 11416	Bouvard 
+T2229	Bouvard-12 11418 11435	Monsieur Bouvard 
+T2230	Bouvard-12 9760 9767	Bouvard
+T2231	Bouvard-12 4482 4486	lui 
+T2232	Bouvard-12 29644 29648	son 
+T2233	Bouvard-12 25502 25510	Bouvard 
+T2234	Bouvard-12 61402 61413	se trompait
+T2235	Bouvard-12 61378 61381	Il 
+T2236	Bouvard-12 21988 22021	au fruit de ses premières amours 
+T2237	Bouvard-12 45441 45449	Bouvard 
+T2238	Bouvard-12 6471 6479	Bouvard 
+T2239	Bouvard-12 11438 11447	Celui-ci 
+T2240	Bouvard-12 1426 1429	-il
+T2241	Bouvard-12 1318 1327	celui-ci 
+T2242	SI_1337-13 765 776	la Bastille
+T2243	Pécuchet-14 30131 30133	l'
+T2244	Pécuchet-14 11970 11974	son 
+T2245	Pécuchet-14 41591 41600	lui-même 
+T2246	Pécuchet-14 58293 58296	lui
+T2247	Pécuchet-14 57497 57505	stimula 
+T2248	Pécuchet-14 2230 2233	Sa 
+T2249	Pécuchet-14 22395 22403	Pécuchet
+T2250	Pécuchet-14 2188 2192	son 
+T2251	Pécuchet-14 55843 55851	repiqua 
+T2252	Pécuchet-14 10471 10480	Pécuchet 
+T2253	Pécuchet-14 12067 12070	sa 
+T2254	Pécuchet-14 12051 12057	avait 
+T2255	Pécuchet-14 12009 12012	Il 
+T2256	Pécuchet-14 30065 30068	il 
+T2257	Pécuchet-14 12018 12046	le fils d'un petit marchand 
+T2258	Pécuchet-14 57405 57412	arrosa 
+T2259	Pécuchet-14 54026 54034	versait 
+T2260	Pécuchet-14 55766 55769	sa 
+T2261	Pécuchet-14 55782 55785	il 
+T2262	Pécuchet-14 55750 55753	il 
+T2263	Pécuchet-14 58243 58246	Il 
+T2264	Pécuchet-14 2136 2139	il 
+T2265	Pécuchet-14 57442 57452	détruisit 
+T2266	Pécuchet-14 41564 41567	il 
+T2267	Pécuchet-14 2408 2411	il 
+T2268	Pécuchet-14 29941 29944	sa 
+T2269	Pécuchet-14 12097 12099	l'
+T2270	Pécuchet-14 60045 60053	Pécuchet
+T2271	Pécuchet-14 58217 58221	ses 
+T2272	Pécuchet-14 57372 57380	couvrit 
+T2273	Pécuchet-14 53987 53990	il 
+T2274	Pécuchet-14 30003 30006	sa 
+T2275	Pécuchet-14 12143 12146	le 
+T2276	Pécuchet-14 57277 57284	se mit 
+T2277	Pécuchet-14 25704 25707	sa 
+T2278	Pécuchet-14 55607 55611	lui 
+T2279	Pécuchet-14 2306 2310	Ses 
+T2280	Pécuchet-14 58096 58105	Pécuchet 
+T2281	Pécuchet-14 55665 55668	Il 
+T2282	Pécuchet-14 41385 41389	lui 
+T2283	Pécuchet-14 57312 57315	il 
+T2284	Pécuchet-14 53908 53912	lui 
+T2285	Pécuchet-14 12259 12263	lui 
+T2286	Pécuchet-14 2600 2609	Pécuchet 
+T2287	Pécuchet-14 40176 40179	sa 
+T2288	Pécuchet-14 54434 54437	Il 
+T2289	Pécuchet-14 54402 54412	projetait 
+T2290	Pécuchet-14 40161 40165	son 
+T2291	Pécuchet-14 56119 56122	il 
+T2292	Pécuchet-14 9191 9194	il 
+T2293	Pécuchet-14 7446 7453	écarta 
+T2294	Pécuchet-14 10690 10699	Pécuchet 
+T2295	Pécuchet-14 9126 9134	Pécuchet
+T2296	Pécuchet-14 9136 9140	qui 
+T2297	Pécuchet-14 12303 12306	il 
+T2298	Pécuchet-14 33169 33172	Il 
+T2299	Pécuchet-14 54346 54349	il 
+T2300	Pécuchet-14 56053 56062	supprima 
+T2301	Pécuchet-14 56025 56033	choisit 
+T2302	Pécuchet-14 54312 54316	ses 
+T2303	Pécuchet-14 2464 2468	lui 
+T2304	Pécuchet-14 33194 33203	s'élança 
+T2305	Pécuchet-14 57626 57629	il 
+T2306	Pécuchet-14 40051 40054	sa 
+T2307	Pécuchet-14 33110 33120	regagnait 
+T2308	Pécuchet-14 40069 40072	il 
+T2309	Pécuchet-14 40042 40051	Pécuchet 
+T2310	Pécuchet-14 55994 56001	laissa 
+T2311	Pécuchet-14 20805 20814	Pécuchet 
+T2312	Pécuchet-14 12466 12470	son 
+T2313	Pécuchet-14 9311 9317	votre 
+T2314	Pécuchet-14 9296 9300	lui 
+T2315	Pécuchet-14 57545 57551	rôtit 
+T2316	Pécuchet-14 22405 22410	dont 
+T2317	Pécuchet-14 34656 34665	Pécuchet 
+T2318	Pécuchet-14 55907 55910	Il 
+T2319	Pécuchet-14 54167 54176	Pécuchet 
+T2320	Pécuchet-14 2626 2629	Il 
+T2321	Pécuchet-14 41678 41680	l'
+T2322	Pécuchet-14 54188 54192	ses 
+T2323	Pécuchet-14 54208 54211	il 
+T2324	Pécuchet-14 55973 55982	respecta 
+T2325	Pécuchet-14 52979 52982	il 
+T2326	Pécuchet-14 19570 19579	Pécuchet 
+T2327	Pécuchet-14 19559 19567	Pécuchet
+T2328	Pécuchet-14 1681 1689	Pécuchet
+T2329	Pécuchet-14 53029 53033	son 
+T2330	Pécuchet-14 11499 11503	qui 
+T2331	Pécuchet-14 11490 11499	Pécuchet 
+T2332	Pécuchet-14 27566 27569	sa 
+T2333	Pécuchet-14 27605 27608	sa 
+T2334	Pécuchet-14 27619 27623	ses 
+T2335	Pécuchet-14 27641 27644	il 
+T2336	Pécuchet-14 56323 56326	il 
+T2337	Pécuchet-14 51169 51177	Pécuchet
+T2338	Pécuchet-14 52928 52931	Sa 
+T2339	Pécuchet-14 7341 7349	Pécuchet
+T2340	Pécuchet-14 54533 54536	il 
+T2341	Pécuchet-14 31724 31727	il 
+T2342	Pécuchet-14 56257 56261	son 
+T2343	Pécuchet-14 56235 56241	aérait
+T2344	Pécuchet-14 56243 56252	enlevait 
+T2345	Pécuchet-14 11621 11624	sa 
+T2346	Pécuchet-14 11598 11606	Pécuchet
+T2347	Pécuchet-14 27454 27463	Pécuchet 
+T2348	Pécuchet-14 27492 27497	pria 
+T2349	Pécuchet-14 11527 11530	Je 
+T2350	Pécuchet-14 27524 27527	il 
+T2351	Pécuchet-14 27513 27521	déclara 
+T2352	Pécuchet-14 11551 11554	Je 
+T2353	Pécuchet-14 52790 52799	Pécuchet 
+T2354	Pécuchet-14 56213 56216	Il 
+T2355	Pécuchet-14 52817 52824	s'écria
+T2356	Pécuchet-14 53334 53345	barbouilla 
+T2357	Pécuchet-14 30341 30349	Pécuchet
+T2358	Pécuchet-14 14525 14534	Pécuchet 
+T2359	Pécuchet-14 14546 14555	mangeait 
+T2360	Pécuchet-14 53375 53378	Il 
+T2361	Pécuchet-14 11822 11825	sa 
+T2362	Pécuchet-14 11794 11797	il 
+T2363	Pécuchet-14 11818 11822	lui 
+T2364	Pécuchet-14 11735 11737	l'
+T2365	Pécuchet-14 41757 41761	son 
+T2366	Pécuchet-14 26124 26132	Pécuchet
+T2367	Pécuchet-14 53279 53288	lui-même 
+T2368	Pécuchet-14 53268 53271	Il 
+T2369	Pécuchet-14 41720 41722	l'
+T2370	Pécuchet-14 35363 35372	Pécuchet 
+T2371	Pécuchet-14 3959 3968	Pécuchet 
+T2372	Pécuchet-14 2093 2102	Pécuchet 
+T2373	Pécuchet-14 5882 5890	Pécuchet
+T2374	Pécuchet-14 53225 53234	Pécuchet 
+T2375	Pécuchet-14 5855 5857	J'
+T2376	Pécuchet-14 11910 11913	il 
+T2377	Pécuchet-14 11864 11868	son 
+T2378	Pécuchet-14 27766 27769	sa 
+T2379	Pécuchet-14 11845 11848	il 
+T2380	Pécuchet-14 14282 14290	Pécuchet
+T2381	Pécuchet-14 14318 14321	sa 
+T2382	Pécuchet-14 14335 14339	lui 
+T2383	Pécuchet-14 6555 6557	l'
+T2384	Pécuchet-14 8244 8247	il 
+T2385	Pécuchet-14 32494 32503	Pécuchet 
+T2386	Pécuchet-14 6508 6517	Pécuchet 
+T2387	Pécuchet-14 32482 32486	son 
+T2388	Pécuchet-14 4723 4731	Pécuchet
+T2389	Pécuchet-14 6626 6629	Il 
+T2390	Pécuchet-14 8294 8298	fit 
+T2391	Pécuchet-14 28057 28065	Pécuchet
+T2392	Pécuchet-14 14757 14766	Pécuchet 
+T2393	Pécuchet-14 41916 41924	Pécuchet
+T2394	Pécuchet-14 28099 28103	ses 
+T2395	Pécuchet-14 28117 28123	sortit
+T2396	Pécuchet-14 28177 28180	Il 
+T2397	Pécuchet-14 41926 41929	Il 
+T2398	Pécuchet-14 41952 41959	tourna 
+T2399	Pécuchet-14 53493 53496	Il 
+T2400	Pécuchet-14 6683 6686	il 
+T2401	Pécuchet-14 14672 14680	l'autre 
+T2402	Pécuchet-14 8314 8318	son 
+T2403	Pécuchet-14 14715 14719	lui 
+T2404	Pécuchet-14 3008 3017	Pécuchet 
+T2405	Pécuchet-14 26285 26288	il 
+T2406	Pécuchet-14 26309 26313	son 
+T2407	Pécuchet-14 53462 53465	il 
+T2408	Pécuchet-14 14588 14597	trempait 
+T2409	Pécuchet-14 35600 35609	Pécuchet 
+T2410	Pécuchet-14 26207 26210	sa 
+T2411	Pécuchet-14 26257 26265	pinçait 
+T2412	Pécuchet-14 3123 3126	sa 
+T2413	Pécuchet-14 30964 30968	lui 
+T2414	Pécuchet-14 29242 29245	lui
+T2415	Pécuchet-14 3100 3102	l'
+T2416	Pécuchet-14 30947 30950	sa 
+T2417	Pécuchet-14 29157 29160	Il 
+T2418	Pécuchet-14 29256 29260	son 
+T2419	Pécuchet-14 29247 29250	il 
+T2420	Pécuchet-14 30991 30995	ses 
+T2421	Pécuchet-14 23192 23200	son ami 
+T2422	Pécuchet-14 56562 56566	son 
+T2423	Pécuchet-14 30936 30939	il 
+T2424	Pécuchet-14 28436 28440	lui 
+T2425	Pécuchet-14 29145 29148	sa 
+T2426	Pécuchet-14 34335 34344	Pécuchet 
+T2427	Pécuchet-14 30904 30907	sa 
+T2428	Pécuchet-14 56483 56486	il 
+T2429	Pécuchet-14 14968 14971	il 
+T2430	Pécuchet-14 7012 7020	Pécuchet
+T2431	Pécuchet-14 1557 1561	mon 
+T2432	Pécuchet-14 30871 30880	Pécuchet 
+T2433	Pécuchet-14 29089 29097	Pécuchet
+T2434	Pécuchet-14 18714 18722	Pécuchet
+T2435	Pécuchet-14 32629 32632	il 
+T2436	Pécuchet-14 18624 18633	Pécuchet 
+T2437	Pécuchet-14 28354 28357	le 
+T2438	Pécuchet-14 56414 56417	il 
+T2439	Pécuchet-14 778 786	l'autre 
+T2440	Pécuchet-14 56447 56451	ses 
+T2441	Pécuchet-14 14935 14944	Pécuchet 
+T2442	Pécuchet-14 56372 56375	il 
+T2443	Pécuchet-14 28311 28315	lui 
+T2444	Pécuchet-14 9365 9374	Pécuchet 
+T2445	Pécuchet-14 5897 5900	je 
+T2446	Pécuchet-14 33062 33065	sa 
+T2447	Pécuchet-14 33037 33041	ses 
+T2448	Pécuchet-14 31269 31272	il 
+T2449	Pécuchet-14 12480 12482	l'
+T2450	Pécuchet-14 31309 31312	il 
+T2451	Pécuchet-14 33093 33096	Il 
+T2452	Pécuchet-14 12603 12607	lui 
+T2453	Pécuchet-14 31218 31222	eut 
+T2454	Pécuchet-14 9433 9437	son 
+T2455	Pécuchet-14 33017 33020	Il 
+T2456	Pécuchet-14 5935 5938	il 
+T2457	Pécuchet-14 931 936	dont 
+T2458	Pécuchet-14 916 929	Le plus petit
+T2459	Pécuchet-14 40933 40942	Pécuchet 
+T2460	Pécuchet-14 39180 39184	ses 
+T2461	Pécuchet-14 23399 23402	sa 
+T2462	Pécuchet-14 56831 56834	il 
+T2463	Pécuchet-14 23442 23445	Il 
+T2464	Pécuchet-14 39154 39163	Pécuchet 
+T2465	Pécuchet-14 12702 12705	Sa 
+T2466	Pécuchet-14 9512 9517	vous 
+T2467	Pécuchet-14 32926 32935	s'avança 
+T2468	Pécuchet-14 46885 46894	Pécuchet 
+T2469	Pécuchet-14 31088 31092	son 
+T2470	Pécuchet-14 31102 31113	prodiguait 
+T2471	Pécuchet-14 12643 12646	il 
+T2472	Pécuchet-14 32969 32972	il 
+T2473	Pécuchet-14 31196 31199	il 
+T2474	Pécuchet-14 31171 31174	il 
+T2475	Pécuchet-14 12627 12631	son 
+T2476	Pécuchet-14 32942 32946	lui 
+T2477	Pécuchet-14 9554 9558	ses 
+T2478	Pécuchet-14 6105 6109	lui 
+T2479	Pécuchet-14 32866 32875	Pécuchet 
+T2480	Pécuchet-14 9537 9546	Pécuchet 
+T2481	Pécuchet-14 6060 6069	Pécuchet 
+T2482	Pécuchet-14 56759 56762	il 
+T2483	Pécuchet-14 23373 23376	il 
+T2484	Pécuchet-14 23215 23224	Pécuchet 
+T2485	Pécuchet-14 31048 31051	il 
+T2486	Pécuchet-14 31079 31083	lui 
+T2487	Pécuchet-14 23322 23325	il 
+T2488	Pécuchet-14 56688 56697	Pécuchet 
+T2489	Pécuchet-14 11233 11242	Pécuchet 
+T2490	Pécuchet-14 31620 31627	maudit 
+T2491	Pécuchet-14 9603 9606	ma 
+T2492	Pécuchet-14 57232 57239	acheta 
+T2493	Pécuchet-14 29872 29875	Il 
+T2494	Pécuchet-14 9589 9591	m'
+T2495	Pécuchet-14 29840 29849	Pécuchet 
+T2496	Pécuchet-14 25695 25704	Pécuchet 
+T2497	Pécuchet-14 4413 4422	Pécuchet 
+T2498	Pécuchet-14 9649 9652	il 
+T2499	Pécuchet-14 7990 7999	Pécuchet 
+T2500	Pécuchet-14 31579 31582	Il 
+T2501	Pécuchet-14 1234 1249	le petit homme 
+T2502	Pécuchet-14 55591 55594	il 
+T2503	Pécuchet-14 57131 57140	Pécuchet 
+T2504	Pécuchet-14 53760 53764	son 
+T2505	Pécuchet-14 41198 41201	il 
+T2506	Pécuchet-14 20288 20291	Tu 
+T2507	Pécuchet-14 53749 53752	il 
+T2508	Pécuchet-14 25598 25600	j'
+T2509	Pécuchet-14 55539 55548	Pécuchet 
+T2510	Pécuchet-14 25621 25629	Pécuchet
+T2511	Pécuchet-14 57167 57170	Il 
+T2512	Pécuchet-14 53779 53789	balançait 
+T2513	Pécuchet-14 31488 31497	Pécuchet 
+T2514	Pécuchet-14 8066 8070	ses 
+T2515	Pécuchet-14 45452 45461	Pécuchet 
+T2516	Pécuchet-14 8175 8179	son 
+T2517	Pécuchet-14 8116 8119	Il 
+T2518	Pécuchet-14 55420 55424	lui 
+T2519	Pécuchet-14 55391 55394	le 
+T2520	Pécuchet-14 1366 1394	du particulier en redingote 
+T2521	Pécuchet-14 1283 1287	son 
+T2522	Pécuchet-14 55291 55294	il 
+T2523	Pécuchet-14 20128 20137	Pécuchet 
+T2524	Pécuchet-14 40993 41001	disposa 
+T2525	Pécuchet-14 53660 53663	il 
+T2526	Pécuchet-14 41028 41031	il 
+T2527	Pécuchet-14 20194 20197	il 
+T2528	Pécuchet-14 53624 53627	il 
+T2529	SI_265-15 786 807	du Jardin des Plantes
+T2530	SI_1492-16 1067 1089	au milieu du boulevard
+T2531	SI_1522-17 1109 1123	la même minute
+T2532	SI_122-18 1557 1568	mon bureau 
+T2533	Bouvard Pécuchet ou indéfini-19 35752 35756	soi 
+T2534	Bouvard Pécuchet ou indéfini-19 6016 6019	on 
+T2535	Bouvard Pécuchet ou indéfini-19 3085 3089	soi 
+T2536	Bouvard Pécuchet ou indéfini-19 45506 45510	Ils 
+T2537	Bouvard Pécuchet ou indéfini-19 39745 39749	ils 
+T2538	Bouvard Pécuchet ou indéfini-19 25295 25298	on 
+T2539	Bouvard Pécuchet ou indéfini-19 39667 39671	les 
+T2540	Bouvard Pécuchet ou indéfini-19 3035 3038	on 
+T2541	Bouvard Pécuchet ou indéfini-19 6277 6280	on 
+T2542	Bouvard Pécuchet ou indéfini-19 2487 2490	on 
+T2543	Bouvard Pécuchet ou indéfini-19 35732 35735	On 
+T2544	Bouvard Pécuchet ou indéfini-19 25728 25731	on 
+T2545	Bouvard Pécuchet ou indéfini-19 33375 33379	ils 
+T2546	la campagne-20 23182 23186	qui 
+T2547	la campagne-20 23175 23182	ce mot 
+T2548	la campagne-20 26549 26560	la campagne
+T2549	la campagne-20 36206 36217	la campagne
+T2550	la campagne-20 17644 17655	la campagne
+T2551	la campagne-20 2524 2535	la banlieue
+T2552	la campagne-20 2504 2516	la campagne 
+T2553	la campagne-20 43202 43213	la campagne
+T2554	la campagne-20 23224 23226	l'
+T2555	la campagne-20 23157 23169	la campagne 
+T2556	SI_289-21 2583 2598	des guinguettes
+T2557	Paris-22 26433 26438	Paris
+T2558	Paris-22 50451 50457	Paris 
+T2559	Paris-22 58042 58053	la capitale
+T2560	Paris-22 2673 2684	la capitale
+T2561	Paris-22 30078 30089	la capitale
+T2562	Paris-22 12921 12927	Paris 
+T2563	Paris-22 31821 31827	Paris 
+T2564	SI_1085-23 2812 2836	la cheminée d'une usine 
+T2565	SI_978-24 2826 2836	une usine 
+T2566	SI_724-25 3067 3076	les rues 
+T2567	Bouvard ou Pécuchet-26 14142 14147	l'un 
+T2568	Bouvard ou Pécuchet-26 14159 14167	l'autre 
+T2569	Bouvard ou Pécuchet-26 3137 3140	Lui
+T2570	Bouvard ou Pécuchet-26 10850 10858	l'autre 
+T2571	Bouvard ou Pécuchet-26 17889 17896	burent 
+T2572	Bouvard ou Pécuchet-26 18727 18729	J'
+T2573	Bouvard ou Pécuchet-26 5281 5289	l'autre 
+T2574	Bouvard ou Pécuchet-26 3142 3145	il 
+T2575	Bouvard ou Pécuchet-26 14175 14179	son 
+T2576	Bouvard ou Pécuchet-26 15247 15251	son 
+T2577	Bouvard ou Pécuchet-26 5315 5324	lui-même 
+T2578	Bouvard ou Pécuchet-26 18797 18801	l'un
+T2579	Bouvard ou Pécuchet-26 18842 18849	l'autre
+T2580	SI_1088-27 3190 3201	un ivrogne 
+T2581	SI_87-28 3220 3232	le trottoir 
+T2582	SI_183-29 3247 3259	des ouvriers
+T2583	trois calèches de remise-30 3494 3498	qui 
+T2584	trois calèches de remise-30 3469 3494	trois calèches de remise 
+T2585	SI_1182-31 3517 3522	Bercy
+T2586	une mariée-32 3550 3554	son 
+T2587	une mariée-32 3534 3545	une mariée 
+T2588	SI_1057-33 3563 3595	des bourgeois en cravate blanche
+T2589	des dames-34 3597 3607	des dames 
+T2590	des dames-34 3641 3646	leur 
+T2591	SI_1674-35 3653 3681	deux ou trois petites filles
+T2592	SI_908-36 3683 3695	un collégien
+T2593	les femmes-37 3765 3768	qu'
+T2594	les femmes-37 3753 3763	des femmes
+T2595	les femmes-37 3945 3951	elles 
+T2596	les femmes-37 3891 3897	elles 
+T2597	les femmes-37 3827 3833	elles 
+T2598	SI_1400-38 3864 3875	les hommes 
+T2599	SI_1053-39 4036 4044	enfants 
+T2600	SI_1414-40 4143 4159	au bord du quai 
+T2601	SI_71-41 4151 4159	du quai 
+T2602	une fille de joie-42 4253 4258	elle 
+T2603	une fille de joie-42 4165 4183	une fille de joie 
+T2604	une fille de joie-42 4352 4357	elle 
+T2605	un soldat-43 4281 4293	du militaire
+T2606	un soldat-43 4188 4197	un soldat
+T2607	un prêtre-44 4504 4514	un prêtre 
+T2608	un prêtre-44 4514 4518	qui 
+T2609	un prêtre-44 4531 4548	L'ecclésiastique 
+T2610	SI_139-45 4610 4621	le trottoir
+T2611	les jésuites-46 4738 4742	les 
+T2612	les jésuites-46 4709 4721	les jésuites
+T2613	SI_1627-47 4832 4847	des persiennes 
+T2614	SI_413-48 4875 4888	Les passants 
+T2615	SI_1499-49 4913 4925	Sept heures 
+T2616	SI_50-50 5095 5126	le corps des ponts et chaussées
+T2617	SI_511-51 5128 5147	la régie des tabacs
+T2618	SI_269-52 5162 5174	les théâtres
+T2619	la marine-53 6533 6543	la marine 
+T2620	la marine-53 19455 19464	la Marine
+T2621	la marine-53 5176 5189	notre marine 
+T2622	des gens-54 5220 5229	des gens 
+T2623	des gens-54 5229 5233	qui 
+T2624	SI_826-55 5592 5609	l'écluse d'amont 
+T2625	SI_678-56 5617 5632	l'écluse d'aval
+T2626	SI_1000-57 5968 5984	l'Hôtel de Ville
+T2627	un petit restaurant-58 5991 6011	un petit restaurant 
+T2628	un petit restaurant-58 6011 6014	où 
+T2629	SI_1100-59 6484 6506	une maison de commerce
+T2630	SI_931-60 6517 6543	au ministère de la marine 
+T2631	SI_818-61 6585 6596	chaque soir
+T2632	SI_1061-62 6669 6678	M. Thiers
+T2633	Dumouchel-63 6721 6753	un certain Dumouchel, professeur
+T2634	Dumouchel-63 16801 16811	Dumouchel 
+T2635	Dumouchel-63 8756 8765	Dumouchel
+T2636	Dumouchel-63 14994 15003	Dumouchel
+T2637	Dumouchel-63 15188 15191	Il 
+T2638	Dumouchel-63 15021 15024	il 
+T2639	Dumouchel-63 15005 15016	Cet auteur 
+T2640	Dumouchel-63 28297 28311	Le professeur 
+T2641	Dumouchel-63 28284 28294	Dumouchel 
+T2642	Dumouchel-63 28440 28449	souhaita 
+T2643	Dumouchel-63 57180 57190	Dumouchel 
+T2644	Dumouchel-63 28351 28354	il 
+T2645	SI_1482-64 7317 7339	un autre établissement
+T2646	SI_33-65 7522 7541	tous les écrivains 
+T2647	Barberou-66 14803 14893	un ancien commis voyageur, actuellement boursier, très bon enfant, patriote, ami des dames
+T2648	Barberou-66 14944 14947	le 
+T2649	Barberou-66 16736 16744	Barberou
+T2650	Barberou-66 26962 26965	Il 
+T2651	Barberou-66 7725 7749	Barberou, un de ses amis
+T2652	Barberou-66 28532 28535	Il 
+T2653	Barberou-66 28575 28582	promit 
+T2654	Barberou-66 14898 14902	qui 
+T2655	Barberou-66 14795 14797	C'
+T2656	Barberou-66 14785 14793	Barberou
+T2657	Barberou-66 28606 28615	commanda 
+T2658	Barberou-66 27025 27029	lui 
+T2659	Barberou-66 28635 28643	embrassa
+T2660	Barberou-66 31880 31888	Barberou
+T2661	Barberou-66 28467 28476	Barberou 
+T2662	Barberou-66 26941 26950	Barberou 
+T2663	SI_733-67 7741 7749	ses amis
+T2664	SI_84-68 7828 7841	des personnes
+T2665	le garçon de l_établissement-69 7871 7880	Le garçon
+T2666	le garçon de l_établissement-69 7882 7886	qui 
+T2667	le garçon de l_établissement-69 8021 8025	lui 
+T2668	le limonadier-70 8086 8094	chicana 
+T2669	le limonadier-70 8050 8053	il 
+T2670	le limonadier-70 8027 8041	le limonadier 
+T2671	SI_574-71 8147 8157	la soirée 
+T2672	le domicile de Pécuchet-72 8189 8193	qui 
+T2673	le domicile de Pécuchet-72 11689 11703	l'appartement 
+T2674	le domicile de Pécuchet-72 8314 8329	son appartement
+T2675	le domicile de Pécuchet-72 8175 8187	son domicile
+T2676	SI_711-73 8210 8226	rue Saint-Martin
+T2677	le Havre-74 8743 8752	du Havre 
+T2678	le Havre-74 29510 29518	au Havre
+T2679	le Havre-74 26499 26507	au Havre
+T2680	SI_856-75 9208 9228	cette petite chambre
+T2681	SI_381-76 9246 9255	le matin 
+T2682	SI_1067-77 9693 9710	la rue de Béthune
+T2683	SI_735-78 9703 9710	Béthune
+T2684	SI_790-79 9720 9743	le pont de la Tournelle
+T2685	SI_1560-80 9731 9743	la Tournelle
+T2686	SI_287-81 9746 9767	La chambre de Bouvard
+T2687	SI_434-82 9847 9857	un balcon 
+T2688	SI_973-83 9871 9881	la rivière
+T2689	SI_635-84 10021 10030	des amis 
+T2690	oncle de Bouvard-85 21316 21320	mes 
+T2691	oncle de Bouvard-85 19840 19982	votre père naturel, M. François-Denys-Bartholomée Bouvard, ex-négociant dans la ville de Nantes, décédé en cette commune le 10 du présent mois
+T2692	oncle de Bouvard-85 19589 19599	Mon oncle 
+T2693	oncle de Bouvard-85 21352 21364	Le bonhomme 
+T2694	oncle de Bouvard-85 13401 13410	son oncle
+T2695	oncle de Bouvard-85 10186 10190	son 
+T2696	oncle de Bouvard-85 10433 10436	il 
+T2697	oncle de Bouvard-85 10634 10638	ses 
+T2698	oncle de Bouvard-85 10139 10150	un monsieur
+T2699	oncle de Bouvard-85 10391 10395	Ses 
+T2700	oncle de Bouvard-85 21818 21821	lui
+T2701	oncle de Bouvard-85 22000 22004	ses 
+T2702	oncle de Bouvard-85 21229 21232	je 
+T2703	oncle de Bouvard-85 21276 21280	mon 
+T2704	oncle de Bouvard-85 21737 21740	il 
+T2705	oncle de Bouvard-85 21770 21774	son 
+T2706	oncle de Bouvard-85 22032 22035	il 
+T2707	oncle de Bouvard-85 22046 22049	sa 
+T2708	oncle de Bouvard-85 21788 21791	Il 
+T2709	oncle de Bouvard-85 10514 10517	le 
+T2710	oncle de Bouvard-85 29644 29652	son père
+T2711	oncle de Bouvard-85 21491 21493	l'
+T2712	oncle de Bouvard-85 10077 10087	Mon oncle 
+T2713	oncle de Bouvard-85 10333 10335	l'
+T2714	oncle de Bouvard-85 13501 13504	sa 
+T2715	oncle de Bouvard-85 10561 10572	mon parrain
+T2716	oncle de Bouvard-85 13519 13522	en 
+T2717	oncle de Bouvard-85 10555 10557	C'
+T2718	oncle de Bouvard-85 21967 21971	ses 
+T2719	oncle de Bouvard-85 21686 21690	ses 
+T2720	oncle de Bouvard-85 21707 21709	l'
+T2721	oncle de Bouvard-85 12883 12887	qui 
+T2722	oncle de Bouvard-85 10241 10244	Sa 
+T2723	oncle de Bouvard-85 12893 12902	son oncle
+T2724	oncle de Bouvard-85 13412 13416	qui 
+T2725	oncle de Bouvard-85 12873 12881	Un homme
+T2726	oncle de Bouvard-85 21386 21389	sa 
+T2727	oncle de Bouvard-85 21843 21846	sa 
+T2728	oncle de Bouvard-85 21583 21594	M. Bouvard 
+T2729	oncle de Bouvard-85 21863 21866	le 
+T2730	oncle de Bouvard-85 21404 21407	il 
+T2731	oncle de Bouvard-85 21949 21952	il 
+T2732	oncle de Bouvard-85 21633 21637	Ses 
+T2733	oncle de Bouvard-85 21918 21922	son 
+T2734	SI_1177-86 10539 10550	votre père 
+T2735	SI_508-87 10760 10777	quarante-sept ans
+T2736	SI_350-88 11119 11132	leurs patrons
+T2737	SI_1152-89 11190 11200	les dames 
+T2738	SI_1673-90 11220 11230	l'escalier
+T2739	SI_798-91 11295 11307	Le lendemain
+T2740	SI_1212-92 11314 11385	la cour de Mm. Descambos frères : tissus d'Alsace, rue Hautefeuille, 92
+T2741	SI_452-93 11654 11664	la journée
+T2742	SI_1401-94 11835 11843	Le matin
+T2743	SI_1668-95 12028 12046	un petit marchand 
+T2744	SI_671-96 12067 12074	sa mère
+T2745	SI_158-97 12108 12118	quinze ans
+T2746	un huissier-98 12202 12212	le patron 
+T2747	un huissier-98 12185 12187	y 
+T2748	un huissier-98 12158 12169	un huissier
+T2749	SI_463-99 12171 12185	Les gendarmes 
+T2750	SI_73-100 12340 12358	élève en pharmacie
+T2751	SI_777-101 12360 12375	maître d'études
+T2752	SI_937-102 12377 12425	comptable sur un des paquebots de la haute Seine
+T2753	SI_46-103 12391 12425	un des paquebots de la haute Seine
+T2754	SI_860-104 12394 12425	des paquebots de la haute Seine
+T2755	SI_96-105 12411 12425	la haute Seine
+T2756	SI_992-106 12434 12453	un chef de division
+T2757	SI_998-107 12501 12517	expéditionnaire 
+T2758	SI_1459-108 12724 12735	le dimanche
+T2759	SI_730-109 12826 12847	les bords de la Loire
+T2760	SI_325-110 12839 12847	la Loire
+T2761	SI_776-111 12854 12871	une cour de ferme
+T2762	SI_567-112 13046 13071	une boutique de confiseur
+T2763	SI_177-113 13093 13104	son épouse 
+T2764	SI_1346-114 13142 13150	Les amis
+T2765	SI_1002-115 13659 13671	un estaminet
+T2766	SI_642-116 14041 14061	la fin de la semaine
+T2767	SI_1123-117 14051 14061	la semaine
+T2768	SI_1261-118 14119 14132	leur comptoir
+T2769	SI_1283-119 14223 14231	les rues
+T2770	SI_259-120 14884 14893	des dames
+T2771	SI_1655-121 15101 15134	un pensionnat de jeunes personnes
+T2772	SI_706-122 15482 15497	le gouvernement
+T2773	SI_1470-123 15602 15610	Fualdès 
+T2774	SI_780-124 15680 15693	la Révolution
+T2775	SI_1210-125 15718 15746	des boutiques de bric-à-brac
+T2776	SI_1538-126 15763 15799	le Conservatoire des arts et métiers
+T2777	SI_1255-127 15801 15812	Saint-Denis
+T2778	SI_352-128 15814 15826	les Gobelins
+T2779	SI_742-129 15828 15842	les Invalides 
+T2780	deux étrangers-130 15967 15981	deux étrangers
+T2781	deux étrangers-130 15983 15995	deux Anglais
+T2782	SI_1176-131 16003 16025	les galeries du Muséum
+T2783	SI_827-132 16016 16025	du Muséum
+T2784	SI_209-133 16243 16262	les serres chaudes 
+T2785	SI_233-134 16447 16457	au Louvre 
+T2786	SI_1150-135 16481 16488	Raphaël
+T2787	SI_1145-136 16492 16514	la grande bibliothèque
+T2788	SI_846-137 16616 16636	du Collège de France
+T2789	SI_1109-138 16630 16636	France
+T2790	SI_1545-139 16641 16655	le professeur 
+T2791	SI_394-140 16767 16799	les coulisses d'un petit théâtre
+T2792	SI_1054-141 16783 16799	un petit théâtre
+T2793	SI_220-142 16855 16865	l'Académie
+T2794	l_époque-143 17174 17177	où 
+T2795	l_époque-143 17165 17174	l'époque 
+T2796	l_époque-143 17224 17239	cette époque-là
+T2797	des pays-144 17283 17292	des pays 
+T2798	des pays-144 17321 17324	en 
+T2799	SI_831-145 17544 17552	les rues
+T2800	SI_1013-146 17599 17618	Le quai aux Fleurs 
+T2801	un dimanche-147 17774 17782	du jour 
+T2802	un dimanche-147 17658 17670	Un dimanche 
+T2803	SI_320-148 17724 17730	Meudon
+T2804	SI_389-149 17732 17740	Bellevue
+T2805	SI_1179-150 17742 17750	Suresnes
+T2806	SI_699-151 17752 17759	Auteuil
+T2807	SI_406-152 17846 17864	au bord des champs
+T2808	SI_98-153 17932 17947	des guinguettes
+T2809	SI_765-154 18043 18058	Les lendemains 
+T2810	SI_1187-155 18125 18135	du bureau 
+T2811	les mêmes compagnons-156 18264 18268	Les 
+T2812	les mêmes compagnons-156 18241 18262	les mêmes compagnons 
+T2813	les mêmes compagnons-156 18290 18295	leur 
+T2814	un après midi-157 18933 18947	Un après-midi 
+T2815	un après midi-157 18948 18950	c'
+T2816	SI_1116-158 18956 18974	le 20 janvier 1839
+T2817	SI_290-159 18993 19006	son comptoir 
+T2818	SI_857-160 19037 19047	le facteur
+T2819	les commis-161 19193 19196	On 
+T2820	les commis-161 19268 19271	on 
+T2821	les commis-161 19141 19152	Les commis 
+T2822	les commis-161 19170 19173	on 
+T2823	SI_1238-162 19212 19222	un médecin
+T2824	SI_1659-163 19439 19464	au ministère de la Marine
+T2825	Tardivel-164 19754 19757	Je 
+T2826	Tardivel-164 20091 20095	mes 
+T2827	Tardivel-164 19785 19789	mon 
+T2828	Tardivel-164 20107 20115	Tardivel
+T2829	Tardivel-164 19687 19698	Me Tardivel
+T2830	Tardivel-164 21114 21125	au notaire 
+T2831	Tardivel-164 21141 21152	Le notaire 
+T2832	Tardivel-164 22514 22522	Tardivel
+T2833	SI_1122-165 19700 19719	Savigny-en-Septaine
+T2834	SI_1257-166 19721 19736	14 janvier 1839
+T2835	la ville de Nantes-167 19917 19935	la ville de Nantes
+T2836	la ville de Nantes-167 19947 19961	cette commune 
+T2837	SI_835-168 19929 19935	Nantes
+T2838	SI_848-169 20117 20124	notaire
+T2839	SI_970-170 20180 20187	la cour
+T2840	SI_1101-171 20407 20415	la poste
+T2841	SI_697-172 20476 20486	du notaire
+T2842	SI_456-173 20693 20710	l'Arc de Triomphe
+T2843	SI_205-174 20726 20742	le bord de l'eau
+T2844	SI_914-175 20756 20766	Notre-Dame
+T2845	SI_1498-176 20857 20869	cinq minutes
+T2846	SI_597-177 21468 21477	un neveu 
+T2847	SI_1205-178 21515 21524	mon oncle
+T2848	les fils légitimes-179 21633 21657	Ses deux fils légitimes 
+T2849	les fils légitimes-179 22171 22181	des frères
+T2850	la cuisinière de l_oncle-180 21843 21856	sa cuisinière
+T2851	la cuisinière de l_oncle-180 21858 21863	Elle 
+T2852	SI_605-181 21897 21907	la famille
+T2853	M_ Etienne-182 22212 22215	il 
+T2854	M_ Etienne-182 22164 22193	L'aîné des frères, M. Étienne
+T2855	SI_106-183 22342 22355	des ivrognes 
+T2856	M_ Alexandre-184 22538 22550	M. Alexandre
+T2857	M_ Alexandre-184 22562 22566	son 
+T2858	M_ Alexandre-184 22639 22642	il 
+T2859	M_ Alexandre-184 22524 22536	L'autre fils
+T2860	M_ Alexandre-184 23028 23047	le sieur Alexandre 
+T2861	Savigny-185 22820 22823	où 
+T2862	Savigny-185 40378 40393	du point de vue
+T2863	Savigny-185 22809 22816	Savigny
+T2864	SI_596-186 23561 23569	Le Nord 
+T2865	le Midi-187 23602 23610	le Midi 
+T2866	le Midi-187 23625 23629	son 
+T2867	SI_510-188 23674 23683	le Centre
+T2868	SI_1409-189 23723 23735	La Bretagne 
+T2869	régions de l_Est-190 23797 23817	aux régions de l'Est
+T2870	régions de l_Est-190 23854 23856	y 
+T2871	SI_779-191 23812 23817	l'Est
+T2872	SI_726-192 23937 23945	le Forez
+T2873	SI_383-193 23947 23955	le Bugey
+T2874	SI_402-194 23957 23968	le Roumois 
+T2875	SI_731-195 24029 24041	leur maison 
+T2876	SI_1399-196 24337 24349	les charrues
+T2877	SI_969-197 24590 24596	chefs 
+T2878	SI_224-198 24649 24667	un domicile à eux 
+T2879	SI_1407-199 24702 24717	leur basse-cour
+T2880	SI_229-200 24734 24745	leur jardin
+T2881	SI_173-201 25026 25036	une maison
+T2882	SI_414-202 25896 25912	leurs collègues 
+T2883	SI_370-203 26328 26355	dix-huit mois de recherches
+T2884	SI_144-204 26412 26438	tous les environs de Paris
+T2885	SI_1263-205 26450 26457	Amiens 
+T2886	SI_1615-206 26465 26471	Évreux
+T2887	SI_1315-207 26479 26493	Fontainebleau 
+T2888	une campagne-208 26523 26536	une campagne 
+T2889	une campagne-208 26536 26540	qui 
+T2890	SI_1403-209 26673 26689	des habitations 
+T2891	SI_1359-210 26899 26915	une manufacture 
+T2892	un domaine-211 34248 34250	y 
+T2893	un domaine-211 27094 27099	Cela 
+T2894	un domaine-211 27043 27053	un domaine
+T2895	un domaine-211 37935 37948	la propriété 
+T2896	Chavignolles-212 32712 32724	Chavignolles
+T2897	Chavignolles-212 58078 58091	Chavignolles 
+T2898	Chavignolles-212 39792 39805	Chavignolles 
+T2899	Chavignolles-212 29609 29621	Chavignolles
+T2900	Chavignolles-212 33392 33404	Chavignolles
+T2901	Chavignolles-212 27057 27069	Chavignolles
+T2902	Caen-213 32312 32314	y 
+T2903	Caen-213 29551 29555	Caen
+T2904	Caen-213 27077 27082	Caen 
+T2905	Caen-213 32065 32070	Caen 
+T2906	Caen-213 29557 29560	où 
+T2907	Caen-213 32292 32296	Caen
+T2908	Falaise-214 32453 32460	Falaise
+T2909	Falaise-214 29831 29838	Falaise
+T2910	Falaise-214 27085 27092	Falaise
+T2911	la ferme-215 50470 50488	Leur exploitation 
+T2912	la ferme-215 27295 27304	la ferme 
+T2913	la ferme-215 53112 53120	la ferme
+T2914	la ferme-215 27113 27146	une ferme de trente-huit hectares
+T2915	la ferme-215 37068 37078	leur ferme
+T2916	la ferme-215 27322 27328	l'une 
+T2917	la ferme-215 52514 52523	la ferme 
+T2918	la maison-216 38720 38730	La maison 
+T2919	la maison-216 38776 38779	sa 
+T2920	la maison-216 27311 27321	la maison 
+T2921	la maison-216 38788 38793	Elle 
+T2922	la maison-216 27153 27176	une manière de château 
+T2923	la maison-216 38755 38758	sa 
+T2924	la maison-216 27354 27361	l'autre
+T2925	le jardin-217 34377 34386	le jardin
+T2926	le jardin-217 53013 53022	du jardin
+T2927	le jardin-217 54658 54668	le jardin 
+T2928	le jardin-217 35910 35920	le jardin 
+T2929	le jardin-217 53066 53069	le 
+T2930	le jardin-217 39391 39400	le jardin
+T2931	le jardin-217 27179 27205	un jardin en plein rapport
+T2932	le jardin-217 56497 56512	tout le jardin 
+T2933	SI_1542-218 27235 27247	le Calvados 
+T2934	SI_561-219 27605 27613	sa mère 
+T2935	six mois avant la retraite-220 27735 27749	la fin de 1840
+T2936	six mois avant la retraite-220 27751 27777	six mois avant sa retraite
+T2937	SI_271-221 27745 27749	1840
+T2938	SI_801-222 27979 27988	Descambos
+T2939	SI_368-223 28099 28112	ses collègues
+T2940	SI_1082-224 28683 28694	son balcon 
+T2941	SI_236-225 28757 28767	des quais 
+T2942	SI_1204-226 28804 28816	des omnibus 
+T2943	SI_441-227 28850 28898	des jours heureux passés dans cette grande ville
+T2944	SI_608-228 28880 28898	cette grande ville
+T2945	SI_1077-229 28917 28930	au restaurant
+T2946	SI_882-230 28932 28952	des soirs au théâtre
+T2947	SI_210-231 28942 28952	au théâtre
+T2948	SI_963-232 29145 29155	sa chambre
+T2949	SI_418-233 29494 29502	la Seine
+T2950	une/la voiture de déménagement-234 30800 30810	du chariot
+T2951	une/la voiture de déménagement-234 32885 32895	le chariot
+T2952	une/la voiture de déménagement-234 29784 29788	qui 
+T2953	une/la voiture de déménagement-234 29756 29784	une voiture de déménagement 
+T2954	SI_97-235 29807 29817	Nonancourt
+T2955	SI_1350-236 29819 29828	Verneuil 
+T2956	le conducteur-237 30230 30244	le conducteur 
+T2957	le conducteur-237 29893 29906	du conducteur
+T2958	SI_401-238 30029 30048	le dimanche 20 mars
+T2959	le conducteur et le charretier-239 31296 31307	les hommes 
+T2960	le conducteur et le charretier-239 31627 31646	ces deux imbéciles 
+T2961	le conducteur et le charretier-239 30315 30319	ils 
+T2962	le conducteur et le charretier-239 31328 31333	leur 
+T2963	le conducteur et le charretier-239 30230 30260	le conducteur et le charretier
+T2964	le conducteur et le charretier-239 30262 30266	Ils 
+T2965	le conducteur et le charretier-239 31376 31380	ils 
+T2966	le charretier-240 31690 31704	du charretier 
+T2967	le charretier-240 61337 61339	t'
+T2968	le charretier-240 31704 31708	qui 
+T2969	le charretier-240 61371 61375	-moi
+T2970	le charretier-240 30247 30260	le charretier
+T2971	le charretier-240 61297 61311	le charretier 
+T2972	SI_1060-241 30282 30301	exécrables auberges
+T2973	SI_1625-242 30388 30403	les mêmes gîtes
+T2974	SI_1356-243 30437 30444	l'aube 
+T2975	la route-244 30468 30475	la même
+T2976	la route-244 30449 30457	la route
+T2977	SI_366-245 30601 30613	la campagne 
+T2978	SI_324-246 30860 30869	un navire
+T2979	SI_1225-247 31432 31441	Gauburge 
+T2980	SI_244-248 31651 31671	la journée suivante 
+T2981	SI_745-249 31831 31846	le surlendemain
+T2982	SI_947-250 31905 31929	la cour des Messageries 
+T2983	SI_196-251 31975 31998	la cathédrale de Rouen 
+T2984	SI_1037-252 31992 31998	Rouen 
+T2985	SI_1632-253 32021 32030	diligence
+T2986	SI_294-254 32033 32040	Le soir
+T2987	SI_444-255 32119 32138	au théâtre des Arts
+T2988	SI_1251-256 32157 32168	ses voisins
+T2989	SI_1421-257 32234 32258	un domaine aux alentours
+T2990	SI_1112-258 32278 32290	le vendredi 
+T2991	SI_867-259 32340 32352	le dimanche 
+T2992	SI_632-260 32371 32384	une charrette
+T2993	Maître Gouy-261 37150 37160	le fermier
+T2994	Maître Gouy-261 50252 50255	il 
+T2995	Maître Gouy-261 38396 38408	maître Gouy 
+T2996	Maître Gouy-261 37975 37987	Maître Gouy 
+T2997	Maître Gouy-261 49881 49892	le fermier 
+T2998	Maître Gouy-261 50197 50204	laissa 
+T2999	Maître Gouy-261 50164 50176	maître Gouy 
+T3000	Maître Gouy-261 37162 37173	maître Gouy
+T3001	Maître Gouy-261 49994 49997	il 
+T3002	Maître Gouy-261 49851 49855	son 
+T3003	Maître Gouy-261 37314 37322	L'homme 
+T3004	Maître Gouy-261 49913 49916	Il 
+T3005	Maître Gouy-261 49795 49807	maître Gouy 
+T3006	Maître Gouy-261 37990 37994	son 
+T3007	Maître Gouy-261 32400 32411	le fermier 
+T3008	Maître Gouy-261 49901 49904	sa 
+T3009	Maître Gouy-261 50059 50062	sa 
+T3010	Maître Gouy-261 50234 50240	ruina 
+T3011	SI_336-262 32433 32448	quelques heures
+T3012	SI_281-263 32462 32492	le neuvième jour de son voyage
+T3013	SI_42-264 32587 32598	Bretteville
+T3014	SI_902-265 32613 32627	la grand'route
+T3015	SI_1566-266 32647 32668	un chemin de traverse
+T3016	SI_606-267 32685 32699	chaque minute 
+T3017	SI_953-268 32699 32724	le pignon de Chavignolles
+T3018	les ornières-269 32764 32770	elles 
+T3019	les ornières-269 32736 32749	les ornières 
+T3020	SI_907-270 32804 32833	au milieu des champs labourés
+T3021	SI_395-271 32835 32843	La nuit 
+T3022	SI_1325-272 32983 32993	des fermes
+T3023	SI_999-273 33062 33070	sa route
+T3024	un cabriolet-274 33180 33192	un cabriolet
+T3025	un cabriolet-274 33208 33211	le 
+T3026	SI_1016-275 33303 33313	une heure 
+T3027	la salle-276 33494 33496	y 
+T3028	la salle-276 33470 33478	la salle
+T3029	SI_153-277 33559 33571	le vestibule
+T3030	Germaine-278 36982 36995	aurait voulu 
+T3031	Germaine-278 36886 36890	elle
+T3032	Germaine-278 52624 52632	Germaine
+T3033	Germaine-278 37035 37037	l'
+T3034	Germaine-278 52634 52638	qui 
+T3035	Germaine-278 33692 33709	La vieille femme 
+T3036	Germaine-278 36895 36897	l'
+T3037	Germaine-278 33709 33713	qui 
+T3038	Germaine-278 36939 36943	son 
+T3039	Germaine-278 36949 36954	Elle 
+T3040	Germaine-278 36510 36530	La vieille servante 
+T3041	SI_1153-279 34641 34654	les espaliers
+T3042	SI_1681-280 34889 34897	La nuit 
+T3043	les deux chambres de B et P-281 35051 35057	elles 
+T3044	les deux chambres de B et P-281 35017 35037	Leurs deux chambres 
+T3045	SI_797-282 35489 35496	la lune
+T3046	SI_1378-283 35542 35555	le lendemain 
+T3047	SI_412-284 35756 35766	les champs
+T3048	SI_669-285 35777 35787	une grange
+T3049	SI_1349-286 35794 35817	le clocher de l'église 
+T3050	SI_1478-287 35808 35817	l'église 
+T3051	SI_100-288 35856 35879	Deux allées principales
+T3052	SI_348-289 36144 36158	les espaliers 
+T3053	SI_982-290 36245 36254	un verger
+T3054	SI_1234-291 36276 36287	un bosquet 
+T3055	un petit chemin-292 36436 36446	le sentier
+T3056	un petit chemin-292 36314 36329	un petit chemin
+T3057	M_ Vaucorbeil-293 36370 36429	un homme à chevelure grisonnante et vêtu d'un paletot noir 
+T3058	M_ Vaucorbeil-293 36546 36548	c'
+T3059	M_ Vaucorbeil-293 36554 36567	M. Vaucorbeil
+T3060	M_ Vaucorbeil-293 36464 36467	sa 
+T3061	SI_152-294 36611 36631	Les autres notables 
+T3062	M_ de Faverges-295 45232 45235	il 
+T3063	M_ de Faverges-295 44062 44066	son 
+T3064	M_ de Faverges-295 44078 44081	Il 
+T3065	M_ de Faverges-295 44933 44936	Il 
+T3066	M_ de Faverges-295 45897 45900	il 
+T3067	M_ de Faverges-295 45218 45222	ses 
+T3068	M_ de Faverges-295 44980 44988	proféra 
+T3069	M_ de Faverges-295 36684 36689	dont 
+T3070	M_ de Faverges-295 45961 45964	le 
+T3071	M_ de Faverges-295 44302 44305	il 
+T3072	M_ de Faverges-295 44032 44044	M. le comte 
+T3073	M_ de Faverges-295 45868 45871	ma 
+T3074	M_ de Faverges-295 44312 44316	son 
+T3075	M_ de Faverges-295 36641 36661	le comte de Faverges
+T3076	M_ de Faverges-295 45415 45418	me 
+T3077	M_ de Faverges-295 45065 45068	sa 
+T3078	M_ de Faverges-295 44213 44216	sa 
+T3079	M_ de Faverges-295 45812 45820	le comte
+T3080	M_ de Faverges-295 46024 46027	le 
+T3081	M_ de Faverges-295 45830 45834	mes 
+T3082	M_ de Faverges-295 42850 42854	son 
+T3083	M_ de Faverges-295 42868 42877	Le comte 
+T3084	M_ de Faverges-295 44798 44807	Le comte 
+T3085	M_ de Faverges-295 44235 44238	il 
+T3086	M_ de Faverges-295 45822 45825	je 
+T3087	M_ de Faverges-295 46010 46014	Son 
+T3088	M_ de Faverges-295 45993 45997	lui 
+T3089	M_ de Faverges-295 42814 42829	M. de Faverges 
+T3090	SI_1425-296 36653 36661	Faverges
+T3091	M_ Foureau-297 36715 36723	le maire
+T3092	M_ Foureau-297 36725 36735	M. Foureau
+T3093	M_ Foureau-297 36737 36741	qui 
+T3094	SI_837-298 36794 36806	M. Marescot 
+T3095	SI_1500-299 36819 36833	l'abbé Jeufroy
+T3096	Mme Bordin-300 41865 41870	elle 
+T3097	Mme Bordin-300 41739 41744	elle 
+T3098	Mme Bordin-300 41853 41857	son 
+T3099	Mme Bordin-300 41784 41798	cette personne
+T3100	Mme Bordin-300 41657 41667	Mme Bordin
+T3101	Mme Bordin-300 36838 36854	Mme veuve Bordin
+T3102	Mme Bordin-300 41715 41720	elle 
+T3103	Mme Bordin-300 41832 41836	ses 
+T3104	Mme Bordin-300 36866 36870	son 
+T3105	SI_235-301 36906 36914	Germaine
+T3106	SI_975-302 36927 36947	feu Germain son mari
+T3107	SI_1533-303 36962 36975	des journées 
+T3108	SI_163-304 37141 37148	la cour
+T3109	SI_1303-305 37193 37203	un garçon 
+T3110	la fermière-306 37206 37217	la fermière
+T3111	la fermière-306 37987 38001	et son épouse 
+T3112	la fermière-306 37250 37254	ses 
+T3113	la fermière-306 50059 50068	sa femme 
+T3114	la fermière-306 37401 37410	La femme 
+T3115	la fermière-306 37274 37279	elle 
+T3116	SI_603-307 37505 37517	aux manants 
+T3117	SI_640-308 37532 37543	des églises
+T3118	SI_331-309 37551 37561	la cuisine
+T3119	SI_489-310 37655 37672	la haute cheminée
+T3120	SI_560-311 38056 38074	Tous les bâtiments
+T3121	SI_993-312 38083 38099	la charretterie 
+T3122	SI_225-313 38107 38120	la bouillerie
+T3123	SI_382-314 38180 38195	une succursale 
+T3124	SI_1258-315 38290 38298	la mare 
+T3125	SI_611-316 38345 38360	les trois cours
+T3126	Bouvard Pécuchet le fermier et sa femme-317 38371 38374	on 
+T3127	Bouvard Pécuchet le fermier et sa femme-317 38660 38664	Ils 
+T3128	les cultures-318 38381 38394	les cultures 
+T3129	les cultures-318 38408 38412	les 
+T3130	les cultures-318 38422 38428	Elles 
+T3131	SI_810-319 38455 38468	les charrois 
+T3132	SI_411-320 38557 38570	les prairies 
+T3133	SI_1126-321 38683 38691	la cavée
+T3134	SI_482-322 38698 38718	une avenue de hêtres
+T3135	la cour-323 38755 38773	sa cour d'honneur 
+T3136	la cour-323 39145 39152	la cour
+T3137	SI_1529-324 38755 38785	sa cour d'honneur et sa façade
+T3138	SI_1296-325 38853 38863	Le hangar 
+T3139	SI_1358-326 38853 38876	Le hangar et le cellier
+T3140	SI_1086-327 38866 38876	le cellier
+T3141	SI_512-328 38878 38889	le fournil 
+T3142	SI_1601-329 38878 38902	le fournil et le bûcher 
+T3143	la cuisine-330 57589 57599	la cuisine
+T3144	la cuisine-330 40961 40972	la cuisine 
+T3145	la cuisine-330 42087 42097	la cuisine
+T3146	la cuisine-330 38946 38957	La cuisine 
+T3147	SI_332-331 38975 38991	une petite salle
+T3148	SI_486-332 39016 39028	le vestibule
+T3149	SI_121-333 39030 39060	une deuxième salle plus grande
+T3150	SI_316-334 39062 39070	le salon
+T3151	les chambres-335 39072 39092	Les quatre chambres 
+T3152	les chambres-335 42148 42160	les chambres
+T3153	les chambres-335 39163 39166	en 
+T3154	le corridor-336 39131 39135	qui 
+T3155	le corridor-336 39119 39131	le corridor 
+T3156	SI_1406-337 39225 39241	la bibliothèque 
+T3157	SI_88-338 39722 39745	plus de trois semaines 
+T3158	SI_65-339 39775 39805	les bourgeois de Chavignolles 
+T3159	SI_255-340 39927 39941	La population 
+T3160	un large trou-341 40972 40985	un large trou
+T3161	un large trou-341 40990 40993	le 
+T3162	un large trou-341 41219 41227	la fosse
+T3163	SI_1369-342 41399 41416	Les cultivateurs 
+T3164	SI_583-343 41437 41453	les aubergistes 
+T3165	SI_871-344 42222 42234	la mi-carême
+T3166	SI_1269-345 42251 42263	le printemps
+T3167	SI_1299-346 42279 42292	chaque matin 
+T3168	SI_1289-347 42618 42628	leur ferme
+T3169	SI_761-348 42750 42761	les autres 
+T3170	SI_1215-349 42925 42944	une heure de marche
+T3171	un coteau-350 42988 42992	qui 
+T3172	un coteau-350 42978 42988	un coteau 
+T3173	SI_371-351 42999 43018	la vallée de l'Orne
+T3174	l_Orne-352 43095 43097	y 
+T3175	l_Orne-352 43643 43646	où 
+T3176	l_Orne-352 43012 43018	l'Orne
+T3177	l_Orne-352 43020 43031	La rivière 
+T3178	l_Orne-352 43631 43641	la rivière
+T3179	SI_1426-353 43251 43266	l'autre colline
+T3180	SI_623-354 43315 43326	les maisons
+T3181	la ferme de M_ de Faverges-355 47019 47028	la ferme 
+T3182	la ferme de M_ de Faverges-355 43510 43518	la ferme
+T3183	la ferme de M_ de Faverges-355 48246 48254	la ferme
+T3184	le chateau de M_ de Faverges-356 43520 43548	Le château à façade blanche 
+T3185	le chateau de M_ de Faverges-356 45997 46007	au château
+T3186	SI_813-357 43580 43588	un bois 
+T3187	les faneuses-358 43747 43758	Des femmes 
+T3188	les faneuses-358 44863 44876	Les faneuses 
+T3189	les faneuses-358 44721 44731	aux femmes
+T3190	les faneuses-358 44902 44906	les 
+T3191	SI_1213-359 43984 44004	une longue charrette
+T3192	le régisseur de M_ de Faverges-360 44062 44075	son régisseur
+T3193	le régisseur de M_ de Faverges-360 47308 47321	Le régisseur 
+T3194	le régisseur de M_ de Faverges-360 46090 46093	Il 
+T3195	le régisseur de M_ de Faverges-360 46856 46869	Le régisseur 
+T3196	le régisseur de M_ de Faverges-360 46010 46024	Son régisseur 
+T3197	SI_794-361 44171 44184	un magistrat 
+T3198	SI_343-362 44189 44197	un dandy
+T3199	le râteleur anglais-363 44516 44535	au râteleur anglais
+T3200	le râteleur anglais-363 44572 44592	un pareil instrument
+T3201	une petite fille-364 44787 44790	sa 
+T3202	une petite fille-364 44648 44653	dont 
+T3203	une petite fille-364 44696 44699	sa 
+T3204	une petite fille-364 44827 44840	cette enfant 
+T3205	une petite fille-364 44876 44878	l'
+T3206	une petite fille-364 44595 44611	Une petite fille
+T3207	une petite fille-364 44766 44771	elle 
+T3208	SI_211-365 45942 45956	un domestique 
+T3209	SI_1154-366 46037 46087	homme à figure chafouine et de façons obséquieuses
+T3210	quatorze moissonneurs-367 46429 46435	leurs 
+T3211	quatorze moissonneurs-367 46292 46299	Chacun 
+T3212	quatorze moissonneurs-367 46369 46373	ils 
+T3213	quatorze moissonneurs-367 46145 46166	quatorze moissonneurs
+T3214	SI_318-368 46577 46591	Le crépuscule 
+T3215	le berger-369 46832 46836	son 
+T3216	le berger-369 46850 46853	lui
+T3217	le berger-369 46760 46769	Le berger
+T3218	tous les bâtiments de la ferme-370 46997 47028	Tous les bâtiments de la ferme 
+T3219	tous les bâtiments de la ferme-370 47048 47059	occupaient 
+T3220	la cour Faverges-371 48924 48932	la cour 
+T3221	la cour Faverges-371 47100 47102	y 
+T3222	la cour Faverges-371 47078 47085	la cour
+T3223	un ruisseau-372 47160 47172	un ruisseau 
+T3224	un ruisseau-372 47172 47175	qu'
+T3225	SI_1250-373 47339 47353	les bergeries 
+T3226	SI_1268-374 47478 47488	La grange 
+T3227	SI_1360-375 47507 47522	une cathédrale 
+T3228	SI_317-376 47613 47626	une servante 
+T3229	SI_132-377 47738 47751	le pigeonnier
+T3230	la bouverie-378 48264 48275	la bouverie
+T3231	la bouverie-378 48441 48443	y 
+T3232	la bouverie-378 48337 48340	sa 
+T3233	la bouverie-378 48349 48352	la 
+T3234	les gens de travail-379 49077 49083	leurs 
+T3235	les gens de travail-379 49035 49055	Les gens de travail 
+T3236	SI_365-380 49251 49258	le soir
+T3237	SI_1357-381 49316 49334	la Maison rustique
+T3238	une carriole-382 49493 49497	que 
+T3239	une carriole-382 49480 49493	une carriole 
+T3240	SI_1417-383 49693 49708	les laboureurs 
+T3241	SI_1556-384 50436 50457	Son notaire de Paris 
+T3242	SI_865-385 50800 50816	deux charretiers
+T3243	SI_782-386 50818 50829	deux femmes
+T3244	SI_275-387 50831 50841	un berger 
+T3245	SI_1340-388 51081 51101	Au mois de novembre 
+T3246	SI_1247-389 51092 51101	novembre 
+T3247	SI_425-390 51648 51665	L'année suivante 
+T3248	SI_571-391 51865 51883	le long de l'année
+T3249	SI_573-392 51885 51894	du matin 
+T3250	SI_666-393 51900 51907	au soir
+T3251	SI_895-394 51971 51985	le même homme 
+T3252	SI_584-395 52294 52317	La fille de basse-cour 
+T3253	SI_572-396 52346 52362	des gens mariés 
+T3254	SI_746-397 52364 52376	les enfants 
+T3255	SI_1281-398 52389 52400	les cousins
+T3256	SI_1397-399 52402 52414	les cousines
+T3257	SI_859-400 52416 52426	les oncles
+T3258	SI_357-401 52428 52445	les belles-sœurs 
+T3259	SI_842-402 52545 52553	le soir 
+T3260	SI_1301-403 52592 52603	la chambre 
+T3261	un batteur en grange-404 52881 52884	tu 
+T3262	un batteur en grange-404 52869 52879	Misérable 
+T3263	un batteur en grange-404 52911 52913	t'
+T3264	un batteur en grange-404 52810 52812	un
+T3265	un batteur en grange-404 52829 52832	le 
+T3266	le village-405 52896 52907	du village 
+T3267	le village-405 52907 52911	qui 
+T3268	SI_1104-406 54455 54465	du perron 
+T3269	SI_208-407 54625 54656	toutes les allées de sable neuf
+T3270	SI_514-408 55955 55971	du bon jardinier
+T3271	SI_1103-409 58027 58053	les jardins de la capitale
+T3272	SI_1398-410 58488 58494	Puvis 
+T3273	SI_1162-411 58510 58526	le manuel Roret 
+T3274	SI_687-412 58575 58583	Franklin
+T3275	SI_51-413 58585 58592	Riéfel 
+T3276	SI_1454-414 58585 58605	Riéfel et M. Rigaud 
+T3277	SI_248-415 58595 58605	M. Rigaud 
+T3278	SI_1502-416 58709 58717	Leclerc 
+T3279	SI_760-417 58768 58777	Gasparin 
+T3280	un Lyonnais-418 58794 58797	qui
+T3281	un Lyonnais-418 58782 58794	un Lyonnais 
+T3282	SI_1496-419 58807 58821	un demi-siècle
+T3283	SI_1324-420 58908 58913	Tull 
+T3284	le major Beetson-421 58985 58989	qui 
+T3285	le major Beetson-421 58968 58985	le major Beetson 
+T3286	SI_792-422 59516 59525	Louis Xv 
+T3287	SI_657-423 59529 59550	un prêtre de Touraine
+T3288	SI_14-424 59542 59550	Touraine
+T3289	SI_727-425 60489 60497	sa cour 
+T3290	SI_556-426 60585 60596	la campagne
+T3291	les pays-427 60879 60882	où 
+T3292	les pays-427 60870 60879	les pays 
+T3293	les paysans-428 61460 61464	les 
+T3294	les paysans-428 61535 61538	eux
+T3295	les paysans-428 61418 61430	les paysans 
+T3296	SI_377-429 61821 61834	des familles 

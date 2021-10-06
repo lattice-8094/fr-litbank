@@ -9626,7 +9626,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <fs id="s-CHAINE-169-fs">
 <f name="REF"><string>GuerreCivile</string></f>
 <f name="NB MAILLONS"><string>2</string></f>
-<f name="TYPE REFERENT"><string>EVENT</string></f>
+<f name="TYPE REFERENT"><string>HIST</string></f>
 </fs>
 <fs id="s-CHAINE-171-fs">
 <f name="REF"><string>SeptAns1</string></f>
@@ -10021,12 +10021,12 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <fs id="s-CHAINE-475-fs">
 <f name="REF"><string>RuptureDuTraiteDAmiens</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
-<f name="TYPE REFERENT"><string>EVENT</string></f>
+<f name="TYPE REFERENT"><string>HIST</string></f>
 </fs>
 <fs id="s-CHAINE-476-fs">
 <f name="REF"><string>TraiteDAmiens</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
-<f name="TYPE REFERENT"><string>EVENT</string></f>
+<f name="TYPE REFERENT"><string>HIST</string></f>
 </fs>
 <fs id="s-CHAINE-477-fs">
 <f name="REF"><string>Amiens</string></f>
@@ -10171,7 +10171,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <fs id="s-CHAINE-624-fs">
 <f name="REF"><string>TraiteDePaixDe1803</string></f>
 <f name="NB MAILLONS"><string>1</string></f>
-<f name="TYPE REFERENT"><string>EVENT</string></f>
+<f name="TYPE REFERENT"><string>HIST</string></f>
 </fs>
 <fs id="s-CHAINE-636-fs">
 <f name="REF"><string>SiAgreablesAnnees</string></f>
