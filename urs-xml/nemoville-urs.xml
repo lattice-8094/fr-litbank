@@ -9,7 +9,7 @@ nemoville - annotations</title>
 <resp>
 annotated by</resp>
 <name>
-frederique</name>
+Claude Grunspan</name>
 </respStmt>
 </titleStmt>
 <publicationStmt>
@@ -4241,7 +4241,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-24-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-179-fs">
 <f name="REF"><string>SI_49</string></f>
@@ -4304,7 +4304,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>l_abbé Bernard</string></f>
 </fs>
 <fs id="u-BAMMAN-30-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-202-fs">
 <f name="REF"><string>un marin</string></f>
@@ -4424,7 +4424,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-45-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-253-fs">
 <f name="REF"><string>l_abbé Bernard</string></f>
@@ -4631,7 +4631,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>les femmes</string></f>
 </fs>
 <fs id="u-BAMMAN-67-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-68-fs">
 <f name="EVENT"><string>CERTAIN</string></f>
@@ -4655,7 +4655,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>le paquebot</string></f>
 </fs>
 <fs id="u-BAMMAN-70-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-355-fs">
 <f name="REF"><string>les passagers</string></f>
@@ -4871,7 +4871,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>l_Océan Pacifique</string></f>
 </fs>
 <fs id="u-BAMMAN-83-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-432-fs">
 <f name="REF"><string>quel point du globe</string></f>
@@ -4973,7 +4973,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-93-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-504-fs">
 <f name="REF"><string>les passagers</string></f>
@@ -5318,7 +5318,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>le paquebot</string></f>
 </fs>
 <fs id="u-BAMMAN-118-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-650-fs">
 <f name="REF"><string>l_Océan Pacifique</string></f>
@@ -5507,7 +5507,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Roger et Paul</string></f>
 </fs>
 <fs id="u-BAMMAN-131-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-747-fs">
 <f name="REF"><string>le bord de la mer</string></f>
@@ -5582,7 +5582,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Paul</string></f>
 </fs>
 <fs id="u-BAMMAN-139-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-784-fs">
 <f name="REF"><string>Nautilus</string></f>
@@ -5666,7 +5666,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Roger</string></f>
 </fs>
 <fs id="u-BAMMAN-145-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-821-fs">
 <f name="REF"><string>l_Océan Pacifique</string></f>
@@ -5852,7 +5852,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Roger</string></f>
 </fs>
 <fs id="u-BAMMAN-157-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-890-fs">
 <f name="REF"><string>SI_273</string></f>
@@ -5879,7 +5879,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Paul</string></f>
 </fs>
 <fs id="u-BAMMAN-158-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-159-fs">
 <f name="EVENT"><string>CERTAIN</string></f>
@@ -5972,7 +5972,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Paul</string></f>
 </fs>
 <fs id="u-BAMMAN-161-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-944-fs">
 <f name="REF"><string>Roger et Paul</string></f>
@@ -6203,7 +6203,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Paul</string></f>
 </fs>
 <fs id="u-BAMMAN-169-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1048-fs">
 <f name="REF"><string>Paul</string></f>
@@ -6356,7 +6356,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Roger et Paul</string></f>
 </fs>
 <fs id="u-BAMMAN-175-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1115-fs">
 <f name="REF"><string>Roger et Paul</string></f>
@@ -6439,7 +6439,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>M_ Richard</string></f>
 </fs>
 <fs id="u-BAMMAN-185-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1156-fs">
 <f name="REF"><string>les passagers</string></f>
@@ -6505,7 +6505,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>le docteur Desmarais</string></f>
 </fs>
 <fs id="u-BAMMAN-193-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1176-fs">
 <f name="REF"><string>le docteur Desmarais</string></f>
@@ -6754,7 +6754,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Jean Demers</string></f>
 </fs>
 <fs id="u-BAMMAN-219-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1261-fs">
 <f name="REF"><string>Jean Demers</string></f>
@@ -7255,7 +7255,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>M_ Richard</string></f>
 </fs>
 <fs id="u-BAMMAN-263-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-264-fs">
 <f name="EVENT"><string>CERTAIN</string></f>
@@ -7351,7 +7351,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>M_ Richard</string></f>
 </fs>
 <fs id="u-BAMMAN-271-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1472-fs">
 <f name="REF"><string>Marcelle</string></f>
@@ -7447,7 +7447,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Marcelle</string></f>
 </fs>
 <fs id="u-BAMMAN-282-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1500-fs">
 <f name="REF"><string>le docteur Desmarais</string></f>
@@ -7495,7 +7495,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-288-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1513-fs">
 <f name="REF"><string>M_ Richard</string></f>
@@ -7627,7 +7627,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>l_abbé Bernard</string></f>
 </fs>
 <fs id="u-BAMMAN-300-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1556-fs">
 <f name="REF"><string>Roger</string></f>
@@ -7714,7 +7714,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-311-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1583-fs">
 <f name="REF"><string>un salon splendide</string></f>
@@ -7744,7 +7744,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-316-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1590-fs">
 <f name="REF"><string>l_abbé Bernard</string></f>
@@ -7837,7 +7837,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-326-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1619-fs">
 <f name="REF"><string>Roger</string></f>
@@ -8053,7 +8053,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Roger</string></f>
 </fs>
 <fs id="u-BAMMAN-335-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1702-fs">
 <f name="REF"><string>Nautilus</string></f>
@@ -8404,7 +8404,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>chambre de l_abbé Bernard</string></f>
 </fs>
 <fs id="u-BAMMAN-356-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1848-fs">
 <f name="REF"><string>l_abbé Bernard</string></f>
@@ -8455,7 +8455,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-361-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1861-fs">
 <f name="REF"><string>Roger</string></f>
@@ -8647,7 +8647,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>SI_466</string></f>
 </fs>
 <fs id="u-BAMMAN-378-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1932-fs">
 <f name="REF"><string>Nautilus</string></f>
@@ -8683,7 +8683,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-380-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-381-fs">
 <f name="EVENT"><string>CERTAIN</string></f>
@@ -8728,7 +8728,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>habitants de Némoville</string></f>
 </fs>
 <fs id="u-BAMMAN-383-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-1965-fs">
 <f name="REF"><string>habitants de Némoville</string></f>
@@ -9034,7 +9034,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>SI_495</string></f>
 </fs>
 <fs id="u-BAMMAN-404-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-405-fs">
 <f name="EVENT"><string>CERTAIN</string></f>
@@ -9538,7 +9538,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>SI_525</string></f>
 </fs>
 <fs id="u-BAMMAN-439-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2243-fs">
 <f name="REF"><string>Marcelle</string></f>
@@ -9556,7 +9556,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Marcelle</string></f>
 </fs>
 <fs id="u-BAMMAN-441-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2249-fs">
 <f name="REF"><string>Roger</string></f>
@@ -9616,7 +9616,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Roger</string></f>
 </fs>
 <fs id="u-BAMMAN-446-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2275-fs">
 <f name="REF"><string>Paul</string></f>
@@ -9988,7 +9988,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-479-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2394-fs">
 <f name="REF"><string>Marcelle</string></f>
@@ -10222,7 +10222,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Gaétane</string></f>
 </fs>
 <fs id="u-BAMMAN-495-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2516-fs">
 <f name="REF"><string>le docteur Desmarais</string></f>
@@ -10237,7 +10237,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Gaétane</string></f>
 </fs>
 <fs id="u-BAMMAN-496-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2521-fs">
 <f name="REF"><string>le docteur Desmarais</string></f>
@@ -10402,7 +10402,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>le docteur Desmarais</string></f>
 </fs>
 <fs id="u-BAMMAN-506-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2585-fs">
 <f name="REF"><string>le docteur Desmarais</string></f>
@@ -10417,7 +10417,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>le docteur Desmarais</string></f>
 </fs>
 <fs id="u-BAMMAN-509-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2588-fs">
 <f name="REF"><string>Marcelle</string></f>
@@ -10576,7 +10576,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Marcelle</string></f>
 </fs>
 <fs id="u-BAMMAN-522-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2639-fs">
 <f name="REF"><string>Roger</string></f>
@@ -10735,10 +10735,10 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-536-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-537-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2689-fs">
 <f name="REF"><string>Gaétane</string></f>
@@ -10792,7 +10792,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>M_ Richard</string></f>
 </fs>
 <fs id="u-BAMMAN-540-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2707-fs">
 <f name="REF"><string>Marcelle</string></f>
@@ -10804,7 +10804,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Roger</string></f>
 </fs>
 <fs id="u-BAMMAN-542-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2710-fs">
 <f name="REF"><string>Roger</string></f>
@@ -10819,7 +10819,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Marcelle</string></f>
 </fs>
 <fs id="u-BAMMAN-543-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2718-fs">
 <f name="REF"><string>Marcelle</string></f>
@@ -10849,7 +10849,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Roger</string></f>
 </fs>
 <fs id="u-BAMMAN-547-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2726-fs">
 <f name="REF"><string>Roger</string></f>
@@ -11104,7 +11104,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Roger</string></f>
 </fs>
 <fs id="u-BAMMAN-562-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2829-fs">
 <f name="REF"><string>Gaétane</string></f>
@@ -11212,7 +11212,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>l_abbé Bernard</string></f>
 </fs>
 <fs id="u-BAMMAN-571-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2873-fs">
 <f name="REF"><string>l_abbé Bernard</string></f>
@@ -11269,7 +11269,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-575-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-2895-fs">
 <f name="REF"><string>l_abbé Bernard</string></f>
@@ -11626,7 +11626,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-606-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-3039-fs">
 <f name="REF"><string>SI_676</string></f>
@@ -11791,7 +11791,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-627-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-628-fs">
 <f name="EVENT"><string>CERTAIN</string></f>
@@ -11869,7 +11869,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-634-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-3136-fs">
 <f name="REF"><string>Duflot</string></f>
@@ -11923,7 +11923,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-BAMMAN-642-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-3157-fs">
 <f name="REF"><string>Paul</string></f>
@@ -11941,7 +11941,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>Paul</string></f>
 </fs>
 <fs id="u-BAMMAN-645-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-3167-fs">
 <f name="REF"><string>les convives</string></f>
@@ -11968,7 +11968,7 @@ Created with TXM 0.8.1.202006290905 and Analec extension null with 'XML-TEI-URS 
 <f name="REF"><string>les convives</string></f>
 </fs>
 <fs id="u-BAMMAN-647-fs">
-<f name="EVENT"><string>INCERTAIN</string></f>
+<f name="EVENT"><string>CERTAIN</string></f>
 </fs>
 <fs id="u-MENTION-3176-fs">
 <f name="REF"><string>l_abbé Bernard</string></f>
