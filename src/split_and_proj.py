@@ -13,13 +13,16 @@ if __name__ == '__main__':
     args = vars(parser.parse_args())
     tsv_dir = args["input"]
 
+    dev_titles = ["Bouvard_et_Pecuchet", "De_la_ville_au_moulin", "Douce_Lumiere"]
+    test_titles = ["elisabeth_Seton", "La_morte_amoureuse", "Le_capitaine_Fracasse"]
+
     corpus = {"train":'', "dev":'', "test":''}
     for fn in glob.glob(os.path.join('.', tsv_dir+'/*.tsv')):
         print(fn)
         with open(fn,'r') as f:
-            if any(x in fn for x in ["Bouvard", "moulin", "Douce"]):
+            if any(x in fn for x in dev_titles):
                 corpus['dev']+=f.read()
-            elif any(x in fn for x in ["Seton", "morte_amoureuse", "Fracasse"]):
+            elif any(x in fn for x in test_titles):
                 corpus['test']+=f.read()
             else:
                 corpus['train']+=f.read()
