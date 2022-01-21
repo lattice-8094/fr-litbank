@@ -24,7 +24,7 @@ if __name__ == '__main__':
     if not os.path.isdir(outputDir):
         os.mkdir(outputDir)
 
-
+    #types d'entités à supprimer
     to_clean=['TO_DISCUSS','OTHER','None', 'METALEPSE']
 
     ctr=0
@@ -49,21 +49,28 @@ if __name__ == '__main__':
                 next_e= entities[i+1]
                 aft_e = entities[i+2]
                 prev_e = entities[i-1]
+                #si l'on par exemple ((Bouvard)PER et (Pécuchet)PER )PER
+                #on saute l'entité contenante
                 if e['st']<=next_e['st'] and e['nd']>=next_e['nd'] and next_e['type']==e['type'] and aft_e['text'] in e['text'] and any(x in e['text'] for x in [' et ', ' ou ', ', ', ' ni ']):
                     ctr+=1
                     continue
+                #Sauter ces 3 fausses entités que j'ai remarquées
                 if any(e['text'].startswith(x) and e['id']==y for x,y in \
                     zip(["Le carreau de briques","New-York","St-Pierre"],['T209','T26','T356'])):
                     ctr+=1
                     continue
+                #si l'on a par exemple (Un (des paquebots)VEH)VEH
+                #on saute l'entité contenue
                 if prev_e['st']<=e['st'] and prev_e['nd']>=e['nd'] and e['type']==prev_e['type'] and any(prev_e['text'].lower().replace('l\'','').startswith(x+' de') for x in ['un', 'une','deux','quelques-uns']):
                     ctr+=1
                     continue
+                #on saute les entités ayant un des types dans to_clean
                 if e['type'] in to_clean:
                     ctr+=1
                     continue
             output+='\t'.join([e['id'],' '.join([e['type'],str(e['st']),str(e['nd'])]),e['text']])+'\n'
 
+        #NO_PER est fusionné avec PER
         with open(fn.replace(brat_dir,outputDir+'/'),'w+') as f:
             f.write(output.replace('NO_PER','PER'))
 

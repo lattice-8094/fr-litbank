@@ -6,6 +6,8 @@ import pandas as pd
 import numpy as np
 
 if __name__ == '__main__':
+    bioes = True
+    contained_first = True
 
     #prendre les arguments
     parser = argparse.ArgumentParser()
@@ -32,6 +34,10 @@ if __name__ == '__main__':
             df = pd.DataFrame(content, columns=['ct','st','nd'])
             df.st = pd.to_numeric(df.st)
             df.nd = pd.to_numeric(df.nd)
+            #On trie les entités selon par ordre croissant de début.
+            #Si plusieurs entités commencent en même temps,
+            #celle qui se termine en dernier passe en premier,
+            #Cela est utile plus tard
             df.sort_values(['st','nd'], ascending=(True,False), inplace=True)
         with open(filename[:-3]+"txt") as f:
             text = f.read().replace('’','\'')
@@ -71,33 +77,44 @@ if __name__ == '__main__':
         df.index = range(len(df))
         df['lvl'] = [0]*len(df)
         for i, ent in df.iterrows():
+            #Si une entité A contient une entité B,
+            #B suit forcément A dans df, grâce au tri défini ci-dessus.
+            #On vérifie alors pour chaque entité si elle contient l'entité
+            #suivante, et ce, jusqu'à 5 niveaux d'imbrication.
             for level_ctr in range(1, min(5, len(df)-i)):
                 this_ent = (next_ent if level_ctr>1 else ent).copy()
                 next_ent = df.loc[i+level_ctr]
-                if this_ent.st <= next_ent.st < this_ent.nd:
+                if this_ent.st <= next_ent.st < this_ent.nd: #this_ent contient next_ent
                     ent.lvl+=1
                     max_depth = max(max_depth,ent.lvl+1)
-                else:
+                else: #plus d'entités imbriquées
                     break
-            w = words[ent.st]
+            #ent.lvl indique maintenant pour chaque entité son niveau d'imbrication
+            #on accède successivement aux mots de l'entités
+            w = words[ent.st] #on accède aux mots par l'indice de leur premier caractère
             l = len(w['entities'])
-            if w['next'] != ent.nd:
+            if w['next'] != ent.nd or not bioes:
                 w['entities'].append(('B-'+ent.ct,ent.lvl))
             else:
                 w['entities'].append(('S-'+ent.ct,ent.lvl))
             while w['next'] <= len(text) and words[w['next']]['next'] < ent.nd:
                 w = words[w['next']]
                 while len(w['entities'])!=l:
+                    #remplir "les trous" à côté de l'entité contenue par des O
                     assert len(w['entities'])<l
                     w['entities'].append(('O',l-len(w['entities'])))
                 w['entities'].append(('I-'+ent.ct,ent.lvl))
+            #Tous les mots sauf le dernier sont traités
             w = words[w['next']]
             if w['next'] <= ent.nd or (w['next'] == ent.nd+1 and w['text'][-1]=='\n') :
-                w['entities'].append(('E-'+ent.ct,ent.lvl))
+                if bioes :
+                    w['entities'].append(('E-'+ent.ct,ent.lvl))
+                else:
+                    w['entities'].append(('I-'+ent.ct,ent.lvl))
             w = words[w['next']]
 
+        #Chaque mot possède sa liste 'entities', il faut remplir le fichier tsv
         output = ''
-        contained_first = True
         for i,w in enumerate(list(words.values())):
             sent_end=False
             if w['text']=='\n' or w['text']=='':
