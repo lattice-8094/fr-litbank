@@ -1,0 +1,279 @@
+T1	Citation 19818 19871	« Pris les mains couvertes de sang. Très-dangereux. »
+T2	Citation 20810 20863	« Pris les mains couvertes de sang. Très-dangereux. »
+T3	Citation 21680 21722	« ces forçats qui n'en finissaient plus. »
+T5	Citation 27415 27437	« Eh ! la chicorée ! »
+T6	Entite 27381 27395	Une voix forte
+R1	Source Arg1:T5 Arg2:T6
+T7	Introducteur 27406 27412	criait
+R2	Introduction Arg1:T5 Arg2:T7
+T10	Citation 2012 2038;2099 2132	— Eh ! la mère, avançons ! … C'est quelque cochon d'ivrogne. 	
+T11	Citation 2258 2284	— On n'écrase pas le monde
+T12	Citation 2675 2691	— Eh ! l'homme !
+T13	Citation 2825 2926	— Fouettez donc, la mère ! … Il en a plein son sac, le sacré porc ! Poussez-moi ça dans le ruisseau !
+T88	Introducteur 2039 2043	cria
+T89	Entite 2044 2057	un des hommes
+T90	Introducteur 2286 2289	dit
+T91	Entite 2290 2294	elle
+T92	Entite 2752 2795	Celui qui était agenouillé dans ses légumes
+T93	Introducteur 2796 2802	reprit
+T94	Introducteur 3188 3196	répondit
+T95	Entite 3197 3199	il
+T15	Citation 3167 3185	— Je ne sais pas …
+T16	Citation 3267 3318	— J'allais à Paris, je suis tombé, je ne sais pas …
+T17	Citation 3698 3731	— Et où alliez-vous, dans Paris ?
+T18	Citation 3870 3899	— Par là, du côté des Halles.
+T19	Citation 4084 4101	— Vous êtes las ?
+T20	Citation 4103 4118	— Oui, bien las
+T21	Citation 4219 4357	— Allons, vite, montez dans ma voiture ! Vous nous faites perdre un temps, là ! … Je vais aux Halles, je vous déballerai avec mes légumes.
+T22	Citation 4493 4640	— À la fin, voulez-vous nous ficher la paix ! Vous m'embêtez, mon brave … Puisque je vous dis que je vais aux Halles ! Dormez, je vous réveillerai.
+T23	Citation 5071 5169	— Ah ! malheur ! s'il fallait ramasser les ivrognes ! … Vous avez de la constance, vous, la mère !
+T24	Citation 5905 5955;5998 6104	— Je suis de Nanterre, je me nomme madame François Depuis que j'ai perdu mon pauvre homme, je vais tous les matins aux Halles. C'est dur, allez ! … Et vous ?
+T25	Citation 6106 6147;6184 6262	— Je me nomme Florent, je viens de loin … Je vous demande excuse ; je suis si fatigué, que cela m'est pénible de parler.
+T26	Citation 10416 10441	— Eh ! l'homme, là-haut !
+T27	Citation 10683 10723	— Vous allez m'aider à décharger, hein ?
+T28	Citation 10904 11031	— Allons donc, allons donc, plus vite que ça ! Faites avancer la voiture … Combien avez-vous de mètres ? Quatre, n'est-ce pas ?
+T29	Citation 11872 12015	— Vous seriez bien gentil de garder ma marchandise, pendant que je vais remiser la voiture … C'est à deux pas, rue Montorgueil, au Compas d'or.
+T30	Citation 15115 15263	— Tenez, vous n'êtes pas raisonnable, Lacaille … Vous les revendez quatre à cinq sous aux Parisiens, ne dites pas non … À deux sous, si vous voulez.
+T31	Citation 15298 15451	— Les gens croient que ça pousse tout seul, vraiment … Il peut en chercher, des carottes à un sou, cet ivrogne de Lacaille … Vous verrez qu'il reviendra.
+T32	Citation 15513 16180	— Dites donc, s'il y a longtemps que vous êtes absent de Paris, vous ne connaissez peut-être pas les nouvelles Halles ? Voici cinq ans au plus que c'est bâti … Là, tenez, le pavillon qui est à côté de nous, c'est le pavillon aux fruits et aux fleurs ; plus loin, la marée, la volaille, et, derrière, les gros légumes, le beurre, le fromage … Il y a six pavillons, de ce côté-là ; puis, de l'autre côté, en face, il y en a encore quatre : la viande, la triperie, la Vallée … C'est très-grand, mais il y fait rudement froid, l'hiver. On dit qu'on bâtira encore deux pavillons, en démolissant les maisons, autour de la Halle au blé. Est-ce que vous connaissiez tout ça ?
+T33	Citation 16182 16187;16207 16301	— Non J'étais à l'étranger … Et cette grande rue, celle qui est devant nous, comment la nomme-t-on ?
+T34	Citation 16303 16503	— C'est une rue nouvelle, la rue du Pont-Neuf, qui part de la Seine et qui arrive jusqu'ici, à la rue Montmartre et à la rue Montorgueil … S'il avait fait jour, vous vous seriez tout de suite reconnu.
+T35	Citation 16564 16596	— C'est vous, mère Chantemesse ?
+T36	Citation 23113 23578	— Cette pauvre mère Chantemesse, elle a au moins soixante-douze ans. J'étais gamine, qu'elle achetait déjà ses navets à mon père. Et pas un parent avec ça, rien qu'une coureuse qu'elle a ramassée je ne sais où, et qui la fait damner … Eh bien, elle vivote, elle vend au petit tas, elle se fait encore ses quarante sous par jour … Moi, je ne pourrais pas rester dans ce diable de Paris, toute la journée, sur un trottoir. Si l'on y avait quelques parents, au moins !
+T37	Citation 23618 23667	— Vous avez de la famille à Paris, n'est-ce pas ?
+T38	Citation 24333 24561	— Moi, j'ai eu un neveu à Paris. Il a mal tourné, il s'est engagé … Enfin, c'est heureux quand on sait où descendre. Vos parents, peut-être, vont être bien surpris de vous voir. Et c'est une joie quand on revient, n'est-ce pas ?
+T39	Citation 24805 24824;24841 24877	— Si, en attendant, vous aviez besoin de quelque chose …
+T40	Citation 25088 25142	— Ah ! bien, alors, vous n'avez qu'à attendre le jour.
+T41	Citation 28437 28487	— Dis donc, Marcel, vends-tu pour cent sous, dis ?
+T42	Citation 28608 28717	— Dis Marcel, cent sous ce panier-là, et quatre francs l'autre, ça fait-il neuf francs qu'il faut te donner ?
+T43	Citation 28748 28788	— Alors qu'est-ce qu'il faut te donner ?
+T44	Citation 28790 28897	— Eh ! dix francs, tu le sais bien, je te l'ai dit … Et ton Jules, qu'est-ce que tu en fais, la Sarriette ?
+T45	Citation 28971 28982;28996 29088	— Ah bien ! Jules dort sa grasse matinée … Il prétend que les hommes, ce n'est pas fait pour travailler.
+T46	Citation 29979 30011	— Eh bien, ça va-t-il à un sou ?
+T47	Citation 30021 30061;30100 30151	— J'étais bien sûre de vous revoir, vous . Voyons, prenez mon reste. Il y a dix-sept bottes.
+T48	Citation 30153 30177	— Ça fait dix-sept sous.
+T49	Citation 30179 30200	— Non, trente-quatre.
+T50	Citation 30351 30379;30401 30645	— Voyez-vous, il me guettait Ce vieux-là râle sur tout le marché ; il attend quelquefois le dernier coup de cloche, pour acheter quatre sous de marchandise … Ah ! ces Parisiens ! ça se chamaille pour deux liards, et ça va boire le fond de sa bourse chez le marchand de vin.
+T51	Citation 30872 30903	— À présent, je puis m'en aller
+T52	Citation 31299 31319	— Je vais m'en aller
+T53	Citation 32064 32091	— Bonjour, madame François.
+T54	Citation 32575 32602;32636 32776	— Bonjour, monsieur Claude, Vous savez, je vous ai attendu, lundi ; et comme vous n'êtes pas venu, j'ai garé votre toile ; je l'ai accrochée à un clou, dans ma chambre.
+T55	Citation 32778 32949	— Vous êtes trop bonne, madame François, j'irai terminer mon étude, un de ces jours … Lundi, je n'ai pas pu … Est-ce que votre grand prunier a encore toutes ses feuilles ?
+T56	Citation 32951 32966	— Certainement.
+T57	Citation 32968 33255	— C'est que, voyez-vous, je le mettrai dans un coin du tableau. Il fera bien, à gauche du poulailler. J'ai réfléchi à ça toute la semaine … Hein ! les beaux légumes, ce matin. Je suis descendu de bonne heure, me doutant qu'il y aurait un lever de soleil superbe sur ces gredins de choux.
+T58	Citation 33332 33393	— Eh bien, je m'en vais. Adieu … À bientôt, monsieur Claude !
+T59	Citation 33457 33620	— Tenez, voilà monsieur qui revient de loin, paraît-il. Il ne se reconnaît plus dans votre gueux de Paris. Vous pourriez peut-être lui donner un bon renseignement.
+T60	Citation 33951 33988	— Je vous accompagne. Où allez-vous ?
+T61	Citation 34166 34213	— Est-ce que la rue Pirouette existe toujours ?
+T62	Citation 34215 34226;34243 34502	— Mais oui, Un coin bien curieux du vieux Paris, cette rue-là ! Elle tourne comme une danseuse, et les maisons y ont des ventres de femme grosse … J'en ai fait une eau-forte pas trop mauvaise. Quand vous viendrez chez moi, je vous la montrerai … C'est là que vous allez ?
+T63	Citation 34700 34718;34733 34833	— Ça ne fait rien, allons tout de même rue Pirouette. La nuit, elle est d'une couleur ! … Venez donc, c'est à deux pas.
+T64	Citation 37285 37326	— Tiens ! mademoiselle Saget est matinale
+T65	Citation 37415 37557	— J'ai eu une tante, dans cette maison-là. C'est une boîte à cancans … Ah ! voilà les Méhudin qui se remuent ; il y a de la lumière au second.
+T66	Citation 38052 38087	— Voyons, où allez-vous, à la fin !
+T67	Citation 38089 38123;38146 38169	— Je ne vais nulle part, à présent Allons où vous voudrez.
+T68	Citation 39287 39314	— Que voulez-vous prendre ?
+T69	Citation 39875 39902	— Voyons, que prenez-vous ?
+T70	Citation 40518 40548;40639 40882	— Un bon garçon, cet Alexandre Il est très amusant à la campagne ; il fait des tours de force ; puis, il est superbe, le gredin ; je l'ai vu nu, et s'il voulait me poser des académies, en plein air … Maintenant, si cela vous plaît, nous allons faire un tour dans les Halles.
+T71	Citation 46542 46587	— C'est Cendrillon qui rentre sans pantoufles
+T72	Citation 47510 47926	— Puis, je déjeune ici, par les yeux au moins, et cela vaut encore mieux que de ne rien prendre. Quelquefois, quand j'oublie de dîner, la veille, je me donne une indigestion, le lendemain, à regarder arriver toutes sortes de bonnes choses. Ces matins-là, j'ai encore plus de tendresses pour mes légumes … Non, tenez, ce qui est exaspérant, ce qui n'est pas juste, c'est que ces gredins de bourgeois mangent tout ça !
+T73	Citation 48686 48693;48717 48851	— Tenez regardez, au coin du trottoir. N'est-ce pas un tableau tout fait, et qui serait plus humain que leurs sacrées peintures poitrinaires ?
+T74	Citation 50297 50459	— C'est drôle, vous avez dû remarquer cela, vous ? … On trouve toujours quelqu'un pour vous payer à boire, on ne rencontre jamais personne qui vous paye à manger.
+T75	Citation 51204 51233;51265 51417	— C'est ce diable de Marjolin Il est, pour sûr, dans quelque gouttière, à moins qu'il n'ait passé la nuit avec les bêtes de la cave aux volailles … J'ai besoin de lui pour une étude.
+T76	Citation 57910 57945	— C'est crânement beau tout de même
+T77	Citation 59605 59636	— Eh ! Marjolin ! eh ! Cadine !
+T78	Citation 59822 59978	— Vous savez, au fond de l'impasse des Bourdonnais … Mon nom est écrit à la craie sur la porte, Claude Lantier … Venez voir l'eau-forte de la rue Pirouette.
+T4	Introducteur 2692 2695	dit
+T79	Entite 2696 2700	elle
+R3	Introduction Arg1:T12 Arg2:T4	
+R4	Source Arg1:T12 Arg2:T79	
+T80	Introducteur 3732 3739	demanda
+T81	Entite 3742 3746	elle
+R5	Source Arg1:T17 Arg2:T81	
+R6	Introduction Arg1:T17 Arg2:T80	
+T82	Introducteur 4120 4127	murmura
+T83	Entite 4130 4132	il
+R7	Source Arg1:T20 Arg2:T83	
+R8	Introduction Arg1:T20 Arg2:T82	
+T84	Introducteur 10442 10446	cria
+T85	Entite 10459 10474	madame François
+R9	Source Arg1:T26 Arg2:T85	
+R10	Introduction Arg1:T26 Arg2:T84	
+T86	Introducteur 16189 16197	répondit
+T87	Entite 16198 16205	Florent
+R11	Introduction Arg1:T33 Arg2:T86	
+R12	Source Arg1:T33 Arg2:T87	
+R13	Introduction Arg1:T11 Arg2:T90	
+R14	Source Arg1:T11 Arg2:T91	
+R15	Introduction Arg1:T13 Arg2:T93	
+R16	Source Arg1:T13 Arg2:T92
+R17	Introduction Arg1:T15 Arg2:T94	
+R18	Source Arg1:T15 Arg2:T95	
+T8	Citation 3075 3132;3147 3165	— Il ne faut pas rester là, vous allez vous faire écraser … Où alliez-vous ?
+T9	Introducteur 3138 3141	dit
+T14	Entite 3142 3146	elle
+R19	Introduction Arg1:T8 Arg2:T9	
+R20	Source Arg1:T8 Arg2:T14	
+T96	Entite 3825 3827	Il
+R21	Source Arg1:T18 Arg2:T96	
+T97	Entite 4002 4015	La maraîchère
+R22	Source Arg1:T19 Arg2:T97	
+T98	Entite 4190 4194	Elle
+R23	Source Arg1:T21 Arg2:T98	
+T99	Entite 4382 4386	elle
+R24	Source Arg1:T22 Arg2:T99	
+T100	Introducteur 4483 4489	criant
+R25	Introduction Arg1:T22 Arg2:T100	
+T101	Entite 5003 5043	Celui qui avait interpellé la maraîchère
+T102	Introducteur 5056 5067	en grondant
+R26	Source Arg1:T23 Arg2:T101	
+R27	Introduction Arg1:T23 Arg2:T102	
+T103	Introducteur 5957 5960	dit
+T104	Entite 5961 5974	la maraîchère
+R28	Introduction Arg1:T24 Arg2:T103	
+R29	Source Arg1:T24 Arg2:T104	
+T105	Entite 10634 10647	La maraîchère
+T106	Introducteur 10673 10679	disant
+R30	Introduction Arg1:T27 Arg2:T106	
+R31	Source Arg1:T27 Arg2:T105	
+T107	Entite 10736 10749	Un gros homme
+R32	Source Arg1:T28 Arg2:T107	
+T108	Entite 11835 11839	elle
+R33	Source Arg1:T29 Arg2:T108	
+T109	Introducteur 11844 11851;11859 11869	demanda un service
+R34	Introduction Arg1:T29 Arg2:T109	
+T110	Entite 14986 14990	Elle
+R35	Source Arg1:T30 Arg2:T110	
+T111	Introducteur 16597 16600	dit
+T112	Entite 16601 16605	elle
+R36	Introduction Arg1:T35 Arg2:T111	
+R37	Source Arg1:T35 Arg2:T112	
+T113	Entite 23048 23063	madame François
+R38	Source Arg1:T36 Arg2:T113	
+T114	Introducteur 23103 23109	disant
+R39	Introduction Arg1:T36 Arg2:T114	
+T115	Introducteur 23668 23675	demanda
+T116	Entite 23678 23682	elle
+R40	Introduction Arg1:T37 Arg2:T115	
+R41	Source Arg1:T37 Arg2:T116	
+T117	Entite 24279 24283	Elle
+T118	Introducteur 24284 24290	reprit
+R42	Introduction Arg1:T38 Arg2:T118	
+R43	Source Arg1:T38 Arg2:T117	
+T119	Introducteur 24825 24832	murmura
+T120	Entite 24835 24839	elle
+R44	Introduction Arg1:T39 Arg2:T119
+R45	Source Arg1:T39 Arg2:T120
+T121	Entite 28546 28560	la jeune femme
+T122	Introducteur 28595 28604	reprenait
+R46	Source Arg1:T42 Arg2:T121	
+R47	Introduction Arg1:T42 Arg2:T122	
+T123	Entite 28368 28399	une adorable petite femme brune
+R48	Source Arg1:T41 Arg2:T123	
+T124	Introducteur 28983 28989	reprit
+T125	Entite 28990 28994	elle
+R49	Source Arg1:T45 Arg2:T125
+R50	Introduction Arg1:T45 Arg2:T124
+T126	Introducteur 30012 30015	dit
+T127	Entite 30016 30018	il
+R51	Source Arg1:T46 Arg2:T127
+R52	Introduction Arg1:T46 Arg2:T126
+T128	Entite 30087 30100	la maraîchère
+T129	Introducteur 30063 30071	répondit
+R53	Introduction Arg1:T47 Arg2:T129	
+R54	Source Arg1:T47 Arg2:T128	
+T130	Introducteur 30381 30384	dit
+T131	Entite 30385 30389	elle
+R55	Source Arg1:T50 Arg2:T131	
+R56	Introduction Arg1:T50 Arg2:T130	
+T132	Introducteur 30905 30911	reprit
+T133	Entite 30912 30916	elle
+R57	Introduction Arg1:T51 Arg2:T132	
+R58	Source Arg1:T51 Arg2:T133	
+T134	Introducteur 31321 31327	répéta
+T135	Entite 31328 31343	madame François
+R59	Source Arg1:T52 Arg2:T135
+R60	Introduction Arg1:T52 Arg2:T134	
+T136	Entite 32023 32037	une voix forte
+T137	Introducteur 32038 32041	dit
+R61	Source Arg1:T53 Arg2:T136	
+R62	Introduction Arg1:T53 Arg2:T137	
+T138	Introducteur 32603 32611	répondit
+T139	Entite 32621 32634	la maraîchère
+T140	Entite 33308 33321	La maraîchère
+T141	Introducteur 33322 33328	reprit
+T142	Entite 33404 33408	elle
+T143	Entite 33922 33924	il
+T144	Introducteur 33929 33932	dit
+R63	Introduction Arg1:T58 Arg2:T141	
+R64	Source Arg1:T58 Arg2:T140	
+R65	Source Arg1:T59 Arg2:T142	
+R66	Source Arg1:T60 Arg2:T143	
+R67	Introduction Arg1:T60 Arg2:T144
+T145	Entite 34115 34117	il
+T146	Introducteur 34118 34125	demanda
+T147	Introducteur 34227 34230	dit
+T148	Entite 34231 34241	le peintre
+T149	Introducteur 34719 34722	dit
+T150	Entite 34723 34731	celui-ci
+T151	Introducteur 37328 37331	dit
+T152	Entite 37332 37338	Claude
+T153	Entite 37367 37369	il
+T154	Introducteur 37370 37376	ajouta
+T155	Introducteur 38125 38128	dit
+T156	Entite 38129 38136	Florent
+R68	Introduction Arg1:T64 Arg2:T151	
+R69	Source Arg1:T64 Arg2:T152	
+R70	Introduction Arg1:T65 Arg2:T154	
+R71	Source Arg1:T65 Arg2:T153	
+R72	Introduction Arg1:T67 Arg2:T155	
+R73	Source Arg1:T67 Arg2:T156	
+T157	Introducteur 40550 40553	dit
+T158	Entite 40554 40560	Claude
+T159	Introducteur 39903 39909	répéta
+T160	Entite 39910 39916	Claude
+T161	Introducteur 39315 39322	demanda
+T162	Entite 39323 39329	Claude
+T163	Introducteur 46589 46592	dit
+T164	Entite 46593 46599	Claude
+T165	Introducteur 47487 47493	reprit
+T166	Entite 47363 47365	il
+T167	Introducteur 48695 48698	dit
+T168	Entite 48699 48701	il
+T169	Entite 50253 50255	il
+T170	Introducteur 50256 50259	dit
+T171	Introducteur 51235 51238	dit
+T172	Entite 51239 51249	le peintre
+T173	Introducteur 57947 57956	murmurait
+T174	Entite 57957 57963	Claude
+T175	Introducteur 59637 59641	cria
+T176	Entite 59644 59646	il
+T177	Entite 59801 59803	il
+T178	Introducteur 59804 59807	dit
+R74	Source Arg1:T68 Arg2:T162	
+R75	Introduction Arg1:T68 Arg2:T161	
+R76	Source Arg1:T69 Arg2:T160	
+R77	Introduction Arg1:T69 Arg2:T159	
+R78	Introduction Arg1:T70 Arg2:T157	
+R79	Source Arg1:T70 Arg2:T158	
+R80	Introduction Arg1:T72 Arg2:T165	
+R81	Source Arg1:T72 Arg2:T166	
+R82	Introduction Arg1:T73 Arg2:T167	
+R83	Source Arg1:T73 Arg2:T168	
+R84	Source Arg1:T74 Arg2:T169	
+R85	Introduction Arg1:T74 Arg2:T170	
+R86	Source Arg1:T75 Arg2:T172	
+R87	Introduction Arg1:T75 Arg2:T171	
+R88	Introduction Arg1:T76 Arg2:T173	
+R89	Source Arg1:T76 Arg2:T174	
+R90	Introduction Arg1:T77 Arg2:T175	
+R91	Source Arg1:T77 Arg2:T176	
+R92	Introduction Arg1:T78 Arg2:T178	
+R93	Source Arg1:T78 Arg2:T177	
+T179	Introducteur 6150 6158	répondit
+T180	Entite 6159 6168	l'inconnu
+R94	Source Arg1:T25 Arg2:T180	
+R95	Introduction Arg1:T25 Arg2:T179	
+T181	Entite 25011 25015	elle
+T182	Introducteur 25016 25022	répéta
+R96	Introduction Arg1:T40 Arg2:T182	
+R97	Source Arg1:T40 Arg2:T181	

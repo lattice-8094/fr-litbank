@@ -1,0 +1,45 @@
+T1	Citation 9225 10284	« La cour étoit fort agréable alors. Les amours du roi pour Mlle de Hautefort, qu’il tâchoit de divertir tous les jours, y contribuaient beaucoup. La chasse étoit un des plus grands plaisirs du roi ; nous y allions souvent avec lui. Mlle de Hautefort, Chémerault et Saint-Louis, filles de la reine ; d’Escars, sœur de Mlle de Hautefort, et Beaumont venoient avec moi. Nous étions toutes vêtues de couleur, sur de belles haquenées richement caparaçonnées, et, pour se garantir du soleil, chacune avoit un chapeau garni de quantité de plumes. L’on disposoit toujours la chasse du côté de quelques belles maisons, où l’on trouvoit de grandes collations, et au retour le roi se mettoit dans son carrosse avec Mlle de Hautefort et moi. Quand il étoit de bonne humeur, il nous entretenoit fort agréablement de toutes choses … L’on avoit régulièrement trois fois la semaine le divertissement de la musique … , et la plupart des airs qu’on chantoit étoient de la composition du roi ; il en faisoit même les paroles, et le sujet n’étoit jamais que Mlle de Hautefort. »
+T2	Citation 13867 14415	« malheureux de toutes les manières, car il n’aimoit pas la reine, et il étoit le martyr de Mlle de Hautefort, qu’il aimoit malgré lui. Il avoit quelque scrupule de l’attachement qu’il avoit pour elle, et il ne s’aimoit pas lui-même. Parmi tant de sombres vapeurs et de fâcheuses fantaisies, il sembloit qu’une belle passion ne pouvoit avoir de place dans son cœur. Elle n’y étoit pas aussi à la mode des autres hommes qui en font leur plaisir, car cette âme, accoutumée à l’amertume, n’avoit de la tendresse que pour sentir davantage ses peines. »
+T3	Citation 16012 16094	« Vous aimez une ingrate, et vous verrez un jour comme elle paiera vos services. »
+T4	Entite 15988 15990	il
+R1	Source Arg1:T3 Arg2:T4
+T5	Introducteur 16005 16009	dire
+R2	Introduction Arg1:T3 Arg2:T5
+T6	Citation 35362 35393	« Ah ! madame ! est-ce vous ? »
+T7	Citation 35691 36017	« Voilà, monsieur, ce que la reine m’a donné pour vous ; il faut employer votre adresse et votre crédit dans ce lieu-ci pour faire arriver cette lettre jusqu’à ce prisonnier. Je vous demande beaucoup, mais j’ai compté que vous ne m’abandonneriez pas dans le dessein que j’ai de tirer la reine de l’extrême péril où elle est. »
+T8	Entite 35638 35642	Elle
+R3	Source Arg1:T7 Arg2:T8
+T9	Introducteur 35682 35688	disant
+R4	Introduction Arg1:T7 Arg2:T9
+T10	Citation 36219 36340	« Eh quoi ! vous balancez, et vous voyez ce que je hasarde ! car, si je viens à être découverte, que dira-t-on de moi ? »
+T11	Entite 36169 36186	Mlle de Hautefort
+R5	Source Arg1:T10 Arg2:T11
+T12	Introducteur 36213 36216	dit
+R6	Introduction Arg1:T10 Arg2:T12
+T13	Citation 55366 55393;55408 55444	« ne pouvant pas seulement, souffrir la pensée d’un tel crime, »
+T14	Citation 36341 36354;36382 36521	— « Eh bien ! il faut donc faire ce que la reine demande ; il n’y a point de remède ; je ne fais que sortir de dessus l’échafaud, je vais m’y remettre. »
+T15	Entite 9210 9222	Mademoiselle
+R70	Source Arg1:T1 Arg2:T15
+T16	Citation 13138 13148;13167 13627	« C’étoit, une mélancolie qui refroidissoit tout le monde, et, pendant ce chagrin, le roi passoit la plus grande partie du jour à écrire ce qu’il avoit dit à Mlle de Haute-fort et ce qu’elle lui avoit répondu : chose si véritable qu’après sa mort on a trouvé dans sa cassette de grands procès-verbaux de tous les démêlés qu’il avoit eus avec ses maîtresses, à la louange desquelles on peut dire aussi bien qu’à la sienne qu’il n’en a jamais aimé que de très vertueuses. »
+T17	Introducteur 13149 13152	dit
+T18	Entite 13153 13165	Mademoiselle
+R7	Source Arg1:T16 Arg2:T18	
+R8	Introduction Arg1:T16 Arg2:T17	
+T19	Introducteur 35394 35401	s’écria
+T20	Entite 35402 35414	le chevalier
+R9	Source Arg1:T6 Arg2:T20	
+R10	Introduction Arg1:T6 Arg2:T19	
+T21	Introducteur 36359 36367	répondit
+T22	Entite 36368 36380	le chevalier
+R11	Source Arg1:T14 Arg2:T22
+R12	Introduction Arg1:T14 Arg2:T21
+T23	Introducteur 55394 55397	dit
+T24	Entite 55398 55406	La Porte
+R13	Introduction Arg1:T13 Arg2:T23	
+R14	Source Arg1:T13 Arg2:T24	
+T25	Citation 47493 47544;47571 48593	« Elle étoit si bonne et si aimée de tout le monde, que, lorsqu’elle se présenta à la porte du roi, les gardes après lui avoir fait part de leur ordre, n’osèrent s’opposer à ce qu’elle entrât. La surprise du roi fut extrême en la voyant avec un air de grandeur et de fierté tout ensemble que le dépit lui donnoit et qui augmentoit sa beauté. Elle lui dit qu’avant de partir de la cour par son ordre, elle avoit voulu connoitre quel crime elle avoit commis pour mériter d’être exilée. Le roi lui dit que son exil n’étoit que pour quinze jours, qu’il l’avoit accordé avec une violence extrême aux raisons d’état, à cause des intrigues qui troubloient toute la cour, et que l’on faisoit sous son nom, qu’elle le devoit plaindre de la violence que l’on avoit faite à son inclination et de la douleur qu’il en souffriroit pendant ce temps. Elle lui répondit que ces quinze jours dureroient le reste de sa vie, qu’ainsi elle prenoit congé de lui pour toujours. Le roi l’assura, comme il le croyoit, que rien au monde ne pourroit l’obliger à se priver de la voir un jour de plus. »
+T26	Introducteur 47545 47548	dit
+T27	Entite 47549 47569	l’histoire de sa vie
+R15	Source Arg1:T25 Arg2:T27	
+R16	Introduction Arg1:T25 Arg2:T26	
+T28	Citation 51086 53891	« Madame, s’il m’étoit permis de juger des sentimens de votre majesté par les miens, je n’oserois vous dire adieu pour jamais, de crainte que cette parole ne mît votre vie au même péril où elle met la mienne en vous l’écrivant. Mais puisque Dieu vous fait avoir en cet accident la résignation que vous avez eue en tant d’autres, je ferois injure à la Providence et à votre courage, si je croyois que mes disgrâces et mes déplaisirs pussent donner quelque atteinte à votre santé et à votre repos. C’est donc pour jamais, madame, que je dis adieu à votre majesté, et je vous supplie très humblement de croire qu’en quelque endroit du monde que la persécution me puisse jeter, j’y passerai mes jours dans la fidélité et dans l’attachement qui sont les véritables causes qu’on me persécute, et n’aurai de regret, parmi les ennuis qui m’accablent, que de n’en pouvoir pas souffrir davantage pour l’amour de vous. Ma douleur me feroit ici achever ma lettre, si le zèle que j’ai pour votre gloire ne me défendoit de taire une chose qui la peut ternir, et de vous dissimuler l’étonnement que chacun témoigne de l’état où vous laissez Mlle de Chémerault. On sait que vous connoissez aussi bien son cœur que sa misère, et on ne croit pas même que vous lui deviez faire acheter le bien qu’elle peut recevoir de vous par une demande qui lui sortiroit de la bouche avec plus de peine que sa propre vie. Cependant on lui a commandé de se retirer avec 4, 000 écus, qu’il faut qu’elle emploie à payer ses dettes : on parle de la renvoyer de la même sorte qu’on renverroit Michelette, si l’on s’étoit avisé des grandes cabales qu’elle fait dans la cour aussi bien que nous … On dit que, si une reine n’a pas d’argent pour fournir aux nécessités d’une fille qu’elle a aimée, elle peut bien au moins lui envoyer un présent qui témoigne qu’elle ne l’oublie pas, et lui donner après cela une pension qui assure sa subsistance, avec une lettre qui fasse connoître à sa mère l’entière satisfaction que vous avez d’elle … Je suis si délicate en ce qui regarde l’opinion que toute la terre doit avoir de vous, que si Mlle de Chémerault n’avoit pas su le présent que vous m’avez fait, je n’eusse pu m’empêcher de le lui donner de votre part. Encore que j’aie appris avec dépit la peur que vous avez de déplaire à celui qui m’arrache d’auprès de vous, je proteste que vos timidités et vos complaisances me piquent beaucoup plus pour vous que pour moi, et que je me consolerois du mal qu’il m’a fait, si j’étois bien certaine que ce fût le dernier qu’il voulût vous faire. Adieu pour la dernière fois, madame ; je ne puis plus penser à ne vous voir jamais, et si cette mortelle imagination ne me donne relâche pour un moment, je ne vivrais même pas assez pour vous dire que je suis, madame, de votre majesté, la très fidèle, etc. . »
