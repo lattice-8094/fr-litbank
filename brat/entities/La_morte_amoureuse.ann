@@ -4,118 +4,118 @@ T3	TIME 1010 1017	la nuit
 T4	PER 1063 1080	un jeune seigneur
 T5	TIME 1184 1203	au lever de l’aube 
 T6	TIME 1196 1203	l’aube 
-T7	FAC 24398 24411	le presbytère
-T8	FAC 1462 1476	mon presbytère
-T9	FAC 59833 59847	mon presbytère
-T10	FAC 38358 38371	du presbytère
-T11	FAC 67947 67961	mon presbytère
+T7	FAC 1462 1476	mon presbytère
+T8	FAC 59833 59847	mon presbytère
+T9	FAC 67947 67961	mon presbytère
+T10	FAC 24398 24411	le presbytère
+T11	FAC 38358 38371	du presbytère
 T12	PER 1510 1519	un homme 
 T13	PER 1648 1670	un humble séminariste 
 T14	FAC 1689 1705	une cure ignorée
 T15	LOC 1707 1725	au fond d’un bois 
 T16	LOC 1717 1725	un bois 
 T17	TIME 1964 1986	ma plus tendre enfance
-T18	TIME 36513 36521	le jour 
-T19	TIME 2360 2386	Le jour de mon ordination 
-T20	TIME 3328 3346	Le grand jour venu
+T18	TIME 2360 2386	Le jour de mon ordination 
+T19	TIME 3328 3346	Le grand jour venu
+T20	TIME 36513 36521	le jour 
 T21	TIME 2397 2417	la semaine de Pâques
 T22	TIME 2411 2417	Pâques
 T23	FAC 2485 2520	l’enclos du collège et du séminaire
 T24	FAC 2494 2505	du collège 
 T25	FAC 2494 2520	du collège et du séminaire
-T26	FAC 15676 15688	du séminaire
-T27	FAC 2508 2520	du séminaire
-T28	FAC 13236 13248	du séminaire
+T26	FAC 2508 2520	du séminaire
+T27	FAC 13236 13248	du séminaire
+T28	FAC 15676 15688	du séminaire
 T29	FAC 25598 25610	au séminaire
 T30	PER 2679 2706	ma mère vieille et infirme 
-T31	FAC 68207 68216	l’église 
-T32	FAC 47567 47576	l’église 
-T33	FAC 12448 12457	l’église 
-T34	FAC 35190 35199	l’église 
-T35	FAC 3361 3370	l’église 
-T36	FAC 4762 4777	toute l’église 
+T31	FAC 4762 4777	toute l’église 
+T32	FAC 68207 68216	l’église 
+T33	FAC 3361 3370	l’église 
+T34	FAC 14737 14746	l’église 
+T35	FAC 47567 47576	l’église 
+T36	FAC 35190 35199	l’église 
 T37	FAC 36573 36581	l’église
-T38	FAC 14737 14746	l’église 
+T38	FAC 12448 12457	l’église 
 T39	NO_PER 3489 3496	un ange
 T40	PER 3557 3572	mes compagnons 
 T41	TIME 3615 3623	la nuit 
 T42	PER 12956 12972	Le vieil évêque 
 T43	PER 4038 4046	l’évêque
-T44	PER 4606 4614	L’évêque
-T45	PER 3692 3721	L’évêque, vieillard vénérable
-T46	PER 19574 19595	monseigneur l’évêque 
+T44	PER 3692 3721	L’évêque, vieillard vénérable
+T45	PER 19574 19595	monseigneur l’évêque 
+T46	PER 4606 4614	L’évêque
 T47	FAC 3817 3826	du temple
 T48	PER 3973 3985	catéchumènes
 T49	NO_PER 4092 4096	Job 
-T50	PER 67840 67853	votre beauté 
-T51	PER 67670 67685	votre maîtresse
-T52	PER 14248 14260	Cette femme 
-T53	PER 68139 68150	Clarimonde 
-T54	PER 67996 68006	Clarimonde
-T55	PER 52278 52289	Clarimonde 
-T56	PER 68522 68527	Elle 
-T57	PER 31747 31759	cette femme 
-T58	PER 67037 67048	Clarimonde 
-T59	PER 15625 15636	Clarimonde 
-T60	PER 13674 13684	Clarimonde
-T61	PER 41239 41271	La grande courtisane Clarimonde 
-T62	PER 22853 22864	Clarimonde 
-T63	PER 33559 33582	la gracieuse trépassée 
-T64	PER 22777 22805	une forme svelte et blanche 
-T65	PER 52490 52495	Elle 
-T66	PER 56307 56317	Clarimonde
-T67	PER 58405 58415	Clarimonde
-T68	PER 39792 39802	Clarimonde
-T69	PER 54974 54984	Clarimonde
-T70	PER 52828 52838	Clarimonde
-T71	PER 34304 34330	l’objet de mon incertitude
-T72	PER 34196 34198	C’
-T73	PER 67466 67487	La pauvre Clarimonde 
+T50	PER 52278 52289	Clarimonde 
+T51	PER 53454 53465	Clarimonde 
+T52	PER 56307 56317	Clarimonde
+T53	PER 65289 65293	Qui 
+T54	PER 65278 65288	Clarimonde
+T55	PER 41752 41769	cette Clarimonde 
+T56	PER 54974 54984	Clarimonde
+T57	PER 68139 68150	Clarimonde 
+T58	PER 56208 56218	Clarimonde
+T59	PER 64192 64203	Clarimonde 
+T60	PER 52490 52495	Elle 
+T61	PER 67037 67048	Clarimonde 
+T62	PER 13674 13684	Clarimonde
+T63	PER 11384 11393	La belle 
+T64	PER 68522 68527	Elle 
+T65	PER 52828 52838	Clarimonde
+T66	PER 59770 59780	Clarimonde
+T67	PER 14248 14260	Cette femme 
+T68	PER 42141 42151	Clarimonde
+T69	PER 30871 30888	cette Clarimonde 
+T70	PER 46563 46580	La pauvre enfant 
+T71	PER 27883 27895	sa maîtresse
+T72	PER 67466 67487	La pauvre Clarimonde 
+T73	PER 58405 58415	Clarimonde
 T74	PER 55465 55476	Clarimonde 
-T75	PER 53454 53465	Clarimonde 
-T76	PER 4801 4823	La charmante créature 
-T77	PER 60850 60861	Clarimonde 
-T78	PER 41752 41769	cette Clarimonde 
-T79	PER 46030 46035	Elle 
-T80	PER 38200 38210	Clarimonde
-T81	PER 57361 57371	Clarimonde
-T82	PER 21758 21768	Clarimonde
-T83	PER 38268 38282	la belle morte
-T84	PER 27883 27895	sa maîtresse
-T85	PER 25681 25692	Clarimonde 
-T86	PER 65278 65288	Clarimonde
-T87	PER 65289 65293	Qui 
-T88	PER 42141 42151	Clarimonde
-T89	PER 59770 59780	Clarimonde
-T90	PER 57540 57551	Clarimonde 
-T91	PER 22602 22627	la courtisane Clarimonde 
-T92	PER 37211 37222	Clarimonde 
-T93	PER 60350 60361	Clarimonde 
-T94	PER 35149 35163	la Clarimonde 
-T95	PER 56208 56218	Clarimonde
-T96	PER 4401 4435	une jeune femme d’une beauté rare 
-T97	PER 20438 20448	Clarimonde
-T98	PER 42655 42666	Clarimonde 
-T99	PER 11384 11393	La belle 
-T100	PER 30293 30304	Clarimonde 
-T101	PER 32373 32384	Clarimonde 
-T102	PER 46563 46580	La pauvre enfant 
-T103	PER 46470 46481	Clarimonde 
-T104	PER 48099 48118	Clarimonde la morte
-T105	PER 48043 48058	moi toute seule
-T106	PER 26898 26909	Clarimonde 
-T107	PER 43035 43046	Clarimonde 
-T108	PER 64192 64203	Clarimonde 
-T109	PER 30871 30888	cette Clarimonde 
-T110	PER 48847 48857	Clarimonde
-T111	PER 62523 62532	la femme 
-T112	PER 9505 9523	la belle inconnue 
-T113	PER 62364 62374	Clarimonde
+T75	PER 26898 26909	Clarimonde 
+T76	PER 67670 67685	votre maîtresse
+T77	PER 42655 42666	Clarimonde 
+T78	PER 39792 39802	Clarimonde
+T79	PER 41239 41271	La grande courtisane Clarimonde 
+T80	PER 57540 57551	Clarimonde 
+T81	PER 67996 68006	Clarimonde
+T82	PER 43035 43046	Clarimonde 
+T83	PER 57361 57371	Clarimonde
+T84	PER 67840 67853	votre beauté 
+T85	PER 38268 38282	la belle morte
+T86	PER 35149 35163	la Clarimonde 
+T87	PER 31747 31759	cette femme 
+T88	PER 33559 33582	la gracieuse trépassée 
+T89	PER 38200 38210	Clarimonde
+T90	PER 30293 30304	Clarimonde 
+T91	PER 60350 60361	Clarimonde 
+T92	PER 34196 34198	C’
+T93	PER 32373 32384	Clarimonde 
+T94	PER 46030 46035	Elle 
+T95	PER 46470 46481	Clarimonde 
+T96	PER 48847 48857	Clarimonde
+T97	PER 34304 34330	l’objet de mon incertitude
+T98	PER 15625 15636	Clarimonde 
+T99	PER 60850 60861	Clarimonde 
+T100	PER 22777 22805	une forme svelte et blanche 
+T101	PER 37211 37222	Clarimonde 
+T102	PER 4801 4823	La charmante créature 
+T103	PER 22602 22627	la courtisane Clarimonde 
+T104	PER 25681 25692	Clarimonde 
+T105	PER 22853 22864	Clarimonde 
+T106	PER 21758 21768	Clarimonde
+T107	PER 20438 20448	Clarimonde
+T108	PER 62364 62374	Clarimonde
+T109	PER 9505 9523	la belle inconnue 
+T110	PER 48099 48118	Clarimonde la morte
+T111	PER 48043 48058	moi toute seule
+T112	PER 4401 4435	une jeune femme d’une beauté rare 
+T113	PER 62523 62532	la femme 
 T114	PER 4559 4570	un aveugle 
 T115	TIME 4735 4743	au matin
 T116	PER 5376 5400	Les plus grands peintres
-T117	NO_PER 5505 5514	la Madone
-T118	NO_PER 6512 6524	Cette femme 
+T117	NO_PER 6512 6524	Cette femme 
+T118	NO_PER 5505 5514	la Madone
 T119	PER 5578 5587	du poète 
 T120	PER 5601 5612	du peintre 
 T121	None 6060 6073	une vivacité 
@@ -147,20 +147,20 @@ T146	PER 13117 13137	Un de mes camarades
 T147	PER 13123 13137	mes camarades 
 T148	FAC 13262 13269	une rue
 T149	PER 13283 13299	le jeune prêtre 
-T150	PER 34027 34040	Ce page noir 
-T151	PER 30235 30248	Un page nègre
+T150	PER 30728 30731	Il 
+T151	PER 34027 34040	Ce page noir 
 T152	PER 13333 13346	un page nègre
-T153	PER 30728 30731	Il 
+T153	PER 30235 30248	Un page nègre
 T154	FAC 13587 13597	ma cellule
-T155	FAC 13866 13883	le palais Concini
-T156	FAC 13686 13703	au palais Concini
+T155	FAC 13686 13703	au palais Concini
+T156	FAC 13866 13883	le palais Concini
 T157	PER 14058 14070	grande dame 
 T158	PER 14058 14083	grande dame ou courtisane
 T159	PER 14073 14083	courtisane
 T160	TIME 14542 14561	des heures entières
 T161	FAC 14723 14746	le portail de l’église 
-T162	FAC 68193 68216	le portail de l’église 
-T163	FAC 36559 36581	le portail de l’église
+T162	FAC 36559 36581	le portail de l’église
+T163	FAC 68193 68216	le portail de l’église 
 T164	FAC 15109 15120	un cloître 
 T165	FAC 15109 15135	un cloître ou d’une église
 T166	FAC 15125 15135	une église
@@ -195,57 +195,57 @@ T194	PER 17715 17732	les mères seules
 T195	PER 17748 17755	Le père
 T196	PER 17819 17837	ce charmant groupe
 T197	TIME 18126 18143	combien de jours 
-T198	PER 20918 20927	Sérapion 
-T199	PER 65941 65950	Sérapion 
-T200	PER 19711 19718	l’abbé 
-T201	PER 21400 21409	Sérapion 
-T202	PER 25476 25492	l’abbé Sérapion 
-T203	PER 41967 41970	Il 
-T204	PER 67709 67729	l’inexorable prêtre 
-T205	PER 64809 64825	L’abbé Sérapion 
-T206	PER 39827 39842	l’abbé Sérapion
-T207	PER 19388 19404	l’abbé Sérapion 
-T208	PER 57403 57419	l’abbé Sérapion 
-T209	PER 65380 65388	Sérapion
-T210	PER 63849 63858	Sérapion 
-T211	PER 23600 23609	Sérapion 
+T198	PER 65380 65388	Sérapion
+T199	PER 20918 20927	Sérapion 
+T200	PER 25476 25492	l’abbé Sérapion 
+T201	PER 22462 22470	Sérapion
+T202	PER 66845 66854	Sérapion 
+T203	PER 64809 64825	L’abbé Sérapion 
+T204	PER 19388 19404	l’abbé Sérapion 
+T205	PER 23600 23609	Sérapion 
+T206	PER 62264 62280	l’abbé Sérapion 
+T207	PER 19711 19718	l’abbé 
+T208	PER 42473 42477	Mon 
+T209	PER 68284 68303	ce prêtre imbécile 
+T210	PER 41967 41970	Il 
+T211	PER 42403 42412	Sérapion 
 T212	PER 25573 25589	l’abbé Sérapion 
-T213	PER 46283 46299	l’abbé Sérapion 
-T214	PER 40069 40085	L’abbé Sérapion 
-T215	PER 67237 67245	Sérapion
-T216	PER 43207 43215	Sérapion
-T217	PER 42473 42477	Mon 
-T218	PER 18231 18247	l’abbé Sérapion 
-T219	PER 20308 20324	l’abbé Sérapion 
-T220	PER 43061 43075	du vieil abbé 
-T221	PER 59856 59872	l’abbé Sérapion 
-T222	PER 68284 68303	ce prêtre imbécile 
-T223	PER 66350 66369	du sévère Sérapion 
-T224	PER 42403 42412	Sérapion 
-T225	PER 18515 18524	Sérapion 
-T226	PER 42841 42850	Sérapion 
-T227	PER 22462 22470	Sérapion
-T228	PER 66845 66854	Sérapion 
-T229	PER 62264 62280	l’abbé Sérapion 
+T213	PER 59856 59872	l’abbé Sérapion 
+T214	PER 63849 63858	Sérapion 
+T215	PER 39827 39842	l’abbé Sérapion
+T216	PER 42841 42850	Sérapion 
+T217	PER 21400 21409	Sérapion 
+T218	PER 67709 67729	l’inexorable prêtre 
+T219	PER 67237 67245	Sérapion
+T220	PER 18231 18247	l’abbé Sérapion 
+T221	PER 20308 20324	l’abbé Sérapion 
+T222	PER 18515 18524	Sérapion 
+T223	PER 40069 40085	L’abbé Sérapion 
+T224	PER 43061 43075	du vieil abbé 
+T225	PER 43207 43215	Sérapion
+T226	PER 57403 57419	l’abbé Sérapion 
+T227	PER 65941 65950	Sérapion 
+T228	PER 66350 66369	du sévère Sérapion 
+T229	PER 46283 46299	l’abbé Sérapion 
 T230	FAC 18268 18292	au milieu de la chambre 
 T231	FAC 18281 18292	la chambre 
 T232	FAC 18667 18681	votre cellule 
-T233	NO_PER 18761 18771	du diable 
-T234	NO_PER 20350 20360	du diable 
+T233	NO_PER 20350 20360	du diable 
+T234	NO_PER 18761 18771	du diable 
 T235	NO_PER 19340 19358	le mauvais esprit 
 T236	NO_PER 20672 20681	du diable
 T237	GPE 19520 19525	C___ 
 T238	PER 19527 19537	le prêtre 
 T239	TIME 20905 20918	Le lendemain 
 T240	VEH 20945 20956	deux mules 
-T241	VEH 21028 21033	l’une
-T242	VEH 23616 23623	sa mule
+T241	VEH 23616 23623	sa mule
+T242	VEH 21028 21033	l’une
 T243	FAC 21088 21108	les rues de la ville
-T244	GPE 21100 21108	la ville
-T245	GPE 23710 23724	la ville de S 
-T246	GPE 21810 21819	la ville 
-T247	GPE 21230 21239	la ville 
-T248	GPE 21615 21624	la ville 
+T244	GPE 21615 21624	la ville 
+T245	GPE 21100 21108	la ville
+T246	GPE 21230 21239	la ville 
+T247	GPE 23710 23724	la ville de S 
+T248	GPE 21810 21819	la ville 
 T249	FAC 21353 21369	tous les palais 
 T250	VEH 21536 21547	sa monture 
 T251	LOC 21653 21663	la colline
@@ -254,11 +254,11 @@ T253	TIME 21966 21974	du matin
 T254	FAC 22071 22082	un édifice 
 T255	FAC 22108 22134	les constructions voisines
 T256	FAC 22367 22372	Quel 
-T257	FAC 22381 22391	ce palais 
-T258	FAC 22548 22550	C’
-T259	FAC 23029 23039	le palais 
-T260	FAC 23470 23479	le palais
-T261	FAC 22554 22570	l’ancien palais 
+T257	FAC 23029 23039	le palais 
+T258	FAC 22554 22570	l’ancien palais 
+T259	FAC 22548 22550	C’
+T260	FAC 22381 22391	ce palais 
+T261	FAC 23470 23479	le palais
 T262	PER 22574 22592	le prince Concini 
 T263	TIME 22671 22680	ce moment
 T264	TIME 22888 22899	cette heure
@@ -270,82 +270,82 @@ T269	FAC 23676 23686	du chemin
 T270	GPE 23722 23724	S 
 T271	LOC 23798 23825	des campagnes assez tristes
 T272	FAC 23874 23897	du clocher de l’église 
-T273	FAC 23888 23897	l’église 
-T274	FAC 24388 24396	l’église
+T273	FAC 24388 24396	l’église
+T274	FAC 23888 23897	l’église 
 T275	FAC 23945 24006	quelques rues tortueuses bordées de chaumières et de courtils
 T276	FAC 23981 23992	chaumières 
 T277	FAC 23981 24006	chaumières et de courtils
 T278	FAC 23998 24006	courtils
 T279	FAC 24276 24316	le cimetière tout plein de hautes herbes
 T280	FAC 24421 24480	une maison d’une simplicité extrême et d’une propreté aride
-T281	NO_PER 24795 24809	un vieux chien
-T282	NO_PER 24819 24847	le chien de mon prédécesseur
-T283	NO_PER 52623 52632	le chien 
-T284	NO_PER 38376 38408	le vieux chien de l’ancien curé 
-T285	NO_PER 25334 25342	le chien
-T286	NO_PER 38654 38663	le chien 
-T287	PER 25145 25158	l’ancien curé
-T288	PER 38394 38408	l’ancien curé 
+T281	NO_PER 38376 38408	le vieux chien de l’ancien curé 
+T282	NO_PER 52623 52632	le chien 
+T283	NO_PER 24819 24847	le chien de mon prédécesseur
+T284	NO_PER 24795 24809	un vieux chien
+T285	NO_PER 38654 38663	le chien 
+T286	NO_PER 25334 25342	le chien
+T287	PER 38394 38408	l’ancien curé 
+T288	PER 25145 25158	l’ancien curé
 T289	PER 24831 24847	mon prédécesseur
 T290	NO_PER 24954 24962	un chien
-T291	PER 39055 39063	Barbara 
-T292	PER 39844 39852	Barbara 
-T293	PER 39537 39545	Barbara 
-T294	PER 27638 27645	Barbara
-T295	PER 27814 27822	Barbara 
-T296	PER 27456 27479	La vieille gouvernante 
-T297	PER 25088 25108	Une femme assez âgée
-T298	PER 38456 38464	Barbara 
+T291	PER 39844 39852	Barbara 
+T292	PER 27456 27479	La vieille gouvernante 
+T293	PER 27638 27645	Barbara
+T294	PER 25088 25108	Une femme assez âgée
+T295	PER 39055 39063	Barbara 
+T296	PER 38456 38464	Barbara 
+T297	PER 27814 27822	Barbara 
+T298	PER 39537 39545	Barbara 
 T299	PER 25127 25158	la gouvernante de l’ancien curé
 T300	FAC 25224 25239	une salle basse
 T301	PER 25326 25342	elle et le chien
 T302	PER 25389 25400	son maître 
 T303	TIME 25798 25805	Un soir
 T304	FAC 25828 25874	les allées bordées de buis de mon petit jardin
-T305	FAC 25858 25874	mon petit jardin
-T306	FAC 26207 26217	Le jardin 
+T305	FAC 26207 26217	Le jardin 
+T306	FAC 25858 25874	mon petit jardin
 T307	FAC 25904 25917	la charmille 
 T308	FAC 26102 26109	l’allée
 T309	FAC 26234 26256	murailles très hautes 
 T310	PER 27062 27071	une femme
 T311	TIME 27413 27422	Une nuit 
-T312	PER 39077 39106	le même homme au teint cuivré
-T313	PER 29014 29029	mon conducteur 
-T314	PER 27691 27699	l’homme 
-T315	PER 39564 39595	l’homme aux deux chevaux noirs 
-T316	PER 27495 27537	un homme au teint cuivré et richement vêtu
-T317	PER 27864 27872	L’homme 
-T318	PER 29493 29501	l’écuyer
+T312	PER 29493 29501	l’écuyer
+T313	PER 27495 27537	un homme au teint cuivré et richement vêtu
+T314	PER 39564 39595	l’homme aux deux chevaux noirs 
+T315	PER 27864 27872	L’homme 
+T316	PER 27691 27699	l’homme 
+T317	PER 29014 29029	mon conducteur 
+T318	PER 39077 39106	le même homme au teint cuivré
 T319	PER 27897 27917	une très grande dame
 T320	PER 27960 27969	un prêtre
-T321	VEH 28137 28169	deux chevaux noirs comme la nuit
-T322	VEH 28868 28880	nos chevaux 
+T321	VEH 28868 28880	nos chevaux 
+T322	VEH 39576 39595	deux chevaux noirs 
 T323	VEH 52780 52794	les premiers, 
-T324	VEH 29316 29328	des chevaux 
-T325	VEH 39576 39595	deux chevaux noirs 
+T324	VEH 28137 28169	deux chevaux noirs comme la nuit
+T325	VEH 29316 29328	des chevaux 
 T326	VEH 28272 28276	l’un
 T327	VEH 28405 28416	son cheval 
 T328	PER 29014 29035	mon conducteur et moi
-T329	FAC 28555 28565	le chemin 
-T330	FAC 29148 29157	le chemin
+T329	FAC 29148 29157	le chemin
+T330	FAC 28555 28565	le chemin 
 T331	LOC 28704 28749	une forêt d’un sombre si opaque et si glacial
 T332	LOC 29214 29221	du bois
 T333	VEH 29740 29753	nos montures 
 T334	FAC 29867 29885	deux énormes tours
-T335	FAC 29921 29932	le château 
-T336	FAC 33795 33807	son château 
-T337	FAC 57929 57947	le château inconnu
-T338	FAC 39761 39772	du château 
+T335	FAC 39761 39772	du château 
+T336	FAC 57929 57947	le château inconnu
+T337	FAC 33795 33807	son château 
+T338	FAC 29921 29932	le château 
 T339	PER 29934 29977	des domestiques avec des torches à la main 
 T340	FAC 29990 30000	les cours 
 T341	PER 30366 30378	un majordome
 T342	FAC 30769 30786	la salle funèbre 
 T343	NO_PER 30844 30853	la morte 
-T344	FAC 44971 44981	la chambre
+T344	FAC 31026 31043	toute la chambre 
 T345	FAC 31898 31912	Cette chambre 
-T346	FAC 31026 31043	toute la chambre 
-T347	FAC 33489 33499	la chambre
-T348	FAC 38005 38016	la chambre 
+T346	FAC 44971 44981	la chambre
+T347	FAC 38005 38016	la chambre 
+T348	FAC 33489 33499	la chambre
 T349	FAC 31511 31536	cette somptueuse demeure 
 T350	FAC 31927 31946	une chambre de mort
 T351	NO_PER 32300 32312	des cadavres
@@ -361,12 +361,12 @@ T360	NO_PER 36882 36902	sa dépouille glacée
 T361	TIME 36929 36937	La nuit 
 T362	TIME 36971 37007	le moment de la séparation éternelle
 T363	TIME 36984 37007	la séparation éternelle
-T364	FAC 38340 38371	ma petite chambre du presbytère
+T364	FAC 52238 52249	la chambre 
 T365	FAC 38479 38490	la chambre 
-T366	FAC 52238 52249	la chambre 
-T367	TIME 38819 38831	trois jours 
-T368	TIME 39006 39020	tout ce temps 
-T369	TIME 38914 38930	Ces trois jours 
+T366	FAC 38340 38371	ma petite chambre du presbytère
+T367	TIME 38914 38930	Ces trois jours 
+T368	TIME 38819 38831	trois jours 
+T369	TIME 39006 39020	tout ce temps 
 T370	TIME 39142 39149	la nuit
 T371	TIME 39166 39175	le matin 
 T372	VEH 39180 39199	une litière fermée 
@@ -384,9 +384,9 @@ T383	PER 41800 41816	tous ses amants
 T384	NO_PER 41883 41892	une goule
 T385	NO_PER 41894 41913	un vampire femelle 
 T386	NO_PER 41941 41952	Béelzébuth 
-T387	NO_PER 46708 46714	Satan 
-T388	NO_PER 42570 42576	Satan 
-T389	NO_PER 55866 55872	Satan 
+T387	NO_PER 55866 55872	Satan 
+T388	NO_PER 46708 46714	Satan 
+T389	NO_PER 42570 42576	Satan 
 T390	FAC 42599 42612	les tombeaux 
 T391	TIME 43306 43315	une nuit 
 T392	FAC 43711 43723	les tombeaux
@@ -436,15 +436,15 @@ T435	TIME 53862 53872	cette nuit
 T436	PER 54652 54671	mes deux existences
 T437	PER 53937 53949	deux hommes 
 T438	PER 53954 53959	l’un 
-T439	PER 68018 68034	du pauvre prêtre
-T440	PER 54008 54018	un prêtre 
+T439	PER 54008 54018	un prêtre 
+T440	PER 68018 68034	du pauvre prêtre
 T441	PER 54302 54312	le prêtre 
 T442	PER 64598 64608	du prêtre 
 T443	TIME 54029 54041	chaque soir 
-T444	PER 64611 64626	du gentilhomme 
-T445	PER 54245 54279	Le jeune seigneur fat et libertin 
-T446	PER 54073 54088	un gentilhomme 
-T447	PER 67966 67985	le seigneur Romuald
+T444	PER 54073 54088	un gentilhomme 
+T445	PER 64611 64626	du gentilhomme 
+T446	PER 67966 67985	le seigneur Romuald
+T447	PER 54245 54279	Le jeune seigneur fat et libertin 
 T448	PER 54339 54356	du jeune seigneur
 T449	TIME 54161 54170	la veille
 T450	PER 54791 54816	deux hommes si différents
@@ -515,8 +515,8 @@ T514	PER 66040 66050	un apôtre
 T515	NO_PER 66055 66062	un ange
 T516	NO_PER 66545 66578	Les hiboux perchés sur les cyprès
 T517	NO_PER 66730 66742	les renards 
-T518	FAC 67392 67403	le cercueil
-T519	FAC 66861 66873	le cercueil 
+T518	FAC 66861 66873	le cercueil 
+T519	FAC 67392 67403	le cercueil
 T520	NO_PER 67295 67300	démon
 T521	PER 67302 67322	courtisane impudique
 T522	GPE 67815 67823	au Lido 

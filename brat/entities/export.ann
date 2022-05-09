@@ -1,11 +1,11 @@
 T1	PER 4711 4718	mon ami
-T2	PER 14027 14034	mon ami
-T3	PER 26 33	Mon ami
-T4	GPE 5103 5111	Afrique 
-T5	GPE 14043 14050	Afrique
-T6	GPE 147 155	Afrique 
+T2	PER 26 33	Mon ami
+T3	PER 14027 14034	mon ami
+T4	GPE 147 155	Afrique 
+T5	GPE 5103 5111	Afrique 
+T6	GPE 11318 11325	Afrique
 T7	GPE 4245 4252	Afrique
-T8	GPE 11318 11325	Afrique
+T8	GPE 14043 14050	Afrique
 T9	PER 302 398	une grande femme en ébène, coiffée d'un foulard jaune, et ballottante en des vêtements éclatants
 T10	PER 408 424	des Mauricaudes 
 T11	LOC 705 712	un pays
@@ -18,26 +18,26 @@ T17	GPE 1962 1996	Bône, Constantine, Biskra et Sétif
 T18	GPE 1968 1979	Constantine
 T19	GPE 1981 1988	Biskra 
 T20	GPE 1991 1996	Sétif
-T21	GPE 3643 3650	la cité
-T22	GPE 3433 3440	Bougie 
-T23	GPE 3444 3463	la ville des ruines
-T24	GPE 11016 11025	la ville 
-T25	GPE 3560 3605	la vieille porte Sarrasine, envahie de lierre
-T26	GPE 2238 2245	Bougie 
-T27	GPE 2785 2826	une tache blanche dans cette pente verte 
-T28	GPE 2013 2020	Bougie 
-T29	GPE 2909 2947	cette toute petite et ravissante ville
+T21	GPE 11016 11025	la ville 
+T22	GPE 2013 2020	Bougie 
+T23	GPE 2785 2826	une tache blanche dans cette pente verte 
+T24	GPE 3444 3463	la ville des ruines
+T25	GPE 3433 3440	Bougie 
+T26	GPE 3560 3605	la vieille porte Sarrasine, envahie de lierre
+T27	GPE 2909 2947	cette toute petite et ravissante ville
+T28	GPE 3643 3650	la cité
+T29	GPE 2238 2245	Bougie 
 T30	LOC 2024 2044	les gorges du Chabet
 T31	GPE 2035 2044	du Chabet
 T32	FAC 2049 2100	une incomparable route au milieu des forêts kabyles
 T33	LOC 2072 2100	au milieu des forêts kabyles
 T34	LOC 2082 2100	des forêts kabyles
-T35	LOC 6258 6274	la mer immobile 
-T36	LOC 2111 2118	la mer 
+T35	LOC 3385 3390	l'un 
+T36	LOC 6258 6274	la mer immobile 
 T37	LOC 6668 6681	la pleine mer
-T38	LOC 2870 2876	la mer
-T39	LOC 3385 3390	l'un 
-T40	LOC 3125 3138	la pleine mer
+T38	LOC 3125 3138	la pleine mer
+T39	LOC 2111 2118	la mer 
+T40	LOC 2870 2876	la mer
 T41	LOC 5835 5842	la mer 
 T42	LOC 2214 2245	ce merveilleux golfe de Bougie 
 T43	LOC 2260 2275	celui de Naples
@@ -86,45 +86,45 @@ T85	LOC 5908 5922	la jolie baie
 T86	FAC 5930 5939	les bains
 T87	LOC 5941 5982	La montagne escarpée, couverte de taillis
 T88	LOC 6070 6083	cette crique 
-T89	PER 17457 17464	Marroca
-T90	PER 12025 12030	Elle 
-T91	PER 16248 16256	Marroca 
-T92	PER 14485 14493	Marroca 
-T93	PER 15225 15230	Elle 
-T94	PER 15203 15210	Marroca
-T95	PER 16633 16636	Tu 
-T96	PER 9073 9132	une admirable fille, d'un type un peu bestial, mais superbe
-T97	PER 15248 15252	Mon 
-T98	PER 17916 17921	Elle 
-T99	PER 7306 7349	toute sa chair un peu brunie par le climat 
-T100	PER 11327 11335	Marroca 
-T101	PER 18453 18458	Elle 
-T102	PER 16982 17003	Marroca, toujours nue
-T103	PER 6593 6639	une grande fille nue, enfoncée jusqu'aux seins
-T104	PER 13391 13396	Elle 
-T105	PER 6892 6930	cette femme, grande, modelée en statue
-T106	PER 13310 13315	Elle 
-T107	PER 18230 18235	Elle 
-T108	PER 6760 6778	cette belle femme 
+T89	PER 16982 17003	Marroca, toujours nue
+T90	PER 13391 13396	Elle 
+T91	PER 6593 6639	une grande fille nue, enfoncée jusqu'aux seins
+T92	PER 17916 17921	Elle 
+T93	PER 11327 11335	Marroca 
+T94	PER 13310 13315	Elle 
+T95	PER 14485 14493	Marroca 
+T96	PER 6760 6778	cette belle femme 
+T97	PER 16248 16256	Marroca 
+T98	PER 6892 6930	cette femme, grande, modelée en statue
+T99	PER 15248 15252	Mon 
+T100	PER 18230 18235	Elle 
+T101	PER 16633 16636	Tu 
+T102	PER 15225 15230	Elle 
+T103	PER 12025 12030	Elle 
+T104	PER 15203 15210	Marroca
+T105	PER 9073 9132	une admirable fille, d'un type un peu bestial, mais superbe
+T106	PER 18453 18458	Elle 
+T107	PER 17457 17464	Marroca
+T108	PER 7306 7349	toute sa chair un peu brunie par le climat 
 T109	PER 7444 7454	des nègres
 T110	PER 7528 7545	toute sa personne
 T111	PER 7880 7892	les enfants 
 T112	TIME 8331 8343	le lendemain
 T113	TIME 8459 8470	Huit jours 
 T114	PER 8704 8731	un Français nommé Pontabèze
-T115	PER 17738 17747	ton mari 
-T116	PER 15672 15681	son mari 
-T117	PER 13271 13280	Ton mari 
-T118	PER 18038 18041	Il 
+T115	PER 13093 13101	son mari
+T116	PER 17738 17747	ton mari 
+T117	PER 15846 15854	L'homme 
+T118	PER 12411 12419	mon mari
 T119	PER 8733 8742	Son mari 
-T120	PER 15248 15257	Mon mari 
-T121	PER 10780 10789	son mari 
-T122	PER 13093 13101	son mari
-T123	PER 15846 15854	L'homme 
-T124	PER 16176 16179	Il 
-T125	PER 12411 12419	mon mari
-T126	PER 11901 11910	mon mari 
-T127	PER 16755 16770	les gros pieds 
+T120	PER 16176 16179	Il 
+T121	PER 11901 11910	mon mari 
+T122	PER 15248 15257	Mon mari 
+T123	PER 15672 15681	son mari 
+T124	PER 10780 10789	son mari 
+T125	PER 13271 13280	Ton mari 
+T126	PER 16755 16770	les gros pieds 
+T127	PER 18038 18041	Il 
 T128	PER 8722 8731	Pontabèze
 T129	ORG 8759 8765	l'État
 T130	TIME 8923 8942	l'heure de son bain
@@ -142,9 +142,9 @@ T141	TIME 11631 11638	un soir
 T142	PER 12758 12771	les imbéciles
 T143	PER 13137 13143	femme 
 T144	PER 13167 13182	l'homme abhorré
-T145	TIME 14052 14070	ces huit jours-là 
-T146	TIME 14003 14013	Huit jours
-T147	TIME 13803 13814	huit jours 
+T145	TIME 13803 13814	huit jours 
+T146	TIME 14052 14070	ces huit jours-là 
+T147	TIME 14003 14013	Huit jours
 T148	TIME 13831 13848	Le neuvième jour 
 T149	FAC 13885 13908	le seuil de ma chambre 
 T150	FAC 13897 13908	ma chambre 
@@ -169,47 +169,47 @@ T168	PER 18913 18922	un homme
 T169	FAC 19040 19049	Le salon 
 T170	FAC 20292 20300	le salon
 T171	PER 19308 19327	les deux personnes 
-T172	PER 22051 22057	madame
-T173	PER 19410 19440	une de ces vieilles adorables 
-T174	PER 20836 20841	Elle 
-T175	PER 19643 19655	une vieille 
-T176	PER 28546 28552	madame
+T172	PER 19643 19655	une vieille 
+T173	PER 28546 28552	madame
+T174	PER 28979 28987	mon amie
+T175	PER 19410 19440	une de ces vieilles adorables 
+T176	PER 27603 27616	ma chère amie
 T177	PER 20694 20702	son amie
-T178	PER 28979 28987	mon amie
-T179	PER 27603 27616	ma chère amie
-T180	PER 20369 20385	La vieille femme
+T178	PER 20369 20385	La vieille femme
+T179	PER 22051 22057	madame
+T180	PER 20836 20841	Elle 
 T181	PER 19417 19440	ces vieilles adorables 
-T182	PER 21073 21076	Il 
-T183	PER 26144 26158	monsieur Paul 
-T184	PER 19799 19831	un ami d'autrefois, resté garçon
-T185	PER 20662 20670	l'homme 
-T186	PER 25113 25120	mon ami
-T187	PER 21446 21451	l'un 
-T188	PER 25161 25163	J'
+T182	PER 21446 21451	l'un 
+T183	PER 25161 25163	J'
+T184	PER 26144 26158	monsieur Paul 
+T185	PER 25113 25120	mon ami
+T186	PER 20662 20670	l'homme 
+T187	PER 19799 19831	un ami d'autrefois, resté garçon
+T188	PER 21073 21076	Il 
 T189	PER 24194 24197	moi
 T190	TIME 19965 19976	une minute 
-T191	PER 21846 21855	une femme
-T192	PER 20891 20902	des femmes 
-T193	PER 22122 22131	la femme 
-T194	PER 20935 20942	femmes 
+T191	PER 20891 20902	des femmes 
+T192	PER 21846 21855	une femme
+T193	PER 20935 20942	femmes 
+T194	PER 22122 22131	la femme 
 T195	PER 21156 21178	Mes anciens camarades 
-T196	PER 29189 29196	Julien 
-T197	PER 22903 22918	mon ami Julien 
-T198	PER 27675 27682	Julien 
+T196	PER 22903 22918	mon ami Julien 
+T197	PER 24080 24087	Julien 
+T198	PER 23514 23521	Julien 
 T199	PER 27784 27793	son mari 
-T200	PER 24080 24087	Julien 
-T201	PER 21237 21262	un de mes meilleurs amis 
-T202	PER 23514 23521	Julien 
-T203	PER 28868 28887	Julien, tout joyeux
+T200	PER 21237 21262	un de mes meilleurs amis 
+T201	PER 28868 28887	Julien, tout joyeux
+T202	PER 27675 27682	Julien 
+T203	PER 29189 29196	Julien 
 T204	PER 21243 21262	mes meilleurs amis 
 T205	TIME 21661 21668	Un soir
 T206	PER 21784 21791	un ami 
-T207	PER 22883 22894	deux hommes
-T208	PER 22026 22037	deux hommes
+T207	PER 22026 22037	deux hommes
+T208	PER 22883 22894	deux hommes
 T209	PER 22095 22100	l'un 
 T210	PER 22111 22119	l'homme 
-T211	PER 22111 22131	l'homme et la femme 
-T212	PER 22191 22209	deux belligérants 
+T211	PER 22191 22209	deux belligérants 
+T212	PER 22111 22131	l'homme et la femme 
 T213	PER 22273 22285	on dompteur 
 T214	PER 22299 22309	un maître 
 T215	PER 22299 22323	un maître et un esclave 
@@ -218,32 +218,32 @@ T217	PER 22332 22336	l'un
 T218	PER 22637 22646	Les sages
 T219	PER 22725 22737	des enfants 
 T220	PER 22779 22799	un bon et solide ami
-T221	PER 23790 23805	La jeune femme 
-T222	PER 23780 23786	Berthe
-T223	PER 22946 22954	sa femme
-T224	PER 25466 25481	La jeune femme 
-T225	PER 28092 28103	cette fille
-T226	PER 23923 23928	Vous 
-T227	PER 27703 27776	cette petite folle perverse et rusée, effroyablement sensuelle sans doute
-T228	PER 29228 29237	Sa femme 
-T229	PER 26079 26084	Elle 
-T230	PER 24182 24191	sa femme 
-T231	PER 25065 25072	Berthe 
+T221	PER 25466 25481	La jeune femme 
+T222	PER 26079 26084	Elle 
+T223	PER 23923 23928	Vous 
+T224	PER 24182 24191	sa femme 
+T225	PER 23780 23786	Berthe
+T226	PER 27703 27776	cette petite folle perverse et rusée, effroyablement sensuelle sans doute
+T227	PER 29228 29237	Sa femme 
+T228	PER 28092 28103	cette fille
+T229	PER 22946 22954	sa femme
+T230	PER 25065 25072	Berthe 
+T231	PER 23790 23805	La jeune femme 
 T232	FAC 23061 23070	la maison
 T233	TIME 23340 23347	la nuit
 T234	PER 23390 23399	une femme
 T235	FAC 23432 23446	ma maison vide
 T236	TIME 23505 23512	un soir
-T237	TIME 23701 23721	onze heures précises
-T238	TIME 23680 23692	onze heures 
+T237	TIME 23680 23692	onze heures 
+T238	TIME 23701 23721	onze heures précises
 T239	TIME 24067 24078	huit heures
 T240	PER 24182 24197	sa femme et moi
 T241	TIME 24286 24297	chaque jour
 T242	PER 24987 25006	une autre personne 
 T243	PER 25008 25019	votre égard
 T244	TIME 25382 25398	quelques minutes
-T245	PER 25871 25879	la femme
-T246	PER 25736 25746	une femme 
+T245	PER 25736 25746	une femme 
+T246	PER 25871 25879	la femme
 T247	PER 26030 26041	Les hommes 
 T248	TIME 27257 27268	une minute 
 T249	PER 27692 27776	l'amant de cette petite folle perverse et rusée, effroyablement sensuelle sans doute
@@ -252,26 +252,26 @@ T251	PER 28164 28253	celui qui n'a jamais senti sur sa bouche le baiser profond 
 T252	PER 28299 28317	une minute de plus
 T253	PER 28764 28770	un fou
 T254	TIME 28949 28970	deux heures plus tôt 
-T255	PER 38491 38513	Cette pauvre Gilberte 
-T256	PER 38568 38579	ta cousine 
-T257	PER 34646 34651	Elle 
-T258	PER 29501 29512	ta cousine 
-T259	PER 33781 33791	ma fiancée
-T260	PER 32678 32687	Gilberte 
-T261	PER 37112 37126	ma supercherie
-T262	PER 30492 30497	femme
-T263	PER 30509 30520	jeune fille
-T264	PER 37594 37609	la belle dévote
-T265	PER 31047 31056	Gilberte 
-T266	PER 31639 31644	Elle 
-T267	PER 37475 37504	ma blonde et délicate fiancée
-T268	PER 36731 36739	sa fille
-T269	PER 30207 30218	ta cousine 
-T270	PER 38586 38619	victime d'une stupide fumisterie 
-T271	PER 29621 29631	ma fiancée
-T272	PER 36044 36052	la femme
+T255	PER 29501 29512	ta cousine 
+T256	PER 37594 37609	la belle dévote
+T257	PER 30492 30497	femme
+T258	PER 30509 30520	jeune fille
+T259	PER 37475 37504	ma blonde et délicate fiancée
+T260	PER 31047 31056	Gilberte 
+T261	PER 38568 38579	ta cousine 
+T262	PER 38586 38619	victime d'une stupide fumisterie 
+T263	PER 36731 36739	sa fille
+T264	PER 38491 38513	Cette pauvre Gilberte 
+T265	PER 33781 33791	ma fiancée
+T266	PER 37112 37126	ma supercherie
+T267	PER 30207 30218	ta cousine 
+T268	PER 32678 32687	Gilberte 
+T269	PER 34646 34651	Elle 
+T270	PER 29621 29631	ma fiancée
+T271	PER 31639 31644	Elle 
+T272	PER 36075 36083	la femme
 T273	PER 29862 29873	les femmes 
-T274	PER 36075 36083	la femme
+T274	PER 36044 36052	la femme
 T275	PER 30257 30294	les Dames blanches ou noires de Nancy
 T276	GPE 30289 30294	Nancy
 T277	TIME 30852 30860	Un soir 
@@ -290,8 +290,8 @@ T289	TIME 32321 32332	deux nuits
 T290	FAC 32410 32417	la gare
 T291	TIME 32449 32467	une heure à perdre
 T292	FAC 32482 32491	les rues 
-T293	PER 32783 32791	l'homme 
-T294	PER 32537 32549	un individu 
+T293	PER 32537 32549	un individu 
+T294	PER 32783 32791	l'homme 
 T295	FAC 32796 32827	un magasin d'objets de sainteté
 T296	PER 33504 33529	des brocanteurs en piété 
 T297	PER 34470 34498	un marchand courant les rues
@@ -337,17 +337,17 @@ T336	PER 39356 39399	une de ces marchandes dites _à la toilette_
 T337	PER 39363 39399	ces marchandes dites _à la toilette_
 T338	PER 39518 39547	les jeunes et vieilles nippes
 T339	TIME 40148 40173	la même époque charmante 
-T340	PER 41611 41618	mon ami
-T341	PER 41216 41223	mon ami
+T340	PER 41586 41591	Vous 
+T341	PER 42104 42112	mon ami 
 T342	PER 44160 44167	mon ami
 T343	PER 45613 45621	mon ami 
-T344	PER 41586 41591	Vous 
-T345	PER 42104 42112	mon ami 
+T344	PER 40493 40518	monsieur l'abbé d'Argencé
+T345	PER 41216 41223	mon ami
 T346	PER 40613 40620	Mon ami
-T347	PER 40493 40518	monsieur l'abbé d'Argencé
+T347	PER 41611 41618	mon ami
 T348	GPE 40511 40518	Argencé
-T349	TIME 41109 41121	trois jours 
-T350	TIME 44788 44799	trois jours
+T349	TIME 44788 44799	trois jours
+T350	TIME 41109 41121	trois jours 
 T351	TIME 41690 41701	trois jours
 T352	PER 41337 41352	M. de Crébillon
 T353	PER 41775 41790	un tas de gens 
@@ -361,8 +361,8 @@ T360	PER 42718 42768	ce petit morceau de créature vivante séparé d'elle
 T361	PER 42528 42537	un homme 
 T362	PER 42776 42854	la famille continuée, la prolongation du sang, du coeur et de l'âme des vieux 
 T363	PER 42776 42796	la famille continuée
-T364	PER 42925 42937	deux amants 
-T365	PER 43912 43923	Des amants 
+T364	PER 43912 43923	Des amants 
+T365	PER 42925 42937	deux amants 
 T366	PER 43517 43528	deux êtres 
 T367	PER 43528 43535	un seul
 T368	TIME 43740 43753	l'autre année

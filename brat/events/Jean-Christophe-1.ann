@@ -32,7 +32,7 @@ T31	EVENT 2016 2025	grimaces
 T32	EVENT 2169 2173	fit 
 T33	EVENT 2206 2219	alla reposer 
 T34	EVENT 2249 2262	fit une moue 
-T35	EVENT 2299 2310	la regarda 
+T35	EVENT 2302 2310	regarda 
 T36	EVENT 2331 2334	rit
 T37	EVENT 2578 2592	se mit à crier
 T38	EVENT 2692 2699	tendit 
@@ -119,10 +119,10 @@ T118	EVENT 10821 10835	donner sa main
 T119	EVENT 10845 10850	marié
 T120	EVENT 10855 10873	se montra atterré 
 T121	EVENT 10900 10918	ne le cacha point 
-T122	EVENT 10956 10979	lui en demandait pardon
-T123	EVENT 11008 11025	le lui accordait 
+T122	EVENT 10963 10979	demandait pardon
+T123	EVENT 11011 11025	lui accordait 
 T124	EVENT 11067 11075	remords 
-T125	EVENT 11075 11089	le reprenaient
+T125	EVENT 11078 11089	reprenaient
 T126	EVENT 11351 11358	lisait 
 T127	EVENT 11384 11404	habituels reproches 
 T128	EVENT 11417 11429	s’attardait 
@@ -225,7 +225,7 @@ T224	EVENT 16701 16709	pleurait
 T225	EVENT 22282 22288	matin 
 T226	EVENT 22302 22309	dorment
 T227	EVENT 22338 22355	couché sur le dos
-T228	EVENT 22360 22389	regarde les raies lumineuses 
+T228	EVENT 22360 22368	regarde 
 T229	EVENT 22404 22411	plafond
 T230	EVENT 22422 22432	amusement 
 T231	EVENT 22458 22462	rit 
@@ -386,7 +386,7 @@ T385	EVENT 30801 30820	fier de son pouvoir
 T386	EVENT 30825 30834	touchait 
 T387	EVENT 30849 30897	leur enjoignant de se changer en carrosses dorés
 T388	EVENT 30976 30992	n’arrivât jamais
-T389	EVENT 30997 31048	était persuadé que cela ne manquerait pas d’arriver
+T389	EVENT 30997 31012	était persuadé 
 T390	EVENT 31078 31088	cherchait 
 T391	EVENT 31099 31113	pour en faire 
 T392	EVENT 31177 31195	disait une formule
@@ -406,7 +406,7 @@ T405	EVENT 31622 31631	poissons
 T406	EVENT 31631 31649	n’ont pas coutume 
 T407	EVENT 31652 31671	manger une ficelle 
 T408	EVENT 31703 31711	pensait 
-T409	EVENT 31747 31778	pourraient faire une exception 
+T409	EVENT 31758 31778	faire une exception 
 T410	EVENT 31835 31842	pêcher 
 T411	EVENT 31842 31854	dans la rue 
 T412	EVENT 31862 31867	fouet
@@ -548,7 +548,7 @@ T547	EVENT 38721 38729	saluait
 T548	EVENT 38742 38766	prodiguait les formules 
 T549	EVENT 38780 38789	politesse
 T550	EVENT 38803 38813	rougissait
-T551	EVENT 39150 39174	s’asseyait sous un arbre
+T551	EVENT 39150 39161	s’asseyait 
 T552	EVENT 39199 39219	faire un petit somme
 T553	EVENT 39238 39249	s’asseyait 
 T554	EVENT 39368 39378	balançait 

@@ -1,312 +1,312 @@
 T1	TIME 0 6	L'aube
-T2	LOC 19111 19121	Le fleuve 
+T2	LOC 47042 47049	du Rhin
 T3	LOC 10721 10730	du fleuve
-T4	LOC 15894 15904	du fleuve 
-T5	LOC 23394 23403	du fleuve
-T6	LOC 47130 47135	l’eau
-T7	LOC 19949 19955	l’eau 
-T8	LOC 36511 36518	du Rhin
-T9	LOC 19969 19977	le Rhin 
-T10	LOC 18868 18878	Le Fleuve 
-T11	LOC 227 237	du fleuve 
-T12	LOC 37900 37909	au fleuve
-T13	LOC 47236 47245	le fleuve
-T14	LOC 31550 31559	le fleuve
-T15	LOC 47042 47049	du Rhin
-T16	LOC 47513 47534	le fleuve gris argent
-T17	FAC 42107 42116	la maison
-T18	FAC 252 261	la maison
-T19	FAC 48166 48176	La maison 
-T20	FAC 28395 28405	La maison 
-T21	FAC 28259 28268	la maison
-T22	FAC 26405 26414	la maison
+T4	LOC 47236 47245	le fleuve
+T5	LOC 47513 47534	le fleuve gris argent
+T6	LOC 31550 31559	le fleuve
+T7	LOC 227 237	du fleuve 
+T8	LOC 37900 37909	au fleuve
+T9	LOC 18868 18878	Le Fleuve 
+T10	LOC 15894 15904	du fleuve 
+T11	LOC 47130 47135	l’eau
+T12	LOC 23394 23403	du fleuve
+T13	LOC 36511 36518	du Rhin
+T14	LOC 19949 19955	l’eau 
+T15	LOC 19111 19121	Le fleuve 
+T16	LOC 19969 19977	le Rhin 
+T17	FAC 11782 11791	la maison
+T18	FAC 28259 28268	la maison
+T19	FAC 48149 48164	la maison close
+T20	FAC 26405 26414	la maison
+T21	FAC 28395 28405	La maison 
+T22	FAC 48166 48176	La maison 
 T23	FAC 16193 16202	la maison
-T24	FAC 48149 48164	la maison close
-T25	FAC 11782 11791	la maison
-T26	FAC 5188 5197	au logis 
+T24	FAC 5188 5197	au logis 
+T25	FAC 252 261	la maison
+T26	FAC 42107 42116	la maison
 T27	TIME 296 319	le commencement du jour
-T28	TIME 18511 18530	le jour sans bornes
-T29	TIME 17178 17186	le jour 
-T30	TIME 21560 21568	un jour 
-T31	TIME 48593 48600	du jour
-T32	TIME 16768 16776	le jour 
+T28	TIME 48593 48600	du jour
+T29	TIME 21560 21568	un jour 
+T30	TIME 50332 50337	jour 
+T31	TIME 312 319	du jour
+T32	TIME 17178 17186	le jour 
 T33	TIME 16959 16982	Jour immense, taciturne
-T34	TIME 50332 50337	jour 
-T35	TIME 312 319	du jour
+T34	TIME 16768 16776	le jour 
+T35	TIME 18511 18530	le jour sans bornes
 T36	TIME 373 390	Le jour jaunâtre 
-T37	FAC 20403 20413	la chambre
-T38	FAC 20672 20719	Le petit monde familier aux regards de l’enfant
-T39	FAC 49047 49058	la chambre 
-T40	FAC 26673 26683	la chambre
-T41	FAC 21631 21640	Le monde 
-T42	FAC 21617 21629	ces espaces 
+T37	FAC 26673 26683	la chambre
+T38	FAC 21631 21640	Le monde 
+T39	FAC 21535 21546	La chambre 
+T40	FAC 13156 13166	la chambre
+T41	FAC 49047 49058	la chambre 
+T42	FAC 21226 21240	cette chambre 
 T43	FAC 21315 21327	cet univers 
 T44	FAC 427 437	la chambre
-T45	FAC 13156 13166	la chambre
-T46	FAC 20896 20908	son royaume 
-T47	FAC 48440 48450	la chambre
-T48	FAC 21226 21240	cette chambre 
-T49	FAC 21535 21546	La chambre 
-T50	PER 33339 33360	un public complaisant
-T51	PER 33279 33294	son petit-fils 
-T52	PER 49718 49721	Tu 
-T53	PER 33180 33191	Christophe 
-T54	PER 33154 33163	l’enfant 
-T55	PER 15648 15657	l’enfant 
-T56	PER 50145 50159	ce petit être 
-T57	PER 50161 50187	Quel trop-plein d’énergie 
-T58	PER 12153 12178	le petit Jean-Christophe 
-T59	PER 14931 14940	L’enfant 
-T60	PER 15362 15404	le cher petit enfant endormi auprès d’elle
-T61	PER 13366 13375	l’enfant 
-T62	PER 38125 38134	l’enfant 
+T45	FAC 20896 20908	son royaume 
+T46	FAC 20672 20719	Le petit monde familier aux regards de l’enfant
+T47	FAC 21617 21629	ces espaces 
+T48	FAC 48440 48450	la chambre
+T49	FAC 20403 20413	la chambre
+T50	PER 33279 33294	son petit-fils 
+T51	PER 49263 49274	Christophe 
+T52	PER 7079 7088	l’enfant 
+T53	PER 33154 33163	l’enfant 
+T54	PER 33180 33191	Christophe 
+T55	PER 34458 34469	Christophe 
+T56	PER 22206 22217	Christophe 
+T57	PER 48098 48116	l’enfant désœuvré 
+T58	PER 46405 46415	Christophe
+T59	PER 33339 33360	un public complaisant
+T60	PER 45272 45283	Christophe 
+T61	PER 20201 20210	l’enfant 
+T62	PER 22616 22626	petit fou 
 T63	PER 439 453	Le nouveau-né 
-T64	PER 582 591	l’enfant 
-T65	PER 20201 20210	l’enfant 
-T66	PER 17065 17081	l’être engourdi 
-T67	PER 34226 34238	l’auditoire 
-T68	PER 20711 20719	l’enfant
-T69	PER 14639 14685	cette misérable masse inconsciente et informe 
-T70	PER 14555 14578	mon petit poisson d’or 
-T71	PER 14544 14553	mon jésus
-T72	PER 49263 49274	Christophe 
-T73	PER 34458 34469	Christophe 
-T74	PER 1260 1269	l’enfant 
-T75	PER 1400 1406	pleure
-T76	PER 1378 1387	L’enfant 
-T77	PER 33033 33044	Christophe 
-T78	PER 49661 49670	embrasse 
-T79	PER 49445 49456	Christophe 
-T80	PER 41034 41045	Christophe 
-T81	PER 24807 24810	Il 
-T82	PER 38791 38800	L’enfant 
-T83	PER 22616 22626	petit fou 
-T84	PER 20883 20892	le maître
-T85	PER 4713 4722	L’enfant 
-T86	PER 46912 46927	le petit garçon
-T87	PER 40687 40698	Christophe 
+T64	PER 41034 41045	Christophe 
+T65	PER 22498 22505	enfant 
+T66	PER 49718 49721	Tu 
+T67	PER 12153 12178	le petit Jean-Christophe 
+T68	PER 35200 35211	Christophe 
+T69	PER 582 591	l’enfant 
+T70	PER 38125 38134	l’enfant 
+T71	PER 49661 49670	embrasse 
+T72	PER 35151 35160	l’enfant 
+T73	PER 23053 23064	Christophe 
+T74	PER 48857 48868	Christophe 
+T75	PER 35683 35699	son jeune public
+T76	PER 46912 46927	le petit garçon
+T77	PER 21771 21774	Il 
+T78	PER 33033 33044	Christophe 
+T79	PER 50161 50187	Quel trop-plein d’énergie 
+T80	PER 50145 50159	ce petit être 
+T81	PER 45949 45958	L’enfant 
+T82	PER 34226 34238	l’auditoire 
+T83	PER 37170 37181	Christophe 
+T84	PER 40059 40068	L’enfant 
+T85	PER 13366 13375	l’enfant 
+T86	PER 29824 29836	le cavalier 
+T87	PER 14639 14685	cette misérable masse inconsciente et informe 
 T88	PER 42630 42641	Christophe 
-T89	PER 4636 4645	l’enfant 
-T90	PER 22498 22505	enfant 
-T91	PER 45272 45283	Christophe 
-T92	PER 2973 2982	l’enfant 
-T93	PER 39227 39238	Christophe 
-T94	PER 23053 23064	Christophe 
-T95	PER 3093 3109	mon pauvre petit
-T96	PER 43517 43528	Christophe 
-T97	PER 35200 35211	Christophe 
-T98	PER 35151 35160	l’enfant 
-T99	PER 43465 43475	Christophe
-T100	PER 41413 41423	Christophe
-T101	PER 37170 37181	Christophe 
-T102	PER 19638 19646	l’enfant
-T103	PER 2472 2481	L’enfant 
-T104	PER 40059 40068	L’enfant 
-T105	PER 23671 23680	L’enfant 
-T106	PER 35683 35699	son jeune public
-T107	PER 41771 41782	Christophe 
-T108	PER 21771 21774	Il 
-T109	PER 17951 17957	enfant
-T110	PER 16125 16135	son enfant
-T111	PER 7079 7088	l’enfant 
-T112	PER 1855 1858	Il 
-T113	PER 45949 45958	L’enfant 
-T114	PER 27499 27508	l’enfant 
-T115	PER 48098 48116	l’enfant désœuvré 
-T116	PER 14131 14140	L’enfant 
-T117	PER 29824 29836	le cavalier 
-T118	PER 46405 46415	Christophe
-T119	PER 29731 29742	Christophe 
-T120	PER 44095 44106	Christophe 
-T121	PER 29549 29560	Christophe 
-T122	PER 23845 23856	Cet âne-là 
-T123	PER 48857 48868	Christophe 
-T124	PER 29964 29975	Christophe 
-T125	PER 27970 27973	Il 
-T126	PER 22206 22217	Christophe 
-T127	PER 42843 42854	Grand-père 
-T128	PER 38846 38857	grand-père 
-T129	PER 49934 49944	grand-père
-T130	PER 4543 4555	le vieillard
-T131	PER 40905 40916	Grand-père 
-T132	PER 33237 33246	Le vieux 
-T133	PER 2735 2744	Le vieux 
-T134	PER 42536 42546	grand-père
-T135	PER 4663 4667	Père
-T136	PER 46859 46870	Grand-père 
-T137	PER 41375 41384	Le vieux 
-T138	PER 7910 7923	Le vieillard 
-T139	PER 7850 7862	Jean-Michel 
-T140	PER 39134 39150	le vieux Krafft 
-T141	PER 24830 24840	grand-père
-T142	PER 41593 41602	le vieux 
-T143	PER 7642 7651	le vieux 
-T144	PER 2173 2181	le vieux
-T145	PER 7547 7558	Jean-Michel
-T146	PER 12917 12926	Le vieux 
-T147	PER 41532 41543	grand-père 
-T148	PER 35238 35249	grand-père 
-T149	PER 43416 43427	grand-père 
-T150	PER 35139 35148	le vieux 
-T151	PER 2287 2299	Jean-Michel 
-T152	PER 5883 5892	Le vieux 
-T153	PER 5851 5853	J’
-T154	PER 25187 25201	son grand-père
-T155	PER 45391 45401	grand-père
-T156	PER 43366 43381	son grand-père 
-T157	PER 4246 4254	le vieux
-T158	PER 2565 2573	du vieux
-T159	PER 4421 4430	Le vieux 
-T160	PER 37637 37653	le vieux Krafft 
-T161	PER 35640 35651	Grand-père 
-T162	PER 4388 4392	père
-T163	PER 39860 39875	son grand-père 
-T164	PER 37487 37498	Grand-père 
-T165	PER 4377 4381	père
-T166	PER 6119 6124	Vous 
-T167	PER 16155 16176	le vieux Jean-Michel 
-T168	PER 36117 36128	grand-père 
-T169	PER 36184 36189	l’un 
+T89	PER 41413 41423	Christophe
+T90	PER 16125 16135	son enfant
+T91	PER 14544 14553	mon jésus
+T92	PER 3093 3109	mon pauvre petit
+T93	PER 14555 14578	mon petit poisson d’or 
+T94	PER 29731 29742	Christophe 
+T95	PER 44095 44106	Christophe 
+T96	PER 14931 14940	L’enfant 
+T97	PER 29964 29975	Christophe 
+T98	PER 27499 27508	l’enfant 
+T99	PER 24807 24810	Il 
+T100	PER 41771 41782	Christophe 
+T101	PER 38791 38800	L’enfant 
+T102	PER 39227 39238	Christophe 
+T103	PER 23845 23856	Cet âne-là 
+T104	PER 49445 49456	Christophe 
+T105	PER 14131 14140	L’enfant 
+T106	PER 2973 2982	l’enfant 
+T107	PER 23671 23680	L’enfant 
+T108	PER 1855 1858	Il 
+T109	PER 15362 15404	le cher petit enfant endormi auprès d’elle
+T110	PER 40687 40698	Christophe 
+T111	PER 4636 4645	l’enfant 
+T112	PER 20883 20892	le maître
+T113	PER 2472 2481	L’enfant 
+T114	PER 4713 4722	L’enfant 
+T115	PER 20711 20719	l’enfant
+T116	PER 1260 1269	l’enfant 
+T117	PER 1378 1387	L’enfant 
+T118	PER 1400 1406	pleure
+T119	PER 17951 17957	enfant
+T120	PER 19638 19646	l’enfant
+T121	PER 43517 43528	Christophe 
+T122	PER 43465 43475	Christophe
+T123	PER 29549 29560	Christophe 
+T124	PER 17065 17081	l’être engourdi 
+T125	PER 15648 15657	l’enfant 
+T126	PER 27970 27973	Il 
+T127	PER 8227 8241	un brave homme
+T128	PER 16155 16176	le vieux Jean-Michel 
+T129	PER 34630 34645	le pauvre vieux
+T130	PER 33237 33246	Le vieux 
+T131	PER 34512 34523	grand-père 
+T132	PER 44212 44222	grand-père
+T133	PER 2173 2181	le vieux
+T134	PER 7263 7271	Le vieux
+T135	PER 7173 7197	Jean-Michel, près du feu
+T136	PER 42536 42546	grand-père
+T137	PER 46041 46046	l’un 
+T138	PER 39860 39875	son grand-père 
+T139	PER 41375 41384	Le vieux 
+T140	PER 6119 6124	Vous 
+T141	PER 2287 2299	Jean-Michel 
+T142	PER 12423 12427	Père
+T143	PER 12540 12542	J’
+T144	PER 42843 42854	Grand-père 
+T145	PER 41593 41602	le vieux 
+T146	PER 44358 44379	le vieux Jean-Michel 
+T147	PER 34699 34709	du conteur
+T148	PER 38613 38624	grand-père 
+T149	PER 41532 41543	grand-père 
+T150	PER 12304 12325	le vieux Jean-Michel 
+T151	PER 7910 7923	Le vieillard 
+T152	PER 12658 12667	Le vieux 
+T153	PER 24830 24840	grand-père
+T154	PER 2735 2744	Le vieux 
+T155	PER 12569 12581	le vieillard
+T156	PER 38846 38857	grand-père 
+T157	PER 36291 36302	Grand-père 
+T158	PER 12917 12926	Le vieux 
+T159	PER 40905 40916	Grand-père 
+T160	PER 36184 36189	l’un 
+T161	PER 37637 37653	le vieux Krafft 
+T162	PER 45391 45401	grand-père
+T163	PER 26335 26346	Grand-père 
+T164	PER 39134 39150	le vieux Krafft 
+T165	PER 37487 37498	Grand-père 
+T166	PER 36117 36128	grand-père 
+T167	PER 35015 35024	du vieux 
+T168	PER 4663 4667	Père
+T169	PER 25187 25201	son grand-père
 T170	PER 488 497	le vieux 
-T171	PER 3186 3198	Jean-Michel 
-T172	PER 671 685	le grand-père 
-T173	PER 7263 7271	Le vieux
-T174	PER 3499 3508	L’enfant 
-T175	PER 38613 38624	grand-père 
-T176	PER 7173 7197	Jean-Michel, près du feu
-T177	PER 794 814	du vieux Jean-Michel
-T178	PER 36291 36302	Grand-père 
-T179	PER 5598 5607	Le vieux 
-T180	PER 3606 3618	Jean-Michel 
-T181	PER 32090 32101	grand-père 
-T182	PER 38424 38433	le vieux 
-T183	PER 45764 45775	Grand-père 
-T184	PER 25396 25407	grand-père 
-T185	PER 34699 34709	du conteur
-T186	PER 32630 32641	Grand-père 
-T187	PER 36888 36898	grand-père
-T188	PER 8227 8241	un brave homme
-T189	PER 34630 34645	le pauvre vieux
-T190	PER 12304 12325	le vieux Jean-Michel 
-T191	PER 44212 44222	grand-père
-T192	PER 12423 12427	Père
-T193	PER 34512 34523	grand-père 
-T194	PER 12540 12542	J’
-T195	PER 46041 46046	l’un 
-T196	PER 34423 34434	grand-père 
-T197	PER 12658 12667	Le vieux 
-T198	PER 33010 33021	Grand-père 
-T199	PER 46731 46742	grand-père 
-T200	PER 33082 33091	Le vieux 
-T201	PER 12569 12581	le vieillard
-T202	PER 26335 26346	Grand-père 
-T203	PER 35015 35024	du vieux 
-T204	PER 4863 4875	Jean-Michel 
-T205	PER 8712 8723	Jean-Michel
-T206	PER 34854 34865	grand-père 
-T207	PER 44358 44379	le vieux Jean-Michel 
-T208	PER 9077 9084	Louisa 
-T209	PER 4625 4633	La mère 
-T210	PER 22710 22719	un public
-T211	PER 26695 26703	sa mère 
-T212	PER 5201 5208	Louisa 
-T213	PER 11605 11612	Louisa 
-T214	PER 22551 22559	Sa mère 
-T215	PER 2632 2640	sa mère 
-T216	PER 3327 3338	Bonne fille
-T217	PER 7068 7076	la mère 
-T218	PER 13755 13763	Sa mère 
-T219	PER 611 619	La mère 
-T220	PER 47628 47634	maman 
-T221	PER 4690 4696	Louisa
-T222	PER 2959 2966	Louisa 
-T223	PER 7199 7226	Louisa, assise dans son lit
-T224	PER 14447 14455	La mère 
-T225	PER 10156 10170	une cuisinière
-T226	PER 9388 9444	une fille du peuple, pauvre, sans éducation, sans beauté
-T227	PER 22955 22961	Maman 
-T228	PER 12090 12121	la servante aux cheveux de lin 
-T229	PER 979 986	Louisa 
+T171	PER 3499 3508	L’enfant 
+T172	PER 34854 34865	grand-père 
+T173	PER 3606 3618	Jean-Michel 
+T174	PER 2565 2573	du vieux
+T175	PER 5883 5892	Le vieux 
+T176	PER 35238 35249	grand-père 
+T177	PER 32630 32641	Grand-père 
+T178	PER 46859 46870	Grand-père 
+T179	PER 5851 5853	J’
+T180	PER 43416 43427	grand-père 
+T181	PER 35139 35148	le vieux 
+T182	PER 25396 25407	grand-père 
+T183	PER 46731 46742	grand-père 
+T184	PER 4863 4875	Jean-Michel 
+T185	PER 671 685	le grand-père 
+T186	PER 794 814	du vieux Jean-Michel
+T187	PER 43366 43381	son grand-père 
+T188	PER 49934 49944	grand-père
+T189	PER 7547 7558	Jean-Michel
+T190	PER 35640 35651	Grand-père 
+T191	PER 8712 8723	Jean-Michel
+T192	PER 45764 45775	Grand-père 
+T193	PER 4246 4254	le vieux
+T194	PER 32090 32101	grand-père 
+T195	PER 36888 36898	grand-père
+T196	PER 7642 7651	le vieux 
+T197	PER 4388 4392	père
+T198	PER 4377 4381	père
+T199	PER 38424 38433	le vieux 
+T200	PER 4421 4430	Le vieux 
+T201	PER 33010 33021	Grand-père 
+T202	PER 34423 34434	grand-père 
+T203	PER 33082 33091	Le vieux 
+T204	PER 3186 3198	Jean-Michel 
+T205	PER 7850 7862	Jean-Michel 
+T206	PER 5598 5607	Le vieux 
+T207	PER 4543 4555	le vieillard
+T208	PER 4625 4633	La mère 
+T209	PER 10693 10708	la jeune fille 
+T210	PER 26695 26703	sa mère 
+T211	PER 8263 8269	sa bru
+T212	PER 49225 49231	maman 
+T213	PER 16097 16104	Louisa 
+T214	PER 7199 7226	Louisa, assise dans son lit
+T215	PER 4690 4696	Louisa
+T216	PER 47628 47634	maman 
+T217	PER 13357 13364	la mère
+T218	PER 22551 22559	Sa mère 
+T219	PER 39878 39886	sa mère 
+T220	PER 28219 28227	sa mère 
+T221	PER 10920 10936	la pauvre Louisa
+T222	PER 9077 9084	Louisa 
+T223	PER 611 619	La mère 
+T224	PER 8569 8575	Louisa
+T225	PER 5201 5208	Louisa 
+T226	PER 12090 12121	la servante aux cheveux de lin 
+T227	PER 2242 2249	Louisa 
+T228	PER 12471 12485	la jeune femme
+T229	PER 10156 10170	une cuisinière
 T230	PER 22721 22727	Maman 
-T231	PER 26729 26732	Tu 
-T232	PER 16097 16104	Louisa 
-T233	PER 8263 8269	sa bru
-T234	PER 8198 8204	Louisa
-T235	PER 12289 12296	Louisa 
-T236	PER 2242 2249	Louisa 
-T237	PER 4007 4013	Louisa
-T238	PER 12471 12485	la jeune femme
-T239	PER 5926 5941	Ma pauvre fille
-T240	PER 49225 49231	maman 
-T241	PER 6528 6538	une fille 
-T242	PER 49648 49656	sa mère 
-T243	PER 8569 8575	Louisa
-T244	PER 28219 28227	sa mère 
-T245	PER 10693 10708	la jeune fille 
-T246	PER 21940 21947	sa mère
-T247	PER 8672 8723	un singulier contraste avec Melchior et Jean-Michel
-T248	PER 10920 10936	la pauvre Louisa
-T249	PER 13357 13364	la mère
-T250	PER 15273 15280	Louisa 
-T251	PER 6190 6198	sa femme
-T252	PER 39878 39886	sa mère 
-T253	PER 12746 12749	Tu 
-T254	PER 4413 4419	Louisa
-T255	TIME 17189 17197	la nuit 
-T256	TIME 50340 50345	nuit 
-T257	TIME 751 758	la nuit
-T258	TIME 16779 16787	la nuit 
-T259	TIME 15047 15055	La nuit 
-T260	TIME 49180 49187	la nuit
+T231	PER 6190 6198	sa femme
+T232	PER 2632 2640	sa mère 
+T233	PER 8672 8723	un singulier contraste avec Melchior et Jean-Michel
+T234	PER 12289 12296	Louisa 
+T235	PER 22710 22719	un public
+T236	PER 5926 5941	Ma pauvre fille
+T237	PER 49648 49656	sa mère 
+T238	PER 15273 15280	Louisa 
+T239	PER 12746 12749	Tu 
+T240	PER 9388 9444	une fille du peuple, pauvre, sans éducation, sans beauté
+T241	PER 22955 22961	Maman 
+T242	PER 4007 4013	Louisa
+T243	PER 4413 4419	Louisa
+T244	PER 13755 13763	Sa mère 
+T245	PER 6528 6538	une fille 
+T246	PER 11605 11612	Louisa 
+T247	PER 979 986	Louisa 
+T248	PER 26729 26732	Tu 
+T249	PER 14447 14455	La mère 
+T250	PER 2959 2966	Louisa 
+T251	PER 7068 7076	la mère 
+T252	PER 3327 3338	Bonne fille
+T253	PER 8198 8204	Louisa
+T254	PER 21940 21947	sa mère
+T255	TIME 49180 49187	la nuit
+T256	TIME 751 758	la nuit
+T257	TIME 15047 15055	La nuit 
+T258	TIME 12245 12253	La nuit 
+T259	TIME 19049 19057	La nuit 
+T260	TIME 50340 50345	nuit 
 T261	TIME 14818 14825	la nuit
-T262	TIME 48232 48239	la nuit
-T263	TIME 15662 15670	la nuit 
-T264	TIME 12245 12253	La nuit 
-T265	TIME 19049 19057	La nuit 
+T262	TIME 15662 15670	la nuit 
+T263	TIME 16779 16787	la nuit 
+T264	TIME 17189 17197	la nuit 
+T265	TIME 48232 48239	la nuit
 T266	TIME 1554 1588	la nuit étouffante et grouillante 
 T267	PER 2265 2285	petite fille grondée
 T268	PER 3483 3497	un brave homme
 T269	PER 3714 3730	un honnête homme
 T270	TIME 3742 3752	un instant
 T271	TIME 3932 3941	ton mari 
-T272	TIME 8971 8980	Melchior 
-T273	TIME 49401 49409	Le père 
-T274	TIME 7519 7534	Melchior Krafft
-T275	TIME 9100 9120	l’homme le plus vain
-T276	TIME 8186 8195	Melchior 
-T277	TIME 7808 7817	Melchior 
-T278	TIME 10573 10582	Melchior 
-T279	TIME 8480 8489	Melchior 
-T280	TIME 11837 11846	Melchior 
-T281	TIME 12550 12558	Melchior
-T282	TIME 11827 11835	son mari
-T283	TIME 6510 6520	Un Krafft 
-T284	TIME 49112 49120	Le père 
-T285	TIME 23828 23836	du père 
-T286	TIME 8505 8514	Melchior 
-T287	TIME 4218 4221	Il 
-T288	TIME 10128 10149	l’intrigant Melchior 
-T289	TIME 7962 7971	Melchior 
-T290	TIME 13221 13230	son fils 
-T291	TIME 9514 9523	Melchior 
+T272	TIME 7519 7534	Melchior Krafft
+T273	TIME 8700 8709	Melchior 
+T274	TIME 7962 7971	Melchior 
+T275	TIME 4218 4221	Il 
+T276	TIME 4975 4995	cet ivrogne de fils 
+T277	TIME 11837 11846	Melchior 
+T278	TIME 22919 22926	du père
+T279	TIME 8971 8980	Melchior 
+T280	TIME 11827 11835	son mari
+T281	TIME 49112 49120	Le père 
+T282	TIME 8008 8017	son fils 
+T283	TIME 22806 22814	le père 
+T284	TIME 8505 8514	Melchior 
+T285	TIME 7315 7323	son fils
+T286	TIME 8480 8489	Melchior 
+T287	TIME 6510 6520	Un Krafft 
+T288	TIME 12550 12558	Melchior
+T289	TIME 10573 10582	Melchior 
+T290	TIME 9514 9523	Melchior 
+T291	TIME 23828 23836	du père 
 T292	TIME 15817 15826	Melchior 
-T293	TIME 22919 22926	du père
-T294	TIME 4975 4995	cet ivrogne de fils 
-T295	TIME 8700 8709	Melchior 
-T296	TIME 22806 22814	le père 
-T297	TIME 16269 16288	son misérable fils 
-T298	TIME 8008 8017	son fils 
-T299	TIME 7315 7323	son fils
-T300	FAC 4034 4045	Le théâtre 
-T301	FAC 3980 3990	au théâtre
+T293	TIME 49401 49409	Le père 
+T294	TIME 10128 10149	l’intrigant Melchior 
+T295	TIME 16269 16288	son misérable fils 
+T296	TIME 13221 13230	son fils 
+T297	TIME 7808 7817	Melchior 
+T298	TIME 8186 8195	Melchior 
+T299	TIME 9100 9120	l’homme le plus vain
+T300	FAC 3980 3990	au théâtre
+T301	FAC 4034 4045	Le théâtre 
 T302	TIME 4277 4287	un instant
 T303	PER 4625 4645	La mère et l’enfant 
 T304	PER 7065 7088	ni la mère ni l’enfant 
 T305	PER 6264 6274	Un garçon 
 T306	PER 6595 6612	plus de cent ans 
 T307	TIME 6874 6882	un temps
-T308	PER 7560 7571	Les Krafft 
-T309	PER 7714 7740	musiciens de père en fils 
+T308	PER 7714 7740	musiciens de père en fils 
+T309	PER 7560 7571	Les Krafft 
 T310	PER 8700 8723	Melchior et Jean-Michel
 T311	LOC 7614 7637	la petite ville rhénane
 T312	LOC 28417 28425	du pays 
@@ -346,16 +346,16 @@ T345	TIME 16463 16473	une minute
 T346	TIME 16475 16485	cette nuit
 T347	TIME 16658 16669	cette heure
 T348	TIME 16711 16735	Le vaste flot des jours 
-T349	TIME 16768 16787	le jour et la nuit 
-T350	TIME 50332 50345	jour et nuit 
-T351	TIME 17178 17197	le jour et la nuit 
-T352	TIME 16860 16873	Les semaines 
-T353	TIME 18841 18854	des semaines 
-T354	TIME 16860 16885	Les semaines et les mois 
-T355	TIME 18841 18866	des semaines et des mois 
-T356	TIME 16876 16885	les mois 
-T357	TIME 18136 18145	Les mois 
-T358	TIME 18857 18866	des mois 
+T349	TIME 50332 50345	jour et nuit 
+T350	TIME 17178 17197	le jour et la nuit 
+T351	TIME 16768 16787	le jour et la nuit 
+T352	TIME 18841 18854	des semaines 
+T353	TIME 16860 16873	Les semaines 
+T354	TIME 18841 18866	des semaines et des mois 
+T355	TIME 16860 16885	Les semaines et les mois 
+T356	TIME 18857 18866	des mois 
+T357	TIME 16876 16885	les mois 
+T358	TIME 18136 18145	Les mois 
 T359	TIME 16916 16935	la suite des jours 
 T360	TIME 16945 16957	un même jour
 T361	TIME 18929 18951	les lointains du temps
@@ -395,10 +395,10 @@ T394	LOC 28427 28439	la campagne
 T395	TIME 29015 29024	la veille
 T396	PER 29986 30003	chef d’orchestre 
 T397	PER 30014 30021	le chef
-T398	ORG 29993 30003	orchestre 
-T399	ORG 30035 30047	l’orchestre 
-T400	PER 30179 30187	magicien
-T401	PER 31351 31371	son rôle de magicien
+T398	ORG 30035 30047	l’orchestre 
+T399	ORG 29993 30003	orchestre 
+T400	PER 31351 31371	son rôle de magicien
+T401	PER 30179 30187	magicien
 T402	TIME 31252 31269	quelques instants
 T403	TIME 44947 44954	Le soir
 T404	TIME 32690 32697	du soir
@@ -406,8 +406,8 @@ T405	PER 35139 35160	le vieux et l’enfant
 T406	PER 36184 36200	l’un et l’autre 
 T407	PER 35174 35182	enfants 
 T408	NO_PER 32871 32934	Des corneilles énormes, posées de profil en travers de la route
-T409	PER 34893 34901	Régulus 
-T410	PER 33894 33901	Régulus
+T409	PER 33894 33901	Régulus
+T410	PER 34893 34901	Régulus 
 T411	PER 33905 33913	Arminius
 T412	PER 34877 34885	Arminius
 T413	PER 33915 33938	des chasseurs de Lützow
@@ -441,39 +441,39 @@ T440	LOC 40573 40582	la plaine
 T441	PER 40596 40603	paysan 
 T442	TIME 41716 41734	plus d’une semaine
 T443	GPE 41970 41989	le massif du Taunus
-T444	LOC 42372 42382	la vallée 
-T445	LOC 42024 42034	des creux 
+T444	LOC 42024 42034	des creux 
+T445	LOC 42372 42382	la vallée 
 T446	LOC 42051 42064	tout le pays 
 T447	PER 42242 42255	un ingénieur 
 T448	PER 42260 42282	une équipe d’ouvriers 
 T449	TIME 42437 42447	sa journée
-T450	PER 42857 42865	l’homme 
-T451	PER 45778 45791	le voiturier 
-T452	PER 46769 46779	Le paysan 
-T453	PER 46890 46900	Le paysan 
+T450	PER 46769 46779	Le paysan 
+T451	PER 46890 46900	Le paysan 
+T452	PER 42857 42865	l’homme 
+T453	PER 45778 45791	le voiturier 
 T454	PER 42493 42503	un paysan 
-T455	VEH 42508 42519	sa carriole
+T455	VEH 46957 46968	La voiture 
 T456	VEH 44008 44020	la carriole 
-T457	VEH 43757 43768	la voiture 
-T458	VEH 46957 46968	La voiture 
-T459	VEH 46746 46757	La voiture 
-T460	VEH 42795 42803	voiture 
+T457	VEH 42795 42803	voiture 
+T458	VEH 46746 46757	La voiture 
+T459	VEH 42508 42519	sa carriole
+T460	VEH 43757 43768	la voiture 
 T461	VEH 45721 45731	du cheval 
-T462	VEH 43115 43124	du cheval
-T463	VEH 46946 46955	au cheval
-T464	VEH 44822 44831	du cheval
-T465	VEH 42604 42614	Le cheval 
+T462	VEH 44822 44831	du cheval
+T463	VEH 42604 42614	Le cheval 
+T464	VEH 46946 46955	au cheval
+T465	VEH 43115 43124	du cheval
 T466	VEH 43796 43806	du cheval 
 T467	PER 42688 42708	d’autres promeneurs 
-T468	PER 42843 42865	Grand-père et l’homme 
-T469	PER 44586 44611	les deux lourds imbéciles
-T470	PER 45764 45791	Grand-père et le voiturier 
-T471	PER 46041 46060	l’un contre l’autre
-T472	PER 46812 46837	Les deux ennemis mortels 
-T473	NO_PER 45234 45243	une ombre
-T474	NO_PER 44814 44831	l’ombre du cheval
-T475	NO_PER 44851 44872	un spectacle étonnant
-T476	NO_PER 44874 44897	Cette bête toute noire 
+T468	PER 46812 46837	Les deux ennemis mortels 
+T469	PER 45764 45791	Grand-père et le voiturier 
+T470	PER 44586 44611	les deux lourds imbéciles
+T471	PER 42843 42865	Grand-père et l’homme 
+T472	PER 46041 46060	l’un contre l’autre
+T473	NO_PER 44874 44897	Cette bête toute noire 
+T474	NO_PER 44851 44872	un spectacle étonnant
+T475	NO_PER 44814 44831	l’ombre du cheval
+T476	NO_PER 45234 45243	une ombre
 T477	LOC 44905 44924	le long de la route
 T478	LOC 44997 45008	la prairie 
 T479	FAC 47006 47049	l’entrée du petit chemin creux près du Rhin

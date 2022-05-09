@@ -12,7 +12,7 @@ T11	EVENT 974 986	surexcitent
 T12	EVENT 1006 1017	puissances 
 T13	EVENT 1054 1064	sensation 
 T14	EVENT 1091 1099	contact 
-T15	EVENT 1121 1139	innommable besoin 
+T15	EVENT 1132 1139	besoin 
 T16	EVENT 1858 1865	arrive 
 T17	EVENT 1884 1899	ne te dis rien 
 T18	EVENT 1949 1962	avoir visité 
@@ -124,7 +124,7 @@ T123	EVENT 11958 11983	ne pus m'empêcher de rire
 T124	EVENT 12030 12036	reprit
 T125	EVENT 12068 12078	me jetant 
 T126	EVENT 12118 12128	mouillant 
-T127	EVENT 12281 12301	ne saisissais point 
+T127	EVENT 12284 12295	saisissais 
 T128	EVENT 12316 12342	passa ses bras à mon cou. 
 T129	EVENT 12548 12557	murmurai 
 T130	EVENT 12557 12566	attendri 
