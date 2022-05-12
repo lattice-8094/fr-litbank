@@ -1,0 +1,280 @@
+T1	Citation 668 779	« Quand je sais comment on aime dans un pays, je connais ce pays à le décrire, bien que ne l'ayant jamais vu. »
+T2	Entite 627 629	Tu
+R1	Source Arg1:T1 Arg2:T2
+T3	Introducteur 632 640	as écrit
+R2	Introduction Arg1:T1 Arg2:T3
+T5	Citation 7471 7489	« Allez-vous-en. »
+T6	Entite 7456 7460	Elle
+R3	Source Arg1:T5 Arg2:T6
+T7	Introducteur 7464 7468	cria
+R4	Introduction Arg1:T5 Arg2:T7
+T8	Citation 7608 7653	« Ça n'est pas bien de rester là, monsieur. »
+T9	Entite 7594 7598	Elle
+R5	Source Arg1:T8 Arg2:T9
+T10	Introducteur 7599 7605	ajouta
+R6	Introduction Arg1:T8 Arg2:T10
+T11	Citation 8003 8083	« Vous allez me faire attraper mal. Je ne partirai pas tant que vous serez là. »
+T16	Citation 13434 13531	« Si, je l'aime beaucoup, au contraire, beaucoup, beaucoup, mais pas tant que toi, mon coeurrr, »
+T19	Citation 14545 14587	« Te voilà chez nous, te voilà chez toi. »
+T20	Citation 15198 15224	-- « Marroca, c'est moi. »
+T21	Citation 15246 15289	« Mon mari ! Vite, cache-toi sous le lit. »
+T22	Citation 15361 15385	-- « Va donc, va donc. »
+T23	Citation 15742 15781	« Je ne trrrouve pas les allumettes ; »
+T24	Citation 16075 16175	-- « Zé oublié ma bourse, té, il a fallu revenir. Autrement, je crois que tu dormais de bon coeur. »
+T25	Citation 16628 16665	-- « Tu es bien méçante aujourd'hui »
+T26	Citation 16702 16723	-- « Adieu, petite. »
+T29	Citation 20729 20740;20791 20835	« Et voilà, voilà pourquoi je ne me suis jamais marié. »
+T30	Citation 21056 21072	« Comment ça ? »
+T31	Citation 23814 23882	« C'est moi, d'ailleurs, qui ai eu l'idée de vous envoyer chercher »
+T33	Citation 25081 25160	« Mettez donc une bûche au feu, mon ami, vous voyez bien qu'il va s'éteindre. »
+T34	Entite 25065 25071	Berthe
+R7	Source Arg1:T33 Arg2:T34
+T35	Introducteur 25075 25078	dit
+R8	Introduction Arg1:T33 Arg2:T35
+T36	Citation 25705 25779	« Qu'est-ce que vous feriez si une femme vous disait qu'elle vous aime ? »
+T37	Citation 25811 25882	« Ma foi, le cas n'est pas prévu, et puis, ça dépendrait de la femme. »
+T38	Citation 26376 26845	« Non, vous n'y entendez rien. Pour que l'amour fût bon, il faudrait, il me semble, qu'il bouleversât le coeur, tordit les nerfs et ravageât la tête ; il faudrait qu'il fût--comment dirai-je ? --dangereux, terrible même, presque criminel, presque sacrilège, qu'il fût une sorte de trahison ; je veux dire qu'il a besoin de rompre des obstacles sacrés, des lois, des liens fraternels ; quand l'amour est tranquille, facile, sans périls, légal, est-ce bien de l'amour ? »
+T39	Citation 27270 27291	« Je vous fais peur »
+T40	Citation 27385 27448	« Si je vous disais, moi, que je vous aime, que feriez-vous ? »
+T41	Citation 28912 28973	« Je suis libre, l'affaire est finie deux heures plus tôt ! »
+T42	Entite 28899 28901	Il
+R9	Source Arg1:T41 Arg2:T42
+T43	Introducteur 28902 28909	s'écria
+R10	Introduction Arg1:T41 Arg2:T43
+T44	Citation 31406 31638	« Quel bonheur ! vous me rapporterez quelque chose ; presque rien, un simple souvenir, mais un souvenir choisi pour moi. Il faut découvrir ce qui me fera le plus de plaisir, entendez-vous ? Je verrai si vous avez de l'imagination. »
+T45	Citation 31687 31821	« Je vous défends d'y mettre plus de vingt francs. Je veux être touchée par l'intention, par l'invention, monsieur, non par le prix. »
+T46	Entite 31639 31643	Elle
+R11	Source Arg1:T45 Arg2:T46
+T47	Introducteur 31678 31684	ajouta
+R12	Introduction Arg1:T45 Arg2:T47
+T48	Citation 31893 32012	« Si cela ne vous coûte rien, comme argent, et si c'est bien ingénieux, bien délicat, je vous... je vous embrasserai. »
+T49	Entite 31854 31858	elle
+R13	Source Arg1:T48 Arg2:T49
+T50	Introducteur 31859 31862	dit
+R14	Introduction Arg1:T48 Arg2:T50
+T51	Citation 32843 32891	« bétit morceau d'un os des once mille fierges »
+T52	Citation 33870 33910	« Qu'est-ce que vous m'avez rapporté ? »
+T53	Citation 35758 35782	« Comme je vous aime ! »
+T54	Citation 38489 38536	« Cette pauvre Gilberte ne se mariera jamais. »
+T56	Introducteur 38481 38486	a dit
+R16	Introduction Arg1:T54 Arg2:T56
+T57	Citation 40479 40521	« A monsieur, monsieur l'abbé d'Argencé. »
+T58	Entite 40399 40412	Une main fine
+R17	Source Arg1:T57 Arg2:T58
+T59	Introducteur 40413 40424	avait tracé
+R18	Introduction Arg1:T57 Arg2:T59
+T60	Entite 7991 7995	elle
+T61	Introducteur 7996 8000	cria
+T62	Citation 11789 11798;11810 11843	« Il faut que tu viennes dormir chez moi. » 	
+T64	Introducteur 11800 11803	dit
+T65	Entite 11804 11808	elle
+T66	Citation 11866 11887	« Comment, chez toi ?
+T67	Citation 11888 11954	--Oui, quand mon mari sera parti, tu viendras dormir à sa place. »
+T68	Citation 11985 12024	« Pourquoi ça, puisque tu viens ici ? »
+T69	Citation 12157 12196	-- « C'est pour me faire un souvenir. »
+T70	Citation 12342 12454	-- « Quand tu ne seras plus là, j'y penserai. Et quand j'embrasserai mon mari, il me semblera que ce sera toi. »
+T71	Entite 12545 12547	Je
+T72	Introducteur 12548 12556	murmurai
+T73	Citation 12582 12633	« Mais tu es folle. J'aime mieux rester chez moi. »
+T74	Entite 12778 12782	elle
+T75	Introducteur 12817 12825	ajoutant
+T76	Citation 12827 12865	-- « Tu verras comme je t'aimerrrai. »
+T77	Entite 13254 13256	Je
+T78	Introducteur 13261 13264	dis
+T79	Citation 13266 13309	-- « Ton mari est très méchant pour toi ? »
+T80	Entite 13310 13314	Elle
+T81	Citation 13334 13356	-- « Oh non, très bon.
+T82	Citation 13357 13390	--Mais tu ne l'aimes pas, toi ? »
+T83	Entite 13391 13395	Elle
+T84	Entite 13681 13685	elle
+T85	Introducteur 13686 13693	murmura
+T86	Citation 13695 13721	-- « Tu viendrras, dis ? »
+T87	Entite 13848 13852	elle
+T88	Introducteur 13911 13918	demanda
+T89	Citation 13920 14002	-- « Viendras-tu ce soir dorrrmirrr chez moi ? Si tu ne viens pas, je m'en vais. »
+T90	Entite 14094 14096	Je
+T91	Introducteur 14097 14102	criai
+T92	Citation 14104 14114	-- « Oui »
+T4	Entite 11844 11846	Je
+R15	Source Arg1:T66 Arg2:T4	
+R19	Source Arg1:T62 Arg2:T65	
+R20	Introduction Arg1:T62 Arg2:T64	
+T12	Entite 12025 12029	Elle
+T13	Introducteur 12030 12036	reprit
+R21	Introduction Arg1:T69 Arg2:T13	
+R22	Source Arg1:T69 Arg2:T12	
+T55	Entite 12311 12315	Elle
+R23	Source Arg1:T70 Arg2:T55	
+R24	Introduction Arg1:T73 Arg2:T72	
+R25	Source Arg1:T73 Arg2:T71	
+R26	Introduction Arg1:T76 Arg2:T75	
+R27	Source Arg1:T76 Arg2:T74	
+R28	Introduction Arg1:T79 Arg2:T78	
+R29	Source Arg1:T79 Arg2:T77	
+R30	Source Arg1:T81 Arg2:T80	
+R31	Source Arg1:T16 Arg2:T83	
+R32	Introduction Arg1:T86 Arg2:T85	
+R33	Source Arg1:T86 Arg2:T84	
+R34	Introduction Arg1:T89 Arg2:T88	
+R35	Source Arg1:T89 Arg2:T87
+T93	Entite 14518 14522	elle
+T94	Introducteur 14532 14540	répétant	
+R36	Introduction Arg1:T92 Arg2:T91	
+R37	Source Arg1:T92 Arg2:T90	
+R38	Introduction Arg1:T19 Arg2:T94	
+R39	Source Arg1:T19 Arg2:T93	
+T95	Entite 15169 15191	une voix forte d'homme
+T96	Introducteur 15192 15196	cria
+T97	Entite 15225 15229	Elle
+T98	Entite 15334 15338	elle
+T99	Entite 15699 15703	elle
+T100	Introducteur 15704 15712	répondit
+T101	Citation 15796 15827	-- « Les voilà, je t'ouvrrre. »
+T102	Entite 16040 16042	il
+T103	Introducteur 16043 16046	dit
+T104	Introducteur 16667 16670	dit
+T105	Entite 16671 16673	il
+T106	Citation 17730 17759	« Et si ton mari m'avait vu »
+T107	Introducteur 17765 17773	demandai
+T108	Entite 17774 17776	je
+T109	Entite 17778 17782	Elle
+T110	Introducteur 17783 17791	répondit
+T112	Entite 17937 17941	elle
+T113	Citation 18036 18067	« Il ne se serait pas baissé. »
+T114	Entite 18068 18070	J'
+T115	Introducteur 18070 18078	insistai
+T116	Citation 18080 18229	-- « Par exemple ! S'il avait seulement laissé tomber son chapeau, il aurait bien fallu le ramasser, alors... j'étais propre, moi, dans ce costume. »
+T117	Entite 18315 18319	elle
+T118	Introducteur 18322 18329	eût dit
+T119	Citation 18331 18351	-- « Je t'adorrre »,
+T120	Entite 18352 18356	elle
+T121	Introducteur 18357 18364	murmura
+T122	Citation 18366 18409	-- « Alorrrs, il ne se serait pas relevé. »
+T123	Entite 18410 18412	Je
+T124	Citation 18435 18452	« Pourquoi ça ? »
+R40	Introduction Arg1:T20 Arg2:T96	
+R41	Introduction Arg1:T11 Arg2:T61	
+R42	Source Arg1:T11 Arg2:T60	
+R43	Source Arg1:T22 Arg2:T98	
+R44	Source Arg1:T20 Arg2:T95	
+R45	Source Arg1:T21 Arg2:T97	
+R46	Source Arg1:T23 Arg2:T99	
+R47	Introduction Arg1:T23 Arg2:T100	
+R48	Introduction Arg1:T24 Arg2:T103	
+R49	Source Arg1:T24 Arg2:T102	
+R50	Introduction Arg1:T25 Arg2:T104	
+R51	Source Arg1:T25 Arg2:T105	
+T14	Entite 16680 16682	il
+R52	Source Arg1:T26 Arg2:T14	
+R53	Source Arg1:T106 Arg2:T108	
+R54	Introduction Arg1:T106 Arg2:T107	
+T15	Citation 17793 17812	-- « Pas de danger.
+R55	Introduction Arg1:T15 Arg2:T110	
+R56	Source Arg1:T15 Arg2:T109	
+T17	Citation 17813 17915	--Comment ! pas de danger. Elle est raide celle-là ! Il lui suffisait de se baisser pour me trouver. »
+R57	Source Arg1:T113 Arg2:T112	
+R58	Introduction Arg1:T116 Arg2:T115	
+R59	Source Arg1:T116 Arg2:T114	
+R60	Introduction Arg1:T119 Arg2:T118	
+R61	Source Arg1:T119 Arg2:T117	
+R62	Introduction Arg1:T122 Arg2:T121	
+R63	Source Arg1:T122 Arg2:T120	
+R64	Source Arg1:T124 Arg2:T123	
+T18	Introducteur 20741 20744	dit
+T27	Entite 20745 20747	il
+R65	Introduction Arg1:T29 Arg2:T18	
+R66	Source Arg1:T29 Arg2:T27	
+T28	Entite 21041 21045	elle
+T63	Introducteur 21046 21053	demanda
+R67	Introduction Arg1:T30 Arg2:T63	
+R68	Source Arg1:T30 Arg2:T28
+T125	Introducteur 21073 21075	Il
+T126	Introducteur 21076 21082	reprit
+T127	Introducteur 23569 23572	dit
+T128	Entite 23573 23575	il
+T130	Introducteur 23884 23890	reprit
+T131	Entite 23891 23895	elle
+T132	Entite 23897 23899	Je
+T133	Citation 23921 23955	« Vous êtes gentille comme tout. »
+T137	Introducteur 25575 25578	dit
+T138	Entite 25579 25583	elle
+T139	Entite 25780 25782	Je
+T140	Introducteur 25783 25791	répondis
+T141	Entite 26014 26018	elle
+T142	Introducteur 26019 26025	ajouta
+T143	Citation 26028 26078	« Les hommes ne sont jamais audacieux ni malins. »
+T144	Entite 26079 26083	Elle
+T145	Introducteur 26097 26103	reprit
+T146	Citation 26106 26161	« Avez-vous quelquefois été amoureux, monsieur Paul ? »
+T147	Citation 26203 26223	« Racontez-moi ça, »
+T148	Introducteur 26224 26227	dit
+T149	Entite 26228 26232	elle
+T150	Entite 26275 26279	Elle
+T151	Introducteur 27293 27296	dit
+T152	Entite 27297 27301	elle	
+T111	Citation 25541 25573;25586 25622	« Il fait trop chaud, maintenant allons donc là-bas, sur le canapé. »
+R69	Introduction Arg1:T37 Arg2:T140	
+R70	Source Arg1:T37 Arg2:T139	
+R71	Source Arg1:T143 Arg2:T141	
+R72	Introduction Arg1:T143 Arg2:T142	
+R73	Source Arg1:T146 Arg2:T144	
+R74	Introduction Arg1:T146 Arg2:T145	
+R75	Introduction Arg1:T39 Arg2:T151	
+R76	Source Arg1:T39 Arg2:T152	
+R77	Source Arg1:T38 Arg2:T150	
+T134	Entite 27317 27321	Elle
+R78	Source Arg1:T40 Arg2:T134	
+T135	Entite 31362 31366	elle
+R79	Source Arg1:T44 Arg2:T135	
+T136	Introducteur 31396 31403	s'écria
+R80	Introduction Arg1:T44 Arg2:T136	
+T153	Entite 32783 32790	l'homme
+R81	Source Arg1:T51 Arg2:T153	
+T154	Entite 33820 33824	elle
+R82	Source Arg1:T52 Arg2:T154
+T155	Entite 34081 34085	Elle
+T156	Citation 34110 34146	« Une relique ! Oh ! une relique ! »
+T157	Citation 34326 34373	« Êtes-vous bien sûr qu'elle soit authentique ?
+T158	Citation 34374 34395	--Absolument certain.
+T159	Citation 34396 34414	--Comment cela ? »
+T160	Entite 34568 34570	je
+T161	Introducteur 34571 34579	répondis
+T162	Citation 34616 34645	« Je l'ai volée, pour vous. »
+T163	Entite 34646 34650	Elle
+T164	Citation 34707 34740	« Oh ! vous l'avez volée. Où çà ?
+T165	Citation 34741 34808	--Dans la cathédrale, dans la châsse même des onze mille vierges. »
+T166	Entite 34858 34862	elle
+T167	Introducteur 34863 34870	murmura
+T168	Citation 34873 34943	« Oh ! vous avez fait cela... pour moi. Racontez... dites-moi tout ! »
+T169	Entite 35743 35747	Elle
+T170	Introducteur 35748 35755	murmura
+T173	Entite 38433 38446	Mme d'Arville	
+T171	Citation 23558 23567;23577 23789	« Mon bon il va falloir que je m'absente, en sortant de table, pour une affaire. Je ne serai pas de retour avant onze heures ; mais à onze heures précises, je rentrerai. J'ai compté sur toi pour tenir compagnie à Berthe. »
+R83	Introduction Arg1:T171 Arg2:T127	
+R84	Source Arg1:T171 Arg2:T128	
+R85	Introduction Arg1:T31 Arg2:T130	
+R86	Source Arg1:T31 Arg2:T131	
+R87	Source Arg1:T133 Arg2:T132	
+R88	Introduction Arg1:T111 Arg2:T137	
+R89	Source Arg1:T111 Arg2:T138	
+R90	Introduction Arg1:T147 Arg2:T148	
+R91	Source Arg1:T147 Arg2:T149	
+R92	Source Arg1:T156 Arg2:T155	
+R93	Introduction Arg1:T162 Arg2:T161	
+R94	Source Arg1:T162 Arg2:T160	
+R95	Source Arg1:T164 Arg2:T163
+R96	Source Arg1:T168 Arg2:T166	
+R97	Introduction Arg1:T168 Arg2:T167	
+R98	Introduction Arg1:T53 Arg2:T170	
+R99	Source Arg1:T53 Arg2:T169	
+R100	Source Arg1:T54 Arg2:T173	
+R101	Source Arg1:T67 Arg2:T65	
+T32	Entite 11955 11957	Je
+R102	Source Arg1:T68 Arg2:T32	
+R103	Source Arg1:T157 Arg2:T155	
+T129	Entite 34297 34299	me
+R104	Source Arg1:T158 Arg2:T129	
+R105	Source Arg1:T159 Arg2:T155	
+T172	Introducteur 40590 40595	voici
+T174	Citation 40611 40965;40966 41093;41094 41205;41206 41311;41312 41583;41584 41883;41884 42309;42310 42885;42886 43688;43689 43829;43830 43991;43992 44136;44137 44704;44705 44834;44835 44902;44903 45009;45010 45262;45263 45507;45508 45603;45604 45702	« Mon ami, je suis malade, toute souffrante, et je ne quitte pas mon lit. La pluie bat mes vitres, et je reste chaudement, mollement rêveuse, dans la tiédeur des duvets. J'ai un livre, un livre que j'aime et qui me semble fait avec un peu de moi. Vous dirai-je lequel ? Non. Vous me gronderiez. Puis, quand j'ai lu, je songe, et je veux vous dire à quoi. « On a mis derrière ma tête des oreillers qui me tiennent assise, et je vous écris sur ce mignon pupitre que j'ai reçu de vous. « Étant depuis trois jours en mon lit, c'est à mon lit que je pense, et même dans le sommeil j'y médite encore. « Le lit, mon ami, c'est toute notre vie. C'est là qu'on naît, c'est là qu'on aime, c'est là qu'on meurt. « Si j'avais la plume de M. de Crébillon, j'écrirais l'histoire d'un lit. Et que d'aventures émouvantes, terribles, aussi que d'aventures gracieuses, aussi que d'autres attendrissantes ! Que d'enseignements n'en pourrait-on pas tirer, et de moralités pour tout le monde ? « Vous connaissez mon lit, mon ami. Vous ne vous figurerez jamais que de choses j'y ai découvertes depuis trois jours, et comme je l'aime davantage. Il me semble habité, hanté, dirai-je, par un tas de gens que je ne soupçonnais point et qui cependant ont laissée quelque chose d'eux en cette couche. « Oh ! comme je ne comprends pas ceux qui achètent des lits nouveaux, des lits sans mémoires. Le mien, le nôtre, si vieux, si usé, et si spacieux, a dû contenir bien des existences, de la naissance au tombeau. Songez-y, mon ami ; songez à tout, revoyez des vies entières entre ces quatre colonnes, sous ce tapis à personnages tendu sur nos têtes, qui a regardé tant de choses. Qu'a-t-il vu depuis trois siècles qu'il est là ? « Voici une jeune femme étendue. De temps en temps elle pousse un soupir, puis elle gémit ; et les vieux parents l'entourent ; et voilà que d'elle sort un petit être miaulant comme un chat, et crispé, tout ridé. C'est un homme qui commence. Elle, la jeune mère, se sent douloureusement joyeuse ; elle étouffe de bonheur à ce premier cri, et tend les bras et suffoque et, autour, on pleure avec délices ; car ce petit morceau de créature vivante séparé d'elle, c'est la famille continuée, la prolongation du sang, du coeur et de l'âme des vieux qui regardent, tout tremblants. « Puis voici que pour la première fois deux amants se trouvent chair à chair dans ce tabernacle de la vie. Ils tremblent, mais transportés d'allégresse, ils se sentent délicieusement l'un près de l'autre ; et, peu à peu, leurs bouches s'approchent. Ce baiser divin les confond, ce baiser, porte du ciel terrestre, ce baiser qui chante les délices humaines, qui les promet toutes, les annonce et les devance. Et leur lit s'émeut comme une mer soulevée, ploie et murmure, semble lui-même animé, joyeux, car sur lui le délirant mystère d'amour s'accomplit. Quoi de plus suave, de plus parfait en ce monde que ces étreintes faisant de deux êtres un seul, et donnant à chacun, dans le même moment, la même pensée, la même attente et la même joie éperdue qui descend en eux comme un feu dévorant et céleste ? « Vous rappelez-vous ces vers que vous m'avez lus, l'autre année, dans quelque poète antique, je ne sais lequel, peut-être le doux Ronsard ? Et quand au lit nous serons Entrelacés, nous ferons Les lascifs, selon les guises Des amants qui librement Pratiquent folâtrement Sous les draps cent mignardises « Ces vers-là, je les voudrais avoir brodés en ce plafond de mon lit, d'où Pyrame et Thisbé me regardent sans fin avec leurs yeux de tapisserie. « Et songez à la mort, mon ami, à tous ceux qui ont exhalé vers Dieu leur dernier souffle en ce lit. Car il est aussi le tombeau des espérances finies, la porte qui ferme tout après avoir été celle qui ouvre le monde. Que de cris, que d'angoisses, de souffrances, de désespoirs épouvantables, de gémissements d'agonie, de bras tendus vers les choses passées, d'appels aux bonheurs terminés à jamais ; que de convulsions, de râles, de grimaces, de bouches tordues, d'yeux retournés, dans ce lit, où je vous écris, depuis trois siècles qu'il prête aux hommes son abri ! « Le lit, songez-y, c'est le symbole de la vie ; je me suis aperçue de cela depuis trois jours. Rien n'est excellent hors du lit. « Le sommeil n'est-il pas encore un de nos instants les meilleurs ? « Mais c'est aussi là qu'on souffre ! Il est le refuge des malades, un lieu de douleurs aux corps épuisés. « Le lit, c'est l'homme. Notre Seigneur Jésus, pour prouver qu'il n'avait rien d'humain, ne semble pas avoir jamais eu besoin d'un lit. Il est né sur la paille et mort sur la croix, laissant aux créatures comme nous leur couche de mollesse et de repos. « Que d'autres choses me sont encore venues ! mais je n'ai le temps de vous les marquer, et puis me les rappellerais-je toutes ? et puis je suis déjà tant fatiguée que je vais retirer mes oreillers, m'étendre tout au long et dormir quelque peu. « Venez me voir demain à trois heures ; peut-être serai-je mieux et vous le pourrai-je montrer. « Adieu, mon ami ; voici mes mains pour que vous les baisiez, et je vous tends aussi mes lèvres. »
+R106	Introduction Arg1:T174 Arg2:T172	

@@ -1,0 +1,224 @@
+T1	Citation 22588 22629	« Qu’est-ce que tu as donc, petit fou ? »
+T2	Entite 22551 22558	Sa mère
+R1	Source Arg1:T1 Arg2:T2
+T3	Introducteur 22582 22585	dit
+R2	Introduction Arg1:T1 Arg2:T3
+T4	Citation 23843 23931	« Cet âne-là ne se taira donc jamais ! Attends un peu, je vais te tirer les oreilles ! »
+T5	Citation 26727 26789	« Tu vois bien que c’est l’eau ! Il faut passer par le pont. »
+T6	Citation 30303 30342	– « Je veux que vous alliez à droite. »
+T7	Citation 34412 34437	« Et puis, grand-père ? »
+T8	Citation 35453 35488	« Mieux vaut douceur que violence »
+T9	Citation 36844 36868	« Nous sommes trahis ! »
+T10	Citation 38250 38418	« Si un grand homme comme celui-là n’avait pas de moralité, c’est donc que la moralité n’est pas grand’chose, et que la première affaire, c’est d’être un grand homme. »
+T12	Citation 44405 44480	« Mais à la fin, tais-toi ! tu es assommant avec ton bruit de trompette ! »
+T13	Citation 45654 45679	« N’allez pas plus loin »
+T14	Citation 46562 46745	« Comme il a l’air méchant ! Ils se haïssent, sûrement. Comme il roule les yeux ! Comme il ouvre la bouche ! Il m’a craché au nez, dans sa fureur. Mon Dieu ! il va tuer grand-père … »
+T15	Citation 46788 46811	« Vous voilà arrivés. »
+T16	Entite 46769 46778	Le paysan
+R3	Source Arg1:T15 Arg2:T16
+T17	Introducteur 46779 46785	disait
+R4	Introduction Arg1:T15 Arg2:T17
+T18	Entite 30276 30278	Il
+T19	Introducteur 30279 30289	commandait
+R5	Introduction Arg1:T6 Arg2:T19	
+R6	Source Arg1:T6 Arg2:T18
+T20	Citation 49716 49744	– Tu veux donc m’étrangler ?
+T21	Citation 2139 2168	– Bon Dieu ! qu’il est laid !
+T22	Introducteur 2169 2172	fit
+T23	Entite 2173 2181	le vieux
+R7	Introduction Arg1:T21 Arg2:T22
+R8	Source Arg1:T21 Arg2:T23
+T24	Citation 2336 2471	– Tu ne voudrais pas que je te dise qu’il est beau ? Tu ne me croirais pas. Allons, ce n’est pas de ta faute. Ils sont tous comme cela.
+T25	Entite 2287 2298	Jean-Michel
+R9	Introduction Arg1:T24 Arg2:T25
+T26	Citation 2718 2734	– Donnez-le-moi.
+T27	Citation 3086 3110;3136 3185	– Oh ! mon pauvre petit, que tu es laid, que tu es laid, comme je t’aime !
+T28	Introducteur 3111 3114	dit
+T29	Entite 3115 3119	elle
+R10	Source Arg1:T27 Arg2:T29	
+R11	Introduction Arg1:T27 Arg2:T28
+T30	Entite 2683 2687	Elle
+T31	Introducteur 2712 2715	dit
+T32	Entite 2735 2743	Le vieux
+T33	Introducteur 2744 2756	commença par
+T34	Citation 2798 2880	– On ne doit pas céder aux enfants, quand ils pleurent. Il faut les laisser crier.
+T35	Entite 2886 2888	il
+T36	Introducteur 2913 2919	grogna
+T37	Citation 2922 2958	– Je n’en ai jamais vu d’aussi laid.
+R12	Introduction Arg1:T26 Arg2:T31	
+R13	Source Arg1:T26 Arg2:T30	
+R14	Introduction Arg1:T34 Arg2:T33	
+R15	Source Arg1:T34 Arg2:T32	
+R16	Introduction Arg1:T37 Arg2:T36	
+R17	Source Arg1:T37 Arg2:T35	
+T38	Citation 3325 3338;3348 3498	– Bonne fille Va, ne te tourmente pas, il a le temps de changer. Et puis, qu’est-ce que cela fait ? On ne lui demande qu’une chose, c’est de devenir un brave homme.
+T39	Introducteur 3340 3343	dit
+T40	Entite 3344 3346	il
+R18	Introduction Arg1:T38 Arg2:T39	
+R19	Source Arg1:T38 Arg2:T40	
+T65	Entite 3606 3617	Jean-Michel
+T41	Introducteur 3660 3666	répéta
+T42	Citation 3682 3731	– Il n’y a rien de plus beau qu’un honnête homme.
+T43	Entite 3879 3881	il
+T44	Introducteur 3882 3888	reprit
+T45	Citation 3907 3958	– Comment se fait-il que ton mari ne soit pas ici ?
+T46	Citation 3959 3990;4015 4031	– Je crois qu’il est au théâtre Il a répétition.
+T47	Introducteur 3992 3995	dit
+T48	Entite 4007 4013	Louisa	
+T49	Citation 4032 4116	– Le théâtre est fermé. Je viens de passer devant. C’est encore un de ses mensonges.
+T50	Citation 4117 4215	– Non, ne l’accusez pas toujours ! J’aurai mal compris. Il doit être retenu par une de ses leçons.
+T51	Citation 4216 4240	– Il devrait être rentré
+T52	Introducteur 4242 4245	fit
+T53	Entite 4246 4254	le vieux
+T54	Entite 4267 4269	Il
+T55	Introducteur 4294 4301	demanda
+T56	Citation 4338 4369	– Est-ce qu’il a … de nouveau ?
+T57	Citation 4370 4392	– Non, père, non, père
+T58	Introducteur 4394 4397	dit
+T59	Entite 4413 4419	Louisa
+T60	Entite 4421 4429	Le vieux
+T61	Citation 4466 4495	– Ce n’est pas vrai, tu mens.
+T62	Citation 4525 4537	– Bon Dieu !
+T63	Introducteur 4538 4542	cria
+T64	Entite 4543 4555	le vieillard
+R20	Source Arg1:T42 Arg2:T65	
+R21	Introduction Arg1:T42 Arg2:T41	
+R22	Source Arg1:T45 Arg2:T43	
+R23	Introduction Arg1:T45 Arg2:T44	
+R24	Introduction Arg1:T46 Arg2:T47	
+R25	Source Arg1:T46 Arg2:T48	
+R26	Introduction Arg1:T51 Arg2:T52	
+R27	Source Arg1:T51 Arg2:T53	
+R28	Source Arg1:T56 Arg2:T54	
+R29	Introduction Arg1:T56 Arg2:T55	
+R30	Introduction Arg1:T57 Arg2:T58	
+R31	Source Arg1:T57 Arg2:T59	
+R32	Source Arg1:T61 Arg2:T60	
+R33	Introduction Arg1:T62 Arg2:T63	
+R34	Source Arg1:T62 Arg2:T64	
+T66	Citation 4661 4684;4698 4711	– Père, je vous en prie il va pleurer	
+T67	Introducteur 4686 4689	dit
+T68	Entite 4690 4696	Louisa
+R35	Introduction Arg1:T66 Arg2:T67	
+R36	Source Arg1:T66 Arg2:T68	
+T69	Entite 4863 4874	Jean-Michel
+T70	Introducteur 4875 4883	continua
+T71	Citation 4936 5200	– Qu’ai-je fait au bon Dieu pour avoir cet ivrogne de fils ? C’est bien la peine d’avoir vécu comme j’ai vécu, de m’être privé de tout ! … Mais toi, toi, tu n’es donc pas capable de l’empêcher ? Car enfin, sacrebleu ! c’est ton rôle. Si tu le retenais au logis ! …
+T72	Entite 5201 5207	Louisa
+T73	Citation 5228 5560	– Ne me grondez pas encore, je suis déjà si malheureuse ! J’ai fait tout ce que j’ai pu. Si vous saviez comme j’ai peur, quand je suis seule ! Il me semble que j’entends toujours son pas dans l’escalier. Alors j’attends que la porte s’ouvre, et je me demande : Mon Dieu ! comment va-t-il paraître ? … Cela me rend malade d’y songer.
+T75	Entite 5619 5621	Il
+T76	Citation 5749 5794	– Allons, allons, n’aie pas peur, je suis là.
+T77	Entite 5795 5799	Elle
+T78	Citation 5849 5882	– J’ai eu tort de vous dire cela.
+T79	Entite 5883 5891	Le vieux
+T80	Citation 5924 5991	– Ma pauvre fille, ce n’est pas un joli cadeau que je t’ai fait là.
+T81	Citation 5992 6014;6026 6085	– C’est ma faute à moi Il ne devait pas m’épouser. Il a regret de ce qu’il a fait.	
+T82	Citation 6086 6116	– Que veux-tu qu’il regrette ?
+T83	Citation 6117 6199	– Vous le savez bien. Vous-même, vous avez été fâché que je sois devenue sa femme.
+T84	Citation 6200 6845	– Ne parlons plus de cela. C’est vrai. J’ai été un peu chagrin. Un garçon comme lui, – je peux bien le dire sans te blesser, – élevé avec soin, musicien distingué, un véritable artiste, – il aurait pu prétendre à d’autres partis qu’à toi, qui n’avais rien, qui étais d’une autre classe, et pas même du métier. Un Krafft épouser une fille qui ne fût pas musicienne, cela ne s’était pas vu depuis plus de cent ans ! – Mais tu sais bien tout de même que je ne t’en ai pas voulu, et que j’ai de l’affection pour toi, depuis que je te connais. Puis, quand le choix est fait, il n’y a plus à y revenir : il ne reste qu’à faire son devoir, honnêtement.
+R37	Introduction Arg1:T71 Arg2:T70	
+R38	Source Arg1:T71 Arg2:T69	
+R39	Source Arg1:T73 Arg2:T72	
+R40	Source Arg1:T76 Arg2:T75	
+R41	Source Arg1:T78 Arg2:T77	
+R42	Source Arg1:T80 Arg2:T79	
+T74	Introducteur 6016 6019	dit
+T85	Entite 6020 6024	elle
+R43	Introduction Arg1:T81 Arg2:T74	
+R44	Source Arg1:T81 Arg2:T85	
+T86	Entite 6846 6848	Il
+T87	Introducteur 6887 6890	dit
+T88	Citation 6949 7008	– La première chose dans la vie, c’est de faire son devoir.
+T89	Citation 9681 9709	un homme averti en vaut deux
+T90	Introducteur 9711 9714	dit
+T91	Entite 9715 9717	on
+T92	Citation 12421 12447;12487 12537	– Père, il doit être tard, Il faut rentrer chez vous, vous avez loin à aller.	
+T93	Introducteur 12448 12454	disait
+T94	Entite 12471 12485	la jeune femme
+T95	Citation 12538 12558	– J’attends Melchior
+T96	Introducteur 12560 12568	répondit
+T97	Entite 12569 12581	le vieillard
+T98	Citation 12583 12644	– Non, je vous en prie, j’aime mieux que vous ne restiez pas.
+T99	Citation 12645 12657	– Pourquoi ?
+T100	Entite 12732 12734	Il
+T101	Introducteur 12735 12741	reprit
+T102	Citation 12744 12794	– Tu as peur, tu ne veux pas que je le rencontre ?
+T103	Citation 12795 12916	– Eh bien, oui : cela ne servirait qu’à gâter encore les choses : vous vous fâcheriez ; je ne veux pas. Je vous en prie !
+T104	Entite 12917 12925	Le vieux
+T105	Introducteur 12946 12949	dit
+T106	Citation 12952 12961	– Allons.
+T107	Entite 14447 14454	La mère
+T108	Introducteur 14478 14497	avec de petits mots
+T109	Citation 14500 14579	« C’est fini, c’est fini, ne pleurons plus, mon jésus, mon petit poisson d’or …
+R45	Introduction Arg1:T89 Arg2:T90	
+R46	Source Arg1:T89 Arg2:T91	
+R47	Introduction Arg1:T88 Arg2:T87	
+R48	Source Arg1:T88 Arg2:T86	
+R49	Introduction Arg1:T92 Arg2:T93	
+R50	Source Arg1:T92 Arg2:T94	
+R51	Introduction Arg1:T95 Arg2:T96	
+R52	Source Arg1:T95 Arg2:T97	
+R53	Introduction Arg1:T102 Arg2:T101	
+R54	Source Arg1:T102 Arg2:T100	
+R55	Source Arg1:T106 Arg2:T104	
+R56	Introduction Arg1:T106 Arg2:T105	
+R57	Introduction Arg1:T109 Arg2:T108	
+R58	Source Arg1:T109 Arg2:T107	
+T110	Entite 23810 23835	la voix exaspérée du père
+T111	Introducteur 23836 23840	crie
+R59	Introduction Arg1:T4 Arg2:T111	
+R60	Source Arg1:T4 Arg2:T110	
+T112	Entite 26685 26687	Il
+R61	Source Arg1:T5 Arg2:T112	
+T113	Entite 34356 34364	le petit
+T114	Introducteur 34365 34374	demandait
+R62	Introduction Arg1:T7 Arg2:T114	
+R63	Source Arg1:T7 Arg2:T113	
+T115	Citation 35497 35535	« L’honneur est plus cher que la vie »
+T116	Citation 35544 35582	« Il vaut mieux être bon que méchant »
+T117	Entite 36811 36817	chacun
+T118	Introducteur 36832 36841	en criant
+R64	Introduction Arg1:T9 Arg2:T118	
+R65	Source Arg1:T9 Arg2:T117	
+T119	Entite 38201 38221	la logique enfantine
+T120	Introducteur 38239 38247	conclure
+R66	Introduction Arg1:T10 Arg2:T120	
+R67	Source Arg1:T10 Arg2:T119	
+T11	Entite 44358 44378	le vieux Jean-Michel
+T121	Introducteur 44383 44386	dit
+R68	Introduction Arg1:T12 Arg2:T121	
+R69	Source Arg1:T12 Arg2:T11	
+T122	Entite 45607 45637	fantômes tristes et grotesques
+T123	Introducteur 45643 45651	disaient
+R70	Introduction Arg1:T13 Arg2:T123	
+R71	Source Arg1:T13 Arg2:T122	
+T124	Citation 45744 45763	« Pas plus loin ! »
+T125	Entite 45685 45730	les essieux grinçants et les sabots du cheval
+T126	Introducteur 45731 45741	répétaient
+R72	Introduction Arg1:T124 Arg2:T126	
+R73	Source Arg1:T124 Arg2:T125	
+T127	Entite 46535 46537	il
+T128	Introducteur 46538 46545	pensait
+R74	Introduction Arg1:T14 Arg2:T128	
+R75	Source Arg1:T14 Arg2:T127	
+T129	Entite 49692 49696	Elle
+T130	Introducteur 49701 49704	dit
+R76	Introduction Arg1:T20 Arg2:T130	
+R77	Source Arg1:T20 Arg2:T129	
+R78	Source Arg1:T49 Arg2:T43	
+R79	Source Arg1:T50 Arg2:T48	
+R80	Source Arg1:T83 Arg2:T85	
+R81	Source Arg1:T82 Arg2:T79	
+R82	Source Arg1:T84 Arg2:T79	
+R83	Source Arg1:T98 Arg2:T94	
+R84	Source Arg1:T99 Arg2:T97	
+R85	Source Arg1:T103 Arg2:T94	
+T131	Introducteur 35401 35419	une pensée honnête
+R86	Introduction Arg1:T8 Arg2:T131	
+R87	Introduction Arg1:T115 Arg2:T131	
+R88	Introduction Arg1:T116 Arg2:T131	
+T132	Entite 38002 38004	Il
+T133	Introducteur 38007 38015	appelait
+T134	Citation 38018 38060	scélérat, bête féroce, homme sans moralité
+R89	Introduction Arg1:T134 Arg2:T133	
+R90	Source Arg1:T134 Arg2:T132	

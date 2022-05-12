@@ -1,0 +1,367 @@
+T1	Citation 8636 8696	« Il te faudrait une culotte. Je t'apporterai une culotte. »
+T2	Citation 11828 11881	« Grand-père, est-ce que j'irai bientôt à l'école ? »
+T3	Citation 16517 16654	« Au frais matin les coqs ont chanté sa naissance, et, au soir tombant, la cloche de l'église a sonné le glas pour son père et sa mère. »
+T4	Citation 35991 36021	« Oh ! cette petite gnangnan »
+T5	Citation 43758 43855	« Elles ne doivent pas rire pendant la leçon, il faut être sévère, il faut vous faire craindre. »
+T6	Entite 43709 43721	Mlle Charmes
+R1	Source Arg1:T5 Arg2:T6
+T7	Introducteur 43748 43755	gronder
+R2	Introduction Arg1:T5 Arg2:T7
+T8	Citation 54028 54034	« tu »
+T9	Citation 57900 57933;57947 57974	« quand on connaît bien le passé, on dirige mieux le présent.
+R3	Source Arg1:T9 Arg2:T121
+R4	Introduction Arg1:T9 Arg2:T120
+T12	Citation 3133 3168	— Tu es donc toute seule avec lui ?
+T13	Citation 3217 3222;3239 3280	— Oui il joue avec moi et il n'est pas méchant.
+T14	Citation 3282 3322;3342 3409	— J'ai bien vu qu'il n'était pas méchant et j'ai sauté par-dessus la grille pour venir jouer avec vous deux.
+T15	Citation 4437 4644	— Tou aussi est né sans père ni mère. Je l'ai trouvé dans le bois, sur la mousse. Mère Clarisse a dit qu'il était tout frais naissant et qu'il était mon petit frère puisqu'il n'avait pas de parents non plus.
+T16	Citation 9426 9443;9455 9497	— Viens ! viens ! Laisse-le ! Il saura bien nous retrouver !
+T17	Citation 14485 14561	— Elle est grande. Êtes-vous sûr, père Lumière, qu'elle n'ait que sept ans ?
+T18	Citation 14563 14584;14599 14623	— Sûr, oui bien sûr ! Sept ans du dernier mai.
+T19	Citation 14711 14852	— Le trois mai, au matin les coqs ont chanté sa naissance, et au soir tombant la cloche de l'église a sonné le glas pour son père et sa mère.
+T20	Citation 14948 15027	— C'est une date que je n'oublierai pas, vous pouvez m'en croire, Mademoiselle.
+T21	Citation 15409 15452	— C'est à vous, petite ! Il faut répondre !
+T22	Citation 15564 15701	— Oui, je sais ! Votre nourrice vous appelle Douce, mais ce n'est pas votre nom. Vous vous nommez Églantine, tâchez de ne pas l'oublier !
+T23	Citation 16275 16305	— Faites jouer les nouvelles !
+T24	Citation 17571 17628	— Il pleut, grand-père ! Voyez, tous les arbres pleurent.
+T25	Citation 18207 18265	— Il va pleuvoir tout le temps et vous rentrerez mouillé !
+T26	Citation 18368 18422	— Non, non, le brouillard tombe, il fera beau à midi !
+T27	Citation 18477 18536	— Rentre, et ne t'ennuie pas ! Je serai là de bonne heure !
+T28	Citation 19661 19680	— C'était le 3 mai.
+T29	Citation 19902 20198	— Elle ne t'aime pas, tu sais ? Tu lui fais peur avec tes grands yeux. Et puis elle dit que tu es douce jusqu'à la stupidité. Il paraît que tu ne te plains jamais quand les autres te battent. Et par dessus le marché tu n'es bonne à rien, pas même capable de sauter à la corde. Une vraie gnangnan.
+T30	Citation 20230 20307	— Si elle te voyait sauter la grille, elle ne te trouverait pas si gnangnan !
+T31	Citation 20841 20853;20865 20918	— Chez nous, les armoires et les commodes sont en double partout !
+T32	Citation 21536 21563	— C'est le grenier, là-haut
+T33	Citation 23075 23108	— Le marié a des yeux comme toi !
+T34	Citation 23162 23241	— Tiens ! Vois ! C'est peut-être ton père et ta mère, le jour de leur mariage ?
+T35	Citation 24274 24302	— Ah ! enfin on voit clair !
+T36	Citation 25315 25438	— Cette sapinière est à nous. Papa seul a le droit d'y chasser. Il sait que je viens pêcher ici et il prendrait bien garde.
+T37	Citation 25670 25705	— Tu tiens ta ligne comme une oie !
+T38	Citation 26254 26284	— Qui est cette petite fille ?
+T39	Citation 26300 26327	— C'est la petite Lumière !
+T40	Citation 26329 26335	— Ah !
+T41	Citation 26531 26571	— Tu n'étais donc pas dehors, ce matin ?
+T42	Citation 26573 26739	— Non ! Je suis entré chez le père Lumière pour m'abriter. Douce était toute seule avec son chien. Nous avons joué, et, dès qu'il a fait beau, nous sommes venus ici !
+T43	Citation 26741 26782	— Mais tu n'avais rien emporté à manger ?
+T44	Citation 26837 26864	— Elle a partagé avec moi !
+T45	Citation 27447 27475	— Approche, petite Lumière !
+T46	Citation 28867 28951	— Mademoiselle, y a gnangnan qui fait semblant de dormir pendant que je lui montre !
+T47	Citation 31108 31156	— Montre un peu, Juliette, où tu as été mordue ?
+T48	Citation 31308 31375	— Et toi, Lumière, pourquoi lances-tu ton chien sur tes camarades ?
+T49	Citation 31497 31523	— Qu'est-ce que tu as là ?
+T50	Citation 31525 31531	— Rien
+T51	Citation 31545 31569	— Où t'es-tu fait cela ?
+T52	Citation 31571 31588	— Je ne sais pas.
+T53	Citation 31639 31810	— Mademoiselle, c'est un garçon qui lui a jeté une boule de neige. Elle a crié et son chien est venu. Il nous a fait peur, mais il n'a mordu personne. Maman peut le dire !
+T54	Citation 32308 32366	— C'est bon, laissez-là ! Elle sera privée de récréation !
+T55	Citation 33912 33935	— Oh ! Cette gnangnan !
+T56	Citation 34168 34212	— Pourquoi ne veux-tu pas apprendre à lire ?
+T57	Citation 34258 34275	— Je ne sais pas.
+T58	Citation 34446 34465	— Qui t'a fait ça ?
+T59	Citation 34467 34478	— Personne.
+T60	Citation 34480 34519	— Est-ce que tes camarades te pincent ?
+T61	Citation 34521 34527	— Non.
+T62	Citation 34529 34607	— Pourtant quelqu'un t'a pincé aujourd'hui, les marques sont toutes fraîches ?
+T63	Citation 34609 34625	— Non, personne.
+T64	Citation 35042 35117	— Lorsque tes compagnes te font du mal, il faut me le dire, je les punirai.
+T65	Citation 35228 35293	— À partir de demain, ce sera Marguerite Dupré qui te fera lire !
+T66	Citation 36087 36115	— Oh ! cette petite Lumière.
+T67	Citation 37486 37541	— Prenez le chien avec vous, et n'allez pas trop loin !
+T68	Citation 39687 39955	— Quand elle vient chez nous, elle a toujours quelque chose à dire de toi ! Elle t'aime, maintenant, tu sais ? Hier elle a dit que c'était bien ennuyeux que tu ne saches pas te défendre, parce que les gens qui ne se défendent pas sont toujours malheureux dans la vie !
+T69	Citation 40968 41006	— Prends garde ! tu pourrais te noyer.
+T70	Citation 41008 41064	— Mais non ! s'il m'arrive de tomber à l'eau je nagerai.
+T71	Citation 41066 41090	— Tu ne sais pas nager !
+T72	Citation 41092 41167	— Oh ! ce n'est pas difficile, il n'y a qu'à remuer les bras et les jambes.
+T73	Citation 41657 41707	— Je n'aime pas que l'eau vienne jusqu'à ma bouche
+T74	Citation 41829 41924	— Dis-lui, papa, qu'elle nage comme une oie, et qu'il faut absolument que l'on voie ses pieds !
+T75	Citation 41926 41961	— Elle nage plutôt comme un cygne !
+T76	Citation 44264 44353	— Elle n'en revient pas ! Elle dit qu'à vingt ans, tu auras la plus jolie voix de France.
+T77	Citation 45249 45298	— Elle a dit que tu deviendrais sœur de charité !
+T78	Citation 46874 46935	— Pourquoi cesser ? À cette élève-là, on peut tout enseigner.
+T79	Citation 47158 47226	— Soyez sans crainte, Églantine. Personne ici ne chante comme vous !
+T80	Citation 51518 51560	— Noël est là ! Je l'ai vu ! Dépêche-toi !
+T81	Citation 52229 52272	— Qu'attendez-vous pour tourner et courir ?
+T82	Citation 52668 52721	— Vous veniez de l'étang, l'avez-vous trouvé changé ?
+T83	Citation 52723 52730	— Non !
+T84	Citation 52759 52817	— C'est à cette époque de l'année qu'il est le plus beau !
+T85	Citation 53704 53787	— J'irai tous les dimanches pêcher dans l'étang. N'y viendrez-vous pas, Églantine ?
+T86	Citation 53942 54036	— Comme c'est bête de ne plus être le petit garçon et la petite fille qui se disaient « tu » !
+T87	Citation 54613 54641	— Nous irons le surprendre !
+T89	Entite 14473 14477	elle
+T90	Introducteur 14478 14481	dit
+R6	Introduction Arg1:T17 Arg2:T90	
+R7	Source Arg1:T17 Arg2:T89	
+T91	Entite 20203 20207	Noël
+T92	Introducteur 20208 20214	ajouta
+R8	Introduction Arg1:T30 Arg2:T92	
+R9	Source Arg1:T30 Arg2:T91	
+T93	Introducteur 3224 3227	dit
+T94	Entite 3228 3237	la petite
+T95	Introducteur 3169 3176	demanda
+T96	Entite 3177 3192	le jeune garçon
+R10	Introduction Arg1:T12 Arg2:T95	
+R11	Source Arg1:T12 Arg2:T96	
+T97	Introducteur 3324 3330	reprit
+T98	Entite 3331 3340	le garçon
+R12	Source Arg1:T14 Arg2:T98	
+R13	Introduction Arg1:T14 Arg2:T97	
+T99	Entite 4412 4416	elle
+T100	Introducteur 4417 4423	ajouta
+R14	Introduction Arg1:T15 Arg2:T100	
+R15	Source Arg1:T15 Arg2:T99	
+T101	Entite 8601 8605	Noël
+T102	Introducteur 8629 8633	dire
+R5	Source Arg1:T1 Arg2:T101	
+R16	Introduction Arg1:T1 Arg2:T102	
+T88	Introducteur 9444 9450	disait
+T103	Entite 9451 9453	il
+R17	Source Arg1:T16 Arg2:T103	
+R18	Introduction Arg1:T16 Arg2:T88	
+T104	Introducteur 11766 11774	demander
+T105	Entite 11747 11750	lui
+R19	Introduction Arg1:T2 Arg2:T104	
+R20	Source Arg1:T2 Arg2:T105	
+T106	Entite 14589 14597	le vieux
+T107	Introducteur 14585 14588	dit
+T108	Entite 14679 14681	il
+T109	Introducteur 14682 14688	reprit
+R21	Introduction Arg1:T19 Arg2:T109	
+R22	Source Arg1:T19 Arg2:T108	
+R23	Introduction Arg1:T18 Arg2:T107	
+R24	Source Arg1:T18 Arg2:T106	
+T110	Entite 14935 14937	il
+T111	Introducteur 14938 14944	ajouta
+R25	Introduction Arg1:T20 Arg2:T111	
+R26	Source Arg1:T20 Arg2:T110	
+T112	Entite 15335 15347	Mlle Charmes
+R27	Source Arg1:T21 Arg2:T112	
+T113	Entite 15523 15535	la maîtresse
+T114	Introducteur 15557 15560	dit
+R28	Source Arg1:T22 Arg2:T113	
+R29	Introduction Arg1:T22 Arg2:T114	
+T115	Entite 16231 16243	la maîtresse
+R30	Source Arg1:T23 Arg2:T115	
+T116	Entite 16454 16494	la voix triste et dure de son grand-père
+R31	Source Arg1:T3 Arg2:T116	
+T117	Introducteur 16495 16503	redisait
+R32	Introduction Arg1:T3 Arg2:T117	
+T118	Entite 17509 17514	Douce
+R33	Source Arg1:T24 Arg2:T118	
+T119	Entite 18188 18192	elle
+T120	Introducteur 57934 57940	disait
+T121	Entite 57941 57945	elle
+T122	Entite 53687 53689	il
+T123	Introducteur 53690 53693	dit
+R34	Source Arg1:T85 Arg2:T122	
+T124	Entite 53923 53927	elle
+T125	Introducteur 53935 53938	dit
+R35	Source Arg1:T86 Arg2:T124	
+T10	Entite 54646 54659	mère Clarisse
+T11	Introducteur 54642 54645	dit
+R36	Introduction Arg1:T87 Arg2:T11	
+R37	Source Arg1:T87 Arg2:T10	
+T126	Entite 52735 52739	Noël
+T127	Introducteur 52740 52746	ajoute
+R38	Introduction Arg1:T84 Arg2:T127	
+R39	Source Arg1:T84 Arg2:T126	
+T128	Entite 19634 19639	Douce
+T129	Introducteur 19644 19647	dit
+R40	Introduction Arg1:T28 Arg2:T129	
+R41	Source Arg1:T28 Arg2:T128	
+T130	Entite 19873 19877	Noël
+R42	Source Arg1:T29 Arg2:T130	
+T131	Introducteur 20854 20860	disait
+T132	Entite 20861 20863	il
+R43	Source Arg1:T31 Arg2:T132	
+R44	Introduction Arg1:T31 Arg2:T131	
+T133	Introducteur 21564 21571	demanda
+T134	Entite 21572 21581	le garçon
+R45	Introduction Arg1:T32 Arg2:T133	
+R46	Source Arg1:T32 Arg2:T134	
+T135	Citation 21854 21902	« Viens ! Allons ! Tu n'as pas peur des rats ? »
+T136	Entite 21828 21830	il
+R47	Source Arg1:T135 Arg2:T136	
+T137	Introducteur 23109 23112	dit
+T138	Entite 23113 23117	Noël
+R48	Introduction Arg1:T33 Arg2:T137	
+R49	Source Arg1:T33 Arg2:T138	
+T139	Entite 23120 23122	Il
+R50	Source Arg1:T34 Arg2:T139	
+T140	Entite 24232 24255	La voix joyeuse de Noël
+T141	Introducteur 24256 24262	éclata
+R51	Introduction Arg1:T35 Arg2:T141	
+R52	Source Arg1:T35 Arg2:T140	
+T142	Entite 25307 25311	Noël
+R53	Source Arg1:T36 Arg2:T142	
+T143	Introducteur 25706 25712	disait
+R54	Introduction Arg1:T37 Arg2:T143	
+T144	Entite 25713 25717	Noël
+R55	Source Arg1:T37 Arg2:T144	
+T145	Introducteur 26285 26292	demanda
+T146	Entite 26295 26297	il
+R56	Source Arg1:T38 Arg2:T146	
+T147	Introducteur 26336 26339	fit
+T148	Entite 26350 26357	le père
+R57	Introduction Arg1:T40 Arg2:T147	
+R58	Source Arg1:T40 Arg2:T148	
+T149	Entite 26441 26443	Il
+R59	Source Arg1:T41 Arg2:T149	
+T150	Entite 26810 26819	le garçon
+R60	Source Arg1:T44 Arg2:T150	
+T151	Entite 27400 27415	le père de Noël
+R61	Source Arg1:T45 Arg2:T151	
+T152	Entite 28845 28856	la méchante
+T153	Introducteur 28857 28863	disait
+R62	Source Arg1:T46 Arg2:T152	
+R63	Introduction Arg1:T46 Arg2:T153	
+T154	Entite 31066 31078	la maîtresse
+T155	Introducteur 31079 31085	appela
+R64	Introduction Arg1:T47 Arg2:T155	
+R65	Source Arg1:T47 Arg2:T154	
+T156	Entite 31453 31465	la maîtresse
+R66	Source Arg1:T49 Arg2:T156	
+T157	Introducteur 31533 31536	fit
+T158	Entite 31537 31542	Douce
+R67	Source Arg1:T50 Arg2:T158	
+R68	Introduction Arg1:T50 Arg2:T157	
+T159	Entite 31590 31606	Marguerite Dupré
+T160	Introducteur 31607 31612	parla
+R69	Introduction Arg1:T53 Arg2:T160	
+R70	Source Arg1:T53 Arg2:T159	
+T161	Entite 32271 32283	la maîtresse
+T162	Introducteur 32301 32304	dit
+R71	Source Arg1:T54 Arg2:T161	
+T163	Entite 3888 3897	le garçon
+T164	Introducteur 3903 3916	des questions
+T165	Citation 3928 4068	« Pourquoi était-elle seule à la maison ? Comment s'appelait-elle ? Et son chien, comment s'appelait-il ? Et ses parents, où étaient-ils ? »
+R72	Introduction Arg1:T165 Arg2:T164	
+R73	Source Arg1:T165 Arg2:T163	
+T166	Introducteur 16220 16227	l'ordre
+R74	Introduction Arg1:T23 Arg2:T166	
+T167	Introducteur 18193 18196	dit
+R75	Introduction Arg1:T25 Arg2:T167	
+R76	Source Arg1:T25 Arg2:T119	
+T168	Entite 18333 18336	lui
+R77	Source Arg1:T26 Arg2:T168	
+T169	Entite 18462 18464	il
+T170	Introducteur 18465 18473	commanda
+R78	Introduction Arg1:T27 Arg2:T170	
+R79	Source Arg1:T27 Arg2:T169	
+T171	Introducteur 25284 25306	avait été rassurée par
+R80	Introduction Arg1:T36 Arg2:T171	
+R81	Source Arg1:T36 Arg2:T142	
+T172	Entite 26181 26183	il
+R82	Source Arg1:T39 Arg2:T172	
+T173	Entite 26500 26509	le garçon
+R83	Source Arg1:T42 Arg2:T173	
+R84	Source Arg1:T43 Arg2:T149	
+T175	Introducteur 28552 28563	les mots de
+T174	Entite 28564 28576	Mlle Charmes
+T176	Citation 28594 28621	« Tu sautes comme une oie »
+R85	Source Arg1:T176 Arg2:T174	
+R86	Introduction Arg1:T176 Arg2:T175	
+R87	Source Arg1:T48 Arg2:T154	
+R88	Source Arg1:T51 Arg2:T156	
+R89	Source Arg1:T52 Arg2:T158	
+T177	Introducteur 33889 33892	dit
+T178	Entite 33884 33888	elle
+R91	Introduction Arg1:T55 Arg2:T177	
+R90	Source Arg1:T55 Arg2:T178	
+T179	Introducteur 34149 34152	dit
+T180	Entite 34103 34115	La maîtresse
+R92	Source Arg1:T56 Arg2:T180	
+R93	Introduction Arg1:T56 Arg2:T179	
+T181	Entite 34214 34219	Douce
+T182	Introducteur 34246 34254	répondit
+R94	Source Arg1:T57 Arg2:T181	
+R95	Introduction Arg1:T57 Arg2:T182	
+T183	Entite 34277 34289	Mlle Charmes
+T184	Introducteur 34413 34423	interrogea
+R96	Source Arg1:T58 Arg2:T183	
+R97	Introduction Arg1:T58 Arg2:T184	
+R98	Source Arg1:T59 Arg2:T181	
+R99	Source Arg1:T60 Arg2:T183	
+R100	Source Arg1:T61 Arg2:T181	
+R101	Source Arg1:T62 Arg2:T183	
+R102	Source Arg1:T63 Arg2:T181	
+T185	Entite 35020 35024	Elle
+T186	Introducteur 35025 35028	dit
+R103	Introduction Arg1:T64 Arg2:T186	
+R104	Source Arg1:T64 Arg2:T185	
+T187	Entite 35201 35213	Mlle Charmes
+T188	Introducteur 35214 35217	dit
+R105	Source Arg1:T65 Arg2:T187	
+R106	Introduction Arg1:T65 Arg2:T188	
+T189	Entite 36022 36026	elle
+T190	Introducteur 36027 36030	dit
+T191	Introducteur 35951 35955	dire
+R107	Introduction Arg1:T4 Arg2:T191	
+R108	Source Arg1:T4 Arg2:T189	
+R109	Source Arg1:T66 Arg2:T189	
+R110	Introduction Arg1:T66 Arg2:T190	
+T192	Introducteur 37345 37351	disait
+T193	Entite 37352 37354	il
+T194	Citation 37307 37344	« Papa sait que je joue avec Douce. »
+R111	Introduction Arg1:T194 Arg2:T192	
+R112	Source Arg1:T194 Arg2:T193	
+T195	Entite 37456 37469	Mère Clarisse
+T196	Introducteur 37470 37482	recommandait
+R113	Introduction Arg1:T67 Arg2:T196	
+R114	Source Arg1:T67 Arg2:T195	
+T197	Entite 39636 39638	il
+T198	Introducteur 39661 39667	parler
+R115	Introduction Arg1:T68 Arg2:T198	
+R116	Source Arg1:T68 Arg2:T197	
+T199	Entite 40914 40927	mère Clarisse
+T200	Introducteur 40951 40964	avait entendu
+R117	Introduction Arg1:T69 Arg2:T200	
+R118	Source Arg1:T69 Arg2:T199	
+T201	Entite 40860 40864	Noël
+R119	Source Arg1:T70 Arg2:T201	
+R120	Source Arg1:T71 Arg2:T199	
+R121	Source Arg1:T72 Arg2:T201	
+T202	Entite 41716 41720	elle
+T203	Introducteur 41709 41715	disait
+R122	Introduction Arg1:T73 Arg2:T203	
+R123	Source Arg1:T73 Arg2:T202	
+T204	Entite 41812 41816	Noël
+T205	Introducteur 41821 41825	cria
+R124	Source Arg1:T74 Arg2:T204	
+R125	Introduction Arg1:T74 Arg2:T205	
+T206	Introducteur 41962 41965	dit
+T207	Entite 41975 41982	le père
+R126	Introduction Arg1:T75 Arg2:T206	
+R127	Source Arg1:T75 Arg2:T207	
+T208	Introducteur 44254 44260	disait
+R128	Introduction Arg1:T76 Arg2:T208	
+T209	Entite 45223 45227	Noël
+T210	Introducteur 45228 45238	rapportait
+R129	Introduction Arg1:T77 Arg2:T210	
+R130	Source Arg1:T77 Arg2:T209	
+T211	Entite 46833 46837	elle
+T212	Introducteur 46838 46847	a répondu
+R131	Source Arg1:T78 Arg2:T211	
+R132	Introduction Arg1:T78 Arg2:T212	
+T213	Entite 47132 47136	Elle
+T214	Introducteur 47139 47148	encourage
+R133	Introduction Arg1:T79 Arg2:T214	
+R134	Source Arg1:T79 Arg2:T213	
+T215	Entite 51504 51506	il
+T216	Introducteur 51511 51514	dit
+R135	Source Arg1:T80 Arg2:T215	
+R136	Introduction Arg1:T80 Arg2:T216	
+T217	Citation 51829 51941	« Ce jeune homme à la poitrine large, au beau visage orné d'une moustache soyeuse et fournie, est-ce là Noël ? »
+T218	Citation 51976 52103	« Cette jeune fille à l'allure distinguée, au buste plein, au visage délicat sous ses cheveux si nuancés, est-ce bien Douce ? »
+T219	Introducteur 52219 52225	disait
+T220	Entite 52211 52213	il
+R137	Source Arg1:T81 Arg2:T220	
+R138	Introduction Arg1:T81 Arg2:T219	
+T221	Entite 52633 52642	Églantine
+T222	Introducteur 52647 52652	parle
+R139	Introduction Arg1:T82 Arg2:T222	
+R140	Source Arg1:T82 Arg2:T221	
+R141	Source Arg1:T83 Arg2:T126	
+T223	Entite 53977 54011	le petit garçon et la petite fille
+T224	Introducteur 54016 54027	se disaient
+R142	Introduction Arg1:T8 Arg2:T224	
+R143	Source Arg1:T8 Arg2:T223	
