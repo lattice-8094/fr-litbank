@@ -133,17 +133,17 @@ T83	Entite 65380 65388	Sérapion
 R50	Introduction Arg1:T43 Arg2:T82	
 R51	Source Arg1:T43 Arg2:T83	
 T84	Entite 67237 67245	Sérapion
+T85	Introducteur 67260 67275	entra en fureur
+R52	Introduction Arg1:T31 Arg2:T85	
 R53	Source Arg1:T31 Arg2:T84	
 T86	Citation 67662 67703;67767 67856	« Voilà votre maîtresse, seigneur Romuald ; serez-vous encore tenté d’aller vous promener au Lido et à Fusine avec votre beauté ? »
 T87	Citation 19464 19658	« Je venais vous annoncer votre nomination à la cure de C___ ; le prêtre qui la possédait vient de mourir, et monseigneur l’évêque m’a chargé d’aller vous y installer ; soyez prêt pour demain. »
 T88	Entite 19388 19403	l’abbé Sérapion
-T89	Introducteur 19373 19387	Le discours de
 R54	Source Arg1:T87 Arg2:T88	
-R55	Introduction Arg1:T87 Arg2:T89	
-T85	Introducteur 67705 67708	dit
+T89	Introducteur 67705 67708	dit
 T90	Entite 67709 67728	l’inexorable prêtre
-R52	Introduction Arg1:T86 Arg2:T85	
-R56	Source Arg1:T86 Arg2:T90	
+R55	Source Arg1:T86 Arg2:T90	
+R56	Introduction Arg1:T86 Arg2:T89	
 T91	Entite 68152 68156	elle
 T92	Introducteur 68160 68163	dit
 R57	Introduction Arg1:T32 Arg2:T92	

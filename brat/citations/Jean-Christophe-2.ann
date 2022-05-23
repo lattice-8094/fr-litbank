@@ -61,6 +61,11 @@ R19	Source Arg1:T40 Arg2:T41
 T42	Citation 31454 31467	– Non, maman.
 T43	Citation 31468 31496	– Mais tu es malade, alors ?
 T44	Citation 31497 31544	– Je ne suis pas malade, mais j’ai assez mangé.
+T45	Citation 31878 31932	– Tu ne la manges pas ? Donne-la-moi, dis, Christophe.
+T46	Introducteur 31867 31875	demander
+R20	Introduction Arg1:T45 Arg2:T46	
+T47	Entite 31736 31741	Ernst
+R21	Source Arg1:T45 Arg2:T47	
 T49	Entite 37307 37317	Christophe
 R22	Source Arg1:T14 Arg2:T49	
 T50	Entite 43589 43591	il
@@ -82,23 +87,7 @@ R29	Introduction Arg1:T56 Arg2:T57
 R30	Source Arg1:T56 Arg2:T58	
 T59	Entite 14143 14153	Christophe
 R31	Source Arg1:T2 Arg2:T59	
-T48	Introducteur 14154 14162	balbutia
-R33	Introduction Arg1:T2 Arg2:T48	
-T61	Entite 14032 14040	Un valet
-R34	Source Arg1:T34 Arg2:T33	
-R35	Source Arg1:T11 Arg2:T38	
-R36	Source Arg1:T12 Arg2:T39	
-R37	Source Arg1:T13 Arg2:T38	
 T60	Entite 31411 31413	il
 R32	Source Arg1:T42 Arg2:T60	
-R38	Source Arg1:T43 Arg2:T41	
-R39	Source Arg1:T44 Arg2:T60	
-T45	Entite 31736 31741	Ernst
-T46	Citation 31878 31932	– Tu ne la manges pas ? Donne-la-moi, dis, Christophe.
-R20	Source Arg1:T46 Arg2:T45	
-T47	Introducteur 31867 31875	demander
-R21	Introduction Arg1:T46 Arg2:T47	
-T62	Entite 33829 33832	lui
-R40	Source Arg1:T16 Arg2:T62	
-T63	Entite 33826 33828	Il
-R41	Source Arg1:T17 Arg2:T63	
+T48	Entite 33826 33828	Il
+R33	Source Arg1:T17 Arg2:T48	

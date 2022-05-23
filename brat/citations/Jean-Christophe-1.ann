@@ -40,7 +40,7 @@ R11	Introduction Arg1:T27 Arg2:T28
 T30	Entite 2683 2687	Elle
 T31	Introducteur 2712 2715	dit
 T32	Entite 2735 2743	Le vieux
-T33	Introducteur 2744 2756	commença par
+T33	Introducteur 2744 2775	commença par faire des théories
 T34	Citation 2798 2880	– On ne doit pas céder aux enfants, quand ils pleurent. Il faut les laisser crier.
 T35	Entite 2886 2888	il
 T36	Introducteur 2913 2919	grogna
@@ -205,20 +205,3 @@ T129	Entite 49692 49696	Elle
 T130	Introducteur 49701 49704	dit
 R76	Introduction Arg1:T20 Arg2:T130	
 R77	Source Arg1:T20 Arg2:T129	
-R78	Source Arg1:T49 Arg2:T43	
-R79	Source Arg1:T50 Arg2:T48	
-R80	Source Arg1:T83 Arg2:T85	
-R81	Source Arg1:T82 Arg2:T79	
-R82	Source Arg1:T84 Arg2:T79	
-R83	Source Arg1:T98 Arg2:T94	
-R84	Source Arg1:T99 Arg2:T97	
-R85	Source Arg1:T103 Arg2:T94	
-T131	Introducteur 35401 35419	une pensée honnête
-R86	Introduction Arg1:T8 Arg2:T131	
-R87	Introduction Arg1:T115 Arg2:T131	
-R88	Introduction Arg1:T116 Arg2:T131	
-T132	Entite 38002 38004	Il
-T133	Introducteur 38007 38015	appelait
-T134	Citation 38018 38060	scélérat, bête féroce, homme sans moralité
-R89	Introduction Arg1:T134 Arg2:T133	
-R90	Source Arg1:T134 Arg2:T132	
