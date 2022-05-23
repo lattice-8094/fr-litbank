@@ -1,0 +1,601 @@
+T4	Citation 6502 6544	« Terre ! … Terre ! … À tribord, devant. »
+T10	Citation 12049 12072	« Une île volcanique. »
+T15	Citation 17119 17154;17169 17458	— « Oui, oui, je me souviens aussi, mais alors le « Nautilus » est une tombe, puisqu'il porte dans ses flancs la dépouille de son propriétaire, le capitaine Nemo. Et, puis à quoi peut nous servir cette découverte ? Si nous sommes destinés à périr sur ce rocher désert, nous ne pourrons même pas la faire connaître au monde. »
+T17	Citation 17813 17871;17899 18160	— « Les idées extravagantes ne sont jamais de mon domaine, mais dans la situation où nous nous trouvons, l'entreprise vaut d'être tentée, et je suis certain que tous les naufragés du « Queen of the Waves » penseront de même ; tu peux donc compter sur toutes les bonnes volontés pour mener à bonne fin ton hardi projet. »
+T19	Citation 19996 20003;20018 20074	« Vois, Turko approuve mon projet, ce doit être de bon augure. »
+T20	Citation 20076 20179;20211 20263	— « Songerais-tu, vraiment à faire part de cette extravagance aux naufragés du « Queen of the Waves » ? On pensera certainement que tu as perdu la raison. »
+T23	Citation 22263 22378	« Je suis le docteur Desmarais, et cet homme est mon patient. Hélas ! je n'ai pu lui sauver la vie. Il va mourir. »
+T24	Entite 22249 22251	il
+R1	Source Arg1:T23 Arg2:T24
+T25	Introducteur 22252 22260	continua
+R2	Introduction Arg1:T23 Arg2:T25
+T27	Citation 27018 27058	« Mon père, mon père, mon bon père ! … »
+T28	Citation 27125 27173	« Oh ! dites-moi, vous, qu'il n'est pas mort ! »
+T29	Entite 27099 27103	elle
+R3	Source Arg1:T28 Arg2:T29
+T30	Introducteur 27108 27111	dit
+R4	Introduction Arg1:T28 Arg2:T30
+T31	Citation 27655 27679	« M. Richard est mort. »
+T32	Entite 27643 27645	Il
+R5	Source Arg1:T31 Arg2:T32
+T33	Introducteur 27646 27652	ajouta
+R6	Introduction Arg1:T31 Arg2:T33
+T37	Citation 36098 36159	« Maintenant, je suis à vos ordres, monsieur le gouverneur. »
+T38	Citation 37828 37870;37896 37945	— « Pas trop mal, monsieur le gouverneur » « monsieur a bien hâte de connaître notre curé. »
+T41	Citation 38344 38551	« Est-il vrai qu'il existe une ville sous-marine où l'on peut vivre en paix, loin de toutes les conventions du monde, loin de toutes les niaiseries et de toutes les faussetés qui fleurissent sur la terre ? »
+T42	Entite 38309 38318	cet homme
+R7	Source Arg1:T41 Arg2:T42
+T43	Introducteur 38338 38341	dit
+R8	Introduction Arg1:T41 Arg2:T43
+T46	Citation 44116 44139;44149 44221	« Mademoiselle Marcelle me permettez-vous de revenir prendre des nouvelles de votre protégée ? »
+T47	Entite 44145 44147	il
+R9	Source Arg1:T46 Arg2:T47
+T48	Introducteur 44141 44144	dit
+R10	Introduction Arg1:T46 Arg2:T48
+T49	Citation 44628 44646	« Pauvre fille ! »
+T50	Entite 44606 44608	Il
+R11	Source Arg1:T49 Arg2:T50
+T51	Introducteur 44609 44616	murmura
+R12	Introduction Arg1:T49 Arg2:T51
+T52	Citation 46603 46687	« Non, non, c'est une simple coïncidence de nom qui m'a fait poser cette question. »
+T53	Citation 47443 47479;47495 47538	— « C'est le gouverneur de Némoville qui demande à être reçu ; il vint souvent »
+T55	Citation 53389 53419;53436 53615	« Nous y avons tous travaillé, les uns ont modelé les statues, les autres ont fait les plans et les enfants eux-mêmes ont fait leur part, en recueillant sur la grève les colimaçons qui ornent le maître-autel. »
+T56	Entite 53431 53433	il
+R13	Source Arg1:T55 Arg2:T56
+T57	Introducteur 53420 53428	expliqua
+R14	Introduction Arg1:T55 Arg2:T57
+T60	Citation 55221 55243	« Minuit, chrétiens. »
+T61	Entite 55132 55158	Une voix douce et vibrante
+R15	Source Arg1:T60 Arg2:T61
+T62	Introducteur 55159 55167	modulait
+R16	Introduction Arg1:T60 Arg2:T62
+T63	Citation 55519 55546	« Qui donc chante ainsi ? »
+T64	Citation 55921 56213	« Toute la personne de cette jeune fille a quelque chose d'éthéré, presque de surnaturel ; il semble que rien en elle ne ressemble aux autres femmes. Vous le constaterez, monsieur Duflot, quand vous la connaîtrez. Pour me servir d'un vieux cliché, elle a l'air d'un ange égaré sur la terre. »
+T65	Entite 55909 55911	Il
+R17	Source Arg1:T64 Arg2:T65
+T66	Introducteur 55912 55918	ajouta
+R18	Introduction Arg1:T64 Arg2:T66
+T67	Citation 56427 56456	« Ou bien pour son malheur. »
+T68	Entite 56399 56404	Roger
+R19	Source Arg1:T67 Arg2:T68
+T69	Introducteur 56416 56424	répondit
+R20	Introduction Arg1:T67 Arg2:T69
+T71	Citation 1868 1933	— « Est-ce bien à l'abbé Bernard que j'ai l'honneur de parler ? »
+T72	Citation 2072 2121	— « Oui, mon ami, que puis-je faire pour vous ? »
+T73	Citation 2123 2226	— « Veuillez me suivre monsieur l'abbé, je vais vous conduire auprès d'un mourant. Venez, venez vite. »
+T74	Citation 2228 2335	— « Je vous suis. Je cours au presbytère, chercher ce qu'il me faut, et, dans un instant, je suis à vous. »
+T75	Citation 2736 2778	— « Nous allons par eau, monsieur l'abbé »
+T76	Citation 3297 3400	— « Je le regrette, monsieur l'abbé, mais il faut que vous consentiez à vous laisser bander les yeux. »
+T77	Citation 3402 3446	— « Que signifie ce mystère ? … je refuse, »
+T78	Citation 3465 3482;3519 3582	— « Il le faut », et je vous donne ma parole qu'il ne vous sera fait aucun mal. »
+T79	Citation 4340 4374	— « Suivez-moi, monsieur l'abbé. »
+T80	Citation 12009 12029	— « C'est une île. »
+T81	Citation 12074 12101	— « Que Dieu nous garde ! »
+T82	Citation 14832 14847;14856 14874	— « Vois, donc, quel monstre ! … »
+T83	Citation 14995 15037;15048 15085	— « Ce n'est ni une baleine, ni un requin, il n'en existe pas de cette taille. »
+T84	Citation 15217 15237;15249 15300	— « C'est singulier, j'ai envie de plonger et d'aller à la découverte. »
+T85	Citation 15302 15318;15334 15417	— « Y songes-tu, ce serait courir à une mort certaine, le monstre ne ferait de toi qu'une bouchée. »
+T86	Citation 15419 15465;15501 15720	— « Pourtant, je veux savoir à quoi m'en tenir Je vais m'attacher le câble autour de la taille et plonger tout simplement. L'eau est si limpide que tu pourras suivre tous mes mouvements, et si tu vois que je courre un danger, tu haleras le câble, et tout sera dit. »
+T87	Citation 15918 15936;15948 15962	— « Hale le câble, hale, hale ! »
+T88	Citation 16060 16245	— « Mon ami, ce n'est pas en vain que j'ai risqué ma vie, je viens de faire une grande découverte, ce monstre que tu vois là, immobile, c'est … tu ne devineras jamais ce que c'est ! … »
+T89	Citation 16247 16308;16334 16465	— « Je n'ai pas l'esprit à chercher des énigmes, en ce moment ; tu feras mieux de me dire tout de suite ce qu'est cette chose bizarre, à laquelle tu sembles attacher une si grande importance. »
+T90	Citation 16467 16520	— « Eh bien ! c'est le « Nautilus, » le « Nautilus ».
+T91	Citation 16522 16541;16591 16751	— « Le Nautilus ! » ; ce bateau sous-marin, dont les aventures extraordinaires ont tant amusé et intrigué notre imagination d'enfant. Es-tu bien sûr de ce que tu avances, Roger ? »
+T92	Citation 16753 17117	— « Je te dis que c'est le « Nautilus », j'ai vu son nom écrit à l'arrière ainsi que sa devise « Mobilis in mobile. » Maintenant, je me rappelle le récit fait par un certain Cyrus Smith, dans lequel il est question de la mort du capitaine Nemo, et de l'engloutissement de son sous-marin, sur les côtes d'une île inconnue du Pacifique, il y a une couple d'années. »
+T94	Citation 17460 17811	— « Je ne suis pas si facilement résigné à périr ici, et justement notre découverte nous aidera à fuir cette île dangereuse ; nous allons renflouer le « Nautilus » et nous en servir ensuite pour naviguer. À quoi te sert-il donc d'être mécanicien, s'il faut que je te prête des idées comme celles-ci, qui sont absolument de ton domaine, il me semble. »
+T96	Citation 18162 18244	— « Allons faire part de notre découverte aux autres, qui nous attendent là-bas. »
+T97	Citation 18512 18783	— « Tu ne saurais croire comme cette découverte me bouleverse et m'émeut ! … lorsque je lisais l'histoire du « Nautilus », je rêvais d'habiter une ville sous-marine, avec un petit peuple de mon choix ; la terre avec toutes ses misères me semblait un domaine trop mesquin.
+T98	Citation 18857 18888;18981 19182	— « Tu perds la tête, je crois, mais si tu pouvais promettre aux futurs habitants de ta ville, de les débarrasser de beaucoup d'ennuis qu'on trouve sur cette terre, je crois que la moitié de l'univers te suivrait avec enthousiasme. »
+T99	Citation 19184 19205;19220 19782	— « Je ne badine pas, mon rêve est extravagant, je le sais bien, mais il n'est pas irréalisable, et nous verrons bien. Il ne serait pas si difficile de construire d'autres sous-marins, que nous pourrions relier entre eux par des couloirs-tubes, détachables à loisir ; quand l'un des sous-marins voudrait remonter à la surface, il n'aurait qu'à se détacher des autres ; si la ville entière avait quelquefois, la fantaisie d'aller faire une expédition chez les terriens, on n'aurait encore qu'à détacher les tubes, et chaque habitant de la ville voyagerait ainsi avec toute sa maison. »
+T100	Citation 19784 19818	— « Ma foi, ça ne serait pas banal
+T102	Citation 20265 20299;20316 20478	— « On pensera ce que l'on voudra, mais moi je tiens à la réalisation de mon rêve et je ne la laisserai pas s'échapper. J'irai seul habiter sous l'eau, si personne ne veut me suivre, mais j'irai. »
+T103	Citation 20480 20724	— « Non, tu n'irais pas seul, car moi, cela est entendu, je te suivrai ; au fond, tu sais, je ne serais pas fâché de faire cette niche à la terre, qui m'a tout refusé, jusqu'à présent, ce que mon ambition avait rêvé : gloire, richesse, amour. »
+T104	Citation 20726 20813;20830 20987	— « Nous passerons sur cette île le temps nécessaire à la construction des sous-marins, comme s'il n'avait pas été interrompu par les plaisanteries de son ami, puis nous quitterons cette région volcanique, où il ne fait pas bon de s'éterniser. »
+T106	Citation 22380 22447	— « Il n'appartient qu'à Dieu de donner la vie ou de la reprendre »
+T107	Citation 22813 22847;22869 22905	— « J'ai beaucoup de choses à dire et les instants sont si courts ! … »
+T108	Citation 22907 22918;22934 23049	— « Parlez, ensuite je vous donnerai l'absolution de vos fautes et je vous administrerai les derniers sacrements de l'église. »
+T109	Citation 23051 23064;23083 23225	— « Mon père, je n'ai eu qu'un amour dans ma vie, ma fille, ma Marcelle … Pour elle, pour la voir riche et heureuse, j'étais prêt à aller jusqu'au crime … »
+T110	Citation 25643 25657;25677 25828	— « Mon frère, est-ce sous le secret de la confession que vous me dites ces choses, ou bien désirez-vous que je répare le mal que vous avez fait, s'il est possible. »
+T111	Citation 25830 25866	— « Oh ! réparez, réparez le mal ! »
+T112	Citation 25885 25938	— « Alors dites-moi ce qu'est devenue cette enfant. »
+T113	Citation 25940 25983	— « Hélas ! je l'ignore, je ne sais pas … »
+T114	Citation 26013 26036	— « Dites-moi son nom »
+T115	Citation 26112 26143	— « Le nom … le nom … c'est … »
+T116	Citation 27534 27576	— « Mlle Marcelle a besoin de vos soins, »
+T117	Citation 27857 27872;27899 27992	— « Maintenant, une dernière prière pour celui qui vient de rendre son âme à Dieu, et je retourne chez moi. »
+T118	Citation 29239 29384	— « Permettez-moi de vous féliciter, monsieur l'abbé ; j'ai entendu la prière de Gounod bien des fois, mais jamais je ne l'ai trouvée si belle. »
+T119	Citation 29386 29408;29429 29607	— « J'aime la musique, et je n'ai pas su résister à la tentation d'essayer cet instrument, en attendant le gouverneur. J'espère qu'il ne tardera pas à venir, car je suis pressé de retourner chez moi. »
+T120	Citation 29643 29717	— « Je suis le gouverneur de cette ville, et je me nomme Roger de Ville. »
+T121	Citation 29768 29896	— « Excusez-moi, mais je croyais que le gouverneur devait être un vieillard, ou, tout au moins, un homme un peu avancé en âge. »
+T122	Citation 29934 30140	— « Je n'ai que vingt-quatre ans, monsieur l'abbé, mais j'ai été élu par acclamation. Tous les habitants de cette ville, à l'exception d'un seul, étaient heureux de me confier une charge aussi importante. »
+T123	Citation 30590 30854	— « Je regrette que nous ayons été forcés d'agir comme nous l'avons fait, mais il le fallait et, vous ne serez plus fâché quand je vous aurai appris ce que j'ai à vous dire. Je dois, d'abord, vous raconter l'origine de cette ville ; elle ne date que de deux ans. »
+T124	Citation 30856 30874	— « Je vous écoute
+T125	Citation 31005 31026;31040 31404	— « Depuis l'enfance, je rêvais d'habiter une ville sous-marine, et mon rêve s'est réalisé … Certes, nous n'avons pas adopté le système du capitaine Nemo ; nous faisons quelques excursions à terre quand cela nous plaît, mais nous préférons la vie dans la mer, qui nous est bonne. Notre ville, monsieur l'abbé, je vous la ferai voir demain, et je suis certain qu'elle vous intéressera. »
+T126	Citation 31540 31692;31715 31973	— « C'est vraiment merveilleux ce que vous venez de me dire, cela tient de la féerie, et je vous félicite d'avoir pu réaliser un rêve si extraordinaire, beaucoup d'hommes qui ont des ambitions plus modestes ne parviennent pas toujours à les satisfaire ; vous êtes un heureux mortel, monsieur le gouverneur, et je me demande ce que vous pouvez bien désirer de moi et ce que je pourrais ajouter à votre bonheur. »
+T127	Citation 31975 32160	— « Eh bien ! oui, monsieur l'abbé, vous pourriez ajouter au bonheur de tous les habitants de Némoville, en acceptant de devenir le curé de cette ville. Acceptez-vous la proposition ? »
+T128	Citation 32365 32813	— « Je ne vous ai pas dit, sans doute, la raison qui me pousse à vous faire cette offre, c'est que tous les habitants de Némoville appartiennent à la religion catholique romaine, et que vous n'y manqueriez pas de bien à faire. Il y a dans cette ville des enfants nés depuis la fondation, et qui n'ont pas encore reçu le baptême, et, si vous aviez refusé de venir ici, ce soir, M. Richard serait mort sans recevoir les consolations de la religion. »
+T129	Citation 33017 33112	— « J'accepte, monsieur le gouverneur, puisque je pourrai travailler ici à la gloire de Dieu. »
+T130	Citation 33114 33124;33149 33249	— « Merci, vous ne le regretterez pas, je m'en porte garant. Vous devenez donc, dès ce soir, curé de Némoville.
+T131	Citation 34044 34090;34106 34175	— « La bonne humeur est contagieuse chez nous, et cela est dû au fait qu'il ne se trouve pas d'usurier à Némoville »
+T132	Citation 34937 35048	— « Il aurait dû être le gouverneur, car dans le renflouage du « Nautilus », Paul a risqué vingt fois sa vie. »
+T133	Citation 35050 35207	— « J'ai fait ma part de la besogne, voilà tout, et je n'y avais pas un grand mérite, après tout, puisqu'il s'agissait de me sauver, tout comme les autres. »
+T134	Citation 35307 35454	— « Vous allez visiter Némoville, ce matin, et faire la connaissance de vos paroissiens, je suis certain que tous seront heureux de votre visite. »
+T135	Citation 35456 35543	— « Némoville ! … Vous avez nommé votre ville, je le vois, d'après le capitaine Nemo. »
+T136	Citation 35545 35576;35593 35680	— « Nous lui devions bien cela, puisque nous lui avions pris son bateau, dont il n'avait plus que faire, il est vrai. »
+T137	Citation 35682 35731;35745 36018	— « Tandis que pour nous, c'était bien différent, Sans le « Nautilus », nous étions condamnés à périr sur une île volcanique et déserte. Nous avons donné au capitaine des funérailles dignes de ses goûts et de ses exploits, et nous avons utilisé le bateau pour fuir les régions dangereuses où le naufrage nous avait jetés. »
+T138	Citation 36020 36051	— « Vous en aviez bien le droit
+T139	Citation 36161 36172	— « Partons
+T140	Citation 37768 37811	— « Comment se porte M. Duflot ce matin ? »
+T142	Citation 38553 38611;38639 38670	— « Oui, monsieur, cette ville existe, et nous l'habitons, voulez-vous être des nôtres ? »
+T143	Citation 38672 38983	— « Je ne demande pas mieux que de vous suivre immédiatement ; j'ai perdu tous ceux que j'aimais, j'ai été trahi par ceux qui faisaient semblant de m'aimer, maintenant, je suis seul, et vivre loin de la terre, dans le ciel ou sous l'eau, cela m'est bien égal, mais je veux fuir la terre où j'ai trop souffert. »
+T144	Citation 38985 39005;39053 39072	— « Venez avec nous, venez, monsieur … »
+T145	Citation 39074 39098	— « Je me nomme Duflot »
+T146	Citation 39120 39148;39164 39333	— « Un vrai nom de chez nous un nom tout à fait comme il faut, dans une ville sous les eaux. Je m'appelle Lamontagne, ne trouvez-vous pas que c'est un peu gênant, pour habiter dans un sous-marin ? »
+T147	Citation 39335 39381;39459 39489	— « Cet homme est votre domestique, sans doute Il y a place pour lui aussi. »
+T148	Citation 41912 41953	— « Il y a quelque chose d'extraordinaire
+T149	Citation 41978 41991;42007 42066	— « En effet, Turko n'a pas coutume d'avoir de ces fantaisies lugubres. »
+T150	Citation 42126 42198	— « Serait-ce cette épave, là bas, qui cause les hurlements de Turko ? »
+T151	Citation 42273 42289	— « Allons voir,
+T152	Citation 42589 42607;42618 42652	— « Un canot vide, remorquons-le jusqu'à Némoville. »
+T154	Citation 45303 45338;45389 45692	— « Vos reproches me font bien mal, mais tout en éprouvant une grande reconnaissance pour celui qui m'a sauvé la vie, je ne puis me défendre d'un réel malaise, lorsqu'il me regarde ou m'adresse la parole. Je ne le hais pas, ainsi que vous le dites, ce serait une ingratitude dont je suis incapable, mais il me fait peur, réellement peur. »
+T155	Citation 46293 46350	— « Votre père, mademoiselle, était-il dans la marine ? »
+T156	Citation 46523 46557	— « L'avez-vous connu, docteur ? »
+T158	Citation 47787 47804;47845 47867	— « Je comprends, c'est votre fiancé … »
+T159	Citation 48335 48408	— « Mademoiselle, j'espère que vous ne vous ennuyez pas à Némoville ? … »
+T160	Citation 48410 48423;48441 48507	— « Oh ! non, on est si bien ici, je me sens si en sûreté auprès de Marcelle … »
+T161	Citation 48509 48550;48568 48615	— « Je ne veux plus que Gaétane me quitte je suis si seule, depuis la mort de mon père. »
+T162	Citation 48972 49097	— « Je l'avais déjà deviné à ton air, un air que je ne t'avais jamais vu, avant l'arrivée de cette jolie épave à Némoville. »
+T163	Citation 49099 49121	— « Que veux-tu dire ?
+T164	Citation 49170 49257	— « Je veux dire que tu es amoureux, et que je le sais depuis le premier jour. Voilà. »
+T165	Citation 49836 49861	— « Quoi, vous osez ? … »
+T166	Citation 50664 50706;50737 50797	— « Je vais vous recevoir dans mon boudoir ce serait trop dommage de déranger un si doux tête-à-tête. »
+T167	Citation 52382 52451	— « Voulez-vous venir faire une petite promenade avec Paul et moi ? »
+T168	Citation 52842 52882	— « Passez le premier, monsieur l'abbé »
+T169	Citation 52998 53017;53026 53046	— « Que c'est beau, c'est magnifique ! »
+T170	Citation 53048 53099;53125 53169	— « C'est le cadeau de Noël de Némoville à son curé Aimez-vous votre église, monsieur l'abbé ? »
+T171	Citation 53676 53711	— « Merci, merci, mes bons amis ! »
+T172	Citation 55548 55580	— « C'est mademoiselle Laurent »
+T173	Citation 55764 55864	— « Cette jeune fille a vraiment une voix angélique, ne trouvez-vous pas, monsieur le gouverneur ? »
+T175	Citation 56215 56254;56285 56346	— « Quand un ange descend sur la terre, c'est généralement pour faire le bonheur de quelque mortel. »
+T176	Citation 57703 57732	— « Mlle Durand est orpheline
+T177	Citation 57757 57806	— « Durand ? … Son nom n'est-il pas Laurent ? … »
+T178	Citation 57808 57821;57838 57868	— « En effet, son nom est Gaétane Laurent. »
+T179	Citation 57870 57911	— « Gaétane ! … Elle se nomme Gaétane ? »
+T180	Citation 58062 58084;58102 58178	— « Absolument certain puisque c'est elle qui me l'a dit ; elle est fille d'un capitaine Laurent. »
+T1	Entite 1830 1838	une voix
+T2	Introducteur 1844 1850	disait
+R21	Introduction Arg1:T71 Arg2:T2	
+R22	Source Arg1:T71 Arg2:T1	
+T3	Entite 2029 2038	Le prêtre
+R23	Source Arg1:T72 Arg2:T3	
+T5	Entite 1999 2027	un homme à l'allure de marin
+R24	Source Arg1:T73 Arg2:T5	
+T6	Introducteur 2780 2783	dit
+T7	Entite 2784 2786	il
+R25	Source Arg1:T75 Arg2:T7	
+R26	Introduction Arg1:T75 Arg2:T6	
+T8	Introducteur 3270 3273	dit
+T11	Entite 3212 3220	le marin
+R27	Source Arg1:T76 Arg2:T11	
+R28	Introduction Arg1:T76 Arg2:T8	
+T12	Introducteur 3447 3455	répondit
+T13	Entite 3456 3462	l'abbé
+R29	Source Arg1:T77 Arg2:T13	
+R30	Introduction Arg1:T77 Arg2:T12	
+T26	Introducteur 3483 3489	reprit
+T34	Entite 3490 3503	son compagnon
+R31	Source Arg1:T78 Arg2:T34	
+R32	Introduction Arg1:T78 Arg2:T26	
+T35	Entite 4306 4315	quelqu'un
+T36	Entite 4320 4323	dit
+R33	Source Arg1:T79 Arg2:T36	
+R34	Source Arg1:T79 Arg2:T35	
+T40	Entite 6453 6469	l'homme de quart
+T44	Introducteur 6470 6474	cria
+R35	Introduction Arg1:T4 Arg2:T44	
+R36	Source Arg1:T4 Arg2:T40	
+T9	Entite 11909 11912	ils
+T45	Introducteur 11932 11938	dirent
+R37	Introduction Arg1:T80 Arg2:T45	
+R38	Source Arg1:T80 Arg2:T9	
+T54	Entite 12034 12039	Roger
+T58	Introducteur 12040 12046	ajouta
+R39	Introduction Arg1:T10 Arg2:T58	
+R40	Source Arg1:T10 Arg2:T54	
+T59	Introducteur 12102 12110	répondit
+T181	Entite 12111 12115	Paul
+R41	Introduction Arg1:T81 Arg2:T59	
+R42	Source Arg1:T81 Arg2:T181	
+T182	Introducteur 14848 14851	dit
+T183	Entite 14852 14854	il
+R43	Source Arg1:T82 Arg2:T183	
+R44	Introduction Arg1:T82 Arg2:T182	
+T184	Introducteur 15038 15041	dit
+T185	Entite 15042 15046	Paul
+R45	Source Arg1:T83 Arg2:T185	
+R46	Introduction Arg1:T83 Arg2:T184	
+T186	Introducteur 15238 15241	dit
+T187	Entite 15242 15247	Roger
+R47	Source Arg1:T84 Arg2:T187	
+R48	Introduction Arg1:T84 Arg2:T186	
+T188	Introducteur 15319 15327	répliqua
+T189	Entite 15328 15332	Paul
+R49	Source Arg1:T85 Arg2:T189	
+R50	Introduction Arg1:T85 Arg2:T188	
+T190	Introducteur 15467 15473	reprit
+T191	Entite 15474 15479	Roger
+R51	Source Arg1:T86 Arg2:T191	
+R52	Introduction Arg1:T86 Arg2:T190	
+T192	Introducteur 15937 15941	cria
+T193	Entite 15944 15946	il
+R53	Source Arg1:T87 Arg2:T193	
+R54	Introduction Arg1:T87 Arg2:T192	
+T194	Entite 16010 16012	il
+T195	Introducteur 16013 16021	continua
+R55	Introduction Arg1:T88 Arg2:T195	
+R56	Source Arg1:T88 Arg2:T194	
+T196	Introducteur 16310 16318	répondit
+T197	Entite 16319 16323	Paul
+R57	Introduction Arg1:T89 Arg2:T196	
+R58	Source Arg1:T89 Arg2:T197	
+T198	Introducteur 16542 16548	reprit
+T199	Entite 16549 16553	Paul
+R59	Introduction Arg1:T91 Arg2:T198	
+R60	Source Arg1:T91 Arg2:T199	
+T200	Entite 16742 16747	Roger
+R61	Source Arg1:T92 Arg2:T200	
+T14	Introducteur 17155 17162	s'écria
+T93	Entite 17163 17167	Paul
+R62	Source Arg1:T15 Arg2:T93	
+R63	Introduction Arg1:T15 Arg2:T14	
+T16	Introducteur 17872 17880	répondit
+T95	Entite 17881 17885	Paul
+R64	Source Arg1:T17 Arg2:T95	
+R65	Introduction Arg1:T17 Arg2:T16	
+T18	Entite 18385 18390	Roger
+T201	Introducteur 18493 18496	dit
+T202	Citation 18784 18806;18835 18855	Une ville sous-marine, ce serait l'idéal. »
+T203	Introducteur 18807 18813	reprit
+T204	Entite 18814 18819	Roger
+R66	Introduction Arg1:T97 Arg2:T201	
+R67	Source Arg1:T97 Arg2:T18	
+R68	Source Arg1:T202 Arg2:T204	
+R69	Introduction Arg1:T202 Arg2:T203	
+T205	Introducteur 18893 18896	dit
+T206	Entite 18897 18910	son compagnon
+R70	Source Arg1:T98 Arg2:T206	
+R71	Introduction Arg1:T98 Arg2:T205	
+T207	Introducteur 19206 19212	reprit
+T208	Entite 19213 19218	Roger
+T209	Introducteur 19820 19823	dit
+T210	Entite 19824 19828	Paul
+R72	Introduction Arg1:T100 Arg2:T209	
+R73	Source Arg1:T100 Arg2:T210	
+T211	Introducteur 20004 20010	reprit
+T212	Entite 20011 20016	Roger
+R74	Introduction Arg1:T19 Arg2:T211	
+R75	Source Arg1:T19 Arg2:T212	
+T101	Introducteur 20180 20187	demanda
+T213	Entite 20188 20192	Paul
+R76	Source Arg1:T20 Arg2:T213	
+R77	Introduction Arg1:T20 Arg2:T101	
+T214	Introducteur 20300 20308	répliqua
+T215	Entite 20309 20314	Roger
+R78	Source Arg1:T102 Arg2:T215	
+R79	Introduction Arg1:T102 Arg2:T214	
+T216	Introducteur 20814 20822	continua
+T217	Entite 20823 20828	Roger
+R80	Introduction Arg1:T104 Arg2:T216	
+R81	Source Arg1:T104 Arg2:T217	
+T21	Citation 22163 22204	— « Monsieur l'abbé Bernard, sans doute »
+T22	Introducteur 22206 22213	demanda
+T105	Entite 22216 22218	il
+R82	Source Arg1:T21 Arg2:T105	
+R83	Introduction Arg1:T21 Arg2:T22	
+T218	Introducteur 22449 22457	répondit
+T219	Entite 22458 22467	le prêtre
+R84	Source Arg1:T106 Arg2:T219	
+R85	Introduction Arg1:T106 Arg2:T218	
+T220	Introducteur 22848 22855	murmura
+T221	Entite 22856 22867	le moribond
+R86	Introduction Arg1:T107 Arg2:T220	
+R87	Source Arg1:T107 Arg2:T221	
+T222	Introducteur 22919 22922	dit
+T223	Entite 22923 22932	le prêtre
+R88	Source Arg1:T108 Arg2:T223	
+R89	Introduction Arg1:T108 Arg2:T222	
+T224	Introducteur 23065 23071	reprit
+T225	Entite 23072 23081	le malade
+R90	Source Arg1:T109 Arg2:T225	
+R91	Introduction Arg1:T109 Arg2:T224	
+T226	Citation 23444 24697;24699 25086;25088 25641	— « Un soir — il y a quatorze ans de cela — un de mes amis, Jean Demers, arriva chez moi. Il venait de perdre sa femme qu'il adorait, et lui-même, se croyant atteint d'un mal qui ne pardonne pas, partait dans quelques heures, pour aller vivre le peu de temps qu'il lui restait à passer sur la terre au pays où il était né, et où il n'avait plus aucun parent. Avant de s'en aller mourir là-bas, il avait voulu me confier sa fille, qui avait l'âge de la mienne, six ans. Il me fit promettre de l'élever selon sa fortune, qui était considérable, et me remit un portefeuille bien rempli. Je promis tout ce qu'il voulut, puis, lorsqu'il se fut éloigné après avoir pressé sa fille dans ses bras, je comptai les valeurs, sans m'occuper de l'enfant qui pleurait en appelant son père … Il faut que je me hâte, soupira le moribond, car je sens que je m'en vais vite … Je constatai donc que le portefeuille contenait pour près d'un demi-million. Et moi qui venais de perdre toute ma petite fortune dans des spéculations malheureuses … la tentation était trop forte … je succombai. Personne n'avait vu entrer cette enfant chez moi, je décidai de la faire disparaître, avant que personne ne soupçonnât son existence dans ma maison … Et sa fortune serait à ma fille … Je dis donc à la petite que j'allais la ramener à son père et je m'acheminai vers les quais, où elle me suivit sans résistance. Un bateau était en partance. Je remis l'enfant au capitaine de ce bateau — homme au regard fuyant — et je lui remis en même temps la somme de cinq cents dollars. Le soir même le bateau partit, et l'enfant de mon ami appartenait désormais au capitaine Laurent. Tout me réussit, pendant plusieurs années, mais il y a deux ans, je reçus une lettre de mon ancien ami, Jean Demers ! … Il était guéri et m'annonçait son retour … Affolé par la nouvelle, je décidai de fuir la juste colère de celui que j'avais trahi, et je pris passage à bord du « Queen of the Waves », qui fit naufrage sur les côtes d'une île inconnue. Ensuite, je décidai de me cacher avec ma fille dans cette ville, où personne ne pouvait avoir l'idée de venir me chercher, sous le faux nom que j'avais pris. Je portais désormais le nom de Richard. »
+T227	Entite 23382 23384	il
+T228	Introducteur 23385 23391	reprit
+R92	Introduction Arg1:T226 Arg2:T228	
+R93	Source Arg1:T226 Arg2:T227	
+T229	Introducteur 25658 25665	demanda
+T230	Entite 25666 25675	le prêtre
+R94	Source Arg1:T110 Arg2:T230	
+R95	Introduction Arg1:T110 Arg2:T229	
+T231	Introducteur 25867 25871	râla
+T232	Entite 25872 25882	le mourant
+R96	Source Arg1:T111 Arg2:T232	
+R97	Introduction Arg1:T111 Arg2:T231	
+T233	Introducteur 25985 25992	souffla
+T234	Entite 26001 26010	le malade
+R98	Source Arg1:T113 Arg2:T234	
+R99	Introduction Arg1:T113 Arg2:T233	
+T235	Introducteur 26038 26041	dit
+T236	Entite 26042 26051	le prêtre
+R100	Source Arg1:T114 Arg2:T236	
+R101	Introduction Arg1:T114 Arg2:T235	
+T237	Entite 26934 26938	Elle
+T238	Introducteur 26993 26998	gémir
+R102	Introduction Arg1:T27 Arg2:T238	
+R103	Source Arg1:T27 Arg2:T237	
+T239	Introducteur 27577 27580	dit
+T240	Entite 27592 27602	le médecin
+R104	Introduction Arg1:T116 Arg2:T239	
+R105	Source Arg1:T116 Arg2:T240	
+T241	Introducteur 27873 27876	dit
+T242	Entite 27877 27886	le prêtre
+R106	Source Arg1:T117 Arg2:T242	
+R107	Introduction Arg1:T117 Arg2:T241	
+T243	Citation 28734 28773	« Veuillez me suivre, monsieur l'abbé »
+T244	Introducteur 28774 28777	dit
+T245	Entite 28778 28786	le valet
+R108	Source Arg1:T243 Arg2:T245	
+R109	Introduction Arg1:T243 Arg2:T244	
+T246	Entite 29207 29222	le nouveau venu
+T247	Introducteur 29232 29235	dit
+R110	Introduction Arg1:T118 Arg2:T247	
+R111	Source Arg1:T118 Arg2:T246	
+T248	Introducteur 29409 29417	répondit
+T249	Entite 29418 29427	le prêtre
+R112	Source Arg1:T119 Arg2:T249	
+R113	Introduction Arg1:T119 Arg2:T248	
+T250	Entite 29609 29623	Le jeune homme
+T251	Introducteur 29633 29639	disant
+R114	Introduction Arg1:T120 Arg2:T251	
+R115	Source Arg1:T120 Arg2:T250	
+T252	Entite 29719 29725	L'abbé
+R116	Source Arg1:T121 Arg2:T252	
+T253	Entite 29898 29912	Roger de Ville
+R117	Source Arg1:T122 Arg2:T253	
+T254	Citation 30200 30588	« Monsieur le gouverneur, seriez-vous assez bon de me dire immédiatement ce que vous avez à me communiquer, je suis pressé de retourner chez moi. Mais permettez-moi de vous dire que vous avez de singulières manières d'agir, dans cette ville … on m'enlève presque, on me bande les yeux … Ces façons ne sauraient avoir mon approbation, vous ne devez pas en douter, monsieur le gouverneur. »
+T255	Introducteur 30876 30879	dit
+T256	Entite 30880 30889	le prêtre
+R118	Source Arg1:T124 Arg2:T256	
+R119	Introduction Arg1:T124 Arg2:T255	
+T257	Introducteur 31027 31033	ajouta
+T258	Entite 31036 31038	il
+T259	Introducteur 31693 31699	ajouta
+T260	Entite 31702 31704	il
+R120	Introduction Arg1:T125 Arg2:T257	
+R121	Source Arg1:T125 Arg2:T258	
+R122	Introduction Arg1:T126 Arg2:T259	
+R123	Source Arg1:T126 Arg2:T260	
+T261	Entite 32972 32974	Il
+T262	Introducteur 33007 33013	disant
+R124	Introduction Arg1:T129 Arg2:T262	
+R125	Source Arg1:T129 Arg2:T261	
+T263	Introducteur 33125 33133	répliqua
+T264	Entite 33134 33147	le gouverneur
+T265	Citation 33250 33270;33279 33410	Voici votre chambre, en ouvrant une porte donnant sur le salon. Demain, je vous ferai visiter la ville. En attendant, je vous souhaite une bonne nuit. »
+T266	Introducteur 33271 33274	fit
+T267	Entite 33275 33277	il
+R126	Introduction Arg1:T130 Arg2:T263	
+R127	Source Arg1:T130 Arg2:T264	
+R128	Introduction Arg1:T265 Arg2:T266	
+R129	Source Arg1:T265 Arg2:T267	
+T268	Entite 33832 33836	curé
+T269	Introducteur 33846 33849;33859 33873	fit cette remarque
+T270	Citation 33889 34042	« Décidément, tout le monde a l'air bien heureux ici, jusqu'à ce canari, qui semble n'en être pas moins gai parce qu'il habite le domaine des poissons. »
+R130	Introduction Arg1:T270 Arg2:T269	
+R131	Source Arg1:T270 Arg2:T268	
+T271	Introducteur 34091 34099	répliqua
+T272	Entite 34100 34104	Paul
+R132	Introduction Arg1:T131 Arg2:T271	
+R133	Source Arg1:T131 Arg2:T272	
+T273	Entite 34916 34921	Roger
+T274	Introducteur 34926 34934	répondit
+R134	Introduction Arg1:T132 Arg2:T274	
+R135	Source Arg1:T132 Arg2:T273	
+T275	Entite 35014 35018	Paul
+R136	Source Arg1:T133 Arg2:T275	
+T276	Entite 35293 35295	il
+T277	Introducteur 35300 35303	dit
+R137	Introduction Arg1:T134 Arg2:T277	
+R138	Source Arg1:T134 Arg2:T276	
+T278	Introducteur 35577 35585	répliqua
+T279	Entite 35586 35591	Roger
+R139	Source Arg1:T136 Arg2:T279	
+R140	Introduction Arg1:T136 Arg2:T278	
+T280	Introducteur 35732 35738	ajouta
+T281	Entite 35739 35743	Paul
+R141	Source Arg1:T137 Arg2:T281	
+R142	Introduction Arg1:T137 Arg2:T280	
+T282	Introducteur 36053 36059	ajouta
+T283	Entite 36060 36069	le prêtre
+R143	Source Arg1:T138 Arg2:T283	
+R144	Introduction Arg1:T138 Arg2:T282	
+T284	Entite 36086 36088	Il
+T285	Introducteur 36089 36095	reprit
+R145	Introduction Arg1:T37 Arg2:T285	
+R146	Source Arg1:T37 Arg2:T284	
+T286	Introducteur 36174 36177	dit
+T287	Entite 36178 36183	Roger
+R147	Source Arg1:T139 Arg2:T287	
+R148	Introduction Arg1:T139 Arg2:T286	
+T288	Introducteur 37812 37819	demanda
+T289	Entite 37820 37825	Roger
+R149	Source Arg1:T140 Arg2:T289	
+R150	Introduction Arg1:T140 Arg2:T288	
+T141	Introducteur 37872 37880	répondit
+T290	Entite 37881 37894	le domestique
+R151	Source Arg1:T38 Arg2:T290	
+R152	Introduction Arg1:T38 Arg2:T141	
+T39	Introducteur 38612 38623	répondirent
+T291	Entite 38624 38637	Roger et Paul
+R153	Source Arg1:T142 Arg2:T291	
+R154	Introduction Arg1:T142 Arg2:T39	
+T292	Introducteur 39006 39012	dirent
+T293	Entite 39013 39026	les deux amis
+T294	Introducteur 39100 39106	reprit
+T295	Entite 39107 39117	l'étranger
+R155	Source Arg1:T145 Arg2:T295	
+R156	Introduction Arg1:T145 Arg2:T294	
+T296	Introducteur 39150 39157	riposta
+T297	Entite 39158 39162	Paul
+R157	Source Arg1:T146 Arg2:T297	
+R158	Introduction Arg1:T146 Arg2:T296	
+R159	Source Arg1:T144 Arg2:T293	
+R160	Introduction Arg1:T144 Arg2:T292	
+T298	Introducteur 39383 39390	demanda
+T299	Entite 39391 39396	Roger
+R161	Introduction Arg1:T147 Arg2:T298	
+R162	Source Arg1:T147 Arg2:T299	
+T300	Introducteur 41955 41958	dit
+T301	Entite 41968 41973	Roger
+R163	Introduction Arg1:T148 Arg2:T300	
+R164	Source Arg1:T148 Arg2:T301	
+T302	Introducteur 41992 42000	répondit
+T303	Entite 42001 42005	Paul
+R165	Source Arg1:T149 Arg2:T303	
+R166	Introduction Arg1:T149 Arg2:T302	
+T304	Introducteur 42199 42202	dit
+T305	Entite 42203 42207	Paul
+R167	Introduction Arg1:T150 Arg2:T304	
+R168	Source Arg1:T150 Arg2:T305	
+T306	Introducteur 42290 42296	ajouta
+T307	Entite 42297 42302	Roger
+T308	Citation 42304 42408	je prends toujours au sérieux les avertissements de Turko, car il m'a donné mille preuves de son flair »
+R169	Introduction Arg1:T308 Arg2:T306	
+R170	Source Arg1:T308 Arg2:T307	
+T309	Introducteur 42608 42611	dit
+T310	Entite 42612 42616	Paul
+R171	Source Arg1:T152 Arg2:T310	
+R172	Introduction Arg1:T152 Arg2:T309	
+T153	Introducteur 45339 45345	disait
+T311	Entite 45346 45387	la voix douce et chantante de l'étrangère
+R173	Source Arg1:T154 Arg2:T311	
+R174	Introduction Arg1:T154 Arg2:T153	
+T312	Citation 45694 45777	« Le docteur Desmarais vous fait peur ! … mais il est parfait de bonté pour vous. »
+T313	Entite 46218 46220	il
+T314	Introducteur 46252 46261	demandant
+R175	Introduction Arg1:T155 Arg2:T314	
+R176	Source Arg1:T155 Arg2:T313	
+T315	Entite 46488 46492	elle
+T316	Introducteur 46497 46506	avait dit
+R177	Source Arg1:T156 Arg2:T315	
+R178	Introduction Arg1:T156 Arg2:T316	
+T317	Entite 46562 46572	le docteur
+T318	Introducteur 46573 46582	avait dit
+R179	Introduction Arg1:T52 Arg2:T318	
+R180	Source Arg1:T52 Arg2:T317	
+T157	Citation 46869 47128	« N'oubliez pas que tout dépend de vous, Marcelle ; je vous promets qu'avant trois mois, vous serez la femme du gouverneur, si vous suivez mes conseils ; et moi j'épouserai la fille du capitaine Laurent. En servant mes intérêts vous servez aussi les vôtres. »
+T319	Entite 46825 46835	le médecin
+T320	Introducteur 46836 46839	dit
+R181	Introduction Arg1:T157 Arg2:T320	
+R182	Source Arg1:T157 Arg2:T319	
+T321	Introducteur 47481 47484	dit
+T322	Entite 47485 47493	Marcelle
+T323	Citation 47711 47722;47738 47785	« Celui-là, j'espère que vous l'aimerez … à cause de moi. »
+T324	Introducteur 47723 47729	ajouta
+T325	Entite 47732 47736	elle
+R183	Introduction Arg1:T53 Arg2:T321	
+R184	Source Arg1:T53 Arg2:T322	
+R185	Introduction Arg1:T323 Arg2:T324	
+R186	Source Arg1:T323 Arg2:T325	
+T326	Introducteur 47805 47808	fit
+T327	Entite 47809 47820	sa compagne
+R187	Source Arg1:T158 Arg2:T327	
+R188	Introduction Arg1:T158 Arg2:T326	
+T328	Entite 48284 48289	Roger
+R189	Source Arg1:T159 Arg2:T328	
+T329	Introducteur 48424 48432	répliqua
+T330	Entite 48435 48439	elle
+R190	Source Arg1:T160 Arg2:T330	
+R191	Introduction Arg1:T160 Arg2:T329	
+T331	Introducteur 48551 48557	ajouta
+T332	Entite 48558 48566	Marcelle
+R192	Source Arg1:T161 Arg2:T332	
+R193	Introduction Arg1:T161 Arg2:T331	
+T333	Entite 48947 48955	celui-ci
+T334	Introducteur 48960 48968	répondit
+R194	Introduction Arg1:T162 Arg2:T334	
+R195	Source Arg1:T162 Arg2:T333	
+T335	Introducteur 49122 49128	demand
+T336	Entite 49130 49135	Roger
+R196	Introduction Arg1:T163 Arg2:T335	
+R197	Source Arg1:T163 Arg2:T336	
+T337	Entite 49768 49772	elle
+T338	Introducteur 49813 49822	avait dit
+R198	Introduction Arg1:T165 Arg2:T338	
+R199	Source Arg1:T165 Arg2:T337	
+T339	Introducteur 50708 50717	avait dit
+T340	Entite 50718 50726	Marcelle
+R200	Source Arg1:T166 Arg2:T340	
+R201	Introduction Arg1:T166 Arg2:T339	
+T341	Entite 52360 52365	Roger
+T342	Introducteur 52366 52369	dit
+R202	Introduction Arg1:T167 Arg2:T342	
+R203	Source Arg1:T167 Arg2:T341	
+T343	Introducteur 52888 52891	dit
+T344	Entite 52892 52897	Roger
+R204	Introduction Arg1:T168 Arg2:T343	
+R205	Source Arg1:T168 Arg2:T344	
+T345	Introducteur 53018 53021	fit
+T346	Entite 53022 53024	il
+R206	Source Arg1:T169 Arg2:T346	
+R207	Introduction Arg1:T169 Arg2:T345	
+T347	Introducteur 53101 53109	répondit
+T348	Entite 53110 53122	le gouverneu
+R208	Introduction Arg1:T170 Arg2:T347	
+R209	Source Arg1:T170 Arg2:T348	
+T349	Entite 53647 53649	il
+T350	Introducteur 53665 53672	répéter
+R210	Introduction Arg1:T171 Arg2:T350	
+R211	Source Arg1:T171 Arg2:T349	
+T351	Entite 55461 55470	M. Duflot
+T352	Introducteur 55509 55516	demanda
+R212	Introduction Arg1:T63 Arg2:T352	
+R213	Source Arg1:T63 Arg2:T351	
+T353	Introducteur 55582 55590	répondit
+T354	Entite 55591 55604	le gouverneur
+R214	Introduction Arg1:T172 Arg2:T353	
+R215	Source Arg1:T172 Arg2:T354	
+T355	Entite 55709 55715	Duflot
+T356	Introducteur 55716 55738	reprit la conversation
+R216	Introduction Arg1:T173 Arg2:T356	
+R217	Source Arg1:T173 Arg2:T355	
+T174	Citation 55866 55892	— « Angélique, en effet, »
+T357	Introducteur 55893 55901	répondit
+T358	Entite 55902 55907	Roger
+R218	Source Arg1:T174 Arg2:T358	
+R219	Introduction Arg1:T174 Arg2:T357	
+T359	Introducteur 56255 56261	reprit
+T360	Entite 56274 56283	M. Duflot
+R220	Source Arg1:T175 Arg2:T360	
+R221	Introduction Arg1:T175 Arg2:T359	
+T70	Introducteur 57734 57742	répliqua
+T361	Entite 57743 57752	le prêtre
+R222	Introduction Arg1:T176 Arg2:T70	
+R223	Source Arg1:T176 Arg2:T361	
+T362	Introducteur 57822 57830	répondit
+T363	Entite 57831 57836	Roger
+R224	Source Arg1:T178 Arg2:T363	
+R225	Introduction Arg1:T178 Arg2:T362	
+T364	Introducteur 57912 57922	questionna
+T365	Entite 57923 57932	M. Duflot
+R226	Introduction Arg1:T179 Arg2:T364	
+R227	Source Arg1:T179 Arg2:T365	
+T366	Citation 57988 58060	Laurent ? … son nom est Laurent ? … en êtes-vous bien certain, Roger ? »
+T367	Entite 57950 57956	l'abbé
+T368	Introducteur 57957 57963	disait
+R228	Introduction Arg1:T366 Arg2:T368	
+R229	Source Arg1:T366 Arg2:T367	
+T369	Introducteur 58086 58094	répliqua
+T370	Entite 58095 58100	Roger
+R230	Source Arg1:T180 Arg2:T370	
+R231	Introduction Arg1:T180 Arg2:T369	

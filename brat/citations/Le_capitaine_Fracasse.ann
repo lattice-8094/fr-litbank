@@ -1,0 +1,48 @@
+T5	Citation 47551 47866	— L'hospitalité pour moi et mes camarades, des princes et des princesses, des Léandres et des Isabelles, des docteurs et des capitaines qui se promènent de bourgs en villes sur le chariot de Thespis, lequel chariot, traîné par des bœufs à la manière antique, est maintenant embourbé à quelques pas de votre château.
+T6	Citation 47868 47993	— Si je comprends bien ce que vous dites, vous êtes des comédiens de province en tournée et vous avez dévié du droit chemin ?
+T8	Citation 48143 48311	— Quoique ma demeure soit assez délabrée et que je n'aie pas grand'chose à vous offrir, vous y serez toujours un peu moins mal qu'en plein air par une pluie battante. »
+T1	Citation 16419 16427	Un rat !
+T2	Entite 16285 16311	Hamlet, prince de Danemark
+T3	Introducteur 16407 16416	en criant
+R1	Introduction Arg1:T1 Arg2:T3	
+R2	Source Arg1:T1 Arg2:T2	
+T11	Citation 24362 24386;24555 24748	« Bien, bien, Béelzébuth ; je sais que tu m'aimes, et nous sommes assez seuls ici, mon pauvre maître et moi, pour n'être pas insensibles aux caresses d'une bête dénuée d'âme, mais qui pourtant semble vous comprendre. »
+T12	Introducteur 24388 24391	dit
+T13	Entite 24392 24404	le vieillard
+R3	Source Arg1:T11 Arg2:T13	
+R4	Introduction Arg1:T11 Arg2:T12	
+T14	Citation 28831 28880;29112 29273	« Le jeune maître tarde bien à venir aujourd'hui, Quel plaisir peut-il trouver à se promener seul ainsi dans les landes ? Il est vrai que ce château est si triste qu'on ne saurait s'ennuyer davantage ailleurs. »
+T15	Introducteur 28881 28888	murmura
+T16	Entite 28889 28895	Pierre	
+T18	Entite 47005 47028	le burlesque personnage
+T19	Introducteur 47099 47113	prit la parole
+T20	Citation 47164 47452	« Daignez m'excuser, noble châtelain, si je viens frapper moi-même à la poterne de votre forteresse sans me faire précéder d'un page ou d'un nain sonnant du cor, et cela à une heure avancée. Nécessité n'a pas de loi et force les gens du monde les plus polis à des barbarismes de conduite.
+T21	Citation 47454 47473	— Que voulez-vous ?
+T22	Introducteur 47474 47485	interrompit
+T23	Entite 47502 47510	le Baron
+T26	Citation 47995 48038;48058 48141	— On ne saurait mieux élucider mes paroles, et vous parlez de cire. Puis-je espérer que Votre Seigneurie m'accorde ma requête ?	
+T28	Introducteur 48039 48047	répondit
+T29	Entite 48048 48056	l'acteur
+T30	Citation 48082 48141	Puis-je espérer que Votre Seigneurie m'accorde ma requête ?
+T4	Citation 44265 44473	« Qu'a donc Miraut, lui qui ronfle comme le chien des Sept-Dormants, sur la paille de sa niche, dès que le soleil est couché, pour faire un pareil vacarme ? Est-ce qu'un loup rôderait autour des murailles ? »
+T7	Introducteur 44474 44477	dit
+T9	Entite 44478 44492	le jeune homme
+R5	Introduction Arg1:T4 Arg2:T7	
+R6	Source Arg1:T4 Arg2:T9	
+R7	Introduction Arg1:T20 Arg2:T19	
+R8	Source Arg1:T20 Arg2:T18	
+R9	Introduction Arg1:T21 Arg2:T22	
+R10	Source Arg1:T21 Arg2:T23	
+R11	Introduction Arg1:T26 Arg2:T28	
+R12	Source Arg1:T30 Arg2:T29	
+T10	Citation 50085 50125;50146 50342	« Je ne puis vous donner que le couvert, mon garde-manger ne renferme pas de quoi faire souper une souris. Je vis seul en ce manoir, ne recevant jamais personne, et vous voyez, sans que je vous le dise, que la fortune n'habite pas céans.
+T17	Introducteur 50126 50129	dit
+T24	Entite 50130 50144	le jeune Baron
+R13	Introduction Arg1:T10 Arg2:T17	
+R14	Source Arg1:T10 Arg2:T24	
+T25	Citation 50344 50365;50386 50850	— Qu'à cela ne tienne ; si, au théâtre, l'on nous sert des poulets de carton et des bouteilles de bois tourné, nous nous précautionnons, pour la vie ordinaire, de mets plus substantiels. Ces viandes creuses et ces boissons imaginaires iraient mal à nos estomacs, et, en qualité de munitionnaire de la troupe, je tiens toujours en réserve quelque jambon de Bayonne, quelque pâté de venaison, quelque longe de veau de Rivière, avec une douzaine de flacons de vin de Cahors et de Bordeaux.
+T27	Citation 50852 50872;50893 51097	— Bien parlé, Pédant ; va chercher les provisions, et, si ce seigneur le permet et daigne souper avec nous, dressons ici même la table du festin. Il y a dans ces buffets assez de vaisselle, et ces dames mettront le couvert. »
+T31	Introducteur 50874 50881	exclama
+T32	Entite 50882 50892	le Léandre
+R15	Source Arg1:T27 Arg2:T32	
+R16	Introduction Arg1:T27 Arg2:T31	
