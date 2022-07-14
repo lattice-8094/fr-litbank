@@ -1,0 +1,1057 @@
+T0	PER 155 185	MADEMOISELLE MARIE DE MONTHEAU
+T2	FAC 219 237	la rue Saint-Denis
+T4	FAC 258 278	la rue du Petit-Lion
+T5	FAC 297 326	une de ces maisons précieuses
+T6	FAC 304 326	ces maisons précieuses
+T7	FAC 327 330	qui
+R0	Coreference Arg1:T7 Arg2:T6
+T8	PER 339 353	aux historiens
+T9	GPE 395 409	l’ancien Paris
+T10	FAC 433 446	cette bicoque
+R1	Coreference Arg1:T10 Arg2:T5
+T13	VEH 717 739	la plus légère voiture
+T14	FAC 792 812	Ce vénérable édifice
+R3	Coreference Arg1:T14 Arg2:T5
+T15	GPE 896 902	Paris.
+T16	FAC 998 1004	la rue
+T17	FAC 1254 1272	cette frêle maison
+R4	Coreference Arg1:T17 Arg2:T5
+T18	TIME 1302 1317	au mois de mars
+T19	PER 1319 1333	un jeune homme
+T20	PER 1364 1367	son
+R5	Coreference Arg1:T20 Arg2:T19
+T21	FAC 1403 1415	une boutique
+T22	FAC 1427 1441	ce vieux logis
+R6	Coreference Arg1:T22 Arg2:T5
+T23	FAC 1443 1446	qu’
+R7	Coreference Arg1:T23 Arg2:T5
+T24	PER 1446 1448	il
+R8	Coreference Arg1:T24 Arg2:T19
+T26	FAC 1509 1555	ce débris de la bourgeoisie du seizième siècle
+R9	Coreference Arg1:T26 Arg2:T5
+T27	PER 1522 1555	la bourgeoisie du seizième siècle
+T28	TIME 1537 1555	du seizième siècle
+T29	PER 1566 1579	l’observateur
+R10	Coreference Arg1:T29 Arg2:T19
+T32	PER 1833 1851	un habile marchand
+T34	VEH 1895 1907	ses chalands
+T35	PER 1909 1923	Le jeune homme
+R13	Coreference Arg1:T35 Arg2:T19
+T37	FAC 1982 1991	la maison
+R15	Coreference Arg1:T37 Arg2:T5
+T38	PER 1993 1996	ses
+R16	Coreference Arg1:T38 Arg2:T19
+T40	GPE 2154 2160	Bohême
+T41	PER 2205 2207	l’
+R17	Coreference Arg1:T41 Arg2:T19
+T42	PER 2236 2239	Son
+R18	Coreference Arg1:T42 Arg2:T19
+T44	FAC 2379 2415	au Conservatoire des arts et métiers
+T45	FAC 2421 2422	y
+R19	Coreference Arg1:T45 Arg2:T44
+T46	PER 2554 2557	son
+R20	Coreference Arg1:T46 Arg2:T19
+T47	PER 2574 2588	le jeune homme
+R21	Coreference Arg1:T47 Arg2:T19
+T50	PER 2728 2743	cet observateur
+R23	Coreference Arg1:T50 Arg2:T19
+T51	PER 2755 2757	sa
+R24	Coreference Arg1:T51 Arg2:T19
+T52	FAC 2813 2822	la maison
+R25	Coreference Arg1:T52 Arg2:T5
+T54	PER 2878 2881	ses
+R26	Coreference Arg1:T54 Arg2:T19
+T55	PER 2967 2970	ses
+R27	Coreference Arg1:T55 Arg2:T19
+T56	PER 2985 2987	il
+R28	Coreference Arg1:T56 Arg2:T19
+T57	FAC 2997 3008	la boutique
+T58	FAC 3009 3011	où
+T60	FAC 3179 3201	cette maison décrépite
+R30	Coreference Arg1:T60 Arg2:T5
+T62	FAC 3418 3425	un chat
+T63	FAC 3426 3429	qui
+R31	Coreference Arg1:T63 Arg2:T62
+T64	PER 3470 3484	du jeune homme
+R32	Coreference Arg1:T64 Arg2:T19
+T66	FAC 3588 3596	L’animal
+R33	Coreference Arg1:T66 Arg2:T62
+T67	FAC 3616 3619	ses
+R34	Coreference Arg1:T67 Arg2:T62
+T68	FAC 3667 3670	lui
+R35	Coreference Arg1:T68 Arg2:T62
+T70	FAC 3691 3694	ses
+R37	Coreference Arg1:T70 Arg2:T62
+T71	FAC 3746 3749	lui
+R38	Coreference Arg1:T71 Arg2:T62
+T73	PER 3870 3879	l’artiste
+T74	PER 3902 3913	du marchand
+T75	PER 3902 3929	du marchand et des passants
+T76	PER 3917 3929	des passants
+T78	FAC 4113 4120	du chat
+T81	PER 4223 4235	nos ancêtres
+T82	PER 4361 4373	les passants
+T85	PER 11241 11248	Chevrel
+T92	LOC 4729 4737	le monde
+T96	PER 5005 5027	nos espiègles ancêtres
+T97	VEH 5052 5064	les chalands
+T98	PER 5070 5075	leurs
+T99	FAC 5070 5083	leurs maisons
+T100	FAC 5091 5129	la Truie-qui-file, le Singe-vert, etc.
+T101	FAC 5158 5162	dont
+R49	Coreference Arg1:T101 Arg2:T100
+T102	PER 5186 5198	les passants
+T103	FAC 5203 5207	dont
+R50	Coreference Arg1:T103 Arg2:T100
+T104	PER 5244 5276	l’industriel au quinzième siècle
+T105	TIME 5257 5276	au quinzième siècle
+T106	FAC 5328 5333	leurs
+R51	Coreference Arg1:T106 Arg2:T100
+T107	PER 5328 5353	leurs heureux possesseurs
+T109	PER 5429 5448	saint Jean-Baptiste
+T110	FAC 5470 5485	rue Saint-Denis
+T111	PER 5497 5506	l’inconnu
+T112	FAC 5545 5552	ce chat
+T113	FAC 5554 5557	qu’
+R53	Coreference Arg1:T113 Arg2:T112
+T114	PER 5615 5629	Ce jeune homme
+R54	Coreference Arg1:T114 Arg2:T111
+T115	PER 5642 5645	ses
+R55	Coreference Arg1:T115 Arg2:T111
+T116	PER 5660 5663	Son
+R56	Coreference Arg1:T116 Arg2:T111
+T117	PER 5817 5819	il
+R57	Coreference Arg1:T117 Arg2:T111
+T118	PER 5884 5887	son
+R58	Coreference Arg1:T118 Arg2:T111
+T119	PER 5900 5902	Il
+R59	Coreference Arg1:T119 Arg2:T111
+T120	TIME 5952 5972	cette heure matinale
+T121	PER 5973 5975	il
+R60	Coreference Arg1:T121 Arg2:T111
+T122	PER 6029 6032	ses
+R61	Coreference Arg1:T122 Arg2:T111
+T123	PER 6072 6075	ses
+R62	Coreference Arg1:T123 Arg2:T111
+T126	TIME 6239 6272	les premières années de ce siècle
+T127	TIME 6263 6272	ce siècle
+T128	PER 6304 6332	quelques maraîchers attardés
+T129	FAC 6367 6382	la grande halle
+T130	FAC 6384 6393	cette rue
+T132	GPE 6482 6487	Paris
+T133	TIME 6498 6508	ces heures
+T134	TIME 6509 6511	où
+R63	Coreference Arg1:T134 Arg2:T133
+T135	GPE 6512 6515	son
+T136	LOC 6602 6608	la mer
+T137	PER 6610 6633	Cet étrange jeune homme
+R65	Coreference Arg1:T137 Arg2:T111
+T138	PER 6666 6700	les commerçants du Chat-qui-pelote
+T139	FAC 6682 6700	du Chat-qui-pelote
+T140	FAC 6706 6724	le Chat-qui-pelote
+R66	Coreference Arg1:T140 Arg2:T139
+T141	PER 6738 6741	lui
+R67	Coreference Arg1:T141 Arg2:T111
+T142	PER 6789 6791	sa
+R68	Coreference Arg1:T142 Arg2:T111
+T143	PER 6910 6913	ses
+R69	Coreference Arg1:T143 Arg2:T111
+T144	PER 6968 6971	son
+R70	Coreference Arg1:T144 Arg2:T111
+T145	PER 6985 6987	sa
+R71	Coreference Arg1:T145 Arg2:T111
+T146	PER 7045 7048	Son
+R72	Coreference Arg1:T146 Arg2:T111
+T148	PER 7208 7217	l’inconnu
+R74	Coreference Arg1:T148 Arg2:T111
+T149	PER 7359 7361	il
+R75	Coreference Arg1:T149 Arg2:T111
+T150	PER 7372 7375	son
+R76	Coreference Arg1:T150 Arg2:T111
+T151	PER 7405 7407	il
+R77	Coreference Arg1:T151 Arg2:T111
+T153	PER 7632 7643	Cet inconnu
+R78	Coreference Arg1:T153 Arg2:T111
+T154	PER 7730 7732	il
+R79	Coreference Arg1:T154 Arg2:T111
+T155	FAC 7879 7897	certains monuments
+T156	PER 8019 8034	le Père éternel
+T157	PER 8036 8049	Les apprentis
+T158	FAC 8080 8086	la rue
+T159	PER 8143 8147	leur
+R80	Coreference Arg1:T159 Arg2:T157
+T160	PER 8204 8229	ce singulier factionnaire
+T161	PER 8231 8240	le commis
+T162	PER 8241 8244	qui
+R81	Coreference Arg1:T162 Arg2:T161
+T165	PER 8405 8409	tous
+T166	PER 5497 5506	l’inconnu
+T167	PER 8467 8470	qu’
+R83	Coreference Arg1:T167 Arg2:T166
+T168	PER 8470 8473	ils
+R84	Coreference Arg1:T168 Arg2:T165
+T169	PER 8610 8615	leurs
+R85	Coreference Arg1:T169 Arg2:T157
+T170	PER 8646 8650	leur
+R86	Coreference Arg1:T170 Arg2:T157
+T171	PER 8686 8690	leur
+R87	Coreference Arg1:T171 Arg2:T157
+T172	PER 8686 8698	leur victime
+T173	PER 8700 8710	les commis
+R89	Coreference Arg1:T173 Arg2:T157
+T174	PER 8771 8785	le jeune homme
+R90	Coreference Arg1:T174 Arg2:T166
+T175	PER 8793 8796	son
+R91	Coreference Arg1:T175 Arg2:T166
+T176	PER 8839 8841	sa
+R92	Coreference Arg1:T176 Arg2:T166
+T177	PER 8855 8857	il
+R93	Coreference Arg1:T177 Arg2:T166
+T182	PER 9154 9164	Le passant
+R95	Coreference Arg1:T182 Arg2:T166
+T183	PER 9189 9191	sa
+R96	Coreference Arg1:T183 Arg2:T166
+T184	PER 9220 9235	une jeune fille
+T185	PER 9380 9382	sa
+R97	Coreference Arg1:T185 Arg2:T184
+T186	PER 9455 9458	son
+R98	Coreference Arg1:T186 Arg2:T184
+T187	PER 9464 9467	ses
+R99	Coreference Arg1:T187 Arg2:T184
+T188	PER 9715 9722	Raphaël
+T192	TIME 10114 10122	au matin
+T194	TIME 10163 10172	des nuits
+T195	PER 10174 10188	la jeune fille
+R102	Coreference Arg1:T195 Arg2:T184
+T197	PER 10221 10224	ses
+R103	Coreference Arg1:T197 Arg2:T184
+T199	PER 10311 10315	elle
+R105	Coreference Arg1:T199 Arg2:T184
+T200	FAC 10354 10360	la rue
+T201	FAC 10362 10364	où
+T202	PER 10400 10403	son
+R106	Coreference Arg1:T202 Arg2:T184
+T203	PER 10431 10433	la
+R107	Coreference Arg1:T203 Arg2:T184
+T204	PER 10484 10488	elle
+R108	Coreference Arg1:T204 Arg2:T184
+T207	PER 10661 10673	nos ancêtres
+T208	PER 10703 10717	ce jeune homme
+T209	TIME 10749 10757	du matin
+T210	FAC 10903 10933	la boutique du Chat-qui-pelote
+T211	FAC 10915 10933	du Chat-qui-pelote
+T212	FAC 11035 11044	la maison
+T213	PER 11049 11061	un serviteur
+T214	PER 11108 11111	qui
+R111	Coreference Arg1:T214 Arg2:T213
+T219	PER 11326 11344	monsieur Guillaume
+T220	PER 11413 11415	sa
+T221	FAC 11413 11424	sa boutique
+T222	LOC 11540 11547	l’Océan
+T223	PER 11605 11623	monsieur Guillaume
+T225	GPE 11664 11669	Paris
+T226	PER 11670 11675	celui
+T227	PER 11676 11680	dont
+T228	FAC 11681 11693	les magasins
+T229	PER 11735 11739	dont
+T230	PER 11784 11788	dont
+T232	PER 11868 11871	ses
+T233	ORG 11912 11927	le gouvernement
+T234	PER 11968 11970	il
+T235	PER 11996 12000	leur
+T236	PER 12074 12091	Le rusé négociant
+T237	PER 12186 12190	eux,
+T240	PER 12271 12284	les confrères
+T241	PER 12298 12300	le
+T242	PER 12349 12351	il
+R127	Coreference Arg1:T242 Arg2:T86
+T243	PER 12362 12365	son
+R128	Coreference Arg1:T243 Arg2:T86
+T244	PER 12362 12373	son notaire
+R129	Coreference Arg1:T244 Arg2:T208
+T247	PER 12509 12545	aux négociants de la rue Saint-Denis
+T248	FAC 12527 12545	la rue Saint-Denis
+T250	PER 12566 12598	du notaire de monsieur Guillaume
+T251	PER 12580 12598	monsieur Guillaume
+R132	Coreference Arg1:T251 Arg2:T86
+T252	PER 12636 12654	Le vieux négociant
+R133	Coreference Arg1:T252 Arg2:T86
+T253	PER 12707 12709	sa
+R134	Coreference Arg1:T253 Arg2:T86
+T254	FAC 12707 12718	sa boutique
+R135	Coreference Arg1:T254 Arg2:T221
+T255	PER 12733 12746	le domestique
+T256	PER 12758 12776	Monsieur Guillaume
+R137	Coreference Arg1:T256 Arg2:T86
+T257	FAC 12785 12803	la rue Saint-Denis
+R138	Coreference Arg1:T257 Arg2:T248
+T258	FAC 12805 12827	les boutiques voisines
+T261	GPE 12869 12877	au Havre
+T263	GPE 12888 12897	la France
+T264	PER 12967 12970	son
+R141	Coreference Arg1:T264 Arg2:T86
+T265	PER 12980 12982	il
+R142	Coreference Arg1:T265 Arg2:T86
+T267	PER 13019 13022	qui
+T268	PER 13026 13029	son
+T269	PER 13047 13075	le patriarche de la draperie
+R145	Coreference Arg1:T269 Arg2:T86
+T270	PER 13083 13091	Humboldt
+T271	PER 13138 13140	il
+R146	Coreference Arg1:T271 Arg2:T270
+T272	GPE 13148 13156	Amérique
+T273	PER 13158 13176	Monsieur Guillaume
+R147	Coreference Arg1:T273 Arg2:T86
+T274	PER 13280 13283	Son
+R148	Coreference Arg1:T274 Arg2:T86
+T275	PER 13352 13355	son
+R149	Coreference Arg1:T275 Arg2:T86
+T276	PER 13462 13465	Ses
+R150	Coreference Arg1:T276 Arg2:T86
+T277	PER 13524 13527	son
+R151	Coreference Arg1:T277 Arg2:T86
+T278	PER 13548 13550	le
+R152	Coreference Arg1:T278 Arg2:T86
+T280	PER 13593 13596	Ses
+R153	Coreference Arg1:T280 Arg2:T86
+T281	PER 13759 13762	son
+R154	Coreference Arg1:T281 Arg2:T86
+T282	PER 13825 13828	son
+R155	Coreference Arg1:T282 Arg2:T86
+T283	TIME 13963 13975	cette époque
+T284	TIME 14004 14015	aujourd’hui
+T288	PER 14250 14256	Cuvier
+T289	LOC 14262 14275	les carrières
+T290	PER 14277 14308	Le chef de la famille Guillaume
+T291	PER 14288 14308	la famille Guillaume
+T294	PER 14367 14369	le
+R158	Coreference Arg1:T294 Arg2:T290
+T295	ORG 14394 14417	le Prévôt des Marchands
+T296	PER 14429 14431	il
+R159	Coreference Arg1:T296 Arg2:T290
+T297	ORG 14457 14480	du tribunal de commerce
+T298	PER 14508 14519	des consuls
+T300	PER 14577 14579	sa
+R160	Coreference Arg1:T300 Arg2:T290
+T301	PER 14587 14589	il
+R161	Coreference Arg1:T301 Arg2:T290
+T302	PER 14627 14630	ses
+R162	Coreference Arg1:T302 Arg2:T290
+T303	PER 14627 14643	ses trois commis
+T304	PER 14650 14653	les
+T305	PER 14627 14643	ses trois commis
+T306	PER 14707 14714	Mercure
+T307	PER 14797 14806	le patron
+R164	Coreference Arg1:T307 Arg2:T290
+T308	PER 14816 14821	leurs
+R165	Coreference Arg1:T308 Arg2:T305
+T309	PER 14833 14838	leurs
+R166	Coreference Arg1:T309 Arg2:T305
+T310	TIME 14851 14865	le lundi matin
+T311	PER 14913 14918	leurs
+R167	Coreference Arg1:T311 Arg2:T305
+T312	PER 14950 14966	le vieux drapier
+R168	Coreference Arg1:T312 Arg2:T290
+T313	PER 14993 14996	ses
+R169	Coreference Arg1:T313 Arg2:T290
+T314	PER 14993 15006	ses apprentis
+R170	Coreference Arg1:T314 Arg2:T305
+T315	PER 15008 15010	il
+R171	Coreference Arg1:T315 Arg2:T290
+T316	PER 15076 15119	le jeune homme en bas de soie et en manteau
+T317	PER 15157 15160	son
+R172	Coreference Arg1:T317 Arg2:T290
+T319	PER 15196 15199	son
+R173	Coreference Arg1:T319 Arg2:T290
+T321	FAC 15253 15254	y
+T324	FAC 15381 15390	la maison
+T325	PER 15392 15416	Le trop curieux étranger
+R175	Coreference Arg1:T325 Arg2:T316
+T331	PER 15559 15576	la famille réunie
+T332	PER 15609 15612	ses
+R180	Coreference Arg1:T332 Arg2:T291
+T333	FAC 15684 15695	la boutique
+R181	Coreference Arg1:T333 Arg2:T318
+T334	PER 15720 15723	son
+R182	Coreference Arg1:T334 Arg2:T290
+T335	FAC 15720 15729	son logis
+R183	Coreference Arg1:T335 Arg2:T5
+T336	PER 14277 14308	Le chef de la famille Guillaume
+T337	PER 15764 15767	qui
+T338	PER 15801 15819	Monsieur Guillaume
+R185	Coreference Arg1:T338 Arg2:T290
+T340	FAC 15902 15920	du Chat-qui-pelote
+T341	PER 15986 15989	son
+T342	PER 15986 15996	son patron
+R188	Coreference Arg1:T342 Arg2:T290
+T343	PER 16000 16009	l’inconnu
+R189	Coreference Arg1:T343 Arg2:T316
+T344	PER 16011 16033	le plus âgé des commis
+T345	PER 16023 16033	des commis
+T346	PER 16077 16095	monsieur Guillaume
+R190	Coreference Arg1:T346 Arg2:T290
+T347	PER 16107 16121	le jeune homme
+R191	Coreference Arg1:T347 Arg2:T316
+T349	PER 16173 16175	Il
+R192	Coreference Arg1:T349 Arg2:T344
+T350	FAC 16194 16200	la rue
+T353	PER 16237 16269	mademoiselle Augustine Guillaume
+T354	PER 16270 16273	qui
+R195	Coreference Arg1:T354 Arg2:T353
+T355	PER 16338 16341	son
+R196	Coreference Arg1:T355 Arg2:T336
+T356	PER 16338 16356	son premier commis
+R197	Coreference Arg1:T356 Arg2:T344
+T357	PER 16358 16368	le drapier
+R198	Coreference Arg1:T357 Arg2:T336
+T358	PER 16369 16372	lui
+R199	Coreference Arg1:T358 Arg2:T344
+T359	PER 16461 16471	ce passant
+R200	Coreference Arg1:T359 Arg2:T316
+T360	PER 16492 16503	du marchand
+R201	Coreference Arg1:T360 Arg2:T336
+T361	PER 16492 16527	du marchand et de l’amoureux commis
+T362	PER 16510 16527	l’amoureux commis
+R203	Coreference Arg1:T362 Arg2:T344
+T363	PER 16542 16551	L’inconnu
+R204	Coreference Arg1:T363 Arg2:T316
+T364	VEH 16557 16566	un fiacre
+T365	VEH 16567 16570	qui
+R205	Coreference Arg1:T365 Arg2:T364
+T366	FAC 16584 16601	une place voisine
+T367	FAC 16606 16607	y
+T369	PER 16710 16727	des autres commis
+T370	PER 16757 16788	la victime de leur plaisanterie
+R209	Coreference Arg1:T370 Arg2:T316
+T371	PER 16771 16775	leur
+R210	Coreference Arg1:T371 Arg2:T345
+T372	PER 16802 16811	messieurs
+R211	Coreference Arg1:T372 Arg2:T345
+T373	PER 16821 16825	vous
+R212	Coreference Arg1:T373 Arg2:T345
+T374	PER 16867 16885	monsieur Guillaume
+R213	Coreference Arg1:T374 Arg2:T290
+T375	PER 16888 16891	ses
+R214	Coreference Arg1:T375 Arg2:T290
+T376	PER 16888 16907	ses trois néophytes
+R215	Coreference Arg1:T376 Arg2:T345
+T377	PER 16943 16945	j’
+R216	Coreference Arg1:T377 Arg2:T290
+T378	PER 16956 16972	le sieur Chevrel
+T379	PER 16974 16976	j’
+R217	Coreference Arg1:T379 Arg2:T290
+T381	PER 17071 17087	le second commis
+T382	PER 17088 17091	que
+R218	Coreference Arg1:T382 Arg2:T381
+T383	PER 17117 17135	Le vieux négociant
+R219	Coreference Arg1:T383 Arg2:T290
+T384	PER 17174 17203	deux de ces trois jeunes gens
+T385	PER 16023 16033	des commis
+T386	PER 17215 17218	ses
+R220	Coreference Arg1:T386 Arg2:T290
+T387	PER 17229 17234	leurs
+R221	Coreference Arg1:T387 Arg2:T385
+T388	PER 17229 17240	leurs pères
+T389	GPE 17267 17275	Louviers
+T390	GPE 17267 17287	Louviers et de Sedan
+T391	GPE 17282 17287	Sedan
+T393	PER 17358 17361	ils
+R225	Coreference Arg1:T393 Arg2:T303
+T394	PER 17392 17401	Guillaume
+R226	Coreference Arg1:T394 Arg2:T290
+T395	PER 17413 17416	son
+R227	Coreference Arg1:T395 Arg2:T290
+T396	PER 17427 17430	les
+R228	Coreference Arg1:T396 Arg2:T385
+T397	PER 17487 17490	nos
+T398	FAC 17502 17533	les brillants magasins modernes
+T399	FAC 17534 17538	dont
+R229	Coreference Arg1:T399 Arg2:T398
+T400	PER 17539 17549	les commis
+T402	PER 17585 17587	il
+R230	Coreference Arg1:T402 Arg2:T290
+T403	PER 17588 17591	les
+R231	Coreference Arg1:T403 Arg2:T385
+T405	PER 17631 17640	eux trois
+R232	Coreference Arg1:T405 Arg2:T385
+T406	PER 17642 17652	ces commis
+T408	PER 17715 17727	ces employés
+T409	PER 17728 17732	dont
+R234	Coreference Arg1:T409 Arg2:T408
+T410	FAC 17826 17849	cette maison solennelle
+T411	FAC 17851 17853	où
+R235	Coreference Arg1:T411 Arg2:T410
+T412	FAC 17895 17899	dont
+R236	Coreference Arg1:T412 Arg2:T410
+T413	PER 18006 18033	le plus espiègle des commis
+T414	PER 18023 18033	des commis
+T415	PER 18089 18093	leur
+T416	PER 18125 18128	ils
+R239	Coreference Arg1:T416 Arg2:T385
+T418	PER 18260 18302	la plus jeune des deux filles de Guillaume
+T419	PER 18293 18302	Guillaume
+R240	Coreference Arg1:T419 Arg2:T290
+T420	PER 18320 18323	qui
+R241	Coreference Arg1:T420 Arg2:T418
+T421	PER 18344 18363	au passant enchanté
+T422	PER 18373 18393	chacun des apprentis
+T424	PER 18380 18393	des apprentis
+T425	PER 18403 18417	le plus ancien
+T426	PER 18452 18455	eux
+R244	Coreference Arg1:T426 Arg2:T385
+T427	PER 18501 18510	du patron
+R245	Coreference Arg1:T427 Arg2:T290
+T428	PER 18558 18574	madame Guillaume
+T429	PER 18607 18630	ces pauvres jeunes gens
+T430	PER 18678 18680	sa
+R246	Coreference Arg1:T430 Arg2:T428
+T431	PER 18743 18746	ils
+R247	Coreference Arg1:T431 Arg2:T385
+T433	TIME 18874 18882	dimanche
+T434	PER 18903 18914	deux commis
+T435	PER 18930 18950	la famille Guillaume
+T436	FAC 18965 18974	Saint-Leu
+T437	PER 19005 19013	Virginie
+T438	PER 18990 19026	Mesdemoiselles Virginie et Augustine
+T439	PER 19017 19026	Augustine
+T440	PER 19069 19076	chacune
+R249	Coreference Arg1:T440 Arg2:T438
+T441	PER 19087 19096	un commis
+T443	PER 19147 19151	leur
+R251	Coreference Arg1:T443 Arg2:T438
+T444	PER 19147 19156	leur mère
+R252	Coreference Arg1:T444 Arg2:T428
+T445	PER 19158 19161	qui
+T446	PER 19203 19206	son
+R253	Coreference Arg1:T446 Arg2:T444
+T448	PER 19226 19230	elle
+R255	Coreference Arg1:T448 Arg2:T444
+T450	PER 19287 19303	Le second commis
+T451	PER 19341 19346	celui
+T452	PER 19347 19350	que
+R256	Coreference Arg1:T452 Arg2:T451
+T454	FAC 19421 19430	la maison
+T455	PER 19432 19434	il
+R257	Coreference Arg1:T455 Arg2:T451
+T456	PER 19479 19482	ses
+R258	Coreference Arg1:T456 Arg2:T451
+T458	PER 19522 19524	il
+R260	Coreference Arg1:T458 Arg2:T451
+T459	PER 19595 19611	madame Guillaume
+R261	Coreference Arg1:T459 Arg2:T444
+T460	PER 19660 19664	elle
+R262	Coreference Arg1:T460 Arg2:T444
+T462	PER 19844 19863	ce premier ministre
+T463	PER 19903 19913	la famille
+T464	PER 19925 19929	elle
+R263	Coreference Arg1:T464 Arg2:T291
+T465	LOC 19939 19950	la campagne
+T467	PER 19988 19992	elle
+R264	Coreference Arg1:T467 Arg2:T291
+T468	PER 20015 20018	son
+R265	Coreference Arg1:T468 Arg2:T291
+T472	GPE 20078 20083	Paris
+T473	PER 20107 20130	aux trois autres commis
+T477	PER 20241 20244	eux
+R269	Coreference Arg1:T477 Arg2:T473
+T478	PER 20241 20266	eux et le vieux négociant
+T479	PER 20248 20266	le vieux négociant
+T480	PER 20274 20278	leur
+R271	Coreference Arg1:T480 Arg2:T473
+T481	FAC 20423 20443	ces vieilles maisons
+T511	PER 21170 21179	Guillaume
+T514	PER 21218 21220	il
+R291	Coreference Arg1:T514 Arg2:T290
+T515	PER 21245 21247	il
+R292	Coreference Arg1:T515 Arg2:T336
+T516	PER 21285 21297	Joseph Lebas
+T517	PER 21299 21302	son
+R293	Coreference Arg1:T517 Arg2:T336
+T519	PER 21351 21353	il
+R295	Coreference Arg1:T519 Arg2:T516
+T520	PER 21360 21363	son
+R296	Coreference Arg1:T520 Arg2:T511
+T523	PER 21397 21399	sa
+R297	Coreference Arg1:T523 Arg2:T511
+T525	PER 21418 21424	Joseph
+R299	Coreference Arg1:T525 Arg2:T516
+T526	PER 21472 21475	son
+R300	Coreference Arg1:T526 Arg2:T516
+T527	PER 21472 21482	son patron
+R301	Coreference Arg1:T527 Arg2:T511
+T528	PER 21484 21487	qui
+R302	Coreference Arg1:T528 Arg2:T511
+T529	PER 21524 21526	sa
+R303	Coreference Arg1:T529 Arg2:T511
+T530	PER 21524 21540	sa seconde fille
+R304	Coreference Arg1:T530 Arg2:T353
+T531	PER 21547 21558	la première
+T532	PER 21560 21578	L’infortuné commis
+R305	Coreference Arg1:T532 Arg2:T516
+T533	PER 21620 21642	mademoiselle Augustine
+T534	FAC 21814 21849	la maison du vieux marchand drapier
+T535	PER 21824 21849	du vieux marchand drapier
+R307	Coreference Arg1:T535 Arg2:T511
+T536	PER 21852 21861	Guillaume
+R308	Coreference Arg1:T536 Arg2:T511
+T537	PER 21868 21879	deux filles
+T538	PER 21890 21911	mademoiselle Virginie
+T539	PER 21940 21942	sa
+R309	Coreference Arg1:T539 Arg2:T538
+T540	PER 21940 21947	sa mère
+R310	Coreference Arg1:T540 Arg2:T444
+T541	PER 21949 21965	Madame Guillaume
+T542	PER 21973 21989	du sieur Chevrel
+T543	PER 22031 22034	son
+R311	Coreference Arg1:T543 Arg2:T541
+T544	PER 22065 22069	elle
+R312	Coreference Arg1:T544 Arg2:T541
+T545	PER 22084 22097	des plaisants
+T546	PER 22108 22112	elle
+R313	Coreference Arg1:T546 Arg2:T541
+T547	PER 22130 22132	Sa
+R314	Coreference Arg1:T547 Arg2:T541
+T548	PER 22228 22244	madame Guillaume
+R315	Coreference Arg1:T548 Arg2:T541
+T549	PER 22267 22269	sa
+R316	Coreference Arg1:T549 Arg2:T541
+T551	PER 22382 22399	Tout le voisinage
+T552	PER 22400 22402	l’
+R317	Coreference Arg1:T552 Arg2:T541
+T554	PER 22429 22431	Sa
+R318	Coreference Arg1:T554 Arg2:T541
+T555	PER 22455 22458	ses
+R319	Coreference Arg1:T555 Arg2:T541
+T556	PER 22529 22532	Son
+R320	Coreference Arg1:T556 Arg2:T541
+T558	PER 22612 22616	elle
+R321	Coreference Arg1:T558 Arg2:T541
+T559	PER 22630 22651	Mademoiselle Virginie
+R322	Coreference Arg1:T559 Arg2:T538
+T560	PER 22666 22668	sa
+R323	Coreference Arg1:T560 Arg2:T538
+T561	PER 22666 22679	sa jeune sœur
+T562	PER 22709 22718	leur mère
+T564	PER 22803 22805	sa
+R325	Coreference Arg1:T564 Arg2:T538
+T565	PER 22824 22826	sa
+R326	Coreference Arg1:T565 Arg2:T538
+T566	PER 22824 22831	sa mère
+R327	Coreference Arg1:T566 Arg2:T541
+T567	PER 22850 22852	sa
+R328	Coreference Arg1:T567 Arg2:T538
+T568	PER 22889 22891	l’
+R329	Coreference Arg1:T568 Arg2:T538
+T569	PER 22965 22969	elle
+R330	Coreference Arg1:T569 Arg2:T538
+T570	PER 22995 23017	Mademoiselle Augustine
+T572	PER 23069 23072	son
+R331	Coreference Arg1:T572 Arg2:T570
+T573	PER 23069 23077	son père
+R332	Coreference Arg1:T573 Arg2:T536
+T574	PER 23083 23085	sa
+R333	Coreference Arg1:T574 Arg2:T570
+T575	PER 23092 23096	Elle
+R334	Coreference Arg1:T575 Arg2:T570
+T581	PER 23213 23217	Dieu
+T583	PER 23237 23246	Augustine
+R338	Coreference Arg1:T583 Arg2:T570
+T584	PER 23270 23272	la
+R339	Coreference Arg1:T584 Arg2:T570
+T587	PER 23372 23396	cette charmante créature
+R340	Coreference Arg1:T587 Arg2:T570
+T588	PER 23477 23479	Sa
+R341	Coreference Arg1:T588 Arg2:T570
+T589	PER 23564 23644	toutes les jeunes filles trop faibles pour oser résister aux volontés d’une mère
+T591	PER 23675 23689	les deux sœurs
+T593	PER 23781 23785	leur
+R342	Coreference Arg1:T593 Arg2:T591
+T594	PER 23808 23811	les
+R343	Coreference Arg1:T594 Arg2:T591
+T595	PER 23890 23909	le vieux domestique
+T596	PER 24011 24016	elles
+R344	Coreference Arg1:T596 Arg2:T591
+T597	PER 24031 24035	leur
+R345	Coreference Arg1:T597 Arg2:T591
+T598	PER 24111 24120	Augustine
+R346	Coreference Arg1:T598 Arg2:T570
+T599	PER 24111 24132	Augustine et Virginie
+R347	Coreference Arg1:T599 Arg2:T591
+T600	PER 24124 24132	Virginie
+T601	PER 24183 24187	leur
+R348	Coreference Arg1:T601 Arg2:T591
+T602	PER 24183 24192	leur mère
+R349	Coreference Arg1:T602 Arg2:T541
+T603	PER 24194 24197	qui
+T604	PER 24259 24262	ses
+R350	Coreference Arg1:T604 Arg2:T603
+T605	PER 24259 24274	ses deux filles
+R351	Coreference Arg1:T605 Arg2:T591
+T606	PER 24333 24338	elles
+R352	Coreference Arg1:T606 Arg2:T591
+T607	GPE 24558 24564	France
+T608	PER 24626 24630	leur
+R353	Coreference Arg1:T608 Arg2:T591
+T609	PER 24649 24653	leur
+R354	Coreference Arg1:T609 Arg2:T591
+T610	PER 24649 24658	leur mère
+R355	Coreference Arg1:T610 Arg2:T602
+T611	PER 24660 24665	leurs
+R356	Coreference Arg1:T611 Arg2:T591
+T612	PER 24712 24717	elles
+R357	Coreference Arg1:T612 Arg2:T591
+T614	PER 24757 24762	elles
+R358	Coreference Arg1:T614 Arg2:T591
+T615	PER 24797 24802	elles
+R359	Coreference Arg1:T615 Arg2:T591
+T616	PER 24869 24874	elles
+R360	Coreference Arg1:T616 Arg2:T591
+T619	PER 24970 24974	leur
+R362	Coreference Arg1:T619 Arg2:T591
+T620	PER 24970 24979	leur père
+R363	Coreference Arg1:T620 Arg2:T511
+T621	PER 24981 24986	elles
+R364	Coreference Arg1:T621 Arg2:T591
+T622	PER 25055 25059	leur
+R365	Coreference Arg1:T622 Arg2:T591
+T623	PER 25055 25064	leur mère
+R366	Coreference Arg1:T623 Arg2:T602
+T624	PER 25076 25080	leur
+R367	Coreference Arg1:T624 Arg2:T591
+T626	PER 25110 25115	elles
+R368	Coreference Arg1:T626 Arg2:T591
+T630	LOC 25230 25238	du monde
+T631	PER 25289 25294	leurs
+R371	Coreference Arg1:T631 Arg2:T591
+T632	PER 25289 25302	leurs parents
+T633	PER 25304 25309	elles
+R373	Coreference Arg1:T633 Arg2:T591
+T634	PER 25340 25345	leurs
+R374	Coreference Arg1:T634 Arg2:T591
+T636	FAC 25379 25412	cette vieille maison patrimoniale
+T637	FAC 25413 25416	qui
+R375	Coreference Arg1:T637 Arg2:T636
+T638	PER 25423 25427	leur
+R376	Coreference Arg1:T638 Arg2:T591
+T639	PER 25423 25432	leur mère
+R377	Coreference Arg1:T639 Arg2:T602
+T642	PER 25534 25539	leurs
+R378	Coreference Arg1:T642 Arg2:T591
+T644	PER 25617 25630	madame Roguin
+T648	PER 25685 25687	sa
+R380	Coreference Arg1:T648 Arg2:T644
+T649	PER 25685 25695	sa cousine
+T650	PER 25699 25702	qui
+R382	Coreference Arg1:T650 Arg2:T644
+T651	PER 25726 25744	le jeune Rabourdin
+T652	PER 25771 25795	monsieur César Birotteau
+T653	PER 25817 25819	sa
+R383	Coreference Arg1:T653 Arg2:T652
+T656	PER 25849 25865	monsieur Camusot
+T658	FAC 25906 25928	la rue des Bourdonnais
+T659	PER 25932 25935	son
+R386	Coreference Arg1:T659 Arg2:T656
+T660	PER 25932 25945	son beau-père
+T661	PER 25964 25993	deux ou trois vieux banquiers
+T662	PER 25998 26023	des femmes irréprochables
+T663	PER 26198 26214	ces trois femmes
+T664	PER 26215 26218	qui
+R388	Coreference Arg1:T664 Arg2:T663
+T668	TIME 26341 26348	le soir
+T669	PER 26360 26372	toutes trois
+R391	Coreference Arg1:T669 Arg2:T663
+T670	PER 26445 26467	les deux jeunes filles
+R392	Coreference Arg1:T670 Arg2:T591
+T671	PER 26477 26481	leur
+R393	Coreference Arg1:T671 Arg2:T591
+T672	PER 26477 26486	leur mère
+R394	Coreference Arg1:T672 Arg2:T602
+T673	PER 26501 26517	madame Guillaume
+T674	PER 26518 26522	leur
+R395	Coreference Arg1:T674 Arg2:T591
+T675	PER 26534 26538	Nous
+R396	Coreference Arg1:T675 Arg2:T663
+T676	PER 26570 26573	mes
+R397	Coreference Arg1:T676 Arg2:T673
+T677	PER 26570 26581	mes enfants
+R398	Coreference Arg1:T677 Arg2:T591
+T682	PER 26897 26906	Guillaume
+T683	PER 26914 26917	ses
+R401	Coreference Arg1:T683 Arg2:T682
+T684	PER 26914 26924	ses filles
+R402	Coreference Arg1:T684 Arg2:T591
+T685	TIME 26927 26947	l’époque du carnaval
+T687	PER 26973 26990	l’honnête drapier
+T688	PER 27022 27024	il
+R403	Coreference Arg1:T688 Arg2:T682
+T689	PER 27083 27105	les personnes invitées
+T690	PER 27107 27112	elles
+R404	Coreference Arg1:T690 Arg2:T689
+T691	FAC 27150 27196	les maisons les plus considérables de la place
+T692	LOC 27188 27196	la place
+T693	PER 27276 27294	monsieur Guillaume
+R405	Coreference Arg1:T693 Arg2:T682
+T694	PER 27301 27338	les deux filles de ce digne négociant
+T695	PER 27320 27338	ce digne négociant
+R406	Coreference Arg1:T695 Arg2:T682
+T698	PER 27447 27452	Elles
+R407	Coreference Arg1:T698 Arg2:T694
+T699	FAC 27534 27543	la maison
+T700	PER 27577 27580	les
+R408	Coreference Arg1:T700 Arg2:T694
+T701	PER 27597 27601	Leur
+R409	Coreference Arg1:T701 Arg2:T694
+T702	PER 27682 27686	leur
+R410	Coreference Arg1:T702 Arg2:T694
+T703	PER 27764 27769	leurs
+R411	Coreference Arg1:T703 Arg2:T694
+T704	PER 27764 27779	leurs cavaliers
+T705	PER 27835 27839	leur
+R413	Coreference Arg1:T705 Arg2:T694
+T706	TIME 27868 27879	onze heures
+T709	PER 27942 27947	leurs
+R416	Coreference Arg1:T709 Arg2:T694
+T710	PER 28003 28007	leur
+R417	Coreference Arg1:T710 Arg2:T694
+T711	PER 28003 28012	leur père
+R418	Coreference Arg1:T711 Arg2:T682
+T712	PER 28112 28125	cette famille
+T713	PER 28135 28139	leur
+R419	Coreference Arg1:T713 Arg2:T694
+T715	PER 28202 28218	Madame Guillaume
+T716	PER 28232 28235	ses
+R420	Coreference Arg1:T716 Arg2:T715
+T717	PER 28232 28247	ses deux filles
+R421	Coreference Arg1:T717 Arg2:T694
+T718	TIME 28269 28280	grand matin
+T719	PER 28285 28290	elles
+R422	Coreference Arg1:T719 Arg2:T694
+T723	PER 28351 28356	leurs
+R424	Coreference Arg1:T723 Arg2:T694
+T724	PER 28408 28417	Augustine
+T725	PER 28508 28511	ses
+R425	Coreference Arg1:T725 Arg2:T724
+T727	FAC 28604 28624	ces magasins humides
+T729	PER 28667 28671	elle
+R426	Coreference Arg1:T729 Arg2:T724
+T730	PER 28819 28822	son
+R427	Coreference Arg1:T730 Arg2:T724
+T731	PER 28843 28846	ses
+R428	Coreference Arg1:T731 Arg2:T724
+T732	PER 28945 28947	sa
+R429	Coreference Arg1:T732 Arg2:T724
+T733	PER 28945 28952	sa mère
+R430	Coreference Arg1:T733 Arg2:T715
+T734	PER 28953 28956	lui
+R431	Coreference Arg1:T734 Arg2:T724
+T735	PER 29039 29049	Augustine 
+R432	Coreference Arg1:T735 Arg2:T724
+T736	PER 29065 29069	vous
+R433	Coreference Arg1:T736 Arg2:T724
+T737	PER 29076 29079	mon
+T742	PER 29175 29184	Augustine
+R436	Coreference Arg1:T742 Arg2:T724
+T745	PER 29240 29256	madame Guillaume
+T746	PER 29302 29319	cette jeune fille
+R438	Coreference Arg1:T746 Arg2:T724
+T747	PER 29320 29323	qui
+R439	Coreference Arg1:T747 Arg2:T724
+T748	TIME 29362 29400	les longues nuits de l’hiver précédent
+T749	TIME 29383 29400	l’hiver précédent
+T750	PER 29487 29496	Augustine
+R440	Coreference Arg1:T750 Arg2:T724
+T751	PER 29528 29543	du pauvre Lebas
+T752	PER 29620 29629	Augustine
+R441	Coreference Arg1:T752 Arg2:T724
+T753	PER 29660 29670	l’orphelin
+T754	PER 29702 29706	elle
+R442	Coreference Arg1:T754 Arg2:T724
+T755	PER 29734 29737	lui
+R443	Coreference Arg1:T755 Arg2:T753
+T756	PER 1895 1898	ses
+R11	Coreference Arg1:T32 Arg2:T756	
+R14	Coreference Arg1:T98 Arg2:T96	
+R22	Coreference Arg1:T111 Arg2:T19	
+R36	Coreference Arg1:T112 Arg2:T62	
+T30	FAC 2855 2866	le quartier
+T39	PER 3526 3547	des peintres modernes
+T59	PER 4210 4235	des chats de nos ancêtres
+T72	FAC 5091 5108	la Truie-qui-file
+T83	FAC 5110 5123	le Singe-vert
+T758	FAC 5358 5372	les Providence
+T759	FAC 5374 5387	les Bonne-foi
+T760	FAC 5389 5406	les Grâce-de-Dieu
+T761	FAC 5410 5448	les Décollation de saint Jean-Baptiste
+T84	FAC 5358 5448	les Providence, les Bonne-foi, les Grâce-de-Dieu et les Décollation de saint Jean-Baptiste
+T124	ORG 6151 6167	l’École de David
+R40	Coreference Arg1:T201 Arg2:T200	
+T196	TIME 10807 10836	Pendant ces petits événements
+T215	PER 11633 11669	tous les marchands drapiers de Paris
+T216	PER 11868 11882	ses  confrères
+T246	PER 12550 12554	Dieu
+T266	PER 12997 13007	le passant
+T299	TIME 14936 14948	en ce moment
+T318	FAC 15196 15207	son magasin
+R42	Coreference Arg1:T367 Arg2:T364	
+T322	TIME 17484 17496	de nos jours
+T323	TIME 17754 17765	aujourd’hui
+T326	TIME 20404 20415	aujourd’hui
+T327	TIME 18106 18117	au déjeuner
+T329	PER 18278 18302	deux filles de Guillaume
+T339	TIME 18511 18548	au moment où le dessert y était servi
+T351	PER 19203 19211	son mari
+T352	TIME 19351 19360	douze ans
+T449	PER 21388 21396	Virginie
+T457	PER 23083 23090	sa mère
+T469	PER 24598 24609	les auteurs
+T470	PER 24610 24614	dont
+R46	Coreference Arg1:T470 Arg2:T469	
+T491	GPE 26102 26106	Saxe
+T503	FAC 27816 27834	du Chat-qui-pelote
+T1	FAC 1097 1104	grenier
+R29	Coreference Arg1:T58 Arg2:T57	
+R12	Coreference Arg1:T78 Arg2:T62	
+T3	FAC 4277 4287	du tableau
+R41	Coreference Arg1:T3 Arg2:T62	
+T31	PER 6114 6123	Caracalla
+R48	Coreference Arg1:T135 Arg2:T132	
+T36	ORG 7853 7864	du Commerce
+T33	FAC 8143 8155	leur grenier
+R39	Coreference Arg1:T160 Arg2:T111	
+T48	PER 8460 8466	badaud
+R52	Coreference Arg1:T48 Arg2:T111	
+T53	FAC 8646 8658	leur grenier
+R64	Coreference Arg1:T165 Arg2:T157	
+R73	Coreference Arg1:T172 Arg2:T166	
+T49	LOC 10269 10276	le ciel
+T61	PER 10400 10413	son adorateur
+R82	Coreference Arg1:T61 Arg2:T111	
+R88	Coreference Arg1:T208 Arg2:T111	
+T86	PER 11216 11225	Guillaume
+T87	PER 11227 11248	successeur de Chevrel
+R94	Coreference Arg1:T87 Arg2:T86	
+R104	Coreference Arg1:T219 Arg2:T86	
+R109	Coreference Arg1:T220 Arg2:T86	
+R110	Coreference Arg1:T223 Arg2:T86	
+R112	Coreference Arg1:T226 Arg2:T86	
+R113	Coreference Arg1:T227 Arg2:T86	
+R114	Coreference Arg1:T229 Arg2:T86	
+R115	Coreference Arg1:T230 Arg2:T86	
+R116	Coreference Arg1:T232 Arg2:T86	
+R117	Coreference Arg1:T234 Arg2:T86	
+R118	Coreference Arg1:T236 Arg2:T86	
+R121	Coreference Arg1:T240 Arg2:T12	
+R123	Coreference Arg1:T241 Arg2:T86	
+R124	Coreference Arg1:T250 Arg2:T244	
+T88	TIME 12720 12756	au moment où le domestique se retira
+R125	Coreference Arg1:T266 Arg2:T208	
+R126	Coreference Arg1:T267 Arg2:T208	
+R130	Coreference Arg1:T268 Arg2:T208	
+R136	Coreference Arg1:T290 Arg2:T86	
+R139	Coreference Arg1:T304 Arg2:T303	
+T164	PER 14683 14714	Ces jeunes disciples de Mercure
+R140	Coreference Arg1:T164 Arg2:T305	
+R143	Coreference Arg1:T316 Arg2:T208	
+R144	Coreference Arg1:T321 Arg2:T318	
+R163	Coreference Arg1:T324 Arg2:T5	
+R174	Coreference Arg1:T331 Arg2:T291	
+T178	X 15779 15799	le régime du Maximum
+T179	PER 15751 15763	un négociant
+R177	Coreference Arg1:T179 Arg2:T336	
+R176	Coreference Arg1:T337 Arg2:T179	
+R178	Coreference Arg1:T341 Arg2:T344	
+R179	Coreference Arg1:T345 Arg2:T303	
+T181	PER 17182 17203	ces trois jeunes gens
+R186	Coreference Arg1:T181 Arg2:T303	
+R187	Coreference Arg1:T410 Arg2:T5	
+T189	GPE 18075 18082	Gruyère
+R193	Coreference Arg1:T421 Arg2:T316	
+R194	Coreference Arg1:T418 Arg2:T353	
+R202	Coreference Arg1:T424 Arg2:T345	
+R206	Coreference Arg1:T425 Arg2:T344	
+R207	Coreference Arg1:T429 Arg2:T345	
+R184	Coreference Arg1:T435 Arg2:T291	
+R208	Coreference Arg1:T439 Arg2:T353	
+R222	Coreference Arg1:T445 Arg2:T444	
+R223	Coreference Arg1:T351 Arg2:T336	
+R224	Coreference Arg1:T450 Arg2:T381	
+R242	Coreference Arg1:T451 Arg2:T344	
+R243	Coreference Arg1:T454 Arg2:T5	
+R248	Coreference Arg1:T462 Arg2:T451	
+R250	Coreference Arg1:T463 Arg2:T291	
+R254	Coreference Arg1:T479 Arg2:T290	
+R270	Coreference Arg1:T511 Arg2:T336	
+R280	Coreference Arg1:T516 Arg2:T344	
+R283	Coreference Arg1:T531 Arg2:T437	
+R284	Coreference Arg1:T533 Arg2:T439	
+R286	Coreference Arg1:T534 Arg2:T5	
+R294	Coreference Arg1:T537 Arg2:T438	
+R298	Coreference Arg1:T538 Arg2:T437	
+R306	Coreference Arg1:T541 Arg2:T540	
+R361	Coreference Arg1:T542 Arg2:T85	
+T217	PER 21967 21989	fille du sieur Chevrel
+R379	Coreference Arg1:T217 Arg2:T541	
+R324	Coreference Arg1:T561 Arg2:T439	
+R400	Coreference Arg1:T562 Arg2:T541	
+T218	PER 22709 22713	leur
+R435	Coreference Arg1:T218 Arg2:T438	
+R437	Coreference Arg1:T570 Arg2:T439	
+R444	Coreference Arg1:T457 Arg2:T541	
+R337	Coreference Arg1:T591 Arg2:T438	
+R445	Coreference Arg1:T600 Arg2:T559	
+R446	Coreference Arg1:T603 Arg2:T602	
+R369	Coreference Arg1:T636 Arg2:T5	
+R372	Coreference Arg1:T649 Arg2:T559	
+T245	ORG 25756 25768	aux Finances
+T259	PER 25817 25825	sa femme
+R381	Coreference Arg1:T673 Arg2:T672	
+R384	Coreference Arg1:T682 Arg2:T620	
+R387	Coreference Arg1:T687 Arg2:T682	
+R389	Coreference Arg1:T694 Arg2:T684	
+R390	Coreference Arg1:T699 Arg2:T5	
+R412	Coreference Arg1:T503 Arg2:T340	
+R414	Coreference Arg1:T712 Arg2:T291	
+R415	Coreference Arg1:T715 Arg2:T639	
+R423	Coreference Arg1:T724 Arg2:T598	
+R434	Coreference Arg1:T737 Arg2:T715	
+R447	Coreference Arg1:T745 Arg2:T715	
+R448	Coreference Arg1:T751 Arg2:T516	
+R449	Coreference Arg1:T753 Arg2:T751	
+R450	Coreference Arg1:T139 Arg2:T113	
+R451	Coreference Arg1:T211 Arg2:T140	
+R452	Coreference Arg1:T210 Arg2:T58	
+R453	Coreference Arg1:T57 Arg2:T21	
+R454	Coreference Arg1:T318 Arg2:T210	
+R455	Coreference Arg1:T305 Arg2:T173	
+R233	Coreference Arg1:T406 Arg2:T405	
+R237	Coreference Arg1:T414 Arg2:T406	
+R238	Coreference Arg1:T415 Arg2:T414	
+R457	Coreference Arg1:T438 Arg2:T329	
+T260	LOC 27414 27422	le monde
+R458	Coreference Arg1:T110 Arg2:T2	
+R459	Coreference Arg1:T248 Arg2:T110	
+T262	TIME 1275 1300	Par une matinée pluvieuse
+R2	Coreference Arg1:T130 Arg2:T110	
+R45	Coreference Arg1:T133 Arg2:T120	
+R47	Coreference Arg1:T158 Arg2:T130	
+R370	Coreference Arg1:T53 Arg2:T33	
+T11	TIME 8893 8905	En ce moment
+R100	Coreference Arg1:T200 Arg2:T158	
+R101	Coreference Arg1:T212 Arg2:T5	
+R460	Coreference Arg1:T221 Arg2:T210	
+T12	PER 11852 11882	quelques-uns de ses  confrères
+R119	Coreference Arg1:T235 Arg2:T12	
+R122	Coreference Arg1:T237 Arg2:T12	
+R120	Coreference Arg1:T246 Arg2:T156	
+R131	Coreference Arg1:T255 Arg2:T213	
+T25	FAC 15436 15450	ce petit local
+R156	Coreference Arg1:T25 Arg2:T318	
+R157	Coreference Arg1:T340 Arg2:T211	
+R461	Coreference Arg1:T350 Arg2:T257	
+R456	Coreference Arg1:T408 Arg2:T400	
+R462	Coreference Arg1:T353 Arg2:T184	
+R43	Coreference Arg1:T449 Arg2:T437	
+R44	Coreference Arg1:T581 Arg2:T246	
+R259	Coreference Arg1:T595 Arg2:T255	
+T43	X 24570 24579	Le Ragois
+T65	PER 14019 14154	ces vieilles familles où se conservaient, comme de précieuses traditions, les mœurs, les costumes caractéristiques de leurs professions
