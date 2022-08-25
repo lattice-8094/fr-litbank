@@ -72,6 +72,6 @@ if __name__ == '__main__':
 
         #NO_PER est fusionné avec PER
         with open(fn.replace(brat_dir,outputDir+'/'),'w+') as f:
-            f.write(output.replace('NO_PER','PER'))
+            f.write(output.replace('NO_PER','PER').replace('HIST','TIME'))
 
     print(ctr)

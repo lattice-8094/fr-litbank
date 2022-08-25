@@ -1,0 +1,662 @@
+T5	PER 514 526	cette femme 
+T2	PER 672 680	sa chose
+T3	PER 682 691	son jouet
+T6	PER 708 798	son sourire, à sa bouche, à son regard, aux lignes de son corps, à la forme de son visage 
+T9	PER 864 868	Elle
+T11	PER 1055 1078	_la femme de perdition_
+T13	PER 1080 1105	l'animal sensuel et faux 
+T12	PER 1213 1229	la bête humaine 
+T15	PER 1262 1270	un flanc
+T14	PER 1272 1310	une merveille de chair douce et ronde 
+T16	TIME 1331 1367	Les premiers temps de notre liaison 
+T17	TIME 1575 1579	midi
+T18	TIME 1599 1616	la tombée du jour
+T19	TIME 1609 1616	du jour
+T20	TIME 1627 1643	au soleil levant
+T21	TIME 1710 1729	Aux heures d'amour 
+T8	PER 1954 1976	ses paupières lourdes 
+T10	PER 2167 2178	cette bête 
+T22	FAC 2256 2266	ma chambre
+T23	TIME 2613 2620	Un jour
+T24	TIME 2688 2697	au réveil
+T25	TIME 2728 2741	chaque matin 
+T7	PER 2816 2837	cette brute endormie 
+T4	PER 2850 2859	l'esclave
+T26	TIME 3093 3103	Ce jour-là
+T27	TIME 3330 3342	chaque heure
+T28	TIME 3346 3360	chaque seconde
+T1	PER 3481 3486	Vous 
+T29	PER 3914 3925	Les hommes 
+T30	TIME 4045 4055	ses nuits 
+T31	TIME 4578 4586	un soir 
+T32	TIME 5002 5013	une semaine
+T34	TIME 5015 5022	un mois
+T35	TIME 5024 5034	une saison
+T36	TIME 5426 5433	un soir
+T37	VEH 5480 5486	cheval
+T38	PER 5787 5864	un valet emmenant par la bride vers l'écurie son grand cheval, qui se cabrait
+T39	FAC 5823 5832	l'écurie 
+T43	VEH 5832 5848	son grand cheval
+T42	VEH 5895 5924	l'animal ardent et bondissant
+T46	PER 6134 6145	des femmes 
+T47	TIME 6253 6265	Chaque matin
+T48	TIME 6271 6279	l'aurore
+T49	LOC 6307 6319	les plaines 
+T51	LOC 6322 6331	les bois 
+T52	PER 6453 6483	du cheval nerveux et galopant 
+T45	VEH 7069 7086	L'animal furieux 
+T40	VEH 7336 7343	la bête
+T53	TIME 7356 7365	mon jour 
+T55	TIME 7368 7377	mon heure
+T56	FAC 7409 7424	le même sentier
+T57	LOC 7431 7457	un petit bois de bouleaux 
+T58	LOC 7478 7486	la forêt
+T59	PER 7504 7512	l'aurore
+T60	FAC 7635 7645	le chemin 
+T44	VEH 8137 8146	L'animal 
+T41	VEH 8337 8341	Lui 
+T61	PER 8477 8485	un homme
+T62	PER 8685 8695	trois ans 
+T67	LOC 8743 8757	le val de Ciré
+T72	GPE 8753 8757	Ciré
+T78	PER 8762 8771	son mari 
+T82	FAC 8781 8795	deux filatures
+T83	FAC 8849 8881	sa maison cachée sous les arbres
+T85	PER 8890 8903	les ouvriers 
+T86	FAC 8916 8927	le château 
+T79	PER 8930 8940	M. Vasseur
+T87	PER 9056 9064	Sa mère 
+T89	TIME 9083 9092	les étés 
+T73	GPE 9094 9098	Ciré
+T91	GPE 9130 9136	Paris 
+T92	TIME 9141 9148	l'hiver
+T93	TIME 9194 9209	Chaque automne 
+T64	PER 9209 9216	Jeanne 
+T94	LOC 9233 9251	La vallée étroite 
+T95	LOC 9265 9276	la rivière 
+T96	TIME 9302 9311	cinq mois
+T97	LOC 9406 9421	un grand étang 
+T98	FAC 9448 9459	des maisons
+T99	LOC 9540 9550	ce vallon 
+T100	PER 9561 9570	fantômes 
+T101	PER 9573 9584	les hommes 
+T102	PER 9722 9731	les gens 
+T71	LOC 9805 9814	la vallée
+T103	LOC 9874 9886	des collines
+T104	FAC 9915 9947	des établissements de M. Vasseur
+T75	PER 9937 9947	M. Vasseur
+T70	LOC 10064 10073	ce creux 
+T105	TIME 10118 10132	cette année-là
+T106	TIME 10147 10154	octobre
+T107	PER 10156 10167	le médecin 
+T66	PER 10179 10194	la jeune femme 
+T108	TIME 10209 10217	l'hiver 
+T90	GPE 10219 10225	Paris 
+T88	PER 10230 10237	sa mère
+T109	LOC 10245 10255	du vallon 
+T110	TIME 10313 10331	les premiers mois 
+T84	FAC 10355 10376	la maison abandonnée 
+T111	PER 10625 10636	jeune fille
+T112	PER 10781 10792	Des hommes 
+T113	PER 11034 11051	ces êtres barbus 
+T114	PER 11151 11162	des femmes 
+T116	PER 11213 11226	des étrangers
+T117	PER 11275 11291	l'époux légitime
+T77	PER 11323 11332	son mari 
+T118	PER 11357 11366	deux amis
+T119	FAC 11624 11633	au salon 
+T120	PER 11960 11966	femme 
+T121	TIME 12067 12087	le salon déjà sombre
+T122	PER 12099 12107	l'homme 
+T123	PER 12146 12152	tombe 
+T124	PER 12448 12456	le valet
+T125	PER 12458 12489	celui qui tremblait à ses pieds
+T126	PER 12701 12718	Deux jeunes gens 
+T132	PER 12792 12796	L'un
+T133	PER 12821 12861	un grand garçon mondain, galant et hardi
+T135	TIME 12919 12929	ses heures
+T131	PER 13167 13178	le premier 
+T140	PER 13178 13202	le « Capitaine Fracasse 
+T139	PER 13207 13217	le second 
+T141	PER 13219 13233	Mouton Fidèle 
+T142	PER 13270 13307	une sorte d'esclave attaché à ses pas
+T143	PER 13282 13307	esclave attaché à ses pas
+T144	PER 13333 13346	un domestique
+T145	PER 13556 13567	sa personne
+T146	TIME 13885 13894	une nuit 
+T147	LOC 13961 13974	un petit bois
+T148	TIME 14612 14698	une seconde d'un bonheur suraigu et surhumain, idéal et charnel, affolant, inoubliable
+T149	PER 15448 15477	longues heures d'amour exalté
+T76	PER 15804 15813	son mari 
+T150	TIME 15963 15974	plein hiver
+T68	LOC 16039 16048	la vallée
+T80	PER 16086 16104	cet homme confiant
+T151	TIME 16174 16182	Février 
+T137	PER 16272 16285	Mouton Fidèle
+T152	VEH 16322 16329	voiture
+T154	LOC 16362 16368	du lac
+T155	TIME 16370 16383	au crépuscule
+T156	TIME 16396 16407	ce soir-là 
+T63	PER 16569 16574	l'un 
+T127	PER 16998 17014	M. Paul Péronel 
+T157	FAC 17031 17046	le petit salon 
+T158	PER 17427 17442	un autre homme 
+T129	PER 17932 17953	Le capitaine Fracasse
+T128	PER 18208 18213	Vous 
+T134	PER 18276 18279	Il 
+T159	TIME 18332 18344	Le lendemain
+T69	LOC 18362 18376	au Val de Ciré
+T74	GPE 18372 18376	Ciré
+T81	PER 18378 18395	Son mari, surpris
+T65	PER 18630 18635	Elle 
+T138	PER 18701 18715	Mouton Fidèle 
+T130	PER 18857 18870	Paul Péronel 
+T136	PER 18906 18920	le jeune homme
+T115	PER 18977 18988	Les femmes 
+T160	PER 19058 19062	Ils 
+T161	PER 19090 19125	le vieux médecin et la jeune malade
+T165	PER 19090 19107	le vieux médecin 
+T181	PER 19201 19219	les jolies femmes 
+T182	PER 19313 19332	les nouveaux époux 
+T183	TIME 19334 19364	la fin du premier mois d'union
+T184	TIME 19341 19364	du premier mois d'union
+T171	PER 19464 19471	docteur
+T189	PER 19501 19511	une femme 
+T190	PER 19518 19526	son mari
+T191	PER 19662 19677	un autre homme 
+T177	PER 19781 19792	Le médecin 
+T185	PER 19957 19967	une femme 
+T192	PER 20096 20113	un homme illustre
+T193	TIME 20158 20166	le jour 
+T194	TIME 20197 20204	la nuit
+T188	PER 20225 20235	Une femme 
+T195	FAC 20318 20328	une maison
+T196	PER 20375 20382	un mari
+T186	PER 20434 20452	toutes les femmes 
+T178	PER 20588 20603	la jeune femme 
+T162	PER 20634 20641	docteur
+T187	PER 20742 20753	les femmes 
+T197	PER 20791 20802	les hommes 
+T163	PER 20822 20833	Le médecin 
+T180	PER 20946 20951	Tenez
+T211	PER 21005 21025	une de mes clientes 
+T224	LOC 21113 21134	une ville de province
+T225	LOC 21126 21134	province
+T226	TIME 21138 21145	Un soir
+T223	LOC 21285 21294	la ville 
+T227	PER 21413 21428	mon domestique 
+T228	FAC 21573 21592	la maison dormante 
+T231	PER 21599 21604	Jean 
+T214	PER 21644 21657	Mme Lelièvre 
+T170	PER 21676 21697	M. le docteur Siméon 
+T232	TIME 21749 21767	quelques secondes 
+T168	PER 21857 21890	Le docteur Siméon, fort souffrant
+T199	PER 21897 21910	Mme Lelièvre 
+T233	PER 21934 21956	son confrère M. Bonnet
+T234	TIME 22025 22057	Une demi-heure plus tard environ
+T235	FAC 22074 22081	la rue 
+T230	PER 22103 22108	Jean 
+T220	PER 22125 22127	C'
+T218	PER 22127 22202	est quelqu'un, un homme ou une femme (je ne sais pas au juste, tant il est 
+T175	PER 22241 22249	monsieur
+T236	PER 22282 22296	deux personnes
+T174	PER 22338 22340	J'
+T213	PER 22373 22400	Une espèce de fantôme noir 
+T229	PER 22419 22424	Jean 
+T206	PER 22457 22477	M'me Berthe Lelièvre
+T237	TIME 22516 22526	trois ans 
+T238	PER 22531 22562	un gros commerçant de la ville 
+T222	LOC 22553 22562	la ville 
+T239	PER 22592 22629	la plus jolie personne de la province
+T240	LOC 22618 22629	la province
+T205	PER 22633 22638	Elle 
+T241	PER 22694 22711	des gens affolés 
+T176	PER 22859 22866	Docteur
+T245	PER 22886 22896	mon amant 
+T251	FAC 22910 22920	ma chambre
+T217	PER 22930 22935	Elle 
+T252	PER 22972 22981	Mon mari 
+T215	PER 22972 22976	Mon 
+T253	FAC 22998 23007	du cercle
+T254	TIME 23103 23120	quelques secondes
+T204	PER 23194 23198	Elle
+T256	PER 23276 23284	ma bonne
+T201	PER 23332 23335	Moi
+T259	TIME 23552 23563	une minute 
+T260	VEH 23800 23809	mon coupé
+T210	PER 23813 23818	Elle 
+T209	PER 23831 23833	J'
+T203	PER 23875 23880	Elle 
+T261	VEH 23974 23984	la voiture
+T262	TIME 24266 24274	six mois
+T212	PER 24327 24332	Elle 
+T257	PER 24368 24372	Rose
+T263	FAC 24454 24464	la maison 
+T264	FAC 24619 24629	l'escalier
+T249	PER 24697 24704	du mort
+T265	FAC 24728 24738	la chambre
+T246	PER 24944 24958	du jeune homme
+T268	FAC 25052 25060	cuisine 
+T266	FAC 25159 25169	la chambre
+T243	PER 25171 25182	le cadavre 
+T271	PER 25312 25328	les deux femmes 
+T270	PER 25734 25744	les femmes
+T269	PER 25916 25932	les deux femmes 
+T258	PER 26262 26271	La bonne 
+T207	PER 26313 26326	sa maîtresse 
+T200	PER 26429 26442	Mme Lelièvre 
+T247	PER 26801 26810	son amant
+T272	TIME 27329 27335	minuit
+T166	PER 27339 27341	J'
+T273	TIME 27367 27374	minuit 
+T274	TIME 27382 27390	l'heure 
+T275	FAC 27399 27408	le cercle
+T219	PER 27418 27424	madame
+T216	PER 27445 27450	Elle 
+T276	FAC 27494 27502	le salon
+T277	FAC 27631 27638	la rue 
+T255	PER 27704 27708	Rosé
+T267	FAC 27771 27782	la chambre 
+T164	PER 27847 27849	J'
+T172	PER 28128 28130	J'
+T169	PER 28149 28153	Mon 
+T198	PER 28242 28254	votre femme 
+T244	PER 28257 28267	notre ami 
+T278	VEH 28290 28300	sa voiture
+T279	TIME 28352 28363	deux heures
+T280	PER 28439 28452	des étrangers
+T281	PER 28614 28644	son rival désormais inoffensif
+T282	VEH 28683 28693	un cheval 
+T283	VEH 28699 28714	deux brancards 
+T202	PER 28777 28785	la femme
+T242	PER 28838 28849	le cadavre 
+T284	PER 28895 28905	son cocher
+T248	PER 28920 28933	mon brave ami
+T285	VEH 29240 29250	la voiture
+T208	PER 29400 29408	la femme
+T286	VEH 29519 29527	du coupé
+T287	FAC 29600 29608	la route
+T250	PER 29610 29618	le mort 
+T288	FAC 29768 29778	sa chambre
+T289	PER 29852 29870	sa famille éperdue
+T290	PER 29921 29933	les amoureux
+T173	PER 29937 29948	Le docteur 
+T179	PER 29975 29998	La jeune femme crispée 
+T167	PER 30071 30074	Il 
+T291	PER 30149 30166	Les pauvres gens 
+T310	PER 30212 30219	du mari
+T330	PER 30221 30234	Deux enfants 
+T327	PER 30413 30432	Hector de Gribelin 
+T338	PER 30423 30432	Gribelin 
+T339	LOC 30451 30459	province
+T340	FAC 30466 30484	le manoir paternel
+T341	PER 30490 30514	un vieil abbé précepteur
+T343	TIME 30590 30599	vingt ans
+T346	ORG 30685 30710	au ministère de la Marine
+T347	ORG 30701 30710	la Marine
+T349	TIME 30789 30801	bonne heure 
+T350	PER 30827 31046	tous ceux qui voient l'existence à travers un nuage, qui ignorent les moyens et les résistances, en qui on n'a pas développé dès l'enfance des aptitudes spéciales, des facultés particulières, une âpre énergie à la lutte
+T351	TIME 30956 30966	l'enfance 
+T352	PER 31048 31114	tous ceux à qui on n'a pas remis une arme ou un outil dans la main
+T353	TIME 31116 31153	Ses trois premières années de bureau 
+T354	PER 31189 31216	quelques amis de sa famille
+T342	PER 31206 31216	sa famille
+T355	FAC 31282 31297	les rues nobles
+T356	PER 31363 31389	un cercle de connaissances
+T357	PER 31376 31389	connaissances
+T358	PER 31437 31466	ces aristocrates nécessiteux 
+T359	FAC 31498 31515	maisons endormies
+T360	FAC 31535 31547	ces demeures
+T361	PER 31549 31564	les locataires 
+T362	PER 31725 31796	ces familles autrefois brillantes, et ruinées par l'inaction des hommes
+T363	PER 31786 31796	des hommes
+T297	PER 31798 31817	Hector de Gribelin 
+T336	PER 31808 31817	Gribelin 
+T369	PER 31841 31882	une jeune fille noble et pauvre comme lui
+T333	PER 31908 31921	deux enfants 
+T375	TIME 31924 31934	quatre ans
+T376	TIME 31944 31958	quatre années 
+T381	PER 31966 31975	ce ménage
+T385	LOC 32049 32067	aux Champs-Elysées
+T386	FAC 32102 32112	au théâtre
+T387	PER 32179 32190	un collègue
+T388	TIME 32213 32225	le printemps
+T301	PER 32266 32276	l'employé 
+T389	PER 32280 32288	son chef
+T373	PER 32393 32402	sa femme 
+T365	PER 32406 32424	Ma chère Henriette
+T317	PER 32406 32409	Ma 
+T334	PER 32500 32511	les enfants
+T390	LOC 32584 32595	la campagne
+T315	PER 32615 32621	Hector
+T391	VEH 32666 32675	un break 
+T392	PER 32680 32707	toi, les petits et la bonne
+T332	PER 32685 32696	les petits 
+T393	VEH 32728 32747	un cheval au manège
+T394	FAC 32738 32747	au manège
+T395	TIME 32784 32801	toute la semaine 
+T396	TIME 32790 32801	la semaine 
+T397	TIME 32842 32853	Chaque soir
+T398	FAC 32867 32876	du bureau
+T306	PER 32878 32885	Hector 
+T400	PER 32896 32909	son fils aîné
+T302	PER 33040 33044	papa
+T399	PER 33086 33094	le gamin
+T401	TIME 33096 33108	tout le jour
+T402	FAC 33160 33169	la salle 
+T403	VEH 33300 33311	la voiture 
+T404	VEH 33313 33320	cheval 
+T405	PER 33422 33430	son père
+T406	VEH 33478 33486	la bête 
+T364	PER 33552 33561	sa femme 
+T407	VEH 33614 33640	un animal un peu difficile
+T382	LOC 33726 33745	les Champs-Elysées 
+T408	LOC 33765 33772	du Bois
+T409	PER 33843 33865	quelqu'un du Ministère
+T345	ORG 33853 33865	du Ministère
+T410	PER 33913 33922	des chefs
+T412	VEH 33939 33950	la voiture 
+T423	VEH 33953 33963	le cheval 
+T427	VEH 34042 34052	sa monture
+T428	TIME 34142 34151	la veille
+T424	VEH 34213 34220	la bête
+T430	PER 34351 34368	toute la famille 
+T431	VEH 34438 34448	le cheval 
+T429	PER 34528 34542	tout le monde 
+T411	VEH 34562 34572	la voiture
+T414	VEH 34655 34663	l'animal
+T293	PER 34723 34735	son cavalier
+T307	PER 34737 34748	Hector, ému
+T425	VEH 34794 34801	mon ami
+T421	VEH 34828 34839	le porteur 
+T380	PER 34927 34943	Toutes les voix 
+T368	PER 35351 35359	Sa femme
+T331	PER 35387 35398	des enfants
+T325	PER 35468 35472	papa
+T324	PER 35483 35488	papa 
+T432	PER 35495 35557	les deux gamins, grisés par le mouvement, la joie et l'air vif
+T420	VEH 35586 35621	Le cheval, effrayé par ces clameurs
+T321	PER 35667 35679	le cavalier 
+T433	PER 35747 35757	le cocher 
+T316	PER 35820 35827	Hector 
+T371	PER 35876 35885	sa femme 
+T374	PER 35889 35897	Empêche 
+T335	PER 35902 35914	les enfants 
+T378	PER 35960 35963	On 
+T435	LOC 35989 36007	le bois du Vésinet
+T436	GPE 35997 36007	du Vésinet
+T434	PER 36065 36075	le cocher 
+T437	VEH 36085 36102	des trois chevaux
+T328	PER 36104 36111	Hector 
+T416	VEH 36281 36283	C'
+T419	VEH 36287 36303	un rude trotteur
+T300	PER 36415 36425	son maître
+T383	LOC 36501 36519	les Champs-Elysées
+T384	LOC 36521 36537	La vaste avenue 
+T438	VEH 36552 36560	voitures
+T439	PER 36581 36596	les promeneurs 
+T440	LOC 36675 36693	l'Arc de Triomphe 
+T442	LOC 36701 36724	la place de la Concorde
+T443	PER 36759 36772	tout ce monde
+T444	PER 36939 36943	gens
+T445	VEH 36963 36968	bêtes
+T446	PER 36973 36984	l'Obélisque
+T418	VEH 37026 37044	Le cheval d'Hector
+T318	PER 37038 37044	Hector
+T441	LOC 37068 37085	l'Arc de Triomphe
+T447	FAC 37182 37190	l'écurie
+T312	PER 37237 37249	son cavalier
+T153	VEH 37251 37262	La voiture 
+T448	FAC 37321 37345	du Palais de l'Industrie
+T415	VEH 37347 37355	l'animal
+T461	PER 37411 37440	Une vieille femme en tablier 
+T303	PER 37524 37530	Hector
+T417	VEH 37585 37592	sa bête
+T455	PER 37664 37669	Elle 
+T464	TIME 37739 37749	au moment 
+T465	VEH 37777 37813	du cheval lancé comme une locomotive
+T466	VEH 37799 37813	une locomotive
+T309	PER 37942 37956	Hector, éperdu
+T426	VEH 38096 38109	son coursier 
+T467	PER 38135 38155	un sergent de ville 
+T468	PER 38210 38252	un groupe furieux, gesticulant, vociférant
+T469	PER 38305 38392	un vieux monsieur portant une grande décoration ronde et de grandes moustaches blanches
+T471	PER 38513 38522	les gens 
+T472	FAC 38527 38534	la rue 
+T473	VEH 38564 38573	un cheval
+T474	PER 38582 38615	quatre hommes, portant la vieille
+T450	PER 38730 38742	cette femme 
+T475	PER 38747 38760	un pharmacien
+T470	PER 38771 38788	le vieux monsieur
+T477	PER 38805 38829	le commissaire de police
+T305	PER 38833 38839	Hector
+T478	PER 38847 38862	les deux agents
+T480	PER 38881 38894	Un troisième 
+T422	VEH 38901 38911	son cheval
+T481	PER 38913 38923	Une foule 
+T482	VEH 38944 38953	le break 
+T366	PER 38960 38969	Sa femme 
+T329	PER 39005 39017	les marmots 
+T459	PER 39085 39094	une femme
+T379	PER 39120 39139	sa famille, affolée
+T476	PER 39157 39171	le commissaire
+T344	ORG 39245 39271	au ministère de la Marine 
+T348	ORG 39261 39271	la Marine 
+T453	PER 39305 39315	la blessée
+T483	PER 39317 39352	Un agent envoyé aux renseignements 
+T463	PER 39460 39529	une femme de ménage, âgée de soixante-cinq ans, et dénommée Mme Simon
+T304	PER 39571 39578	Hector 
+T485	PER 39660 39673	le pharmacien
+T486	PER 39675 39685	Une cohue 
+T456	PER 39715 39757	la bonne femme, affaissée dans un fauteuil
+T487	PER 39805 39819	Deux médecins 
+T319	PER 39907 39914	Hector 
+T491	PER 40030 40041	Un médecin 
+T313	PER 40068 40076	monsieur
+T314	PER 40087 40110	l'auteur de l'accident 
+T490	PER 40119 40127	monsieur
+T451	PER 40151 40163	cette femme 
+T493	FAC 40168 40188	une maison de santé 
+T495	FAC 40203 40207	une 
+T323	PER 40284 40296	Hector, ravi
+T370	PER 40335 40344	Sa femme 
+T457	PER 40404 40421	cette dame Simon 
+T496	TIME 40441 40453	trois jours 
+T494	FAC 40497 40517	une maison de santé 
+T497	FAC 40566 40576	son bureau
+T498	TIME 40578 40590	le lendemain
+T454	PER 40625 40634	Mme Simon
+T292	PER 40750 40768	mon pauv 'monsieur
+T488	PER 40840 40851	Le médecin 
+T499	TIME 40931 40942	trois jours
+T460	PER 40960 40976	La vieille femme
+T322	PER 41068 41087	mon pauv 'monsieur 
+T298	PER 41179 41185	Hector
+T489	PER 41198 41208	le médecin
+T492	PER 41210 41221	Le médecin 
+T295	PER 41256 41264	monsieur
+T308	PER 41454 41463	monsieur 
+T501	TIME 41679 41686	un mois
+T458	PER 41688 41698	Mme Simon 
+T502	PER 41795 41813	les autres malades
+T503	TIME 41897 42040	cinquante ans d'escaliers montés et descendus, de matelas retournés, de charbon porté d'étage en étage, de coups de balai et de coups de brosse
+T311	PER 42042 42056	Hector éperdu 
+T504	TIME 42063 42075	chaque jour 
+T326	PER 42165 42183	mon pauv 'monsieur
+T506	TIME 42201 42212	Chaque soir
+T367	PER 42214 42230	Mme de Gribelin 
+T337	PER 42221 42230	Gribelin 
+T462	PER 42268 42278	Mme Simon 
+T377	PER 42381 42384	On 
+T320	PER 42518 42525	Hector 
+T509	PER 42534 42557	quatre grands médecins 
+T510	PER 42701 42705	l'un
+T452	PER 42709 42714	Elle 
+T508	PER 42740 42758	mes bons messieurs
+T299	PER 43113 43120	Hector 
+T372	PER 43145 43153	sa femme
+T296	PER 43282 43285	Il 
+T294	PER 43426 43433	mon ami
+T513	TIME 43519 43527	un mois 
+T514	GPE 43653 43662	Normandie
+T525	PER 43669 43688	un parent non marié
+T546	PER 43726 43734	sa bonne
+T548	PER 43736 43745	un valet 
+T549	PER 43748 43757	un garde 
+T552	FAC 43762 43785	son château seigneurial
+T551	FAC 43787 43797	Ce château
+T553	FAC 43866 43892	longues avenues de chênes 
+T554	TIME 43939 43950	des siècles
+T555	FAC 43986 44013	les pièces toujours fermées
+T556	PER 44024 44033	ces gens 
+T558	FAC 44110 44122	les avenues 
+T559	PER 44150 44168	les nobles voisins
+T560	FAC 44226 44236	la cuisine
+T561	FAC 44269 44289	une immense cuisine 
+T562	TIME 44397 44408	chaque soir
+T563	PER 44606 44621	des somnambules
+T564	FAC 44642 44655	notre chambre
+T565	FAC 44665 44680	l'unique pièce 
+T566	PER 44836 44843	chiens 
+T567	FAC 44954 44975	cette case sibérienne
+T569	FAC 44997 45007	du château
+T570	LOC 45039 45046	la mer 
+T571	LOC 45077 45084	l'Océan
+T550	FAC 45187 45213	tout le vénérable bâtiment
+T572	TIME 45344 45355	Ce jour-là 
+T573	TIME 45383 45391	Le soir 
+T520	PER 45554 45565	Mon cousin 
+T574	PER 45681 45691	du canard 
+T575	LOC 45691 45702	aux étangs 
+T576	TIME 45709 45714	matin
+T547	PER 45718 45729	La servante
+T577	PER 45788 45804	des domestiques 
+T541	PER 45832 45846	Ces messieurs 
+T578	TIME 45867 45875	ce soir 
+T533	PER 45971 45985	Mon compagnon 
+T579	TIME 46008 46016	ce soir 
+T580	TIME 46028 46034	minuit
+T581	TIME 46071 46088	toute la journée 
+T545	PER 46092 46104	La servante 
+T524	PER 46129 46138	monsieur 
+T586	PER 46167 46183	le père Fournel 
+T591	PER 46195 46210	Le père Fournel
+T593	PER 46233 46254	une célébrité du pays
+T595	LOC 46247 46254	du pays
+T596	TIME 46263 46285	quatre-vingt-seize ans
+T597	TIME 46336 46344	un mois 
+T598	LOC 46394 46403	une mare 
+T599	TIME 46407 46423	une nuit obscure
+T600	TIME 46425 46438	Le lendemain 
+T529	PER 46487 46498	Mon cousin 
+T606	PER 46572 46588	ces pauvres gens
+T534	PER 46592 46595	Il 
+T611	PER 46613 46632	la famille du vieux
+T592	PER 46624 46632	du vieux
+T613	PER 46634 46675	son petit-fils, âgé de cinquante-huit ans
+T614	TIME 46657 46675	cinquante-huit ans
+T615	PER 46680 46725	sa petite belle-fille, d'une année plus jeune
+T616	PER 46727 46755	La génération intermédiaire 
+T617	FAC 46809 46830	une lamentable masure
+T620	LOC 46843 46852	du hameau
+T622	TIME 47138 47150	du lendemain
+T623	PER 47344 47354	solitaires
+T540	PER 47409 47426	deux intimes amis
+T624	TIME 47543 47564	ces heures d'effusion
+T530	PER 47633 47641	monsieur
+T625	TIME 47661 47686	minuit moins trois quarts
+T627	FAC 47720 47729	l'église 
+T521	PER 47739 47745	Jules 
+T512	PER 47799 47801	J'
+T630	TIME 48397 48419	la vaste nuit glaciale
+T631	LOC 48421 48433	La campagne 
+T632	FAC 48520 48531	des étables
+T633	PER 48553 48595	les bêtes troublées par ces rumeurs de vie
+T618	LOC 48611 48620	du hameau
+T527	PER 48622 48628	Jules 
+T603	PER 48642 48653	des Fournel
+T528	PER 48701 48704	Il 
+T634	PER 48736 48747	une voisine
+T626	FAC 48791 48799	l'église
+T610	PER 48826 48830	Ils 
+T539	PER 48847 48857	messieurs 
+T594	PER 48879 48886	le père
+T537	PER 48927 48937	mon cousin
+T635	LOC 49110 49127	la campagne noire
+T636	FAC 49234 49272	les cours des fermes plantées d'arbres
+T637	FAC 49244 49272	des fermes plantées d'arbres
+T638	LOC 49274 49303	au milieu des plaines sombres
+T639	LOC 49284 49303	des plaines sombres
+T640	PER 49400 49412	les paysans 
+T641	PER 49419 49522	leurs femmes en bonnet blanc, enveloppées de longues mantes noires, et suivies des mioches mal éveillés
+T642	PER 49502 49522	mioches mal éveillés
+T643	TIME 49547 49554	la nuit
+T628	FAC 49580 49588	l'église
+T644	FAC 49604 49622	le choeur illuminé
+T645	FAC 49680 49694	la pauvre nef 
+T646	FAC 49715 49736	une chapelle à gauche
+T647	PER 49738 49759	un gros Enfant-Jésus 
+T648	PER 49873 49892	Les paysans courbés
+T652	PER 49894 49913	les femmes à genoux
+T651	PER 49925 49969	Ces simples gens, relevés par la nuit froide
+T653	TIME 49955 49969	la nuit froide
+T522	PER 50195 50201	Jules 
+T544	PER 50212 50220	Sortons 
+T654	FAC 50259 50275	la route déserte
+T649	PER 50289 50321	tous les campagnards prosternés 
+T619	LOC 50448 50457	au hameau
+T602	PER 50501 50512	des Fournel
+T601	PER 50516 50520	Ils 
+T582	PER 50529 50538	leur mort
+T523	PER 50544 50554	mon cousin
+T608	PER 50575 50591	ces pauvres gens
+T655	FAC 50666 50699	La pièce, noire, vernie de saleté
+T605	PER 51038 51054	les deux Fournel
+T660	PER 51492 51500	l'homme 
+T668	PER 51512 51520	la femme
+T670	TIME 51702 51740	Au bout de quelques minutes de silence
+T671	TIME 51713 51740	quelques minutes de silence
+T515	PER 51742 51753	mon cousin 
+T662	PER 51774 51781	Anthime
+T584	PER 51783 51800	votre grand-père 
+T535	PER 51818 51836	mon pauv 'monsieur
+T663	PER 51882 51890	La femme
+T589	PER 51974 51977	Il 
+T666	PER 51997 52041	Sa petite-belle-fille de cinquante-sept ans 
+T672	TIME 52022 52041	cinquante-sept ans 
+T673	PER 52156 52183	le cadavre de ce centenaire
+T585	PER 52170 52183	ce centenaire
+T609	PER 52218 52234	Les deux paysans
+T531	PER 52343 52353	Mon cousin
+T657	PER 52385 52393	L'homme 
+T516	PER 52492 52497	Jules
+T674	TIME 52515 52530	tous les jours 
+T658	PER 52575 52585	Le paysan 
+T675	TIME 52646 52659	c'te heure-ci
+T604	PER 52733 52760	les petits-enfants du mort 
+T588	PER 52752 52760	du mort 
+T676	PER 52857 52876	des gens mécontents
+T517	PER 52915 52926	mon cousin 
+T538	PER 52950 52956	Allons
+T661	PER 52958 52965	Anthime
+T677	FAC 53002 53012	sa chambre
+T656	PER 53021 53028	l'homme
+T518	PER 53119 53127	monsieur
+T667	PER 53162 53171	La femme 
+T659	PER 53189 53198	son mari 
+T669	PER 53202 53204	J'
+T587	PER 53653 53671	le vieux, tout sec
+T678	PER 53714 53720	berger
+T607	PER 53831 53843	Ses enfants 
+T532	PER 53872 53907	Jules, indigné, tremblant de colère
+T664	PER 53999 54008	la femme 
+T665	PER 54044 54046	J'
+T526	PER 54061 54077	mon bon monsieur
+T679	FAC 54102 54111	la maison
+T536	PER 54234 54252	mon brave monsieur
+T680	TIME 54259 54269	ces temps 
+T590	PER 54372 54377	homme
+T583	PER 54522 54529	ce mort
+T542	PER 54531 54550	mes bons messieurs 
+T519	PER 54558 54578	Mon cousin, exaspéré
+T511	PER 54558 54562	Mon 
