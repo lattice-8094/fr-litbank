@@ -1,0 +1,6 @@
+brat/events_tsv
+brat/clean_events_tsv
+brat/entities_tsv
+brat/coref_tsv
+brat/citations_tsv
+modeling/__pycache__
