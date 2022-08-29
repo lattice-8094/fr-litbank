@@ -8,51 +8,41 @@ import numpy as np
 from itertools import groupby
 from collections import Counter
 
-stop_words = ['alors','au','aucuns','aussi','autre','avant','avec','avoir','bon','car','ce','cela','ces','ceux','chaque','ci','comme','comment','dans','des','du','dedans','dehors','depuis','devrait','doit','donc','dos','début','elle',
-                'elles','en','encore','essai','est','et','eu','fait','faites','fois','font','hors','ici','il','ils','je','juste','la','le','les','leur','là','ma','maintenant','mais','mes','mien','moins','mon','mot','même','ni','nommés',
-                'notre','nous','ou','où','par','parce','pas','peut','peu','plupart','pour','pourquoi','quand','que','quel','quelle','quelles','quels','qui','sa','sans','ses','seulement','si','sien','son','sont','sous','soyez','sujet',
-                'sur','ta','tandis','tellement','tels','tes','ton','tous','tout','trop','très','tu','voient','vont','votre','vous','vu','ça','étaient','état','étions','été','être']
-
-def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_first=True, coref_pred=True):
+def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_first=True, coref_pred=True, labels_to_ignore=[],labels_to_replace=[]):
     #créer le dossier de sortie si inexistant
     if not os.path.isdir(outputDir):
         os.mkdir(outputDir)
-
+    
+    print("Conversion des fichiers brat en tsv :")
     #parcourir les fichier brat un par un
     for filename_txt in glob.glob(os.path.join(inputDir, '*.txt')):
         # initialiser df, contenant les entités
         # et text, contenant le text brut
         filename = filename_txt[:-3]+"ann"
-        print(filename)
         if os.path.isfile(filename):
             with open(filename) as f:
-                content = [l.split('\t')[1].split(' ') for l in f]
-                if content[0][0]=='Citation':
-                    real_content = []
-                    for i,c in enumerate(content):
-                        if c[0]=='Citation':
-                            if len(c)>4:
-                                new_end1, new_start1 = tuple(c[2].split(';'))
-                                new_end2, new_start2 = tuple(c[3].split(';'))
-                                real_content.append([c[0], c[1], c[-1]])
-                                real_content.append(['Incise', new_end1 , new_start1])
-                                #real_content.append(['Citation', new_start1, new_end2])
-                                real_content.append(['Incise', new_end2, new_start2])
-                                #real_content.append(['Citation', new_start2, c[-1]])
-                            elif len(c)>3:
-                                new_end, new_start = tuple(c[2].split(';'))
-                                real_content.append([c[0], c[1], c[-1]])
-                                real_content.append(['Incise', new_end, new_start])
-                                #real_content.append(['Citation', new_start, c[-1]])
-                            else:
-                                real_content.append(c)
-                    df = pd.DataFrame(real_content, columns=['ct','st','nd'])
-                else:
-                    df = pd.DataFrame(content, columns=['ct','coref','st','nd'] if coref_pred else ['ct','st','nd'])
-                print(len(df))
+                content_with_limits = [l.split('\t')[1].split(' ') for l in f if l.startswith('T')]
+                content = [[c[0], c[1], c[-1]] for c in content_with_limits]
+                #if content[0][0]=='Citation':
+                #    real_content = []
+                #    for i,c in enumerate(content):
+                #         #if c[0]=='Citation':
+                #         #    for j in range(3,len(c)):
+                #         #        new_end, new_start = tuple(c[j-1].split(';'))
+                #         #        real_content.append(['Incise', new_end , new_start])
+                #        real_content.append([c[0], c[1], c[-1]])
+                #    content = real_content
+                df = pd.DataFrame(content, columns=['ct','coref','st','nd'] if coref_pred else ['ct','st','nd'])
                 df.st = pd.to_numeric(df.st)
                 df.nd = pd.to_numeric(df.nd)
-                df.ct = df.ct.apply(lambda s : s.split('_')[-1])
+                for rep_rule in labels_to_replace:
+                    parts=rep_rule.split(':')
+                    if len(parts)!=2:
+                        print("""{} est une règle de remplacement invalide.\nSi vous voulez remplace ABCD par EFGH, entrez "ABCD:EFGH".""".format(rep_rule))
+                    else:
+                        old,new=tuple(parts)
+                        df.ct = df.ct.apply(lambda s : s.replace(old,new))
+                #df.ct = df.ct.apply(lambda s : s.split('_')[-1])
                 #On trie les entités selon par ordre croissant de début.
                 #Si plusieurs entités commencent en même temps,
                 #celle qui se termine en dernier passe en premier,
@@ -63,7 +53,7 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_firs
         with open(filename_txt) as f:
             text = f.read().replace('’','\'').replace(' ',' ').replace('\n',' ')#.replace('  ',' ')
 
-        df = df[(df.ct != 'ORG') & (df.ct != 'None')]
+        df = df.loc[~df['ct'].isin(labels_to_ignore)]
         #le but est d'initialiser, à partir du texte brut, un dictionnaire words
         #qui contient autant d'éléments que de mots dans le texte.
         #un élément de ce dictionnaire a comme clé l'indice de début du mot et comme valeur,
@@ -160,7 +150,7 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_firs
 
         new_words = {k:v for k,v in words.items() if v['text'] not in ['', ' ', '\n','\t']}
         words = new_words
-        print(len(words)//len(df))
+        print(filename, 'présentant une entité tous les',len(words)//len(df),'mots.')
         #Chaque mot possède sa liste 'entities', il faut remplir le fichier tsv
         output = ''
         for k in range(0,len(words),interval):
@@ -183,9 +173,10 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_firs
                     output+= '\t-'
                 output+='\n'
             output+='\n'
-        
+
         with open(os.path.join(outputDir, os.path.basename(filename)[:-3]+"tsv"), 'w', encoding='utf8') as f:
             f.write(output)
+    print('==========')
 
 def write_chunk_and_all_predictions(sentences, filename, chunk_int):
     words = {}
@@ -259,7 +250,6 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int):
         return name
 
     c = Counter([x for x in actual_words if x!='' and x[0].isupper()])
-    bonnes_refs = [x[0] for x in c.most_common(10) if x[0].lower() not in stop_words]
 
     previous_refs = {}
     for i in range(words_idx):
@@ -267,11 +257,6 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int):
             ref_offset = select_ref(refs[i],i)
             if ref_offset != 'O':
                 if i-ref_offset in previous_refs:
-                    # if read_name(i) in bonnes_refs:
-                    #     old_name = previous_refs[i-ref_offset]
-                    #     for x,y in previous_refs.items():
-                    #         if y==old_name:
-                    #             previous_refs[x] = read_name(i)
                     previous_refs[i] = previous_refs[i-ref_offset]
                 else:
                     previous_refs[i] = read_name(i-ref_offset)

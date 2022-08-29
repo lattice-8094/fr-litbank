@@ -15,6 +15,7 @@ from utils_chunking import chunk_brat, write_chunk_and_all_predictions
 
 
 import numpy as np
+import random
 from seqeval.metrics import accuracy_score, f1_score, precision_score, recall_score, classification_report
 from torch import nn
 
@@ -238,6 +239,19 @@ def parse_args():
     parser.add_argument("--output_dir", type=str, default=None, help="Where to store the final model.")
     parser.add_argument("--seed", type=int, default=None, help="A seed for reproducible training.")
     parser.add_argument(
+        "--replace_labels",
+        type=str,
+        default='',
+        help="Labels to replace during training, separated by comma and colons,\
+        ex: 'SINGER:PER,ACTOR:PER,HIST:TIME",
+    )
+    parser.add_argument(
+        "--ignore_labels",
+        type=str,
+        default='',
+        help="Labels to ignore during trainingi, separated by a comma.",
+    )
+    parser.add_argument(
         "--model_type",
         type=str,
         default=None,
@@ -282,7 +296,7 @@ def main():
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
-        level=logging.INFO,
+        level=logging.ERROR,
     )
     logger.info(accelerator.state)
 
@@ -293,47 +307,71 @@ def main():
     set_seed(42)
 
     if not os.path.isdir(tsv_dir) or args.overwrite_cache:
-        chunk_brat(args.data_dir, tsv_dir,interval=args.chunk_int,max_seq_len=args.max_seq_length,bioes=args.bioes,coref_pred=args.coref_pred)
+        chunk_brat(
+                args.data_dir,
+                tsv_dir,
+                interval=args.chunk_int,
+                max_seq_len=args.max_seq_length,
+                bioes=args.bioes,
+                coref_pred=args.coref_pred,
+                labels_to_ignore=args.ignore_labels.split(','),
+                labels_to_replace=args.replace_labels.split(',') if args.replace_labels!='' else [],
+                )
     
-    cmd = "for i in `ls {}/*tsv`; do cut $i -f2 | awk '!a[$0]++'; done | sort | uniq".format(tsv_dir)
+    cmd = "for i in `ls {}/*tsv`; do cut $i -f2; cut $i -f3 | awk '!a[$0]++'; done | sort | uniq | grep 'B\|I-'".format(tsv_dir)
     stream = os.popen(cmd)
     output = stream.read()
     label_list = ['O'] + [l for l in output.split('\n') if len(l)>2]
-    print("HERE is the list of labels the model is taught to predict :")
+    #print("HERE is the list of labels the model is taught to predict :")
+    print("Voici la liste des étiquette que le modèle est appris à attribuer à chaque mot :")
     print(label_list)
     print("==========")
     
     label_map: Dict[int, str] = {i: label for i, label in enumerate(label_list)}
     num_labels = len(label_list)
-    titles = {
-         'dev':["Jean-Christophe-1","Jean-Christophe-2"],
-         'test':["Rosalie"],
-         'train': [   
-                      "Sarrasine","Pauline",
-                      'Le_capitaine_Fracasse',
-                      #"elisabeth_Seton",
-                      'Le_ventre_de_Paris',
-                      'Madame_de_Hautefort','Nemoville',
-                      "De_la_ville_au_moulin" ,
-                      "Mademoiselle_Fifi_nouveaux_contes-1",
-                      "Mademoiselle_Fifi_nouveaux_contes-3",
-                      #"export","Bouvard","La_morte_amoureuse",
-                      'Le_diable_au_corps','Douce_Lumiere',
-                    ]
-         }
-    titles = {
-        'dev':["Pauline","De_la_ville_au_moulin"],
-        'test':["Pauline"],
-        'train': ['Jean-Christophe-1','Le_capitaine_Fracasse',
-                  'Le_diable_au_corps','Le_ventre_de_Paris',
-                  'Madame_de_Hautefort','Nemoville',
-                  "Sarrasine",
-                  "Mademoiselle_Fifi_nouveaux_contes","Douce_Lumiere",
-                  "Bouvard","Rosalie",
-                  ]
-                  }
-    print(titles)
+    #titles = {
+    #     'dev':["Jean-Christophe-1","Jean-Christophe-2"],
+    #     'test':["Rosalie"],
+    #     'train': [   
+    #                  "Sarrasine","Pauline",
+    #                  'Le_capitaine_Fracasse',
+    #                  #"elisabeth_Seton",
+    #                  'Le_ventre_de_Paris',
+    #                  'Madame_de_Hautefort','Nemoville',
+    #                  "De_la_ville_au_moulin" ,
+    #                  "Mademoiselle_Fifi_nouveaux_contes-1",
+    #                  "Mademoiselle_Fifi_nouveaux_contes-3",
+    #                  #"export","Bouvard","La_morte_amoureuse",
+    #                  'Le_diable_au_corps','Douce_Lumiere',
+    #                ]
+    #     }
+    #titles = {
+    #    'dev':["Pauline","De_la_ville_au_moulin"],
+    #    'test':["Pauline"],
+    #    'train': ['Jean-Christophe-1','Le_capitaine_Fracasse',
+    #              'Le_diable_au_corps','Le_ventre_de_Paris',
+    #              'Madame_de_Hautefort','Nemoville',
+    #              "Sarrasine",
+    #              "Mademoiselle_Fifi_nouveaux_contes","Douce_Lumiere",
+    #              "Bouvard","Rosalie",
+    #              ]
+    #              }
+    
+    all_titles=[os.path.splitext(os.path.basename(path))[0] for path in glob.glob(args.data_dir+'/*.txt')]
+    random.seed(42)
+    random.shuffle(all_titles)
+    dev_titles = all_titles[-2:]
+    train_titles = all_titles[:-2]
+    test_titles = all_titles
+    print("Oeuvres utilsées pour l'entraînement :")
+    for t in train_titles:
+        print(t)
+    print('----------')
+    print("Oeuvres utilsées pour l'évaluation interne :")
+    for t in dev_titles:
+        print(t)
     print("==========")
+    titles = {'train':train_titles, 'dev':dev_titles, 'test':test_titles}
     token_classification_task = NER(with_coref=args.coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
 
     config = AutoConfig.from_pretrained(
