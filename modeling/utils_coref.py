@@ -23,7 +23,14 @@ from enum import Enum
 from typing import List, Optional, Union
 
 from filelock import FileLock
-from transformers import PreTrainedTokenizer
+from transformers import (
+    AutoTokenizer,
+    PreTrainedTokenizer,
+)
+import torch
+from torch import nn
+from torch.utils.data.dataset import Dataset
+import glob
 
 
 logger = logging.getLogger(__name__)
@@ -256,10 +263,59 @@ class TokenClassificationCorefTask:
             )
         return features
 
+class COREF(TokenClassificationCorefTask):
+    def __init__(self, with_coref, titles, no_ref_idx=0, label_idx=1, coref_idx=-1):
+        # in NER datasets, the last column is usually reserved for NER label
+        # referent index is the second to last column (#marco)
+        self.label_idx = label_idx
+        self.coref_idx = coref_idx
+        self.no_ref_idx = no_ref_idx
+        self.titles = titles
 
-import torch
-from torch import nn
-from torch.utils.data.dataset import Dataset
+    def read_examples_from_folder(self, tokenizer:AutoTokenizer,  data_dir, mode: Union[Split, str]) -> List[CorefInputExample]:
+        if isinstance(mode, Split):
+            mode = mode.value
+        guid_index = 1
+        examples = []
+        for file_path in sorted(glob.glob(os.path.join('.', data_dir+'/*.tsv'))):
+            if mode!="inference" and not any(x in file_path for x in self.titles[mode]) :
+                #les titres correspondant ÃƒÂ  ce split ne comportent pas ce titre
+                #autrement dit, titre non intÃƒÂ©ressant pour ce split
+                #on saute
+                continue
+            with open(file_path, encoding="utf-8") as f:
+                words = []
+                labels = []
+                refs = []
+                book_start = True
+                for line in f:
+                    if line.startswith("-DOCSTART-") or line == "" or line == "\n":
+                        if words:
+                            examples.append(CorefInputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, refs=refs, book_start=book_start))
+                            book_start=False
+                            guid_index += 1
+                            words = []
+                            labels = []
+                            refs = []
+                    else:
+                        splits = [elem for elem in line[:-1].split("\t") if elem!='O']
+                        words.append(splits[0])
+                        if len(splits) > 1:
+                            labels.append(splits[self.label_idx] if len(splits)>2 else 'O')
+                            ref = splits[self.coref_idx] if len(splits)>2 else '-'
+                            refs.append(self.no_ref_idx if ref=='-' else ref)
+                        else:
+                            labels.append("O")
+                            refs.append(self.no_ref_idx)
+                if words:
+                    if with_coref:
+                        examples.append(CorefInputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, refs=refs, book_start=book_start))
+                    else:
+                        examples.append(InputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, book_start=book_start))
+                    book_start=False
+        return examples
+
+
 
 class TokenClassificationCorefDataset(Dataset):
     features: List[CorefInputFeatures]

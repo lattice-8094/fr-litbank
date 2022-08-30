@@ -21,18 +21,12 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_firs
         filename = filename_txt[:-3]+"ann"
         if os.path.isfile(filename):
             with open(filename) as f:
-                content_with_limits = [l.split('\t')[1].split(' ') for l in f if l.startswith('T')]
-                content = [[c[0], c[1], c[-1]] for c in content_with_limits]
-                #if content[0][0]=='Citation':
-                #    real_content = []
-                #    for i,c in enumerate(content):
-                #         #if c[0]=='Citation':
-                #         #    for j in range(3,len(c)):
-                #         #        new_end, new_start = tuple(c[j-1].split(';'))
-                #         #        real_content.append(['Incise', new_end , new_start])
-                #        real_content.append([c[0], c[1], c[-1]])
-                #    content = real_content
-                df = pd.DataFrame(content, columns=['ct','coref','st','nd'] if coref_pred else ['ct','st','nd'])
+                content_with_limits = [(l.split('\t')[0],
+                                        l.split('\t')[1].split(' '))
+                                        for l in f if l.startswith('T')]
+                content = [[idx ,c[0], c[1], c[-1]] for idx,c in content_with_limits]
+                #print(content)
+                df = pd.DataFrame(content, columns=['idx','ct','st','nd'])
                 df.st = pd.to_numeric(df.st)
                 df.nd = pd.to_numeric(df.nd)
                 for rep_rule in labels_to_replace:
@@ -48,10 +42,29 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_firs
                 #celle qui se termine en dernier passe en premier,
                 #Cela est utile plus tard
                 df.sort_values(['st','nd'], ascending=(True,False), inplace=True)
+            with open(filename) as f:
+                if coref_pred:
+                    links = [tuple(l.split('\t')[1]
+                                              .replace('Coreference ','')
+                                              .replace('Arg1:','')
+                                              .replace('Arg2:','')
+                                              .replace('\n','')
+                                              .split(' '))
+                            for l in f if l.startswith('R')]
+                    links_dict = dict(links)
+                    indices_x = df['idx']
+                    indices_y = []
+                    for ind_x in indices_x:
+                        if ind_x in links_dict:
+                            indices_y.append(links_dict[ind_x])
+                        else:
+                            indices_y.append(ind_x)
+                    df['coref'] = indices_y
+
         else:
             df= pd.DataFrame({'ct' : [], 'coref' : [], 'st' : [], 'nd' : []})
         with open(filename_txt) as f:
-            text = f.read().replace('’','\'').replace(' ',' ').replace('\n',' ')#.replace('  ',' ')
+            text = f.read().replace('’','\'').replace(' ',' ').replace('\n',' ').replace('\t',' ')
 
         df = df.loc[~df['ct'].isin(labels_to_ignore)]
         #le but est d'initialiser, à partir du texte brut, un dictionnaire words
@@ -73,25 +86,20 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_firs
             c = text[idx] if idx<len(text) else '.' #pour être sûr que la dernière phrase est terminée par un point
             #on ne fait rien jusqu'à ce qu'on rencontre un séparateur de mot
             #si c est un séparateur de mot :
-            # sent_end = c=='\n'
-            # sent_end = c in ['.', '…', '?', '!']
-            sent_end = False
-            if c in ['\'', '.', ',','\n', '(', ')','…','–','’','[',']','-', ' ']:
+            word_seps = ['\'', '.', ',','\n', '(', ')','…','–','’','[',']','-',' ']
+            if c in word_seps:
                 #cas particulier si c est un séparateur qui vient collé au caractère précédent, et qu'il faut donc séparer
                 if c in ['.', ',', ')',']','-','…']:
-                    words[word_start_idx] = {'next':idx, 'text':text[word_start_idx:idx], 'entities':[], 'par_ind': par_ctr, 'ind_in_par':ind_in_par, 'sent_end': False}
+                    words[word_start_idx] = {'next':idx, 'text':text[word_start_idx:idx], 'entities':[], 'par_ind': par_ctr, 'ind_in_par':ind_in_par}
                     word_start_idx = idx
                     idx+=1 if idx+1< len(text) and text[idx+1] == ' ' else 0 #décaler idx sauf s'il après un tiret, comme le mot suivant est collé
                     ind_in_par+=1
                 #c est un séparateur, donc on coupe le mot. on ajoute le mot qu'on a jusque là
                 #puis on redéfinit le word_start_idx pour que ce soit le idx actuel
-                words[word_start_idx] = {'next':idx+1, 'text':text[word_start_idx:idx+1], 'entities':[], 'par_ind': par_ctr, 'ind_in_par':ind_in_par, 'sent_end': sent_end}
+                words[word_start_idx] = {'next':idx+1, 'text':text[word_start_idx:idx+1], 'entities':[], 'par_ind': par_ctr, 'ind_in_par':ind_in_par}
                 word_start_idx = idx+1
                 ind_in_par+=1
             idx+=1
-            if sent_end:
-                par_ctr+=1
-                ind_in_par=1
 
         #Maintenant, le but est de remplir les listes 'entities' de chaque mot, la liste
         #des étiquettes (du type "B-PER"...) qui seront à côté de chaque mot
@@ -125,11 +133,15 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_firs
             w ['coref'] = ref_id
 
             l = len(w['entities'])
-            if w['next'] != ent.nd or not bioes:
+            def next_word(w):
+                nb_spaces = len(w['text']) - len(w['text'].replace('\n','').replace(' ',''))
+                return w['next']-nb_spaces
+
+            if next_word(w) != ent.nd or not bioes:
                 w['entities'].append(('B-'+ent.ct,ent.lvl))
             else:
                 w['entities'].append(('S-'+ent.ct,ent.lvl))
-            while w['next'] <= len(text) and words[w['next']]['next'] < ent.nd:
+            while w['next'] <= len(text) and next_word(words[w['next']]) < ent.nd:
                 w = words[w['next']]
                 while len(w['entities'])!=l:
                     #remplir "les trous" à côté de l'entité contenue par des O
@@ -137,10 +149,9 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_firs
                     w['entities'].append(('O',l-len(w['entities'])))
                 w ['coref'] = ref_id
                 w['entities'].append(('I-'+ent.ct,ent.lvl))
-            #Tous les mots sauf le dernier sont traités
-
+            
             w = words[w['next']]
-            if w['next'] <= ent.nd or (w['next'] == ent.nd+1 and w['text'][-1] in ['\n',' ']) :
+            if next_word(w) <= ent.nd:
                 w ['coref'] = ref_id
                 if bioes :
                     w['entities'].append(('E-'+ent.ct,ent.lvl))

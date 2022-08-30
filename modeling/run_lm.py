@@ -34,7 +34,7 @@ from transformers import (
     get_scheduler,
     set_seed,
 )
-from utils_coref import Split, TokenClassificationCorefDataset, TokenClassificationCorefTask, CorefInputExample
+from utils_coref import Split,TokenClassificationCorefDataset, COREF, CorefInputExample
 from utils_ner import TokenClassificationDataset, NER, InputExample
 from utils_modeling import CamembertForCoreference
 from transformers.tokenization_utils_base import BatchEncoding
@@ -52,68 +52,6 @@ datasets.logging.set_verbosity_error()
 # You should update this to your particular problem to have better documentation of `model_type`
 MODEL_CONFIG_CLASSES = list(MODEL_MAPPING.keys())
 MODEL_TYPES = tuple(conf.model_type for conf in MODEL_CONFIG_CLASSES)
-
-#class NER(TokenClassificationTask):
-#    def __init__(self, with_coref, no_ref_idx=0, label_idx=1, coref_idx=-1):
-#        # in NER datasets, the last column is usually reserved for NER label
-#        # referent index is the second to last column (#marco)
-#        self.label_idx = label_idx
-#        self.coref_idx = coref_idx
-#        self.no_ref_idx = no_ref_idx
-#        self.titles = {
-#                    'dev':["Pauline","De_la_ville_au_moulin"],
-#                    'test':["Pauline"],
-#                    'train': ['Jean-Christophe-1','Le_capitaine_Fracasse',
-#                                 'Le_diable_au_corps','Le_ventre_de_Paris',
-#                                 'Madame_de_Hautefort','Nemoville',
-#                                 "Sarrasine",
-#                                 "Mademoiselle_Fifi_nouveaux_contes","Douce_Lumiere",
-#                                 "Bouvard","Rosalie",
-#                                 ]
-#                }
-#
-#    def read_examples_from_folder(self, tokenizer:AutoTokenizer,  data_dir, mode: Union[Split, str]) -> List[CorefInputExample]:
-#        if isinstance(mode, Split):
-#            mode = mode.value
-#        guid_index = 1
-#        examples = []
-#        for file_path in sorted(glob.glob(os.path.join('.', data_dir+'/*.tsv'))):
-#            if mode!="inference" and not any(x in file_path for x in self.titles[mode]) :
-#                #les titres correspondant ÃƒÂ  ce split ne comportent pas ce titre
-#                #autrement dit, titre non intÃƒÂ©ressant pour ce split
-#                #on saute
-#                continue
-#            with open(file_path, encoding="utf-8") as f:
-#                words = []
-#                labels = []
-#                refs = []
-#                book_start = True
-#                for line in f:
-#                    if line.startswith("-DOCSTART-") or line == "" or line == "\n":
-#                        if words:
-#                            examples.append(CorefInputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, refs=refs, book_start=book_start))
-#                            book_start=False
-#                            guid_index += 1
-#                            words = []
-#                            labels = []
-#                            refs = []
-#                    else:
-#                        splits = [elem for elem in line[:-1].split("\t") if elem!='O']
-#                        words.append(splits[0])
-#                        if len(splits) > 1:
-#                            labels.append(splits[self.label_idx] if len(splits)>2 else 'O')
-#                            ref = splits[self.coref_idx] if len(splits)>2 else '-'
-#                            refs.append(self.no_ref_idx if ref=='-' else ref)
-#                        else:
-#                            labels.append("O")
-#                            refs.append(self.no_ref_idx)
-#                if words:
-#                    if with_coref:
-#                        examples.append(CorefInputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, refs=refs, book_start=book_start))
-#                    else:
-#                        examples.append(InputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, book_start=book_start))
-#                    book_start=False
-#        return examples
 
 
 def coref_data_collator(features: List[InputDataClass]) -> Dict[str, Any]:
@@ -296,7 +234,7 @@ def main():
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
-        level=logging.ERROR,
+        level=logging.INFO,
     )
     logger.info(accelerator.state)
 
@@ -318,7 +256,7 @@ def main():
                 labels_to_replace=args.replace_labels.split(',') if args.replace_labels!='' else [],
                 )
     
-    cmd = "for i in `ls {}/*tsv`; do cut $i -f2; cut $i -f3 | awk '!a[$0]++'; done | sort | uniq | grep 'B\|I-'".format(tsv_dir)
+    cmd = "for i in `ls {}/*tsv`; do cut $i -f2; cut $i -f3 | awk '!a[$0]++'; done | sort | uniq | grep 'B\|I\|E\|S-'".format(tsv_dir)
     stream = os.popen(cmd)
     output = stream.read()
     label_list = ['O'] + [l for l in output.split('\n') if len(l)>2]
@@ -360,8 +298,10 @@ def main():
     all_titles=[os.path.splitext(os.path.basename(path))[0] for path in glob.glob(args.data_dir+'/*.txt')]
     random.seed(42)
     random.shuffle(all_titles)
-    dev_titles = all_titles[-2:]
-    train_titles = all_titles[:-2]
+    nb_titles = len(all_titles)
+    train_dev_limit = np.ceil(nb_titles*.8)
+    dev_titles = all_titles[train_dev_limit:]
+    train_titles = all_titles[:train_dev_limit]
     test_titles = all_titles
     print("Oeuvres utilsées pour l'entraînement :")
     for t in train_titles:
@@ -372,7 +312,10 @@ def main():
         print(t)
     print("==========")
     titles = {'train':train_titles, 'dev':dev_titles, 'test':test_titles}
-    token_classification_task = NER(with_coref=args.coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
+    if not args.coref_pred:
+        token_classification_task = NER(with_coref=args.coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
+    else:
+        token_classification_task = COREF(with_coref=args.coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
 
     config = AutoConfig.from_pretrained(
         args.config_name if args.config_name else args.model_name_or_path,

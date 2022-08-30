@@ -213,17 +213,6 @@ class NER(TokenClassificationTask):
         #self.coref_idx = coref_idx
         #self.no_ref_idx = no_ref_idx
         self.titles = titles
-        {
-                    'dev':["Pauline","De_la_ville_au_moulin"],
-                    'test':["Pauline"],
-                    'train': ['Jean-Christophe-1','Le_capitaine_Fracasse',
-                                 'Le_diable_au_corps','Le_ventre_de_Paris',
-                                 'Madame_de_Hautefort','Nemoville',
-                                 "Sarrasine",
-                                 "Mademoiselle_Fifi_nouveaux_contes","Douce_Lumiere",
-                                 "Bouvard","Rosalie",
-                                 ]
-                }
 
     def read_examples_from_folder(self, tokenizer:AutoTokenizer,  data_dir, mode: Union[Split, str]) -> List[InputExample]:
         if isinstance(mode, Enum):
