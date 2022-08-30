@@ -1,0 +1,1871 @@
+T1	LOC 92 123	une de ces collines décharnées 
+T2	LOC 99 123	ces collines décharnées 
+T3	LOC 123 127	qui 
+T4	GPE 136 146	les Landes
+T5	GPE 154 158	Dax 
+T6	GPE 154 175	Dax et Mont-de-Marsan
+T7	GPE 161 175	Mont-de-Marsan
+T8	TIME 193 215	le règne de Louis Xiii
+T9	PER 205 215	Louis Xiii
+T10	FAC 47852 47865	votre château
+T11	FAC 50227 50236	ce manoir
+T12	FAC 3897 3906	la maison
+T13	FAC 21219 21236	du château désert
+T14	FAC 217 267	une de ces gentilhommières si communes en Gascogne
+T15	FAC 41826 41828	l'
+T16	FAC 52350 52360	la maison 
+T17	FAC 44763 44773	du castel 
+T18	FAC 48153 48164	ma demeure 
+T19	FAC 24608 24611	ici
+T20	FAC 49017 49027	le château
+T21	FAC 21068 21077	du manoir
+T22	FAC 36940 36971	ce manoir peuplé par ses aïeux 
+T23	FAC 907 911	ses 
+T24	FAC 9846 9854	du lieu 
+T25	FAC 887 897	le castel 
+T26	FAC 36826 36836	du château
+T27	FAC 47247 47264	votre forteresse 
+T28	FAC 23453 23478	ce manoir sans habitants 
+T29	FAC 54710 54721	du château 
+T30	FAC 45167 45193	cette auberge de la famine
+T31	FAC 41763 41781	ce castel lézardé 
+T32	FAC 30336 30356	ce castel démantelé 
+T33	FAC 45200 45229	cette cour plénière du Carême
+T34	FAC 33852 33862	du château
+T35	FAC 45236 45269	cet hôtel de misère et de lésine 
+T36	FAC 53933 53944	le château 
+T37	FAC 4223 4231	du logis
+T38	FAC 8979 8988	le castel
+T39	FAC 396 407	un bâtiment
+T40	FAC 8225 8234	du castel
+T41	FAC 423 430	duquel 
+T42	FAC 3714 3723	le logis 
+T43	FAC 30269 30279	du château
+T44	FAC 979 981	l'
+T45	FAC 40142 40152	du castel 
+T46	FAC 53322 53337	ce grave manoir
+T47	FAC 42080 42098	ce château délabré
+T48	FAC 41022 41025	qu'
+T49	FAC 48236 48238	y 
+T50	FAC 41005 41022	un château ruiné 
+T51	FAC 39559 39575	ce triste manoir
+T52	FAC 21353 21362	du castel
+T53	FAC 586 596	au manoir 
+T54	FAC 1125 1138	l'habitation 
+T55	FAC 41492 41503	du château 
+T56	FAC 3251 3260	du castel
+T57	FAC 44017 44053	du castel, d'ordinaire si tranquille
+T58	FAC 29200 29211	ce château 
+T59	FAC 44907 44917	du manoir 
+T60	FAC 224 267	ces gentilhommières si communes en Gascogne
+T61	FAC 272 276	que 
+T62	GPE 259 267	Gascogne
+T63	GPE 34610 34618	Gascogne
+T64	PER 276 291	les villageois 
+T65	FAC 320 369	Deux tours rondes, coiffées de toits en éteignoir
+T66	FAC 625 631	leurs 
+T67	FAC 2145 2155	des tours 
+T68	FAC 740 750	des tours 
+T69	FAC 660 666	leurs 
+T70	FAC 505 571	un pont-levis réduit à l'état de sinécure par le nivelage du fossé
+T71	LOC 563 571	du fossé
+T72	FAC 625 657	leurs échauguettes en poivrière 
+T73	FAC 734 750	l'une des tours 
+T74	TIME 837 849	cette époque
+T75	PER 864 868	qui 
+T76	PER 1065 1069	son 
+T77	PER 852 864	Le voyageur 
+T78	LOC 932 939	le ciel
+T79	LOC 21278 21286	au ciel 
+T80	LOC 19388 19395	du ciel
+T81	FAC 990 1042	une demeure convenable pour un hobereau de province 
+T82	PER 1018 1042	un hobereau de province 
+T83	FAC 1100 1104	qui 
+T84	FAC 1090 1100	Le chemin 
+T85	FAC 1114 1123	la route 
+T86	FAC 1219 1289	un étroit sentier blanc semblable à un galon terni sur un manteau râpé
+T87	LOC 1291 1361	Deux ornières remplies d'eau de pluie et habitées par des grenouilles 
+T88	VEH 1390 1403	des voitures 
+T89	LOC 1538 1584	la bande frayée à travers les mauvaises herbes
+T90	FAC 2130 2155	les barbacanes des tours 
+T91	LOC 2540 2548	la lune 
+T92	PER 2737 2767	le plus habile héraut d'armes 
+T93	PER 3217 3260	des hôtes évidemment peu nombreux du castel
+T94	VEH 3366 3408	un carrosse défunt sous le règne précédent
+T95	TIME 3390 3408	le règne précédent
+T96	TIME 32903 32916	l'autre règne
+T97	FAC 3455 3469	des cheminées 
+T98	PER 3670 3676	leurs 
+T99	PER 3629 3642	les écoliers 
+T100	PER 3813 3816	sa 
+T101	PER 3797 3808	un soudard 
+T102	PER 3927 3932	dont 
+T103	PER 3914 3927	ces mourants 
+T104	PER 3978 3983	leur 
+T105	FAC 4214 4231	le reste du logis
+T106	PER 4700 4713	des visiteurs
+T107	FAC 48518 48527	le porche
+T108	FAC 4812 4819	lequel 
+T109	FAC 23348 23357	du porche
+T110	FAC 4796 4805	ce porche
+T111	FAC 4861 4896	aux appartements du rez-de-chaussée
+T112	FAC 20757 20776	du rez-de-chaussée 
+T113	FAC 4878 4896	du rez-de-chaussée
+T114	FAC 4918 4922	qui 
+T115	FAC 4908 4918	une salle 
+T116	FAC 4947 4963	salle des gardes
+T117	FAC 5120 5127	la cour
+T118	FAC 5405 5412	la cour
+T119	FAC 49075 49082	la cour
+T120	FAC 4984 5099	une cour triste, nue et froide, entourée de hautes murailles rayées de longs filaments noirs par les pluies d'hiver
+T121	FAC 5986 6007	cet espace abandonné 
+T122	FAC 5668 5686	au jardin lui-même
+T123	FAC 22209 22219	du jardin 
+T124	FAC 6010 6013	en 
+T125	FAC 8858 8868	le jardin 
+T126	FAC 5372 5412	un jardin situé en contre-bas de la cour
+T127	FAC 5688 5691	il 
+T128	FAC 5579 5591	la terrasse 
+T129	LOC 5724 5732	hallier 
+T130	LOC 5738 5750	forêt vierge
+T131	FAC 6226 6236	des allées
+T132	TIME 6303 6317	longues années
+T133	METALEPSE 6683 6688	vous 
+T134	METALEPSE 16956 16961	vous 
+T135	METALEPSE 16977 16981	vous
+T136	METALEPSE 19826 19831	vous 
+T137	METALEPSE 15451 15457	votre 
+T138	METALEPSE 12027 12032	vous 
+T139	METALEPSE 6648 6653	vous 
+T140	METALEPSE 6614 6619	vous 
+T141	FAC 6973 7053	l'antique allée devenue plus obstruée et plus touffue qu'une sente dans les bois
+T142	LOC 7030 7053	une sente dans les bois
+T143	LOC 7045 7053	les bois
+T144	FAC 7074 7106	une espèce de niche de rocaille 
+T145	FAC 8131 8134	qu'
+T146	FAC 8063 8083	Ce cabinet grotesque
+T147	FAC 8499 8509	La grotte 
+T148	NO_PER 7437 7446	laquelle 
+T149	NO_PER 7574 7591	La pauvre déesse 
+T150	NO_PER 7521 7525	qui 
+T151	NO_PER 7681 7691	elle-même 
+T152	NO_PER 7393 7435	une divinité mythologique, Flore ou Pomone
+T153	NO_PER 7792 7796	ses 
+T154	NO_PER 7602 7605	sa 
+T155	NO_PER 7476 7480	son 
+T156	NO_PER 7764 7768	son 
+T157	NO_PER 7420 7426	Flore 
+T158	NO_PER 7429 7435	Pomone
+T159	TIME 7476 7486	son temps 
+T160	NO_PER 7545 7552	la Mort
+T161	NO_PER 34226 34234	la Mort 
+T162	PER 8201 8234	des anciens possesseurs du castel
+T163	TIME 8323 8338	la Renaissance 
+T164	PER 8351 8432	des sculpteurs italiens venus en France à la suite de maître Roux ou du Primatice
+T165	GPE 8384 8391	France 
+T166	PER 8405 8417	maître Roux 
+T167	PER 8420 8432	du Primatice
+T168	PER 8468 8496	la famille maintenant déchue
+T169	PER 13109 13137	ces hommes de race et d'épée
+T170	PER 36840 36877	une famille jadis puissante et riche 
+T171	PER 41143 41162	la famille Sigognac
+T172	PER 12685 12696	la famille 
+T173	PER 15186 15197	la famille 
+T174	PER 40367 40377	sa famille
+T175	PER 43510 43530	cette race amoindrie
+T176	PER 43396 43439	cette famille autrefois importante et riche
+T177	PER 33957 33971	cette famille 
+T178	PER 42818 42830	des Sigognac
+T179	PER 43290 43303	les Sigognac 
+T180	PER 41613 41623	la famille
+T181	LOC 8899 8908	la lande 
+T182	LOC 8913 8917	son 
+T183	PER 9088 9109	les derniers maîtres 
+T184	PER 9166 9172	leurs 
+T185	FAC 29350 29361	son écurie 
+T186	FAC 9220 9223	où 
+T187	FAC 9210 9218	l'écurie
+T188	FAC 49128 49137	l'écurie 
+T189	NO_PER 9264 9279	un maigre bidet
+T190	NO_PER 9448 9457	tournait 
+T191	NO_PER 9281 9286	dont 
+T192	NO_PER 9394 9398	ses 
+T193	NO_PER 29418 29420	l'
+T194	NO_PER 29350 29354	son 
+T195	NO_PER 34155 34171	son vieux cheval
+T196	NO_PER 29364 29368	fit 
+T197	NO_PER 29391 29394	sa 
+T198	NO_PER 29320 29330	le cheval 
+T199	NO_PER 49144 49159	du bidet blanc 
+T200	FAC 9608 9617	du chenil
+T201	NO_PER 35766 35773	fixait 
+T202	NO_PER 35752 35756	son 
+T203	NO_PER 35986 35989	sa 
+T204	NO_PER 48464 48470	Miraut
+T205	NO_PER 35203 35207	qui 
+T206	NO_PER 35195 35201	Miraut
+T207	NO_PER 9800 9803	il 
+T208	NO_PER 9787 9791	ses 
+T209	NO_PER 9619 9634	un chien unique
+T210	NO_PER 44107 44111	lui 
+T211	NO_PER 44289 44293	qui 
+T212	NO_PER 29984 29991	Miraut 
+T213	NO_PER 44122 44126	son 
+T214	NO_PER 38076 38082	Miraut
+T215	NO_PER 29882 29886	qui 
+T216	NO_PER 37499 37506	Miraut 
+T217	NO_PER 44285 44289	lui 
+T218	NO_PER 29910 29920	retombait 
+T219	NO_PER 44277 44283	Miraut
+T220	NO_PER 44055 44062	Miraut 
+T221	NO_PER 43870 43877	Miraut 
+T222	NO_PER 35922 35925	il 
+T223	NO_PER 34187 34202	son vieux chien
+T224	NO_PER 35710 35717	Miraut 
+T225	NO_PER 9857 9860	il 
+T226	NO_PER 9672 9676	ses 
+T227	NO_PER 35960 35970	cherchait 
+T228	NO_PER 35728 35731	sa 
+T229	NO_PER 9650 9653	sa 
+T230	NO_PER 9902 9915	s'inquiétait 
+T231	NO_PER 30067 30070	le 
+T232	NO_PER 29851 29856	dont 
+T233	NO_PER 37152 37211	un chien unique, presque aveugle et tout gris de vieillesse
+T234	NO_PER 35008 35015	Miraut 
+T235	NO_PER 44351 44354	sa 
+T236	NO_PER 29836 29851	du vieux chien 
+T237	FAC 37243 37258	au logis désert
+T238	FAC 13638 13646	du logis
+T239	FAC 11450 11465	ce logis désert
+T240	FAC 10052 10064	l'habitation
+T241	FAC 49337 49346	la maison
+T242	FAC 10176 10185	le logis 
+T243	FAC 13699 13717	cette maison morte
+T244	FAC 18817 18824	du lieu
+T245	FAC 11170 11186	cette cage vide 
+T246	FAC 37615 37626	l'escalier 
+T247	FAC 10137 10150	Cet escalier 
+T248	FAC 10226 10229	Il 
+T249	FAC 45317 45327	l'escalier
+T250	FAC 10081 10135	un énorme escalier à rampe de bois taillée en balustre
+T251	FAC 10162 10174	deux paliers
+T252	FAC 10211 10222	deux étages
+T253	FAC 10251 10261	au premier
+T254	LOC 10725 10740	îles inconnues 
+T255	FAC 13220 13253	cette galerie muette et immobile 
+T256	FAC 15273 15285	cette salle 
+T257	FAC 14288 14297	la salle 
+T258	FAC 49857 49861	que 
+T259	FAC 53040 53057	la chambre morte 
+T260	FAC 49707 49728	cette pièce inhabitée
+T261	FAC 11371 11375	qui 
+T262	FAC 11361 11371	une pièce 
+T263	FAC 53741 53744	où 
+T264	FAC 49931 49935	qui 
+T265	FAC 13733 13742	la salle 
+T266	FAC 37703 37721	la salle à manger 
+T267	FAC 49839 49857	cet étrange logis 
+T268	FAC 49288 49305	la salle à manger
+T269	FAC 53722 53739	cette vaste salle
+T270	FAC 11394 11409	salle à manger 
+T271	TIME 11428 11431	où 
+T272	TIME 11409 11428	aux temps fabuleux 
+T273	FAC 49442 49454	la cheminée 
+T274	FAC 11756 11784	la cheminée de forme antique
+T275	FAC 51230 51241	la cheminée
+T276	PER 11967 11972	leur 
+T277	PER 12079 12085	leurs 
+T278	PER 11936 11961	des capitaines cuirassés 
+T279	PER 11988 11992	eux 
+T280	PER 12004 12011	un page
+T281	PER 12102 12137	des seigneurs en simarre de velours
+T282	NO_PER 12205 12225	saint Jean-Baptiste 
+T283	PER 12250 12320	des douairières en costume à la vieille mode, effrayantes de lividité 
+T284	PER 53233 53238	leur 
+T285	PER 53157 53248	les douairières vertueuses, engoncées dans leurs collerettes et roides sous leur vertugadin
+T286	PER 53200 53206	leurs 
+T287	NO_PER 12384 12391	stryges
+T288	NO_PER 12396 12403	lamies 
+T289	NO_PER 12408 12416	empouses
+T290	PER 12444 12473	des barbouilleurs de province
+T291	PER 12705 12730	du personnage représenté 
+T292	PER 32576 32580	ses 
+T293	PER 47852 47858	votre 
+T294	PER 45817 45820	sa 
+T295	PER 48191 48194	je 
+T296	PER 42471 42475	lui 
+T297	PER 34113 34128	le jeune baron 
+T298	PER 48153 48156	ma 
+T299	PER 47873 47876	je 
+T300	PER 33609 33613	son 
+T301	PER 45808 45811	il 
+T302	PER 42832 42835	il 
+T303	PER 37479 37497	le jeune seigneur 
+T304	PER 31663 31666	sa 
+T305	PER 42350 42354	son 
+T306	PER 40723 40727	son 
+T307	PER 44253 44257	ses 
+T308	PER 54775 54779	ses 
+T309	PER 32544 32547	il 
+T310	PER 54517 54520	il 
+T311	PER 51132 51141	le Baron 
+T312	PER 36961 36965	ses 
+T313	PER 42363 42366	il 
+T314	PER 31706 31710	lui 
+T315	PER 31770 31773	Sa 
+T316	PER 54840 54844	Son 
+T317	PER 36894 36910	un rejeton isolé
+T318	PER 54473 54482	Le Baron 
+T319	PER 33577 33580	il 
+T320	PER 54428 54431	il 
+T321	PER 33499 33503	Ses 
+T322	PER 45760 45770	se trouva 
+T323	PER 40702 40709	se mit 
+T324	PER 48102 48108	Votre 
+T325	PER 32478 32482	son 
+T326	PER 48102 48119	Votre Seigneurie 
+T327	PER 33925 33936	le seigneur
+T328	PER 33485 33489	son 
+T329	PER 44239 44249	se dressa 
+T330	PER 31630 31634	Son 
+T331	PER 44218 44221	il 
+T332	PER 33889 33892	il 
+T333	PER 35282 35285	il 
+T334	PER 33864 33872	Sigognac
+T335	PER 45726 45738	entr'ouvrit 
+T336	PER 29798 29802	son 
+T337	PER 42194 42197	il 
+T338	PER 54694 54721	Le jeune maître du château 
+T339	PER 54746 54750	son 
+T340	PER 40682 40685	il 
+T341	PER 48061 48066	vous 
+T342	PER 44148 44156	Le Baron
+T343	PER 47185 47200	noble châtelain
+T344	PER 41107 41121	Le jeune Baron
+T345	PER 34265 34274	Le Baron 
+T346	PER 35777 35781	lui 
+T347	PER 37292 37295	il 
+T348	PER 42617 42621	lui 
+T349	PER 43001 43004	sa 
+T350	PER 44478 44493	le jeune homme 
+T351	PER 37803 37818	leur descendant
+T352	PER 35752 35763	son maître 
+T353	PER 43047 43148	le baron de Sigognac accoutré comme un gueux de l'Hostière ou comme un cueilleur de pommes du Perche 
+T354	PER 36159 36167	du Baron
+T355	PER 44542 44545	il 
+T356	PER 34155 34159	son 
+T357	PER 42531 42534	il 
+T358	PER 39543 39610	Le châtelain de ce triste manoir, habitué à ces lugubres symphonies
+T359	PER 34187 34191	son 
+T360	PER 32721 32724	il 
+T361	PER 47055 47064	du Baron 
+T362	PER 37261 37270	Le Baron 
+T363	PER 42877 42880	Sa 
+T364	PER 31872 31876	lui 
+T365	PER 31909 31912	le 
+T366	PER 34133 34137	ses 
+T367	PER 35577 35586	le Baron 
+T368	PER 32674 32678	son 
+T369	PER 42506 42509	il 
+T370	PER 45451 45455	ses 
+T371	PER 54138 54142	lui 
+T372	PER 33054 33058	son 
+T373	PER 50146 50150	mon 
+T374	PER 54181 54185	lui 
+T375	PER 30520 30523	il 
+T376	PER 33118 33122	lui 
+T377	PER 50212 50215	Je 
+T378	PER 34550 34559	le Baron 
+T379	PER 35972 35976	lui 
+T380	PER 31060 31063	sa 
+T381	PER 41934 41950	le jeune enfant 
+T382	PER 29129 29133	-il 
+T383	PER 31115 31130	un jeune homme 
+T384	PER 31130 31134	qui 
+T385	PER 57653 57656	Il 
+T386	PER 36360 36363	il 
+T387	PER 40272 40281	Sigognac 
+T388	PER 24613 24631	mon pauvre maître 
+T389	PER 32447 32461	le fluet baron
+T390	PER 44705 44712	du fils
+T391	PER 33022 33025	il 
+T392	PER 34961 34969	du Baron
+T393	PER 30986 30990	ses 
+T394	PER 34971 34975	qui 
+T395	PER 30474 30478	lui 
+T396	PER 50087 50090	Je 
+T397	PER 57487 57513	au jeune baron de Sigognac
+T398	PER 32981 32983	l'
+T399	PER 36333 36344	son maître 
+T400	PER 32997 33001	son 
+T401	PER 50130 50144	le jeune Baron
+T402	PER 45354 45357	sa 
+T403	PER 45340 45343	sa 
+T404	PER 57560 57564	qui 
+T405	PER 35948 35957	du Baron 
+T406	PER 30356 30360	qui 
+T407	PER 30844 30848	ses 
+T408	PER 43201 43205	ses 
+T409	PER 30967 30970	sa 
+T410	PER 41750 41759	son fils 
+T411	PER 30282 30302	Le baron de Sigognac
+T412	PER 32918 32933	le jeune baron 
+T413	PER 45298 45307	Sigognac 
+T414	PER 53969 53977	Sigognac
+T415	PER 47247 47253	votre 
+T416	PER 44568 44571	il 
+T417	PER 30308 30310	c'
+T418	PER 48502 48513	son maître 
+T419	PER 30321 30356	le seigneur de ce castel démantelé 
+T420	PER 43170 43172	l'
+T421	PER 28833 28849	Le jeune maître 
+T422	PER 32330 32334	son 
+T423	PER 53979 53985	à qui 
+T424	PER 33413 33423	avait été 
+T425	PER 13084 13137	du dernier descendant de ces hommes de race et d'épée
+T426	PER 35177 35186	le Baron 
+T427	PER 54362 54379	notre jeune baron
+T428	PER 23398 23402	Qui 
+T429	PER 42167 42171	lui 
+T430	PER 54391 54395	lui 
+T431	PER 50955 50962	daigne 
+T432	PER 45091 45100	du maître
+T433	PER 45693 45696	Il 
+T434	PER 50930 50942	ce seigneur 
+T435	PER 33371 33374	Il 
+T436	PER 29778 29794	le nouveau venu 
+T437	PER 30750 30754	ses 
+T438	PER 40486 40489	sa 
+T439	PER 30772 30776	ses 
+T440	PER 35090 35093	sa 
+T441	PER 31524 31539	le jeune baron 
+T442	PER 42155 42164	son fils 
+T443	PER 49273 49281	Sigognac
+T444	PER 47502 47548	le Baron ennuyé par le verbiage du vieux drôle
+T445	PER 45554 45557	il 
+T446	PER 42048 42051	sa 
+T447	PER 13193 13197	ses 
+T448	PER 45617 45620	il 
+T449	PER 33312 33330	le jeune Sigognac 
+T450	PER 33724 33731	du fils
+T451	PER 50291 50294	je 
+T452	PER 40441 40445	ses 
+T453	PER 40382 40389	se mit 
+T454	PER 40000 40009	le Baron 
+T455	PER 40367 40370	sa 
+T456	PER 43496 43530	un rejeton de cette race amoindrie
+T457	PER 30634 30638	ses 
+T458	PER 38167 38176	Le Baron 
+T459	PER 54534 54537	sa 
+T460	PER 41975 41979	ses 
+T461	PER 15147 15157	causaient 
+T462	PER 15058 15064	leurs 
+T463	PER 36961 36971	ses aïeux 
+T464	PER 13193 13209	ses nobles aïeux
+T465	PER 41212 41222	Ses aïeux 
+T466	PER 15035 15071	des ancêtres sortis de leurs cadres 
+T467	PER 15163 15167	eux 
+T468	TIME 13211 13218	Le soir
+T469	FAC 44833 44851	des chambres vides
+T470	FAC 38950 38971	les chambres désertes
+T471	FAC 13425 13447	ces chambres désertes 
+T472	PER 13648 13668	Des habitants réels 
+T473	TIME 14225 14251	des époques plus heureuses
+T474	PER 14398 14414	Bernard Palissy 
+T475	TIME 14657 14668	les années 
+T476	TIME 15205 15267	les longues nuits d'hiver si favorables aux agapes de spectres
+T477	FAC 18874 18896	cette dernière chambre
+T478	FAC 16333 16346	cette chambre
+T479	FAC 38257 38268	la chambre 
+T480	FAC 17207 17215	la pièce
+T481	FAC 37863 37867	que 
+T482	FAC 18256 18269	cette chambre
+T483	FAC 15303 15332	une autre un peu moins grande
+T484	FAC 37830 37863	la chambre à coucher fantastique 
+T485	GPE 15360 15368	Flandre 
+T486	FAC 15842 15846	son 
+T487	FAC 15818 15835	La ferme flamande
+T488	PER 38605 38609	ses 
+T489	PER 38523 38526	Il 
+T490	PER 38664 38668	son 
+T491	PER 38544 38548	son 
+T492	PER 38432 38443	le chasseur
+T493	PER 15930 15969	du chasseur à la poursuite des halbrans
+T494	PER 16357 16361	son 
+T495	PER 16315 16318	il 
+T496	PER 16285 16311	Hamlet, prince de Danemark
+T497	NO_PER 16375 16384	Polonius 
+T498	PER 16567 16614	du visiteur assez hardi pour pénétrer jusque-là
+T499	TIME 16792 16800	la mort 
+T500	FAC 17489 17502	des tombeaux 
+T501	PER 17629 17659	une jeune princesse enchantée 
+T502	NO_PER 17699 17723	la Belle au bois dormant
+T503	PER 18299 18308	un homme 
+T504	PER 18308 18312	qui 
+T505	FAC 18359 18375	Ces deux pièces 
+T506	FAC 20018 20029	ces salles 
+T507	FAC 19177 19198	de chambres délabrées
+T508	FAC 20029 20032	où 
+T509	FAC 19886 19896	un caveau 
+T510	FAC 19919 19923	son 
+T511	TIME 19972 19981	du passé 
+T512	TIME 20032 20043	le présent 
+T513	FAC 20473 20476	là 
+T514	FAC 20189 20201	les greniers
+T515	TIME 21793 21801	faisait 
+T516	TIME 21663 21667	qui 
+T517	TIME 21655 21663	Le jour 
+T518	TIME 38314 38321	le jour
+T519	TIME 20221 20228	le jour
+T520	FAC 20485 20509	les ruines de Montlhéry 
+T521	FAC 20485 20531	les ruines de Montlhéry ou du château Gaillard
+T522	GPE 20499 20509	Montlhéry 
+T523	FAC 20512 20531	du château Gaillard
+T524	TIME 20533 20544	Chaque soir
+T525	FAC 20746 20776	Les pièces du rez-de-chaussée 
+T526	FAC 20913 20919	elles 
+T527	FAC 20905 20919	l'une d'elles 
+T528	GPE 20980 20987	Turquie
+T529	PER 34535 34538	il 
+T530	PER 37018 37062	un seul domestique, serviteur par dévouement
+T531	PER 24187 24191	ses 
+T532	PER 37064 37068	qui 
+T533	PER 34473 34477	son 
+T534	PER 28493 28496	il 
+T535	PER 28522 28526	son 
+T536	PER 24115 24118	lui
+T537	PER 24634 24637	moi
+T538	PER 37461 37468	se mit 
+T539	PER 27700 27729	le possesseur de ce vêtement 
+T540	PER 26896 26899	sa 
+T541	PER 38057 38067	se retira 
+T542	PER 24613 24617	mon 
+T543	PER 36333 36337	son 
+T544	PER 26380 26384	son 
+T545	PER 36363 36367	lui 
+T546	PER 34402 34411	Celui-ci 
+T547	PER 48502 48506	son 
+T548	PER 34452 34458	versa 
+T549	PER 49429 49432	il 
+T550	PER 48563 48566	il 
+T551	PER 28386 28398	du bonhomme 
+T552	PER 28413 28416	sa 
+T553	PER 24557 24560	je 
+T554	PER 23952 23997	un bonhomme, moitié paysan, moitié domestique
+T555	PER 26732 26736	ses 
+T556	PER 48488 48502	avait rejoint 
+T557	PER 37887 37906	le vieux serviteur 
+T558	PER 34393 34399	Pierre
+T559	PER 21053 21077	l'unique valet du manoir
+T560	PER 24047 24062	du nouveau venu
+T561	PER 28889 28895	Pierre
+T562	PER 48431 48470	Pierre, éveillé par les abois de Miraut
+T563	PER 48898 48904	Pierre
+T564	PER 37315 37321	Pierre
+T565	PER 36169 36176	Pierre 
+T566	PER 49348 49355	Pierre 
+T567	PER 26161 26164	sa 
+T568	PER 25444 25449	jeta 
+T569	PER 34752 34760	apporta 
+T570	PER 28714 28717	lui
+T571	PER 29764 29768	son 
+T572	PER 24874 24878	lui 
+T573	PER 27197 27200	sa 
+T574	PER 27217 27221	Ses 
+T575	PER 25368 25374	Pierre
+T576	PER 26128 26131	lui
+T577	PER 24392 24405	le vieillard 
+T578	PER 28629 28637	faisait 
+T579	PER 25391 25409	du vieux serviteur
+T580	PER 24457 24460	sa 
+T581	PER 26586 26589	il 
+T582	PER 29743 29747	ôta 
+T583	PER 34650 34653	il 
+T584	PER 24817 24825	l'homme 
+T585	PER 24828 24831	le 
+T586	PER 37282 37289	Pierre 
+T587	PER 28106 28113	Pierre 
+T588	PER 51317 51324	Pierre 
+T589	PER 26472 26476	son 
+T590	PER 27153 27157	son 
+T591	PER 26529 26532	sa 
+T592	PER 29727 29734	Pierre 
+T593	PER 25930 25937	Pierre 
+T594	PER 27106 27113	Pierre 
+T595	PER 28532 28536	ses 
+T596	PER 27123 27129	soldat
+T597	METALEPSE 21086 21097	le lecteur 
+T598	METALEPSE 21183 21187	-le 
+T599	FAC 21189 21236	la seule pièce un peu vivante du château désert
+T600	FAC 30381 30391	la cuisine
+T601	FAC 28980 28991	la cuisine 
+T602	FAC 36485 36495	la cuisine
+T603	FAC 21240 21250	la cuisine
+T604	FAC 24019 24030	la cuisine.
+T605	FAC 21252 21257	dont 
+T606	FAC 29818 29826	la salle
+T607	FAC 23011 23024	cette cuisine
+T608	FAC 21422 21433	la cheminée
+T609	FAC 37335 37343	au foyer
+T610	FAC 21846 21861	cet âtre froid 
+T611	FAC 24850 24861	la cheminée
+T612	FAC 25964 25975	la cheminée
+T613	FAC 21257 21269	la cheminée 
+T614	FAC 24142 24149	l'âtre 
+T615	FAC 36662 36673	la cheminée
+T616	FAC 28480 28491	la cheminée
+T617	PER 22095 22120	une personne asthmatique 
+T618	NO_PER 36000 36011	Béelzébuth 
+T619	NO_PER 39916 39935	Ce chat visionnaire
+T620	NO_PER 24682 24703	une bête dénuée d'âme
+T621	NO_PER 23087 23091	lui 
+T622	NO_PER 43944 43952	du chat 
+T623	NO_PER 23055 23063	lui-même
+T624	NO_PER 52447 52450	sa 
+T625	NO_PER 22542 22546	ses 
+T626	NO_PER 52420 52423	sa 
+T627	NO_PER 38096 38100	qui 
+T628	NO_PER 36027 36031	son 
+T629	NO_PER 24710 24714	qui 
+T630	NO_PER 35403 35408	dont 
+T631	NO_PER 22987 23004	Ce chat tout seul
+T632	NO_PER 22430 22434	son 
+T633	NO_PER 43811 43815	son 
+T634	NO_PER 29576 29580	ses 
+T635	NO_PER 39848 39852	ses 
+T636	NO_PER 25142 25146	lui 
+T637	NO_PER 22520 22527	fixait 
+T638	NO_PER 24152 24160	se vint 
+T639	NO_PER 37509 37520	Béelzébuth 
+T640	NO_PER 52403 52405	l'
+T641	NO_PER 29953 29964	Béelzébuth 
+T642	NO_PER 38084 38094	Béelzébuth
+T643	NO_PER 39776 39786	regardait 
+T644	NO_PER 39828 39831	il 
+T645	NO_PER 23575 23623	le chat noir à l'œil si profondément mystérieux 
+T646	NO_PER 35389 35401	au chat noir
+T647	NO_PER 29502 29505	sa 
+T648	NO_PER 29548 29552	ses 
+T649	NO_PER 24078 24082	qui 
+T650	NO_PER 24064 24076	le chat noir
+T651	NO_PER 24999 25010	Béelzébuth 
+T652	NO_PER 25033 25036	il 
+T653	NO_PER 29432 29445	le chat noir 
+T654	NO_PER 22286 22349	Un vieux chat noir, maigre, pelé comme un manchon hors d'usage 
+T655	NO_PER 29480 29483	il 
+T656	NO_PER 24569 24572	tu 
+T657	NO_PER 52212 52215	Il 
+T658	NO_PER 43695 43704	appuyait 
+T659	NO_PER 52268 52271	sa 
+T660	NO_PER 24917 24920	il 
+T661	NO_PER 39752 39756	ses 
+T662	NO_PER 43704 43708	ses 
+T663	NO_PER 22352 22357	dont 
+T664	NO_PER 40170 40173	il 
+T665	NO_PER 39702 39706	son 
+T666	NO_PER 24490 24497	du chat
+T667	NO_PER 52200 52204	son 
+T668	NO_PER 43659 43662	il 
+T669	NO_PER 26107 26118	Béelzébuth 
+T670	NO_PER 36083 36092	poussait 
+T671	NO_PER 30122 30126	ses 
+T672	NO_PER 52035 52039	Son 
+T673	NO_PER 43590 43593	il 
+T674	NO_PER 22731 22735	lui 
+T675	NO_PER 43559 43570	Béelzébuth 
+T676	NO_PER 43616 43619	il 
+T677	NO_PER 28657 28664	au chat
+T678	NO_PER 36135 36139	lui 
+T679	NO_PER 28666 28676	Béelzébuth
+T680	NO_PER 39642 39657	Béelzébuth seul
+T681	NO_PER 40070 40074	ses 
+T682	NO_PER 45573 45586	un chat noir 
+T683	NO_PER 23215 23219	ses 
+T684	NO_PER 24376 24386	Béelzébuth
+T685	NO_PER 25311 25315	lui 
+T686	NO_PER 22695 22698	sa 
+T687	NO_PER 37216 37229	un chat noir 
+T688	NO_PER 25296 25299	sa 
+T689	NO_PER 51875 51883	suivait 
+T690	NO_PER 23746 23750	son 
+T691	NO_PER 51817 51827	Béelzébuth
+T692	NO_PER 24236 24240	ses 
+T693	NO_PER 51829 51833	qui 
+T694	NO_PER 23091 23095	qui 
+T695	NO_PER 25240 25244	-il 
+T696	NO_PER 30008 30012	ses 
+T697	NO_PER 38113 38117	ses 
+T698	NO_PER 40015 40018	il 
+T699	NO_PER 24785 24793	le chat 
+T700	NO_PER 29603 29607	fit 
+T701	NO_PER 22641 22645	Ses 
+T702	NO_PER 25278 25281	il 
+T703	NO_PER 24270 24273	sa 
+T704	NO_PER 23719 23727	le chat 
+T705	NO_PER 30064 30067	Il 
+T706	NO_PER 35018 35028	Béelzébuth
+T707	FAC 22795 22808	les cabinets 
+T708	NO_PER 22970 22976	leurs 
+T709	NO_PER 22886 22899	les sorcières
+T710	TIME 22908 22917	au sabbat
+T711	NO_PER 23633 23636	sa 
+T712	NO_PER 23647 23650	le 
+T713	NO_PER 23490 23548	l'esprit familier de la maison, le genius loci, le Kobold 
+T714	PER 23864 23882	une personne âgée 
+T715	PER 24584 24589	nous 
+T716	PER 24613 24637	mon pauvre maître et moi
+T717	TIME 26176 26186	les années
+T718	LOC 44369 44379	le soleil 
+T719	LOC 45606 45615	le soleil
+T720	LOC 26188 26197	le soleil
+T721	TIME 26231 26243	des saisons 
+T722	PER 26558 26584	les gens de la race basque
+T723	PER 26820 26845	un peintre de profession 
+T724	NO_PER 27796 27802	Nestor
+T725	TIME 27840 27858	trois âges d'homme
+T726	TIME 28605 28624	la fin de l'automne
+T727	TIME 49533 49542	l'automne
+T728	TIME 28615 28624	l'automne
+T729	LOC 29064 29110	un ciel rayé de nuages lourds et gros de pluie
+T730	LOC 29171 29182	les landes 
+T731	METALEPSE 29856 29861	nous 
+T732	METALEPSE 37867 37872	nous 
+T733	METALEPSE 54362 54368	notre 
+T734	NO_PER 35008 35028	Miraut et Béelzébuth
+T735	NO_PER 35128 35132	eux 
+T736	NO_PER 37499 37520	Miraut et Béelzébuth 
+T737	NO_PER 35030 35040	tous deux 
+T738	NO_PER 30183 30187	ils 
+T739	NO_PER 30222 30234	se tenaient 
+T740	PER 30399 30444	un jeune homme de vingt-cinq ou vingt-six ans
+T741	TIME 30417 30444	vingt-cinq ou vingt-six ans
+T742	PER 31584 31594	quelqu'un 
+T743	PER 31594 31598	qui 
+T744	PER 31606 31609	sa 
+T745	TIME 32202 32217	tous les jours 
+T746	PER 32251 32261	l'ouvrier 
+T747	PER 32410 32443	un homme plus grand et plus gros 
+T748	PER 33666 33680	du vieux baron
+T749	PER 32801 32824	leur premier possesseur
+T750	PER 32716 32721	dont 
+T751	PER 33054 33063	son père 
+T752	PER 42753 42762	le Baron 
+T753	PER 32997 33013	son propre aïeul
+T754	PER 33243 33270	du vieux gentilhomme défunt
+T755	PER 33609 33617	son père
+T756	PER 42783 42786	sa 
+T757	PER 42350 42358	son père
+T758	PER 32670 32711	feu son père, mort depuis quelques années
+T759	PER 44654 44669	du vieux baron 
+T760	PER 41540 41559	le dernier Sigognac
+T761	PER 41750 41754	son 
+T762	TIME 32696 32711	quelques années
+T763	PER 32767 32778	le fripier 
+T764	TIME 32780 32824	l'époque du décès de leur premier possesseur
+T765	TIME 32884 32916	au commencement de l'autre règne
+T766	PER 33974 33978	les 
+T767	PER 33736 33740	ils 
+T768	PER 33619 33680	Les paysans, habitués à les vénérer sur le dos du vieux baron
+T769	PER 33914 33920	leurs 
+T770	PER 33779 33783	ils 
+T771	PER 34011 34025	les étrangers 
+T772	PER 34210 34262	ce chevalier de la Mort de la gravure d'Albert Dürer
+T773	PER 34250 34262	Albert Dürer
+T774	PER 36058 36078	Berthe la filandière
+T775	FAC 36279 36306	aux porches des cathédrales
+T776	FAC 36291 36306	des cathédrales
+T777	TIME 36398 36407	ce temps 
+T778	TIME 45540 45548	la nuit 
+T779	TIME 44934 44942	la nuit 
+T780	TIME 36407 36415	la nuit 
+T781	TIME 43766 43774	la nuit 
+T782	TIME 49635 49643	la nuit 
+T783	TIME 45533 45536	ce 
+T784	PER 36704 36739	le groupe réuni autour de la table 
+T785	PER 36975 36996	une livrée nombreuse 
+T786	PER 37437 37456	les pauvres paysans
+T787	PER 38038 38052	un apothicaire
+T788	TIME 38347 38355	le soir 
+T789	PER 38501 38521	un être presque réel
+T790	PER 38590 38593	sa 
+T791	PER 38569 38581	un assassin 
+T792	PER 38590 38600	sa victime
+T793	FAC 38870 38882	les couloirs
+T794	PER 39437 39453	un enfant égorgé
+T795	PER 39981 40009	un moins brave que le Baron 
+T796	FAC 40103 40115	les galetas 
+T797	FAC 40103 40152	les galetas et les chambres inhabitées du castel 
+T798	FAC 40118 40152	les chambres inhabitées du castel 
+T799	FAC 40199 40210	un corridor
+T800	PER 40261 40269	un homme
+T801	PER 40589 40596	Ronsard
+T802	PER 40663 40672	des Grecs
+T803	PER 40830 40833	il 
+T804	PER 40753 40762	un homme 
+T805	PER 40854 40859	veut 
+T806	PER 40793 40802	se couche
+T807	PER 40762 40766	qui 
+T808	TIME 40967 40995	une nuit noire et pluvieuse 
+T809	PER 41346 41364	chaque génération 
+T810	PER 41378 41386	l'autre 
+T811	LOC 41426 41435	Les fiefs
+T812	LOC 41477 41481	qui 
+T813	LOC 41426 41477	Les fiefs, les métairies, les fermes et les terres 
+T814	LOC 41437 41450	les métairies
+T815	LOC 41452 41463	les fermes 
+T816	LOC 41466 41477	les terres 
+T817	PER 41875 41890	aux créanciers 
+T818	PER 41875 41902	aux créanciers et aux juifs
+T819	PER 41893 41902	aux juifs
+T820	PER 42048 42098	sa mère morte de tristesse dans ce château délabré
+T821	PER 42155 42159	son 
+T822	TIME 42262 42274	la jeunesse 
+T823	PER 42298 42330	les familles les moins heureuses
+T824	TIME 42495 42504	ce moment
+T825	TIME 42738 42749	quatre ans 
+T826	FAC 42797 42830	le caveau de famille des Sigognac
+T827	PER 42920 42947	la noblesse de la province 
+T828	LOC 42935 42947	la province 
+T829	PER 43083 43106	un gueux de l'Hostière 
+T830	PER 43115 43148	un cueilleur de pommes du Perche 
+T831	GPE 43138 43148	du Perche 
+T832	PER 43233 43247	quelque prince
+T833	PER 43255 43272	beaucoup de gens 
+T834	PER 43281 43286	-ils 
+T835	PER 43444 43466	bien peu de personnes 
+T836	TIME 43540 43557	quelques instants
+T837	LOC 44004 44053	aux environs du castel, d'ordinaire si tranquille
+T838	PER 44315 44332	des Sept-Dormants
+T839	FAC 44351 44359	sa niche
+T840	PER 47579 47583	mes 
+T841	PER 61525 61532	lequel 
+T842	PER 51442 51448	plaça 
+T843	PER 50673 50676	je 
+T844	PER 47222 47231	moi-même 
+T845	PER 47205 47208	je 
+T846	PER 61495 61516	du Pédant déjà décrit
+T847	PER 54631 54640	du Pédant
+T848	PER 47174 47176	m'
+T849	PER 50866 50872	Pédant
+T850	PER 47572 47576	moi 
+T851	PER 51379 51389	Le Pédant 
+T852	PER 44944 44967	Quel voyageur malavisé 
+T853	PER 48348 48352	son 
+T854	PER 48119 48121	m'
+T855	PER 48129 48132	ma 
+T856	PER 47269 47272	me 
+T857	PER 45780 45794	un personnage 
+T858	PER 47534 47548	du vieux drôle
+T859	PER 51615 51618	Il 
+T860	PER 45801 45808	duquel 
+T861	PER 48313 48322	Le Pédant
+T862	PER 50376 50386	le Pédant 
+T863	PER 47898 47903	vous 
+T864	PER 48048 48056	l'acteur
+T865	PER 54959 54969	le Pédant 
+T866	PER 44854 44858	Qui 
+T867	PER 48026 48030	mes 
+T868	PER 47466 47472	-vous 
+T869	PER 48086 48090	-je 
+T870	PER 47005 47028	le burlesque personnage
+T871	TIME 44868 44880	cette heure 
+T872	PER 45042 45049	un hôte
+T873	PER 45121 45134	de visiteurs 
+T874	PER 49731 49744	Les comédiens
+T875	PER 47960 47965	vous 
+T876	PER 50294 50299	vous 
+T877	PER 47920 47957	des comédiens de province en tournée 
+T878	PER 50270 50275	vous 
+T879	PER 47572 47592	moi et mes camarades
+T880	PER 54775 54785	ses hôtes 
+T881	PER 50098 50103	vous 
+T882	PER 49767 49772	leur 
+T883	PER 50662 50671	la troupe
+T884	PER 59986 59995	la troupe
+T885	PER 47910 47915	vous 
+T886	PER 45136 45140	Qui 
+T887	PER 50409 50414	nous 
+T888	PER 50974 50978	nous
+T889	PER 48364 48373	la troupe
+T890	PER 50010 50014	ils 
+T891	PER 48218 48223	vous 
+T892	PER 50475 50480	nous 
+T893	PER 48231 48236	vous 
+T894	PER 50613 50617	nos 
+T895	TIME 45220 45229	du Carême
+T896	PER 45654 45668	le bon Homère 
+T897	PER 45682 45690	l'Aurore
+T898	FAC 46509 46518	Pont-Neuf
+T899	PER 47289 47297	un page 
+T900	PER 47302 47310	un nain 
+T901	TIME 47336 47353	une heure avancée
+T902	PER 47389 47422	les gens du monde les plus polis 
+T903	PER 47579 47592	mes camarades
+T904	PER 47687 47691	qui 
+T905	LOC 47707 47714	bourgs 
+T906	LOC 47717 47724	villes 
+T907	VEH 49029 49035	passa 
+T908	VEH 48620 48642	la charrette embourbée
+T909	VEH 49196 49208	la charrette
+T910	VEH 47751 47765	lequel chariot
+T911	VEH 47728 47749	le chariot de Thespis
+T912	VEH 49060 49070	fut rangé 
+T913	VEH 57206 57218	la charrette
+T914	VEH 48950 48966	au lourd chariot
+T915	VEH 48968 48971	qui
+T916	VEH 52563 52576	la charrette 
+T917	PER 48590 48601	tous trois 
+T918	PER 61568 61578	du Léandre
+T919	PER 48645 48656	Le Léandre 
+T920	PER 54642 54650	Léandre 
+T921	PER 50882 50893	le Léandre 
+T922	PER 54679 54683	ils 
+T923	PER 48645 48671	Le Léandre et le Matamore 
+T924	PER 54642 54665	Léandre et le Matamore 
+T925	PER 54653 54665	le Matamore 
+T926	PER 48659 48671	le Matamore 
+T927	PER 52526 52538	le Matamore 
+T928	PER 61612 61631	du Tranche-montagne
+T929	PER 48724 48728	son 
+T930	PER 61591 61609	du Tyran tragique 
+T931	PER 48696 48703	le Roi 
+T932	PER 53404 53409	leur 
+T933	PER 54881 54886	dont 
+T934	PER 53284 53307	des jeunes comédiennes 
+T935	PER 48747 48788	Les femmes, enveloppées de leurs manteaux
+T936	PER 49612 49622	ces dames 
+T937	PER 48774 48780	leurs 
+T938	PER 49250 49259	montèrent
+T939	PER 49226 49232	leurs 
+T940	PER 49161 49177	les comédiennes 
+T941	PER 48822 48833	poussaient 
+T942	PER 54869 54879	les femmes
+T943	PER 48808 48819	geignaient 
+T944	TIME 49521 49542	au début de l'automne
+T945	FAC 49784 49809	aux gîtes les plus divers
+T946	PER 49861 49872	les hommes 
+T947	FAC 50392 50402	au théâtre
+T948	FAC 59331 59342	au théâtre 
+T949	PER 50645 50671	munitionnaire de la troupe
+T950	GPE 50780 50787	Rivière
+T951	GPE 50828 50835	Cahors 
+T952	GPE 50841 50849	Bordeaux
+T953	PER 51169 51200	l'Isabelle et la donna Sérafina
+T954	PER 51258 51268	rangèrent 
+T955	PER 51210 51222	toutes deux 
+T956	PER 51065 51075	ces dames 
+T957	PER 54088 54098	L'Isabelle
+T958	PER 58643 58648	elle 
+T959	PER 51169 51180	l'Isabelle 
+T960	PER 57854 57859	elle 
+T961	PER 58016 58021	Elle 
+T962	PER 58507 58511	son 
+T963	PER 57759 57770	L'Isabelle 
+T964	PER 57921 57932	se bornait 
+T965	PER 58399 58402	sa 
+T966	PER 58541 58546	elle 
+T967	PER 57831 57835	son 
+T968	PER 58619 58624	elle 
+T969	PER 54545 54554	Isabelle 
+T970	PER 58583 58588	elle 
+T971	PER 56518 56527	Sérafina 
+T972	PER 57394 57397	sa 
+T973	PER 55295 55298	sa 
+T974	PER 55431 55435	lui 
+T975	PER 51183 51200	la donna Sérafina
+T976	PER 57372 57376	son 
+T977	PER 55198 55201	Sa 
+T978	PER 54498 54512	donna Sérafina
+T979	PER 57745 57749	son 
+T980	PER 57791 57808	la donna Sérafina
+T981	PER 56036 56044	la dame 
+T982	PER 55236 55240	son 
+T983	PER 58570 58581	la Sérafina
+T984	PER 57315 57330	donna Sérafina 
+T985	PER 55579 55583	ses 
+T986	PER 54514 54517	qu'
+T987	PER 54106 54114	Sérafina
+T988	PER 57697 57706	la belle 
+T989	PER 56116 56128	la Sérafina 
+T990	PER 55012 55024	La Sérafina 
+T991	PER 55924 55928	Son 
+T992	PER 55264 55268	ses 
+T993	PER 52295 52308	la Gargantua 
+T994	PER 52955 52962	Mairet 
+T995	PER 52980 52987	Tristan
+T996	PER 53352 53366	les guerriers 
+T997	PER 53428 53433	leur 
+T998	PER 53352 53393	les guerriers et les chevaliers de Malte 
+T999	PER 53369 53393	les chevaliers de Malte 
+T1000	PER 53572 53577	leur 
+T1001	PER 53506 53547	deux ou trois vieilles moustaches grises 
+T1002	PER 53655 53659	les 
+T1003	PER 53491 53547	l'exception de deux ou trois vieilles moustaches grises 
+T1004	PER 53644 53655	le peintre 
+T1005	FAC 53799 53810	du sépulcre
+T1006	TIME 53949 53966	quelques instants
+T1007	PER 54294 54316	de fort jolies femmes 
+T1008	PER 54185 54195	faisaient 
+T1009	PER 54088 54136	L'Isabelle, donna Sérafina, et même la soubrette
+T1010	PER 54273 54275	C'
+T1011	PER 54319 54323	qui 
+T1012	PER 59940 59943	sa 
+T1013	PER 59457 59461	ses 
+T1014	PER 59592 59594	C'
+T1015	PER 59416 59440	une pareille Dariolette 
+T1016	PER 59251 59256	elle 
+T1017	PER 58974 58977	Sa 
+T1018	PER 59600 59618	une de ces femmes 
+T1019	PER 58847 58851	Ses 
+T1020	PER 54575 54588	la soubrette 
+T1021	PER 58907 58911	ses 
+T1022	PER 59105 59110	elle 
+T1023	PER 54124 54136	la soubrette
+T1024	PER 58687 58700	La soubrette 
+T1025	PER 58777 58780	Sa 
+T1026	LOC 54238 54247	la terre 
+T1027	PER 54251 54271	de simples mortelles
+T1028	PER 54341 54358	de moins novices 
+T1029	PER 60761 60775	dame Léonarde 
+T1030	PER 60286 60290	Ses 
+T1031	PER 60748 60752	son 
+T1032	PER 60084 60087	sa 
+T1033	PER 60416 60419	sa 
+T1034	PER 61025 61030	elle 
+T1035	PER 60513 60518	elle 
+T1036	PER 60494 60498	ses 
+T1037	PER 60978 60987	Léonarde 
+T1038	PER 61147 61161	cette sorcière
+T1039	PER 59954 59967	Dame Léonarde
+T1040	PER 61037 61044	savait 
+T1041	PER 60224 60228	son 
+T1042	PER 54604 54614	la duègne 
+T1043	PER 60730 60741	Comédienne 
+T1044	PER 60812 60817	elle 
+T1045	PER 55030 55078	une jeune femme de vingt-quatre à vingt-cinq ans
+T1046	PER 55106 55128	les grandes coquettes 
+T1047	PER 55180 55196	une dame de cour
+T1048	PER 55385 55400	Anne d'Autriche
+T1049	PER 55887 55898	un peintre 
+T1050	PER 55912 55915	il 
+T1051	PER 56545 56557	Penthésilée 
+T1052	PER 56563 56572	Marphise 
+T1053	PER 57586 57651	des paysannes vêtues d'une jupe de bure et d'une cape de calmande
+T1054	PER 57993 58014	la fille de Cassandre
+T1055	PER 58005 58014	Cassandre
+T1056	PER 58743 58757	les Espagnols 
+T1057	PER 58765 58775	aux brunes
+T1058	PER 58835 58845	une gitana
+T1059	LOC 59319 59328	la ville 
+T1060	PER 59349 59354	elle 
+T1061	PER 59378 59382	ses 
+T1062	PER 59399 59403	qui 
+T1063	PER 59391 59399	la dame 
+T1064	PER 59537 59556	le galant oublieux 
+T1065	FAC 59577 59590	l'antichambre
+T1066	PER 59772 59776	les 
+T1067	PER 59660 59664	qui 
+T1068	PER 59622 59628	leurs 
+T1069	PER 59618 59622	que 
+T1070	PER 59702 59711	semblent 
+T1071	PER 59607 59618	ces femmes 
+T1072	PER 59842 59848	leurs 
+T1073	PER 59622 59638	leurs compagnes 
+T1074	PER 59688 59699	les hommes 
+T1075	PER 59809 59822	des usuriers 
+T1076	PER 60028 60048	une duègne espagnole
+T1077	TIME 60146 60166	quarante ans de fard
+T1078	TIME 60968 60976	du temps
+T1079	PER 61076 61161	des jeunes et jolies, toutes surprises de voir les bravos s'adresser à cette sorcière
+T1080	PER 61175 61195	le personnel féminin
+T1081	PER 61236 61238	y 
+T1082	PER 61280 61293	un personnage
+T1083	PER 61316 61333	quelque comédien 
+T1084	PER 61316 61462	quelque comédien errant ou quelque amateur de théâtre, heureux de se charger d'un petit rôle, et d'approcher ainsi des Angéliques et des Isabelles
+T1085	PER 61343 61462	quelque amateur de théâtre, heureux de se charger d'un petit rôle, et d'approcher ainsi des Angéliques et des Isabelles
+T1086	PER 61431 61446	des Angéliques 
+T1087	PER 61449 61462	des Isabelles
+T1088	PER 61464 61482	Le personnel mâle 
+T1089	PER 61495 61631	du Pédant déjà décrit, et sur lequel il n'est pas nécessaire de revenir, du Léandre, du Scapin, du Tyran tragique et du Tranche-montagne
+T1090	PER 61580 61589	du Scapin
+R1	Coreference Arg1:T663 Arg2:T654
+R2	Coreference Arg1:T632 Arg2:T654
+R3	Coreference Arg1:T637 Arg2:T654
+R4	Coreference Arg1:T625 Arg2:T654
+R5	Coreference Arg1:T701 Arg2:T654
+R6	Coreference Arg1:T686 Arg2:T654
+R7	Coreference Arg1:T674 Arg2:T654
+R8	Coreference Arg1:T631 Arg2:T654
+R9	Coreference Arg1:T623 Arg2:T654
+R10	Coreference Arg1:T621 Arg2:T654
+R11	Coreference Arg1:T694 Arg2:T654
+R12	Coreference Arg1:T683 Arg2:T654
+R13	Coreference Arg1:T645 Arg2:T654
+R14	Coreference Arg1:T704 Arg2:T654
+R15	Coreference Arg1:T690 Arg2:T654
+R16	Coreference Arg1:T650 Arg2:T654
+R17	Coreference Arg1:T649 Arg2:T654
+R18	Coreference Arg1:T638 Arg2:T654
+R19	Coreference Arg1:T692 Arg2:T654
+R20	Coreference Arg1:T703 Arg2:T654
+R21	Coreference Arg1:T684 Arg2:T654
+R22	Coreference Arg1:T666 Arg2:T654
+R23	Coreference Arg1:T656 Arg2:T654
+R24	Coreference Arg1:T620 Arg2:T654
+R25	Coreference Arg1:T629 Arg2:T654
+R26	Coreference Arg1:T699 Arg2:T654
+R27	Coreference Arg1:T660 Arg2:T654
+R28	Coreference Arg1:T651 Arg2:T654
+R29	Coreference Arg1:T652 Arg2:T654
+R30	Coreference Arg1:T636 Arg2:T654
+R31	Coreference Arg1:T695 Arg2:T654
+R32	Coreference Arg1:T702 Arg2:T654
+R33	Coreference Arg1:T688 Arg2:T654
+R34	Coreference Arg1:T685 Arg2:T654
+R35	Coreference Arg1:T669 Arg2:T654
+R36	Coreference Arg1:T677 Arg2:T654
+R37	Coreference Arg1:T679 Arg2:T654
+R38	Coreference Arg1:T653 Arg2:T654
+R39	Coreference Arg1:T655 Arg2:T654
+R40	Coreference Arg1:T647 Arg2:T654
+R41	Coreference Arg1:T648 Arg2:T654
+R42	Coreference Arg1:T634 Arg2:T654
+R43	Coreference Arg1:T700 Arg2:T654
+R44	Coreference Arg1:T641 Arg2:T654
+R45	Coreference Arg1:T696 Arg2:T654
+R46	Coreference Arg1:T705 Arg2:T654
+R47	Coreference Arg1:T671 Arg2:T654
+R48	Coreference Arg1:T706 Arg2:T654
+R49	Coreference Arg1:T646 Arg2:T654
+R50	Coreference Arg1:T630 Arg2:T654
+R51	Coreference Arg1:T618 Arg2:T654
+R52	Coreference Arg1:T628 Arg2:T654
+R53	Coreference Arg1:T670 Arg2:T654
+R54	Coreference Arg1:T678 Arg2:T654
+R55	Coreference Arg1:T687 Arg2:T654
+R56	Coreference Arg1:T639 Arg2:T654
+R57	Coreference Arg1:T642 Arg2:T654
+R58	Coreference Arg1:T627 Arg2:T654
+R59	Coreference Arg1:T697 Arg2:T654
+R60	Coreference Arg1:T680 Arg2:T654
+R61	Coreference Arg1:T665 Arg2:T654
+R62	Coreference Arg1:T661 Arg2:T654
+R63	Coreference Arg1:T643 Arg2:T654
+R64	Coreference Arg1:T644 Arg2:T654
+R65	Coreference Arg1:T635 Arg2:T654
+R66	Coreference Arg1:T619 Arg2:T654
+R67	Coreference Arg1:T698 Arg2:T654
+R68	Coreference Arg1:T681 Arg2:T654
+R69	Coreference Arg1:T664 Arg2:T654
+R70	Coreference Arg1:T675 Arg2:T654
+R71	Coreference Arg1:T673 Arg2:T654
+R72	Coreference Arg1:T676 Arg2:T654
+R73	Coreference Arg1:T668 Arg2:T654
+R74	Coreference Arg1:T658 Arg2:T654
+R75	Coreference Arg1:T662 Arg2:T654
+R76	Coreference Arg1:T633 Arg2:T654
+R77	Coreference Arg1:T622 Arg2:T654
+R78	Coreference Arg1:T682 Arg2:T654
+R79	Coreference Arg1:T691 Arg2:T654
+R80	Coreference Arg1:T693 Arg2:T654
+R81	Coreference Arg1:T689 Arg2:T654
+R82	Coreference Arg1:T672 Arg2:T654
+R83	Coreference Arg1:T667 Arg2:T654
+R84	Coreference Arg1:T657 Arg2:T654
+R85	Coreference Arg1:T659 Arg2:T654
+R86	Coreference Arg1:T640 Arg2:T654
+R87	Coreference Arg1:T626 Arg2:T654
+R88	Coreference Arg1:T624 Arg2:T654
+R89	Coreference Arg1:T739 Arg2:T738
+R90	Coreference Arg1:T734 Arg2:T738
+R91	Coreference Arg1:T737 Arg2:T738
+R92	Coreference Arg1:T735 Arg2:T738
+R93	Coreference Arg1:T736 Arg2:T738
+R94	Coreference Arg1:T63 Arg2:T62
+R95	Coreference Arg1:T495 Arg2:T496
+R96	Coreference Arg1:T494 Arg2:T496
+R97	Coreference Arg1:T957 Arg2:T959
+R98	Coreference Arg1:T969 Arg2:T959
+R99	Coreference Arg1:T963 Arg2:T959
+R100	Coreference Arg1:T967 Arg2:T959
+R101	Coreference Arg1:T960 Arg2:T959
+R102	Coreference Arg1:T964 Arg2:T959
+R103	Coreference Arg1:T961 Arg2:T959
+R104	Coreference Arg1:T965 Arg2:T959
+R105	Coreference Arg1:T962 Arg2:T959
+R106	Coreference Arg1:T966 Arg2:T959
+R107	Coreference Arg1:T970 Arg2:T959
+R108	Coreference Arg1:T968 Arg2:T959
+R109	Coreference Arg1:T958 Arg2:T959
+R110	Coreference Arg1:T1008 Arg2:T1009
+R111	Coreference Arg1:T1010 Arg2:T1009
+R112	Coreference Arg1:T1007 Arg2:T1009
+R113	Coreference Arg1:T1011 Arg2:T1009
+R114	Coreference Arg1:T953 Arg2:T956
+R115	Coreference Arg1:T955 Arg2:T956
+R116	Coreference Arg1:T954 Arg2:T956
+R117	Coreference Arg1:T1039 Arg2:T1042
+R118	Coreference Arg1:T1032 Arg2:T1042
+R119	Coreference Arg1:T1041 Arg2:T1042
+R120	Coreference Arg1:T1030 Arg2:T1042
+R121	Coreference Arg1:T1033 Arg2:T1042
+R122	Coreference Arg1:T1036 Arg2:T1042
+R123	Coreference Arg1:T1035 Arg2:T1042
+R124	Coreference Arg1:T1043 Arg2:T1042
+R125	Coreference Arg1:T1031 Arg2:T1042
+R126	Coreference Arg1:T1029 Arg2:T1042
+R127	Coreference Arg1:T1044 Arg2:T1042
+R128	Coreference Arg1:T1037 Arg2:T1042
+R129	Coreference Arg1:T1034 Arg2:T1042
+R130	Coreference Arg1:T1040 Arg2:T1042
+R131	Coreference Arg1:T1038 Arg2:T1042
+R132	Coreference Arg1:T229 Arg2:T209
+R133	Coreference Arg1:T226 Arg2:T209
+R134	Coreference Arg1:T208 Arg2:T209
+R135	Coreference Arg1:T207 Arg2:T209
+R136	Coreference Arg1:T225 Arg2:T209
+R137	Coreference Arg1:T230 Arg2:T209
+R138	Coreference Arg1:T236 Arg2:T209
+R139	Coreference Arg1:T232 Arg2:T209
+R140	Coreference Arg1:T215 Arg2:T209
+R141	Coreference Arg1:T218 Arg2:T209
+R142	Coreference Arg1:T212 Arg2:T209
+R143	Coreference Arg1:T231 Arg2:T209
+R144	Coreference Arg1:T223 Arg2:T209
+R145	Coreference Arg1:T234 Arg2:T209
+R146	Coreference Arg1:T206 Arg2:T209
+R147	Coreference Arg1:T205 Arg2:T209
+R148	Coreference Arg1:T224 Arg2:T209
+R149	Coreference Arg1:T228 Arg2:T209
+R150	Coreference Arg1:T202 Arg2:T209
+R151	Coreference Arg1:T201 Arg2:T209
+R152	Coreference Arg1:T222 Arg2:T209
+R153	Coreference Arg1:T227 Arg2:T209
+R154	Coreference Arg1:T203 Arg2:T209
+R155	Coreference Arg1:T233 Arg2:T209
+R156	Coreference Arg1:T216 Arg2:T209
+R157	Coreference Arg1:T214 Arg2:T209
+R158	Coreference Arg1:T221 Arg2:T209
+R159	Coreference Arg1:T220 Arg2:T209
+R160	Coreference Arg1:T210 Arg2:T209
+R161	Coreference Arg1:T213 Arg2:T209
+R162	Coreference Arg1:T219 Arg2:T209
+R163	Coreference Arg1:T217 Arg2:T209
+R164	Coreference Arg1:T211 Arg2:T209
+R165	Coreference Arg1:T235 Arg2:T209
+R166	Coreference Arg1:T204 Arg2:T209
+R167	Coreference Arg1:T554 Arg2:T559
+R168	Coreference Arg1:T560 Arg2:T559
+R169	Coreference Arg1:T536 Arg2:T559
+R170	Coreference Arg1:T531 Arg2:T559
+R171	Coreference Arg1:T577 Arg2:T559
+R172	Coreference Arg1:T580 Arg2:T559
+R173	Coreference Arg1:T553 Arg2:T559
+R174	Coreference Arg1:T542 Arg2:T559
+R175	Coreference Arg1:T537 Arg2:T559
+R176	Coreference Arg1:T584 Arg2:T559
+R177	Coreference Arg1:T585 Arg2:T559
+R178	Coreference Arg1:T572 Arg2:T559
+R179	Coreference Arg1:T575 Arg2:T559
+R180	Coreference Arg1:T579 Arg2:T559
+R181	Coreference Arg1:T568 Arg2:T559
+R182	Coreference Arg1:T593 Arg2:T559
+R183	Coreference Arg1:T576 Arg2:T559
+R184	Coreference Arg1:T567 Arg2:T559
+R185	Coreference Arg1:T544 Arg2:T559
+R186	Coreference Arg1:T589 Arg2:T559
+R187	Coreference Arg1:T591 Arg2:T559
+R188	Coreference Arg1:T581 Arg2:T559
+R189	Coreference Arg1:T555 Arg2:T559
+R190	Coreference Arg1:T540 Arg2:T559
+R191	Coreference Arg1:T594 Arg2:T559
+R192	Coreference Arg1:T596 Arg2:T559
+R193	Coreference Arg1:T590 Arg2:T559
+R194	Coreference Arg1:T573 Arg2:T559
+R195	Coreference Arg1:T574 Arg2:T559
+R196	Coreference Arg1:T539 Arg2:T559
+R197	Coreference Arg1:T587 Arg2:T559
+R198	Coreference Arg1:T551 Arg2:T559
+R199	Coreference Arg1:T552 Arg2:T559
+R200	Coreference Arg1:T534 Arg2:T559
+R201	Coreference Arg1:T535 Arg2:T559
+R202	Coreference Arg1:T595 Arg2:T559
+R203	Coreference Arg1:T578 Arg2:T559
+R204	Coreference Arg1:T570 Arg2:T559
+R205	Coreference Arg1:T561 Arg2:T559
+R206	Coreference Arg1:T592 Arg2:T559
+R207	Coreference Arg1:T582 Arg2:T559
+R208	Coreference Arg1:T571 Arg2:T559
+R209	Coreference Arg1:T558 Arg2:T559
+R210	Coreference Arg1:T546 Arg2:T559
+R211	Coreference Arg1:T548 Arg2:T559
+R212	Coreference Arg1:T533 Arg2:T559
+R213	Coreference Arg1:T529 Arg2:T559
+R214	Coreference Arg1:T583 Arg2:T559
+R215	Coreference Arg1:T569 Arg2:T559
+R216	Coreference Arg1:T565 Arg2:T559
+R217	Coreference Arg1:T543 Arg2:T559
+R218	Coreference Arg1:T545 Arg2:T559
+R219	Coreference Arg1:T530 Arg2:T559
+R220	Coreference Arg1:T532 Arg2:T559
+R221	Coreference Arg1:T586 Arg2:T559
+R222	Coreference Arg1:T564 Arg2:T559
+R223	Coreference Arg1:T538 Arg2:T559
+R224	Coreference Arg1:T557 Arg2:T559
+R225	Coreference Arg1:T541 Arg2:T559
+R226	Coreference Arg1:T562 Arg2:T559
+R227	Coreference Arg1:T556 Arg2:T559
+R228	Coreference Arg1:T547 Arg2:T559
+R229	Coreference Arg1:T550 Arg2:T559
+R230	Coreference Arg1:T563 Arg2:T559
+R231	Coreference Arg1:T566 Arg2:T559
+R232	Coreference Arg1:T549 Arg2:T559
+R233	Coreference Arg1:T588 Arg2:T559
+R234	Coreference Arg1:T716 Arg2:T715
+R235	Coreference Arg1:T987 Arg2:T975
+R236	Coreference Arg1:T978 Arg2:T975
+R237	Coreference Arg1:T986 Arg2:T975
+R238	Coreference Arg1:T990 Arg2:T975
+R239	Coreference Arg1:T977 Arg2:T975
+R240	Coreference Arg1:T982 Arg2:T975
+R241	Coreference Arg1:T992 Arg2:T975
+R242	Coreference Arg1:T973 Arg2:T975
+R243	Coreference Arg1:T974 Arg2:T975
+R244	Coreference Arg1:T985 Arg2:T975
+R245	Coreference Arg1:T991 Arg2:T975
+R246	Coreference Arg1:T981 Arg2:T975
+R247	Coreference Arg1:T989 Arg2:T975
+R248	Coreference Arg1:T971 Arg2:T975
+R249	Coreference Arg1:T984 Arg2:T975
+R250	Coreference Arg1:T976 Arg2:T975
+R251	Coreference Arg1:T972 Arg2:T975
+R252	Coreference Arg1:T988 Arg2:T975
+R253	Coreference Arg1:T979 Arg2:T975
+R254	Coreference Arg1:T980 Arg2:T975
+R255	Coreference Arg1:T983 Arg2:T975
+R256	Coreference Arg1:T466 Arg2:T464
+R257	Coreference Arg1:T462 Arg2:T464
+R258	Coreference Arg1:T461 Arg2:T464
+R259	Coreference Arg1:T467 Arg2:T464
+R260	Coreference Arg1:T463 Arg2:T464
+R261	Coreference Arg1:T465 Arg2:T464
+R262	Coreference Arg1:T447 Arg2:T425
+R263	Coreference Arg1:T428 Arg2:T425
+R264	Coreference Arg1:T388 Arg2:T425
+R265	Coreference Arg1:T421 Arg2:T425
+R266	Coreference Arg1:T382 Arg2:T425
+R267	Coreference Arg1:T436 Arg2:T425
+R268	Coreference Arg1:T336 Arg2:T425
+R269	Coreference Arg1:T411 Arg2:T425
+R270	Coreference Arg1:T417 Arg2:T425
+R271	Coreference Arg1:T419 Arg2:T425
+R272	Coreference Arg1:T406 Arg2:T425
+R273	Coreference Arg1:T395 Arg2:T425
+R274	Coreference Arg1:T375 Arg2:T425
+R275	Coreference Arg1:T457 Arg2:T425
+R276	Coreference Arg1:T437 Arg2:T425
+R277	Coreference Arg1:T439 Arg2:T425
+R278	Coreference Arg1:T407 Arg2:T425
+R279	Coreference Arg1:T409 Arg2:T425
+R280	Coreference Arg1:T393 Arg2:T425
+R281	Coreference Arg1:T380 Arg2:T425
+R282	Coreference Arg1:T383 Arg2:T425
+R283	Coreference Arg1:T384 Arg2:T425
+R284	Coreference Arg1:T441 Arg2:T425
+R285	Coreference Arg1:T330 Arg2:T425
+R286	Coreference Arg1:T304 Arg2:T425
+R287	Coreference Arg1:T314 Arg2:T425
+R288	Coreference Arg1:T315 Arg2:T425
+R289	Coreference Arg1:T364 Arg2:T425
+R290	Coreference Arg1:T365 Arg2:T425
+R291	Coreference Arg1:T422 Arg2:T425
+R292	Coreference Arg1:T389 Arg2:T425
+R293	Coreference Arg1:T325 Arg2:T425
+R294	Coreference Arg1:T309 Arg2:T425
+R295	Coreference Arg1:T292 Arg2:T425
+R296	Coreference Arg1:T368 Arg2:T425
+R297	Coreference Arg1:T360 Arg2:T425
+R298	Coreference Arg1:T412 Arg2:T425
+R299	Coreference Arg1:T398 Arg2:T425
+R300	Coreference Arg1:T400 Arg2:T425
+R301	Coreference Arg1:T391 Arg2:T425
+R302	Coreference Arg1:T372 Arg2:T425
+R303	Coreference Arg1:T376 Arg2:T425
+R304	Coreference Arg1:T449 Arg2:T425
+R305	Coreference Arg1:T435 Arg2:T425
+R306	Coreference Arg1:T424 Arg2:T425
+R307	Coreference Arg1:T328 Arg2:T425
+R308	Coreference Arg1:T321 Arg2:T425
+R309	Coreference Arg1:T319 Arg2:T425
+R310	Coreference Arg1:T300 Arg2:T425
+R311	Coreference Arg1:T450 Arg2:T425
+R312	Coreference Arg1:T334 Arg2:T425
+R313	Coreference Arg1:T332 Arg2:T425
+R314	Coreference Arg1:T327 Arg2:T425
+R315	Coreference Arg1:T297 Arg2:T425
+R316	Coreference Arg1:T366 Arg2:T425
+R317	Coreference Arg1:T356 Arg2:T425
+R318	Coreference Arg1:T359 Arg2:T425
+R319	Coreference Arg1:T345 Arg2:T425
+R320	Coreference Arg1:T378 Arg2:T425
+R321	Coreference Arg1:T392 Arg2:T425
+R322	Coreference Arg1:T394 Arg2:T425
+R323	Coreference Arg1:T440 Arg2:T425
+R324	Coreference Arg1:T426 Arg2:T425
+R325	Coreference Arg1:T333 Arg2:T425
+R326	Coreference Arg1:T367 Arg2:T425
+R327	Coreference Arg1:T352 Arg2:T425
+R328	Coreference Arg1:T346 Arg2:T425
+R329	Coreference Arg1:T405 Arg2:T425
+R330	Coreference Arg1:T379 Arg2:T425
+R331	Coreference Arg1:T354 Arg2:T425
+R332	Coreference Arg1:T399 Arg2:T425
+R333	Coreference Arg1:T386 Arg2:T425
+R334	Coreference Arg1:T317 Arg2:T425
+R335	Coreference Arg1:T312 Arg2:T425
+R336	Coreference Arg1:T362 Arg2:T425
+R337	Coreference Arg1:T347 Arg2:T425
+R338	Coreference Arg1:T303 Arg2:T425
+R339	Coreference Arg1:T351 Arg2:T425
+R340	Coreference Arg1:T458 Arg2:T425
+R341	Coreference Arg1:T358 Arg2:T425
+R342	Coreference Arg1:T454 Arg2:T425
+R343	Coreference Arg1:T387 Arg2:T425
+R344	Coreference Arg1:T455 Arg2:T425
+R345	Coreference Arg1:T453 Arg2:T425
+R346	Coreference Arg1:T452 Arg2:T425
+R347	Coreference Arg1:T438 Arg2:T425
+R348	Coreference Arg1:T340 Arg2:T425
+R349	Coreference Arg1:T323 Arg2:T425
+R350	Coreference Arg1:T306 Arg2:T425
+R351	Coreference Arg1:T344 Arg2:T425
+R352	Coreference Arg1:T410 Arg2:T425
+R353	Coreference Arg1:T381 Arg2:T425
+R354	Coreference Arg1:T460 Arg2:T425
+R355	Coreference Arg1:T446 Arg2:T425
+R356	Coreference Arg1:T442 Arg2:T425
+R357	Coreference Arg1:T429 Arg2:T425
+R358	Coreference Arg1:T337 Arg2:T425
+R359	Coreference Arg1:T305 Arg2:T425
+R360	Coreference Arg1:T313 Arg2:T425
+R361	Coreference Arg1:T296 Arg2:T425
+R362	Coreference Arg1:T369 Arg2:T425
+R363	Coreference Arg1:T357 Arg2:T425
+R364	Coreference Arg1:T348 Arg2:T425
+R365	Coreference Arg1:T302 Arg2:T425
+R366	Coreference Arg1:T363 Arg2:T425
+R367	Coreference Arg1:T349 Arg2:T425
+R368	Coreference Arg1:T353 Arg2:T425
+R369	Coreference Arg1:T420 Arg2:T425
+R370	Coreference Arg1:T408 Arg2:T425
+R371	Coreference Arg1:T456 Arg2:T425
+R372	Coreference Arg1:T342 Arg2:T425
+R373	Coreference Arg1:T331 Arg2:T425
+R374	Coreference Arg1:T329 Arg2:T425
+R375	Coreference Arg1:T307 Arg2:T425
+R376	Coreference Arg1:T350 Arg2:T425
+R377	Coreference Arg1:T355 Arg2:T425
+R378	Coreference Arg1:T416 Arg2:T425
+R379	Coreference Arg1:T390 Arg2:T425
+R380	Coreference Arg1:T432 Arg2:T425
+R381	Coreference Arg1:T413 Arg2:T425
+R382	Coreference Arg1:T403 Arg2:T425
+R383	Coreference Arg1:T402 Arg2:T425
+R384	Coreference Arg1:T370 Arg2:T425
+R385	Coreference Arg1:T445 Arg2:T425
+R386	Coreference Arg1:T448 Arg2:T425
+R387	Coreference Arg1:T433 Arg2:T425
+R388	Coreference Arg1:T335 Arg2:T425
+R389	Coreference Arg1:T322 Arg2:T425
+R390	Coreference Arg1:T301 Arg2:T425
+R391	Coreference Arg1:T294 Arg2:T425
+R392	Coreference Arg1:T361 Arg2:T425
+R393	Coreference Arg1:T343 Arg2:T425
+R394	Coreference Arg1:T415 Arg2:T425
+R395	Coreference Arg1:T444 Arg2:T425
+R396	Coreference Arg1:T293 Arg2:T425
+R397	Coreference Arg1:T299 Arg2:T425
+R398	Coreference Arg1:T341 Arg2:T425
+R399	Coreference Arg1:T324 Arg2:T425
+R400	Coreference Arg1:T326 Arg2:T425
+R401	Coreference Arg1:T298 Arg2:T425
+R402	Coreference Arg1:T295 Arg2:T425
+R403	Coreference Arg1:T418 Arg2:T425
+R404	Coreference Arg1:T443 Arg2:T425
+R405	Coreference Arg1:T396 Arg2:T425
+R406	Coreference Arg1:T401 Arg2:T425
+R407	Coreference Arg1:T373 Arg2:T425
+R408	Coreference Arg1:T377 Arg2:T425
+R409	Coreference Arg1:T451 Arg2:T425
+R410	Coreference Arg1:T434 Arg2:T425
+R411	Coreference Arg1:T431 Arg2:T425
+R412	Coreference Arg1:T311 Arg2:T425
+R413	Coreference Arg1:T414 Arg2:T425
+R414	Coreference Arg1:T423 Arg2:T425
+R415	Coreference Arg1:T371 Arg2:T425
+R416	Coreference Arg1:T374 Arg2:T425
+R417	Coreference Arg1:T427 Arg2:T425
+R418	Coreference Arg1:T430 Arg2:T425
+R419	Coreference Arg1:T320 Arg2:T425
+R420	Coreference Arg1:T318 Arg2:T425
+R421	Coreference Arg1:T310 Arg2:T425
+R422	Coreference Arg1:T459 Arg2:T425
+R423	Coreference Arg1:T338 Arg2:T425
+R424	Coreference Arg1:T339 Arg2:T425
+R425	Coreference Arg1:T308 Arg2:T425
+R426	Coreference Arg1:T316 Arg2:T425
+R427	Coreference Arg1:T397 Arg2:T425
+R428	Coreference Arg1:T404 Arg2:T425
+R429	Coreference Arg1:T385 Arg2:T425
+R430	Coreference Arg1:T834 Arg2:T833
+R431	Coreference Arg1:T1069 Arg2:T1071
+R432	Coreference Arg1:T1068 Arg2:T1071
+R433	Coreference Arg1:T1067 Arg2:T1071
+R434	Coreference Arg1:T1070 Arg2:T1071
+R435	Coreference Arg1:T1066 Arg2:T1071
+R436	Coreference Arg1:T1072 Arg2:T1071
+R437	Coreference Arg1:T102 Arg2:T103
+R438	Coreference Arg1:T104 Arg2:T103
+R439	Coreference Arg1:T506 Arg2:T507
+R440	Coreference Arg1:T508 Arg2:T507
+R441	Coreference Arg1:T470 Arg2:T471
+R442	Coreference Arg1:T469 Arg2:T471
+R443	Coreference Arg1:T478 Arg2:T483
+R444	Coreference Arg1:T480 Arg2:T483
+R445	Coreference Arg1:T482 Arg2:T483
+R446	Coreference Arg1:T477 Arg2:T483
+R447	Coreference Arg1:T484 Arg2:T483
+R448	Coreference Arg1:T481 Arg2:T483
+R449	Coreference Arg1:T479 Arg2:T483
+R450	Coreference Arg1:T273 Arg2:T274
+R451	Coreference Arg1:T275 Arg2:T274
+R452	Coreference Arg1:T3 Arg2:T2
+R453	Coreference Arg1:T904 Arg2:T903
+R454	Coreference Arg1:T1001 Arg2:T1003
+R455	Coreference Arg1:T1000 Arg2:T1003
+R456	Coreference Arg1:T1002 Arg2:T1003
+R457	Coreference Arg1:T66 Arg2:T65
+R458	Coreference Arg1:T69 Arg2:T65
+R459	Coreference Arg1:T68 Arg2:T65
+R460	Coreference Arg1:T67 Arg2:T65
+R461	Coreference Arg1:T247 Arg2:T250
+R462	Coreference Arg1:T248 Arg2:T250
+R463	Coreference Arg1:T245 Arg2:T250
+R464	Coreference Arg1:T246 Arg2:T250
+R465	Coreference Arg1:T249 Arg2:T250
+R466	Coreference Arg1:T172 Arg2:T168
+R467	Coreference Arg1:T169 Arg2:T168
+R468	Coreference Arg1:T173 Arg2:T168
+R469	Coreference Arg1:T177 Arg2:T168
+R470	Coreference Arg1:T170 Arg2:T168
+R471	Coreference Arg1:T174 Arg2:T168
+R472	Coreference Arg1:T171 Arg2:T168
+R473	Coreference Arg1:T180 Arg2:T168
+R474	Coreference Arg1:T178 Arg2:T168
+R475	Coreference Arg1:T179 Arg2:T168
+R476	Coreference Arg1:T176 Arg2:T168
+R477	Coreference Arg1:T175 Arg2:T168
+R478	Coreference Arg1:T486 Arg2:T487
+R479	Coreference Arg1:T750 Arg2:T758
+R480	Coreference Arg1:T749 Arg2:T758
+R481	Coreference Arg1:T753 Arg2:T758
+R482	Coreference Arg1:T751 Arg2:T758
+R483	Coreference Arg1:T754 Arg2:T758
+R484	Coreference Arg1:T755 Arg2:T758
+R485	Coreference Arg1:T748 Arg2:T758
+R486	Coreference Arg1:T760 Arg2:T758
+R487	Coreference Arg1:T761 Arg2:T758
+R488	Coreference Arg1:T757 Arg2:T758
+R489	Coreference Arg1:T752 Arg2:T758
+R490	Coreference Arg1:T756 Arg2:T758
+R491	Coreference Arg1:T759 Arg2:T758
+R492	Coreference Arg1:T812 Arg2:T813
+R493	Coreference Arg1:T61 Arg2:T60
+R494	Coreference Arg1:T997 Arg2:T998
+R495	Coreference Arg1:T161 Arg2:T160
+R496	Coreference Arg1:T608 Arg2:T613
+R497	Coreference Arg1:T610 Arg2:T613
+R498	Coreference Arg1:T614 Arg2:T613
+R499	Coreference Arg1:T611 Arg2:T613
+R500	Coreference Arg1:T612 Arg2:T613
+R501	Coreference Arg1:T616 Arg2:T613
+R502	Coreference Arg1:T615 Arg2:T613
+R503	Coreference Arg1:T609 Arg2:T613
+R504	Coreference Arg1:T117 Arg2:T120
+R505	Coreference Arg1:T118 Arg2:T120
+R506	Coreference Arg1:T119 Arg2:T120
+R507	Coreference Arg1:T603 Arg2:T599
+R508	Coreference Arg1:T605 Arg2:T599
+R509	Coreference Arg1:T607 Arg2:T599
+R510	Coreference Arg1:T604 Arg2:T599
+R511	Coreference Arg1:T601 Arg2:T599
+R512	Coreference Arg1:T606 Arg2:T599
+R513	Coreference Arg1:T600 Arg2:T599
+R514	Coreference Arg1:T602 Arg2:T599
+R515	Coreference Arg1:T1061 Arg2:T1060
+R516	Coreference Arg1:T1063 Arg2:T1060
+R517	Coreference Arg1:T1062 Arg2:T1060
+R518	Coreference Arg1:T182 Arg2:T181
+R519	Coreference Arg1:T781 Arg2:T780
+R520	Coreference Arg1:T779 Arg2:T780
+R521	Coreference Arg1:T783 Arg2:T780
+R522	Coreference Arg1:T778 Arg2:T780
+R523	Coreference Arg1:T782 Arg2:T780
+R524	Coreference Arg1:T1020 Arg2:T1023
+R525	Coreference Arg1:T1024 Arg2:T1023
+R526	Coreference Arg1:T1025 Arg2:T1023
+R527	Coreference Arg1:T1019 Arg2:T1023
+R528	Coreference Arg1:T1021 Arg2:T1023
+R529	Coreference Arg1:T1017 Arg2:T1023
+R530	Coreference Arg1:T1022 Arg2:T1023
+R531	Coreference Arg1:T1016 Arg2:T1023
+R532	Coreference Arg1:T1015 Arg2:T1023
+R533	Coreference Arg1:T1013 Arg2:T1023
+R534	Coreference Arg1:T1014 Arg2:T1023
+R535	Coreference Arg1:T1018 Arg2:T1023
+R536	Coreference Arg1:T1012 Arg2:T1023
+R537	Coreference Arg1:T879 Arg2:T886
+R538	Coreference Arg1:T885 Arg2:T886
+R539	Coreference Arg1:T877 Arg2:T886
+R540	Coreference Arg1:T875 Arg2:T886
+R541	Coreference Arg1:T891 Arg2:T886
+R542	Coreference Arg1:T893 Arg2:T886
+R543	Coreference Arg1:T889 Arg2:T886
+R544	Coreference Arg1:T874 Arg2:T886
+R545	Coreference Arg1:T882 Arg2:T886
+R546	Coreference Arg1:T890 Arg2:T886
+R547	Coreference Arg1:T881 Arg2:T886
+R548	Coreference Arg1:T878 Arg2:T886
+R549	Coreference Arg1:T876 Arg2:T886
+R550	Coreference Arg1:T887 Arg2:T886
+R551	Coreference Arg1:T892 Arg2:T886
+R552	Coreference Arg1:T894 Arg2:T886
+R553	Coreference Arg1:T883 Arg2:T886
+R554	Coreference Arg1:T888 Arg2:T886
+R555	Coreference Arg1:T880 Arg2:T886
+R556	Coreference Arg1:T884 Arg2:T886
+R557	Coreference Arg1:T276 Arg2:T278
+R558	Coreference Arg1:T279 Arg2:T278
+R559	Coreference Arg1:T277 Arg2:T278
+R560	Coreference Arg1:T937 Arg2:T935
+R561	Coreference Arg1:T943 Arg2:T935
+R562	Coreference Arg1:T941 Arg2:T935
+R563	Coreference Arg1:T940 Arg2:T935
+R564	Coreference Arg1:T939 Arg2:T935
+R565	Coreference Arg1:T938 Arg2:T935
+R566	Coreference Arg1:T936 Arg2:T935
+R567	Coreference Arg1:T934 Arg2:T935
+R568	Coreference Arg1:T932 Arg2:T935
+R569	Coreference Arg1:T942 Arg2:T935
+R570	Coreference Arg1:T933 Arg2:T935
+R571	Coreference Arg1:T184 Arg2:T183
+R572	Coreference Arg1:T285 Arg2:T283
+R573	Coreference Arg1:T286 Arg2:T283
+R574	Coreference Arg1:T284 Arg2:T283
+R575	Coreference Arg1:T513 Arg2:T514
+R576	Coreference Arg1:T767 Arg2:T768
+R577	Coreference Arg1:T770 Arg2:T768
+R578	Coreference Arg1:T769 Arg2:T768
+R579	Coreference Arg1:T766 Arg2:T768
+R580	Coreference Arg1:T708 Arg2:T709
+R581	Coreference Arg1:T271 Arg2:T272
+R582	Coreference Arg1:T98 Arg2:T99
+R583	Coreference Arg1:T921 Arg2:T919
+R584	Coreference Arg1:T920 Arg2:T919
+R585	Coreference Arg1:T918 Arg2:T919
+R586	Coreference Arg1:T924 Arg2:T923
+R587	Coreference Arg1:T922 Arg2:T923
+R588	Coreference Arg1:T927 Arg2:T926
+R589	Coreference Arg1:T925 Arg2:T926
+R590	Coreference Arg1:T928 Arg2:T926
+R591	Coreference Arg1:T852 Arg2:T866
+R592	Coreference Arg1:T857 Arg2:T866
+R593	Coreference Arg1:T860 Arg2:T866
+R594	Coreference Arg1:T870 Arg2:T866
+R595	Coreference Arg1:T848 Arg2:T866
+R596	Coreference Arg1:T845 Arg2:T866
+R597	Coreference Arg1:T844 Arg2:T866
+R598	Coreference Arg1:T856 Arg2:T866
+R599	Coreference Arg1:T868 Arg2:T866
+R600	Coreference Arg1:T858 Arg2:T866
+R601	Coreference Arg1:T850 Arg2:T866
+R602	Coreference Arg1:T840 Arg2:T866
+R603	Coreference Arg1:T863 Arg2:T866
+R604	Coreference Arg1:T867 Arg2:T866
+R605	Coreference Arg1:T864 Arg2:T866
+R606	Coreference Arg1:T869 Arg2:T866
+R607	Coreference Arg1:T854 Arg2:T866
+R608	Coreference Arg1:T855 Arg2:T866
+R609	Coreference Arg1:T861 Arg2:T866
+R610	Coreference Arg1:T853 Arg2:T866
+R611	Coreference Arg1:T862 Arg2:T866
+R612	Coreference Arg1:T843 Arg2:T866
+R613	Coreference Arg1:T849 Arg2:T866
+R614	Coreference Arg1:T851 Arg2:T866
+R615	Coreference Arg1:T842 Arg2:T866
+R616	Coreference Arg1:T859 Arg2:T866
+R617	Coreference Arg1:T847 Arg2:T866
+R618	Coreference Arg1:T865 Arg2:T866
+R619	Coreference Arg1:T846 Arg2:T866
+R620	Coreference Arg1:T841 Arg2:T866
+R621	Coreference Arg1:T929 Arg2:T931
+R622	Coreference Arg1:T930 Arg2:T931
+R623	Coreference Arg1:T146 Arg2:T144
+R624	Coreference Arg1:T145 Arg2:T144
+R625	Coreference Arg1:T147 Arg2:T144
+R626	Coreference Arg1:T39 Arg2:T14
+R627	Coreference Arg1:T41 Arg2:T14
+R628	Coreference Arg1:T53 Arg2:T14
+R629	Coreference Arg1:T25 Arg2:T14
+R630	Coreference Arg1:T23 Arg2:T14
+R631	Coreference Arg1:T44 Arg2:T14
+R632	Coreference Arg1:T54 Arg2:T14
+R633	Coreference Arg1:T56 Arg2:T14
+R634	Coreference Arg1:T42 Arg2:T14
+R635	Coreference Arg1:T12 Arg2:T14
+R636	Coreference Arg1:T37 Arg2:T14
+R637	Coreference Arg1:T40 Arg2:T14
+R638	Coreference Arg1:T38 Arg2:T14
+R639	Coreference Arg1:T24 Arg2:T14
+R640	Coreference Arg1:T21 Arg2:T14
+R641	Coreference Arg1:T13 Arg2:T14
+R642	Coreference Arg1:T52 Arg2:T14
+R643	Coreference Arg1:T28 Arg2:T14
+R644	Coreference Arg1:T19 Arg2:T14
+R645	Coreference Arg1:T58 Arg2:T14
+R646	Coreference Arg1:T43 Arg2:T14
+R647	Coreference Arg1:T32 Arg2:T14
+R648	Coreference Arg1:T34 Arg2:T14
+R649	Coreference Arg1:T26 Arg2:T14
+R650	Coreference Arg1:T22 Arg2:T14
+R651	Coreference Arg1:T51 Arg2:T14
+R652	Coreference Arg1:T45 Arg2:T14
+R653	Coreference Arg1:T50 Arg2:T14
+R654	Coreference Arg1:T48 Arg2:T14
+R655	Coreference Arg1:T55 Arg2:T14
+R656	Coreference Arg1:T31 Arg2:T14
+R657	Coreference Arg1:T15 Arg2:T14
+R658	Coreference Arg1:T47 Arg2:T14
+R659	Coreference Arg1:T57 Arg2:T14
+R660	Coreference Arg1:T17 Arg2:T14
+R661	Coreference Arg1:T59 Arg2:T14
+R662	Coreference Arg1:T30 Arg2:T14
+R663	Coreference Arg1:T33 Arg2:T14
+R664	Coreference Arg1:T35 Arg2:T14
+R665	Coreference Arg1:T27 Arg2:T14
+R666	Coreference Arg1:T10 Arg2:T14
+R667	Coreference Arg1:T18 Arg2:T14
+R668	Coreference Arg1:T49 Arg2:T14
+R669	Coreference Arg1:T20 Arg2:T14
+R670	Coreference Arg1:T11 Arg2:T14
+R671	Coreference Arg1:T16 Arg2:T14
+R672	Coreference Arg1:T46 Arg2:T14
+R673	Coreference Arg1:T36 Arg2:T14
+R674	Coreference Arg1:T29 Arg2:T14
+R675	Coreference Arg1:T910 Arg2:T911
+R676	Coreference Arg1:T908 Arg2:T911
+R677	Coreference Arg1:T914 Arg2:T911
+R678	Coreference Arg1:T915 Arg2:T911
+R679	Coreference Arg1:T907 Arg2:T911
+R680	Coreference Arg1:T912 Arg2:T911
+R681	Coreference Arg1:T909 Arg2:T911
+R682	Coreference Arg1:T916 Arg2:T911
+R683	Coreference Arg1:T913 Arg2:T911
+R684	Coreference Arg1:T492 Arg2:T493
+R685	Coreference Arg1:T489 Arg2:T493
+R686	Coreference Arg1:T491 Arg2:T493
+R687	Coreference Arg1:T488 Arg2:T493
+R688	Coreference Arg1:T490 Arg2:T493
+R689	Coreference Arg1:T83 Arg2:T84
+R690	Coreference Arg1:T80 Arg2:T78
+R691	Coreference Arg1:T79 Arg2:T78
+R692	Coreference Arg1:T122 Arg2:T126
+R693	Coreference Arg1:T127 Arg2:T126
+R694	Coreference Arg1:T121 Arg2:T126
+R695	Coreference Arg1:T124 Arg2:T126
+R696	Coreference Arg1:T125 Arg2:T126
+R697	Coreference Arg1:T123 Arg2:T126
+R698	Coreference Arg1:T517 Arg2:T519
+R699	Coreference Arg1:T516 Arg2:T519
+R700	Coreference Arg1:T515 Arg2:T519
+R701	Coreference Arg1:T518 Arg2:T519
+R702	Coreference Arg1:T598 Arg2:T597
+R703	Coreference Arg1:T1081 Arg2:T1080
+R704	Coreference Arg1:T108 Arg2:T110
+R705	Coreference Arg1:T109 Arg2:T110
+R706	Coreference Arg1:T107 Arg2:T110
+R707	Coreference Arg1:T112 Arg2:T113
+R708	Coreference Arg1:T96 Arg2:T95
+R709	Coreference Arg1:T718 Arg2:T720
+R710	Coreference Arg1:T719 Arg2:T720
+R711	Coreference Arg1:T948 Arg2:T947
+R712	Coreference Arg1:T75 Arg2:T77
+R713	Coreference Arg1:T76 Arg2:T77
+R714	Coreference Arg1:T727 Arg2:T728
+R715	Coreference Arg1:T711 Arg2:T713
+R716	Coreference Arg1:T712 Arg2:T713
+R717	Coreference Arg1:T242 Arg2:T240
+R718	Coreference Arg1:T239 Arg2:T240
+R719	Coreference Arg1:T238 Arg2:T240
+R720	Coreference Arg1:T243 Arg2:T240
+R721	Coreference Arg1:T244 Arg2:T240
+R722	Coreference Arg1:T237 Arg2:T240
+R723	Coreference Arg1:T241 Arg2:T240
+R724	Coreference Arg1:T186 Arg2:T187
+R725	Coreference Arg1:T185 Arg2:T187
+R726	Coreference Arg1:T188 Arg2:T187
+R727	Coreference Arg1:T821 Arg2:T820
+R728	Coreference Arg1:T732 Arg2:T731
+R729	Coreference Arg1:T733 Arg2:T731
+R730	Coreference Arg1:T526 Arg2:T525
+R731	Coreference Arg1:T743 Arg2:T742
+R732	Coreference Arg1:T744 Arg2:T742
+R733	Coreference Arg1:T261 Arg2:T262
+R734	Coreference Arg1:T255 Arg2:T262
+R735	Coreference Arg1:T265 Arg2:T262
+R736	Coreference Arg1:T257 Arg2:T262
+R737	Coreference Arg1:T256 Arg2:T262
+R738	Coreference Arg1:T266 Arg2:T262
+R739	Coreference Arg1:T268 Arg2:T262
+R740	Coreference Arg1:T260 Arg2:T262
+R741	Coreference Arg1:T267 Arg2:T262
+R742	Coreference Arg1:T258 Arg2:T262
+R743	Coreference Arg1:T264 Arg2:T262
+R744	Coreference Arg1:T259 Arg2:T262
+R745	Coreference Arg1:T269 Arg2:T262
+R746	Coreference Arg1:T263 Arg2:T262
+R747	Coreference Arg1:T148 Arg2:T152
+R748	Coreference Arg1:T155 Arg2:T152
+R749	Coreference Arg1:T150 Arg2:T152
+R750	Coreference Arg1:T149 Arg2:T152
+R751	Coreference Arg1:T154 Arg2:T152
+R752	Coreference Arg1:T151 Arg2:T152
+R753	Coreference Arg1:T156 Arg2:T152
+R754	Coreference Arg1:T153 Arg2:T152
+R755	Coreference Arg1:T114 Arg2:T115
+R756	Coreference Arg1:T790 Arg2:T791
+R757	Coreference Arg1:T510 Arg2:T509
+R758	Coreference Arg1:T807 Arg2:T804
+R759	Coreference Arg1:T806 Arg2:T804
+R760	Coreference Arg1:T803 Arg2:T804
+R761	Coreference Arg1:T805 Arg2:T804
+R762	Coreference Arg1:T504 Arg2:T503
+R763	Coreference Arg1:T191 Arg2:T189
+R764	Coreference Arg1:T192 Arg2:T189
+R765	Coreference Arg1:T190 Arg2:T189
+R766	Coreference Arg1:T198 Arg2:T189
+R767	Coreference Arg1:T194 Arg2:T189
+R768	Coreference Arg1:T196 Arg2:T189
+R769	Coreference Arg1:T197 Arg2:T189
+R770	Coreference Arg1:T193 Arg2:T189
+R771	Coreference Arg1:T195 Arg2:T189
+R772	Coreference Arg1:T199 Arg2:T189
+R773	Coreference Arg1:T1050 Arg2:T1049
+R774	Coreference Arg1:T100 Arg2:T101
+R775	Coreference Arg1:T139 Arg2:T140
+R776	Coreference Arg1:T133 Arg2:T140
+R777	Coreference Arg1:T138 Arg2:T140
+R778	Coreference Arg1:T137 Arg2:T140
+R779	Coreference Arg1:T134 Arg2:T140
+R780	Coreference Arg1:T135 Arg2:T140
+R781	Coreference Arg1:T136 Arg2:T140
