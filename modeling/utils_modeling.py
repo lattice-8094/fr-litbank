@@ -139,7 +139,4 @@ class RobertaForCoreference(RobertaPreTrainedModel):
 class CamembertForCoreference(RobertaForCoreference):
     config_class = CamembertConfig
 
-class XLMRobertaForCoreference(RobertaForCoreference):
-    config_class = XLMRobertaConfig
-
 

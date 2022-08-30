@@ -54,33 +54,6 @@ MODEL_CONFIG_CLASSES = list(MODEL_MAPPING.keys())
 MODEL_TYPES = tuple(conf.model_type for conf in MODEL_CONFIG_CLASSES)
 
 
-def coref_data_collator(features: List[InputDataClass]) -> Dict[str, Any]:
-    if not isinstance(features[0], (dict, BatchEncoding)):
-        features = [vars(f) for f in features]
-    first = features[0]
-    batch = {}
-
-    if "label" in first and first["label"] is not None:
-        label = first["label"].item() if isinstance(first["label"], torch.Tensor) else first["label"]
-        dtype = torch.long if isinstance(label, int) else torch.float
-        batch["labels"] = torch.tensor([f["label"] for f in features], dtype=dtype)
-    elif "label_ids" in first and first["label_ids"] is not None:
-        if isinstance(first["label_ids"], torch.Tensor):
-            batch["labels"] = torch.stack([f["label_ids"] for f in features])
-        else:
-            dtype = torch.long if type(first["label_ids"][0]) is int else torch.float
-            batch["labels"] = torch.tensor([f["label_ids"] for f in features], dtype=dtype)
-
-    for k, v in first.items():
-        if k not in ("label", "label_ids") and v is not None and not isinstance(v, str):
-            if isinstance(v, torch.Tensor):
-                batch[k] = torch.stack([f[k] for f in features])
-            else:
-                batch[k] = torch.tensor([f[k] for f in features])
-
-    return batch
-
-
 def parse_args():
     parser = argparse.ArgumentParser(
         description="Finetune a transformers model on a text classification task (NER) with accelerate library"
@@ -229,7 +202,7 @@ def main():
     tsv_dir = (args.data_dir[:-1] if args.data_dir[-1]=='/' else args.data_dir)+'_tsv'
 
     # Initialize the accelerator. We will let the accelerator handle device placement for us in this example.
-    accelerator = Accelerator(cpu=False)
+    accelerator = Accelerator()
     # Make one log on every process with the configuration for debugging.
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
@@ -344,8 +317,8 @@ def main():
             eval_dataset = eval_dataset[:100]
 
 
-        train_dataloader = DataLoader(train_dataset, shuffle=True, collate_fn=coref_data_collator, batch_size=args.per_device_train_batch_size)
-        eval_dataloader = DataLoader(eval_dataset, collate_fn=coref_data_collator, batch_size=args.per_device_eval_batch_size)
+        train_dataloader = DataLoader(train_dataset, shuffle=True, collate_fn=default_data_collator, batch_size=args.per_device_train_batch_size)
+        eval_dataloader = DataLoader(eval_dataset, collate_fn=default_data_collator, batch_size=args.per_device_eval_batch_size)
 
         no_decay = ["bias", "LayerNorm.weight"]
         optimizer_grouped_parameters = [
@@ -457,7 +430,7 @@ def main():
         if args.debug:
             test_dataset = test_dataset[:100]
 
-        test_dataloader = DataLoader(test_dataset, collate_fn=coref_data_collator, batch_size=args.per_device_eval_batch_size)
+        test_dataloader = DataLoader(test_dataset, collate_fn=default_data_collator, batch_size=args.per_device_eval_batch_size)
         device = accelerator.device
         model.to(device)
         # Prepare everything with our `accelerator`.
