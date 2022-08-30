@@ -234,7 +234,7 @@ def main():
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
         datefmt="%m/%d/%Y %H:%M:%S",
-        level=logging.INFO,
+        level=logging.ERROR,
     )
     logger.info(accelerator.state)
 
@@ -267,39 +267,12 @@ def main():
     
     label_map: Dict[int, str] = {i: label for i, label in enumerate(label_list)}
     num_labels = len(label_list)
-    #titles = {
-    #     'dev':["Jean-Christophe-1","Jean-Christophe-2"],
-    #     'test':["Rosalie"],
-    #     'train': [   
-    #                  "Sarrasine","Pauline",
-    #                  'Le_capitaine_Fracasse',
-    #                  #"elisabeth_Seton",
-    #                  'Le_ventre_de_Paris',
-    #                  'Madame_de_Hautefort','Nemoville',
-    #                  "De_la_ville_au_moulin" ,
-    #                  "Mademoiselle_Fifi_nouveaux_contes-1",
-    #                  "Mademoiselle_Fifi_nouveaux_contes-3",
-    #                  #"export","Bouvard","La_morte_amoureuse",
-    #                  'Le_diable_au_corps','Douce_Lumiere',
-    #                ]
-    #     }
-    #titles = {
-    #    'dev':["Pauline","De_la_ville_au_moulin"],
-    #    'test':["Pauline"],
-    #    'train': ['Jean-Christophe-1','Le_capitaine_Fracasse',
-    #              'Le_diable_au_corps','Le_ventre_de_Paris',
-    #              'Madame_de_Hautefort','Nemoville',
-    #              "Sarrasine",
-    #              "Mademoiselle_Fifi_nouveaux_contes","Douce_Lumiere",
-    #              "Bouvard","Rosalie",
-    #              ]
-    #              }
     
     all_titles=[os.path.splitext(os.path.basename(path))[0] for path in glob.glob(args.data_dir+'/*.txt')]
     random.seed(42)
     random.shuffle(all_titles)
     nb_titles = len(all_titles)
-    train_dev_limit = np.ceil(nb_titles*.8)
+    train_dev_limit = int(nb_titles*.9)
     dev_titles = all_titles[train_dev_limit:]
     train_titles = all_titles[:train_dev_limit]
     test_titles = all_titles
