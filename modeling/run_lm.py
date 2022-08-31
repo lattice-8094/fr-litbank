@@ -232,11 +232,18 @@ def main():
                 labels_to_replace=args.replace_labels.split(',') if args.replace_labels!='' else [],
                 )
     
-    cmd = "for i in `ls {}/*tsv`; do cut $i -f2; cut $i -f3 | awk '!a[$0]++'; done | sort | uniq | grep 'B\|I\|E\|S-'".format(tsv_dir)
-    stream = os.popen(cmd)
-    output = stream.read()
-    label_list = ['O'] + [l for l in output.split('\n') if len(l)>2]
-    #print("HERE is the list of labels the model is taught to predict :")
+    cmd = "for i in `ls {}/*tsv`; do cut $i -f2; cut $i -f3 | awk '!a[$0]++'; done | sort | uniq | grep 'B\|I\|E\|S-'"
+    if args.inference or args.test :
+        labels_fn = os.path.join(args.output_dir,"labels.txt")
+        if not os.path.isdir(args.output_dir):
+            os.mkdir(args.output_dir)
+        assert os.path.isfile(labels_fn), "Le fichier {0} est introuvable. Ce fichier doit contenir les labels que le modèle a déjà été entraîné à prédire. Si vous disposez des données d'entraînement de celui-ci (sous format tsv), essayez d'exécuter cette commande puis de réessayer : \necho \"O\" > {0};{1} >> {0}\n en remplaçant XXXX par par le nom du dossier, il doit se terminer par \"_tsv\". Sinon, un ré-entraînement est nécessaire.".format(labels_fn,cmd.format('XXXX'))
+        with open(labels_fn,"r") as f:
+            label_list = f.read().split('\n')
+    else:
+        stream = os.popen(cmd.format(tsv_dir))
+        output = stream.read()
+        label_list = ['O'] + [l for l in output.split('\n') if len(l)>2]
     print("Voici la liste des étiquette que le modèle est appris à attribuer à chaque mot :")
     print(label_list)
     print("==========")
@@ -415,6 +422,8 @@ def main():
                 unwrapped_model.save_pretrained(args.output_dir, save_function=accelerator.save)
                 if accelerator.is_main_process:
                     tokenizer.save_pretrained(args.output_dir)
+                with open(os.path.join(args.output_dir, "labels.txt"), "w+") as f:
+                    f.write("\n".join(label_list))
                 accelerator.print(f"Current loss {eval_l} better than last best loss {min_coref_l}. Saved epoch {epoch} checkpoint.")
                 min_coref_l = eval_l
     else :
