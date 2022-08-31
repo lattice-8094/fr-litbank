@@ -3,6 +3,7 @@
 
 ### Entraînement :
 ```python run_lm.py --data_dir <dossier contenant les fichiers brat> --output_dir <dossier de sortie>```
+
 Autres options :
 - ```--coref_pred```: Prédire également la coréférence
 - ```--max_seq_length```: Indique la longueur des fenêtres (256 mots par défaut), des fenêtres longues améliorent la performance en coréférence mais sont plus lourdes pour les calculs
