@@ -244,7 +244,7 @@ def main():
         stream = os.popen(cmd.format(tsv_dir))
         output = stream.read()
         label_list = ['O'] + [l for l in output.split('\n') if len(l)>2]
-    print("Voici la liste des étiquette que le modèle est appris à attribuer à chaque mot :")
+    print("Voici la liste des étiquettes que le modèle est appris à attribuer à chaque mot :")
     print(label_list)
     print("==========")
     
