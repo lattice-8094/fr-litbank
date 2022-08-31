@@ -8,16 +8,15 @@ import numpy as np
 from itertools import groupby
 from collections import Counter
 
-def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_first=True, coref_pred=True, labels_to_ignore=[],labels_to_replace=[]):
-    #créer le dossier de sortie si inexistant
-    if not os.path.isdir(outputDir):
-        os.mkdir(outputDir)
+def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, should_contain_ents, contained_first=True, coref_pred=True, labels_to_ignore=[],labels_to_replace=[]):
     
-    print("Conversion des fichiers brat en tsv :")
-    #parcourir les fichier brat un par un
-    for filename_txt in glob.glob(os.path.join(inputDir, '*.txt')):
+    txt_files = glob.glob(os.path.join(inputDir, '*.txt'))
+    assert len(txt_files)>0,'Le dossier {} ne contient pas de fichiers txt. L\'option --data_dir doit indiquer l\'adresse du répértoire contenant les fichier txt, et, en cas d\'entraînement, les fichiers ann.'.format(inputDir)
+    print("Conversion des fichiers brat en tsv : si vous avez déjà lancé cette commande et vous souhaitez seulement changer les hyper-paramètres d'entraînement (learning rate, taille de batchs, nombre d'epochs), vous pouvez sauter cette étape dans le futur, en ajoutant l'option --use_cache à la commande exécutée.")
+    #parcourir les fichier txt un par un
+    for filename_txt in txt_files:
         # initialiser df, contenant les entités
-        # et text, contenant le text brut
+        # et ann, contenant les annotations
         filename = filename_txt[:-3]+"ann"
         if os.path.isfile(filename):
             with open(filename) as f:
@@ -67,6 +66,7 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_firs
             text = f.read().replace('’','\'').replace(' ',' ').replace('\n',' ').replace('\t',' ')
 
         df = df.loc[~df['ct'].isin(labels_to_ignore)]
+        assert not(len(df)==0 and should_contain_ents), 'Les fichiers ann ne contiennent aucune entité à apprendre au modèle. Vouliez vous plutôt réaliser une inférence ? Ajoutez --inference'
         #le but est d'initialiser, à partir du texte brut, un dictionnaire words
         #qui contient autant d'éléments que de mots dans le texte.
         #un élément de ce dictionnaire a comme clé l'indice de début du mot et comme valeur,
@@ -184,7 +184,10 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, contained_firs
                     output+= '\t-'
                 output+='\n'
             output+='\n'
-
+        
+        #créer le dossier de sortie si inexistant
+        if not os.path.isdir(outputDir):
+            os.mkdir(outputDir)
         with open(os.path.join(outputDir, os.path.basename(filename)[:-3]+"tsv"), 'w', encoding='utf8') as f:
             f.write(output)
     print('==========')

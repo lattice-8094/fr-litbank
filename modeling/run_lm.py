@@ -74,9 +74,9 @@ def parse_args():
         ),
     )
     parser.add_argument(
-        "--overwrite_cache",
+        "--use_cache",
         action="store_true",
-        help="If passed, overwrite data cache.",
+        help="If passed, use data cache.",
     )
     parser.add_argument(
         "--model_name_or_path",
@@ -113,9 +113,9 @@ def parse_args():
         help="Chunking overlapping interval.",
     )
     parser.add_argument(
-        "--bioes",
+        "--bio",
         action="store_true",
-        help="BIOES scheme instead of BIO.",
+        help="BIO scheme instead of BIOES.",
     )
     parser.add_argument(
         "--per_device_train_batch_size",
@@ -192,7 +192,9 @@ def parse_args():
     args = parser.parse_args()
     # Sanity checks
     if args.data_dir is None:
-        raise ValueError("Need data_dir.")
+        raise ValueError("Merci de préciser le dossier contenant les données avec l'option --data_dir")
+    if args.output_dir is None:
+        raise ValueError("Merci de préciser le dossier de sortie avec l'option --output_dir")
 
     return args
 
@@ -202,7 +204,7 @@ def main():
     tsv_dir = (args.data_dir[:-1] if args.data_dir[-1]=='/' else args.data_dir)+'_tsv'
 
     # Initialize the accelerator. We will let the accelerator handle device placement for us in this example.
-    accelerator = Accelerator()
+    accelerator = Accelerator(cpu=True)
     # Make one log on every process with the configuration for debugging.
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
@@ -212,18 +214,19 @@ def main():
     logger.info(accelerator.state)
 
     logger.info("Training/evaluation parameters %s", args)
-
-    assert(not (args.inference and args.test)) #inference and test cant both be set True
+    
+    assert not (args.inference and args.test) #inference and test cant both be set True
     # Set seed
     set_seed(42)
 
-    if not os.path.isdir(tsv_dir) or args.overwrite_cache:
+    if not os.path.isdir(tsv_dir) or not args.use_cache:
         chunk_brat(
                 args.data_dir,
                 tsv_dir,
+                should_contain_ents=not args.inference,
                 interval=args.chunk_int,
                 max_seq_len=args.max_seq_length,
-                bioes=args.bioes,
+                bioes=not args.bio,
                 coref_pred=args.coref_pred,
                 labels_to_ignore=args.ignore_labels.split(','),
                 labels_to_replace=args.replace_labels.split(',') if args.replace_labels!='' else [],
@@ -245,7 +248,9 @@ def main():
     random.seed(42)
     random.shuffle(all_titles)
     nb_titles = len(all_titles)
+    assert args.inference or args.test or nb_titles>1,"Vous êtes en mode entraînement. Or, un seul texte ({}) a été retrouvé dans {}. Ce code est censé fonctionner avec plusieurs oeuvres différentes, pour en isoler une sous-partie et évaluer la qualité du modèle à généraliser pour des oeuvres jamais vues en entraînement.".format(all_titles[0],args.data_dir)
     train_dev_limit = int(nb_titles*.9)
+    print('===============limite:',train_dev_limit)
     dev_titles = all_titles[train_dev_limit:]
     train_titles = all_titles[:train_dev_limit]
     test_titles = all_titles
@@ -295,7 +300,7 @@ def main():
                 labels=label_list,
                 model_type=config.model_type,
                 max_seq_length=args.max_seq_length,
-                overwrite_cache=args.overwrite_cache,
+                overwrite_cache= not args.use_cache,
                 mode=Split.train,
             )
         )
@@ -309,13 +314,14 @@ def main():
                 labels=label_list,
                 model_type=config.model_type,
                 max_seq_length=args.max_seq_length,
-                overwrite_cache=args.overwrite_cache,
+                overwrite_cache=not args.use_cache,
                 mode=Split.dev,
             )
         )
         if args.debug:
             eval_dataset = eval_dataset[:100]
-
+        
+        assert len(train_dataset)>0, "Vous utilisez un cache vide. Essayez d'enlever l'option --use_cache. Si cela ne marche pas, vérifiez que le dossier {} contient bien vos fichiers txt.".format(args.data_dir)
 
         train_dataloader = DataLoader(train_dataset, shuffle=True, collate_fn=default_data_collator, batch_size=args.per_device_train_batch_size)
         eval_dataloader = DataLoader(eval_dataset, collate_fn=default_data_collator, batch_size=args.per_device_eval_batch_size)
@@ -401,7 +407,7 @@ def main():
                 if completed_steps >= args.max_train_steps:
                     break
 
-            eval_l, _ = run_evaluation(model, eval_dataloader, accelerator, label_list, args.max_seq_length-1, epoch, bioes=args.bioes, muc_only=True, coref_pred=args.coref_pred)
+            eval_l, _ = run_evaluation(model, eval_dataloader, accelerator, label_list, args.max_seq_length-1, epoch, bioes=not args.bio, muc_only=True, coref_pred=args.coref_pred)
 
             #check_condition
             if args.output_dir is not None:
@@ -423,10 +429,23 @@ def main():
                 labels=label_list,
                 model_type=config.model_type,
                 max_seq_length=args.max_seq_length,
-                overwrite_cache=args.overwrite_cache,
+                overwrite_cache=not args.use_cache,
                 mode=mode,
             )
         )
+        if len(test_dataset==0):
+            test_dataset = (
+                TokenClassificationCorefDataset(
+                    token_classification_task=token_classification_task,
+                    data_dir=tsv_dir,
+                    tokenizer=tokenizer,
+                    labels=label_list,
+                    model_type=config.model_type,
+                    max_seq_length=args.max_seq_length,
+                    overwrite_cache=True,
+                    mode=mode,
+                )
+            )
         if args.debug:
             test_dataset = test_dataset[:100]
 
@@ -448,7 +467,7 @@ def main():
                                                             no_ref_idx=args.max_seq_length-1 ,
                                                             epoch_number=-1,
                                                             muc_only=True,
-                                                            bioes=args.bioes,
+                                                            bioes=not args.bio,
                                                             confidence_ratio=1,
                                                             dont_eval = args.inference)
         books = []
