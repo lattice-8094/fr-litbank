@@ -250,7 +250,6 @@ def main():
     nb_titles = len(all_titles)
     assert args.inference or args.test or nb_titles>1,"Vous êtes en mode entraînement. Or, un seul texte ({}) a été retrouvé dans {}. Ce code est censé fonctionner avec plusieurs oeuvres différentes, pour en isoler une sous-partie et évaluer la qualité du modèle à généraliser pour des oeuvres jamais vues en entraînement.".format(all_titles[0],args.data_dir)
     train_dev_limit = int(nb_titles*.9)
-    print('===============limite:',train_dev_limit)
     dev_titles = all_titles[train_dev_limit:]
     train_titles = all_titles[:train_dev_limit]
     test_titles = all_titles
