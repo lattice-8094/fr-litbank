@@ -204,7 +204,7 @@ def main():
     tsv_dir = (args.data_dir[:-1] if args.data_dir[-1]=='/' else args.data_dir)+'_tsv'
 
     # Initialize the accelerator. We will let the accelerator handle device placement for us in this example.
-    accelerator = Accelerator(cpu=True)
+    accelerator = Accelerator()
     # Make one log on every process with the configuration for debugging.
     logging.basicConfig(
         format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",

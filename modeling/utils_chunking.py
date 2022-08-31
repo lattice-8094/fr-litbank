@@ -161,7 +161,7 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, should_contain
 
         new_words = {k:v for k,v in words.items() if v['text'] not in ['', ' ', '\n','\t']}
         words = new_words
-        print(filename, 'présentant une entité tous les',len(words)//len(df),'mots.')
+        print('{} présentant {} entités.'.format(filename,len(df)))
         #Chaque mot possède sa liste 'entities', il faut remplir le fichier tsv
         output = ''
         for k in range(0,len(words),interval):
