@@ -15,7 +15,7 @@ Autres options :
 - ```--per_device_train_batch_size```: Taille de batch en entraînement (8 par défaut)
 - ```--per_device_eval_batch_size```: Taille de batch en évaluation (8 par défaut)
 - ```--learning_rate```: Taux d'apprentissage (4e-5 par défaut)
-- ```--num_train_epochs```: Nombre d'epochs d'entraînement
+- ```--num_train_epochs```: Nombre d'epochs d'entraînement (10 par défaut)
 - ```--debug```: Pour débugger rapidement, prendre seulement un petite partie des données d'entraînement et d'évaluation
 - ```--use_cache```: Si l'entraînement a déjà été lancé avant pour les mêmes données, utiliser la cache pour accélerer le chargement des données
 - ```--model_name_or_path```: Identifiant HuggingFace du modèle à charger (camembert-base par défaut) par exemple "camembert/camembert-large"

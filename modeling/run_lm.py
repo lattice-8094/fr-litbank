@@ -500,8 +500,9 @@ def main():
         for book_idx,b in enumerate(books):
             write_chunk_and_all_predictions(
                         sentences=b,
-                        filename=os.path.join(args.output_dir, f"{test_titles[book_idx]}_chunk_predictions.txt"),
+                        filename=os.path.join(args.output_dir, f"{test_titles[book_idx]}.tsv"),
                         chunk_int=args.chunk_int,
+                        text_filename=os.path.join(args.data_dir, f"{test_titles[book_idx]}.txt")
                         )
 if __name__ == "__main__":
     main()
