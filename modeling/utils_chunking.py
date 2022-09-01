@@ -193,6 +193,7 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, should_contain
     print('==========')
 
 def write_chunk_and_all_predictions(sentences, filename, chunk_int, text_filename=None ):
+    print(filename)
     words = {}
     ents = {}
     refs = {}
@@ -284,131 +285,130 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, text_filenam
                 ref = (' <'+previous_refs[i]+'>') if i in previous_refs else ''
                 f.write(f'{words[i]}{ent}{ref}\n')
     
-    ########################## ECRITURE DU FICHIER TSV #####################
-    if os.path.isfile(text_filename):
-        print(filename)
-        with open(filename,'r') as f:
-            all_sentences = f.read().split('\n\n')
-            tsv_all_words = []
-            tsv_all_ents = []
-            tsv_all_corefs = []
-            for tsv_all in all_sentences:
-                lines = [l.split() for l in tsv_all.split('\n') if l!='']
-                tsv_all_words.append([l[0] for l in lines])
-                tsv_all_ents.append([l[1] if len(l)>1 else 'O' for l in lines])
-                tsv_all_corefs.append([' '.join(l[2:]) if len(l)>2 else None for l in lines])
+    ########################## ECRITURE DU FICHIER ANN #####################
+    assert os.path.isfile(text_filename), "Le fichier {} est introuvable. Merci d'indiquer la bonne adresse dans l'option --data-dir".format(text_filename)
+    with open(filename,'r') as f:
+        all_sentences = f.read().split('\n\n')
+        tsv_all_words = []
+        tsv_all_ents = []
+        tsv_all_corefs = []
+        for tsv_all in all_sentences:
+            lines = [l.split() for l in tsv_all.split('\n') if l!='']
+            tsv_all_words.append([l[0] for l in lines])
+            tsv_all_ents.append([l[1] if len(l)>1 else 'O' for l in lines])
+            tsv_all_corefs.append([' '.join(l[2:]) if len(l)>2 else None for l in lines])
     
-        with open(text_filename) as f:
-            all_text = f.read().replace('’','\'')
-            text_sentences = [all_text]
+    with open(text_filename) as f:
+        all_text = f.read().replace('’','\'')
+        text_sentences = [all_text]
     
-        ent_ctr = 0
-        brat_entites={}
-        par_coord_to_ent_id = {}
-        w_idx_in_txt = 0
-        for j, (words, ents, corefs, s_txt) in enumerate(zip(tsv_all_words, tsv_all_ents, tsv_all_corefs, text_sentences)):
-            s_tsv = ' '.join(words)
-            for i,(w,e,r) in enumerate(zip(words, ents, corefs)):
-                l = 30
-                if (w not in all_text[w_idx_in_txt:w_idx_in_txt+l] and
-                        w.replace('-','O') in all_text[w_idx_in_txt-l:w_idx_in_txt+l]):
-                    w = w.replace('-','O')
-                    w_idx_in_txt-=l
-                w_idx_in_txt = all_text.index(w, w_idx_in_txt)
-                if w!= '' and w in words[i-1] and w!= words[i-1]:
-                    w_idx_in_txt = all_text.index(w, w_idx_in_txt+1)
-                #simultanément le début d'une entité S et d'une entité B(I)E
-                s_and_b = (i==0 or ents[i-1][0] in ['O','S','E']) and e[0]=='S' and i+1!=len(ents) and ents[i+1][0] in ['E','I']
-                ent_b = e[0]=='B'
-                #les types des prochaines entités
-                next_ent_types = [ent[0] for ent in ents[i:]]
-                for ind_t,t in enumerate(next_ent_types[:-1]):
-                    if t == 'E':
-                        #une seconde entité continue après la fin de l'actuelle
-                        #(=imbrication)
-                        cont_after_end = next_ent_types[ind_t+1] in ['I','E']
-                        break
-                    if t in ['O']:
-                        cont_after_end = False
-                        break
+    ent_ctr = 0
+    brat_entites={}
+    par_coord_to_ent_id = {}
+    w_idx_in_txt = 0
+    for j, (words, ents, corefs, s_txt) in enumerate(zip(tsv_all_words, tsv_all_ents, tsv_all_corefs, text_sentences)):
+        s_tsv = ' '.join(words)
+        for i,(w,e,r) in enumerate(zip(words, ents, corefs)):
+            l = 30
+            if (w not in all_text[w_idx_in_txt:w_idx_in_txt+l] and
+                    w.replace('-','O') in all_text[w_idx_in_txt-l:w_idx_in_txt+l]):
+                w = w.replace('-','O')
+                w_idx_in_txt-=l
+            w_idx_in_txt = all_text.index(w, w_idx_in_txt)
+            if w!= '' and w in words[i-1] and w!= words[i-1]:
+                w_idx_in_txt = all_text.index(w, w_idx_in_txt+1)
+            #simultanément le début d'une entité S et d'une entité B(I)E
+            s_and_b = (i==0 or ents[i-1][0] in ['O','S','E']) and e[0]=='S' and i+1!=len(ents) and ents[i+1][0] in ['E','I']
+            ent_b = e[0]=='B'
+            #les types des prochaines entités
+            next_ent_types = [ent[0] for ent in ents[i:]]
+            for ind_t,t in enumerate(next_ent_types[:-1]):
+                if t == 'E':
+                    #une seconde entité continue après la fin de l'actuelle
+                    #(=imbrication)
+                    cont_after_end = next_ent_types[ind_t+1] in ['I','E']
+                    break
+                if t in ['O']:
+                    cont_after_end = False
+                    break
     
-                #w est le début simultané de deux entités, chacune B(I)E
-                b_and_b = (i==0 or ents[i-1][0] in ['O','S','E']) \
-                            and ent_b\
-                            and cont_after_end
-                if e[0]=='S':
-                    end_index = w_idx_in_txt+len(w)
-                    counter_i = i
-                    end_index = end_index+1 if counter_i<len(words) and words[counter_i].isalnum() else end_index
-                    brat_entites[ent_ctr] = {
-                                        'type':e[2:],
-                                        'start':w_idx_in_txt,
-                                        'end':end_index,
-                                        'text':all_text[w_idx_in_txt:end_index].replace('\n',''),
-                                        'coref': r
-                                        }
-                    par_coord_to_ent_id[i,j] = ent_ctr
-                    ent_ctr+=1
-                if s_and_b or ent_b:
-                    counter_i = i
-                    one_more_word = True
-                    end_index = w_idx_in_txt
-                    while one_more_word:
-                        end_index = all_text.index(words[counter_i], end_index) + len(words[counter_i])
-                        if counter_i+1>=len(ents) or ents[counter_i][0]=='E' or ents[counter_i+1]=='O':
-                            one_more_word=False
-                        counter_i+=1
-                    end_index = end_index+1 if counter_i<len(words) and words[counter_i].isalnum() else end_index
-                    brat_entites[ent_ctr] = {
-                                        'type':e[2:] if ent_b else ents[counter_i-1][2:],
-                                        'start':w_idx_in_txt,
-                                        'end':end_index,
-                                        'text':all_text[w_idx_in_txt:end_index].replace('\n',''),
-                                        'coref': r if not s_and_b else None
-                                        }
-                    par_coord_to_ent_id[i,j] = ent_ctr
-                    ent_ctr+=1
-                if b_and_b :
-                    counter_i = i
-                    one_more_word = True
-                    ends_remaining = 1
-                    end_index = w_idx_in_txt
-                    while one_more_word and ends_remaining:
-                        end_index = all_text.index(words[counter_i], end_index) + len(words[counter_i])
-                        if not ends_remaining and (counter_i+1>=len(ents) or ents[counter_i][0]=='E' or ents[counter_i+1]=='O'):
-                            one_more_word=False
-                        if ents[counter_i][0] == 'E':
-                            ends_remaining-=1
-                        if counter_i+1 < len(ents) and ents[counter_i+1][0] == 'O':
-                            ends_remaining=0
-                        if ents[counter_i][0] == 'B':
-                            ends_remaining+=1
-                        counter_i+=1
-                    end_index = end_index+1 if counter_i<len(words) and words[counter_i].isalnum() else end_index
-                    brat_entites[ent_ctr] = {
-                                        'type':ents[counter_i-1][2:],
-                                        'start':w_idx_in_txt,
-                                        'end':end_index,
-                                        'text':all_text[w_idx_in_txt:end_index].replace('\n',''),
-                                        'coref': r
-                                        }
-                    par_coord_to_ent_id[i,j] = ent_ctr
-                    ent_ctr+=1
+            #w est le début simultané de deux entités, chacune B(I)E
+            b_and_b = (i==0 or ents[i-1][0] in ['O','S','E']) \
+                        and ent_b\
+                        and cont_after_end
+            if e[0]=='S':
+                end_index = w_idx_in_txt+len(w)
+                counter_i = i
+                end_index = end_index+1 if counter_i<len(words) and words[counter_i].isalnum() else end_index
+                brat_entites[ent_ctr] = {
+                                    'type':e[2:],
+                                    'start':w_idx_in_txt,
+                                    'end':end_index,
+                                    'text':all_text[w_idx_in_txt:end_index].replace('\n',''),
+                                    'coref': r
+                                    }
+                par_coord_to_ent_id[i,j] = ent_ctr
+                ent_ctr+=1
+            if s_and_b or ent_b:
+                counter_i = i
+                one_more_word = True
+                end_index = w_idx_in_txt
+                while one_more_word:
+                    end_index = all_text.index(words[counter_i], end_index) + len(words[counter_i])
+                    if counter_i+1>=len(ents) or ents[counter_i][0]=='E' or ents[counter_i+1]=='O':
+                        one_more_word=False
+                    counter_i+=1
+                end_index = end_index+1 if counter_i<len(words) and words[counter_i].isalnum() else end_index
+                brat_entites[ent_ctr] = {
+                                    'type':e[2:] if ent_b else ents[counter_i-1][2:],
+                                    'start':w_idx_in_txt,
+                                    'end':end_index,
+                                    'text':all_text[w_idx_in_txt:end_index].replace('\n',''),
+                                    'coref': r if not s_and_b else None
+                                    }
+                par_coord_to_ent_id[i,j] = ent_ctr
+                ent_ctr+=1
+            if b_and_b :
+                counter_i = i
+                one_more_word = True
+                ends_remaining = 1
+                end_index = w_idx_in_txt
+                while one_more_word and ends_remaining:
+                    end_index = all_text.index(words[counter_i], end_index) + len(words[counter_i])
+                    if not ends_remaining and (counter_i+1>=len(ents) or ents[counter_i][0]=='E' or ents[counter_i+1]=='O'):
+                        one_more_word=False
+                    if ents[counter_i][0] == 'E':
+                        ends_remaining-=1
+                    if counter_i+1 < len(ents) and ents[counter_i+1][0] == 'O':
+                        ends_remaining=0
+                    if ents[counter_i][0] == 'B':
+                        ends_remaining+=1
+                    counter_i+=1
+                end_index = end_index+1 if counter_i<len(words) and words[counter_i].isalnum() else end_index
+                brat_entites[ent_ctr] = {
+                                    'type':ents[counter_i-1][2:],
+                                    'start':w_idx_in_txt,
+                                    'end':end_index,
+                                    'text':all_text[w_idx_in_txt:end_index].replace('\n',''),
+                                    'coref': r
+                                    }
+                par_coord_to_ent_id[i,j] = ent_ctr
+                ent_ctr+=1
 
-        first_refs = {}
+    first_refs = {}
+    for i,e in brat_entites.items():
+        if e['coref'] not in first_refs:
+            first_refs[e['coref']] = i
+
+    ref_counter = 0
+    with open(filename.replace(".tsv",".ann"),'w+') as f:
         for i,e in brat_entites.items():
-            if e['coref'] not in first_refs:
-                first_refs[e['coref']] = i
-
-        ref_counter = 0
-        with open(filename.replace(".tsv",".ann"),'w+') as f:
-            for i,e in brat_entites.items():
-                f.write('T{}\t{} {} {}\t{}\n'.format(i,e['type'],e['start'], \
-                                                    e['end'], e['text']))
-                if e['coref'] is not None and first_refs[e['coref']]!=i:
-                    f.write('R{}\tCoreference Arg1:T{}, Arg2:T{}\n'.format(ref_counter,
-                                            i,
-                                            first_refs[e['coref']],
-                                            ))
-                    ref_counter+=1
-        
+            f.write('T{}\t{} {} {}\t{}\n'.format(i,e['type'],e['start'], \
+                                                e['end'], e['text']))
+            if e['coref'] is not None and first_refs[e['coref']]!=i:
+                f.write('R{}\tCoreference Arg1:T{}, Arg2:T{}\n'.format(ref_counter,
+                                        i,
+                                        first_refs[e['coref']],
+                                        ))
+                ref_counter+=1
+    
