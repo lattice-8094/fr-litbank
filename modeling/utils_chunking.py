@@ -44,7 +44,8 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, should_contain
             with open(filename) as f:
                 if coref_pred:
                     links = [tuple(l.split('\t')[1]
-                                              .replace('Coreference ','')
+                                              #.replace('Coreference ','')
+                                              .split(' ',maxsplit=1)[1]
                                               .replace('Arg1:','')
                                               .replace('Arg2:','')
                                               .replace('\n','')
