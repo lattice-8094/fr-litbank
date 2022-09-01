@@ -1,10 +1,10 @@
-### Présentation
+## Présentation
 Ce code permet de produire et utiliser des modèles d'étiquetage de texte (reconnaissance d'entités nommées, identification de discours de direct) et de liaison d'entités (coréférence, détection de source pour le discours direct). Plus généralement, ces modèles pourraient apprendre à étiqueter et à typer n'importe quelle mention qui puisse être d'intérêt littéraire, syntaxique ou grammatical. Ici, on appelle ces mentions "entités", mais il pourrait s'agir de n'importe quel ensemble de sous-parties du texte. De plus, ces modèles pourraient apprendre à lier ces mentions entre elles. Ici, on appelle ces liens "coréférence", mais il pourrait s'agir de n'importe quel lien entre deux "entités", qu'elles aient le même type ou non.
 
-### Installation :
+## Installation :
 ```pip install -r requirements.txt```
 
-### Entraînement :
+## Entraînement :
 ```python run_lm.py --data_dir <dossier contenant les fichiers brat> --output_dir <dossier de sortie>```
 
 Autres options :
@@ -23,7 +23,7 @@ Autres options :
 - ```--replace_labels```: Labels à renommer, séparés par une virgule, par exemple AA:BB,CC:BB,DD:EE remplace AA par BB, CC par BB et DD par EE.
 
 
-### Evaluation d'un modèle existant :
+## Evaluation d'un modèle existant :
 ```python run_lm.py --data_dir <dossier contenant les fichiers brat de test> --output_dir <dossier de sortie> --test --model_name_or_path <dossier contenant le modele>```
 
 ### Prédiction à l'aide d'un modèle existant :
