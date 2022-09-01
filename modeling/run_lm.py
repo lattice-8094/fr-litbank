@@ -234,9 +234,9 @@ def main():
     
     cmd = "for i in `ls {}/*tsv`; do cut $i -f2; cut $i -f3 | awk '!a[$0]++'; done | sort | uniq | grep 'B\|I\|E\|S-'"
     if args.inference or args.test :
-        labels_fn = os.path.join(args.output_dir,"labels.txt")
-        if not os.path.isdir(args.output_dir):
-            os.mkdir(args.output_dir)
+        labels_fn = os.path.join(args.model_name_or_path,"labels.txt")
+        if not os.path.isdir(args.model_name_or_path):
+            os.mkdir(args.model_name_or_path)
         assert os.path.isfile(labels_fn), "Le fichier {0} est introuvable. Ce fichier doit contenir les labels que le modèle a déjà été entraîné à prédire. Si vous disposez des données d'entraînement de celui-ci (sous format tsv), essayez d'exécuter cette commande puis de réessayer : \necho \"O\" > {0};{1} >> {0}\n en remplaçant XXXX par par le nom du dossier, il doit se terminer par \"_tsv\". Sinon, un ré-entraînement est nécessaire.".format(labels_fn,cmd.format('XXXX'))
         with open(labels_fn,"r") as f:
             label_list = f.read().split('\n')
@@ -260,14 +260,15 @@ def main():
     dev_titles = all_titles[train_dev_limit:]
     train_titles = all_titles[:train_dev_limit]
     test_titles = all_titles
-    print("Oeuvres utilsées pour l'entraînement :")
-    for t in train_titles:
-        print(t)
-    print('----------')
-    print("Oeuvres utilsées pour l'évaluation interne :")
-    for t in dev_titles:
-        print(t)
-    print("==========")
+    if not args.test and not args.inference:
+        print("Oeuvres utilsées pour l'entraînement :")
+        for t in train_titles:
+            print(t)
+        print('----------')
+        print("Oeuvres utilsées pour l'évaluation interne :")
+        for t in dev_titles:
+            print(t)
+        print("==========")
     titles = {'train':train_titles, 'dev':dev_titles, 'test':test_titles}
     if not args.coref_pred:
         token_classification_task = NER(with_coref=args.coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
@@ -441,7 +442,7 @@ def main():
                 mode=mode,
             )
         )
-        if len(test_dataset==0):
+        if len(test_dataset)==0:
             test_dataset = (
                 TokenClassificationCorefDataset(
                     token_classification_task=token_classification_task,
