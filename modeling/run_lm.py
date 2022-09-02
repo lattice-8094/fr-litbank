@@ -235,8 +235,7 @@ def main():
     cmd = "for i in `ls {}/*tsv`; do cut $i -f2; cut $i -f3 | awk '!a[$0]++'; done | sort | uniq | grep 'B\|I\|E\|S-'"
     if args.inference or args.test :
         labels_fn = os.path.join(args.model_name_or_path,"labels.txt")
-        if not os.path.isdir(args.model_name_or_path):
-            os.mkdir(args.model_name_or_path)
+        assert os.path.isdir(args.model_name_or_path), "Le dossier {} n'existe pas encore. Si vous importez un modèle de HuggingFace, il faut l'entraîner sur votre tâche avant de l'utiliser pour faire de l'inférence, et donc enlever l'option --inference et/ou --test.".format(args.model_name_or_path)
         assert os.path.isfile(labels_fn), "Le fichier {0} est introuvable. Ce fichier doit contenir les labels que le modèle a déjà été entraîné à prédire. Si vous disposez des données d'entraînement de celui-ci (sous format tsv), essayez d'exécuter cette commande puis de réessayer : \necho \"O\" > {0};{1} >> {0}\n en remplaçant XXXX par par le nom du dossier, il doit se terminer par \"_tsv\". Sinon, un ré-entraînement est nécessaire.".format(labels_fn,cmd.format('XXXX'))
         with open(labels_fn,"r") as f:
             label_list = f.read().split('\n')
