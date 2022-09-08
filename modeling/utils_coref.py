@@ -74,6 +74,7 @@ class CorefInputFeatures:
 
 class Split(Enum):
     train = "train"
+    inference = "inference"
     dev = "dev"
     test = "test"
 

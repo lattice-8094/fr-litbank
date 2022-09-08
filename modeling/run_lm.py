@@ -235,7 +235,7 @@ def main():
     cmd = "for i in `ls {}/*tsv`; do cut $i -f2; cut $i -f3 | awk '!a[$0]++'; done | sort | uniq | grep 'B\|I\|E\|S-'"
     if args.inference or args.test :
         labels_fn = os.path.join(args.model_name_or_path,"labels.txt")
-        assert os.path.isdir(args.model_name_or_path), "Le dossier {} n'existe pas encore. Si vous importez un modèle de HuggingFace, il faut l'entraîner sur votre tâche avant de l'utiliser pour faire de l'inférence, et donc enlever l'option --inference et/ou --test.".format(args.model_name_or_path)
+        assert os.path.isdir(args.model_name_or_path), "Le dossier {} n'existe pas encore. Si vous importez un modèle de HuggingFace, il faut l'entraîner sur votre tâche avant de l'utiliser pour faire de l'inférence, et donc enlever l'option --inference et/ou --test. Si, en revanche, vous voulez utiliser un modèle déjà entraîné sur cette tâche, il faut indiquer l'adresse de ce dernier dans l'option --model_name_or_path".format(args.model_name_or_path)
         assert os.path.isfile(labels_fn), "Le fichier {0} est introuvable. Ce fichier doit contenir les labels que le modèle a déjà été entraîné à prédire. Si vous disposez des données d'entraînement de celui-ci (sous format tsv), essayez d'exécuter cette commande puis de réessayer : \necho \"O\" > {0};{1} >> {0}\n en remplaçant XXXX par par le nom du dossier, il doit se terminer par \"_tsv\". Sinon, un ré-entraînement est nécessaire.".format(labels_fn,cmd.format('XXXX'))
         with open(labels_fn,"r") as f:
             label_list = f.read().split('\n')
@@ -428,9 +428,9 @@ def main():
                 min_coref_l = eval_l
     else :
         #inference OR test
-        mode = "inference" if args.inference else Split.test
+        mode = Split.inference if args.inference else Split.test
         test_dataset = (
-            TokenClassificationCorefDataset(
+            dataset_module(
                 token_classification_task=token_classification_task,
                 data_dir=tsv_dir,
                 tokenizer=tokenizer,
@@ -441,19 +441,6 @@ def main():
                 mode=mode,
             )
         )
-        if len(test_dataset)==0:
-            test_dataset = (
-                TokenClassificationCorefDataset(
-                    token_classification_task=token_classification_task,
-                    data_dir=tsv_dir,
-                    tokenizer=tokenizer,
-                    labels=label_list,
-                    model_type=config.model_type,
-                    max_seq_length=args.max_seq_length,
-                    overwrite_cache=True,
-                    mode=mode,
-                )
-            )
         if args.debug:
             test_dataset = test_dataset[:100]
 
@@ -477,7 +464,8 @@ def main():
                                                             muc_only=True,
                                                             bioes=not args.bio,
                                                             confidence_ratio=1,
-                                                            dont_eval = args.inference)
+                                                            dont_eval = args.inference,
+                                                            coref_pred = args.coref_pred)
         books = []
         sentences = []
         for sent_idx, (example, example_ner_pred, example_coref_pred) in enumerate(zip(examples, all_ner_preds, all_coref_preds)):
@@ -501,6 +489,7 @@ def main():
                         sentences=b,
                         filename=os.path.join(args.output_dir, f"{test_titles[book_idx]}.tsv"),
                         chunk_int=args.chunk_int,
+                        bioes=not args.bio,
                         text_filename=os.path.join(args.data_dir, f"{test_titles[book_idx]}.txt")
                         )
 if __name__ == "__main__":
