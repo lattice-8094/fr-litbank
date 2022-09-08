@@ -355,12 +355,14 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
                                     and ents[counter_i+2][0] in ['I','E'])
                             break
                     else:
-                        #ECLATE AU SOL
-                        end_index = all_text.index(words[counter_i], end_index) + len(words[counter_i])
-                        if ents[counter_i] == 'O' or counter_i+1 < len(ents) and ents[counter_i+1]=='O':
+                        #EN COURS
+                        #print("here")
+                        if ents[counter_i+1]=='O':
+                            #print(all_text[w_idx_in_txt:end_index])
+                            #print("stop")
                             stop = True
+                        end_index = all_text.index(words[counter_i], end_index) + len(words[counter_i])
                         if stop:
-                            print(all_text[w_idx_in_txt:end_index])
                             continues_after = False
                             break
                 while end_index and all_text[end_index-1] in [' ',',','.','-']:
@@ -372,7 +374,6 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
                             'text':all_text[w_idx_in_txt:end_index].replace('\n',''),
                             'coref': r if not s_and_b else None
                             })
-                return continues_after and not continues_before
                         
 
             if ent_b or s_and_b:
