@@ -28,3 +28,73 @@ Autres options :
 
 ### Prédiction à l'aide d'un modèle existant :
 ```python run_lm.py --data_dir <dossier contenant les fichiers txt> --output_dir <dossier de sortie> --inference --model_name_or_path <dossier contenant le modele>```
+
+## Architecture
+Nous utilisons un modèle CamemBERT pré-entraîné et procédons à un *fine-tuning* de ses paramètres pour reconnaître les mentions et résoudre la coréférence au sein d'un *chunk* (fenêtre glissante) de $n=256$ tokens ; CamemBERT, comme la plupart des modèles basés sur une architecture *Transformer*, a une complexité quadratique en fonction de la longueur de séquence d'entrée et est donc plus adapté à des entrées de taille fixe relativement petite.
+
+Pour pouvoir détecter des mentions imbriquées, nous utilisons un schéma d'étiquetage *BIOES* (**B**eginning, **I**nside, **O**utside, **E**nding, **S**ingle-word). L'étiquette attribuée à chaque mot dépend donc du type de la mention, mais également de la position du mot dans celle-ci. L'ensemble des étiquettes possibles est M =  \{O, B-PER, I-PER, S-PER, E-PER, B-LOC, ...\}.
+
+Concrètement, pour chaque token $w_i$, le modèle est entraîné à prédire deux étiquettes :
+- $m_i \in M$ correspondant à la mention la plus courte contenant le mot, et à sa position dans celle-ci
+- $r_i \in \{0, 1, ... n\}$ indiquant l'indice du premier mot qui coréfère avec $w_i$ dans la fenêtre glissante, si un tel mot existe, et $0$ sinon.
+
+Pour cela, nous entraînons le modèle à attribuer à $w_i$ trois représentations $a(w_i)$, $q(w_i)$ et $k(w_i)$ telles que :
+- $a(w_i)$ représente le mot en tant que mention, on modélise ainsi la distribution de probabilité sur l'ensemble des étiquettes possibles comme $$P\big(m_i=M_s | a(w_i)\big) = \sigma\left[f(a(w_i))\right]_s$$ où $f$ est une projection linéaire apprise dans l'ensemble des étiquettes et $\sigma$ la fonction \textit{softmax}.
+- $q(w_i)$ représente le mot en tant que référence et $k(w_i)$ en tant que référent, de façon à ce que plus $w_i$ est susceptible de référer à $w_j$, plus $q(w_i)$ est proche de $k(w_j)$. On modélise ainsi la distribution de probabilité sur l'ensemble des étiquettes comme
+    $$P\big(r_i=t | \left(q(w_i),k(w_t)\right)\big) = \sigma\left[q(w_i) \cdot k(w_t)\right]_t$$ où $\cdot$ désigne le produit scalaire.
+
+Pour pouvoir utiliser le modèle dans notre cas avec des textes longs, ceux-ci sont découpés en $chunks$ chevauchés chacun de taille $n=256$ tokens. Un nouveau $chunk$ commence tous les $l=16$ tokens. La plupart des mots du texte sont donc présents dans $\frac{n}{l} = 16$ \textit{chunks}.
+
+Une fois les prédictions du modèle calculées, on sélectionne parmi les $16$ prédictions attribuées à chaque mot en fonction du nombre d'occurrences et la position du mot dans chaque \textit{chunk}, puis un parcours par profondeur est utilisé pour récupérer les chaînes de coréférence au niveau global. Nous obtenons ainsi, comme montré dans l'exemple figure \ref{fig:exemple}, pour une entrée de taille quelconque, une suite d'étiquettes identifiant les mentions, et une suite d'étiquettes identifiant les entités distinctes mentionnées.
+
+## Performances
+Deux textes sont séparés comme jeu de validation, deux autres comme jeu de test (cf. tableau). Nous entraînons un modèle CamemBERT-Large pendant $10$ *epochs* avec un *batch size* de 8 *chunks*, en démarrant l'apprentissage avec un *learning rate* de $5\times 10^{-4}$. Le tableau suivant détaille les performances du modèle sur le jeu de test pour la détection de mentions et la résolution de coréférence selon différents scores : $MUC$, $B^3$, $CEAFe$, $BLANC$ et $LEA$.
+
+Les tableaux suivants sont en cours de construction...
+
+\begin{table}
+\centering
+\makebox[0pt][c]{\parbox{1.0\textwidth}{%
+    \begin{minipage}[b]{0.48\hsize}\centering
+    \begin{footnotesize}
+    \begin{tabular}{c||c|c|c||c}
+          & \textit{train} & \textit{dev} & \textit{test} & total \\
+         \hline 
+         \# tokens & 15 9591 & 22 304 & 22 102 & 184 107\\
+         \hline
+         \# chunks & 9 974 & 1 394 & 1 381 & 11 506\\
+         \hline
+         \# mentions PER & 20 712 & 2 111 & 2 950 & 25 773\\
+         \hline
+         \# entités PER & 5 078 & 720 & 771 & 6 569\\
+         \hline
+    \end{tabular}
+        \caption{Statistiques de FR-LitBank}
+        \label{tab:split}
+         \end{footnotesize}
+
+    \end{minipage}
+    \hfill
+    \begin{minipage}[b]{0.48\hsize}\centering
+    \begin{footnotesize}
+
+      \begin{tabular}{c|c|c|c|c}
+         \multicolumn{2}{c|}{} & précision & rappel & $F_1$ \\
+         \hline
+         \multicolumn{2}{c|}{Mentions} & 90,65 & 90,08 & 90,37 \\
+         \hline
+         \multirow{5}{*}{\rotatebox[origin=c]{90}{Coréférence}} & 
+        $MUC$ & 85,06 & 85,10 & 85,08 \cr 
+        & $B^3$ & 82,66 & 56,49 & 67,11 \cr 
+        & $CEAF_e$ & 28,50 & 91,89 & 43,50 \cr
+        & $BLANC$ & 85,81 & 62,99 & 69,22\cr
+         & $LEA$ & 64,73 & 62,47 & 63,58 \\
+        \hline
+    \end{tabular}
+        \caption{Résultats sur le test de FR-LitBank}
+     
+        \label{tab:res}
+        \end{footnotesize}
+    \end{minipage}
+}}
+\end{table}
