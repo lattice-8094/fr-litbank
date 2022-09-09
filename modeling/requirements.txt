@@ -1,7 +1,9 @@
 pandas
 numpy
 transformers==4.18.0
-torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+torchvision --extra-index-url https://download.pytorch.org/whl/cpu
+torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
 sentencepiece==0.1.96
 datasets==2.0.0
 accelerate==0.6.2
