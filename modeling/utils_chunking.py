@@ -338,10 +338,10 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
                 end_index = w_idx_in_txt
                 continues_before= (i>0 and ents[i-1][0] in ['I','B']) or\
                     (i>1 and ents[i-1][0] == 'S' and ents[i-2][0] in ['I','B'])
-                stop = False
+                #stop = False
                 while True:
-                    counter_i+=1
                     if bioes:
+                        #remplacer c_i par c_i+1?
                         if ents[counter_i][0] == 'E':
                             ends_remaining-=1
                         if ents[counter_i]=='O' or (counter_i+1 < len(ents) and ents[counter_i+1]=='O'):
@@ -355,16 +355,12 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
                                     and ents[counter_i+2][0] in ['I','E'])
                             break
                     else:
-                        #EN COURS
-                        #print("here")
-                        if ents[counter_i+1]=='O':
-                            #print(all_text[w_idx_in_txt:end_index])
-                            #print("stop")
-                            stop = True
-                        end_index = all_text.index(words[counter_i], end_index) + len(words[counter_i])
-                        if stop:
+                        if ents[counter_i]=='O'\
+                                or ents[counter_i][0]=='B' and counter_i!=i and e[2:]==ents[counter_i][2:]:
                             continues_after = False
-                            break
+                            break 
+                        end_index = all_text.index(words[counter_i], end_index) + len(words[counter_i])
+                    counter_i+=1
                 while end_index and all_text[end_index-1] in [' ',',','.','-']:
                     end_index-=1
                 brat_entites.append({
