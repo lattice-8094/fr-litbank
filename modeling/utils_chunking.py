@@ -338,10 +338,9 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
                 end_index = w_idx_in_txt
                 continues_before= (i>0 and ents[i-1][0] in ['I','B']) or\
                     (i>1 and ents[i-1][0] == 'S' and ents[i-2][0] in ['I','B'])
-                #stop = False
                 while True:
                     if bioes:
-                        #remplacer c_i par c_i+1?
+                        counter_i+=1
                         if ents[counter_i][0] == 'E':
                             ends_remaining-=1
                         if ents[counter_i]=='O' or (counter_i+1 < len(ents) and ents[counter_i+1]=='O'):
@@ -360,7 +359,7 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
                             continues_after = False
                             break 
                         end_index = all_text.index(words[counter_i], end_index) + len(words[counter_i])
-                    counter_i+=1
+                        counter_i+=1
                 while end_index and all_text[end_index-1] in [' ',',','.','-']:
                     end_index-=1
                 brat_entites.append({
