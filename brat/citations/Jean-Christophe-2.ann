@@ -2,14 +2,14 @@ T1	Citation 11889 11927	« Ils sont petits, ils ne savent pas »
 T2	Citation 14195 14212	« madame Krafft »
 T3	Citation 29483 29537	« Ma pauvre fille se meurt. Je vous en prie, venez ! »
 T4	Entite 29432 29439	Sa mère
-R1	Source Arg1:T3 Arg2:T4
+R1	Source Arg1:T4 Arg2:T3
 T5	Introducteur 29462 29468;29472 29480	venait supplier
-R2	Introduction Arg1:T3 Arg2:T5
+R2	Introduction Arg1:T5 Arg2:T3
 T6	Citation 43616 43625	« Non ! »
 T7	Introducteur 11879 11886	pensait
 T8	Entite 11876 11878	il
-R3	Introduction Arg1:T1 Arg2:T7	
-R4	Source Arg1:T1 Arg2:T8	
+R3	Introduction Arg1:T7 Arg2:T1
+R4	Source Arg1:T8 Arg2:T1
 T9	Citation 31045 31066	– Rien qu’une, maman.
 T10	Citation 31093 31118	– Deux, comme les autres.
 T11	Citation 31119 31150	– Non, je t’en prie, une seule.
@@ -22,72 +22,72 @@ T17	Citation 33976 34000	– Maman, chère maman ! …
 T18	Citation 37232 37247	– Papa ! papa !
 T19	Introducteur 37248 37254	criait
 T20	Entite 37255 37257	il
-R5	Source Arg1:T18 Arg2:T20	
-R6	Introduction Arg1:T18 Arg2:T19	
+R5	Source Arg1:T20 Arg2:T18
+R6	Introduction Arg1:T19 Arg2:T18
 T21	Introducteur 41020 41024	cria
 T22	Entite 41027 41031	elle
-R7	Introduction Arg1:T15 Arg2:T21	
-R8	Source Arg1:T15 Arg2:T22	
+R7	Introduction Arg1:T21 Arg2:T15
+R8	Source Arg1:T22 Arg2:T15
 T23	Citation 12614 12659	– Mon pauvre garçon, tu n’es pas bien habile.
 T24	Citation 14261 14323;14396 14478	– Madame Krafft ? Qu’est-ce que tu lui veux, à madame Krafft ? – C’est ta mère ? Monte là. Tu trouveras Louisa à la cuisine, au fond du corridor.
 T25	Citation 18631 18653	– Tiens, c’est à moi !
 T26	Citation 18785 18819;18835 18885	– Je le reconnais bien peut-être ! c’est mon vieux veston bleu : il y a une tache là.
 T27	Introducteur 18625 18628	dit
 T28	Entite 18622 18624	il
-R9	Source Arg1:T25 Arg2:T28	
-R10	Introduction Arg1:T25 Arg2:T27	
+R9	Source Arg1:T28 Arg2:T25
+R10	Introduction Arg1:T27 Arg2:T25
 T29	Entite 18824 18832	le petit
 T30	Introducteur 18820 18823	fit
-R11	Introduction Arg1:T26 Arg2:T30	
-R12	Source Arg1:T26 Arg2:T29	
+R11	Introduction Arg1:T30 Arg2:T26
+R12	Source Arg1:T29 Arg2:T26
 T31	Citation 24670 24707	– Que fais-tu là, gamin ? où vas-tu ?
 T32	Introducteur 24708 24715	demanda
 T33	Entite 24716 24724	Melchior
-R13	Source Arg1:T31 Arg2:T33	
-R14	Introduction Arg1:T31 Arg2:T32	
+R13	Source Arg1:T33 Arg2:T31
+R14	Introduction Arg1:T32 Arg2:T31
 T34	Citation 24747 24803	– Tu as fait quelque sottise. Qu’est-ce que tu as fait ?
 T35	Citation 24839 24867;24885 24903	– Qu’est-ce que tu as fait ? Veux-tu répondre ?
 T36	Introducteur 24868 24874	répéta
 T37	Entite 24875 24883	Melchior
-R15	Source Arg1:T35 Arg2:T37	
-R16	Introduction Arg1:T35 Arg2:T36	
+R15	Source Arg1:T37 Arg2:T35
+R16	Introduction Arg1:T36 Arg2:T35
 T38	Entite 30996 30998	il
-R17	Source Arg1:T9 Arg2:T38	
+R17	Source Arg1:T38 Arg2:T9
 T39	Entite 31067 31071	Elle
-R18	Source Arg1:T10 Arg2:T39	
+R18	Source Arg1:T39 Arg2:T10
 T40	Citation 31427 31453	– Allons, prends-la donc !
 T41	Entite 31381 31388	Sa mère
-R19	Source Arg1:T40 Arg2:T41	
+R19	Source Arg1:T41 Arg2:T40
 T42	Citation 31454 31467	– Non, maman.
 T43	Citation 31468 31496	– Mais tu es malade, alors ?
 T44	Citation 31497 31544	– Je ne suis pas malade, mais j’ai assez mangé.
 T45	Citation 31878 31932	– Tu ne la manges pas ? Donne-la-moi, dis, Christophe.
 T46	Introducteur 31867 31875	demander
-R20	Introduction Arg1:T45 Arg2:T46	
+R20	Introduction Arg1:T46 Arg2:T45
 T47	Entite 31736 31741	Ernst
-R21	Source Arg1:T45 Arg2:T47	
+R21	Source Arg1:T47 Arg2:T45
 T49	Entite 37307 37317	Christophe
-R22	Source Arg1:T14 Arg2:T49	
+R22	Source Arg1:T49 Arg2:T14
 T50	Entite 43589 43591	il
 T51	Introducteur 43592 43601	répondait
-R23	Introduction Arg1:T6 Arg2:T51	
-R24	Source Arg1:T6 Arg2:T50	
+R23	Introduction Arg1:T51 Arg2:T6
+R24	Source Arg1:T50 Arg2:T6
 T52	Introducteur 14326 14334	continua
 T53	Entite 14335 14348	le domestique
-R25	Introduction Arg1:T24 Arg2:T52	
-R26	Source Arg1:T24 Arg2:T53	
+R25	Introduction Arg1:T52 Arg2:T24
+R26	Source Arg1:T53 Arg2:T24
 T54	Entite 12534 12538	elle
 T55	Introducteur 12543 12549	disait
-R27	Source Arg1:T23 Arg2:T54	
-R28	Introduction Arg1:T23 Arg2:T55	
+R27	Source Arg1:T54 Arg2:T23
+R28	Introduction Arg1:T55 Arg2:T23
 T56	Citation 5208 5216;5235 5451	« Il est des génies malheureux auxquels l’expression manque, qui emportent dans la tombe l’inconnu de leur méditation, comme disait un membre de cette grande famille de muets ou de bègues illustres : Geoffroy Saint-Hilaire. »
 T57	Introducteur 5218 5221	dit
 T58	Entite 5222 5233	George Sand
-R29	Introduction Arg1:T56 Arg2:T57	
-R30	Source Arg1:T56 Arg2:T58	
+R29	Introduction Arg1:T57 Arg2:T56
+R30	Source Arg1:T58 Arg2:T56
 T59	Entite 14143 14153	Christophe
-R31	Source Arg1:T2 Arg2:T59	
+R31	Source Arg1:T59 Arg2:T2
 T60	Entite 31411 31413	il
-R32	Source Arg1:T42 Arg2:T60	
+R32	Source Arg1:T60 Arg2:T42
 T48	Entite 33826 33828	Il
-R33	Source Arg1:T17 Arg2:T48	
+R33	Source Arg1:T48 Arg2:T17

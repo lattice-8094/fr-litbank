@@ -1,8 +1,8 @@
 T1	Citation 22588 22629	« Qu’est-ce que tu as donc, petit fou ? »
 T2	Entite 22551 22558	Sa mère
-R1	Source Arg1:T1 Arg2:T2
+R1	Source Arg1:T2 Arg2:T1
 T3	Introducteur 22582 22585	dit
-R2	Introduction Arg1:T1 Arg2:T3
+R2	Introduction Arg1:T3 Arg2:T1
 T4	Citation 23843 23931	« Cet âne-là ne se taira donc jamais ! Attends un peu, je vais te tirer les oreilles ! »
 T5	Citation 26727 26789	« Tu vois bien que c’est l’eau ! Il faut passer par le pont. »
 T6	Citation 30303 30342	– « Je veux que vous alliez à droite. »
@@ -15,28 +15,28 @@ T13	Citation 45654 45679	« N’allez pas plus loin »
 T14	Citation 46562 46745	« Comme il a l’air méchant ! Ils se haïssent, sûrement. Comme il roule les yeux ! Comme il ouvre la bouche ! Il m’a craché au nez, dans sa fureur. Mon Dieu ! il va tuer grand-père … »
 T15	Citation 46788 46811	« Vous voilà arrivés. »
 T16	Entite 46769 46778	Le paysan
-R3	Source Arg1:T15 Arg2:T16
+R3	Source Arg1:T16 Arg2:T15
 T17	Introducteur 46779 46785	disait
-R4	Introduction Arg1:T15 Arg2:T17
+R4	Introduction Arg1:T17 Arg2:T15
 T18	Entite 30276 30278	Il
 T19	Introducteur 30279 30289	commandait
-R5	Introduction Arg1:T6 Arg2:T19	
-R6	Source Arg1:T6 Arg2:T18
+R5	Introduction Arg1:T19 Arg2:T6
+R6	Source Arg1:T18 Arg2:T6
 T20	Citation 49716 49744	– Tu veux donc m’étrangler ?
 T21	Citation 2139 2168	– Bon Dieu ! qu’il est laid !
 T22	Introducteur 2169 2172	fit
 T23	Entite 2173 2181	le vieux
-R7	Introduction Arg1:T21 Arg2:T22
-R8	Source Arg1:T21 Arg2:T23
+R7	Introduction Arg1:T22 Arg2:T21
+R8	Source Arg1:T23 Arg2:T21
 T24	Citation 2336 2471	– Tu ne voudrais pas que je te dise qu’il est beau ? Tu ne me croirais pas. Allons, ce n’est pas de ta faute. Ils sont tous comme cela.
 T25	Entite 2287 2298	Jean-Michel
-R9	Introduction Arg1:T24 Arg2:T25
+R9	Introduction Arg1:T25 Arg2:T24
 T26	Citation 2718 2734	– Donnez-le-moi.
 T27	Citation 3086 3110;3136 3185	– Oh ! mon pauvre petit, que tu es laid, que tu es laid, comme je t’aime !
 T28	Introducteur 3111 3114	dit
 T29	Entite 3115 3119	elle
-R10	Source Arg1:T27 Arg2:T29	
-R11	Introduction Arg1:T27 Arg2:T28
+R10	Source Arg1:T29 Arg2:T27
+R11	Introduction Arg1:T28 Arg2:T27
 T30	Entite 2683 2687	Elle
 T31	Introducteur 2712 2715	dit
 T32	Entite 2735 2743	Le vieux
@@ -45,17 +45,17 @@ T34	Citation 2798 2880	– On ne doit pas céder aux enfants, quand ils pleurent
 T35	Entite 2886 2888	il
 T36	Introducteur 2913 2919	grogna
 T37	Citation 2922 2958	– Je n’en ai jamais vu d’aussi laid.
-R12	Introduction Arg1:T26 Arg2:T31	
-R13	Source Arg1:T26 Arg2:T30	
-R14	Introduction Arg1:T34 Arg2:T33	
-R15	Source Arg1:T34 Arg2:T32	
-R16	Introduction Arg1:T37 Arg2:T36	
-R17	Source Arg1:T37 Arg2:T35	
+R12	Introduction Arg1:T31 Arg2:T26
+R13	Source Arg1:T30 Arg2:T26
+R14	Introduction Arg1:T33 Arg2:T34
+R15	Source Arg1:T32 Arg2:T34
+R16	Introduction Arg1:T36 Arg2:T37
+R17	Source Arg1:T35 Arg2:T37
 T38	Citation 3325 3338;3348 3498	– Bonne fille Va, ne te tourmente pas, il a le temps de changer. Et puis, qu’est-ce que cela fait ? On ne lui demande qu’une chose, c’est de devenir un brave homme.
 T39	Introducteur 3340 3343	dit
 T40	Entite 3344 3346	il
-R18	Introduction Arg1:T38 Arg2:T39	
-R19	Source Arg1:T38 Arg2:T40	
+R18	Introduction Arg1:T39 Arg2:T38
+R19	Source Arg1:T40 Arg2:T38
 T65	Entite 3606 3617	Jean-Michel
 T41	Introducteur 3660 3666	répéta
 T42	Citation 3682 3731	– Il n’y a rien de plus beau qu’un honnête homme.
@@ -81,26 +81,26 @@ T61	Citation 4466 4495	– Ce n’est pas vrai, tu mens.
 T62	Citation 4525 4537	– Bon Dieu !
 T63	Introducteur 4538 4542	cria
 T64	Entite 4543 4555	le vieillard
-R20	Source Arg1:T42 Arg2:T65	
-R21	Introduction Arg1:T42 Arg2:T41	
-R22	Source Arg1:T45 Arg2:T43	
-R23	Introduction Arg1:T45 Arg2:T44	
-R24	Introduction Arg1:T46 Arg2:T47	
-R25	Source Arg1:T46 Arg2:T48	
-R26	Introduction Arg1:T51 Arg2:T52	
-R27	Source Arg1:T51 Arg2:T53	
-R28	Source Arg1:T56 Arg2:T54	
-R29	Introduction Arg1:T56 Arg2:T55	
-R30	Introduction Arg1:T57 Arg2:T58	
-R31	Source Arg1:T57 Arg2:T59	
-R32	Source Arg1:T61 Arg2:T60	
-R33	Introduction Arg1:T62 Arg2:T63	
-R34	Source Arg1:T62 Arg2:T64	
+R20	Source Arg1:T65 Arg2:T42
+R21	Introduction Arg1:T41 Arg2:T42
+R22	Source Arg1:T43 Arg2:T45
+R23	Introduction Arg1:T44 Arg2:T45
+R24	Introduction Arg1:T47 Arg2:T46
+R25	Source Arg1:T48 Arg2:T46
+R26	Introduction Arg1:T52 Arg2:T51
+R27	Source Arg1:T53 Arg2:T51
+R28	Source Arg1:T54 Arg2:T56
+R29	Introduction Arg1:T55 Arg2:T56
+R30	Introduction Arg1:T58 Arg2:T57
+R31	Source Arg1:T59 Arg2:T57
+R32	Source Arg1:T60 Arg2:T61
+R33	Introduction Arg1:T63 Arg2:T62
+R34	Source Arg1:T64 Arg2:T62
 T66	Citation 4661 4684;4698 4711	– Père, je vous en prie il va pleurer	
 T67	Introducteur 4686 4689	dit
 T68	Entite 4690 4696	Louisa
-R35	Introduction Arg1:T66 Arg2:T67	
-R36	Source Arg1:T66 Arg2:T68	
+R35	Introduction Arg1:T67 Arg2:T66
+R36	Source Arg1:T68 Arg2:T66
 T69	Entite 4863 4874	Jean-Michel
 T70	Introducteur 4875 4883	continua
 T71	Citation 4936 5200	– Qu’ai-je fait au bon Dieu pour avoir cet ivrogne de fils ? C’est bien la peine d’avoir vécu comme j’ai vécu, de m’être privé de tout ! … Mais toi, toi, tu n’es donc pas capable de l’empêcher ? Car enfin, sacrebleu ! c’est ton rôle. Si tu le retenais au logis ! …
@@ -116,16 +116,16 @@ T81	Citation 5992 6014;6026 6085	– C’est ma faute à moi Il ne devait pas m�
 T82	Citation 6086 6116	– Que veux-tu qu’il regrette ?
 T83	Citation 6117 6199	– Vous le savez bien. Vous-même, vous avez été fâché que je sois devenue sa femme.
 T84	Citation 6200 6845	– Ne parlons plus de cela. C’est vrai. J’ai été un peu chagrin. Un garçon comme lui, – je peux bien le dire sans te blesser, – élevé avec soin, musicien distingué, un véritable artiste, – il aurait pu prétendre à d’autres partis qu’à toi, qui n’avais rien, qui étais d’une autre classe, et pas même du métier. Un Krafft épouser une fille qui ne fût pas musicienne, cela ne s’était pas vu depuis plus de cent ans ! – Mais tu sais bien tout de même que je ne t’en ai pas voulu, et que j’ai de l’affection pour toi, depuis que je te connais. Puis, quand le choix est fait, il n’y a plus à y revenir : il ne reste qu’à faire son devoir, honnêtement.
-R37	Introduction Arg1:T71 Arg2:T70	
-R38	Source Arg1:T71 Arg2:T69	
-R39	Source Arg1:T73 Arg2:T72	
-R40	Source Arg1:T76 Arg2:T75	
-R41	Source Arg1:T78 Arg2:T77	
-R42	Source Arg1:T80 Arg2:T79	
+R37	Introduction Arg1:T70 Arg2:T71
+R38	Source Arg1:T69 Arg2:T71
+R39	Source Arg1:T72 Arg2:T73
+R40	Source Arg1:T75 Arg2:T76
+R41	Source Arg1:T77 Arg2:T78
+R42	Source Arg1:T79 Arg2:T80
 T74	Introducteur 6016 6019	dit
 T85	Entite 6020 6024	elle
-R43	Introduction Arg1:T81 Arg2:T74	
-R44	Source Arg1:T81 Arg2:T85	
+R43	Introduction Arg1:T74 Arg2:T81
+R44	Source Arg1:T85 Arg2:T81
 T86	Entite 6846 6848	Il
 T87	Introducteur 6887 6890	dit
 T88	Citation 6949 7008	– La première chose dans la vie, c’est de faire son devoir.
@@ -150,58 +150,58 @@ T106	Citation 12952 12961	– Allons.
 T107	Entite 14447 14454	La mère
 T108	Introducteur 14478 14497	avec de petits mots
 T109	Citation 14500 14579	« C’est fini, c’est fini, ne pleurons plus, mon jésus, mon petit poisson d’or …
-R45	Introduction Arg1:T89 Arg2:T90	
-R46	Source Arg1:T89 Arg2:T91	
-R47	Introduction Arg1:T88 Arg2:T87	
-R48	Source Arg1:T88 Arg2:T86	
-R49	Introduction Arg1:T92 Arg2:T93	
-R50	Source Arg1:T92 Arg2:T94	
-R51	Introduction Arg1:T95 Arg2:T96	
-R52	Source Arg1:T95 Arg2:T97	
-R53	Introduction Arg1:T102 Arg2:T101	
-R54	Source Arg1:T102 Arg2:T100	
-R55	Source Arg1:T106 Arg2:T104	
-R56	Introduction Arg1:T106 Arg2:T105	
-R57	Introduction Arg1:T109 Arg2:T108	
-R58	Source Arg1:T109 Arg2:T107	
+R45	Introduction Arg1:T90 Arg2:T89
+R46	Source Arg1:T91 Arg2:T89
+R47	Introduction Arg1:T87 Arg2:T88
+R48	Source Arg1:T86 Arg2:T88
+R49	Introduction Arg1:T93 Arg2:T92
+R50	Source Arg1:T94 Arg2:T92
+R51	Introduction Arg1:T96 Arg2:T95
+R52	Source Arg1:T97 Arg2:T95
+R53	Introduction Arg1:T101 Arg2:T102
+R54	Source Arg1:T100 Arg2:T102
+R55	Source Arg1:T104 Arg2:T106
+R56	Introduction Arg1:T105 Arg2:T106
+R57	Introduction Arg1:T108 Arg2:T109
+R58	Source Arg1:T107 Arg2:T109
 T110	Entite 23810 23835	la voix exaspérée du père
 T111	Introducteur 23836 23840	crie
-R59	Introduction Arg1:T4 Arg2:T111	
-R60	Source Arg1:T4 Arg2:T110	
+R59	Introduction Arg1:T111 Arg2:T4
+R60	Source Arg1:T110 Arg2:T4
 T112	Entite 26685 26687	Il
-R61	Source Arg1:T5 Arg2:T112	
+R61	Source Arg1:T112 Arg2:T5
 T113	Entite 34356 34364	le petit
 T114	Introducteur 34365 34374	demandait
-R62	Introduction Arg1:T7 Arg2:T114	
-R63	Source Arg1:T7 Arg2:T113	
+R62	Introduction Arg1:T114 Arg2:T7
+R63	Source Arg1:T113 Arg2:T7
 T115	Citation 35497 35535	« L’honneur est plus cher que la vie »
 T116	Citation 35544 35582	« Il vaut mieux être bon que méchant »
 T117	Entite 36811 36817	chacun
 T118	Introducteur 36832 36841	en criant
-R64	Introduction Arg1:T9 Arg2:T118	
-R65	Source Arg1:T9 Arg2:T117	
+R64	Introduction Arg1:T118 Arg2:T9
+R65	Source Arg1:T117 Arg2:T9
 T119	Entite 38201 38221	la logique enfantine
 T120	Introducteur 38239 38247	conclure
-R66	Introduction Arg1:T10 Arg2:T120	
-R67	Source Arg1:T10 Arg2:T119	
+R66	Introduction Arg1:T120 Arg2:T10
+R67	Source Arg1:T119 Arg2:T10
 T11	Entite 44358 44378	le vieux Jean-Michel
 T121	Introducteur 44383 44386	dit
-R68	Introduction Arg1:T12 Arg2:T121	
-R69	Source Arg1:T12 Arg2:T11	
+R68	Introduction Arg1:T121 Arg2:T12
+R69	Source Arg1:T11 Arg2:T12
 T122	Entite 45607 45637	fantômes tristes et grotesques
 T123	Introducteur 45643 45651	disaient
-R70	Introduction Arg1:T13 Arg2:T123	
-R71	Source Arg1:T13 Arg2:T122	
+R70	Introduction Arg1:T123 Arg2:T13
+R71	Source Arg1:T122 Arg2:T13
 T124	Citation 45744 45763	« Pas plus loin ! »
 T125	Entite 45685 45730	les essieux grinçants et les sabots du cheval
 T126	Introducteur 45731 45741	répétaient
-R72	Introduction Arg1:T124 Arg2:T126	
-R73	Source Arg1:T124 Arg2:T125	
+R72	Introduction Arg1:T126 Arg2:T124
+R73	Source Arg1:T125 Arg2:T124
 T127	Entite 46535 46537	il
 T128	Introducteur 46538 46545	pensait
-R74	Introduction Arg1:T14 Arg2:T128	
-R75	Source Arg1:T14 Arg2:T127	
+R74	Introduction Arg1:T128 Arg2:T14
+R75	Source Arg1:T127 Arg2:T14
 T129	Entite 49692 49696	Elle
 T130	Introducteur 49701 49704	dit
-R76	Introduction Arg1:T20 Arg2:T130	
-R77	Source Arg1:T20 Arg2:T129	
+R76	Introduction Arg1:T130 Arg2:T20
+R77	Source Arg1:T129 Arg2:T20

@@ -8,16 +8,16 @@ T7	Entite 4943 4955	le directeur
 T9	Entite 10263 10265	il
 T10	Introducteur 10299 10302	dit
 T11	Citation 13111 13390	« Essayez de la prendre par la douceur ; elle en est tellement privée, la pauvre petite, dans cette maison où on la bat. Surtout, si c'est la crainte d'être renvoyée, de se trouver sans place, qui la fait agir, dites-lui que je la prendrai chez moi. Je lui doublerai ses gages. »
-R1	Source Arg1:T5 Arg2:T7	
-R2	Introduction Arg1:T5 Arg2:T6	
-R3	Introduction Arg1:T1 Arg2:T3	
-R4	Source Arg1:T1 Arg2:T2	
-R5	Introduction Arg1:T4 Arg2:T10	
-R6	Source Arg1:T4 Arg2:T9	
+R1	Source Arg1:T7 Arg2:T5
+R2	Introduction Arg1:T6 Arg2:T5
+R3	Introduction Arg1:T3 Arg2:T1
+R4	Source Arg1:T2 Arg2:T1
+R5	Introduction Arg1:T10 Arg2:T4
+R6	Source Arg1:T9 Arg2:T4
 T8	Entite 13067 13071	Elle
 T12	Introducteur 13072 13095	fit des recommandations
-R7	Introduction Arg1:T11 Arg2:T12	
-R8	Source Arg1:T11 Arg2:T8	
+R7	Introduction Arg1:T12 Arg2:T11
+R8	Source Arg1:T8 Arg2:T11
 T13	Citation 13748 13768	— Taisez-vous donc !
 T14	Introducteur 13769 13775	criait
 T15	Entite 13776 13783	la dame
@@ -56,54 +56,54 @@ T50	Entite 30212 30219	sa mère
 T51	Citation 32800 32807;32819 32922	— Tiens l'année prochaine, quand vous serez en seconde, vous aurez mon beau-père pour professeur de géographie.
 T52	Introducteur 32809 32812	dit
 T53	Entite 32813 32817	elle
-R9	Source Arg1:T16 Arg2:T17	
-R10	Source Arg1:T13 Arg2:T15	
-R11	Introduction Arg1:T13 Arg2:T14	
-R12	Introduction Arg1:T18 Arg2:T19	
-R13	Source Arg1:T18 Arg2:T20
-R14	Introduction Arg1:T24 Arg2:T26
-R15	Source Arg1:T24 Arg2:T27
-R16	Introduction Arg1:T28 Arg2:T30	
-R17	Source Arg1:T28 Arg2:T29	
-R18	Introduction Arg1:T31 Arg2:T32	
-R19	Source Arg1:T31 Arg2:T33	
-R20	Introduction Arg1:T34 Arg2:T35	
-R21	Source Arg1:T34 Arg2:T36	
-R22	Source Arg1:T40 Arg2:T38	
-R23	Introduction Arg1:T40 Arg2:T39	
-R24	Introduction Arg1:T45 Arg2:T44	
-R25	Source Arg1:T45 Arg2:T43	
+R9	Source Arg1:T17 Arg2:T16
+R10	Source Arg1:T15 Arg2:T13
+R11	Introduction Arg1:T14 Arg2:T13
+R12	Introduction Arg1:T19 Arg2:T18
+R13	Source Arg1:T20 Arg2:T18
+R14	Introduction Arg1:T26 Arg2:T24
+R15	Source Arg1:T27 Arg2:T24
+R16	Introduction Arg1:T30 Arg2:T28
+R17	Source Arg1:T29 Arg2:T28
+R18	Introduction Arg1:T32 Arg2:T31
+R19	Source Arg1:T33 Arg2:T31
+R20	Introduction Arg1:T35 Arg2:T34
+R21	Source Arg1:T36 Arg2:T34
+R22	Source Arg1:T38 Arg2:T40
+R23	Introduction Arg1:T39 Arg2:T40
+R24	Introduction Arg1:T44 Arg2:T45
+R25	Source Arg1:T43 Arg2:T45
 T25	Entite 30008 30014	Marthe
-R26	Source Arg1:T46 Arg2:T25	
-R27	Introduction Arg1:T48 Arg2:T49	
-R28	Source Arg1:T48 Arg2:T50	
-R29	Source Arg1:T51 Arg2:T53	
-R30	Introduction Arg1:T51 Arg2:T52	
+R26	Source Arg1:T25 Arg2:T46
+R27	Introduction Arg1:T49 Arg2:T48
+R28	Source Arg1:T50 Arg2:T48
+R29	Source Arg1:T53 Arg2:T51
+R30	Introduction Arg1:T52 Arg2:T51
 T42	Citation 34716 34746;34760 34795	— Ces chaises sont trop dures, comme pour s'excuser d'être debout.
 T47	Citation 34954 35048	— Allons, accompagnez-moi dans les magasins, puisque vous êtes décidé à ne pas aller en classe
 T54	Introducteur 35050 35053	dit
 T55	Entite 35054 35060	Marthe
 T56	Introducteur 34750 34753	dit
 T57	Entite 34754 34758	elle
-R31	Source Arg1:T42 Arg2:T57	
-R32	Introduction Arg1:T42 Arg2:T56	
-R33	Introduction Arg1:T47 Arg2:T54	
-R34	Source Arg1:T47 Arg2:T55	
+R31	Source Arg1:T57 Arg2:T42
+R32	Introduction Arg1:T56 Arg2:T42
+R33	Introduction Arg1:T54 Arg2:T47
+R34	Source Arg1:T55 Arg2:T47
 T58	Citation 36292 36319	— Attendez-moi une seconde.
 T59	Entite 36277 36281	Elle
 T60	Introducteur 36285 36288	dit
-R35	Introduction Arg1:T58 Arg2:T60	
-R36	Source Arg1:T58 Arg2:T59	
+R35	Introduction Arg1:T60 Arg2:T58
+R36	Source Arg1:T59 Arg2:T58
 T61	Citation 39596 39633	« Lui qui voulait une chambre rose. »
 T62	Citation 40124 40164	« Au moins laissons-lui l'étoffe rose. »
 T63	Entite 40103 40109	Marthe
 T64	Introducteur 40112 40121	avait dit
 T65	Entite 39579 39583	Elle
 T66	Introducteur 39584 39593	murmurait
-R37	Introduction Arg1:T61 Arg2:T66	
-R38	Source Arg1:T61 Arg2:T65	
-R39	Introduction Arg1:T62 Arg2:T64	
-R40	Source Arg1:T62 Arg2:T63	
+R37	Introduction Arg1:T66 Arg2:T61
+R38	Source Arg1:T65 Arg2:T61
+R39	Introduction Arg1:T64 Arg2:T62
+R40	Source Arg1:T63 Arg2:T62
 T67	Entite 40637 40641	Elle
 T68	Introducteur 40642 40664	se contenta de me dire
 T69	Citation 40667 40698	« En effet, vous avez raison. »
@@ -138,57 +138,57 @@ T101	Citation 57153 57590	« Avant toi, j'étais heureuse, je croyais aimer mon 
 T102	Entite 59693 59699	Marthe
 T103	Introducteur 59700 59706	disait
 T104	Citation 59709 59778	« Oui, mords-moi, marque-moi, je voudrais que tout le monde sache … »
-R41	Introduction Arg1:T69 Arg2:T68	
-R42	Source Arg1:T69 Arg2:T67	
-R43	Introduction Arg1:T70 Arg2:T71	
-R44	Source Arg1:T70 Arg2:T72	
-R45	Source Arg1:T75 Arg2:T73	
-R46	Introduction Arg1:T75 Arg2:T74	
+R41	Introduction Arg1:T68 Arg2:T69
+R42	Source Arg1:T67 Arg2:T69
+R43	Introduction Arg1:T71 Arg2:T70
+R44	Source Arg1:T72 Arg2:T70
+R45	Source Arg1:T73 Arg2:T75
+R46	Introduction Arg1:T74 Arg2:T75
 T79	Entite 45147 45149	je
-R47	Source Arg1:T76 Arg2:T79	
-R48	Introduction Arg1:T78 Arg2:T80	
-R49	Source Arg1:T78 Arg2:T81	
-R50	Introduction Arg1:T82 Arg2:T84	
-R51	Source Arg1:T82 Arg2:T85	
+R47	Source Arg1:T79 Arg2:T76
+R48	Introduction Arg1:T80 Arg2:T78
+R49	Source Arg1:T81 Arg2:T78
+R50	Introduction Arg1:T84 Arg2:T82
+R51	Source Arg1:T85 Arg2:T82
 T83	Entite 47890 47896	Marthe
-R52	Source Arg1:T86 Arg2:T83	
-R53	Source Arg1:T87 Arg2:T88	
+R52	Source Arg1:T83 Arg2:T86
+R53	Source Arg1:T88 Arg2:T87
 T105	Citation 49419 49542	— C'est qu'en vous attendant, j'avais fait dans la cheminée du salon un feu de bois d'olivier, à la lueur duquel je lisais.
 T106	Entite 49328 49332	elle
-R54	Source Arg1:T105 Arg2:T106	
+R54	Source Arg1:T106 Arg2:T105
 T107	Citation 50013 50064	— Vous n'aimez peut-être pas l'odeur de l'olivier ?
 T108	Entite 49865 49871	Marthe
-R55	Source Arg1:T107 Arg2:T108	
-R56	Introduction Arg1:T91 Arg2:T89	
-R57	Source Arg1:T91 Arg2:T90	
-R58	Introduction Arg1:T96 Arg2:T95	
-R59	Source Arg1:T96 Arg2:T94	
-R60	Introduction Arg1:T98 Arg2:T99	
-R61	Source Arg1:T98 Arg2:T97	
-R62	Source Arg1:T101 Arg2:T100	
-R63	Introduction Arg1:T104 Arg2:T103	
-R64	Source Arg1:T104 Arg2:T102	
+R55	Source Arg1:T108 Arg2:T107
+R56	Introduction Arg1:T89 Arg2:T91
+R57	Source Arg1:T90 Arg2:T91
+R58	Introduction Arg1:T95 Arg2:T96
+R59	Source Arg1:T94 Arg2:T96
+R60	Introduction Arg1:T99 Arg2:T98
+R61	Source Arg1:T97 Arg2:T98
+R62	Source Arg1:T100 Arg2:T101
+R63	Introduction Arg1:T103 Arg2:T104
+R64	Source Arg1:T102 Arg2:T104
 T92	Citation 67425 67435	— Marthe ?
 T93	Entite 67410 67412	Je
 T109	Introducteur 67413 67421	murmurai
-R65	Introduction Arg1:T92 Arg2:T109	
-R66	Source Arg1:T92 Arg2:T93	
+R65	Introduction Arg1:T109 Arg2:T92
+R66	Source Arg1:T93 Arg2:T92
 T110	Citation 67454 67589	— Plutôt que de me faire une peur pareille, tu aurais bien pu ne venir que demain matin. Tu as donc ta permission huit jours plus tôt ?
 T111	Entite 67437 67441	Elle
 T112	Introducteur 67442 67450	répondit
-R67	Source Arg1:T110 Arg2:T111
-R68	Introduction Arg1:T110 Arg2:T112
+R67	Source Arg1:T111 Arg2:T110
+R68	Introduction Arg1:T112 Arg2:T110
 T113	Citation 67938 67986	— Ta figure est toute mouillée. Essuie-toi donc.
 T114	Citation 68145 68211	— Mais mon pauvre chéri, tu vas prendre mal ! Déshabille-toi vite.
 T115	Entite 68056 68060	elle
-R69	Source Arg1:T114 Arg2:T115	
+R69	Source Arg1:T115 Arg2:T114
 T116	Entite 68311 68315	elle
 T117	Introducteur 68316 68319	dit
 T118	Citation 68323 68348	— Veux-tu que je t'aide ?
-R70	Source Arg1:T118 Arg2:T116	
-R71	Introduction Arg1:T118 Arg2:T117	
+R70	Source Arg1:T116 Arg2:T118
+R71	Introduction Arg1:T117 Arg2:T118
 T119	Citation 69205 69239	— Non. Je veux te voir t'endormir.
 T120	Entite 69173 69179	Marthe
 T121	Introducteur 69183 69191	répondit
-R72	Introduction Arg1:T119 Arg2:T121	
-R73	Source Arg1:T119 Arg2:T120	
+R72	Introduction Arg1:T121 Arg2:T119
+R73	Source Arg1:T120 Arg2:T119

@@ -3,9 +3,9 @@ T2	Citation 20810 20863	« Pris les mains couvertes de sang. Très-dangereux. »
 T3	Citation 21680 21722	« ces forçats qui n'en finissaient plus. »
 T5	Citation 27415 27437	« Eh ! la chicorée ! »
 T6	Entite 27381 27395	Une voix forte
-R1	Source Arg1:T5 Arg2:T6
+R1	Source Arg1:T6 Arg2:T5
 T7	Introducteur 27406 27412	criait
-R2	Introduction Arg1:T5 Arg2:T7
+R2	Introduction Arg1:T7 Arg2:T5
 T10	Citation 2012 2038;2099 2132	— Eh ! la mère, avançons ! … C'est quelque cochon d'ivrogne. 	
 T11	Citation 2258 2284	— On n'écrase pas le monde
 T12	Citation 2675 2691	— Eh ! l'homme !
@@ -84,119 +84,119 @@ T77	Citation 59605 59636	— Eh ! Marjolin ! eh ! Cadine !
 T78	Citation 59822 59978	— Vous savez, au fond de l'impasse des Bourdonnais … Mon nom est écrit à la craie sur la porte, Claude Lantier … Venez voir l'eau-forte de la rue Pirouette.
 T4	Introducteur 2692 2695	dit
 T79	Entite 2696 2700	elle
-R3	Introduction Arg1:T12 Arg2:T4	
-R4	Source Arg1:T12 Arg2:T79	
+R3	Introduction Arg1:T4 Arg2:T12
+R4	Source Arg1:T79 Arg2:T12
 T80	Introducteur 3732 3739	demanda
 T81	Entite 3742 3746	elle
-R5	Source Arg1:T17 Arg2:T81	
-R6	Introduction Arg1:T17 Arg2:T80	
+R5	Source Arg1:T81 Arg2:T17
+R6	Introduction Arg1:T80 Arg2:T17
 T82	Introducteur 4120 4127	murmura
 T83	Entite 4130 4132	il
-R7	Source Arg1:T20 Arg2:T83	
-R8	Introduction Arg1:T20 Arg2:T82	
+R7	Source Arg1:T83 Arg2:T20
+R8	Introduction Arg1:T82 Arg2:T20
 T84	Introducteur 10442 10446	cria
 T85	Entite 10459 10474	madame François
-R9	Source Arg1:T26 Arg2:T85	
-R10	Introduction Arg1:T26 Arg2:T84	
+R9	Source Arg1:T85 Arg2:T26
+R10	Introduction Arg1:T84 Arg2:T26
 T86	Introducteur 16189 16197	répondit
 T87	Entite 16198 16205	Florent
-R11	Introduction Arg1:T33 Arg2:T86	
-R12	Source Arg1:T33 Arg2:T87	
-R13	Introduction Arg1:T11 Arg2:T90	
-R14	Source Arg1:T11 Arg2:T91	
-R15	Introduction Arg1:T13 Arg2:T93	
-R16	Source Arg1:T13 Arg2:T92
-R17	Introduction Arg1:T15 Arg2:T94	
-R18	Source Arg1:T15 Arg2:T95	
+R11	Introduction Arg1:T86 Arg2:T33
+R12	Source Arg1:T87 Arg2:T33
+R13	Introduction Arg1:T90 Arg2:T11
+R14	Source Arg1:T91 Arg2:T11
+R15	Introduction Arg1:T93 Arg2:T13
+R16	Source Arg1:T92 Arg2:T13
+R17	Introduction Arg1:T94 Arg2:T15
+R18	Source Arg1:T95 Arg2:T15
 T8	Citation 3075 3132;3147 3165	— Il ne faut pas rester là, vous allez vous faire écraser … Où alliez-vous ?
 T9	Introducteur 3138 3141	dit
 T14	Entite 3142 3146	elle
-R19	Introduction Arg1:T8 Arg2:T9	
-R20	Source Arg1:T8 Arg2:T14	
+R19	Introduction Arg1:T9 Arg2:T8
+R20	Source Arg1:T14 Arg2:T8
 T96	Entite 3825 3827	Il
-R21	Source Arg1:T18 Arg2:T96	
+R21	Source Arg1:T96 Arg2:T18
 T97	Entite 4002 4015	La maraîchère
-R22	Source Arg1:T19 Arg2:T97	
+R22	Source Arg1:T97 Arg2:T19
 T98	Entite 4190 4194	Elle
-R23	Source Arg1:T21 Arg2:T98	
+R23	Source Arg1:T98 Arg2:T21
 T99	Entite 4382 4386	elle
-R24	Source Arg1:T22 Arg2:T99	
+R24	Source Arg1:T99 Arg2:T22
 T100	Introducteur 4483 4489	criant
-R25	Introduction Arg1:T22 Arg2:T100	
+R25	Introduction Arg1:T100 Arg2:T22
 T101	Entite 5003 5043	Celui qui avait interpellé la maraîchère
 T102	Introducteur 5056 5067	en grondant
-R26	Source Arg1:T23 Arg2:T101	
-R27	Introduction Arg1:T23 Arg2:T102	
+R26	Source Arg1:T101 Arg2:T23
+R27	Introduction Arg1:T102 Arg2:T23
 T103	Introducteur 5957 5960	dit
 T104	Entite 5961 5974	la maraîchère
-R28	Introduction Arg1:T24 Arg2:T103	
-R29	Source Arg1:T24 Arg2:T104	
+R28	Introduction Arg1:T103 Arg2:T24
+R29	Source Arg1:T104 Arg2:T24
 T105	Entite 10634 10647	La maraîchère
 T106	Introducteur 10673 10679	disant
-R30	Introduction Arg1:T27 Arg2:T106	
-R31	Source Arg1:T27 Arg2:T105	
+R30	Introduction Arg1:T106 Arg2:T27
+R31	Source Arg1:T105 Arg2:T27
 T107	Entite 10736 10749	Un gros homme
-R32	Source Arg1:T28 Arg2:T107	
+R32	Source Arg1:T107 Arg2:T28
 T108	Entite 11835 11839	elle
-R33	Source Arg1:T29 Arg2:T108	
+R33	Source Arg1:T108 Arg2:T29
 T109	Introducteur 11844 11851;11859 11869	demanda un service
-R34	Introduction Arg1:T29 Arg2:T109	
+R34	Introduction Arg1:T109 Arg2:T29
 T110	Entite 14986 14990	Elle
-R35	Source Arg1:T30 Arg2:T110	
+R35	Source Arg1:T110 Arg2:T30
 T111	Introducteur 16597 16600	dit
 T112	Entite 16601 16605	elle
-R36	Introduction Arg1:T35 Arg2:T111	
-R37	Source Arg1:T35 Arg2:T112	
+R36	Introduction Arg1:T111 Arg2:T35
+R37	Source Arg1:T112 Arg2:T35
 T113	Entite 23048 23063	madame François
-R38	Source Arg1:T36 Arg2:T113	
+R38	Source Arg1:T113 Arg2:T36
 T114	Introducteur 23103 23109	disant
-R39	Introduction Arg1:T36 Arg2:T114	
+R39	Introduction Arg1:T114 Arg2:T36
 T115	Introducteur 23668 23675	demanda
 T116	Entite 23678 23682	elle
-R40	Introduction Arg1:T37 Arg2:T115	
-R41	Source Arg1:T37 Arg2:T116	
+R40	Introduction Arg1:T115 Arg2:T37
+R41	Source Arg1:T116 Arg2:T37
 T117	Entite 24279 24283	Elle
 T118	Introducteur 24284 24290	reprit
-R42	Introduction Arg1:T38 Arg2:T118	
-R43	Source Arg1:T38 Arg2:T117	
+R42	Introduction Arg1:T118 Arg2:T38
+R43	Source Arg1:T117 Arg2:T38
 T119	Introducteur 24825 24832	murmura
 T120	Entite 24835 24839	elle
-R44	Introduction Arg1:T39 Arg2:T119
-R45	Source Arg1:T39 Arg2:T120
+R44	Introduction Arg1:T119 Arg2:T39
+R45	Source Arg1:T120 Arg2:T39
 T121	Entite 28546 28560	la jeune femme
 T122	Introducteur 28595 28604	reprenait
-R46	Source Arg1:T42 Arg2:T121	
-R47	Introduction Arg1:T42 Arg2:T122	
+R46	Source Arg1:T121 Arg2:T42
+R47	Introduction Arg1:T122 Arg2:T42
 T123	Entite 28368 28399	une adorable petite femme brune
-R48	Source Arg1:T41 Arg2:T123	
+R48	Source Arg1:T123 Arg2:T41
 T124	Introducteur 28983 28989	reprit
 T125	Entite 28990 28994	elle
-R49	Source Arg1:T45 Arg2:T125
-R50	Introduction Arg1:T45 Arg2:T124
+R49	Source Arg1:T125 Arg2:T45
+R50	Introduction Arg1:T124 Arg2:T45
 T126	Introducteur 30012 30015	dit
 T127	Entite 30016 30018	il
-R51	Source Arg1:T46 Arg2:T127
-R52	Introduction Arg1:T46 Arg2:T126
+R51	Source Arg1:T127 Arg2:T46
+R52	Introduction Arg1:T126 Arg2:T46
 T128	Entite 30087 30100	la maraîchère
 T129	Introducteur 30063 30071	répondit
-R53	Introduction Arg1:T47 Arg2:T129	
-R54	Source Arg1:T47 Arg2:T128	
+R53	Introduction Arg1:T129 Arg2:T47
+R54	Source Arg1:T128 Arg2:T47
 T130	Introducteur 30381 30384	dit
 T131	Entite 30385 30389	elle
-R55	Source Arg1:T50 Arg2:T131	
-R56	Introduction Arg1:T50 Arg2:T130	
+R55	Source Arg1:T131 Arg2:T50
+R56	Introduction Arg1:T130 Arg2:T50
 T132	Introducteur 30905 30911	reprit
 T133	Entite 30912 30916	elle
-R57	Introduction Arg1:T51 Arg2:T132	
-R58	Source Arg1:T51 Arg2:T133	
+R57	Introduction Arg1:T132 Arg2:T51
+R58	Source Arg1:T133 Arg2:T51
 T134	Introducteur 31321 31327	répéta
 T135	Entite 31328 31343	madame François
-R59	Source Arg1:T52 Arg2:T135
-R60	Introduction Arg1:T52 Arg2:T134	
+R59	Source Arg1:T135 Arg2:T52
+R60	Introduction Arg1:T134 Arg2:T52
 T136	Entite 32023 32037	une voix forte
 T137	Introducteur 32038 32041	dit
-R61	Source Arg1:T53 Arg2:T136	
-R62	Introduction Arg1:T53 Arg2:T137	
+R61	Source Arg1:T136 Arg2:T53
+R62	Introduction Arg1:T137 Arg2:T53
 T138	Introducteur 32603 32611	répondit
 T139	Entite 32621 32634	la maraîchère
 T140	Entite 33308 33321	La maraîchère
@@ -204,11 +204,11 @@ T141	Introducteur 33322 33328	reprit
 T142	Entite 33404 33408	elle
 T143	Entite 33922 33924	il
 T144	Introducteur 33929 33932	dit
-R63	Introduction Arg1:T58 Arg2:T141	
-R64	Source Arg1:T58 Arg2:T140	
-R65	Source Arg1:T59 Arg2:T142	
-R66	Source Arg1:T60 Arg2:T143	
-R67	Introduction Arg1:T60 Arg2:T144
+R63	Introduction Arg1:T141 Arg2:T58
+R64	Source Arg1:T140 Arg2:T58
+R65	Source Arg1:T142 Arg2:T59
+R66	Source Arg1:T143 Arg2:T60
+R67	Introduction Arg1:T144 Arg2:T60
 T145	Entite 34115 34117	il
 T146	Introducteur 34118 34125	demanda
 T147	Introducteur 34227 34230	dit
@@ -221,12 +221,12 @@ T153	Entite 37367 37369	il
 T154	Introducteur 37370 37376	ajouta
 T155	Introducteur 38125 38128	dit
 T156	Entite 38129 38136	Florent
-R68	Introduction Arg1:T64 Arg2:T151	
-R69	Source Arg1:T64 Arg2:T152	
-R70	Introduction Arg1:T65 Arg2:T154	
-R71	Source Arg1:T65 Arg2:T153	
-R72	Introduction Arg1:T67 Arg2:T155	
-R73	Source Arg1:T67 Arg2:T156	
+R68	Introduction Arg1:T151 Arg2:T64
+R69	Source Arg1:T152 Arg2:T64
+R70	Introduction Arg1:T154 Arg2:T65
+R71	Source Arg1:T153 Arg2:T65
+R72	Introduction Arg1:T155 Arg2:T67
+R73	Source Arg1:T156 Arg2:T67
 T157	Introducteur 40550 40553	dit
 T158	Entite 40554 40560	Claude
 T159	Introducteur 39903 39909	répéta
@@ -249,31 +249,31 @@ T175	Introducteur 59637 59641	cria
 T176	Entite 59644 59646	il
 T177	Entite 59801 59803	il
 T178	Introducteur 59804 59807	dit
-R74	Source Arg1:T68 Arg2:T162	
-R75	Introduction Arg1:T68 Arg2:T161	
-R76	Source Arg1:T69 Arg2:T160	
-R77	Introduction Arg1:T69 Arg2:T159	
-R78	Introduction Arg1:T70 Arg2:T157	
-R79	Source Arg1:T70 Arg2:T158	
-R80	Introduction Arg1:T72 Arg2:T165	
-R81	Source Arg1:T72 Arg2:T166	
-R82	Introduction Arg1:T73 Arg2:T167	
-R83	Source Arg1:T73 Arg2:T168	
-R84	Source Arg1:T74 Arg2:T169	
-R85	Introduction Arg1:T74 Arg2:T170	
-R86	Source Arg1:T75 Arg2:T172	
-R87	Introduction Arg1:T75 Arg2:T171	
-R88	Introduction Arg1:T76 Arg2:T173	
-R89	Source Arg1:T76 Arg2:T174	
-R90	Introduction Arg1:T77 Arg2:T175	
-R91	Source Arg1:T77 Arg2:T176	
-R92	Introduction Arg1:T78 Arg2:T178	
-R93	Source Arg1:T78 Arg2:T177	
+R74	Source Arg1:T162 Arg2:T68
+R75	Introduction Arg1:T161 Arg2:T68
+R76	Source Arg1:T160 Arg2:T69
+R77	Introduction Arg1:T159 Arg2:T69
+R78	Introduction Arg1:T157 Arg2:T70
+R79	Source Arg1:T158 Arg2:T70
+R80	Introduction Arg1:T165 Arg2:T72
+R81	Source Arg1:T166 Arg2:T72
+R82	Introduction Arg1:T167 Arg2:T73
+R83	Source Arg1:T168 Arg2:T73
+R84	Source Arg1:T169 Arg2:T74
+R85	Introduction Arg1:T170 Arg2:T74
+R86	Source Arg1:T172 Arg2:T75
+R87	Introduction Arg1:T171 Arg2:T75
+R88	Introduction Arg1:T173 Arg2:T76
+R89	Source Arg1:T174 Arg2:T76
+R90	Introduction Arg1:T175 Arg2:T77
+R91	Source Arg1:T176 Arg2:T77
+R92	Introduction Arg1:T178 Arg2:T78
+R93	Source Arg1:T177 Arg2:T78
 T179	Introducteur 6150 6158	répondit
 T180	Entite 6159 6168	l'inconnu
-R94	Source Arg1:T25 Arg2:T180	
-R95	Introduction Arg1:T25 Arg2:T179	
+R94	Source Arg1:T180 Arg2:T25
+R95	Introduction Arg1:T179 Arg2:T25
 T181	Entite 25011 25015	elle
 T182	Introducteur 25016 25022	répéta
-R96	Introduction Arg1:T40 Arg2:T182	
-R97	Source Arg1:T40 Arg2:T181	
+R96	Introduction Arg1:T182 Arg2:T40
+R97	Source Arg1:T181 Arg2:T40

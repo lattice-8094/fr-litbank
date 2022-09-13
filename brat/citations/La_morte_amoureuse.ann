@@ -1,150 +1,150 @@
 T2	Citation 14748 14793	« Malheureux ! malheureux ! qu’as-tu fait ? »
-R2	Introduction Arg1:T2 Arg2:T39
+R2	Introduction Arg1:T39 Arg2:T2
 T5	Citation 22546 22667	« C’est l’ancien palais que le prince Concini a donné à la courtisane Clarimonde ; il s’y passe d’épouvantables choses. »
 T6	Entite 22529 22531	il
-R3	Source Arg1:T5 Arg2:T6
+R3	Source Arg1:T6 Arg2:T5
 T7	Introducteur 22535 22543	répondit
-R4	Introduction Arg1:T5 Arg2:T7
+R4	Introduction Arg1:T7 Arg2:T5
 T8	Citation 33975 34147	« Est-ce bien Clarimonde ? quelle preuve en ai-je ? Ce page noir ne peut-il être passé au service d’une autre femme ? Je suis bien fou de me désoler et de m’agiter ainsi. »
 T9	Entite 33960 33962	je
-R5	Source Arg1:T8 Arg2:T9
+R5	Source Arg1:T9 Arg2:T8
 T10	Introducteur 33966 33972	disais
-R6	Introduction Arg1:T8 Arg2:T10
+R6	Introduction Arg1:T10 Arg2:T8
 T11	Citation 34194 34231	« C’est bien elle, c’est bien elle. »
 T12	Entite 34153 34161	mon cœur
-R7	Source Arg1:T11 Arg2:T12
+R7	Source Arg1:T12 Arg2:T11
 T13	Introducteur 34165 34173	répondit
-R8	Introduction Arg1:T11 Arg2:T13
+R8	Introduction Arg1:T13 Arg2:T11
 T14	Citation 42471 42814	« Mon fils, je dois vous en avertir, vous avez le pied levé sur un abîme, prenez garde d’y tomber. Satan a la griffe longue, et les tombeaux ne sont pas toujours fidèles. La pierre de Clarimonde devrait être scellée d’un triple sceau ; car ce n’est pas, à ce qu’on dit, la première fois qu’elle est morte. Que Dieu veille sur vous, Romuald ! »
 T15	Citation 47619 47634	« C’est lui ! »
 T16	Citation 50803 50968	« Eh bien ! beau dormeur, est-ce ainsi que vous faites vos préparatifs ? Je comptais vous trouver debout. Levez-vous bien vite, nous n’avons pas de temps à perdre. »
 T17	Entite 50763 50767	Elle
-R9	Source Arg1:T16 Arg2:T17
+R9	Source Arg1:T17 Arg2:T16
 T18	Introducteur 50797 50800	dit
-R10	Introduction Arg1:T16 Arg2:T18
+R10	Introduction Arg1:T18 Arg2:T16
 T19	Citation 51531 51616	« Comment te trouves-tu ? Veux-tu me prendre à ton service comme valet de chambre ? »
 T20	Entite 51426 51430	elle
-R11	Source Arg1:T19 Arg2:T20
+R11	Source Arg1:T20 Arg2:T19
 T21	Introducteur 51525 51528	dit
-R12	Introduction Arg1:T19 Arg2:T21
+R12	Introduction Arg1:T21 Arg2:T19
 T22	Citation 59952 60083	« Non content de perdre votre âme, vous voulez aussi perdre votre corps. Infortuné jeune homme, dans quel piège êtes-vous tombé ! »
 T23	Entite 59912 59914	Il
-R13	Source Arg1:T22 Arg2:T23
+R13	Source Arg1:T23 Arg2:T22
 T24	Introducteur 59946 59949	dit
-R14	Introduction Arg1:T22 Arg2:T24
+R14	Introduction Arg1:T24 Arg2:T22
 T25	Citation 62806 62875	« Bois ! et que mon amour s’infiltre dans ton corps avec mon sang ! »
 T26	Entite 62786 62788	je
-R15	Source Arg1:T25 Arg2:T26
+R15	Source Arg1:T26 Arg2:T25
 T27	Introducteur 62793 62803	aurais dit
-R16	Introduction Arg1:T25 Arg2:T27
+R16	Introduction Arg1:T27 Arg2:T25
 T28	Citation 64029 64488	« Pour vous débarrasser de cette obsession, il n’y a qu’un moyen, et, quoiqu’il soit extrême, il le faut employer : aux grands maux les grands remèdes. Je sais où Clarimonde a été enterrée ; il faut que nous la déterrions et que vous voyiez dans quel état pitoyable est l’objet de votre amour ; vous ne serez plus tenté de perdre votre âme pour un cadavre immonde dévoré des vers et près de tomber en poudre ; cela vous fera assurément rentrer en vous-même. »
 T29	Entite 64017 64019	il
-R17	Source Arg1:T28 Arg2:T29
+R17	Source Arg1:T29 Arg2:T28
 T30	Introducteur 64023 64026	dit
-R18	Introduction Arg1:T28 Arg2:T30
+R18	Introduction Arg1:T30 Arg2:T28
 T31	Citation 67278 67351	« Ah ! te voilà, démon, courtisane impudique, buveuse de sang et d’or ! »
 T32	Citation 68218 68521	« Malheureux ! malheureux ! qu’as-tu fait ? Pourquoi as-tu écouté ce prêtre imbécile ? n’étais-tu pas heureux ? et que t’avais-je fait, pour violer ma pauvre tombe et mettre à nu les misères de mon néant ? Toute communication entre nos âmes et nos corps est rompue désormais. Adieu, tu me regretteras. »
 T43	Citation 65356 65375	« C’est bien ici, »
 T33	Citation 10320 10696;10697 11007	« Si tu veux être à moi, je te ferai plus heureux que Dieu lui-même dans son paradis ; les anges te jalouseront. Déchire ce funèbre linceul où tu vas t’envelopper ; je suis la beauté, je suis la jeunesse, je suis la vie ; viens à moi, nous serons l’amour. Que pourrait t’offrir Jéhovah pour compensation ? Notre existence coulera comme un rêve et ne sera qu’un baiser éternel. « Répands le vin de ce calice, et tu es libre. Je t’emmènerai vers les îles inconnues ; tu dormiras sur mon sein, dans un lit d’or massif et sous un pavillon d’argent ; car je t’aime et je veux te prendre à ton Dieu, devant qui tant de nobles cœurs répandent des flots d’amour qui n’arrivent pas jusqu’à lui. »
 T34	Entite 10303 10307	Elle
 T35	Introducteur 10311 10317	disait
-R19	Introduction Arg1:T33 Arg2:T35	
-R20	Source Arg1:T33 Arg2:T34	
+R19	Introduction Arg1:T35 Arg2:T33
+R20	Source Arg1:T34 Arg2:T33
 T36	Citation 12847 12894	— « Malheureux ! malheureux ! qu’as-tu fait ? »
 T37	Introducteur 12898 12901	dit
 T38	Entite 12902 12906	elle
-R21	Introduction Arg1:T36 Arg2:T37	
-R22	Source Arg1:T36 Arg2:T38	
+R21	Introduction Arg1:T37 Arg2:T36
+R22	Source Arg1:T38 Arg2:T36
 T1	Entite 14700 14704	elle
 T39	Introducteur 14707 14717	avait dits
-R23	Source Arg1:T2 Arg2:T1	
+R23	Source Arg1:T1 Arg2:T2
 T3	Citation 18436 18506;18563 19372	« Romuald, mon ami, il se passe quelque chose d’extraordinaire en vous ; votre conduite est vraiment inexplicable ! Vous, si pieux, si calme et si doux, vous vous agitez dans votre cellule comme une bête fauve. Prenez garde, mon frère, et n’écoutez pas les suggestions du diable ; l’esprit malin, irrité de ce que vous vous êtes à tout jamais consacré au Seigneur, rôde autour de vous comme un loup ravissant et fait un dernier effort pour vous attirer à lui. Au lieu de vous laisser abattre, mon cher Romuald, faites-vous une cuirasse de prières, un bouclier de mortifications, et combattez vaillamment l’ennemi ; vous le vaincrez. L’épreuve est nécessaire à la vertu, et l’or sort plus fin de la coupelle. Ne vous effrayez ni ne vous découragez ; les âmes les mieux gardées et les plus affermies ont eu de ces moments. Priez, jeûnez, méditez, et le mauvais esprit se retirera. »
 T4	Introducteur 18511 18514	dit
 T40	Entite 18515 18523	Sérapion
-R1	Introduction Arg1:T3 Arg2:T4	
-R24	Source Arg1:T3 Arg2:T40	
+R1	Introduction Arg1:T4 Arg2:T3
+R24	Source Arg1:T40 Arg2:T3
 T41	Citation 22365 22447	« Quel est donc ce palais que je vois tout là-bas éclairé d’un rayon du soleil ? »
 T42	Introducteur 22448 22456	demandai
 T44	Entite 22457 22459	je
 T45	Citation 30587 30600;30628 30727	« Trop tard ! trop tard ! seigneur prêtre ; mais si vous n’avez pu sauver l’âme, venez veiller le pauvre corps. »
 T46	Introducteur 30601 30604	fit
 T47	Entite 30605 30607	il
-R25	Source Arg1:T45 Arg2:T47	
-R26	Introduction Arg1:T45 Arg2:T46	
+R25	Source Arg1:T47 Arg2:T45
+R26	Introduction Arg1:T46 Arg2:T45
 T48	Citation 37425 37450;37537 37847	« Ah ! c’est toi, Romuald ; que fais-tu donc ? Je t’ai attendu si longtemps, que je suis morte ; mais maintenant nous sommes fiancés, je pourrai te voir et aller chez toi. Adieu, Romuald, adieu ! je t’aime ; c’est tout ce que je voulais te dire, et je te rends la vie que tu as rappelée sur moi une minute avec ton baiser ; à bientôt. »
 T49	Introducteur 37452 37455	dit
 T50	Entite 37456 37460	elle
-R27	Source Arg1:T48 Arg2:T50	
-R28	Introduction Arg1:T48 Arg2:T49	
+R27	Source Arg1:T50 Arg2:T48
+R28	Introduction Arg1:T49 Arg2:T48
 T51	Citation 41237 41966	« La grande courtisane Clarimonde est morte dernièrement, à la suite d’une orgie qui a duré huit jours et huit nuits. Ç’a été quelque chose d’infernalement splendide. On a renouvelé là les abominations des festins de Balthazar et de Cléopâtre. Dans quel siècle vivons-nous, bon Dieu ! Les convives étaient servis par des esclaves basanés parlant un langage inconnu, et qui m’ont tout l’air de vrais démons ; la livrée du moindre d’entre eux eût pu servir d’habit de gala à un empereur. Il a couru de tout temps sur cette Clarimonde de bien étranges histoires, et tous ses amants ont fini d’une manière misérable ou violente. On a dit que c’était une goule, un vampire femelle ; mais je crois que c’était Béelzébuth en personne. »
 T52	Entite 41128 41130	il
 T53	Introducteur 41134 41137	dit
-R29	Introduction Arg1:T51 Arg2:T53	
-R30	Source Arg1:T51 Arg2:T52	
+R29	Introduction Arg1:T53 Arg2:T51
+R30	Source Arg1:T52 Arg2:T51
 T54	Entite 42459 42461	il
 T55	Introducteur 42465 42468	dit
-R31	Introduction Arg1:T14 Arg2:T55	
-R32	Source Arg1:T14 Arg2:T54	
+R31	Introduction Arg1:T55 Arg2:T14
+R32	Source Arg1:T54 Arg2:T14
 T56	Citation 45206 46029	« Je me suis bien fait attendre, mon cher Romuald, et tu as dû croire que je t’avais oublié. Mais je viens de bien loin, et d’un endroit d’où personne n’est encore revenu ; il n’y a ni lune ni soleil au pays d’où j’arrive ; ce n’est que de l’espace et de l’ombre ; ni chemin, ni sentier ; point de terre pour le pied, point d’air pour l’aile ; et pourtant me voici, car l’amour est plus fort que la mort, et il finira par la vaincre. Ah ! que de faces mornes et de choses terribles j’ai vues dans mon voyage ! Que de peine mon âme, rentrée dans ce monde par la puissance de la volonté, a eue pour retrouver son corps et s’y réinstaller ! Que d’efforts il m’a fallu faire avant de lever la dalle dont on m’avait couverte ! Tiens ! le dedans de mes pauvres mains en est tout meurtri. Baise-les pour les guérir, cher amour ! »
 T57	Entite 45091 45095	elle
 T58	Introducteur 45099 45102	dit
-R33	Source Arg1:T56 Arg2:T57
-R34	Introduction Arg1:T56 Arg2:T58
+R33	Source Arg1:T57 Arg2:T56
+R34	Introduction Arg1:T58 Arg2:T56
 T59	Entite 47594 47596	j’
 T60	Introducteur 47596 47602	ai dit
-R35	Introduction Arg1:T15 Arg2:T60	
-R36	Source Arg1:T15 Arg2:T59	
+R35	Introduction Arg1:T60 Arg2:T15
+R36	Source Arg1:T59 Arg2:T15
 T61	Citation 47429 47883;47884 47972;47973 48251	« Je t’aimais bien longtemps avant de t’avoir vu, mon cher Romuald, et je te cherchais partout. Tu étais mon rêve, et je t’ai aperçu dans l’église au fatal moment ; j’ai dit tout de suite : « C’est lui ! » Je te jetai un regard où je mis tout l’amour que j’avais eu, que j’avais et que je devais avoir pour toi ; un regard à damner un cardinal, à faire agenouiller un roi à mes pieds devant toute sa cour. Tu restas impassible et tu me préféras ton Dieu. « Ah ! que je suis jalouse de Dieu, que tu as aimé et que tu aimes encore plus que moi ! « Malheureuse, malheureuse que je suis ! je n’aurai jamais ton cœur à moi toute seule, moi que tu as ressuscitée d’un baiser, Clarimonde la morte, qui force à cause de toi les portes du tombeau et qui vient te consacrer une vie qu’elle n’a reprise que pour te rendre heureux ! »
 T62	Citation 48555 48593;48638 49017	« Vrai ! bien vrai ! autant que Dieu ! Puisque c’est ainsi, tu viendras avec moi, tu me suivras où je voudrai. Tu laisseras tes vilains habits noirs. Tu seras le plus fier et le plus envié des cavaliers, tu seras mon amant. — Être l’amant avoué de Clarimonde, qui a refusé un pape, c’est beau, cela ! Ah ! la bonne vie bien heureuse, la belle existence dorée que nous mènerons ! — Quand partons-nous, mon gentilhomme ?
 T63	Introducteur 48594 48597	dit
 T64	Entite 48598 48602	elle
-R37	Introduction Arg1:T62 Arg2:T63	
-R38	Source Arg1:T62 Arg2:T64	
+R37	Introduction Arg1:T63 Arg2:T62
+R38	Source Arg1:T64 Arg2:T62
 T65	Citation 49018 49037	— Demain ! demain !
 T66	Introducteur 49038 49046	m’écriai
 T67	Entite 49047 49049	je
-R39	Source Arg1:T65 Arg2:T67	
-R40	Introduction Arg1:T65 Arg2:T66	
+R39	Source Arg1:T67 Arg2:T65
+R40	Introduction Arg1:T66 Arg2:T65
 T68	Citation 49067 49083;49097 49434	— Demain, soit ! J’aurai le temps de changer de toilette, car celle-ci est un peu succincte et ne vaut rien pour le voyage. Il faut aussi que j’aille avertir mes gens qui me croient sérieusement morte et qui se désolent tant qu’ils peuvent. L’argent, les habits, les voitures, tout sera prêt ; je te viendrai prendre à cette heure-ci. Adieu, cher cœur. »
 T69	Introducteur 49084 49090	reprit
 T70	Entite 49091 49095	elle
-R41	Introduction Arg1:T68 Arg2:T69	
-R42	Source Arg1:T68 Arg2:T70	
+R41	Introduction Arg1:T69 Arg2:T68
+R42	Source Arg1:T70 Arg2:T68
 T71	Citation 50993 51027;51100 51204	« Allons, habillez-vous et partons ; les chevaux s’ennuient et rongent leur frein à la porte. Nous devrions déjà être à dix lieues d’ici. »
 T72	Introducteur 51029 51032	dit
 T73	Entite 51033 51037	elle
-R43	Source Arg1:T71 Arg2:T73	
-R44	Introduction Arg1:T71 Arg2:T72	
+R43	Source Arg1:T73 Arg2:T71
+R44	Introduction Arg1:T72 Arg2:T71
 T74	Citation 52380 52489	« Voilà bien assez d’enfantillage ; en route, mon cher Romuald ! nous allons loin et nous n’arriverons pas. »
 T75	Entite 52278 52288	Clarimonde
-R45	Source Arg1:T74 Arg2:T75	
+R45	Source Arg1:T75 Arg2:T74
 T76	Citation 59351 59392;59454 59688	« Je ne mourrai pas ! je ne mourrai pas ! je pourrai t’aimer encore longtemps. Ma vie est dans la tienne, et tout ce qui est moi vient de toi. Quelques gouttes de ton riche et noble sang, plus précieux et plus efficace que tous les élixirs du monde, m’ont rendu l’existence. »
 T77	Introducteur 59393 59396	dit
 T78	Entite 59397 59401	elle
-R46	Source Arg1:T76 Arg2:T78	
-R47	Introduction Arg1:T76 Arg2:T77	
+R46	Source Arg1:T78 Arg2:T76
+R47	Introduction Arg1:T77 Arg2:T76
 T79	Citation 61112 61787	« Une goutte, rien qu’une petite goutte rouge, un rubis au bout de mon aiguille ! … Puisque tu m’aimes encore, il ne faut pas que je meure … Ah ! pauvre amour ! son beau sang d’une couleur pourpre si éclatante, je vais le boire. Dors, mon seul bien ; dors, mon dieu, mon enfant ; je ne te ferai pas de mal ; je ne prendrai de ta vie que ce qu’il faudra pour ne pas laisser éteindre la mienne. Si je ne t’aimais pas tant, je pourrais me résoudre à avoir d’autres amants dont je tarirais les veines ; mais depuis que je te connais, j’ai tout le monde en horreur … Ah ! le beau bras ! comme il est rond ! comme il est blanc ! Je n’oserai jamais piquer cette jolie veine bleue. »
 T80	Entite 61074 61078	elle
 T81	Introducteur 61079 61096	se mit à murmurer
-R48	Introduction Arg1:T79 Arg2:T81	
-R49	Source Arg1:T79 Arg2:T80	
+R48	Introduction Arg1:T81 Arg2:T79
+R49	Source Arg1:T80 Arg2:T79
 T82	Introducteur 65376 65379	dit
 T83	Entite 65380 65388	Sérapion
-R50	Introduction Arg1:T43 Arg2:T82	
-R51	Source Arg1:T43 Arg2:T83	
+R50	Introduction Arg1:T82 Arg2:T43
+R51	Source Arg1:T83 Arg2:T43
 T84	Entite 67237 67245	Sérapion
 T85	Introducteur 67260 67275	entra en fureur
-R52	Introduction Arg1:T31 Arg2:T85	
-R53	Source Arg1:T31 Arg2:T84	
+R52	Introduction Arg1:T85 Arg2:T31
+R53	Source Arg1:T84 Arg2:T31
 T86	Citation 67662 67703;67767 67856	« Voilà votre maîtresse, seigneur Romuald ; serez-vous encore tenté d’aller vous promener au Lido et à Fusine avec votre beauté ? »
 T87	Citation 19464 19658	« Je venais vous annoncer votre nomination à la cure de C___ ; le prêtre qui la possédait vient de mourir, et monseigneur l’évêque m’a chargé d’aller vous y installer ; soyez prêt pour demain. »
 T88	Entite 19388 19403	l’abbé Sérapion
-R54	Source Arg1:T87 Arg2:T88	
+R54	Source Arg1:T88 Arg2:T87
 T89	Introducteur 67705 67708	dit
 T90	Entite 67709 67728	l’inexorable prêtre
-R55	Source Arg1:T86 Arg2:T90	
-R56	Introduction Arg1:T86 Arg2:T89	
+R55	Source Arg1:T90 Arg2:T86
+R56	Introduction Arg1:T89 Arg2:T86
 T91	Entite 68152 68156	elle
 T92	Introducteur 68160 68163	dit
-R57	Introduction Arg1:T32 Arg2:T92	
-R58	Source Arg1:T32 Arg2:T91	
+R57	Introduction Arg1:T92 Arg2:T32
+R58	Source Arg1:T91 Arg2:T32

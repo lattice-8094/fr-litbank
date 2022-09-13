@@ -6,60 +6,60 @@ T19	Citation 19996 20003;20018 20074	« Vois, Turko approuve mon projet, ce doit
 T20	Citation 20076 20179;20211 20263	— « Songerais-tu, vraiment à faire part de cette extravagance aux naufragés du « Queen of the Waves » ? On pensera certainement que tu as perdu la raison. »
 T23	Citation 22263 22378	« Je suis le docteur Desmarais, et cet homme est mon patient. Hélas ! je n'ai pu lui sauver la vie. Il va mourir. »
 T24	Entite 22249 22251	il
-R1	Source Arg1:T23 Arg2:T24
+R1	Source Arg1:T24 Arg2:T23
 T25	Introducteur 22252 22260	continua
-R2	Introduction Arg1:T23 Arg2:T25
+R2	Introduction Arg1:T25 Arg2:T23
 T27	Citation 27018 27058	« Mon père, mon père, mon bon père ! … »
 T28	Citation 27125 27173	« Oh ! dites-moi, vous, qu'il n'est pas mort ! »
 T29	Entite 27099 27103	elle
-R3	Source Arg1:T28 Arg2:T29
+R3	Source Arg1:T29 Arg2:T28
 T30	Introducteur 27108 27111	dit
-R4	Introduction Arg1:T28 Arg2:T30
+R4	Introduction Arg1:T30 Arg2:T28
 T31	Citation 27655 27679	« M. Richard est mort. »
 T32	Entite 27643 27645	Il
-R5	Source Arg1:T31 Arg2:T32
+R5	Source Arg1:T32 Arg2:T31
 T33	Introducteur 27646 27652	ajouta
-R6	Introduction Arg1:T31 Arg2:T33
+R6	Introduction Arg1:T33 Arg2:T31
 T37	Citation 36098 36159	« Maintenant, je suis à vos ordres, monsieur le gouverneur. »
 T38	Citation 37828 37870;37896 37945	— « Pas trop mal, monsieur le gouverneur » « monsieur a bien hâte de connaître notre curé. »
 T41	Citation 38344 38551	« Est-il vrai qu'il existe une ville sous-marine où l'on peut vivre en paix, loin de toutes les conventions du monde, loin de toutes les niaiseries et de toutes les faussetés qui fleurissent sur la terre ? »
 T42	Entite 38309 38318	cet homme
-R7	Source Arg1:T41 Arg2:T42
+R7	Source Arg1:T42 Arg2:T41
 T43	Introducteur 38338 38341	dit
-R8	Introduction Arg1:T41 Arg2:T43
+R8	Introduction Arg1:T43 Arg2:T41
 T46	Citation 44116 44139;44149 44221	« Mademoiselle Marcelle me permettez-vous de revenir prendre des nouvelles de votre protégée ? »
 T47	Entite 44145 44147	il
-R9	Source Arg1:T46 Arg2:T47
+R9	Source Arg1:T47 Arg2:T46
 T48	Introducteur 44141 44144	dit
-R10	Introduction Arg1:T46 Arg2:T48
+R10	Introduction Arg1:T48 Arg2:T46
 T49	Citation 44628 44646	« Pauvre fille ! »
 T50	Entite 44606 44608	Il
-R11	Source Arg1:T49 Arg2:T50
+R11	Source Arg1:T50 Arg2:T49
 T51	Introducteur 44609 44616	murmura
-R12	Introduction Arg1:T49 Arg2:T51
+R12	Introduction Arg1:T51 Arg2:T49
 T52	Citation 46603 46687	« Non, non, c'est une simple coïncidence de nom qui m'a fait poser cette question. »
 T53	Citation 47443 47479;47495 47538	— « C'est le gouverneur de Némoville qui demande à être reçu ; il vint souvent »
 T55	Citation 53389 53419;53436 53615	« Nous y avons tous travaillé, les uns ont modelé les statues, les autres ont fait les plans et les enfants eux-mêmes ont fait leur part, en recueillant sur la grève les colimaçons qui ornent le maître-autel. »
 T56	Entite 53431 53433	il
-R13	Source Arg1:T55 Arg2:T56
+R13	Source Arg1:T56 Arg2:T55
 T57	Introducteur 53420 53428	expliqua
-R14	Introduction Arg1:T55 Arg2:T57
+R14	Introduction Arg1:T57 Arg2:T55
 T60	Citation 55221 55243	« Minuit, chrétiens. »
 T61	Entite 55132 55158	Une voix douce et vibrante
-R15	Source Arg1:T60 Arg2:T61
+R15	Source Arg1:T61 Arg2:T60
 T62	Introducteur 55159 55167	modulait
-R16	Introduction Arg1:T60 Arg2:T62
+R16	Introduction Arg1:T62 Arg2:T60
 T63	Citation 55519 55546	« Qui donc chante ainsi ? »
 T64	Citation 55921 56213	« Toute la personne de cette jeune fille a quelque chose d'éthéré, presque de surnaturel ; il semble que rien en elle ne ressemble aux autres femmes. Vous le constaterez, monsieur Duflot, quand vous la connaîtrez. Pour me servir d'un vieux cliché, elle a l'air d'un ange égaré sur la terre. »
 T65	Entite 55909 55911	Il
-R17	Source Arg1:T64 Arg2:T65
+R17	Source Arg1:T65 Arg2:T64
 T66	Introducteur 55912 55918	ajouta
-R18	Introduction Arg1:T64 Arg2:T66
+R18	Introduction Arg1:T66 Arg2:T64
 T67	Citation 56427 56456	« Ou bien pour son malheur. »
 T68	Entite 56399 56404	Roger
-R19	Source Arg1:T67 Arg2:T68
+R19	Source Arg1:T68 Arg2:T67
 T69	Introducteur 56416 56424	répondit
-R20	Introduction Arg1:T67 Arg2:T69
+R20	Introduction Arg1:T69 Arg2:T67
 T71	Citation 1868 1933	— « Est-ce bien à l'abbé Bernard que j'ai l'honneur de parler ? »
 T72	Citation 2072 2121	— « Oui, mon ami, que puis-je faire pour vous ? »
 T73	Citation 2123 2226	— « Veuillez me suivre monsieur l'abbé, je vais vous conduire auprès d'un mourant. Venez, venez vite. »
@@ -164,438 +164,438 @@ T179	Citation 57870 57911	— « Gaétane ! … Elle se nomme Gaétane ? »
 T180	Citation 58062 58084;58102 58178	— « Absolument certain puisque c'est elle qui me l'a dit ; elle est fille d'un capitaine Laurent. »
 T1	Entite 1830 1838	une voix
 T2	Introducteur 1844 1850	disait
-R21	Introduction Arg1:T71 Arg2:T2	
-R22	Source Arg1:T71 Arg2:T1	
+R21	Introduction Arg1:T2 Arg2:T71
+R22	Source Arg1:T1 Arg2:T71
 T3	Entite 2029 2038	Le prêtre
-R23	Source Arg1:T72 Arg2:T3	
+R23	Source Arg1:T3 Arg2:T72
 T5	Entite 1999 2027	un homme à l'allure de marin
-R24	Source Arg1:T73 Arg2:T5	
+R24	Source Arg1:T5 Arg2:T73
 T6	Introducteur 2780 2783	dit
 T7	Entite 2784 2786	il
-R25	Source Arg1:T75 Arg2:T7	
-R26	Introduction Arg1:T75 Arg2:T6	
+R25	Source Arg1:T7 Arg2:T75
+R26	Introduction Arg1:T6 Arg2:T75
 T8	Introducteur 3270 3273	dit
 T11	Entite 3212 3220	le marin
-R27	Source Arg1:T76 Arg2:T11	
-R28	Introduction Arg1:T76 Arg2:T8	
+R27	Source Arg1:T11 Arg2:T76
+R28	Introduction Arg1:T8 Arg2:T76
 T12	Introducteur 3447 3455	répondit
 T13	Entite 3456 3462	l'abbé
-R29	Source Arg1:T77 Arg2:T13	
-R30	Introduction Arg1:T77 Arg2:T12	
+R29	Source Arg1:T13 Arg2:T77
+R30	Introduction Arg1:T12 Arg2:T77
 T26	Introducteur 3483 3489	reprit
 T34	Entite 3490 3503	son compagnon
-R31	Source Arg1:T78 Arg2:T34	
-R32	Introduction Arg1:T78 Arg2:T26	
+R31	Source Arg1:T34 Arg2:T78
+R32	Introduction Arg1:T26 Arg2:T78
 T35	Entite 4306 4315	quelqu'un
 T36	Entite 4320 4323	dit
-R33	Source Arg1:T79 Arg2:T36	
-R34	Source Arg1:T79 Arg2:T35	
+R33	Source Arg1:T36 Arg2:T79
+R34	Source Arg1:T35 Arg2:T79
 T40	Entite 6453 6469	l'homme de quart
 T44	Introducteur 6470 6474	cria
-R35	Introduction Arg1:T4 Arg2:T44	
-R36	Source Arg1:T4 Arg2:T40	
+R35	Introduction Arg1:T44 Arg2:T4
+R36	Source Arg1:T40 Arg2:T4
 T9	Entite 11909 11912	ils
 T45	Introducteur 11932 11938	dirent
-R37	Introduction Arg1:T80 Arg2:T45	
-R38	Source Arg1:T80 Arg2:T9	
+R37	Introduction Arg1:T45 Arg2:T80
+R38	Source Arg1:T9 Arg2:T80
 T54	Entite 12034 12039	Roger
 T58	Introducteur 12040 12046	ajouta
-R39	Introduction Arg1:T10 Arg2:T58	
-R40	Source Arg1:T10 Arg2:T54	
+R39	Introduction Arg1:T58 Arg2:T10
+R40	Source Arg1:T54 Arg2:T10
 T59	Introducteur 12102 12110	répondit
 T181	Entite 12111 12115	Paul
-R41	Introduction Arg1:T81 Arg2:T59	
-R42	Source Arg1:T81 Arg2:T181	
+R41	Introduction Arg1:T59 Arg2:T81
+R42	Source Arg1:T181 Arg2:T81
 T182	Introducteur 14848 14851	dit
 T183	Entite 14852 14854	il
-R43	Source Arg1:T82 Arg2:T183	
-R44	Introduction Arg1:T82 Arg2:T182	
+R43	Source Arg1:T183 Arg2:T82
+R44	Introduction Arg1:T182 Arg2:T82
 T184	Introducteur 15038 15041	dit
 T185	Entite 15042 15046	Paul
-R45	Source Arg1:T83 Arg2:T185	
-R46	Introduction Arg1:T83 Arg2:T184	
+R45	Source Arg1:T185 Arg2:T83
+R46	Introduction Arg1:T184 Arg2:T83
 T186	Introducteur 15238 15241	dit
 T187	Entite 15242 15247	Roger
-R47	Source Arg1:T84 Arg2:T187	
-R48	Introduction Arg1:T84 Arg2:T186	
+R47	Source Arg1:T187 Arg2:T84
+R48	Introduction Arg1:T186 Arg2:T84
 T188	Introducteur 15319 15327	répliqua
 T189	Entite 15328 15332	Paul
-R49	Source Arg1:T85 Arg2:T189	
-R50	Introduction Arg1:T85 Arg2:T188	
+R49	Source Arg1:T189 Arg2:T85
+R50	Introduction Arg1:T188 Arg2:T85
 T190	Introducteur 15467 15473	reprit
 T191	Entite 15474 15479	Roger
-R51	Source Arg1:T86 Arg2:T191	
-R52	Introduction Arg1:T86 Arg2:T190	
+R51	Source Arg1:T191 Arg2:T86
+R52	Introduction Arg1:T190 Arg2:T86
 T192	Introducteur 15937 15941	cria
 T193	Entite 15944 15946	il
-R53	Source Arg1:T87 Arg2:T193	
-R54	Introduction Arg1:T87 Arg2:T192	
+R53	Source Arg1:T193 Arg2:T87
+R54	Introduction Arg1:T192 Arg2:T87
 T194	Entite 16010 16012	il
 T195	Introducteur 16013 16021	continua
-R55	Introduction Arg1:T88 Arg2:T195	
-R56	Source Arg1:T88 Arg2:T194	
+R55	Introduction Arg1:T195 Arg2:T88
+R56	Source Arg1:T194 Arg2:T88
 T196	Introducteur 16310 16318	répondit
 T197	Entite 16319 16323	Paul
-R57	Introduction Arg1:T89 Arg2:T196	
-R58	Source Arg1:T89 Arg2:T197	
+R57	Introduction Arg1:T196 Arg2:T89
+R58	Source Arg1:T197 Arg2:T89
 T198	Introducteur 16542 16548	reprit
 T199	Entite 16549 16553	Paul
-R59	Introduction Arg1:T91 Arg2:T198	
-R60	Source Arg1:T91 Arg2:T199	
+R59	Introduction Arg1:T198 Arg2:T91
+R60	Source Arg1:T199 Arg2:T91
 T200	Entite 16742 16747	Roger
-R61	Source Arg1:T92 Arg2:T200	
+R61	Source Arg1:T200 Arg2:T92
 T14	Introducteur 17155 17162	s'écria
 T93	Entite 17163 17167	Paul
-R62	Source Arg1:T15 Arg2:T93	
-R63	Introduction Arg1:T15 Arg2:T14	
+R62	Source Arg1:T93 Arg2:T15
+R63	Introduction Arg1:T14 Arg2:T15
 T16	Introducteur 17872 17880	répondit
 T95	Entite 17881 17885	Paul
-R64	Source Arg1:T17 Arg2:T95	
-R65	Introduction Arg1:T17 Arg2:T16	
+R64	Source Arg1:T95 Arg2:T17
+R65	Introduction Arg1:T16 Arg2:T17
 T18	Entite 18385 18390	Roger
 T201	Introducteur 18493 18496	dit
 T202	Citation 18784 18806;18835 18855	Une ville sous-marine, ce serait l'idéal. »
 T203	Introducteur 18807 18813	reprit
 T204	Entite 18814 18819	Roger
-R66	Introduction Arg1:T97 Arg2:T201	
-R67	Source Arg1:T97 Arg2:T18	
-R68	Source Arg1:T202 Arg2:T204	
-R69	Introduction Arg1:T202 Arg2:T203	
+R66	Introduction Arg1:T201 Arg2:T97
+R67	Source Arg1:T18 Arg2:T97
+R68	Source Arg1:T204 Arg2:T202
+R69	Introduction Arg1:T203 Arg2:T202
 T205	Introducteur 18893 18896	dit
 T206	Entite 18897 18910	son compagnon
-R70	Source Arg1:T98 Arg2:T206	
-R71	Introduction Arg1:T98 Arg2:T205	
+R70	Source Arg1:T206 Arg2:T98
+R71	Introduction Arg1:T205 Arg2:T98
 T207	Introducteur 19206 19212	reprit
 T208	Entite 19213 19218	Roger
 T209	Introducteur 19820 19823	dit
 T210	Entite 19824 19828	Paul
-R72	Introduction Arg1:T100 Arg2:T209	
-R73	Source Arg1:T100 Arg2:T210	
+R72	Introduction Arg1:T209 Arg2:T100
+R73	Source Arg1:T210 Arg2:T100
 T211	Introducteur 20004 20010	reprit
 T212	Entite 20011 20016	Roger
-R74	Introduction Arg1:T19 Arg2:T211	
-R75	Source Arg1:T19 Arg2:T212	
+R74	Introduction Arg1:T211 Arg2:T19
+R75	Source Arg1:T212 Arg2:T19
 T101	Introducteur 20180 20187	demanda
 T213	Entite 20188 20192	Paul
-R76	Source Arg1:T20 Arg2:T213	
-R77	Introduction Arg1:T20 Arg2:T101	
+R76	Source Arg1:T213 Arg2:T20
+R77	Introduction Arg1:T101 Arg2:T20
 T214	Introducteur 20300 20308	répliqua
 T215	Entite 20309 20314	Roger
-R78	Source Arg1:T102 Arg2:T215	
-R79	Introduction Arg1:T102 Arg2:T214	
+R78	Source Arg1:T215 Arg2:T102
+R79	Introduction Arg1:T214 Arg2:T102
 T216	Introducteur 20814 20822	continua
 T217	Entite 20823 20828	Roger
-R80	Introduction Arg1:T104 Arg2:T216	
-R81	Source Arg1:T104 Arg2:T217	
+R80	Introduction Arg1:T216 Arg2:T104
+R81	Source Arg1:T217 Arg2:T104
 T21	Citation 22163 22204	— « Monsieur l'abbé Bernard, sans doute »
 T22	Introducteur 22206 22213	demanda
 T105	Entite 22216 22218	il
-R82	Source Arg1:T21 Arg2:T105	
-R83	Introduction Arg1:T21 Arg2:T22	
+R82	Source Arg1:T105 Arg2:T21
+R83	Introduction Arg1:T22 Arg2:T21
 T218	Introducteur 22449 22457	répondit
 T219	Entite 22458 22467	le prêtre
-R84	Source Arg1:T106 Arg2:T219	
-R85	Introduction Arg1:T106 Arg2:T218	
+R84	Source Arg1:T219 Arg2:T106
+R85	Introduction Arg1:T218 Arg2:T106
 T220	Introducteur 22848 22855	murmura
 T221	Entite 22856 22867	le moribond
-R86	Introduction Arg1:T107 Arg2:T220	
-R87	Source Arg1:T107 Arg2:T221	
+R86	Introduction Arg1:T220 Arg2:T107
+R87	Source Arg1:T221 Arg2:T107
 T222	Introducteur 22919 22922	dit
 T223	Entite 22923 22932	le prêtre
-R88	Source Arg1:T108 Arg2:T223	
-R89	Introduction Arg1:T108 Arg2:T222	
+R88	Source Arg1:T223 Arg2:T108
+R89	Introduction Arg1:T222 Arg2:T108
 T224	Introducteur 23065 23071	reprit
 T225	Entite 23072 23081	le malade
-R90	Source Arg1:T109 Arg2:T225	
-R91	Introduction Arg1:T109 Arg2:T224	
+R90	Source Arg1:T225 Arg2:T109
+R91	Introduction Arg1:T224 Arg2:T109
 T226	Citation 23444 24697;24699 25086;25088 25641	— « Un soir — il y a quatorze ans de cela — un de mes amis, Jean Demers, arriva chez moi. Il venait de perdre sa femme qu'il adorait, et lui-même, se croyant atteint d'un mal qui ne pardonne pas, partait dans quelques heures, pour aller vivre le peu de temps qu'il lui restait à passer sur la terre au pays où il était né, et où il n'avait plus aucun parent. Avant de s'en aller mourir là-bas, il avait voulu me confier sa fille, qui avait l'âge de la mienne, six ans. Il me fit promettre de l'élever selon sa fortune, qui était considérable, et me remit un portefeuille bien rempli. Je promis tout ce qu'il voulut, puis, lorsqu'il se fut éloigné après avoir pressé sa fille dans ses bras, je comptai les valeurs, sans m'occuper de l'enfant qui pleurait en appelant son père … Il faut que je me hâte, soupira le moribond, car je sens que je m'en vais vite … Je constatai donc que le portefeuille contenait pour près d'un demi-million. Et moi qui venais de perdre toute ma petite fortune dans des spéculations malheureuses … la tentation était trop forte … je succombai. Personne n'avait vu entrer cette enfant chez moi, je décidai de la faire disparaître, avant que personne ne soupçonnât son existence dans ma maison … Et sa fortune serait à ma fille … Je dis donc à la petite que j'allais la ramener à son père et je m'acheminai vers les quais, où elle me suivit sans résistance. Un bateau était en partance. Je remis l'enfant au capitaine de ce bateau — homme au regard fuyant — et je lui remis en même temps la somme de cinq cents dollars. Le soir même le bateau partit, et l'enfant de mon ami appartenait désormais au capitaine Laurent. Tout me réussit, pendant plusieurs années, mais il y a deux ans, je reçus une lettre de mon ancien ami, Jean Demers ! … Il était guéri et m'annonçait son retour … Affolé par la nouvelle, je décidai de fuir la juste colère de celui que j'avais trahi, et je pris passage à bord du « Queen of the Waves », qui fit naufrage sur les côtes d'une île inconnue. Ensuite, je décidai de me cacher avec ma fille dans cette ville, où personne ne pouvait avoir l'idée de venir me chercher, sous le faux nom que j'avais pris. Je portais désormais le nom de Richard. »
 T227	Entite 23382 23384	il
 T228	Introducteur 23385 23391	reprit
-R92	Introduction Arg1:T226 Arg2:T228	
-R93	Source Arg1:T226 Arg2:T227	
+R92	Introduction Arg1:T228 Arg2:T226
+R93	Source Arg1:T227 Arg2:T226
 T229	Introducteur 25658 25665	demanda
 T230	Entite 25666 25675	le prêtre
-R94	Source Arg1:T110 Arg2:T230	
-R95	Introduction Arg1:T110 Arg2:T229	
+R94	Source Arg1:T230 Arg2:T110
+R95	Introduction Arg1:T229 Arg2:T110
 T231	Introducteur 25867 25871	râla
 T232	Entite 25872 25882	le mourant
-R96	Source Arg1:T111 Arg2:T232	
-R97	Introduction Arg1:T111 Arg2:T231	
+R96	Source Arg1:T232 Arg2:T111
+R97	Introduction Arg1:T231 Arg2:T111
 T233	Introducteur 25985 25992	souffla
 T234	Entite 26001 26010	le malade
-R98	Source Arg1:T113 Arg2:T234	
-R99	Introduction Arg1:T113 Arg2:T233	
+R98	Source Arg1:T234 Arg2:T113
+R99	Introduction Arg1:T233 Arg2:T113
 T235	Introducteur 26038 26041	dit
 T236	Entite 26042 26051	le prêtre
-R100	Source Arg1:T114 Arg2:T236	
-R101	Introduction Arg1:T114 Arg2:T235	
+R100	Source Arg1:T236 Arg2:T114
+R101	Introduction Arg1:T235 Arg2:T114
 T237	Entite 26934 26938	Elle
 T238	Introducteur 26993 26998	gémir
-R102	Introduction Arg1:T27 Arg2:T238	
-R103	Source Arg1:T27 Arg2:T237	
+R102	Introduction Arg1:T238 Arg2:T27
+R103	Source Arg1:T237 Arg2:T27
 T239	Introducteur 27577 27580	dit
 T240	Entite 27592 27602	le médecin
-R104	Introduction Arg1:T116 Arg2:T239	
-R105	Source Arg1:T116 Arg2:T240	
+R104	Introduction Arg1:T239 Arg2:T116
+R105	Source Arg1:T240 Arg2:T116
 T241	Introducteur 27873 27876	dit
 T242	Entite 27877 27886	le prêtre
-R106	Source Arg1:T117 Arg2:T242	
-R107	Introduction Arg1:T117 Arg2:T241	
+R106	Source Arg1:T242 Arg2:T117
+R107	Introduction Arg1:T241 Arg2:T117
 T243	Citation 28734 28773	« Veuillez me suivre, monsieur l'abbé »
 T244	Introducteur 28774 28777	dit
 T245	Entite 28778 28786	le valet
-R108	Source Arg1:T243 Arg2:T245	
-R109	Introduction Arg1:T243 Arg2:T244	
+R108	Source Arg1:T245 Arg2:T243
+R109	Introduction Arg1:T244 Arg2:T243
 T246	Entite 29207 29222	le nouveau venu
 T247	Introducteur 29232 29235	dit
-R110	Introduction Arg1:T118 Arg2:T247	
-R111	Source Arg1:T118 Arg2:T246	
+R110	Introduction Arg1:T247 Arg2:T118
+R111	Source Arg1:T246 Arg2:T118
 T248	Introducteur 29409 29417	répondit
 T249	Entite 29418 29427	le prêtre
-R112	Source Arg1:T119 Arg2:T249	
-R113	Introduction Arg1:T119 Arg2:T248	
+R112	Source Arg1:T249 Arg2:T119
+R113	Introduction Arg1:T248 Arg2:T119
 T250	Entite 29609 29623	Le jeune homme
 T251	Introducteur 29633 29639	disant
-R114	Introduction Arg1:T120 Arg2:T251	
-R115	Source Arg1:T120 Arg2:T250	
+R114	Introduction Arg1:T251 Arg2:T120
+R115	Source Arg1:T250 Arg2:T120
 T252	Entite 29719 29725	L'abbé
-R116	Source Arg1:T121 Arg2:T252	
+R116	Source Arg1:T252 Arg2:T121
 T253	Entite 29898 29912	Roger de Ville
-R117	Source Arg1:T122 Arg2:T253	
+R117	Source Arg1:T253 Arg2:T122
 T254	Citation 30200 30588	« Monsieur le gouverneur, seriez-vous assez bon de me dire immédiatement ce que vous avez à me communiquer, je suis pressé de retourner chez moi. Mais permettez-moi de vous dire que vous avez de singulières manières d'agir, dans cette ville … on m'enlève presque, on me bande les yeux … Ces façons ne sauraient avoir mon approbation, vous ne devez pas en douter, monsieur le gouverneur. »
 T255	Introducteur 30876 30879	dit
 T256	Entite 30880 30889	le prêtre
-R118	Source Arg1:T124 Arg2:T256	
-R119	Introduction Arg1:T124 Arg2:T255	
+R118	Source Arg1:T256 Arg2:T124
+R119	Introduction Arg1:T255 Arg2:T124
 T257	Introducteur 31027 31033	ajouta
 T258	Entite 31036 31038	il
 T259	Introducteur 31693 31699	ajouta
 T260	Entite 31702 31704	il
-R120	Introduction Arg1:T125 Arg2:T257	
-R121	Source Arg1:T125 Arg2:T258	
-R122	Introduction Arg1:T126 Arg2:T259	
-R123	Source Arg1:T126 Arg2:T260	
+R120	Introduction Arg1:T257 Arg2:T125
+R121	Source Arg1:T258 Arg2:T125
+R122	Introduction Arg1:T259 Arg2:T126
+R123	Source Arg1:T260 Arg2:T126
 T261	Entite 32972 32974	Il
 T262	Introducteur 33007 33013	disant
-R124	Introduction Arg1:T129 Arg2:T262	
-R125	Source Arg1:T129 Arg2:T261	
+R124	Introduction Arg1:T262 Arg2:T129
+R125	Source Arg1:T261 Arg2:T129
 T263	Introducteur 33125 33133	répliqua
 T264	Entite 33134 33147	le gouverneur
 T265	Citation 33250 33270;33279 33410	Voici votre chambre, en ouvrant une porte donnant sur le salon. Demain, je vous ferai visiter la ville. En attendant, je vous souhaite une bonne nuit. »
 T266	Introducteur 33271 33274	fit
 T267	Entite 33275 33277	il
-R126	Introduction Arg1:T130 Arg2:T263	
-R127	Source Arg1:T130 Arg2:T264	
-R128	Introduction Arg1:T265 Arg2:T266	
-R129	Source Arg1:T265 Arg2:T267	
+R126	Introduction Arg1:T263 Arg2:T130
+R127	Source Arg1:T264 Arg2:T130
+R128	Introduction Arg1:T266 Arg2:T265
+R129	Source Arg1:T267 Arg2:T265
 T268	Entite 33832 33836	curé
 T269	Introducteur 33846 33849;33859 33873	fit cette remarque
 T270	Citation 33889 34042	« Décidément, tout le monde a l'air bien heureux ici, jusqu'à ce canari, qui semble n'en être pas moins gai parce qu'il habite le domaine des poissons. »
-R130	Introduction Arg1:T270 Arg2:T269	
-R131	Source Arg1:T270 Arg2:T268	
+R130	Introduction Arg1:T269 Arg2:T270
+R131	Source Arg1:T268 Arg2:T270
 T271	Introducteur 34091 34099	répliqua
 T272	Entite 34100 34104	Paul
-R132	Introduction Arg1:T131 Arg2:T271	
-R133	Source Arg1:T131 Arg2:T272	
+R132	Introduction Arg1:T271 Arg2:T131
+R133	Source Arg1:T272 Arg2:T131
 T273	Entite 34916 34921	Roger
 T274	Introducteur 34926 34934	répondit
-R134	Introduction Arg1:T132 Arg2:T274	
-R135	Source Arg1:T132 Arg2:T273	
+R134	Introduction Arg1:T274 Arg2:T132
+R135	Source Arg1:T273 Arg2:T132
 T275	Entite 35014 35018	Paul
-R136	Source Arg1:T133 Arg2:T275	
+R136	Source Arg1:T275 Arg2:T133
 T276	Entite 35293 35295	il
 T277	Introducteur 35300 35303	dit
-R137	Introduction Arg1:T134 Arg2:T277	
-R138	Source Arg1:T134 Arg2:T276	
+R137	Introduction Arg1:T277 Arg2:T134
+R138	Source Arg1:T276 Arg2:T134
 T278	Introducteur 35577 35585	répliqua
 T279	Entite 35586 35591	Roger
-R139	Source Arg1:T136 Arg2:T279	
-R140	Introduction Arg1:T136 Arg2:T278	
+R139	Source Arg1:T279 Arg2:T136
+R140	Introduction Arg1:T278 Arg2:T136
 T280	Introducteur 35732 35738	ajouta
 T281	Entite 35739 35743	Paul
-R141	Source Arg1:T137 Arg2:T281	
-R142	Introduction Arg1:T137 Arg2:T280	
+R141	Source Arg1:T281 Arg2:T137
+R142	Introduction Arg1:T280 Arg2:T137
 T282	Introducteur 36053 36059	ajouta
 T283	Entite 36060 36069	le prêtre
-R143	Source Arg1:T138 Arg2:T283	
-R144	Introduction Arg1:T138 Arg2:T282	
+R143	Source Arg1:T283 Arg2:T138
+R144	Introduction Arg1:T282 Arg2:T138
 T284	Entite 36086 36088	Il
 T285	Introducteur 36089 36095	reprit
-R145	Introduction Arg1:T37 Arg2:T285	
-R146	Source Arg1:T37 Arg2:T284	
+R145	Introduction Arg1:T285 Arg2:T37
+R146	Source Arg1:T284 Arg2:T37
 T286	Introducteur 36174 36177	dit
 T287	Entite 36178 36183	Roger
-R147	Source Arg1:T139 Arg2:T287	
-R148	Introduction Arg1:T139 Arg2:T286	
+R147	Source Arg1:T287 Arg2:T139
+R148	Introduction Arg1:T286 Arg2:T139
 T288	Introducteur 37812 37819	demanda
 T289	Entite 37820 37825	Roger
-R149	Source Arg1:T140 Arg2:T289	
-R150	Introduction Arg1:T140 Arg2:T288	
+R149	Source Arg1:T289 Arg2:T140
+R150	Introduction Arg1:T288 Arg2:T140
 T141	Introducteur 37872 37880	répondit
 T290	Entite 37881 37894	le domestique
-R151	Source Arg1:T38 Arg2:T290	
-R152	Introduction Arg1:T38 Arg2:T141	
+R151	Source Arg1:T290 Arg2:T38
+R152	Introduction Arg1:T141 Arg2:T38
 T39	Introducteur 38612 38623	répondirent
 T291	Entite 38624 38637	Roger et Paul
-R153	Source Arg1:T142 Arg2:T291	
-R154	Introduction Arg1:T142 Arg2:T39	
+R153	Source Arg1:T291 Arg2:T142
+R154	Introduction Arg1:T39 Arg2:T142
 T292	Introducteur 39006 39012	dirent
 T293	Entite 39013 39026	les deux amis
 T294	Introducteur 39100 39106	reprit
 T295	Entite 39107 39117	l'étranger
-R155	Source Arg1:T145 Arg2:T295	
-R156	Introduction Arg1:T145 Arg2:T294	
+R155	Source Arg1:T295 Arg2:T145
+R156	Introduction Arg1:T294 Arg2:T145
 T296	Introducteur 39150 39157	riposta
 T297	Entite 39158 39162	Paul
-R157	Source Arg1:T146 Arg2:T297	
-R158	Introduction Arg1:T146 Arg2:T296	
-R159	Source Arg1:T144 Arg2:T293	
-R160	Introduction Arg1:T144 Arg2:T292	
+R157	Source Arg1:T297 Arg2:T146
+R158	Introduction Arg1:T296 Arg2:T146
+R159	Source Arg1:T293 Arg2:T144
+R160	Introduction Arg1:T292 Arg2:T144
 T298	Introducteur 39383 39390	demanda
 T299	Entite 39391 39396	Roger
-R161	Introduction Arg1:T147 Arg2:T298	
-R162	Source Arg1:T147 Arg2:T299	
+R161	Introduction Arg1:T298 Arg2:T147
+R162	Source Arg1:T299 Arg2:T147
 T300	Introducteur 41955 41958	dit
 T301	Entite 41968 41973	Roger
-R163	Introduction Arg1:T148 Arg2:T300	
-R164	Source Arg1:T148 Arg2:T301	
+R163	Introduction Arg1:T300 Arg2:T148
+R164	Source Arg1:T301 Arg2:T148
 T302	Introducteur 41992 42000	répondit
 T303	Entite 42001 42005	Paul
-R165	Source Arg1:T149 Arg2:T303	
-R166	Introduction Arg1:T149 Arg2:T302	
+R165	Source Arg1:T303 Arg2:T149
+R166	Introduction Arg1:T302 Arg2:T149
 T304	Introducteur 42199 42202	dit
 T305	Entite 42203 42207	Paul
-R167	Introduction Arg1:T150 Arg2:T304	
-R168	Source Arg1:T150 Arg2:T305	
+R167	Introduction Arg1:T304 Arg2:T150
+R168	Source Arg1:T305 Arg2:T150
 T306	Introducteur 42290 42296	ajouta
 T307	Entite 42297 42302	Roger
 T308	Citation 42304 42408	je prends toujours au sérieux les avertissements de Turko, car il m'a donné mille preuves de son flair »
-R169	Introduction Arg1:T308 Arg2:T306	
-R170	Source Arg1:T308 Arg2:T307	
+R169	Introduction Arg1:T306 Arg2:T308
+R170	Source Arg1:T307 Arg2:T308
 T309	Introducteur 42608 42611	dit
 T310	Entite 42612 42616	Paul
-R171	Source Arg1:T152 Arg2:T310	
-R172	Introduction Arg1:T152 Arg2:T309	
+R171	Source Arg1:T310 Arg2:T152
+R172	Introduction Arg1:T309 Arg2:T152
 T153	Introducteur 45339 45345	disait
 T311	Entite 45346 45387	la voix douce et chantante de l'étrangère
-R173	Source Arg1:T154 Arg2:T311	
-R174	Introduction Arg1:T154 Arg2:T153	
+R173	Source Arg1:T311 Arg2:T154
+R174	Introduction Arg1:T153 Arg2:T154
 T312	Citation 45694 45777	« Le docteur Desmarais vous fait peur ! … mais il est parfait de bonté pour vous. »
 T313	Entite 46218 46220	il
 T314	Introducteur 46252 46261	demandant
-R175	Introduction Arg1:T155 Arg2:T314	
-R176	Source Arg1:T155 Arg2:T313	
+R175	Introduction Arg1:T314 Arg2:T155
+R176	Source Arg1:T313 Arg2:T155
 T315	Entite 46488 46492	elle
 T316	Introducteur 46497 46506	avait dit
-R177	Source Arg1:T156 Arg2:T315	
-R178	Introduction Arg1:T156 Arg2:T316	
+R177	Source Arg1:T315 Arg2:T156
+R178	Introduction Arg1:T316 Arg2:T156
 T317	Entite 46562 46572	le docteur
 T318	Introducteur 46573 46582	avait dit
-R179	Introduction Arg1:T52 Arg2:T318	
-R180	Source Arg1:T52 Arg2:T317	
+R179	Introduction Arg1:T318 Arg2:T52
+R180	Source Arg1:T317 Arg2:T52
 T157	Citation 46869 47128	« N'oubliez pas que tout dépend de vous, Marcelle ; je vous promets qu'avant trois mois, vous serez la femme du gouverneur, si vous suivez mes conseils ; et moi j'épouserai la fille du capitaine Laurent. En servant mes intérêts vous servez aussi les vôtres. »
 T319	Entite 46825 46835	le médecin
 T320	Introducteur 46836 46839	dit
-R181	Introduction Arg1:T157 Arg2:T320	
-R182	Source Arg1:T157 Arg2:T319	
+R181	Introduction Arg1:T320 Arg2:T157
+R182	Source Arg1:T319 Arg2:T157
 T321	Introducteur 47481 47484	dit
 T322	Entite 47485 47493	Marcelle
 T323	Citation 47711 47722;47738 47785	« Celui-là, j'espère que vous l'aimerez … à cause de moi. »
 T324	Introducteur 47723 47729	ajouta
 T325	Entite 47732 47736	elle
-R183	Introduction Arg1:T53 Arg2:T321	
-R184	Source Arg1:T53 Arg2:T322	
-R185	Introduction Arg1:T323 Arg2:T324	
-R186	Source Arg1:T323 Arg2:T325	
+R183	Introduction Arg1:T321 Arg2:T53
+R184	Source Arg1:T322 Arg2:T53
+R185	Introduction Arg1:T324 Arg2:T323
+R186	Source Arg1:T325 Arg2:T323
 T326	Introducteur 47805 47808	fit
 T327	Entite 47809 47820	sa compagne
-R187	Source Arg1:T158 Arg2:T327	
-R188	Introduction Arg1:T158 Arg2:T326	
+R187	Source Arg1:T327 Arg2:T158
+R188	Introduction Arg1:T326 Arg2:T158
 T328	Entite 48284 48289	Roger
-R189	Source Arg1:T159 Arg2:T328	
+R189	Source Arg1:T328 Arg2:T159
 T329	Introducteur 48424 48432	répliqua
 T330	Entite 48435 48439	elle
-R190	Source Arg1:T160 Arg2:T330	
-R191	Introduction Arg1:T160 Arg2:T329	
+R190	Source Arg1:T330 Arg2:T160
+R191	Introduction Arg1:T329 Arg2:T160
 T331	Introducteur 48551 48557	ajouta
 T332	Entite 48558 48566	Marcelle
-R192	Source Arg1:T161 Arg2:T332	
-R193	Introduction Arg1:T161 Arg2:T331	
+R192	Source Arg1:T332 Arg2:T161
+R193	Introduction Arg1:T331 Arg2:T161
 T333	Entite 48947 48955	celui-ci
 T334	Introducteur 48960 48968	répondit
-R194	Introduction Arg1:T162 Arg2:T334	
-R195	Source Arg1:T162 Arg2:T333	
+R194	Introduction Arg1:T334 Arg2:T162
+R195	Source Arg1:T333 Arg2:T162
 T335	Introducteur 49122 49128	demand
 T336	Entite 49130 49135	Roger
-R196	Introduction Arg1:T163 Arg2:T335	
-R197	Source Arg1:T163 Arg2:T336	
+R196	Introduction Arg1:T335 Arg2:T163
+R197	Source Arg1:T336 Arg2:T163
 T337	Entite 49768 49772	elle
 T338	Introducteur 49813 49822	avait dit
-R198	Introduction Arg1:T165 Arg2:T338	
-R199	Source Arg1:T165 Arg2:T337	
+R198	Introduction Arg1:T338 Arg2:T165
+R199	Source Arg1:T337 Arg2:T165
 T339	Introducteur 50708 50717	avait dit
 T340	Entite 50718 50726	Marcelle
-R200	Source Arg1:T166 Arg2:T340	
-R201	Introduction Arg1:T166 Arg2:T339	
+R200	Source Arg1:T340 Arg2:T166
+R201	Introduction Arg1:T339 Arg2:T166
 T341	Entite 52360 52365	Roger
 T342	Introducteur 52366 52369	dit
-R202	Introduction Arg1:T167 Arg2:T342	
-R203	Source Arg1:T167 Arg2:T341	
+R202	Introduction Arg1:T342 Arg2:T167
+R203	Source Arg1:T341 Arg2:T167
 T343	Introducteur 52888 52891	dit
 T344	Entite 52892 52897	Roger
-R204	Introduction Arg1:T168 Arg2:T343	
-R205	Source Arg1:T168 Arg2:T344	
+R204	Introduction Arg1:T343 Arg2:T168
+R205	Source Arg1:T344 Arg2:T168
 T345	Introducteur 53018 53021	fit
 T346	Entite 53022 53024	il
-R206	Source Arg1:T169 Arg2:T346	
-R207	Introduction Arg1:T169 Arg2:T345	
+R206	Source Arg1:T346 Arg2:T169
+R207	Introduction Arg1:T345 Arg2:T169
 T347	Introducteur 53101 53109	répondit
 T348	Entite 53110 53122	le gouverneu
-R208	Introduction Arg1:T170 Arg2:T347	
-R209	Source Arg1:T170 Arg2:T348	
+R208	Introduction Arg1:T347 Arg2:T170
+R209	Source Arg1:T348 Arg2:T170
 T349	Entite 53647 53649	il
 T350	Introducteur 53665 53672	répéter
-R210	Introduction Arg1:T171 Arg2:T350	
-R211	Source Arg1:T171 Arg2:T349	
+R210	Introduction Arg1:T350 Arg2:T171
+R211	Source Arg1:T349 Arg2:T171
 T351	Entite 55461 55470	M. Duflot
 T352	Introducteur 55509 55516	demanda
-R212	Introduction Arg1:T63 Arg2:T352	
-R213	Source Arg1:T63 Arg2:T351	
+R212	Introduction Arg1:T352 Arg2:T63
+R213	Source Arg1:T351 Arg2:T63
 T353	Introducteur 55582 55590	répondit
 T354	Entite 55591 55604	le gouverneur
-R214	Introduction Arg1:T172 Arg2:T353	
-R215	Source Arg1:T172 Arg2:T354	
+R214	Introduction Arg1:T353 Arg2:T172
+R215	Source Arg1:T354 Arg2:T172
 T355	Entite 55709 55715	Duflot
 T356	Introducteur 55716 55738	reprit la conversation
-R216	Introduction Arg1:T173 Arg2:T356	
-R217	Source Arg1:T173 Arg2:T355	
+R216	Introduction Arg1:T356 Arg2:T173
+R217	Source Arg1:T355 Arg2:T173
 T174	Citation 55866 55892	— « Angélique, en effet, »
 T357	Introducteur 55893 55901	répondit
 T358	Entite 55902 55907	Roger
-R218	Source Arg1:T174 Arg2:T358	
-R219	Introduction Arg1:T174 Arg2:T357	
+R218	Source Arg1:T358 Arg2:T174
+R219	Introduction Arg1:T357 Arg2:T174
 T359	Introducteur 56255 56261	reprit
 T360	Entite 56274 56283	M. Duflot
-R220	Source Arg1:T175 Arg2:T360	
-R221	Introduction Arg1:T175 Arg2:T359	
+R220	Source Arg1:T360 Arg2:T175
+R221	Introduction Arg1:T359 Arg2:T175
 T70	Introducteur 57734 57742	répliqua
 T361	Entite 57743 57752	le prêtre
-R222	Introduction Arg1:T176 Arg2:T70	
-R223	Source Arg1:T176 Arg2:T361	
+R222	Introduction Arg1:T70 Arg2:T176
+R223	Source Arg1:T361 Arg2:T176
 T362	Introducteur 57822 57830	répondit
 T363	Entite 57831 57836	Roger
-R224	Source Arg1:T178 Arg2:T363	
-R225	Introduction Arg1:T178 Arg2:T362	
+R224	Source Arg1:T363 Arg2:T178
+R225	Introduction Arg1:T362 Arg2:T178
 T364	Introducteur 57912 57922	questionna
 T365	Entite 57923 57932	M. Duflot
-R226	Introduction Arg1:T179 Arg2:T364	
-R227	Source Arg1:T179 Arg2:T365	
+R226	Introduction Arg1:T364 Arg2:T179
+R227	Source Arg1:T365 Arg2:T179
 T366	Citation 57988 58060	Laurent ? … son nom est Laurent ? … en êtes-vous bien certain, Roger ? »
 T367	Entite 57950 57956	l'abbé
 T368	Introducteur 57957 57963	disait
-R228	Introduction Arg1:T366 Arg2:T368	
-R229	Source Arg1:T366 Arg2:T367	
+R228	Introduction Arg1:T368 Arg2:T366
+R229	Source Arg1:T367 Arg2:T366
 T369	Introducteur 58086 58094	répliqua
 T370	Entite 58095 58100	Roger
-R230	Source Arg1:T180 Arg2:T370	
-R231	Introduction Arg1:T180 Arg2:T369	
+R230	Source Arg1:T370 Arg2:T180
+R231	Introduction Arg1:T369 Arg2:T180

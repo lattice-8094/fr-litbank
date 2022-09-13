@@ -63,241 +63,241 @@ T66	Citation 56615 56671	— Gaston, filez à la Rochelle, nous chercher des viv
 T67	Citation 56797 57198	— Le maladroit ! il a failli couler une barque de pêche. Bon, voilà qu'il se croit maintenant sur les grands boulevards avec son auto. Entendez-vous sa trompe ? Troum, troum, troum. Il fait peur aux petits poissons. Ah ! voilà une baleine ! Qu'il est bête ce Gaston, il croit que c'est un tramway, et il veut à toute force le déposer. Plouf ! la baleine a retourné le canot, elle va l'avaler, c'Gaston
 T68	Citation 2609 2661	« C'est votre voiture qui lui a passé sur le corps ?
 T69	Entite 2583 2590	médecin
-R1	Source Arg1:T68 Arg2:T69	
+R1	Source Arg1:T69 Arg2:T68
 T70	Introducteur 2708 2717	demandait
-R2	Introduction Arg1:T9 Arg2:T70	
+R2	Introduction Arg1:T70 Arg2:T9
 T71	Entite 2663 2678	Le même médecin
-R3	Source Arg1:T9 Arg2:T71	
+R3	Source Arg1:T71 Arg2:T9
 T72	Introducteur 3069 3075	disant
 T73	Entite 3016 3026	le médecin
-R4	Source Arg1:T10 Arg2:T73	
-R5	Introduction Arg1:T10 Arg2:T72	
+R4	Source Arg1:T73 Arg2:T10
+R5	Introduction Arg1:T72 Arg2:T10
 T74	Entite 5628 5636	mon père
 T75	Introducteur 5675 5679	dire
-R6	Source Arg1:T11 Arg2:T74	
-R7	Introduction Arg1:T11 Arg2:T75	
+R6	Source Arg1:T74 Arg2:T11
+R7	Introduction Arg1:T75 Arg2:T11
 T76	Introducteur 7199 7203	dire
 T77	Entite 7137 7143	Firmin
-R8	Source Arg1:T12 Arg2:T77	
-R9	Introduction Arg1:T12 Arg2:T76	
+R8	Source Arg1:T77 Arg2:T12
+R9	Introduction Arg1:T76 Arg2:T12
 T78	Entite 7873 7877	Elle
 T79	Introducteur 7878 7886	répétait
-R10	Introduction Arg1:T13 Arg2:T79	
-R11	Source Arg1:T13 Arg2:T78	
+R10	Introduction Arg1:T79 Arg2:T13
+R11	Source Arg1:T78 Arg2:T13
 T80	Citation 8849 8897	« À présent, chez nous, c'est comme autrefois. »
 T81	Entite 9732 9742	Notre père
-R12	Source Arg1:T14 Arg2:T81	
+R12	Source Arg1:T81 Arg2:T14
 T82	Entite 9693 9695	il
-R13	Source Arg1:T15 Arg2:T82	
+R13	Source Arg1:T82 Arg2:T15
 T83	Introducteur 10287 10293	disait
 T84	Entite 10294 10296	il
-R14	Introduction Arg1:T19 Arg2:T83	
-R15	Source Arg1:T19 Arg2:T84	
+R14	Introduction Arg1:T83 Arg2:T19
+R15	Source Arg1:T84 Arg2:T19
 T85	Introducteur 10794 10803	demandais
 T86	Entite 10804 10806	je
-R16	Source Arg1:T21 Arg2:T86	
-R17	Introduction Arg1:T21 Arg2:T85	
+R16	Source Arg1:T86 Arg2:T21
+R17	Introduction Arg1:T85 Arg2:T21
 T87	Entite 10858 10861	lui
 T88	Introducteur 10880 10889	répondait
-R18	Introduction Arg1:T22 Arg2:T88	
-R19	Source Arg1:T22 Arg2:T87	
+R18	Introduction Arg1:T88 Arg2:T22
+R19	Source Arg1:T87 Arg2:T22
 T89	Entite 14651 14653	il
 T90	Introducteur 14654 14663	a répondu
-R20	Source Arg1:T24 Arg2:T89	
-R21	Introduction Arg1:T24 Arg2:T90	
+R20	Source Arg1:T89 Arg2:T24
+R21	Introduction Arg1:T90 Arg2:T24
 T91	Entite 19175 19179	elle
 T92	Introducteur 19183 19189	disait
-R22	Introduction Arg1:T1 Arg2:T92	
-R23	Source Arg1:T1 Arg2:T91	
+R22	Introduction Arg1:T92 Arg2:T1
+R23	Source Arg1:T91 Arg2:T1
 T93	Introducteur 19900 19906	disait
 T94	Entite 19907 19911	elle
-R24	Introduction Arg1:T25 Arg2:T93	
-R25	Source Arg1:T25 Arg2:T94	
+R24	Introduction Arg1:T93 Arg2:T25
+R25	Source Arg1:T94 Arg2:T25
 T95	Introducteur 21037 21040	dit
 T96	Entite 21000 21013	oncle meunier
-R26	Source Arg1:T26 Arg2:T96	
-R27	Introduction Arg1:T26 Arg2:T95	
+R26	Source Arg1:T96 Arg2:T26
+R27	Introduction Arg1:T95 Arg2:T26
 T97	Citation 21430 21492	« Il n'est pas prudent de laisser les enfants seuls à Paris. »
 T98	Entite 21383 21392	Tous deux
 T99	Introducteur 21395 21402	ont dit
-R28	Introduction Arg1:T97 Arg2:T99	
-R29	Source Arg1:T97 Arg2:T98	
+R28	Introduction Arg1:T99 Arg2:T97
+R29	Source Arg1:T98 Arg2:T97
 T100	Entite 26233 26235	il
 T101	Introducteur 26240 26243	dit
-R30	Source Arg1:T27 Arg2:T100	
-R31	Introduction Arg1:T27 Arg2:T101	
+R30	Source Arg1:T100 Arg2:T27
+R31	Introduction Arg1:T101 Arg2:T27
 T102	Entite 26894 26904	tante Rude
-R32	Source Arg1:T28 Arg2:T102	
+R32	Source Arg1:T102 Arg2:T28
 T103	Introducteur 26908 26915	demande
-R33	Introduction Arg1:T28 Arg2:T103	
+R33	Introduction Arg1:T103 Arg2:T28
 T2	Entite 31805 31811	Manine
-R34	Source Arg1:T29 Arg2:T2	
+R34	Source Arg1:T2 Arg2:T29
 T104	Introducteur 31844 31853	en disant
-R35	Introduction Arg1:T29 Arg2:T104	
+R35	Introduction Arg1:T104 Arg2:T29
 T105	Entite 32484 32486	Il
-R36	Source Arg1:T3 Arg2:T105	
+R36	Source Arg1:T105 Arg2:T3
 T30	Introducteur 32490 32495	parle
-R37	Introduction Arg1:T3 Arg2:T30	
+R37	Introduction Arg1:T30 Arg2:T3
 T4	Citation 37553 37559	— Oui.
 T40	Entite 38035 38039	elle
 T106	Introducteur 38043 38046	dit
-R38	Source Arg1:T41 Arg2:T40	
-R39	Introduction Arg1:T41 Arg2:T106	
+R38	Source Arg1:T40 Arg2:T41
+R39	Introduction Arg1:T106 Arg2:T41
 T107	Citation 39232 39263	« Adieu ! pauvre bouilloire ! »
 T108	Introducteur 39264 39270	disait
 T109	Entite 39280 39288	mon père
-R40	Introduction Arg1:T107 Arg2:T108	
-R41	Source Arg1:T107 Arg2:T109	
+R40	Introduction Arg1:T108 Arg2:T107
+R41	Source Arg1:T109 Arg2:T107
 T110	Entite 39462 39469	ma mère
-R42	Source Arg1:T5 Arg2:T110	
+R42	Source Arg1:T110 Arg2:T5
 T111	Introducteur 39473 39477	dire
-R43	Introduction Arg1:T5 Arg2:T111	
+R43	Introduction Arg1:T111 Arg2:T5
 T112	Entite 41088 41091	lui
 T113	Introducteur 41116 41129	avait répondu
-R44	Introduction Arg1:T6 Arg2:T113	
-R45	Source Arg1:T6 Arg2:T112	
+R44	Introduction Arg1:T113 Arg2:T6
+R45	Source Arg1:T112 Arg2:T6
 T114	Introducteur 42339 42347	répétait
 T115	Entite 42348 42361	oncle meunier
-R46	Introduction Arg1:T42 Arg2:T114	
-R47	Source Arg1:T42 Arg2:T115	
+R46	Introduction Arg1:T114 Arg2:T42
+R47	Source Arg1:T115 Arg2:T42
 T116	Entite 42376 42378	il
-R48	Source Arg1:T43 Arg2:T116	
+R48	Source Arg1:T116 Arg2:T43
 T117	Entite 42665 42685	médecin de l'hôpital
-R49	Source Arg1:T7 Arg2:T117	
+R49	Source Arg1:T117 Arg2:T7
 T118	Entite 43001 43014	Oncle meunier
-R50	Source Arg1:T44 Arg2:T118	
+R50	Source Arg1:T118 Arg2:T44
 T119	Introducteur 43067 43070	dit
-R51	Introduction Arg1:T44 Arg2:T119	
+R51	Introduction Arg1:T119 Arg2:T44
 T120	Citation 43467 43505	« Sois patiente et prends des forces »
 T121	Introducteur 43509 43515	disait
 T122	Entite 43516 43523	ma mère
-R52	Introduction Arg1:T120 Arg2:T121	
-R53	Source Arg1:T120 Arg2:T122	
+R52	Introduction Arg1:T121 Arg2:T120
+R53	Source Arg1:T122 Arg2:T120
 T123	Entite 43956 43958	il
 T124	Introducteur 43962 43965	dit
-R54	Introduction Arg1:T45 Arg2:T124	
-R55	Source Arg1:T45 Arg2:T123	
+R54	Introduction Arg1:T124 Arg2:T45
+R55	Source Arg1:T123 Arg2:T45
 T125	Introducteur 44049 44051	Je
-R56	Introduction Arg1:T46 Arg2:T125	
+R56	Introduction Arg1:T125 Arg2:T46
 T126	Entite 44356 44358	il
 T127	Introducteur 44362 44365	dit
-R57	Source Arg1:T47 Arg2:T126	
-R58	Introduction Arg1:T47 Arg2:T127	
+R57	Source Arg1:T126 Arg2:T47
+R58	Introduction Arg1:T127 Arg2:T47
 T128	Entite 44811 44821	Tante Rude
-R59	Source Arg1:T49 Arg2:T128	
+R59	Source Arg1:T128 Arg2:T49
 T129	Introducteur 44881 44905	chanta une autre chanson
-R60	Introduction Arg1:T49 Arg2:T129	
+R60	Introduction Arg1:T129 Arg2:T49
 T130	Introducteur 47483 47486	dit
 T131	Entite 47487 47491	elle
-R61	Source Arg1:T50 Arg2:T131	
-R62	Introduction Arg1:T50 Arg2:T130	
+R61	Source Arg1:T131 Arg2:T50
+R62	Introduction Arg1:T130 Arg2:T50
 T132	Entite 47633 47639	Firmin
-R63	Source Arg1:T51 Arg2:T132	
+R63	Source Arg1:T132 Arg2:T51
 T133	Introducteur 47695 47703	s'excusa
-R64	Introduction Arg1:T51 Arg2:T133	
+R64	Introduction Arg1:T133 Arg2:T51
 T134	Entite 48121 48123	je
 T135	Introducteur 48124 48132	répétais
-R65	Introduction Arg1:T52 Arg2:T135	
-R66	Source Arg1:T52 Arg2:T134	
+R65	Introduction Arg1:T135 Arg2:T52
+R66	Source Arg1:T134 Arg2:T52
 T136	Entite 49828 49841	Oncle meunier
-R67	Source Arg1:T53 Arg2:T136	
+R67	Source Arg1:T136 Arg2:T53
 T137	Entite 50070 50072	je
 T138	Introducteur 50073 50076	dis
-R68	Source Arg1:T54 Arg2:T137	
-R69	Introduction Arg1:T54 Arg2:T138	
+R68	Source Arg1:T137 Arg2:T54
+R69	Introduction Arg1:T138 Arg2:T54
 T139	Entite 50103 50116	Oncle meunier
-R70	Source Arg1:T55 Arg2:T139	
+R70	Source Arg1:T139 Arg2:T55
 T140	Introducteur 50117 50126	s'indigna
-R71	Introduction Arg1:T55 Arg2:T140	
+R71	Introduction Arg1:T140 Arg2:T55
 T141	Entite 50644 50657	Oncle meunier
-R72	Source Arg1:T57 Arg2:T141	
+R72	Source Arg1:T141 Arg2:T57
 T142	Entite 50786 50788	il
 T143	Introducteur 50789 50795	ajouta
-R73	Introduction Arg1:T58 Arg2:T143	
-R74	Source Arg1:T58 Arg2:T142	
+R73	Introduction Arg1:T143 Arg2:T58
+R74	Source Arg1:T142 Arg2:T58
 T144	Entite 51876 51886	Tante Rude
 T145	Introducteur 51890 51893	dit
-R75	Introduction Arg1:T8 Arg2:T145	
-R76	Source Arg1:T8 Arg2:T144	
+R75	Introduction Arg1:T145 Arg2:T8
+R76	Source Arg1:T144 Arg2:T8
 T146	Entite 51950 51963	Oncle meunier
 T147	Introducteur 51966 51974	expliqua
-R77	Introduction Arg1:T59 Arg2:T147	
-R78	Source Arg1:T59 Arg2:T146	
+R77	Introduction Arg1:T147 Arg2:T59
+R78	Source Arg1:T146 Arg2:T59
 T148	Citation 52390 52571	« Oui oncle meunier, je comprends très bien qu'il me faut non seulement gagner ma vie, mais faire en sorte que les petits n'aient pas trop à souffrir de la misère qui nous guette. »
 T149	Entite 52374 52376	je
 T150	Introducteur 52377 52386	répondais
-R79	Introduction Arg1:T148 Arg2:T150	
-R80	Source Arg1:T148 Arg2:T149	
+R79	Introduction Arg1:T150 Arg2:T148
+R80	Source Arg1:T149 Arg2:T148
 T151	Entite 52910 52929	le faucheur suivant
 T152	Introducteur 52933 52939	criait
-R81	Source Arg1:T60 Arg2:T151	
-R82	Introduction Arg1:T60 Arg2:T152	
+R81	Source Arg1:T151 Arg2:T60
+R82	Introduction Arg1:T152 Arg2:T60
 T153	Introducteur 53881 53887	disant
 T154	Entite 53853 53855	je
-R83	Source Arg1:T61 Arg2:T154	
-R84	Introduction Arg1:T61 Arg2:T153	
+R83	Source Arg1:T154 Arg2:T61
+R84	Introduction Arg1:T153 Arg2:T61
 T155	Entite 55232 55234	il
 T156	Introducteur 55343 55349	disant
-R85	Source Arg1:T62 Arg2:T155	
-R86	Introduction Arg1:T62 Arg2:T156	
+R85	Source Arg1:T155 Arg2:T62
+R86	Introduction Arg1:T156 Arg2:T62
 T157	Introducteur 56438 56442	crie
 T158	Entite 56443 56449	Angèle
 T159	Entite 56483 56489	Firmin
 T160	Introducteur 56062 56068	disant
-R87	Introduction Arg1:T63 Arg2:T160	
-R88	Introduction Arg1:T64 Arg2:T157	
-R89	Source Arg1:T64 Arg2:T158	
+R87	Introduction Arg1:T160 Arg2:T63
+R88	Introduction Arg1:T157 Arg2:T64
+R89	Source Arg1:T158 Arg2:T64
 T161	Introducteur 56493 56500	rassure
-R90	Introduction Arg1:T65 Arg2:T161	
-R91	Source Arg1:T65 Arg2:T159	
+R90	Introduction Arg1:T161 Arg2:T65
+R91	Source Arg1:T159 Arg2:T65
 T162	Entite 56600 56602	il
 T163	Introducteur 56603 56611	commande
-R92	Introduction Arg1:T66 Arg2:T163	
-R93	Source Arg1:T66 Arg2:T162	
+R92	Introduction Arg1:T163 Arg2:T66
+R93	Source Arg1:T162 Arg2:T66
 T164	Entite 56776 56778	il
 T165	Introducteur 56784 56793	renseigne
-R94	Introduction Arg1:T67 Arg2:T165	
-R95	Source Arg1:T67 Arg2:T164	
+R94	Introduction Arg1:T165 Arg2:T67
+R95	Source Arg1:T164 Arg2:T67
 T166	Introducteur 42379 42388	reprenait
-R96	Introduction Arg1:T43 Arg2:T166	
+R96	Introduction Arg1:T166 Arg2:T43
 T167	Citation 49430 49465	« Faites violence à vos passions. »
 T168	Entite 49389 49391	l'
 T169	Introducteur 49400 49404	dire
-R97	Introduction Arg1:T167 Arg2:T169	
-R98	Source Arg1:T167 Arg2:T168	
+R97	Introduction Arg1:T169 Arg2:T167
+R98	Source Arg1:T168 Arg2:T167
 T170	Entite 12689 12693	elle
 T171	Introducteur 12734 12737	dit
-R99	Introduction Arg1:T23 Arg2:T171	
-R100	Source Arg1:T23 Arg2:T170	
+R99	Introduction Arg1:T171 Arg2:T23
+R100	Source Arg1:T170 Arg2:T23
 T172	Entite 35268 35276	Clémence
 T173	Introducteur 35280 35283	dit
-R101	Introduction Arg1:T31 Arg2:T173	
-R102	Source Arg1:T31 Arg2:T172	
+R101	Introduction Arg1:T173 Arg2:T31
+R102	Source Arg1:T172 Arg2:T31
 T174	Entite 36281 36283	je
-R103	Source Arg1:T32 Arg2:T174	
+R103	Source Arg1:T174 Arg2:T32
 T175	Entite 36508 36510	je
-R104	Source Arg1:T33 Arg2:T175	
+R104	Source Arg1:T175 Arg2:T33
 T176	Entite 36951 36953	je
-R105	Source Arg1:T34 Arg2:T176	
+R105	Source Arg1:T176 Arg2:T34
 T177	Entite 37270 37274	elle
 T178	Introducteur 37303 37312	demandant
-R106	Introduction Arg1:T35 Arg2:T178	
-R107	Source Arg1:T35 Arg2:T177	
+R106	Introduction Arg1:T178 Arg2:T35
+R107	Source Arg1:T177 Arg2:T35
 T179	Entite 37459 37463	Elle
-R108	Source Arg1:T39 Arg2:T179	
+R108	Source Arg1:T179 Arg2:T39
 T180	Entite 37139 37141	j'
-R109	Source Arg1:T36 Arg2:T180	
+R109	Source Arg1:T180 Arg2:T36
 T181	Entite 50335 50337	je
 T182	Introducteur 50338 50346	répondis
-R110	Introduction Arg1:T56 Arg2:T182	
-R111	Source Arg1:T56 Arg2:T181	
+R110	Introduction Arg1:T182 Arg2:T56
+R111	Source Arg1:T181 Arg2:T56
 T183	Introducteur 2560 2571	la question
-R112	Introduction Arg1:T68 Arg2:T183	
+R112	Introduction Arg1:T183 Arg2:T68
 T184	Introducteur 50723 50727	dire
-R113	Introduction Arg1:T57 Arg2:T184	
+R113	Introduction Arg1:T184 Arg2:T57
 T185	Introducteur 42650 42661	les paroles
-R114	Introduction Arg1:T7 Arg2:T185	
+R114	Introduction Arg1:T185 Arg2:T7
 T186	Introducteur 44052 44063	me défendis
-R115	Introduction Arg1:T46 Arg2:T186	
+R115	Introduction Arg1:T186 Arg2:T46
 T187	Entite 44289 44291	j'
-R116	Source Arg1:T48 Arg2:T187	
+R116	Source Arg1:T187 Arg2:T48

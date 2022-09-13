@@ -3,197 +3,197 @@ T5	Citation 1571 1606	— C'est comme moi, je suis employé.
 T1	Citation 1414 1422;1431 1508	— Tiens, nous avons eu la même idée, celle d'inscrire notre nom dans nos couvre-chefs.
 T6	Introducteur 1423 1426	dit
 T7	Entite 1427 1429	il
-R1	Source Arg1:T1 Arg2:T7	
+R1	Source Arg1:T7 Arg2:T1
 T2	Citation 2479 2517	— Comme on serait bien à la campagne !
 T3	Introducteur 2468 2475	échappa
 T8	Entite 2464 2467	lui
-R2	Source Arg1:T2 Arg2:T8	
+R2	Source Arg1:T8 Arg2:T2
 T9	Citation 3994 4014;4028 4045	— Moi, je suis veuf, et sans enfants !
 T10	Introducteur 4015 4018	dit
 T11	Entite 4019 4026	Bouvard
-R3	Source Arg1:T9 Arg2:T11	
+R3	Source Arg1:T11 Arg2:T9
 T12	Citation 4047 4087	— C'est peut-être un bonheur pour vous ?
 T13	Citation 5814 5851	— Ma foi ! si nous dînions ensemble ?
 T14	Entite 5787 5794	Bouvard
 T15	Introducteur 5795 5798	dit
-R4	Source Arg1:T13 Arg2:T14	
-R5	Introduction Arg1:T1 Arg2:T6	
-R6	Introduction Arg1:T2 Arg2:T3	
-R7	Introduction Arg1:T9 Arg2:T10	
-R8	Introduction Arg1:T13 Arg2:T15	
+R4	Source Arg1:T14 Arg2:T13
+R5	Introduction Arg1:T6 Arg2:T1
+R6	Introduction Arg1:T3 Arg2:T2
+R7	Introduction Arg1:T10 Arg2:T9
+R8	Introduction Arg1:T15 Arg2:T13
 T16	Citation 5853 5874;5892 5930	— J'en avais l'idée ! mais je n'osais pas vous le proposer !
 T17	Entite 5882 5890	Pécuchet
 T18	Introducteur 5875 5881	reprit
-R9	Source Arg1:T16 Arg2:T17	
-R10	Introduction Arg1:T16 Arg2:T18	
+R9	Source Arg1:T17 Arg2:T16
+R10	Introduction Arg1:T18 Arg2:T16
 T19	Citation 9087 9117	— Les papiers s'envoleraient !
 T20	Introducteur 9118 9125	s'écria
 T21	Entite 9126 9134	Pécuchet
-R11	Introduction Arg1:T19 Arg2:T20	
-R12	Source Arg1:T19 Arg2:T21	
+R11	Introduction Arg1:T20 Arg2:T19
+R12	Source Arg1:T21 Arg2:T19
 T22	Citation 9307 9347	— À votre place, j'ôterais ma flanelle !
 T23	Citation 9349 9360	— Comment !
 T24	Citation 9454 9479;9496 9529	— Faites-moi la conduite, l'air extérieur vous rafraîchira.
 T25	Entite 9487 9494	Bouvard
 T26	Introducteur 9480 9486	reprit
-R13	Source Arg1:T24 Arg2:T25	
-R14	Introduction Arg1:T24 Arg2:T26	
+R13	Source Arg1:T25 Arg2:T24
+R14	Introduction Arg1:T26 Arg2:T24
 T27	Entite 9288 9295	Bouvard
 T28	Introducteur 9300 9303	dit
-R15	Introduction Arg1:T22 Arg2:T28	
-R16	Source Arg1:T22 Arg2:T27	
+R15	Introduction Arg1:T28 Arg2:T22
+R16	Source Arg1:T27 Arg2:T22
 T29	Citation 9582 9624	— Vous m'ensorcelez, ma parole d'honneur !
 T30	Entite 9537 9545	Pécuchet
 T31	Introducteur 9565 9578	en grommelant
-R17	Source Arg1:T29 Arg2:T30	
-R18	Introduction Arg1:T29 Arg2:T31	
+R17	Source Arg1:T30 Arg2:T29
+R18	Introduction Arg1:T31 Arg2:T29
 T32	Citation 10075 10088	— Mon oncle !
 T33	Introducteur 10089 10092	dit
 T34	Entite 10093 10100	Bouvard
-R19	Introduction Arg1:T32 Arg2:T33	
-R20	Source Arg1:T32 Arg2:T34	
+R19	Introduction Arg1:T33 Arg2:T32
+R20	Source Arg1:T34 Arg2:T32
 T35	Citation 10509 10551	— On le prendrait plutôt pour votre père !
 T36	Entite 10471 10479	Pécuchet
 T37	Introducteur 10501 10505	dire
-R21	Source Arg1:T35 Arg2:T36	
-R22	Introduction Arg1:T35 Arg2:T37	
+R21	Source Arg1:T36 Arg2:T35
+R22	Introduction Arg1:T37 Arg2:T35
 T38	Citation 10553 10572	— C'est mon parrain
 T39	Entite 10583 10590	Bouvard
 T40	Introducteur 10574 10582	répliqua
-R23	Introduction Arg1:T38 Arg2:T40	
-R24	Source Arg1:T38 Arg2:T39	
+R23	Introduction Arg1:T40 Arg2:T38
+R24	Source Arg1:T39 Arg2:T38
 T41	Citation 10970 11087	— Car, enfin, si nous n'étions pas sortis tantôt pour nous promener, nous aurions pu mourir avant de nous connaître !
 T42	Entite 10889 10892	ils
-R25	Source Arg1:T41 Arg2:T42	
+R25	Source Arg1:T42 Arg2:T41
 T43	Citation 11171 11201	— N'allez pas voir les dames !
 T44	Introducteur 11202 11206	cria
 T45	Entite 11207 11214	Bouvard
-R26	Source Arg1:T43 Arg2:T45	
-R27	Introduction Arg1:T43 Arg2:T44	
+R26	Source Arg1:T45 Arg2:T43
+R27	Introduction Arg1:T44 Arg2:T43
 T46	Citation 11406 11436	— Bouvard ! Monsieur Bouvard !
 T47	Entite 11387 11395	une voix
 T48	Introducteur 11396 11402	appela
-R28	Introduction Arg1:T46 Arg2:T48	
-R29	Source Arg1:T46 Arg2:T47	
+R28	Introduction Arg1:T48 Arg2:T46
+R29	Source Arg1:T47 Arg2:T46
 T49	Entite 11490 11498	Pécuchet
 T50	Introducteur 11503 11511	articula
 T51	Citation 11525 11568	— Je ne suis pas malade ! Je l'ai retirée !
-R30	Source Arg1:T51 Arg2:T49	
-R31	Introduction Arg1:T51 Arg2:T50	
+R30	Source Arg1:T49 Arg2:T51
+R31	Introduction Arg1:T50 Arg2:T51
 T52	Citation 11570 11583	— Quoi donc ?
 T53	Citation 11585 11593	— Elle !
 T54	Introducteur 11594 11597	dit
 T55	Entite 11598 11606	Pécuchet
-R32	Introduction Arg1:T53 Arg2:T54	
-R33	Source Arg1:T53 Arg2:T55	
+R32	Introduction Arg1:T54 Arg2:T53
+R33	Source Arg1:T55 Arg2:T53
 T56	Citation 18725 18789	— J'ai envie de me faire saltimbanque sur les places publiques !
 T57	Introducteur 18790 18796	disait
 T58	Entite 18797 18801	l'un
-R34	Introduction Arg1:T56 Arg2:T57	
-R35	Source Arg1:T56 Arg2:T58	
+R34	Introduction Arg1:T57 Arg2:T56
+R35	Source Arg1:T58 Arg2:T56
 T59	Citation 18804 18831	— Autant être chiffonnier !
 T60	Entite 18842 18849	l'autre
 T61	Introducteur 18832 18841	s'écriait
-R36	Introduction Arg1:T59 Arg2:T61	
-R37	Source Arg1:T59 Arg2:T60	
+R36	Introduction Arg1:T61 Arg2:T59
+R37	Source Arg1:T60 Arg2:T59
 T62	Citation 19286 19377	— Ah ! … c'est que … c'est que … un peu d'air me soulagera. Non ! laissez-moi ! permettez !
 T63	Introducteur 19283 19284	:
 T64	Entite 19224 19226	Il
-R38	Source Arg1:T62 Arg2:T64	
-R39	Introduction Arg1:T62 Arg2:T63	
+R38	Source Arg1:T64 Arg2:T62
+R39	Introduction Arg1:T63 Arg2:T62
 T65	Citation 19587 19620	— Mon oncle est mort ! j'hérite !
 T66	Citation 19622 19638	— Pas possible !
 T67	Citation 20237 20284	— Pourvu … que ce ne soit pas … quelque farce !
 T68	Introducteur 20214 20223	en disant
 T69	Entite 20194 20196	il
-R40	Source Arg1:T67 Arg2:T69	
-R41	Introduction Arg1:T67 Arg2:T68	
+R40	Source Arg1:T69 Arg2:T67
+R41	Introduction Arg1:T68 Arg2:T67
 T70	Citation 20286 20318	— Tu crois que c'est une farce !
 T71	Entite 20326 20333	Bouvard
 T72	Introducteur 20319 20325	reprit
-R42	Introduction Arg1:T70 Arg2:T72	
-R43	Source Arg1:T70 Arg2:T71	
+R42	Introduction Arg1:T72 Arg2:T70
+R43	Source Arg1:T71 Arg2:T70
 T73	Citation 20968 21015	— Ah ! ce serait trop beau ! n'en parlons plus.
 T74	Entite 20897 20900	Ils
-R44	Source Arg1:T73 Arg2:T74	
+R44	Source Arg1:T74 Arg2:T73
 T75	Citation 22358 22390	— Quinze mille livres de rente !
 T76	Entite 22284 22286	Il
 T77	Introducteur 22287 22295	répétait
-R45	Introduction Arg1:T75 Arg2:T77	
-R46	Source Arg1:T75 Arg2:T76	
+R45	Introduction Arg1:T77 Arg2:T75
+R46	Source Arg1:T76 Arg2:T75
 T78	Citation 23132 23170	— Nous nous retirerons à la campagne !
 T79	Introducteur 23103 23118	Son premier cri
-R47	Introduction Arg1:T78 Arg2:T79	
+R47	Introduction Arg1:T79 Arg2:T78
 T80	Entite 23059 23066	Bouvard
-R48	Source Arg1:T78 Arg2:T80	
+R48	Source Arg1:T80 Arg2:T78
 T81	Citation 24788 24865	— Nous ferons tout ce qui nous plaira ! nous laisserons pousser notre barbe !
 T82	Entite 24672 24675	ils
-R49	Source Arg1:T81 Arg2:T82	
+R49	Source Arg1:T82 Arg2:T81
 T83	Citation 25535 25583	— Eh ! nous n'aurons pas besoin de bibliothèque.
 T84	Entite 25502 25509	Bouvard
 T85	Introducteur 25510 25531	tranchait la question
-R50	Introduction Arg1:T83 Arg2:T85	
-R51	Source Arg1:T83 Arg2:T84	
+R50	Introduction Arg1:T85 Arg2:T83
+R51	Source Arg1:T84 Arg2:T83
 T86	Citation 25585 25612	— D'ailleurs j'ai la mienne
 T87	Introducteur 25614 25620	disait
 T88	Entite 25621 25629	Pécuchet
-R52	Introduction Arg1:T86 Arg2:T87	
-R53	Source Arg1:T86 Arg2:T88	
+R52	Introduction Arg1:T87 Arg2:T86
+R53	Source Arg1:T88 Arg2:T86
 T89	Citation 28733 28743	« Enfin. »
 T90	Entite 28646 28653	Bouvard
 T91	Introducteur 28721 28730	se disant
-R54	Introduction Arg1:T89 Arg2:T91	
-R55	Source Arg1:T89 Arg2:T90	
+R54	Introduction Arg1:T91 Arg2:T89
+R55	Source Arg1:T90 Arg2:T89
 T92	Citation 33801 33826	Oh ! très bon, très bon !
 T93	Entite 33783 33786	Ils
 T94	Introducteur 33787 33798	répondaient
-R56	Introduction Arg1:T92 Arg2:T94	
-R57	Source Arg1:T92 Arg2:T93	
+R56	Introduction Arg1:T94 Arg2:T92
+R57	Source Arg1:T93 Arg2:T92
 T95	Citation 34241 34310	— Nous y voilà donc ! quel bonheur ! il me semble que c'est un rêve !
 T96	Entite 34220 34223	ils
 T97	Introducteur 34224 34237	se répétaient
-R58	Source Arg1:T95 Arg2:T96	
-R59	Introduction Arg1:T95 Arg2:T97	
+R58	Source Arg1:T96 Arg2:T95
+R59	Introduction Arg1:T97 Arg2:T95
 T98	Citation 34574 34614	— Tiens, des carottes ! Ah ! des choux !
 T99	Entite 34520 34523	Ils
-R61	Source Arg1:T98 Arg2:T99	
+R61	Source Arg1:T99 Arg2:T98
 T100	Introducteur 34542 34558	nommer tout haut
-R60	Introduction Arg1:T98 Arg2:T100	
+R60	Introduction Arg1:T100 Arg2:T98
 T101	Citation 39608 39643	— Ah ! pardon ! ne vous gênez pas !
 T102	Citation 42294 42309	« Tout part ! »
 T103	Introducteur 42268 42278	répétaient
-R62	Introduction Arg1:T102 Arg2:T103	
+R62	Introduction Arg1:T103 Arg2:T102
 T104	Entite 42236 42239	ils
-R63	Source Arg1:T102 Arg2:T104	
+R63	Source Arg1:T104 Arg2:T102
 T105	Citation 42386 42405	« Tout va partir ».
 T106	Entite 42341 42344	ils
 T107	Introducteur 42377 42383	disant
-R64	Introduction Arg1:T105 Arg2:T107	
-R65	Source Arg1:T105 Arg2:T106	
+R64	Introduction Arg1:T107 Arg2:T105
+R65	Source Arg1:T106 Arg2:T105
 T108	Citation 45399 45439	— Cela du moins me paraît incontestable.
 T109	Citation 45483 45504	— Oh ! incontestable.
 T110	Entite 45441 45460	Bouvard et Pécuchet
 T111	Introducteur 45461 45470	reprirent
-R66	Source Arg1:T109 Arg2:T110	
-R67	Introduction Arg1:T109 Arg2:T111	
+R66	Source Arg1:T110 Arg2:T109
+R67	Introduction Arg1:T111 Arg2:T109
 T112	Citation 45801 45807;45822 45842;45843 45892	— Ici, je sème mes turneps. Le turnep est la base de ma culture quadriennale.
 T113	Entite 45812 45820	le comte
 T114	Introducteur 45808 45811	dit
-R68	Introduction Arg1:T112 Arg2:T114	
-R69	Source Arg1:T112 Arg2:T113	
+R68	Introduction Arg1:T114 Arg2:T112
+R69	Source Arg1:T113 Arg2:T112
 T115	Citation 52867 52926	— Misérable ! tu es la honte du village qui t'a vu naître !
 T116	Entite 52790 52798	Pécuchet
 T117	Introducteur 52817 52824	s'écria
-R70	Source Arg1:T115 Arg2:T116	
-R71	Introduction Arg1:T115 Arg2:T117	
+R70	Source Arg1:T116 Arg2:T115
+R71	Introduction Arg1:T117 Arg2:T115
 T118	Citation 60766 60804	— Mais c'est de l'or ! c'est de l'or !
 T119	Entite 60753 60755	il
 T120	Introducteur 60756 60762	disait
-R72	Source Arg1:T118 Arg2:T119	
-R73	Introduction Arg1:T118 Arg2:T120	
+R72	Source Arg1:T119 Arg2:T118
+R73	Introduction Arg1:T120 Arg2:T118
 T121	Citation 61324 61350	— Apprends à t'en servir !
 T122	Citation 61352 61376	— Eh bien ! montrez-moi.
 T123	Entite 19570 19578	Pécuchet
 T124	Entite 19543 19545	Il
-R74	Source Arg1:T65 Arg2:T124	
-R75	Source Arg1:T66 Arg2:T123	
+R74	Source Arg1:T124 Arg2:T65
+R75	Source Arg1:T123 Arg2:T66

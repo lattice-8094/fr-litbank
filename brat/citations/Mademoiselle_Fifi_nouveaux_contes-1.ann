@@ -1,132 +1,132 @@
 T1	Citation 5565 5644	« Nom de Dieu, ça ne peut pas durer, il faut inventer quelque chose à la fin. »
 T2	Citation 5794 5819	« Quoi, mon capitaine ? »
 T3	Entite 5654 5700	le lieutenant Otto et le sous-lieutenant Fritz
-R1	Source Arg1:T2 Arg2:T3
+R1	Source Arg1:T3 Arg2:T2
 T4	Introducteur 5780 5791	répondirent
-R2	Introduction Arg1:T2 Arg2:T4
+R2	Introduction Arg1:T4 Arg2:T2
 T5	Citation 5866 5941	« Quoi ? Eh bien, il faut organiser une fête, si le commandant le permet. »
 T6	Entite 5820 5822	Il
-R3	Source Arg1:T5 Arg2:T6
+R3	Source Arg1:T6 Arg2:T5
 T7	Introducteur 5857 5863	reprit
-R4	Introduction Arg1:T5 Arg2:T7
+R4	Introduction Arg1:T7 Arg2:T5
 T8	Citation 5968 5996	« Quelle fête, capitaine ? »
 T9	Citation 6019 6249	« Je me charge de tout, mon commandant. J'enverrai à Rouen _Le Devoir_, qui nous ramènera des dames ; je sais où les prendre. On préparera ici un souper ; rien ne manque d'ailleurs, et, au moins, nous passerons une bonne soirée. »
 T10	Entite 5997 6005	Le baron
-R5	Source Arg1:T9 Arg2:T10
+R5	Source Arg1:T10 Arg2:T9
 T12	Citation 6305 6332	« Vous êtes fou, mon ami. »
 T13	Entite 6250 6271	Le comte de Farlsberg
-R7	Source Arg1:T12 Arg2:T13
+R7	Source Arg1:T13 Arg2:T12
 T15	Citation 6414 6482	« Laissez faire le capitaine, mon commandant, c'est si triste ici. »
 T16	Entite 6338 6356	tous les officiers
-R9	Source Arg1:T15 Arg2:T16
+R9	Source Arg1:T16 Arg2:T15
 T17	Introducteur 6400 6411	suppliaient
-R10	Introduction Arg1:T15 Arg2:T17
+R10	Introduction Arg1:T17 Arg2:T15
 T18	Citation 6508 6517	« Soit, »
 T19	Citation 7682 7703	« Faisons la mine ! »
 T20	Entite 7669 7671	il
-R11	Source Arg1:T19 Arg2:T20
+R11	Source Arg1:T20 Arg2:T19
 T21	Introducteur 7672 7679	s'écria
-R12	Introduction Arg1:T19 Arg2:T21
+R12	Introduction Arg1:T21 Arg2:T19
 T22	Citation 9929 9962	« Ça a bien réussi, cette fois. »
 T23	Entite 9875 9877	Il
-R13	Source Arg1:T22 Arg2:T23
+R13	Source Arg1:T23 Arg2:T22
 T24	Introducteur 9903 9912	déclarant
-R14	Introduction Arg1:T22 Arg2:T24
+R14	Introduction Arg1:T24 Arg2:T22
 T26	Citation 12782 12857	« Ces temoiselles técitément n'auront pas peau temps pour leur bromenate. »
 T27	Citation 15019 15032	« Ton nom ? »
 T28	Entite 14922 14924	il
-R15	Source Arg1:T27 Arg2:T28
+R15	Source Arg1:T28 Arg2:T27
 T29	Introducteur 14959 14970	s'adressant
-R16	Introduction Arg1:T27 Arg2:T29
+R16	Introduction Arg1:T29 Arg2:T27
 T30	Citation 15072 15083	« Paméla. »
 T31	Citation 15104 15159	« Numéro un, la nommée Pamela, adjugée au commandant. »
 T32	Entite 15090 15092	il
-R17	Source Arg1:T31 Arg2:T32
+R17	Source Arg1:T32 Arg2:T31
 T33	Introducteur 15093 15101	proclama
-R18	Introduction Arg1:T31 Arg2:T33
+R18	Introduction Arg1:T33 Arg2:T31
 T34	Citation 16691 16741	« Vous avez eu là une charmante idée, capitaine. »
 T35	Citation 18984 19005	« Ça se paye, cela. »
 T36	Entite 18923 18927	elle
-R19	Source Arg1:T35 Arg2:T36
+R19	Source Arg1:T36 Arg2:T35
 T37	Introducteur 18974 18981	murmura
-R20	Introduction Arg1:T35 Arg2:T37
+R20	Introduction Arg1:T37 Arg2:T35
 T38	Citation 19731 19767	« À nos victoires sur les coeurs ! »
 T39	Entite 19620 19632	Le capitaine
-R21	Source Arg1:T38 Arg2:T39
+R21	Source Arg1:T39 Arg2:T38
 T40	Introducteur 19720 19728	prononça
-R22	Introduction Arg1:T38 Arg2:T40
+R22	Introduction Arg1:T40 Arg2:T38
 T41	Citation 19927 19962	« À nos victoires sur la France ! »
 T42	Entite 19917 19919	il
-R23	Source Arg1:T41 Arg2:T42
+R23	Source Arg1:T42 Arg2:T41
 T43	Introducteur 19920 19924	cria
-R24	Introduction Arg1:T41 Arg2:T43
+R24	Introduction Arg1:T43 Arg2:T41
 T44	Citation 20057 20128	« Tu sais, j'en connais des Français, devant qui tu ne dirais pas ça. »
 T45	Citation 20230 20324	« Ah ! ah ! ah ! je n'en ai jamais vu, moi. Sitôt que nous paraissons, ils foutent le camp ! »
 T46	Entite 20134 20150	le petit marquis
-R25	Source Arg1:T45 Arg2:T46
+R25	Source Arg1:T46 Arg2:T45
 T47	Citation 20372 20392	« Tu mens, salop ! »
 T48	Entite 20325 20333	La fille
-R26	Source Arg1:T47 Arg2:T48
+R26	Source Arg1:T48 Arg2:T47
 T49	Introducteur 20350 20354	cria
-R27	Introduction Arg1:T47 Arg2:T49
+R27	Introduction Arg1:T49 Arg2:T47
 T50	Citation 20554 20631	« Ah ! oui, parlons-en, la belle ! serions-nous ici, s'ils étaient braves ! »
 T51	Entite 20535 20537	il
-R28	Source Arg1:T50 Arg2:T51
+R28	Source Arg1:T51 Arg2:T50
 T52	Introducteur 20538 20551	se mit à rire
-R29	Introduction Arg1:T50 Arg2:T52
+R29	Introduction Arg1:T52 Arg2:T50
 T53	Citation 20650 20700	« Nous sommes leurs maîtres ! à nous la France ! »
 T54	Entite 20635 20637	il
-R30	Source Arg1:T53 Arg2:T54
+R30	Source Arg1:T54 Arg2:T53
 T56	Citation 20834 20919	« A nous la France et les Français, les bois, les champs et les maisons de France ! »
 T57	Entite 20765 20767	Il
-R32	Source Arg1:T56 Arg2:T57
+R32	Source Arg1:T57 Arg2:T56
 T58	Introducteur 20825 20831	répéta
-R33	Introduction Arg1:T56 Arg2:T58
+R33	Introduction Arg1:T58 Arg2:T56
 T59	Citation 21065 21085	« Vive la Prusse ! »
 T60	Citation 21339 21353;21366 21397	« A nous aussi toutes les femmes de France ! »
 T61	Citation 21673 21755	« Ça, ça, ça n'est pas vrai, par exemple, vous n'aurez pas les femmes de France. »
 T62	Entite 21625 21629	elle
-R34	Source Arg1:T61 Arg2:T62
+R34	Source Arg1:T62 Arg2:T61
 T63	Introducteur 21630 21638	balbutia
-R35	Introduction Arg1:T61 Arg2:T63
+R35	Introduction Arg1:T63 Arg2:T61
 T64	Citation 21823 21908	« Elle est pien ponne, pien ponne, qu'est-ce alors que tu viens faire ici, petite ? »
 T65	Citation 22063 22177	« Moi ! moi ! Je ne suis pas une femme, moi, je suis une putain ; c'est bien tout ce qu'il faut à des Prussiens. »
 T66	Citation 24670 24746	« On ne fait pas la guerre pour s'amuser et caresser des filles publiques. »
 T67	Entite 24647 24657	Le général
-R36	Source Arg1:T66 Arg2:T67
+R36	Source Arg1:T67 Arg2:T66
 T68	Introducteur 24658 24667	avait dit
-R37	Introduction Arg1:T66 Arg2:T68
+R37	Introduction Arg1:T68 Arg2:T66
 T69	Citation 27883 27914	« Voici un enterrement civil, »
 T70	Citation 28844 29053	« Je vous demande bien pardon, messieurs, si j'interromps votre conversation. Mais, apercevant un enterrement civil, je me suis empressé de le suivre sans connaître, d'ailleurs, le mort que vous accompagnez. »
 T71	Entite 28835 28837	je
-R38	Source Arg1:T70 Arg2:T71
+R38	Source Arg1:T71 Arg2:T70
 T72	Introducteur 28838 28841	dis
-R39	Introduction Arg1:T70 Arg2:T72
+R39	Introduction Arg1:T72 Arg2:T70
 T73	Citation 29082 29102	« C'est une morte. »
 T74	Entite 29054 29070	Un des messieurs
-R40	Source Arg1:T73 Arg2:T74
+R40	Source Arg1:T74 Arg2:T73
 T75	Introducteur 29071 29079	prononça
-R41	Introduction Arg1:T73 Arg2:T75
+R41	Introduction Arg1:T75 Arg2:T73
 T76	Citation 29135 29196	« Cependant c'est bien un enterrement civil, n'est-ce pas ? »
 T77	Entite 29121 29123	je
-R42	Source Arg1:T76 Arg2:T77
+R42	Source Arg1:T77 Arg2:T76
 T78	Introducteur 29124 29132	demandai
-R43	Introduction Arg1:T76 Arg2:T78
+R43	Introduction Arg1:T78 Arg2:T76
 T79	Citation 29269 29330	« Oui et non. Le clergé nous a refusé l'entrée de l'église. »
 T80	Entite 29197 29213	L'autre monsieur
-R44	Source Arg1:T79 Arg2:T80
+R44	Source Arg1:T80 Arg2:T79
 T81	Introducteur 29252 29266	prit la parole
-R45	Introduction Arg1:T79 Arg2:T81
+R45	Introduction Arg1:T81 Arg2:T79
 T83	Citation 29462 29656	« Oh ! c'est toute une histoire. Cette jeune femme s'est tuée, et voilà pourquoi on n'a pas pu la faire enterrer religieusement. C'est son mari que vous voyez là, le premier, celui qui pleure. »
 T84	Entite 29415 29435	Mon obligeant voisin
-R46	Source Arg1:T83 Arg2:T84
+R46	Source Arg1:T84 Arg2:T83
 T85	Introducteur 29439 29445	confia
-R47	Introduction Arg1:T83 Arg2:T85
+R47	Introduction Arg1:T85 Arg2:T83
 T86	Citation 29692 29869	« Vous m'étonnez et vous m'intéressez beaucoup, monsieur. Serait-il indiscret de vous demander de me conter cette histoire ? Si je vous importune, mettez que je n'ai rien dit. »
 T87	Entite 29664 29666	je
-R48	Source Arg1:T86 Arg2:T87
+R48	Source Arg1:T87 Arg2:T86
 T88	Introducteur 29667 29676	prononçai
-R49	Introduction Arg1:T86 Arg2:T88
+R49	Introduction Arg1:T88 Arg2:T86
 T89	Citation 29914 30131	« Mais pas du tout, pas du tout. Tenez, restons un peu derrière. Je vais vous dire ça, c'est fort triste. Nous avons le temps, avant d'arriver au cimetière, dont vous voyez les arbres là-haut ; car la côte est rude. »
 T90	Citation 30892 30929	« Vous savez, la petite Fontanelle. »
 T92	Citation 33983 34124	« Bah, c'est justement là une garantie pour l'avenir. J'aime mieux que ce soit avant qu'après. Avec cette femme-là, je dormirai tranquille. »
@@ -135,15 +135,15 @@ T94	Citation 36393 36419	« Ohé, madame Baptiste ! »
 T95	Citation 36741 36770	« Laquelle, celle en bleu ? »
 T96	Citation 38579 38599	« Merci, monsieur. »
 T97	Entite 38513 38515	Il
-R50	Source Arg1:T96 Arg2:T97
+R50	Source Arg1:T97 Arg2:T96
 T98	Introducteur 38568 38576	prononça
-R51	Introduction Arg1:T96 Arg2:T98
+R51	Introduction Arg1:T98 Arg2:T96
 T99	Citation 39099 39158	« Doit-on être malheureux quand on n'aime pas la chasse ! »
 T100	Citation 39954 40020	« Si je n'étais pas chasseur, je voudrais ne point vous quitter. »
 T101	Entite 39942 39944	il
-R52	Source Arg1:T100 Arg2:T101
+R52	Source Arg1:T101 Arg2:T100
 T102	Introducteur 39945 39951	disait
-R53	Introduction Arg1:T100 Arg2:T102
+R53	Introduction Arg1:T102 Arg2:T100
 T103	Citation 40556 40671	« Quand Médor a vu que le râle le faisait courir ainsi, il s'est dit : « Attends, mon gaillard, nous allons rire. »
 T104	Citation 41052 41079	« Pincé, nom d'un chien ! »
 T105	Citation 41289 41335	« Est-il joué, ce tour-là, monsieur Hector ? »
@@ -152,14 +152,14 @@ T108	Citation 42893 42943	« Sacrebleu ! vous devriez bien venir loger ici. »
 T109	Citation 43423 43468	« Si ça recommence, je suis un homme foutu. »
 T110	Citation 43522 43554	« Il faudrait marier le baron. »
 T111	Entite 43490 43505	Mme de Darnetot
-R54	Source Arg1:T110 Arg2:T111
+R54	Source Arg1:T111 Arg2:T110
 T112	Introducteur 43506 43509	dit
-R55	Introduction Arg1:T110 Arg2:T112
+R55	Introduction Arg1:T112 Arg2:T110
 T113	Citation 45257 45317	« Attention, attention, des per... des per... des perdrix. »
 T114	Entite 45241 45243	Il
-R56	Source Arg1:T113 Arg2:T114
+R56	Source Arg1:T114 Arg2:T113
 T115	Introducteur 45244 45254	balbutiait
-R57	Introduction Arg1:T113 Arg2:T115
+R57	Introduction Arg1:T115 Arg2:T113
 T116	Citation 45790 45808	« Quelle femme ! »
 T117	Citation 45987 46023	« Pourquoi ne l'épousez-vous pas ? »
 T118	Citation 46047 46099	« Moi ? moi ? l'épouser ? ... mais... au fait... . »
@@ -172,9 +172,9 @@ T124	Citation 47788 47894	« Je voulais vous dire... tout de suite... que cette.
 T125	Citation 48846 48927	« Si vous saviez comme je pense souvent à votre amie, vous auriez pitié de moi. »
 T126	Citation 49035 49227	« Sacrebleu, mon cher, quand on a des secrets dans son existence, on ne s'avance pas d'abord comme vous l'avez fait ; car, enfin, vous pouviez prévoir le motif de votre reculade, assurément. »
 T127	Entite 48928 48935	L'autre
-R58	Source Arg1:T126 Arg2:T127
+R58	Source Arg1:T127 Arg2:T126
 T128	Introducteur 49010 49013	dit
-R59	Introduction Arg1:T126 Arg2:T128
+R59	Introduction Arg1:T128 Arg2:T126
 T129	Citation 49360 49385	« On doit tout prévoir. »
 T130	Citation 51355 51374	« Je vous plains, »
 T131	Citation 51654 51768	« Le baron est un niais, mon cher ; il avait peur, voilà tout. Je vais écrire à Berthe de revenir, et bien vite. »
@@ -182,185 +182,185 @@ T132	Citation 51858 51942	« Bah ! quand on aime sa femme, entendez-vous, cette 
 T133	Citation 19039 19053	« Je payerai »
 T134	Introducteur 19055 19058	dit
 T135	Entite 19059 19061	il
-R60	Introduction Arg1:T133 Arg2:T134	
-R61	Source Arg1:T133 Arg2:T135	
+R60	Introduction Arg1:T134 Arg2:T133
+R61	Source Arg1:T135 Arg2:T133
 T136	Entite 30871 30873	On
 T137	Introducteur 30874 30880	disait
-R62	Introduction Arg1:T90 Arg2:T137	
-R63	Source Arg1:T90 Arg2:T136	
+R62	Introduction Arg1:T137 Arg2:T90
+R63	Source Arg1:T136 Arg2:T90
 T138	Entite 5555 5557	il
 T139	Introducteur 5558 5562	jura
-R64	Introduction Arg1:T1 Arg2:T139	
-R65	Source Arg1:T1 Arg2:T138	
+R64	Introduction Arg1:T139 Arg2:T1
+R65	Source Arg1:T138 Arg2:T1
 T140	Entite 5942 5950	Le major
-R66	Source Arg1:T8 Arg2:T140	
+R66	Source Arg1:T140 Arg2:T8
 T14	Introducteur 6518 6521	dit
 T141	Entite 6522 6524	il
-R8	Source Arg1:T18 Arg2:T141	
-R67	Introduction Arg1:T18 Arg2:T14	
+R8	Source Arg1:T141 Arg2:T18
+R67	Introduction Arg1:T14 Arg2:T18
 T25	Entite 12718 12737	Le lieutenant Fritz
 T142	Introducteur 12746 12754	prononça
-R68	Introduction Arg1:T26 Arg2:T142	
-R69	Source Arg1:T26 Arg2:T25	
+R68	Introduction Arg1:T142 Arg2:T26
+R69	Source Arg1:T25 Arg2:T26
 T143	Entite 15033 15037	Elle
 T144	Introducteur 15038 15046	répondit
-R70	Introduction Arg1:T30 Arg2:T144	
-R71	Source Arg1:T30 Arg2:T143	
+R70	Introduction Arg1:T144 Arg2:T30
+R71	Source Arg1:T143 Arg2:T30
 T145	Introducteur 16655 16662	déclara
 T146	Entite 16602 16604	il
-R72	Introduction Arg1:T34 Arg2:T145	
-R73	Source Arg1:T34 Arg2:T146	
+R72	Introduction Arg1:T145 Arg2:T34
+R73	Source Arg1:T146 Arg2:T34
 T147	Entite 20021 20027	Rachel
-R74	Source Arg1:T44 Arg2:T147	
+R74	Source Arg1:T147 Arg2:T44
 T148	Introducteur 21052 21062	vociférant
 T149	Entite 20920 20930	Les autres
-R75	Introduction Arg1:T59 Arg2:T148	
-R76	Source Arg1:T59 Arg2:T149	
+R75	Introduction Arg1:T148 Arg2:T59
+R76	Source Arg1:T149 Arg2:T59
 T150	Introducteur 21355 21359	cria
 T151	Entite 21362 21364	il
-R77	Source Arg1:T60 Arg2:T151	
-R78	Introduction Arg1:T60 Arg2:T150	
+R77	Source Arg1:T151 Arg2:T60
+R78	Introduction Arg1:T150 Arg2:T60
 T152	Entite 21756 21758	Il
-R79	Source Arg1:T64 Arg2:T152	
+R79	Source Arg1:T152 Arg2:T64
 T153	Entite 22024 22028	elle
 T154	Introducteur 22033 22037	jeta
-R80	Introduction Arg1:T65 Arg2:T154	
-R81	Source Arg1:T65 Arg2:T153	
+R80	Introduction Arg1:T154 Arg2:T65
+R81	Source Arg1:T153 Arg2:T65
 T155	Entite 27871 27873	Je
 T156	Introducteur 27874 27880	pensai
-R82	Introduction Arg1:T69 Arg2:T156	
-R83	Source Arg1:T69 Arg2:T155	
+R82	Introduction Arg1:T156 Arg2:T69
+R83	Source Arg1:T155 Arg2:T69
 T82	Entite 29870 29881	Le monsieur
-R84	Source Arg1:T89 Arg2:T82	
+R84	Source Arg1:T82 Arg2:T89
 T91	Entite 33954 33956	Il
 T157	Introducteur 33972 33980	répondre
-R85	Introduction Arg1:T92 Arg2:T157	
-R86	Source Arg1:T92 Arg2:T91	
+R85	Introduction Arg1:T157 Arg2:T92
+R86	Source Arg1:T91 Arg2:T92
 T158	Entite 35736 35745	cet homme
 T159	Introducteur 35774 35780	criant
-R87	Introduction Arg1:T93 Arg2:T159	
-R88	Source Arg1:T93 Arg2:T158	
+R87	Introduction Arg1:T159 Arg2:T93
+R88	Source Arg1:T158 Arg2:T93
 T160	Introducteur 36379 36383	cria
 T161	Entite 36339 36347	Une voix
-R89	Introduction Arg1:T94 Arg2:T160	
-R90	Source Arg1:T94 Arg2:T161	
+R89	Introduction Arg1:T160 Arg2:T94
+R90	Source Arg1:T161 Arg2:T94
 T162	Entite 36718 36726	des gens
 T163	Introducteur 36727 36738	demandaient
-R91	Introduction Arg1:T95 Arg2:T163	
-R92	Source Arg1:T95 Arg2:T162	
+R91	Introduction Arg1:T163 Arg2:T95
+R92	Source Arg1:T162 Arg2:T95
 T164	Entite 37872 37874	il
 T165	Introducteur 37875 37881	ajouta
 T166	Citation 37884 37991;37992 38317	« C'est peut-être ce qu'elle avait de mieux à faire dans sa position. Il y a des choses qu'on n'efface pas. « Vous saisissez maintenant pourquoi le clergé a refusé la porte de l'église. Oh ! si l'enterrement avait été religieux toute la ville serait venue. Mais vous comprenez que le suicide s'ajoutant à l'autre histoire, les familles se sont abstenues ; et puis, il est bien difficile, ici, de suivre un enterrement sans prêtres. »
-R93	Introduction Arg1:T166 Arg2:T165	
-R94	Source Arg1:T166 Arg2:T164	
+R93	Introduction Arg1:T165 Arg2:T166
+R94	Source Arg1:T164 Arg2:T166
 T167	Introducteur 39077 39085	répétait
 T168	Entite 39033 39035	Il
-R95	Introduction Arg1:T99 Arg2:T167	
-R96	Source Arg1:T99 Arg2:T168	
+R95	Introduction Arg1:T167 Arg2:T99
+R96	Source Arg1:T168 Arg2:T99
 T169	Introducteur 40543 40553	expliquait
-R97	Introduction Arg1:T103 Arg2:T169	
+R97	Introduction Arg1:T169 Arg2:T103
 T170	Entite 40478 40480	Il
-R98	Source Arg1:T103 Arg2:T170	
+R98	Source Arg1:T170 Arg2:T103
 T171	Entite 41037 41039	Il
 T172	Introducteur 41040 41049	s'est dit
 T173	Entite 41232 41237	Médor
-R99	Source Arg1:T105 Arg2:T173	
-R100	Introduction Arg1:T104 Arg2:T172	
+R99	Source Arg1:T173 Arg2:T105
+R100	Introduction Arg1:T172 Arg2:T104
 T174	Entite 40612 40614	il
 T175	Introducteur 40615 40624	s'est dit
 T176	Citation 40627 40671	« Attends, mon gaillard, nous allons rire. »
-R101	Introduction Arg1:T176 Arg2:T175	
-R102	Source Arg1:T176 Arg2:T174	
-R103	Source Arg1:T104 Arg2:T171	
+R101	Introduction Arg1:T175 Arg2:T176
+R102	Source Arg1:T174 Arg2:T176
+R103	Source Arg1:T171 Arg2:T104
 T177	Introducteur 41590 41599	demandait
-R104	Introduction Arg1:T106 Arg2:T177	
+R104	Introduction Arg1:T177 Arg2:T106
 T178	Entite 41556 41558	il
-R105	Source Arg1:T106 Arg2:T178	
+R105	Source Arg1:T178 Arg2:T106
 T107	Introducteur 41282 41286	dire
-R106	Introduction Arg1:T105 Arg2:T107	
+R106	Introduction Arg1:T107 Arg2:T105
 T179	Entite 43394 43396	il
 T180	Entite 42878 42880	il
 T181	Introducteur 42881 42890	murmurait
-R107	Introduction Arg1:T108 Arg2:T181	
-R108	Source Arg1:T108 Arg2:T180	
+R107	Introduction Arg1:T181 Arg2:T108
+R108	Source Arg1:T180 Arg2:T108
 T182	Introducteur 43397 43404	murmura
-R109	Introduction Arg1:T109 Arg2:T182	
-R110	Source Arg1:T109 Arg2:T179	
+R109	Introduction Arg1:T182 Arg2:T109
+R110	Source Arg1:T179 Arg2:T109
 T183	Entite 45759 45761	Il
 T184	Introducteur 45762 45768	disait
-R111	Introduction Arg1:T116 Arg2:T184	
-R112	Source Arg1:T116 Arg2:T183	
+R111	Introduction Arg1:T184 Arg2:T116
+R112	Source Arg1:T183 Arg2:T116
 T185	Entite 45877 45892	M. de Courville
 T186	Introducteur 45965 45972	demanda
-R113	Introduction Arg1:T117 Arg2:T186	
-R114	Source Arg1:T117 Arg2:T185	
+R113	Introduction Arg1:T186 Arg2:T117
+R114	Source Arg1:T185 Arg2:T117
 T187	Entite 46024 46032	Le baron
-R115	Source Arg1:T118 Arg2:T187	
+R115	Source Arg1:T187 Arg2:T118
 T188	Entite 46168 46170	il
 T189	Introducteur 46171 46178	murmura
-R116	Introduction Arg1:T119 Arg2:T189	
-R117	Source Arg1:T119 Arg2:T188	
+R116	Introduction Arg1:T189 Arg2:T119
+R117	Source Arg1:T188 Arg2:T119
 T190	Introducteur 46622 46630	répondit
-R118	Introduction Arg1:T121 Arg2:T190	
+R118	Introduction Arg1:T190 Arg2:T121
 T191	Entite 46295 46297	il
-R119	Source Arg1:T120 Arg2:T191	
+R119	Source Arg1:T191 Arg2:T120
 T192	Entite 46569 46584	M. de Courville
-R120	Source Arg1:T121 Arg2:T192	
+R120	Source Arg1:T192 Arg2:T121
 T193	Entite 46721 46729	le baron
-R121	Source Arg1:T122 Arg2:T193	
+R121	Source Arg1:T193 Arg2:T122
 T194	Introducteur 46754 46764	balbutiant
-R122	Introduction Arg1:T122 Arg2:T194	
+R122	Introduction Arg1:T194 Arg2:T122
 T195	Entite 47610 47612	il
-R123	Source Arg1:T123 Arg2:T195	
+R123	Source Arg1:T195 Arg2:T123
 T196	Entite 47752 47754	il
-R124	Source Arg1:T124 Arg2:T196	
+R124	Source Arg1:T196 Arg2:T124
 T197	Citation 47935 47970	« Comment ? manquée ? Et pourquoi ?
 T198	Entite 47895 47910	M. de Courville
-R125	Source Arg1:T197 Arg2:T198	
+R125	Source Arg1:T198 Arg2:T197
 T199	Citation 47971 48295	--Oh ! ne m'interrogez pas, je vous prie, ce serait trop pénible à dire, mais soyez sûr que j'agis en... en honnête homme. Je ne peux pas... . Je n'ai pas le droit, vous entendez, pas le droit, d'épouser cette dame. J'attendrai qu'elle soit partie pour revenir chez vous ; il me serait trop douloureux de la revoir. Adieu. »
 T200	Entite 48771 48786	M. de Coutelier
 T201	Introducteur 48840 48843	dit
-R126	Source Arg1:T125 Arg2:T200	
-R127	Introduction Arg1:T125 Arg2:T201	
+R126	Source Arg1:T200 Arg2:T125
+R127	Introduction Arg1:T201 Arg2:T125
 T202	Citation 49260 49321	« Oui et non. Enfin, je n'aurais pas cru ce qui est arrivé. »
 T203	Entite 49228 49236	Le baron
-R128	Source Arg1:T202 Arg2:T203	
+R128	Source Arg1:T203 Arg2:T202
 T204	Entite 49322 49337	M. de Courville
 T205	Introducteur 49351 49357	reprit
-R129	Introduction Arg1:T129 Arg2:T205	
-R130	Source Arg1:T129 Arg2:T204	
+R129	Introduction Arg1:T205 Arg2:T129
+R130	Source Arg1:T204 Arg2:T129
 T206	Entite 49391 49406	M. de Coutelier
 T207	Introducteur 49483 49489	reprit
 T208	Entite 51301 51303	Il
-R131	Source Arg1:T130 Arg2:T208	
+R131	Source Arg1:T208 Arg2:T130
 T209	Introducteur 51346 51352	disant
-R132	Introduction Arg1:T130 Arg2:T209	
+R132	Introduction Arg1:T209 Arg2:T130
 T210	Entite 51616 51620	elle
 T211	Introducteur 51621 51629	répondit
-R133	Source Arg1:T131 Arg2:T210	
-R134	Introduction Arg1:T131 Arg2:T211	
+R133	Source Arg1:T210 Arg2:T131
+R134	Introduction Arg1:T211 Arg2:T131
 T212	Entite 51842 51846	elle
 T213	Introducteur 51847 51853	reprit
-R135	Introduction Arg1:T132 Arg2:T213	
-R136	Source Arg1:T132 Arg2:T212	
+R135	Introduction Arg1:T213 Arg2:T132
+R136	Source Arg1:T212 Arg2:T132
 T214	Citation 49505 50585;50586 50927;50928 51118;51119 51255	« Je vois bien que je vous ai blessé et je vais tout vous dire pour me faire excuser. Depuis vingt ans, mon ami, je ne vis que pour la chasse. Je n'aime que ça, vous le savez, je ne m'occupe que de ça. Aussi, au moment de contracter des devoirs envers cette dame, un scrupule, un scrupule de conscience m'est venu. Depuis le temps que j'ai perdu l'habitude de... de... de l'amour, enfin, je ne savais plus si je serais encore capable de... de... vous savez bien... . Songez donc ? voici maintenant seize ans exactement que... que... que... pour la dernière fois, vous comprenez. Dans ce pays-ci, ce n'est pas facile de... de... vous y êtes. Et puis j'avais autre chose à faire. J'aime mieux tirer un coup de fusil. Bref, au moment de m'engager devant le maire et le prêtre à... à... ce que vous savez, j'ai eu peur. Je me suis dit : Bigre, mais si... si... j'allais rater. Un honnête homme ne manque jamais à ses engagements ; et je prenais là un engagement sacré vis-à-vis de cette personne. Enfin, pour en avoir le coeur net, je me suis promis d'aller passer huit jours à Paris. « Au bout de huit jours, rien, mais rien. Et ce n'est pas faute d'avoir essayé. J'ai pris ce qu'il y avait de mieux dans tous les genres. Je vous assure qu'elles ont fait ce qu'elles ont pu... . Oui... certainement elles n'ont rien négligé... . Mais que voulez-vous, elles se retiraient toujours... bredouilles... bredouilles... bredouilles. « J'ai attendu alors quinze jours, trois semaines, espérant toujours. J'ai mangé dans les restaurants un tas de choses poivrées, qui m'ont perdu l'estomac, et... et... rien... toujours rien. « Vous comprenez que, dans ces circonstances, devant cette constatation, je ne pouvais que... que... que me retirer. Ce que j'ai fait. »
-R137	Source Arg1:T214 Arg2:T206
-R138	Introduction Arg1:T214 Arg2:T207
+R137	Source Arg1:T206 Arg2:T214
+R138	Introduction Arg1:T207 Arg2:T214
 T215	Citation 13992 14023	« C'est le métier qui veut ça »
 T216	Introducteur 14025 14036	se disaient
 T217	Entite 14037 14042	elles
-R139	Source Arg1:T215 Arg2:T217	
-R140	Introduction Arg1:T215 Arg2:T216	
+R139	Source Arg1:T217 Arg2:T215
+R140	Introduction Arg1:T216 Arg2:T215
 T218	Citation 19225 19242	« À nos dames ! »
 T219	Entite 19216 19218	il
-R142	Source Arg1:T218 Arg2:T219	
+R142	Source Arg1:T219 Arg2:T218
 T221	Citation 29358 29366	« Ah ! »
 T222	Entite 29331 29333	Je
 T223	Introducteur 29334 29341	poussai
-R143	Introduction Arg1:T221 Arg2:T223	
-R144	Source Arg1:T221 Arg2:T222	
+R143	Introduction Arg1:T223 Arg2:T221
+R144	Source Arg1:T222 Arg2:T221
 T11	Citation 7523 7552	« Tu ne verras pas cela toi »
 T55	Introducteur 7554 7557	dit
 T224	Entite 7558 7560	il
-R6	Source Arg1:T11 Arg2:T224	
-R31	Introduction Arg1:T11 Arg2:T55	
+R6	Source Arg1:T224 Arg2:T11
+R31	Introduction Arg1:T55 Arg2:T11

@@ -1,18 +1,18 @@
 T1	Citation 668 779	« Quand je sais comment on aime dans un pays, je connais ce pays à le décrire, bien que ne l'ayant jamais vu. »
 T2	Entite 627 629	Tu
-R1	Source Arg1:T1 Arg2:T2
+R1	Source Arg1:T2 Arg2:T1
 T3	Introducteur 632 640	as écrit
-R2	Introduction Arg1:T1 Arg2:T3
+R2	Introduction Arg1:T3 Arg2:T1
 T5	Citation 7471 7489	« Allez-vous-en. »
 T6	Entite 7456 7460	Elle
-R3	Source Arg1:T5 Arg2:T6
+R3	Source Arg1:T6 Arg2:T5
 T7	Introducteur 7464 7468	cria
-R4	Introduction Arg1:T5 Arg2:T7
+R4	Introduction Arg1:T7 Arg2:T5
 T8	Citation 7608 7653	« Ça n'est pas bien de rester là, monsieur. »
 T9	Entite 7594 7598	Elle
-R5	Source Arg1:T8 Arg2:T9
+R5	Source Arg1:T9 Arg2:T8
 T10	Introducteur 7599 7605	ajouta
-R6	Introduction Arg1:T8 Arg2:T10
+R6	Introduction Arg1:T10 Arg2:T8
 T11	Citation 8003 8083	« Vous allez me faire attraper mal. Je ne partirai pas tant que vous serez là. »
 T16	Citation 13434 13531	« Si, je l'aime beaucoup, au contraire, beaucoup, beaucoup, mais pas tant que toi, mon coeurrr, »
 T19	Citation 14542 14587	-- « Te voilà chez nous, te voilà chez toi. »
@@ -28,9 +28,9 @@ T30	Citation 21056 21072	« Comment ça ? »
 T31	Citation 23814 23882	« C'est moi, d'ailleurs, qui ai eu l'idée de vous envoyer chercher »
 T33	Citation 25081 25160	« Mettez donc une bûche au feu, mon ami, vous voyez bien qu'il va s'éteindre. »
 T34	Entite 25065 25071	Berthe
-R7	Source Arg1:T33 Arg2:T34
+R7	Source Arg1:T34 Arg2:T33
 T35	Introducteur 25075 25078	dit
-R8	Introduction Arg1:T33 Arg2:T35
+R8	Introduction Arg1:T35 Arg2:T33
 T36	Citation 25705 25779	« Qu'est-ce que vous feriez si une femme vous disait qu'elle vous aime ? »
 T37	Citation 25811 25882	« Ma foi, le cas n'est pas prévu, et puis, ça dépendrait de la femme. »
 T38	Citation 26376 26845	« Non, vous n'y entendez rien. Pour que l'amour fût bon, il faudrait, il me semble, qu'il bouleversât le coeur, tordit les nerfs et ravageât la tête ; il faudrait qu'il fût--comment dirai-je ? --dangereux, terrible même, presque criminel, presque sacrilège, qu'il fût une sorte de trahison ; je veux dire qu'il a besoin de rompre des obstacles sacrés, des lois, des liens fraternels ; quand l'amour est tranquille, facile, sans périls, légal, est-ce bien de l'amour ? »
@@ -38,31 +38,31 @@ T39	Citation 27270 27291	« Je vous fais peur »
 T40	Citation 27385 27448	« Si je vous disais, moi, que je vous aime, que feriez-vous ? »
 T41	Citation 28912 28973	« Je suis libre, l'affaire est finie deux heures plus tôt ! »
 T42	Entite 28899 28901	Il
-R9	Source Arg1:T41 Arg2:T42
+R9	Source Arg1:T42 Arg2:T41
 T43	Introducteur 28902 28909	s'écria
-R10	Introduction Arg1:T41 Arg2:T43
+R10	Introduction Arg1:T43 Arg2:T41
 T44	Citation 31406 31638	« Quel bonheur ! vous me rapporterez quelque chose ; presque rien, un simple souvenir, mais un souvenir choisi pour moi. Il faut découvrir ce qui me fera le plus de plaisir, entendez-vous ? Je verrai si vous avez de l'imagination. »
 T45	Citation 31687 31821	« Je vous défends d'y mettre plus de vingt francs. Je veux être touchée par l'intention, par l'invention, monsieur, non par le prix. »
 T46	Entite 31639 31643	Elle
-R11	Source Arg1:T45 Arg2:T46
+R11	Source Arg1:T46 Arg2:T45
 T47	Introducteur 31678 31684	ajouta
-R12	Introduction Arg1:T45 Arg2:T47
+R12	Introduction Arg1:T47 Arg2:T45
 T48	Citation 31893 32012	« Si cela ne vous coûte rien, comme argent, et si c'est bien ingénieux, bien délicat, je vous... je vous embrasserai. »
 T49	Entite 31854 31858	elle
-R13	Source Arg1:T48 Arg2:T49
+R13	Source Arg1:T49 Arg2:T48
 T50	Introducteur 31859 31862	dit
-R14	Introduction Arg1:T48 Arg2:T50
+R14	Introduction Arg1:T50 Arg2:T48
 T51	Citation 32843 32891	« bétit morceau d'un os des once mille fierges »
 T52	Citation 33870 33910	« Qu'est-ce que vous m'avez rapporté ? »
 T53	Citation 35758 35782	« Comme je vous aime ! »
 T54	Citation 38489 38536	« Cette pauvre Gilberte ne se mariera jamais. »
 T56	Introducteur 38481 38486	a dit
-R16	Introduction Arg1:T54 Arg2:T56
+R16	Introduction Arg1:T56 Arg2:T54
 T57	Citation 40479 40521	« A monsieur, monsieur l'abbé d'Argencé. »
 T58	Entite 40399 40412	Une main fine
-R17	Source Arg1:T57 Arg2:T58
+R17	Source Arg1:T58 Arg2:T57
 T59	Introducteur 40413 40424	avait tracé
-R18	Introduction Arg1:T57 Arg2:T59
+R18	Introduction Arg1:T59 Arg2:T57
 T60	Entite 7991 7995	elle
 T61	Introducteur 7996 8000	cria
 T62	Citation 11789 11798;11810 11843	« Il faut que tu viennes dormir chez moi. » 	
@@ -96,33 +96,33 @@ T90	Entite 14094 14096	Je
 T91	Introducteur 14097 14102	criai
 T92	Citation 14104 14114	-- « Oui »
 T4	Entite 11844 11846	Je
-R15	Source Arg1:T66 Arg2:T4	
-R19	Source Arg1:T62 Arg2:T65	
-R20	Introduction Arg1:T62 Arg2:T64	
+R15	Source Arg1:T4 Arg2:T66
+R19	Source Arg1:T65 Arg2:T62
+R20	Introduction Arg1:T64 Arg2:T62
 T12	Entite 12025 12029	Elle
 T13	Introducteur 12030 12036	reprit
-R21	Introduction Arg1:T69 Arg2:T13	
-R22	Source Arg1:T69 Arg2:T12	
+R21	Introduction Arg1:T13 Arg2:T69
+R22	Source Arg1:T12 Arg2:T69
 T55	Entite 12311 12315	Elle
-R23	Source Arg1:T70 Arg2:T55	
-R24	Introduction Arg1:T73 Arg2:T72	
-R25	Source Arg1:T73 Arg2:T71	
-R26	Introduction Arg1:T76 Arg2:T75	
-R27	Source Arg1:T76 Arg2:T74	
-R28	Introduction Arg1:T79 Arg2:T78	
-R29	Source Arg1:T79 Arg2:T77	
-R30	Source Arg1:T81 Arg2:T80	
-R31	Source Arg1:T16 Arg2:T83	
-R32	Introduction Arg1:T86 Arg2:T85	
-R33	Source Arg1:T86 Arg2:T84	
-R34	Introduction Arg1:T89 Arg2:T88	
-R35	Source Arg1:T89 Arg2:T87
+R23	Source Arg1:T55 Arg2:T70
+R24	Introduction Arg1:T72 Arg2:T73
+R25	Source Arg1:T71 Arg2:T73
+R26	Introduction Arg1:T75 Arg2:T76
+R27	Source Arg1:T74 Arg2:T76
+R28	Introduction Arg1:T78 Arg2:T79
+R29	Source Arg1:T77 Arg2:T79
+R30	Source Arg1:T80 Arg2:T81
+R31	Source Arg1:T83 Arg2:T16
+R32	Introduction Arg1:T85 Arg2:T86
+R33	Source Arg1:T84 Arg2:T86
+R34	Introduction Arg1:T88 Arg2:T89
+R35	Source Arg1:T87 Arg2:T89
 T93	Entite 14518 14522	elle
 T94	Introducteur 14532 14540	répétant	
-R36	Introduction Arg1:T92 Arg2:T91	
-R37	Source Arg1:T92 Arg2:T90	
-R38	Introduction Arg1:T19 Arg2:T94	
-R39	Source Arg1:T19 Arg2:T93	
+R36	Introduction Arg1:T91 Arg2:T92
+R37	Source Arg1:T90 Arg2:T92
+R38	Introduction Arg1:T94 Arg2:T19
+R39	Source Arg1:T93 Arg2:T19
 T95	Entite 15169 15191	une voix forte d'homme
 T96	Introducteur 15192 15196	cria
 T97	Entite 15225 15229	Elle
@@ -152,42 +152,42 @@ T121	Introducteur 18357 18364	murmura
 T122	Citation 18366 18409	-- « Alorrrs, il ne se serait pas relevé. »
 T123	Entite 18410 18412	Je
 T124	Citation 18435 18452	« Pourquoi ça ? »
-R40	Introduction Arg1:T20 Arg2:T96	
-R41	Introduction Arg1:T11 Arg2:T61	
-R42	Source Arg1:T11 Arg2:T60	
-R43	Source Arg1:T22 Arg2:T98	
-R44	Source Arg1:T20 Arg2:T95	
-R45	Source Arg1:T21 Arg2:T97	
-R46	Source Arg1:T23 Arg2:T99	
-R47	Introduction Arg1:T23 Arg2:T100	
-R48	Introduction Arg1:T24 Arg2:T103	
-R49	Source Arg1:T24 Arg2:T102	
-R50	Introduction Arg1:T25 Arg2:T104	
-R51	Source Arg1:T25 Arg2:T105	
+R40	Introduction Arg1:T96 Arg2:T20
+R41	Introduction Arg1:T61 Arg2:T11
+R42	Source Arg1:T60 Arg2:T11
+R43	Source Arg1:T98 Arg2:T22
+R44	Source Arg1:T95 Arg2:T20
+R45	Source Arg1:T97 Arg2:T21
+R46	Source Arg1:T99 Arg2:T23
+R47	Introduction Arg1:T100 Arg2:T23
+R48	Introduction Arg1:T103 Arg2:T24
+R49	Source Arg1:T102 Arg2:T24
+R50	Introduction Arg1:T104 Arg2:T25
+R51	Source Arg1:T105 Arg2:T25
 T14	Entite 16680 16682	il
-R52	Source Arg1:T26 Arg2:T14	
-R53	Source Arg1:T106 Arg2:T108	
-R54	Introduction Arg1:T106 Arg2:T107	
+R52	Source Arg1:T14 Arg2:T26
+R53	Source Arg1:T108 Arg2:T106
+R54	Introduction Arg1:T107 Arg2:T106
 T15	Citation 17793 17812	-- « Pas de danger.
-R55	Introduction Arg1:T15 Arg2:T110	
-R56	Source Arg1:T15 Arg2:T109	
+R55	Introduction Arg1:T110 Arg2:T15
+R56	Source Arg1:T109 Arg2:T15
 T17	Citation 17813 17915	--Comment ! pas de danger. Elle est raide celle-là ! Il lui suffisait de se baisser pour me trouver. »
-R57	Source Arg1:T113 Arg2:T112	
-R58	Introduction Arg1:T116 Arg2:T115	
-R59	Source Arg1:T116 Arg2:T114	
-R60	Introduction Arg1:T119 Arg2:T118	
-R61	Source Arg1:T119 Arg2:T117	
-R62	Introduction Arg1:T122 Arg2:T121	
-R63	Source Arg1:T122 Arg2:T120	
-R64	Source Arg1:T124 Arg2:T123	
+R57	Source Arg1:T112 Arg2:T113
+R58	Introduction Arg1:T115 Arg2:T116
+R59	Source Arg1:T114 Arg2:T116
+R60	Introduction Arg1:T118 Arg2:T119
+R61	Source Arg1:T117 Arg2:T119
+R62	Introduction Arg1:T121 Arg2:T122
+R63	Source Arg1:T120 Arg2:T122
+R64	Source Arg1:T123 Arg2:T124
 T18	Introducteur 20741 20744	dit
 T27	Entite 20745 20747	il
-R65	Introduction Arg1:T29 Arg2:T18	
-R66	Source Arg1:T29 Arg2:T27	
+R65	Introduction Arg1:T18 Arg2:T29
+R66	Source Arg1:T27 Arg2:T29
 T28	Entite 21041 21045	elle
 T63	Introducteur 21046 21053	demanda
-R67	Introduction Arg1:T30 Arg2:T63	
-R68	Source Arg1:T30 Arg2:T28
+R67	Introduction Arg1:T63 Arg2:T30
+R68	Source Arg1:T28 Arg2:T30
 T125	Introducteur 21073 21075	Il
 T126	Introducteur 21076 21082	reprit
 T127	Introducteur 23569 23572	dit
@@ -213,25 +213,25 @@ T150	Entite 26275 26279	Elle
 T151	Introducteur 27293 27296	dit
 T152	Entite 27297 27301	elle	
 T111	Citation 25541 25573;25586 25622	« Il fait trop chaud, maintenant allons donc là-bas, sur le canapé. »
-R69	Introduction Arg1:T37 Arg2:T140	
-R70	Source Arg1:T37 Arg2:T139	
-R71	Source Arg1:T143 Arg2:T141	
-R72	Introduction Arg1:T143 Arg2:T142	
-R73	Source Arg1:T146 Arg2:T144	
-R74	Introduction Arg1:T146 Arg2:T145	
-R75	Introduction Arg1:T39 Arg2:T151	
-R76	Source Arg1:T39 Arg2:T152	
-R77	Source Arg1:T38 Arg2:T150	
+R69	Introduction Arg1:T140 Arg2:T37
+R70	Source Arg1:T139 Arg2:T37
+R71	Source Arg1:T141 Arg2:T143
+R72	Introduction Arg1:T142 Arg2:T143
+R73	Source Arg1:T144 Arg2:T146
+R74	Introduction Arg1:T145 Arg2:T146
+R75	Introduction Arg1:T151 Arg2:T39
+R76	Source Arg1:T152 Arg2:T39
+R77	Source Arg1:T150 Arg2:T38
 T134	Entite 27317 27321	Elle
-R78	Source Arg1:T40 Arg2:T134	
+R78	Source Arg1:T134 Arg2:T40
 T135	Entite 31362 31366	elle
-R79	Source Arg1:T44 Arg2:T135	
+R79	Source Arg1:T135 Arg2:T44
 T136	Introducteur 31396 31403	s'écria
-R80	Introduction Arg1:T44 Arg2:T136	
+R80	Introduction Arg1:T136 Arg2:T44
 T153	Entite 32783 32790	l'homme
-R81	Source Arg1:T51 Arg2:T153	
+R81	Source Arg1:T153 Arg2:T51
 T154	Entite 33820 33824	elle
-R82	Source Arg1:T52 Arg2:T154
+R82	Source Arg1:T154 Arg2:T52
 T155	Entite 34081 34085	Elle
 T156	Citation 34110 34146	« Une relique ! Oh ! une relique ! »
 T157	Citation 34326 34373	« Êtes-vous bien sûr qu'elle soit authentique ?
@@ -250,23 +250,23 @@ T169	Entite 35743 35747	Elle
 T170	Introducteur 35748 35755	murmura
 T173	Entite 38433 38446	Mme d'Arville	
 T171	Citation 23558 23567;23577 23789	« Mon bon il va falloir que je m'absente, en sortant de table, pour une affaire. Je ne serai pas de retour avant onze heures ; mais à onze heures précises, je rentrerai. J'ai compté sur toi pour tenir compagnie à Berthe. »
-R83	Introduction Arg1:T171 Arg2:T127	
-R84	Source Arg1:T171 Arg2:T128	
-R85	Introduction Arg1:T31 Arg2:T130	
-R86	Source Arg1:T31 Arg2:T131	
-R87	Source Arg1:T133 Arg2:T132	
-R88	Introduction Arg1:T111 Arg2:T137	
-R89	Source Arg1:T111 Arg2:T138	
-R90	Introduction Arg1:T147 Arg2:T148	
-R91	Source Arg1:T147 Arg2:T149	
-R92	Source Arg1:T156 Arg2:T155	
-R93	Introduction Arg1:T162 Arg2:T161	
-R94	Source Arg1:T162 Arg2:T160	
-R95	Source Arg1:T164 Arg2:T163
-R96	Source Arg1:T168 Arg2:T166	
-R97	Introduction Arg1:T168 Arg2:T167	
-R98	Introduction Arg1:T53 Arg2:T170	
-R99	Source Arg1:T53 Arg2:T169	
-R100	Source Arg1:T54 Arg2:T173	
+R83	Introduction Arg1:T127 Arg2:T171
+R84	Source Arg1:T128 Arg2:T171
+R85	Introduction Arg1:T130 Arg2:T31
+R86	Source Arg1:T131 Arg2:T31
+R87	Source Arg1:T132 Arg2:T133
+R88	Introduction Arg1:T137 Arg2:T111
+R89	Source Arg1:T138 Arg2:T111
+R90	Introduction Arg1:T148 Arg2:T147
+R91	Source Arg1:T149 Arg2:T147
+R92	Source Arg1:T155 Arg2:T156
+R93	Introduction Arg1:T161 Arg2:T162
+R94	Source Arg1:T160 Arg2:T162
+R95	Source Arg1:T163 Arg2:T164
+R96	Source Arg1:T166 Arg2:T168
+R97	Introduction Arg1:T167 Arg2:T168
+R98	Introduction Arg1:T170 Arg2:T53
+R99	Source Arg1:T169 Arg2:T53
+R100	Source Arg1:T173 Arg2:T54
 T32	Entite 11955 11957	Je
-R101	Source Arg1:T68 Arg2:T32	
+R101	Source Arg1:T32 Arg2:T68

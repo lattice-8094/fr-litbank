@@ -4,12 +4,12 @@ T3	Citation 16517 16654	« Au frais matin les coqs ont chanté sa naissance, et,
 T4	Citation 35991 36021	« Oh ! cette petite gnangnan »
 T5	Citation 43758 43855	« Elles ne doivent pas rire pendant la leçon, il faut être sévère, il faut vous faire craindre. »
 T6	Entite 43709 43721	Mlle Charmes
-R1	Source Arg1:T5 Arg2:T6
+R1	Source Arg1:T6 Arg2:T5
 T7	Introducteur 43748 43755	gronder
-R2	Introduction Arg1:T5 Arg2:T7
+R2	Introduction Arg1:T7 Arg2:T5
 T9	Citation 57900 57933;57947 57974	« quand on connaît bien le passé, on dirige mieux le présent.
-R3	Source Arg1:T9 Arg2:T121
-R4	Introduction Arg1:T9 Arg2:T120
+R3	Source Arg1:T121 Arg2:T9
+R4	Introduction Arg1:T120 Arg2:T9
 T12	Citation 3133 3168	— Tu es donc toute seule avec lui ?
 T13	Citation 3217 3222;3239 3280	— Oui il joue avec moi et il n'est pas méchant.
 T14	Citation 3282 3322;3342 3409	— J'ai bien vu qu'il n'était pas méchant et j'ai sauté par-dessus la grille pour venir jouer avec vous deux.
@@ -88,258 +88,258 @@ T86	Citation 53942 54036	— Comme c'est bête de ne plus être le petit garçon
 T87	Citation 54613 54641	— Nous irons le surprendre !
 T89	Entite 14473 14477	elle
 T90	Introducteur 14478 14481	dit
-R6	Introduction Arg1:T17 Arg2:T90	
-R7	Source Arg1:T17 Arg2:T89	
+R6	Introduction Arg1:T90 Arg2:T17
+R7	Source Arg1:T89 Arg2:T17
 T91	Entite 20203 20207	Noël
 T92	Introducteur 20208 20214	ajouta
-R8	Introduction Arg1:T30 Arg2:T92	
-R9	Source Arg1:T30 Arg2:T91	
+R8	Introduction Arg1:T92 Arg2:T30
+R9	Source Arg1:T91 Arg2:T30
 T93	Introducteur 3224 3227	dit
 T94	Entite 3228 3237	la petite
 T95	Introducteur 3169 3176	demanda
 T96	Entite 3177 3192	le jeune garçon
-R10	Introduction Arg1:T12 Arg2:T95	
-R11	Source Arg1:T12 Arg2:T96	
+R10	Introduction Arg1:T95 Arg2:T12
+R11	Source Arg1:T96 Arg2:T12
 T97	Introducteur 3324 3330	reprit
 T98	Entite 3331 3340	le garçon
-R12	Source Arg1:T14 Arg2:T98	
-R13	Introduction Arg1:T14 Arg2:T97	
+R12	Source Arg1:T98 Arg2:T14
+R13	Introduction Arg1:T97 Arg2:T14
 T99	Entite 4412 4416	elle
 T100	Introducteur 4417 4423	ajouta
-R14	Introduction Arg1:T15 Arg2:T100	
-R15	Source Arg1:T15 Arg2:T99	
+R14	Introduction Arg1:T100 Arg2:T15
+R15	Source Arg1:T99 Arg2:T15
 T101	Entite 8601 8605	Noël
 T102	Introducteur 8629 8633	dire
-R5	Source Arg1:T1 Arg2:T101	
-R16	Introduction Arg1:T1 Arg2:T102	
+R5	Source Arg1:T101 Arg2:T1
+R16	Introduction Arg1:T102 Arg2:T1
 T88	Introducteur 9444 9450	disait
 T103	Entite 9451 9453	il
-R17	Source Arg1:T16 Arg2:T103	
-R18	Introduction Arg1:T16 Arg2:T88	
+R17	Source Arg1:T103 Arg2:T16
+R18	Introduction Arg1:T88 Arg2:T16
 T104	Introducteur 11766 11774	demander
 T105	Entite 11747 11750	lui
-R19	Introduction Arg1:T2 Arg2:T104	
-R20	Source Arg1:T2 Arg2:T105	
+R19	Introduction Arg1:T104 Arg2:T2
+R20	Source Arg1:T105 Arg2:T2
 T106	Entite 14589 14597	le vieux
 T107	Introducteur 14585 14588	dit
 T108	Entite 14679 14681	il
 T109	Introducteur 14682 14688	reprit
-R21	Introduction Arg1:T19 Arg2:T109	
-R22	Source Arg1:T19 Arg2:T108	
-R23	Introduction Arg1:T18 Arg2:T107	
-R24	Source Arg1:T18 Arg2:T106	
+R21	Introduction Arg1:T109 Arg2:T19
+R22	Source Arg1:T108 Arg2:T19
+R23	Introduction Arg1:T107 Arg2:T18
+R24	Source Arg1:T106 Arg2:T18
 T110	Entite 14935 14937	il
 T111	Introducteur 14938 14944	ajouta
-R25	Introduction Arg1:T20 Arg2:T111	
-R26	Source Arg1:T20 Arg2:T110	
+R25	Introduction Arg1:T111 Arg2:T20
+R26	Source Arg1:T110 Arg2:T20
 T112	Entite 15335 15347	Mlle Charmes
-R27	Source Arg1:T21 Arg2:T112	
+R27	Source Arg1:T112 Arg2:T21
 T113	Entite 15523 15535	la maîtresse
 T114	Introducteur 15557 15560	dit
-R28	Source Arg1:T22 Arg2:T113	
-R29	Introduction Arg1:T22 Arg2:T114	
+R28	Source Arg1:T113 Arg2:T22
+R29	Introduction Arg1:T114 Arg2:T22
 T115	Entite 16231 16243	la maîtresse
-R30	Source Arg1:T23 Arg2:T115	
+R30	Source Arg1:T115 Arg2:T23
 T116	Entite 16454 16494	la voix triste et dure de son grand-père
-R31	Source Arg1:T3 Arg2:T116	
+R31	Source Arg1:T116 Arg2:T3
 T117	Introducteur 16495 16503	redisait
-R32	Introduction Arg1:T3 Arg2:T117	
+R32	Introduction Arg1:T117 Arg2:T3
 T118	Entite 17509 17514	Douce
-R33	Source Arg1:T24 Arg2:T118	
+R33	Source Arg1:T118 Arg2:T24
 T119	Entite 18188 18192	elle
 T120	Introducteur 57934 57940	disait
 T121	Entite 57941 57945	elle
 T122	Entite 53687 53689	il
 T123	Introducteur 53690 53693	dit
-R34	Source Arg1:T85 Arg2:T122	
+R34	Source Arg1:T122 Arg2:T85
 T124	Entite 53923 53927	elle
 T125	Introducteur 53935 53938	dit
-R35	Source Arg1:T86 Arg2:T124	
+R35	Source Arg1:T124 Arg2:T86
 T10	Entite 54646 54659	mère Clarisse
 T11	Introducteur 54642 54645	dit
-R36	Introduction Arg1:T87 Arg2:T11	
-R37	Source Arg1:T87 Arg2:T10	
+R36	Introduction Arg1:T11 Arg2:T87
+R37	Source Arg1:T10 Arg2:T87
 T126	Entite 52735 52739	Noël
 T127	Introducteur 52740 52746	ajoute
-R38	Introduction Arg1:T84 Arg2:T127	
-R39	Source Arg1:T84 Arg2:T126	
+R38	Introduction Arg1:T127 Arg2:T84
+R39	Source Arg1:T126 Arg2:T84
 T128	Entite 19634 19639	Douce
 T129	Introducteur 19644 19647	dit
-R40	Introduction Arg1:T28 Arg2:T129	
-R41	Source Arg1:T28 Arg2:T128	
+R40	Introduction Arg1:T129 Arg2:T28
+R41	Source Arg1:T128 Arg2:T28
 T130	Entite 19873 19877	Noël
-R42	Source Arg1:T29 Arg2:T130	
+R42	Source Arg1:T130 Arg2:T29
 T131	Introducteur 20854 20860	disait
 T132	Entite 20861 20863	il
-R43	Source Arg1:T31 Arg2:T132	
-R44	Introduction Arg1:T31 Arg2:T131	
+R43	Source Arg1:T132 Arg2:T31
+R44	Introduction Arg1:T131 Arg2:T31
 T133	Introducteur 21564 21571	demanda
 T134	Entite 21572 21581	le garçon
-R45	Introduction Arg1:T32 Arg2:T133	
-R46	Source Arg1:T32 Arg2:T134	
+R45	Introduction Arg1:T133 Arg2:T32
+R46	Source Arg1:T134 Arg2:T32
 T135	Citation 21854 21902	« Viens ! Allons ! Tu n'as pas peur des rats ? »
 T136	Entite 21828 21830	il
-R47	Source Arg1:T135 Arg2:T136	
+R47	Source Arg1:T136 Arg2:T135
 T137	Introducteur 23109 23112	dit
 T138	Entite 23113 23117	Noël
-R48	Introduction Arg1:T33 Arg2:T137	
-R49	Source Arg1:T33 Arg2:T138	
+R48	Introduction Arg1:T137 Arg2:T33
+R49	Source Arg1:T138 Arg2:T33
 T139	Entite 23120 23122	Il
-R50	Source Arg1:T34 Arg2:T139	
+R50	Source Arg1:T139 Arg2:T34
 T140	Entite 24232 24255	La voix joyeuse de Noël
 T141	Introducteur 24256 24262	éclata
-R51	Introduction Arg1:T35 Arg2:T141	
-R52	Source Arg1:T35 Arg2:T140	
+R51	Introduction Arg1:T141 Arg2:T35
+R52	Source Arg1:T140 Arg2:T35
 T142	Entite 25307 25311	Noël
-R53	Source Arg1:T36 Arg2:T142	
+R53	Source Arg1:T142 Arg2:T36
 T143	Introducteur 25706 25712	disait
-R54	Introduction Arg1:T37 Arg2:T143	
+R54	Introduction Arg1:T143 Arg2:T37
 T144	Entite 25713 25717	Noël
-R55	Source Arg1:T37 Arg2:T144	
+R55	Source Arg1:T144 Arg2:T37
 T145	Introducteur 26285 26292	demanda
 T146	Entite 26295 26297	il
-R56	Source Arg1:T38 Arg2:T146	
+R56	Source Arg1:T146 Arg2:T38
 T147	Introducteur 26336 26339	fit
 T148	Entite 26350 26357	le père
-R57	Introduction Arg1:T40 Arg2:T147	
-R58	Source Arg1:T40 Arg2:T148	
+R57	Introduction Arg1:T147 Arg2:T40
+R58	Source Arg1:T148 Arg2:T40
 T149	Entite 26441 26443	Il
-R59	Source Arg1:T41 Arg2:T149	
+R59	Source Arg1:T149 Arg2:T41
 T150	Entite 26810 26819	le garçon
-R60	Source Arg1:T44 Arg2:T150	
+R60	Source Arg1:T150 Arg2:T44
 T151	Entite 27400 27415	le père de Noël
-R61	Source Arg1:T45 Arg2:T151	
+R61	Source Arg1:T151 Arg2:T45
 T152	Entite 28845 28856	la méchante
 T153	Introducteur 28857 28863	disait
-R62	Source Arg1:T46 Arg2:T152	
-R63	Introduction Arg1:T46 Arg2:T153	
+R62	Source Arg1:T152 Arg2:T46
+R63	Introduction Arg1:T153 Arg2:T46
 T154	Entite 31066 31078	la maîtresse
 T155	Introducteur 31079 31085	appela
-R64	Introduction Arg1:T47 Arg2:T155	
-R65	Source Arg1:T47 Arg2:T154	
+R64	Introduction Arg1:T155 Arg2:T47
+R65	Source Arg1:T154 Arg2:T47
 T156	Entite 31453 31465	la maîtresse
-R66	Source Arg1:T49 Arg2:T156	
+R66	Source Arg1:T156 Arg2:T49
 T157	Introducteur 31533 31536	fit
 T158	Entite 31537 31542	Douce
-R67	Source Arg1:T50 Arg2:T158	
-R68	Introduction Arg1:T50 Arg2:T157	
+R67	Source Arg1:T158 Arg2:T50
+R68	Introduction Arg1:T157 Arg2:T50
 T159	Entite 31590 31606	Marguerite Dupré
 T160	Introducteur 31607 31612	parla
-R69	Introduction Arg1:T53 Arg2:T160	
-R70	Source Arg1:T53 Arg2:T159	
+R69	Introduction Arg1:T160 Arg2:T53
+R70	Source Arg1:T159 Arg2:T53
 T161	Entite 32271 32283	la maîtresse
 T162	Introducteur 32301 32304	dit
-R71	Source Arg1:T54 Arg2:T161	
+R71	Source Arg1:T161 Arg2:T54
 T163	Citation 28594 28621	« Tu sautes comme une oie »
 T164	Citation 37307 37344	« Papa sait que je joue avec Douce. »
 T165	Introducteur 37345 37351	disait
 T166	Entite 37352 37354	il
-R72	Source Arg1:T164 Arg2:T166	
-R73	Introduction Arg1:T164 Arg2:T165	
+R72	Source Arg1:T166 Arg2:T164
+R73	Introduction Arg1:T165 Arg2:T164
 T167	Introducteur 41962 41965	dit
 T168	Entite 41975 41982	le père
-R74	Source Arg1:T75 Arg2:T168	
-R75	Introduction Arg1:T75 Arg2:T167	
+R74	Source Arg1:T168 Arg2:T75
+R75	Introduction Arg1:T167 Arg2:T75
 T169	Introducteur 41709 41715	disait
 T170	Entite 41716 41720	elle
-R76	Source Arg1:T73 Arg2:T170	
-R77	Introduction Arg1:T73 Arg2:T169	
+R76	Source Arg1:T170 Arg2:T73
+R77	Introduction Arg1:T169 Arg2:T73
 T171	Entite 41812 41816	Noël
 T172	Introducteur 41821 41825	cria
-R78	Introduction Arg1:T74 Arg2:T172	
-R79	Source Arg1:T74 Arg2:T171	
+R78	Introduction Arg1:T172 Arg2:T74
+R79	Source Arg1:T171 Arg2:T74
 T173	Entite 51504 51506	il
 T174	Introducteur 51511 51514	dit
-R80	Introduction Arg1:T80 Arg2:T174	
-R81	Source Arg1:T80 Arg2:T173	
+R80	Introduction Arg1:T174 Arg2:T80
+R81	Source Arg1:T173 Arg2:T80
 T175	Introducteur 52219 52225	disait
 T176	Entite 52211 52213	il
-R82	Source Arg1:T81 Arg2:T176	
-R83	Introduction Arg1:T81 Arg2:T175	
+R82	Source Arg1:T176 Arg2:T81
+R83	Introduction Arg1:T175 Arg2:T81
 T177	Citation 51829 51941	« Ce jeune homme à la poitrine large, au beau visage orné d'une moustache soyeuse et fournie, est-ce là Noël ? »
 T178	Entite 51814 51818	elle
-R84	Source Arg1:T177 Arg2:T178	
+R84	Source Arg1:T178 Arg2:T177
 T179	Citation 51976 52103	« Cette jeune fille à l'allure distinguée, au buste plein, au visage délicat sous ses cheveux si nuancés, est-ce bien Douce ? »
 T180	Entite 51942 51946	Noël
-R85	Source Arg1:T179 Arg2:T180	
+R85	Source Arg1:T180 Arg2:T179
 T181	Entite 52633 52642	Églantine
 T182	Introducteur 52647 52652	parle
-R86	Introduction Arg1:T82 Arg2:T182	
-R87	Source Arg1:T82 Arg2:T181	
+R86	Introduction Arg1:T182 Arg2:T82
+R87	Source Arg1:T181 Arg2:T82
 T183	Entite 18333 18336	lui
-R88	Source Arg1:T26 Arg2:T183	
+R88	Source Arg1:T183 Arg2:T26
 T184	Entite 18462 18464	il
 T185	Introducteur 18465 18473	commanda
-R89	Introduction Arg1:T27 Arg2:T185	
-R90	Source Arg1:T27 Arg2:T184	
+R89	Introduction Arg1:T185 Arg2:T27
+R90	Source Arg1:T184 Arg2:T27
 T186	Entite 26181 26183	il
-R91	Source Arg1:T39 Arg2:T186	
+R91	Source Arg1:T186 Arg2:T39
 T187	Entite 33884 33888	elle
 T188	Introducteur 33889 33892	dit
-R92	Introduction Arg1:T55 Arg2:T188	
-R93	Source Arg1:T55 Arg2:T187	
+R92	Introduction Arg1:T188 Arg2:T55
+R93	Source Arg1:T187 Arg2:T55
 T189	Entite 34103 34115	La maîtresse
 T190	Introducteur 34149 34152	dit
-R94	Introduction Arg1:T56 Arg2:T190	
-R95	Source Arg1:T56 Arg2:T189	
+R94	Introduction Arg1:T190 Arg2:T56
+R95	Source Arg1:T189 Arg2:T56
 T191	Entite 34214 34219	Douce
 T192	Introducteur 34246 34254	répondit
-R96	Introduction Arg1:T57 Arg2:T192	
-R97	Source Arg1:T57 Arg2:T191	
+R96	Introduction Arg1:T192 Arg2:T57
+R97	Source Arg1:T191 Arg2:T57
 T193	Introducteur 34413 34423	interrogea
 T194	Entite 34277 34289	Mlle Charmes
-R98	Source Arg1:T58 Arg2:T194	
-R99	Introduction Arg1:T58 Arg2:T193	
+R98	Source Arg1:T194 Arg2:T58
+R99	Introduction Arg1:T193 Arg2:T58
 T195	Entite 35020 35024	Elle
 T196	Introducteur 35025 35028	dit
-R100	Introduction Arg1:T64 Arg2:T196	
-R101	Source Arg1:T64 Arg2:T195	
+R100	Introduction Arg1:T196 Arg2:T64
+R101	Source Arg1:T195 Arg2:T64
 T197	Entite 35201 35213	Mlle Charmes
 T198	Introducteur 35214 35217	dit
-R102	Introduction Arg1:T65 Arg2:T198	
-R103	Source Arg1:T65 Arg2:T197	
+R102	Introduction Arg1:T198 Arg2:T65
+R103	Source Arg1:T197 Arg2:T65
 T199	Entite 36022 36026	elle
 T200	Introducteur 36027 36030	dit
-R104	Introduction Arg1:T66 Arg2:T200	
-R105	Source Arg1:T66 Arg2:T199	
+R104	Introduction Arg1:T200 Arg2:T66
+R105	Source Arg1:T199 Arg2:T66
 T201	Entite 35849 35853	elle
-R106	Source Arg1:T4 Arg2:T201	
+R106	Source Arg1:T201 Arg2:T4
 T202	Entite 37456 37469	Mère Clarisse
 T203	Introducteur 37470 37482	recommandait
-R107	Introduction Arg1:T67 Arg2:T203	
-R108	Source Arg1:T67 Arg2:T202	
+R107	Introduction Arg1:T203 Arg2:T67
+R108	Source Arg1:T202 Arg2:T67
 T8	Introducteur 26487 26495	s'étonna
-R109	Introduction Arg1:T41 Arg2:T8	
+R109	Introduction Arg1:T8 Arg2:T41
 T204	Entite 26500 26509	le garçon
-R110	Source Arg1:T42 Arg2:T204	
+R110	Source Arg1:T204 Arg2:T42
 T205	Introducteur 16220 16227	l'ordre
-R111	Introduction Arg1:T23 Arg2:T205	
+R111	Introduction Arg1:T205 Arg2:T23
 T206	Entite 39636 39638	il
 T207	Introducteur 39661 39667	parler
-R112	Introduction Arg1:T68 Arg2:T207	
-R113	Source Arg1:T68 Arg2:T206	
+R112	Introduction Arg1:T207 Arg2:T68
+R113	Source Arg1:T206 Arg2:T68
 T208	Entite 40914 40927	mère Clarisse
-R114	Source Arg1:T69 Arg2:T208	
+R114	Source Arg1:T208 Arg2:T69
 T209	Entite 40818 40822	elle
-R115	Source Arg1:T70 Arg2:T209	
+R115	Source Arg1:T209 Arg2:T70
 T210	Entite 46833 46837	elle
 T211	Introducteur 46838 46847	a répondu
-R116	Source Arg1:T78 Arg2:T210	
-R117	Source Arg1:T78 Arg2:T211	
+R116	Source Arg1:T210 Arg2:T78
+R117	Source Arg1:T211 Arg2:T78
 T212	Entite 47132 47136	Elle
 T213	Introducteur 47139 47148	encourage
-R118	Introduction Arg1:T79 Arg2:T213	
-R119	Source Arg1:T79 Arg2:T212	
+R118	Introduction Arg1:T213 Arg2:T79
+R119	Source Arg1:T212 Arg2:T79
 T214	Entite 45223 45227	Noël
 T215	Introducteur 45228 45238	rapportait
-R120	Introduction Arg1:T77 Arg2:T215	
-R121	Source Arg1:T77 Arg2:T214	
+R120	Introduction Arg1:T215 Arg2:T77
+R121	Source Arg1:T214 Arg2:T77
 T216	Entite 44192 44196	Noël
 T217	Introducteur 44254 44260	disait
-R122	Introduction Arg1:T76 Arg2:T217	
-R123	Source Arg1:T76 Arg2:T216	
+R122	Introduction Arg1:T217 Arg2:T76
+R123	Source Arg1:T216 Arg2:T76
 T218	Introducteur 25284 25302	avait été rassurée
-R124	Introduction Arg1:T36 Arg2:T218	
+R124	Introduction Arg1:T218 Arg2:T36
 T219	Introducteur 18193 18196	dit
-R125	Introduction Arg1:T25 Arg2:T219	
-R126	Source Arg1:T25 Arg2:T119	
+R125	Introduction Arg1:T219 Arg2:T25
+R126	Source Arg1:T119 Arg2:T25

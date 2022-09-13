@@ -68,279 +68,279 @@ T72	Citation 58168 58176;58195 58248	— Tiens, te voilà encore Phèdre ! Reste
 T73	Citation 59443 59483	— Ah ! tu n'es pas digne de la liberté !
 T74	Introducteur 1136 1143	demanda
 T75	Entite 1144 1154	le laquais
-R1	Introduction Arg1:T2 Arg2:T74	
-R2	Source Arg1:T2 Arg2:T75	
+R1	Introduction Arg1:T74 Arg2:T2
+R2	Source Arg1:T75 Arg2:T2
 T76	Citation 9445 9454;9479 10530	— Hélas ! j'ai habité plusieurs jours cette même chambre, il y a douze ans, lorsque je suis arrivée ici avec ma bonne mère ! C'est dans cette triste ville que je l'ai vue dépérir de misère et que j'ai failli la perdre. J'ai couché dans ce même lit la nuit de mon départ ! Quelle nuit de douleur et d'espoir, de regret et d'attente ! Comme elle pleurait, ma pauvre amie, ma douce Pauline, en m'embrassant sous cette cheminée où je sommeillais tout à l'heure sans savoir où j'étais ! Comme je pleurais, moi aussi, en écrivant sur le mur son nom au-dessous du mien, avec la date de notre séparation ! Pauvre Pauline ! quelle existence a été la sienne depuis ce temps-là ? L'existence d'une vieille fille de province ! Cela doit être affreux ! Elle si aimante, si supérieure à tout ce qui l'entourait ! Et pourtant je voulais la fuir, je m'étais promis de ne la revoir jamais ! — Je vais peut-être lui apporter un peu de consolation, mettre un jour de bonheur dans sa triste vie ! — Si elle me repoussait pourtant ! Si elle était tombée sous l'empire des préjugés !
 T1	Introducteur 1243 1251	répondit
 T79	Entite 1252 1264	le postillon
-R3	Source Arg1:T3 Arg2:T79	
-R4	Introduction Arg1:T3 Arg2:T1	
+R3	Source Arg1:T79 Arg2:T3
+R4	Introduction Arg1:T1 Arg2:T3
 T80	Entite 3254 3266	la voyageuse
 T81	Introducteur 3248 3253	pensa
-R5	Introduction Arg1:T4 Arg2:T81	
-R6	Source Arg1:T4 Arg2:T80	
+R5	Introduction Arg1:T81 Arg2:T4
+R6	Source Arg1:T80 Arg2:T4
 T82	Entite 5333 5337	Elle
-R7	Source Arg1:T5 Arg2:T82	
+R7	Source Arg1:T82 Arg2:T5
 T83	Introducteur 5484 5496	en s'écriant
-R8	Introduction Arg1:T5 Arg2:T83	
+R8	Introduction Arg1:T83 Arg2:T5
 T84	Introducteur 5706 5713	s'écria
 T85	Entite 5714 5725	l'étrangère
-R9	Source Arg1:T6 Arg2:T85	
-R10	Introduction Arg1:T6 Arg2:T84	
+R9	Source Arg1:T85 Arg2:T6
+R10	Introduction Arg1:T84 Arg2:T6
 T86	Introducteur 5804 5807	dit
 T87	Entite 5808 5819	la servante
-R11	Source Arg1:T7 Arg2:T87	
-R12	Introduction Arg1:T7 Arg2:T86	
+R11	Source Arg1:T87 Arg2:T7
+R12	Introduction Arg1:T86 Arg2:T7
 T88	Introducteur 5850 5853	dit
 T89	Entite 5854 5865	l'étrangère
-R13	Introduction Arg1:T8 Arg2:T88	
-R14	Source Arg1:T8 Arg2:T89	
+R13	Introduction Arg1:T88 Arg2:T8
+R14	Source Arg1:T89 Arg2:T8
 T90	Introducteur 6064 6072	répondit
 T91	Entite 6073 6084	la servante
-R15	Source Arg1:T9 Arg2:T91	
-R16	Introduction Arg1:T9 Arg2:T90	
+R15	Source Arg1:T91 Arg2:T9
+R16	Introduction Arg1:T90 Arg2:T9
 T92	Introducteur 6378 6385	s'écria
 T93	Entite 6386 6398	la voyageuse
-R17	Introduction Arg1:T12 Arg2:T92	
-R18	Source Arg1:T12 Arg2:T93	
+R17	Introduction Arg1:T92 Arg2:T12
+R18	Source Arg1:T93 Arg2:T12
 T94	Introducteur 6556 6559	dit
 T95	Entite 6560 6564	elle
 T96	Introducteur 6732 6740	répondit
 T97	Entite 6741 6752	la servante
-R19	Source Arg1:T14 Arg2:T97	
-R20	Introduction Arg1:T14 Arg2:T96	
+R19	Source Arg1:T97 Arg2:T14
+R20	Introduction Arg1:T96 Arg2:T14
 T98	Introducteur 7251 7259	répétait
 T99	Entite 7260 7271	l'étrangère
-R21	Source Arg1:T17 Arg2:T99	
-R22	Introduction Arg1:T17 Arg2:T98	
+R21	Source Arg1:T99 Arg2:T17
+R22	Introduction Arg1:T98 Arg2:T17
 T100	Citation 7576 7596;7648 7707	Dites-moi, ma chère, connaissez-vous dans cette ville mademoiselle Pauline D … ?
 T101	Introducteur 7597 7603	ajouta
 T102	Entite 7606 7610	elle
-R23	Source Arg1:T100 Arg2:T102	
-R24	Introduction Arg1:T100 Arg2:T101	
+R23	Source Arg1:T102 Arg2:T100
+R24	Introduction Arg1:T101 Arg2:T100
 T103	Introducteur 7744 7752	répondit
 T104	Entite 7753 7761	la fille
-R25	Source Arg1:T18 Arg2:T104	
-R26	Introduction Arg1:T18 Arg2:T103	
+R25	Source Arg1:T104 Arg2:T18
+R26	Introduction Arg1:T103 Arg2:T18
 T105	Introducteur 9455 9464	se disait
 T106	Entite 9465 9477	la voyageuse
-R27	Introduction Arg1:T76 Arg2:T105	
-R28	Source Arg1:T76 Arg2:T106	
+R27	Introduction Arg1:T105 Arg2:T76
+R28	Source Arg1:T106 Arg2:T76
 T107	Citation 10531 10554;10587 11285	… Ah ! cela est évident ; comment puis-je en douter ? N'a-t-elle pas cessé tout à coup de m'écrire en apprenant le parti que j'avais pris ? Elle aura craint de se corrompre ou de se dégrader dans le contact d'une vie comme la mienne ! Ah ! Pauline ! elle m'aimait tant, et elle aurait rougi de moi ! … je ne sais plus que penser … À présent que je me sens si près d'elle, à présent que je suis sûre de la retrouver dans la situation où je l'ai connue, je ne peux plus résister au désir de la voir. Oh ! je la verrai, dût-elle me repousser ! Si elle le fait, que la honte en retombe sur elle ! J'aurai vaincu les justes défiances de mon orgueil, j'aurai été fidèle à la religion du passé ; c'est elle qui se sera parjurée !
 T108	Introducteur 10556 10562	ajouta
 T109	Entite 10574 10586	la voyageuse
-R29	Introduction Arg1:T107 Arg2:T108	
-R30	Source Arg1:T107 Arg2:T109	
+R29	Introduction Arg1:T108 Arg2:T107
+R30	Source Arg1:T109 Arg2:T107
 T110	Introducteur 12111 12117	disait
 T111	Entite 12118 12122	elle
-R31	Source Arg1:T20 Arg2:T111	
-R32	Introduction Arg1:T20 Arg2:T110	
+R31	Source Arg1:T111 Arg2:T20
+R32	Introduction Arg1:T110 Arg2:T20
 T112	Entite 13474 13493	la vieille servante
-R33	Source Arg1:T21 Arg2:T112	
+R33	Source Arg1:T112 Arg2:T21
 T113	Introducteur 13602 13615	avoir répondu
-R34	Introduction Arg1:T21 Arg2:T113	
+R34	Introduction Arg1:T113 Arg2:T21
 T114	Introducteur 17309 17316	s'écria
 T115	Entite 17317 17328	l'étrangère
-R35	Source Arg1:T22 Arg2:T115	
-R36	Introduction Arg1:T22 Arg2:T114	
+R35	Source Arg1:T115 Arg2:T22
+R36	Introduction Arg1:T114 Arg2:T22
 T116	Introducteur 17535 17538	dit
 T117	Entite 17545 17553	Laurence
-R37	Source Arg1:T23 Arg2:T117	
-R38	Introduction Arg1:T23 Arg2:T116	
+R37	Source Arg1:T117 Arg2:T23
+R38	Introduction Arg1:T116 Arg2:T23
 T118	Introducteur 17579 17587	répondit
 T119	Entite 17588 17595	Pauline
-R39	Source Arg1:T24 Arg2:T119	
-R40	Introduction Arg1:T24 Arg2:T118	
+R39	Source Arg1:T119 Arg2:T24
+R40	Introduction Arg1:T118 Arg2:T24
 T120	Introducteur 19643 19650	demanda
 T121	Entite 19651 19659	Laurence
-R41	Source Arg1:T27 Arg2:T121	
-R42	Introduction Arg1:T27 Arg2:T120	
+R41	Source Arg1:T121 Arg2:T27
+R42	Introduction Arg1:T120 Arg2:T27
 T122	Introducteur 19162 19168	reprit
 T123	Entite 19169 19176	Pauline
-R43	Introduction Arg1:T26 Arg2:T122	
-R44	Source Arg1:T26 Arg2:T123	
+R43	Introduction Arg1:T122 Arg2:T26
+R44	Source Arg1:T123 Arg2:T26
 T124	Entite 18766 18770	elle
 T125	Introducteur 18762 18765	dit
-R45	Introduction Arg1:T25 Arg2:T125	
-R46	Source Arg1:T25 Arg2:T124	
+R45	Introduction Arg1:T125 Arg2:T25
+R46	Source Arg1:T124 Arg2:T25
 T126	Introducteur 19672 19680	répondit
 T127	Entite 19681 19688	Pauline
-R47	Source Arg1:T28 Arg2:T127	
-R48	Introduction Arg1:T28 Arg2:T126	
+R47	Source Arg1:T127 Arg2:T28
+R48	Introduction Arg1:T126 Arg2:T28
 T31	Entite 20036 20040	elle
 T32	Introducteur 20045 20048	dit
-R49	Introduction Arg1:T30 Arg2:T32	
-R50	Source Arg1:T30 Arg2:T31	
+R49	Introduction Arg1:T32 Arg2:T30
+R50	Source Arg1:T31 Arg2:T30
 T33	Citation 20408 20424;20480 20601	— Il est évident que tu aurais été distraite par mille autres soins également sacrés, et qu'elle eût été plus à plaindre qu'elle ne l'est.
 T128	Introducteur 20426 20429	dit
 T129	Entite 20430 20434	elle
-R51	Introduction Arg1:T33 Arg2:T128	
-R52	Source Arg1:T33 Arg2:T129	
+R51	Introduction Arg1:T128 Arg2:T33
+R52	Source Arg1:T129 Arg2:T33
 T130	Citation 20603 20624	— Je l'entends remuer
 T131	Entite 20630 20637	Pauline
 T132	Introducteur 20626 20629	dit
-R53	Introduction Arg1:T130 Arg2:T132	
-R54	Source Arg1:T130 Arg2:T131	
+R53	Introduction Arg1:T132 Arg2:T130
+R54	Source Arg1:T131 Arg2:T130
 T133	Citation 21356 21365;21380 22761	— Causons ; ma mère se lève tard ordinairement. Nous avons quelques heures pour nous reconnaître ; nous trouverons bien un moyen de réveiller son ancienne amitié pour toi. Peut-être suffira-t-il de lui dire que tu es là ! Mais, dis-moi, Laurence, tu as pu croire que je te … Oh ! je ne dirai pas ce mot ! Te mépriser ! Quelle insulte tu m'as faite là ! Mais c'est ma faute après tout. J'aurais dû prévoir que tu concevrais des doutes sur mon affection, j'aurais dû t'expliquer mes motifs … Hélas ! c'était bien difficile à te faire comprendre ! Tu m'aurais accusée de faiblesse, quand, au contraire, il me fallait tant de force pour renoncer à t'écrire, à te suivre, dans ce monde inconnu où malgré moi, mon cœur a été si souvent te chercher ! Et puis je n'osais pas accuser ma mère ; je ne pouvais pas me décider à t'avouer les petitesses de son caractère et les préjugés de son esprit. J'en étais victime ; mais je rougissais de les raconter. Quand on est si loin de toute amitié, si seule, si triste, toute démarche difficile devient impossible. On s'observe, on se craint soi-même, et l'on se suicide dans la peur de se laisser mourir. À présent que te voilà près de moi, je retrouve toute ma confiance, tout mon abandon. Je te dirai tout. Mais d'abord parlons de toi, car mon existence est si monotone, si nulle, si pâle à côté de la tienne ! Que de choses tu dois avoir à me raconter !
 T134	Introducteur 21371 21374	dit
 T135	Entite 21375 21379	elle
-R55	Source Arg1:T133 Arg2:T135	
-R56	Introduction Arg1:T133 Arg2:T134	
+R55	Source Arg1:T135 Arg2:T133
+R56	Introduction Arg1:T134 Arg2:T133
 T136	Entite 25231 25246	la mère aveugle
 T137	Introducteur 25227 25230	dit
-R57	Source Arg1:T34 Arg2:T136	
-R58	Introduction Arg1:T34 Arg2:T137	
+R57	Source Arg1:T136 Arg2:T34
+R58	Introduction Arg1:T137 Arg2:T34
 T138	Introducteur 25569 25577	répondit
 T139	Entite 25578 25585	Pauline
-R59	Source Arg1:T35 Arg2:T139	
-R60	Introduction Arg1:T35 Arg2:T138	
+R59	Source Arg1:T139 Arg2:T35
+R60	Introduction Arg1:T138 Arg2:T35
 T140	Introducteur 25631 25637	reprit
 T141	Entite 25638 25647	l'aveugle
-R61	Introduction Arg1:T36 Arg2:T140	
-R62	Source Arg1:T36 Arg2:T141	
+R61	Introduction Arg1:T140 Arg2:T36
+R62	Source Arg1:T141 Arg2:T36
 T142	Introducteur 25681 25684	dit
 T143	Entite 25685 25692	Pauline
-R63	Introduction Arg1:T37 Arg2:T142	
-R64	Source Arg1:T37 Arg2:T143	
+R63	Introduction Arg1:T142 Arg2:T37
+R64	Source Arg1:T143 Arg2:T37
 T144	Introducteur 25792 25799	s'écria
 T145	Entite 25800 25809	l'aveugle
-R65	Source Arg1:T38 Arg2:T145	
-R66	Introduction Arg1:T38 Arg2:T144	
+R65	Source Arg1:T145 Arg2:T38
+R66	Introduction Arg1:T144 Arg2:T38
 T146	Introducteur 26167 26175	répondit
 T147	Entite 26176 26184	Laurence
-R67	Source Arg1:T39 Arg2:T147	
-R68	Introduction Arg1:T39 Arg2:T146	
+R67	Source Arg1:T147 Arg2:T39
+R68	Introduction Arg1:T146 Arg2:T39
 T148	Introducteur 26324 26327	dit
 T149	Entite 26328 26337	l'aveugle
-R69	Source Arg1:T40 Arg2:T149	
-R70	Introduction Arg1:T40 Arg2:T148	
+R69	Source Arg1:T149 Arg2:T40
+R70	Introduction Arg1:T148 Arg2:T40
 T150	Introducteur 26548 26555	demanda
 T151	Entite 26556 26564	Laurence
-R71	Source Arg1:T41 Arg2:T151	
-R72	Introduction Arg1:T41 Arg2:T150	
+R71	Source Arg1:T151 Arg2:T41
+R72	Introduction Arg1:T150 Arg2:T41
 T152	Entite 26815 26824	l'aveugle
-R73	Source Arg1:T43 Arg2:T152	
+R73	Source Arg1:T152 Arg2:T43
 T153	Introducteur 26915 26918	dit
-R74	Introduction Arg1:T43 Arg2:T153	
+R74	Introduction Arg1:T153 Arg2:T43
 T154	Introducteur 26594 26602	répondit
 T155	Entite 26603 26611	celle-ci
-R75	Source Arg1:T42 Arg2:T155	
-R76	Introduction Arg1:T42 Arg2:T154	
+R75	Source Arg1:T155 Arg2:T42
+R76	Introduction Arg1:T154 Arg2:T42
 T156	Introducteur 27088 27095	s'écria
 T157	Entite 27096 27103	Pauline
-R77	Source Arg1:T44 Arg2:T157	
-R78	Introduction Arg1:T44 Arg2:T156	
+R77	Source Arg1:T157 Arg2:T44
+R78	Introduction Arg1:T156 Arg2:T44
 T158	Introducteur 27301 27304	dit
 T159	Entite 27305 27309	elle
-R79	Introduction Arg1:T45 Arg2:T158	
-R80	Source Arg1:T45 Arg2:T159	
+R79	Introduction Arg1:T158 Arg2:T45
+R80	Source Arg1:T159 Arg2:T45
 T160	Introducteur 27416 27422	reprit
 T161	Entite 27423 27432	l'aveugle
 T162	Introducteur 27795 27803	répondit
 T163	Entite 27804 27813	l'actrice
-R81	Source Arg1:T47 Arg2:T163	
-R82	Introduction Arg1:T47 Arg2:T162	
+R81	Source Arg1:T163 Arg2:T47
+R82	Introduction Arg1:T162 Arg2:T47
 T164	Introducteur 27860 27863	dit
 T165	Entite 27877 27893	la bonne Pauline
-R83	Source Arg1:T48 Arg2:T165	
-R84	Introduction Arg1:T48 Arg2:T164	
+R83	Source Arg1:T165 Arg2:T48
+R84	Introduction Arg1:T164 Arg2:T48
 T166	Introducteur 27998 28001	dit
 T167	Entite 28002 28011	l'aveugle
-R85	Introduction Arg1:T49 Arg2:T166	
-R86	Source Arg1:T49 Arg2:T167	
+R85	Introduction Arg1:T166 Arg2:T49
+R86	Source Arg1:T167 Arg2:T49
 T168	Introducteur 34948 34954	ajouta
 T169	Entite 34957 34961	elle
-R87	Source Arg1:T50 Arg2:T169	
-R88	Introduction Arg1:T50 Arg2:T168	
+R87	Source Arg1:T169 Arg2:T50
+R88	Introduction Arg1:T168 Arg2:T50
 T170	Introducteur 35473 35481	répondit
 T171	Entite 35482 35490	Laurence
-R89	Introduction Arg1:T51 Arg2:T170	
-R90	Source Arg1:T51 Arg2:T171	
+R89	Introduction Arg1:T170 Arg2:T51
+R90	Source Arg1:T171 Arg2:T51
 T172	Introducteur 35987 35990	dit
 T173	Entite 35991 36000	l'aveugle
-R91	Source Arg1:T52 Arg2:T173	
-R92	Introduction Arg1:T52 Arg2:T172	
+R91	Source Arg1:T173 Arg2:T52
+R92	Introduction Arg1:T172 Arg2:T52
 T174	Introducteur 39198 39204	disait
 T175	Entite 39205 39213	le maire
-R93	Source Arg1:T53 Arg2:T175	
-R94	Introduction Arg1:T53 Arg2:T174	
+R93	Source Arg1:T175 Arg2:T53
+R94	Introduction Arg1:T174 Arg2:T53
 T176	Introducteur 39417 39423	disait
 T177	Entite 39424 39436	le substitut
-R95	Source Arg1:T54 Arg2:T177	
-R96	Introduction Arg1:T54 Arg2:T176	
+R95	Source Arg1:T177 Arg2:T54
+R96	Introduction Arg1:T176 Arg2:T54
 T178	Introducteur 39637 39646	reprenait
 T179	Entite 39647 39669	le magistrat pacifique
-R97	Source Arg1:T55 Arg2:T179	
-R98	Introduction Arg1:T55 Arg2:T178	
+R97	Source Arg1:T179 Arg2:T55
+R98	Introduction Arg1:T178 Arg2:T55
 T180	Introducteur 47067 47076	répondait
 T181	Entite 47077 47081	elle
-R99	Introduction Arg1:T56 Arg2:T180	
-R100	Source Arg1:T56 Arg2:T181	
+R99	Introduction Arg1:T180 Arg2:T56
+R100	Source Arg1:T181 Arg2:T56
 T182	Introducteur 50456 50464	répondit
 T183	Entite 50465 50472	Pauline
 T184	Introducteur 50035 50038	dit
 T185	Entite 50039 50043	elle
-R101	Source Arg1:T58 Arg2:T185	
-R102	Introduction Arg1:T58 Arg2:T184	
-R103	Introduction Arg1:T59 Arg2:T182	
-R104	Source Arg1:T59 Arg2:T183	
+R101	Source Arg1:T185 Arg2:T58
+R102	Introduction Arg1:T184 Arg2:T58
+R103	Introduction Arg1:T182 Arg2:T59
+R104	Source Arg1:T183 Arg2:T59
 T186	Introducteur 50517 50523	reprit
 T187	Entite 50524 50532	Laurence
-R105	Source Arg1:T60 Arg2:T187	
-R106	Introduction Arg1:T60 Arg2:T186	
+R105	Source Arg1:T187 Arg2:T60
+R106	Introduction Arg1:T186 Arg2:T60
 T188	Introducteur 54249 54257	répondit
 T189	Entite 54258 54265	Pauline
-R107	Source Arg1:T62 Arg2:T189	
-R108	Introduction Arg1:T62 Arg2:T188	
+R107	Source Arg1:T189 Arg2:T62
+R108	Introduction Arg1:T188 Arg2:T62
 T190	Entite 53688 53692	elle
 T191	Introducteur 53693 53700	s'écria
 T192	Citation 54071 54103;54155 54220	Si je ne te dis pas cela en grec c'est que je ne sais pas le grec … Je parie que tu le sais, toi …
 T61	Citation 53729 54003	— Mon Dieu, que tu es belle, ma chère enfant ! Les classiques qui m'ont voulu enseigner le rôle de Phèdre ne t'avaient pas vue ainsi. Voici une pose qui est toute l'école moderne ; mais c'est Phèdre tout entière … non pas la Phèdre de Racine peut-être, mais celle d'Euripide
 T193	Introducteur 54105 54111	ajouta
 T194	Entite 54112 54120	Laurence
-R109	Source Arg1:T192 Arg2:T194	
-R110	Introduction Arg1:T192 Arg2:T193	
+R109	Source Arg1:T194 Arg2:T192
+R110	Introduction Arg1:T193 Arg2:T192
 T195	Introducteur 54378 54385	s'écria
 T196	Entite 54386 54394	Laurence
-R111	Source Arg1:T63 Arg2:T196	
-R112	Introduction Arg1:T63 Arg2:T195	
+R111	Source Arg1:T196 Arg2:T63
+R112	Introduction Arg1:T195 Arg2:T63
 T197	Introducteur 54935 54938	dit
 T198	Entite 54941 54949	Laurence
-R113	Source Arg1:T64 Arg2:T198	
-R114	Introduction Arg1:T64 Arg2:T197	
+R113	Source Arg1:T198 Arg2:T64
+R114	Introduction Arg1:T197 Arg2:T64
 T199	Introducteur 55453 55458	pensa
 T200	Entite 55461 55465	elle
-R115	Source Arg1:T65 Arg2:T200	
-R116	Introduction Arg1:T65 Arg2:T199	
+R115	Source Arg1:T200 Arg2:T65
+R116	Introduction Arg1:T199 Arg2:T65
 T201	Introducteur 56214 56223	s'écriant
 T202	Entite 56119 56123	elle
-R117	Source Arg1:T66 Arg2:T202	
-R118	Introduction Arg1:T66 Arg2:T201	
+R117	Source Arg1:T202 Arg2:T66
+R118	Introduction Arg1:T201 Arg2:T66
 T203	Entite 56821 56825	elle
 T204	Introducteur 56826 56835	se disait
-R119	Introduction Arg1:T67 Arg2:T204	
-R120	Source Arg1:T67 Arg2:T203	
+R119	Introduction Arg1:T204 Arg2:T67
+R120	Source Arg1:T203 Arg2:T67
 T205	Entite 57099 57107	Laurence
 T206	Introducteur 57112 57115	dit
-R121	Introduction Arg1:T68 Arg2:T206	
-R122	Source Arg1:T68 Arg2:T205	
+R121	Introduction Arg1:T206 Arg2:T68
+R122	Source Arg1:T205 Arg2:T68
 T207	Introducteur 57768 57775	s'écria
 T208	Entite 57778 57782	elle
-R123	Source Arg1:T69 Arg2:T208	
-R124	Introduction Arg1:T69 Arg2:T207	
+R123	Source Arg1:T208 Arg2:T69
+R124	Introduction Arg1:T207 Arg2:T69
 T209	Introducteur 57906 57914	répondit
 T210	Entite 57915 57923	Laurence
-R125	Source Arg1:T70 Arg2:T210	
-R126	Introduction Arg1:T70 Arg2:T209	
+R125	Source Arg1:T210 Arg2:T70
+R126	Introduction Arg1:T209 Arg2:T70
 T211	Introducteur 58052 58055	dit
 T212	Entite 58056 58063	Pauline
-R127	Introduction Arg1:T71 Arg2:T211	
-R128	Source Arg1:T71 Arg2:T212	
+R127	Introduction Arg1:T211 Arg2:T71
+R128	Source Arg1:T212 Arg2:T71
 T213	Introducteur 58177 58184	s'écria
 T214	Entite 58185 58193	Laurence
-R129	Source Arg1:T72 Arg2:T214	
-R130	Introduction Arg1:T72 Arg2:T213	
+R129	Source Arg1:T214 Arg2:T72
+R130	Introduction Arg1:T213 Arg2:T72
 T215	Introducteur 59484 59487	dit
 T216	Entite 59488 59492	elle
-R131	Source Arg1:T73 Arg2:T216	
-R132	Introduction Arg1:T73 Arg2:T215	
+R131	Source Arg1:T216 Arg2:T73
+R132	Introduction Arg1:T215 Arg2:T73
