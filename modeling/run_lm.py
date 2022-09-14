@@ -233,12 +233,11 @@ def main():
             bioes_in_inference = ("E-" in s) or ("S-" in s)
             label_list = s.split('\n')
         parameters_fn = os.path.join(args.model_name_or_path,"parameters.txt")
-        assert os.path.isfile(parameters_fn), "Le fichier {0} est introuvable. Ce fichier doit indiquer les 3 paramètres --coref_pred, --replace_labels et --ignore_labels, si jamais ils ont été précisés lors de l'entraînement.".format(parameters_fn)
+        assert os.path.isfile(parameters_fn), "Le fichier {0} est introuvable. Ce fichier doit indiquer les 3 paramètres --coref_pred, --replace_labels et --ignore_labels, si jamais ils ont été précisés lors de l'entraînement. A défaut, il doit être vide.".format(parameters_fn)
         with open(parameters_fn,"r") as f:
             lines = f.read().split('\n')
+            coref_pred = '--coref_pred' in s
             for l in lines:
-                if '--coref_pred' in l:
-                    coref_pred = True
                 if '--replace_labels' in l:
                     replace_labels = l.split(' ')[-1]
                 if '--ignore_labels' in l:
@@ -258,12 +257,24 @@ def main():
                 labels_to_replace=replace_labels.split(',') if replace_labels!='' else [],
                 )
     
+    stream = os.popen(cmd.format(tsv_dir))
+    output = stream.read()
+    brat_label_list = ['O'] + [l for l in output.split('\n') if len(l)>2]
+    to_replace_with_O = []
+    if args.test:
+        for new_label in brat_label_list:
+            if new_label not in label_list:
+                 to_replace_with_O.append(new_label)
     if not args.inference and not args.test :
-        stream = os.popen(cmd.format(tsv_dir))
-        output = stream.read()
-        label_list = ['O'] + [l for l in output.split('\n') if len(l)>2]
+        label_list = brat_label_list
     print("Voici la liste des étiquettes que le modèle est appris à attribuer à chaque mot :")
     print(label_list)
+    print("==========")
+    
+    print("Voici la liste des paramètres utilisés pour l'apprentissage :")
+    print("--coref_pred "+str(coref_pred))
+    print("--replace_labels "+replace_labels)
+    print("--ignore_labels "+ignore_labels)
     print("==========")
     
     label_map: Dict[int, str] = {i: label for i, label in enumerate(label_list)}
@@ -289,9 +300,9 @@ def main():
         print("==========")
     titles = {'train':train_titles, 'dev':dev_titles, 'test':test_titles}
     if not coref_pred:
-        token_classification_task = NER(titles=titles)
+        token_classification_task = NER(titles=titles, to_replace_with_O=to_replace_with_O)
     else:
-        token_classification_task = COREF(titles=titles, no_ref_idx = args.max_seq_length-1)
+        token_classification_task = COREF(titles=titles, no_ref_idx = args.max_seq_length-1, to_replace_with_O=to_replace_with_O)
 
     config = AutoConfig.from_pretrained(
         args.config_name if args.config_name else args.model_name_or_path,

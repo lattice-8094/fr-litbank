@@ -206,11 +206,12 @@ class TokenClassificationTask:
         return features
 
 class NER(TokenClassificationTask):
-    def __init__(self, titles, label_idx=1):
+    def __init__(self, titles, label_idx=1, to_replace_with_O=[]):
         # in NER datasets, the last column is usually reserved for NER label
         # referent index is the second to last column (#marco)
         self.label_idx = label_idx
         self.titles = titles
+        self.to_replace_with_O = to_replace_with_O
 
     def read_examples_from_folder(self, tokenizer:AutoTokenizer,  data_dir, mode: Union[Split, str]) -> List[InputExample]:
         if isinstance(mode, Enum):
@@ -228,7 +229,10 @@ class NER(TokenClassificationTask):
                 labels = []
                 #refs = []
                 book_start = True
-                for line in f:
+                for l in f:
+                    line = l
+                    for label in self.to_replace_with_O:
+                        line = line.replace(label,'O')
                     if line.startswith("-DOCSTART-") or line == "" or line == "\n":
                         if words:
                             examples.append(InputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, book_start=book_start))

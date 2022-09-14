@@ -265,13 +265,14 @@ class TokenClassificationCorefTask:
         return features
 
 class COREF(TokenClassificationCorefTask):
-    def __init__(self, titles, no_ref_idx=0, label_idx=1, coref_idx=-1):
+    def __init__(self, titles, no_ref_idx=0, label_idx=1, coref_idx=-1, to_replace_with_O=[]):
         # in NER datasets, the last column is usually reserved for NER label
         # referent index is the second to last column (#marco)
         self.label_idx = label_idx
         self.coref_idx = coref_idx
         self.no_ref_idx = no_ref_idx
         self.titles = titles
+        self.to_replace_with_O = to_replace_with_O
 
     def read_examples_from_folder(self, tokenizer:AutoTokenizer,  data_dir, mode: Union[Split, str]) -> List[CorefInputExample]:
         if isinstance(mode, Split):
@@ -289,7 +290,10 @@ class COREF(TokenClassificationCorefTask):
                 labels = []
                 refs = []
                 book_start = True
-                for line in f:
+                for l in f:
+                    line = l
+                    for label in self.to_replace_with_O:
+                        line = line.replace(label,'O')
                     if line.startswith("-DOCSTART-") or line == "" or line == "\n":
                         if words:
                             examples.append(CorefInputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, refs=refs, book_start=book_start))
