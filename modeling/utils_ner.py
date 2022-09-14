@@ -206,12 +206,10 @@ class TokenClassificationTask:
         return features
 
 class NER(TokenClassificationTask):
-    def __init__(self, with_coref, titles, no_ref_idx=0, label_idx=1, coref_idx=-1):
+    def __init__(self, titles, label_idx=1):
         # in NER datasets, the last column is usually reserved for NER label
         # referent index is the second to last column (#marco)
         self.label_idx = label_idx
-        #self.coref_idx = coref_idx
-        #self.no_ref_idx = no_ref_idx
         self.titles = titles
 
     def read_examples_from_folder(self, tokenizer:AutoTokenizer,  data_dir, mode: Union[Split, str]) -> List[InputExample]:
@@ -244,11 +242,8 @@ class NER(TokenClassificationTask):
                         words.append(splits[0])
                         if len(splits) > 1:
                             labels.append(splits[self.label_idx] if len(splits)>2 else 'O')
-                            #ref = splits[self.coref_idx] if len(splits)>2 else '-'
-                            #refs.append(self.no_ref_idx if ref=='-' else ref)
                         else:
                             labels.append("O")
-                            #refs.append(self.no_ref_idx)
                 if words:
                     examples.append(InputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, book_start=book_start))
                     book_start=False

@@ -265,7 +265,7 @@ class TokenClassificationCorefTask:
         return features
 
 class COREF(TokenClassificationCorefTask):
-    def __init__(self, with_coref, titles, no_ref_idx=0, label_idx=1, coref_idx=-1):
+    def __init__(self, titles, no_ref_idx=0, label_idx=1, coref_idx=-1):
         # in NER datasets, the last column is usually reserved for NER label
         # referent index is the second to last column (#marco)
         self.label_idx = label_idx
@@ -309,10 +309,7 @@ class COREF(TokenClassificationCorefTask):
                             labels.append("O")
                             refs.append(self.no_ref_idx)
                 if words:
-                    if with_coref:
-                        examples.append(CorefInputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, refs=refs, book_start=book_start))
-                    else:
-                        examples.append(InputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, book_start=book_start))
+                    examples.append(CorefInputExample(guid=f"{mode}-{guid_index}", words=words, labels=labels, refs=refs, book_start=book_start))
                     book_start=False
         return examples
 

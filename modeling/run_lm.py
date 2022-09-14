@@ -289,9 +289,9 @@ def main():
         print("==========")
     titles = {'train':train_titles, 'dev':dev_titles, 'test':test_titles}
     if not coref_pred:
-        token_classification_task = NER(with_coref=coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
+        token_classification_task = NER(titles=titles)
     else:
-        token_classification_task = COREF(with_coref=coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
+        token_classification_task = COREF(titles=titles, no_ref_idx = args.max_seq_length-1)
 
     config = AutoConfig.from_pretrained(
         args.config_name if args.config_name else args.model_name_or_path,
