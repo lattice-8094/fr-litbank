@@ -278,9 +278,8 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
         for i in range(words_idx):
             if i in words:
                 ent = actual_ents[i]
-                ent = '' if ent == 'O' else ' '+ent
-                ref = (' <'+previous_refs[i]+'>') if i in previous_refs else ''
-                f.write(f'{words[i]}{ent}{ref}\n')
+                ref = ('<'+previous_refs[i]+'>') if i in previous_refs else ''
+                f.write(f'{words[i]}\t{ent}\t{ref}\n')
     
     ########################## ECRITURE DU FICHIER ANN #####################
     assert os.path.isfile(text_filename), "Le fichier {} est introuvable. Merci d'indiquer la bonne adresse dans l'option --data-dir".format(text_filename)
@@ -290,7 +289,7 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
         tsv_all_ents = []
         tsv_all_corefs = []
         for tsv_all in all_sentences:
-            lines = [l.split() for l in tsv_all.split('\n') if l!='']
+            lines = [l.split('\t') for l in tsv_all.split('\n') if l!='']
             tsv_all_words.append([l[0] for l in lines])
             tsv_all_ents.append([l[1] if len(l)>1 else 'O' for l in lines])
             tsv_all_corefs.append([' '.join(l[2:]) if len(l)>2 else None for l in lines])
