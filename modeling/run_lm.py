@@ -238,7 +238,6 @@ def main():
                 interval=args.chunk_int,
                 max_seq_len=args.max_seq_length,
                 bioes=bioes_in_inference if args.test or args.inference else not args.bio,
-                #NOOOOOOOOOOOOON PUTAIN
                 coref_pred=args.coref_pred,
                 labels_to_ignore=args.ignore_labels.split(','),
                 labels_to_replace=args.replace_labels.split(',') if args.replace_labels!='' else [],
