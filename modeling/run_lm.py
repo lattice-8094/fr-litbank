@@ -36,7 +36,7 @@ from transformers import (
 )
 from utils_coref import Split,TokenClassificationCorefDataset, COREF, CorefInputExample
 from utils_ner import TokenClassificationDataset, NER, InputExample
-from utils_modeling import CamembertForCoreference#,XLMRobertaForCoreference,FlaubertForCoreference
+from utils_modeling import CamembertForCoreference
 from transformers.tokenization_utils_base import BatchEncoding
 
 import datasets
@@ -482,7 +482,6 @@ def main():
             for i,w in enumerate(example.words):
                 w_idx_of_token.extend([i]*len(tokenizer.tokenize(w)))
             for i, (w, ner_p, coref_p) in enumerate(zip(example.words, example_ner_pred, example_coref_pred)):
-                #ref =  if  else 'O'
                 if coref_p!='-' and int(coref_p[1:-1])<len(w_idx_of_token):
                     ref = w_idx_of_token[int(coref_p[1:-1])]+1
                 else:

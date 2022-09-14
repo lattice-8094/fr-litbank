@@ -25,7 +25,6 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, should_contain
                                         l.split('\t')[1].split(' '))
                                         for l in f if l.startswith('T')]
                 content = [[idx ,c[0], c[1], c[-1]] for idx,c in content_with_limits]
-                #print(content)
                 df = pd.DataFrame(content, columns=['idx','ct','st','nd'])
                 df.st = pd.to_numeric(df.st)
                 df.nd = pd.to_numeric(df.nd)
@@ -36,7 +35,6 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, should_contain
                     else:
                         old,new=tuple(parts)
                         df.ct = df.ct.apply(lambda s : s.replace(old,new))
-                #df.ct = df.ct.apply(lambda s : s.split('_')[-1])
                 #On trie les entités selon par ordre croissant de début.
                 #Si plusieurs entités commencent en même temps,
                 #celle qui se termine en dernier passe en premier,
@@ -45,7 +43,6 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, should_contain
             with open(filename) as f:
                 if coref_pred:
                     links = [tuple(l.split('\t')[1]
-                                              #.replace('Coreference ','')
                                               .split(' ',maxsplit=1)[1]
                                               .replace('Arg1:','')
                                               .replace('Arg2:','')
@@ -214,8 +211,6 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
                 else:
                     refs[words_idx] = [ref_offset]
                 words_idx += 1
-                #writer.write(f'{w} {ent} {ref_offset} \n')
-            #writer.write('\n\n')
 
     def select_ent(lst, i):
         lst = [x for x in lst if x!='O']
