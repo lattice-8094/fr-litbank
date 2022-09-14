@@ -341,6 +341,9 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
                 while True:
                     if bioes:
                         counter_i+=1
+                        if counter_i>=len(ents):
+                            continues_after=False
+                            break
                         if ents[counter_i][0] == 'E':
                             ends_remaining-=1
                         if ents[counter_i]=='O' or (counter_i+1 < len(ents) and ents[counter_i+1]=='O'):

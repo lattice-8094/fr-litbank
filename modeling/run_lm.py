@@ -218,19 +218,7 @@ def main():
     assert not (args.inference and args.test) #inference and test cant both be set True
     # Set seed
     set_seed(42)
-
-    if not os.path.isdir(tsv_dir) or not args.use_cache:
-        chunk_brat(
-                args.data_dir,
-                tsv_dir,
-                should_contain_ents=not args.inference,
-                interval=args.chunk_int,
-                max_seq_len=args.max_seq_length,
-                bioes=not args.bio,
-                coref_pred=args.coref_pred,
-                labels_to_ignore=args.ignore_labels.split(','),
-                labels_to_replace=args.replace_labels.split(',') if args.replace_labels!='' else [],
-                )
+    
     
     cmd = "for i in `ls {}/*tsv`; do cut $i -f2; cut $i -f3 | awk '!a[$0]++'; done | sort | uniq | grep 'B\|I\|E\|S-'"
     if args.inference or args.test :
@@ -238,8 +226,25 @@ def main():
         assert os.path.isdir(args.model_name_or_path), "Le dossier {} n'existe pas encore. Si vous importez un modèle de HuggingFace, il faut l'entraîner sur votre tâche avant de l'utiliser pour faire de l'inférence, et donc enlever l'option --inference et/ou --test. Si, en revanche, vous voulez utiliser un modèle déjà entraîné sur cette tâche, il faut indiquer l'adresse de ce dernier dans l'option --model_name_or_path".format(args.model_name_or_path)
         assert os.path.isfile(labels_fn), "Le fichier {0} est introuvable. Ce fichier doit contenir les labels que le modèle a déjà été entraîné à prédire. Si vous disposez des données d'entraînement de celui-ci (sous format tsv), essayez d'exécuter cette commande puis de réessayer : \necho \"O\" > {0};{1} >> {0}\n en remplaçant XXXX par par le nom du dossier, il doit se terminer par \"_tsv\". Sinon, un ré-entraînement est nécessaire.".format(labels_fn,cmd.format('XXXX'))
         with open(labels_fn,"r") as f:
-            label_list = f.read().split('\n')
-    else:
+            s = f.read()
+            bioes_in_inference = ("E-" in s) or ("S-" in s)
+            label_list = s.split('\n')
+    
+    if not os.path.isdir(tsv_dir) or not args.use_cache:
+        chunk_brat(
+                args.data_dir,
+                tsv_dir,
+                should_contain_ents=not args.inference,
+                interval=args.chunk_int,
+                max_seq_len=args.max_seq_length,
+                bioes=bioes_in_inference if args.test or args.inference else not args.bio,
+                #NOOOOOOOOOOOOON PUTAIN
+                coref_pred=args.coref_pred,
+                labels_to_ignore=args.ignore_labels.split(','),
+                labels_to_replace=args.replace_labels.split(',') if args.replace_labels!='' else [],
+                )
+    
+    if not args.inference and not args.test :
         stream = os.popen(cmd.format(tsv_dir))
         output = stream.read()
         label_list = ['O'] + [l for l in output.split('\n') if len(l)>2]
@@ -443,7 +448,11 @@ def main():
         )
         if args.debug:
             test_dataset = test_dataset[:100]
-
+        
+        if args.bio and bioes_in_inference:
+            print("L'argument --bio a été négligé parce le modèle a été entraîné sur le format bioes.")
+        elif not args.bio and not bioes_in_inference:
+            print("Le modèle a été entraîne sur le format bio, mais vous n'avez pas entré l'argument --bio. Le mode bio a été automatiquement défini")
         test_dataloader = DataLoader(test_dataset, collate_fn=default_data_collator, batch_size=args.per_device_eval_batch_size)
         device = accelerator.device
         model.to(device)
@@ -462,7 +471,7 @@ def main():
                                                             no_ref_idx=args.max_seq_length-1 ,
                                                             epoch_number=-1,
                                                             muc_only=True,
-                                                            bioes=not args.bio,
+                                                            bioes=bioes_in_inference,
                                                             confidence_ratio=1,
                                                             dont_eval = args.inference,
                                                             coref_pred = args.coref_pred)
@@ -474,7 +483,11 @@ def main():
             for i,w in enumerate(example.words):
                 w_idx_of_token.extend([i]*len(tokenizer.tokenize(w)))
             for i, (w, ner_p, coref_p) in enumerate(zip(example.words, example_ner_pred, example_coref_pred)):
-                ref = w_idx_of_token[int(coref_p[1:-1])]+1 if coref_p!='-' else 'O'
+                #ref =  if  else 'O'
+                if coref_p!='-' and int(coref_p[1:-1])<len(w_idx_of_token):
+                    ref = w_idx_of_token[int(coref_p[1:-1])]+1
+                else:
+                    ref = 'O'
                 sentence.append((w,ner_p, str(ref)))
             sentences.append(sentence)
             if sent_idx+1== len(examples) or examples[sent_idx+1].book_start:
@@ -489,7 +502,7 @@ def main():
                         sentences=b,
                         filename=os.path.join(args.output_dir, f"{test_titles[book_idx]}.tsv"),
                         chunk_int=args.chunk_int,
-                        bioes=not args.bio,
+                        bioes=bioes_in_inference,
                         text_filename=os.path.join(args.data_dir, f"{test_titles[book_idx]}.txt")
                         )
 if __name__ == "__main__":
