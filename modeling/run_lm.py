@@ -36,7 +36,7 @@ from transformers import (
 )
 from utils_coref import Split,TokenClassificationCorefDataset, COREF, CorefInputExample
 from utils_ner import TokenClassificationDataset, NER, InputExample
-from utils_modeling import CamembertForCoreference
+from utils_modeling import CamembertForCoreference,XLMRobertaForCoreference,FlaubertForCoreference
 from transformers.tokenization_utils_base import BatchEncoding
 
 import datasets

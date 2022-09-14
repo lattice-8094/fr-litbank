@@ -5,7 +5,7 @@ from torch.nn import BCEWithLogitsLoss, CrossEntropyLoss, MSELoss
 from numpy import sqrt
 import random
 
-from transformers import RobertaModel, RobertaPreTrainedModel, CamembertConfig, XLMRobertaConfig
+from transformers import RobertaModel, RobertaPreTrainedModel, CamembertConfig, XLMRobertaConfig, FlaubertConfig,FlaubertModel
 from transformers.models.roberta.modeling_roberta import RobertaLayer
 from transformers.file_utils import ModelOutput
 from dataclasses import dataclass
@@ -139,4 +139,16 @@ class RobertaForCoreference(RobertaPreTrainedModel):
 class CamembertForCoreference(RobertaForCoreference):
     config_class = CamembertConfig
 
+#class XLMRobertaForCoreference(RobertaForCoreference):
+#    config_class = XLMRobertaConfig
+#
+#class FlaubertForCoreference(RobertaForCoreference):
+#    config_class = FlaubertConfig
 
+#class FlaubertForCoreference(XLMRobertaForCoreference):
+#    config_class = FlaubertConfig
+#    def __init__(self, config):
+#        super().__init__(config)
+#        self.transformer = FlaubertModel(config)
+#        # Initialize weights and apply final processing
+#        self.post_init()
