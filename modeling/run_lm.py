@@ -219,6 +219,9 @@ def main():
     # Set seed
     set_seed(42)
     
+    coref_pred = args.coref_pred
+    replace_labels = args.replace_labels  
+    ignore_labels = args.ignore_labels 
     
     cmd = "for i in `ls {}/*tsv`; do cut $i -f2; cut $i -f3 | awk '!a[$0]++'; done | sort | uniq | grep 'B\|I\|E\|S-'"
     if args.inference or args.test :
@@ -229,6 +232,18 @@ def main():
             s = f.read()
             bioes_in_inference = ("E-" in s) or ("S-" in s)
             label_list = s.split('\n')
+        parameters_fn = os.path.join(args.model_name_or_path,"parameters.txt")
+        assert os.path.isfile(parameters_fn), "Le fichier {0} est introuvable. Ce fichier doit indiquer les 3 paramètres --coref_pred, --replace_labels et --ignore_labels, si jamais ils ont été précisés lors de l'entraînement.".format(parameters_fn)
+        with open(parameters_fn,"r") as f:
+            lines = f.read().split('\n')
+            for l in lines:
+                if '--coref_pred' in l:
+                    coref_pred = True
+                if '--replace_labels' in l:
+                    replace_labels = l.split(' ')[-1]
+                if '--ignore_labels' in l:
+                    ignore_labels = l.split(' ')[-1]
+            
     
     if not os.path.isdir(tsv_dir) or not args.use_cache:
         chunk_brat(
@@ -238,9 +253,9 @@ def main():
                 interval=args.chunk_int,
                 max_seq_len=args.max_seq_length,
                 bioes=bioes_in_inference if args.test or args.inference else not args.bio,
-                coref_pred=args.coref_pred,
-                labels_to_ignore=args.ignore_labels.split(','),
-                labels_to_replace=args.replace_labels.split(',') if args.replace_labels!='' else [],
+                coref_pred=coref_pred,
+                labels_to_ignore=ignore_labels.split(','),
+                labels_to_replace=replace_labels.split(',') if replace_labels!='' else [],
                 )
     
     if not args.inference and not args.test :
@@ -273,10 +288,10 @@ def main():
             print(t)
         print("==========")
     titles = {'train':train_titles, 'dev':dev_titles, 'test':test_titles}
-    if not args.coref_pred:
-        token_classification_task = NER(with_coref=args.coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
+    if not coref_pred:
+        token_classification_task = NER(with_coref=coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
     else:
-        token_classification_task = COREF(with_coref=args.coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
+        token_classification_task = COREF(with_coref=coref_pred, titles=titles, no_ref_idx = args.max_seq_length-1)
 
     config = AutoConfig.from_pretrained(
         args.config_name if args.config_name else args.model_name_or_path,
@@ -285,7 +300,7 @@ def main():
         label2id={label: i for i, label in enumerate(label_list)},
         cache_dir=os.getenv('PYTORCH_TRANSFORMERS_CACHE'),
     )
-    bert_module = CamembertForCoreference if args.coref_pred else AutoModelForTokenClassification
+    bert_module = CamembertForCoreference if coref_pred else AutoModelForTokenClassification
     model = bert_module.from_pretrained(
         args.model_name_or_path,
         from_tf=bool(".ckpt" in args.model_name_or_path),
@@ -300,7 +315,7 @@ def main():
     if not os.path.isdir(args.output_dir):
         os.mkdir(args.output_dir)
 
-    dataset_module = TokenClassificationCorefDataset if args.coref_pred else TokenClassificationDataset
+    dataset_module = TokenClassificationCorefDataset if coref_pred else TokenClassificationDataset
     if not args.test and not args.inference:
         train_dataset = (
             dataset_module(
@@ -390,8 +405,8 @@ def main():
             adv = epoch/args.num_train_epochs
             for step, batch in enumerate(train_dataloader):
                 outputs = model(**batch)
-                ner_l = outputs.ner_loss if args.coref_pred else outputs.loss
-                coref_l = outputs.coref_loss if args.coref_pred else 0
+                ner_l = outputs.ner_loss if coref_pred else outputs.loss
+                coref_l = outputs.coref_loss if coref_pred else 0
                 loss = coref_l + ner_l
                 accelerator.backward(loss)
                 optimizer.step()
@@ -411,13 +426,13 @@ def main():
                     total_ner_loss=0
                 else:
                     total_loss+=loss.item()
-                    total_coref_loss+=coref_l.item() if args.coref_pred else 0
+                    total_coref_loss+=coref_l.item() if coref_pred else 0
                     total_ner_loss+=ner_l.item()
 
                 if completed_steps >= args.max_train_steps:
                     break
 
-            eval_l, _ = run_evaluation(model, eval_dataloader, accelerator, label_list, args.max_seq_length-1, epoch, bioes=not args.bio, muc_only=True, coref_pred=args.coref_pred)
+            eval_l, _ = run_evaluation(model, eval_dataloader, accelerator, label_list, args.max_seq_length-1, epoch, bioes=not args.bio, muc_only=True, coref_pred=coref_pred)
 
             #check_condition
             if args.output_dir is not None:
@@ -426,6 +441,10 @@ def main():
                 unwrapped_model.save_pretrained(args.output_dir, save_function=accelerator.save)
                 if accelerator.is_main_process:
                     tokenizer.save_pretrained(args.output_dir)
+                with open(os.path.join(args.output_dir, "parameters.txt"), "w+") as f:
+                    f.write("--coref_pred\n" if coref_pred else '')
+                    f.write("--replace_labels "+replace_labels+'\n')
+                    f.write("--ignore_labels "+ignore_labels)
                 with open(os.path.join(args.output_dir, "labels.txt"), "w+") as f:
                     f.write("\n".join(label_list))
                 accelerator.print(f"Current loss {eval_l} better than last best loss {min_coref_l}. Saved epoch {epoch} checkpoint.")
@@ -452,6 +471,7 @@ def main():
             print("L'argument --bio a été négligé parce le modèle a été entraîné sur le format bioes.")
         elif not args.bio and not bioes_in_inference:
             print("Le modèle a été entraîne sur le format bio, mais vous n'avez pas entré l'argument --bio. Le mode bio a été automatiquement défini")
+
         test_dataloader = DataLoader(test_dataset, collate_fn=default_data_collator, batch_size=args.per_device_eval_batch_size)
         device = accelerator.device
         model.to(device)
@@ -473,7 +493,7 @@ def main():
                                                             bioes=bioes_in_inference,
                                                             confidence_ratio=1,
                                                             dont_eval = args.inference,
-                                                            coref_pred = args.coref_pred)
+                                                            coref_pred = coref_pred)
         books = []
         sentences = []
         for sent_idx, (example, example_ner_pred, example_coref_pred) in enumerate(zip(examples, all_ner_preds, all_coref_preds)):

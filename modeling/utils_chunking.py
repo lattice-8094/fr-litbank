@@ -352,6 +352,9 @@ def write_chunk_and_all_predictions(sentences, filename, chunk_int, bioes, text_
                                     and ents[counter_i+2][0] in ['I','E'])
                             break
                     else:
+                        if counter_i>=len(ents):
+                            continues_after=False
+                            break
                         if ents[counter_i]=='O'\
                                 or ents[counter_i][0]=='B' and counter_i!=i and e[2:]==ents[counter_i][2:]:
                             continues_after = False
