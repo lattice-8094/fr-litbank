@@ -32,7 +32,7 @@ Exemples :\
 ```python modeling/run_lm.py --data_dir brat/entities --output_dir modele_test --ignore_labels None,TO_DISCUSS,OTHER,X --replace_labels NO_PER:PER,HIST:TIME,METALEPSE:PER```\
 ```python modeling/run_lm.py  --data_dir brat/coref --coref_pred --ignore_labels None,TO_DISCUSS,OTHER,X --replace_labels NO_PER:PER,HIST:TIME,METALEPSE:PER --output_dir modele_test```
 
-Evidemment, il faut bien noter les paramètres d'entraînement qu'on a précisés (tels que ```ignore_labels```, ```replace_labels```, ```coref_pred```), et les remettre également en utilisant le modèle pour l'évaluation ou l'inférence.
+L'état des paramètres ```ignore_labels```, ```replace_labels``` et ```coref_pred``` précisé lors de l'entaînement est automatiquement sauvegardé dans le fichier ```parameters.txt``` et pris en compte quand, plus tard, le modèle est utilisé pour l'évaluation ou l'inférence. Il est vivement conseillé de ne pas le modifier.
 
 ## Evaluation d'un modèle existant :
 Utilisation de base :\

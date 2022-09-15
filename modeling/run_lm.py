@@ -271,7 +271,7 @@ def main():
     print(label_list)
     print("==========")
     
-    print("Voici la liste des paramètres utilisés pour l'apprentissage :")
+    print("Voici la liste des paramètres utilisés pour l'apprentissage (et donc pour l'évaluation/inférence):")
     print("--coref_pred "+str(coref_pred))
     print("--replace_labels "+replace_labels)
     print("--ignore_labels "+ignore_labels)
