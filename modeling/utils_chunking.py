@@ -12,14 +12,14 @@ def chunk_brat(inputDir, outputDir, interval, bioes, max_seq_len, should_contain
     
     txt_files = glob.glob(os.path.join(inputDir, '*.txt'))
     assert len(txt_files)>0,'Le dossier {} ne contient pas de fichiers txt. L\'option --data_dir doit indiquer l\'adresse du répértoire contenant les fichier txt, et, en cas d\'entraînement, les fichiers ann.'.format(inputDir)
-    print("Conversion des fichiers brat en tsv : si vous avez déjà lancé cette commande et vous souhaitez seulement changer les hyper-paramètres d'entraînement, vous pouvez sauter cette étape dans le futur, en ajoutant l'option --use_cache à la commande exécutée.")
+    print("Conversion des fichiers brat en tsv : si vous avez déjà lancé cette commande et vous ne souhaitez plus refaire cette étape (par exemple pour relancer l'entraînement en changeant les hyper-paramètres) il faut ajouter l'option --use_cache à la commande exécutée.")
     #parcourir les fichier txt un par un
     for filename_txt in txt_files:
         # initialiser df, contenant les entités
         # et ann, contenant les annotations
         filename = filename_txt[:-3]+"ann"
         if should_contain_ents:
-            assert os.path.isfile(filename), 'Les fichiers ann sont introuvables. Vouliez vous plutôt réaliser une inférence ? Ajoutez --inference'
+            assert os.path.isfile(filename), 'Les fichiers ann sont introuvables. Vouliez-vous plutôt réaliser une inférence ? Ajoutez --inference'
             with open(filename) as f:
                 content_with_limits = [(l.split('\t')[0],
                                         l.split('\t')[1].split(' '))

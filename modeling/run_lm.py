@@ -235,7 +235,8 @@ def main():
         parameters_fn = os.path.join(args.model_name_or_path,"parameters.txt")
         assert os.path.isfile(parameters_fn), "Le fichier {0} est introuvable. Ce fichier doit indiquer les 3 paramètres --coref_pred, --replace_labels et --ignore_labels, si jamais ils ont été précisés lors de l'entraînement. A défaut, il doit être vide.".format(parameters_fn)
         with open(parameters_fn,"r") as f:
-            lines = f.read().split('\n')
+            s = f.read()
+            lines = s.split('\n')
             coref_pred = '--coref_pred' in s
             for l in lines:
                 if '--replace_labels' in l:
@@ -525,7 +526,8 @@ def main():
         if args.test:
             test_titles = sorted(token_classification_task.titles['test'])
         else:
-            test_titles = sorted(x.split('/')[-1][:-4] for x in glob.glob(tsv_dir+'/*.tsv'))
+            test_titles = sorted(x.split('/')[-1][:-4] for x in glob.glob(args.data_dir+'/*.txt'))
+        print(test_titles)
         for book_idx,b in enumerate(books):
             write_chunk_and_all_predictions(
                         sentences=b,
