@@ -526,9 +526,10 @@ def main():
         if args.test:
             test_titles = sorted(token_classification_task.titles['test'])
         else:
-            test_titles = sorted(x.split('/')[-1][:-4] for x in glob.glob(args.data_dir+'/*.txt'))
-        print(test_titles)
+            test_titles = sorted(x.split('/')[-1][:-4] for x in glob.glob(tsv_dir+'/*.tsv'))
         for book_idx,b in enumerate(books):
+            if not os.path.isfile(os.path.join(args.data_dir, f"{test_titles[book_idx]}.txt")):
+                continue
             write_chunk_and_all_predictions(
                         sentences=b,
                         filename=os.path.join(args.output_dir, f"{test_titles[book_idx]}.tsv"),
