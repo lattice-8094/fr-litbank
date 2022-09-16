@@ -195,6 +195,8 @@ def parse_args():
         raise ValueError("Merci de préciser le dossier contenant les données avec l'option --data_dir")
     if args.output_dir is None:
         raise ValueError("Merci de préciser le dossier de sortie avec l'option --output_dir")
+    if os.path.realpath(args.data_dir)==os.path.realpath(args.output_dir):
+        raise ValueError("Merci de préciser un dossier de sortie différent du dossier d'entrée")
 
     return args
 
