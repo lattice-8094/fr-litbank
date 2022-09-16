@@ -37,17 +37,11 @@ L'état des paramètres ```ignore_labels```, ```replace_labels``` et ```coref_pr
 ## Evaluation d'un modèle existant :
 Utilisation de base :\
 ```python run_lm.py --data_dir <dossier contenant les fichiers brat de test> --output_dir <dossier de sortie> --test --model_name_or_path <dossier contenant le modele>```\
-Exemples :\
-```python modeling/run_lm.py --data_dir brat/entities --output_dir output_test --test --model_name_or_path modele_test --ignore_labels None,TO_DISCUSS,OTHER,X --replace_labels NO_PER:PER,HIST:TIME,METALEPSE:PER```\
-```python modeling/run_lm.py  --data_dir brat/coref --coref_pred --ignore_labels None,TO_DISCUSS,OTHER,X --replace_labels NO_PER:PER,HIST:TIME,METALEPSE:PER --output_dir output_test --test --model_name_or_path modele_test ```
 
 
 ## Prédiction à l'aide d'un modèle existant :
 Utilisation de base :\
 ```python run_lm.py --data_dir <dossier contenant les fichiers txt> --output_dir <dossier de sortie> --inference --model_name_or_path <dossier contenant le modele>```\
-Exemples :\
-```python modeling/run_lm.py --data_dir brat/entities --output_dir output_test --inference --model_name_or_path modele_test --ignore_labels None,TO_DISCUSS,OTHER,X --replace_labels NO_PER:PER,HIST:TIME,METALEPSE:PER```\
-```python modeling/run_lm.py  --data_dir brat/coref --coref_pred --ignore_labels None,TO_DISCUSS,OTHER,X --replace_labels NO_PER:PER,HIST:TIME,METALEPSE:PER --output_dir output_test --inference --model_name_or_path modele_test ```
 
 ## Architecture
 Nous utilisons un modèle CamemBERT pré-entraîné et procédons à un *fine-tuning* de ses paramètres pour reconnaître les mentions et résoudre la coréférence au sein d'un *chunk* (fenêtre glissante) de $n=256$ tokens ; CamemBERT, comme la plupart des modèles basés sur une architecture *Transformer*, a une complexité quadratique en fonction de la longueur de séquence d'entrée et est donc plus adapté à des entrées de taille fixe relativement petite.
