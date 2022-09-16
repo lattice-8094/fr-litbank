@@ -38,14 +38,14 @@ L'état des paramètres ```ignore_labels```, ```replace_labels``` et ```coref_pr
 Une fois le modèle est entraîné, on peut évaluer sa performance sur d'autres données **annotées**, jamais vues en entraînement. Le mode test permet de mesurer cette performance, ainsi que de sauvegarder les prédictions du modèle dans le dossier de sortie, pour permettre une étude plus qualitative des performances du modèle. Pour l'activer, exécuter :\
 ```python run_lm.py --data_dir <dossier contenant les fichiers brat de test> --test --model_name_or_path <dossier contenant le modele> --output_dir <dossier de sortie> ```\
 Exemple :\
-```python run_lm.py --data_dir nouvelles_entites --test --model_name_or_path modele_X --output_dir predictions_de_modele_X ```
+```python run_lm.py --data_dir nouvelles_entites --test --model_name_or_path modele_X --output_dir predictions_du_modele_X_pour_nouvelles_entites ```
 
 
 ## Prédiction à l'aide d'un modèle existant :
 Un modèle entraîné et évalué peut enfin être utilisé pour l'inférence. C'est-à-dire, on peut l'utiliser pour détecter les entités (et leurs coréférences) sur de nouveaux textes. Aucune évaluation n'est faite, seule les prédictions du modèles sont produites dans le dossier de sortie.\
 ```python run_lm.py --data_dir <dossier contenant les fichiers txt> --inference --model_name_or_path <dossier contenant le modele> --output_dir <dossier de sortie>```\
 Exemple :\
-```python run_lm.py --data_dir harry_potter --inference --model_name_or_path modele_X --output_dir prediction_du_modele_X_pour_harry_potter ```
+```python run_lm.py --data_dir harry_potter --inference --model_name_or_path modele_X --output_dir predictions_du_modele_X_pour_harry_potter ```
 
 ## Architecture
 Nous utilisons un modèle CamemBERT pré-entraîné et procédons à un *fine-tuning* de ses paramètres pour reconnaître les mentions et résoudre la coréférence au sein d'un *chunk* (fenêtre glissante) de $n=256$ tokens ; CamemBERT, comme la plupart des modèles basés sur une architecture *Transformer*, a une complexité quadratique en fonction de la longueur de séquence d'entrée et est donc plus adapté à des entrées de taille fixe relativement petite.
