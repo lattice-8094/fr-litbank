@@ -217,12 +217,12 @@ if __name__ == '__main__':
 	# ne garder que ...
 	myListFilter={"METALEPSE":"m METALEPSE","NO_PER":"n NO_PER","PER":"p PER"}
 
-	myEntities = myListFilter
+	# à decommenter pour n'avoir que les PERS 
+	#myEntities = myListFilter
 	
 	# créer le schema (commun à tous les fichiers)
-	# myPathOut = "sacr/"
-	# myPathOut = "sacr_test/"
-	myPathOut = "sacr_coref/pers/"
+	# myPathOut = "sacr/Pers_entites"
+	myPathOut = "sacr/All_Entites/"
 	mySchema(myEntities,myPathOut)
 
 	for myFile in listFile:
