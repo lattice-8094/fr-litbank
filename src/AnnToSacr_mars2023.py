@@ -72,7 +72,7 @@ def annotToDic (myFile):
 				myListRef = list()
 				myListRef.append(myRef1)
 				myDicCoref[myRef2]=myListRef
-
+	
 	return myDicCoref,myDicAnnot
 
 def myTexteBrut(myFile):
@@ -214,10 +214,11 @@ if __name__ == '__main__':
 	# les entitées présentes dans les fichiers COREF/*.ann
 	myEntities={"None":"x None","X":"xx X","OTHER":"xxx OTHER","TO_DISCUSS":"xxxx TO_DISCUSS","METALEPSE":"m METALEPSE","NO_PER":"n NO_PER","PER":"p PER","LOC":"l LOC","FAC":"f FAC","TIME":"t TIME","ORG":"o ORG","VEH":"v VEH","GPE":"g GPE","HIST":"h HIST"}
 
-	# ne garder que ...
-	myListFilter={"METALEPSE":"m METALEPSE","NO_PER":"n NO_PER","PER":"p PER"}
+	myListFilter = myEntities
 
-	# à decommenter pour n'avoir que les PERS 
+	############## FILTRER ###########
+	# Decommenter les 2 lignes ci-dessous pour n'avoir que les PERS 
+	# myListFilter = {"METALEPSE":"m METALEPSE","NO_PER":"n NO_PER","PER":"p PER"}
 	#myEntities = myListFilter
 	
 	# créer le schema (commun à tous les fichiers)
