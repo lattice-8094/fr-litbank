@@ -42,7 +42,7 @@ def annotToDic (myFile):
 		#if annot.startswith("T"):
 		if len(myLine) == 3:
 
-			print(myRef[0])
+			#print(myRef[0])
 
 			if myRef[0]	in myListFilter :
 
@@ -72,7 +72,7 @@ def annotToDic (myFile):
 				myListRef = list()
 				myListRef.append(myRef1)
 				myDicCoref[myRef2]=myListRef
-	
+
 	return myDicCoref,myDicAnnot
 
 def myTexteBrut(myFile):
@@ -148,6 +148,7 @@ def createFileSacr(sorted_annot,myTxt):
 
 		if myAnnot in myEntities:
 			myAnnot=myEntities[myAnnot]
+
 		# une entité d'annotation n'est pas présente dans le schema
 		else:
 			print("!!! A AJOUTER dans le schema : " + str(myAnnot))
@@ -160,7 +161,11 @@ def createFileSacr(sorted_annot,myTxt):
 		# texte sans annotation
 		if borneInit != bornPreced :
 			#print(myTxt[bornPreced:borneInit-1])
-			myFileOut.write(myTxt[bornPreced:borneInit-1])
+			#myFileOut.write(myTxt[bornPreced:borneInit-1])
+			myFileOut.write(myTxt[bornPreced:borneInit])
+
+			# text ou manque l'apostrophe
+			#print(myTxt[bornPreced:borneInit])
 		
 		# texte annoté
 		# exemple : format du template d'annotation 
@@ -172,14 +177,13 @@ def createFileSacr(sorted_annot,myTxt):
 			ens_dic = nested_annot_sets[nested_annot[x]['set']]['ens']
 			for en in sorted(ens_dic, key=ens_dic.get):
 				written_nested.setdefault(ens_dic[en],'')
-				annotatedSeq = '{'+sorted_annot[ens_dic[en]][5]+':EN="'+myEntities[sorted_annot[ens_dic[en]][1]]+'" '+ sorted_annot[ens_dic[en]][4] +'}'
+				annotatedSeq = ' {'+sorted_annot[ens_dic[en]][5]+':EN="'+myEntities[sorted_annot[ens_dic[en]][1]]+'" '+ sorted_annot[ens_dic[en]][4] +'} '
 				mySacr = mySacr.replace(sorted_annot[ens_dic[en]][4], annotatedSeq)
+				
 			#print(mySacr)
 		else:
-			mySacr = '{'+myCoref+':EN="'+myAnnot+'" '+ mySeq +'}'
+			mySacr = '{'+myCoref+':EN="'+myAnnot+'" '+ mySeq +'} '
 
-		#mySacr = '{'+myCoref+':EN="'+myAnnot+'" '+ mySeq +'}'
-		# print(mySacr)
 		myFileOut.write(mySacr)
 
 		bornPreced=borneFinale
@@ -214,15 +218,15 @@ if __name__ == '__main__':
 	# les entitées présentes dans les fichiers COREF/*.ann
 	myEntities={"None":"x None","X":"xx X","OTHER":"xxx OTHER","TO_DISCUSS":"xxxx TO_DISCUSS","METALEPSE":"m METALEPSE","NO_PER":"n NO_PER","PER":"p PER","LOC":"l LOC","FAC":"f FAC","TIME":"t TIME","ORG":"o ORG","VEH":"v VEH","GPE":"g GPE","HIST":"h HIST"}
 
+	# ne garder que ...
+	myListFilter={"METALEPSE":"m METALEPSE","NO_PER":"n NO_PER","PER":"p PER"}
 	myListFilter = myEntities
 
-	############## FILTRER ###########
-	# Decommenter les 2 lignes ci-dessous pour n'avoir que les PERS 
-	# myListFilter = {"METALEPSE":"m METALEPSE","NO_PER":"n NO_PER","PER":"p PER"}
+	# à decommenter pour n'avoir que les PERS 
 	#myEntities = myListFilter
 	
 	# créer le schema (commun à tous les fichiers)
-	# myPathOut = "sacr/Pers_entites"
+	#myPathOut = "sacr/Pers_Entites/"
 	myPathOut = "sacr/All_Entites/"
 	mySchema(myEntities,myPathOut)
 
