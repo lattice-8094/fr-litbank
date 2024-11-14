@@ -1,15 +1,18 @@
 # fr-litbank
 ## A french LitBank corpus
 
-We use a subset of the files from [Democrat](https://www.ortolang.fr/market/corpora/democrat/) project to establish a corpus of french litterature from the XIX and XX centuries. The files are annotated following the [LitBank](https://github.com/dbamman/litbank) guidelines.
+We use a subset of the files from [Democrat](https://www.ortolang.fr/market/corpora/democrat/) project to establish a corpus of french litterature from the XIX and XX centuries. In addition to this selection from Democrat,
+we added two short stories by Balzac (\*).The files are annotated following the [LitBank](https://github.com/dbamman/litbank) guidelines.
 
 
 ## Corpus
 
 |Date|Author|Title|
 |---|---|---|
+|1830|Honoré de Balzac|La maison du chat qui pelote*|
 |1830|Honoré de Balzac|Sarrasine|
 |1836|Théophile Gautier|La morte amoureuse|
+|1837|Honoré de Balzac|La maison Nucingen*|
 |1841|George Sand|Pauline|
 |1856|Victor Cousin|Madame de Hautefort|ok|ok|			
 |1863|Théophile Gautier|Le capitaine Fracasse|
