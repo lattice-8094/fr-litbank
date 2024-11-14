@@ -63,9 +63,6 @@ we added two short stories by Balzac (\*).The files are annotated following the 
    │       ├── Bouvard_et_Pecuchet.tsv
    │       ├── Le_capitaine_Fracasse.tsv
    │       ├── ...
-   ├── doc
-   │   ├── Manuel_Annotation.pdf
-   │   ├── ...
 
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
