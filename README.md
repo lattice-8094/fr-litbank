@@ -66,25 +66,6 @@ we added two short stories by Balzac (\*).The files are annotated following the 
    ├── doc
    │   ├── Manuel_Annotation.pdf
    │   ├── ...
-   ├── MODEL_NLP-schema
-   │   ├── BOUVARDETPECUCHET_NLP.aam
-   │   ├── ...
-   ├── sacr
-   │   ├── Bouvard_et_Pecuchet.sacr
-   │   ├── Le_capitaine_Fracasse.sacr
-   │   ├── ...
-   ├── src
-   │   ├── nameFile.py
-   ├── urs
-   │   ├── BOUVARDETPECUCHET.urs
-   │   ├── CAPITAINEFRACASSE.urs
-   │   ├── ...
-   ├── urs-xml
-   │   ├── bouvardetpecuchet-urs.xml
-   │   ├── capitainefracasse-urs.xml
-   │   ├── ...
-   └── xml
-
 
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
