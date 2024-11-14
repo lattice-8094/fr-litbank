@@ -30,10 +30,8 @@ we added two short stories by Balzac (\*).The files are annotated following the 
 |1926|Marguerite Audoux|De la ville au moulin|
 |1937|Marguerite Audoux|Douce Lumière|
 
-## Project structure
-
-<small>                                
-   .
+## Project structure                                        
+   .                                        
    ├── brat
    │   ├── citations
    │   │   ├── Bouvard_et_Pecuchet.ann
@@ -88,7 +86,6 @@ we added two short stories by Balzac (\*).The files are annotated following the 
        ├── bouvardetpecuchet.xml
        ├── capitainefracasse.xml
        ├── ...
-</small>
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 <br/>fr-litBank is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 2.0 France (CC BY-SA 2.0 FR)</a>.
