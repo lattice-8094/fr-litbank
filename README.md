@@ -1,4 +1,5 @@
-# fr-litbank
+# fr-litbank is an archival repository (2024) - see [litbank-fr repository](https://github.com/lattice-8094/litbank/tree/main/litbank-fr)
+
 ## A french LitBank corpus
 
 We use a subset of the files from [Democrat](https://www.ortolang.fr/market/corpora/democrat/) project to establish a corpus of french litterature from the XIX and XX centuries. In addition to this selection from Democrat,
